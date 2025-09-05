@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,148 songs - 11 day 20 hr 42 min
+5,150 songs - 11 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2674,6 +2674,7 @@
 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 | 2025-05-01 | 2025-05-10 |
 | [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 | 2025-05-02 | 2025-05-10 |
 | [Lose Yourself](https://open.spotify.com/track/1aY01tu4m9PTJKq93DLm2T) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6) | 3:30 | 2024-10-11 | 2024-10-19 |
+| [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-04 |  |
 | [Losing Streak](https://open.spotify.com/track/6LSEgCV2yeAfsArEeRcIfy) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Hard Headed Woman](https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw) | 4:09 | 2025-08-29 |  |
 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 | 2024-06-06 | 2024-06-15 |
 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 | 2025-08-07 | 2025-08-16 |
@@ -4447,6 +4448,7 @@
 | [the cost of giving up](https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [the cost of giving up](https://open.spotify.com/album/5ny4Uho4k56brX600DlYiF) | 3:17 | 2024-10-18 | 2024-10-26 |
 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 | 2024-08-09 | 2024-08-20 |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-24 | 2024-06-12 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2024-09-14 |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-06 | 2024-06-15 |
 | [The End Can Be As Good As The Start](https://open.spotify.com/track/2kfKjjShtQY5tzF1ZNrbXh) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [The End Can Be As Good As The Start](https://open.spotify.com/album/2wQsDRsgB5wfvQZxleDvPm) | 3:28 | 2024-07-11 | 2024-07-19 |

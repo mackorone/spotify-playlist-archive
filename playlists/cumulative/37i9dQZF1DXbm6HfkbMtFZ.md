@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-645 songs - 1 day 14 hr 44 min
+646 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Black Rain](https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 3:51 | 2021-12-16 |  |
 | [Body and Soul](https://open.spotify.com/track/4H7MtvOMVqg7ZwQYKHSBaJ) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Shout](https://open.spotify.com/album/0mz8H39pXZPUOpkU7dL48p) | 2:46 | 2022-02-04 | 2022-04-19 |
 | [Bold Soul Sister, Bold Soul Brother](https://open.spotify.com/track/255kBW0xbGQtP48RLrB0I6) | [The Black On White Affair](https://open.spotify.com/artist/1C69pZ4adGi3zgz4tojXSb) | [Kearney Barton: Architect of the Northwest Sound](https://open.spotify.com/album/5AkmoYc5XFDpJaJzstO9HS) | 2:56 | 2022-03-30 | 2022-04-17 |
-| [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 | 2025-04-29 |  |
+| [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 | 2025-04-29 | 2025-09-05 |
+| [Break My Heart](https://open.spotify.com/track/6idk9z9D8kfNYFantFL2gC) | [The McCharmlys](https://open.spotify.com/artist/09l8Gk7eyahBzFK3FxnFAT) | [Break My Heart](https://open.spotify.com/album/0fWTjBxLoIvd6EHGGnsBhH) | 2:41 | 2025-08-29 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5EoYc5wvRYOtkudLfrjsL1) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:44 | 2022-07-26 | 2022-10-04 |
 | [Bring It On Home to Me \- Remastered](https://open.spotify.com/track/2IIOqpwQKULhxixat2Pz7N) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best Of Sam Cooke](https://open.spotify.com/album/1PSzHNimmvs0fEZnVmFpCL) | 2:42 | 2022-03-30 | 2022-04-20 |
 | [Bring Me Back](https://open.spotify.com/track/7yQcfL2lLJJfUpWdLF02nU) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Bring Me Back](https://open.spotify.com/album/75ZWyvcUSRFzZjy0vvCAgY) | 3:36 | 2021-12-30 | 2022-04-16 |

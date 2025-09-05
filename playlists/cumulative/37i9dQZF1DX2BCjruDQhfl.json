@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "AAN JE DENK",
+        "url": "https://open.spotify.com/album/1HSi7BDC3J1w63sQRgP2OW"
+      },
+      "artists": [
+        {
+          "name": "Ruskey",
+          "url": "https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "AAN JE DENK",
+      "url": "https://open.spotify.com/track/7IKfJxyYqBptxmc8vZ0JmI"
+    },
+    {
+      "album": {
         "name": "Aesthetic",
         "url": "https://open.spotify.com/album/3gJunBF6Rr9Nwi3CbdDM01"
       },
@@ -673,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
@@ -982,7 +1018,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 173164,
       "name": "Hoelang",
       "url": "https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 199224,
       "name": "J'ai zay\u00e9",
       "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
@@ -1344,7 +1380,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 193189,
       "name": "Laat Me Niet Alleen",
       "url": "https://open.spotify.com/track/5uMbT7PsSe6KkGU4DgpDv5"
@@ -1530,7 +1566,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 130000,
       "name": "Manipulatie",
       "url": "https://open.spotify.com/track/6zV4NmnsRaXyhYzsQEwAGA"
@@ -2536,6 +2572,28 @@
       "duration_ms": 182352,
       "name": "Waterkant",
       "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
+    },
+    {
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "wgft (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
     },
     {
       "album": {

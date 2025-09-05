@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,631,052 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,631,234 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 |
 | 100 | [Sidereal](https://open.spotify.com/track/33GOlIUNB1pfTt6t0SRvbY) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Eclipse EP](https://open.spotify.com/album/17BPnxcuU7SPIjmPBiCrm9) | 5:08 |
 
-Snapshot ID: `AAAAAJNa1+Zs+yLdD6AU5APmSmIrpC4p`
+Snapshot ID: `AAAAALdMVh7kYUDMk74xqDeEeljD+XZx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13088,
+  "num_followers": 13095,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACrVmcdBCMY8Xd0k6n1PXPt",
+  "snapshot_id": "aLeFAAAAAACiEndMipYhyk3ZAJSvRwmK",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 229345,
+      "name": "Non Living Thing (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
@@ -255,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAILER (feat. Victony)",
-        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "JAILER (feat. Victony)",
-      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
       },
@@ -295,6 +331,26 @@
       "duration_ms": 201433,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/6rjkvAGpEeyf67CAM9Lb09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JAILER (feat. Victony)",
+        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "JAILER (feat. Victony)",
+      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
     },
     {
       "added_at": null,
@@ -403,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
         {
@@ -412,13 +468,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella (feat. Kwesi Arthur)",
-      "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -443,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
       "artists": [
         {
@@ -452,13 +508,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
+      "duration_ms": 185196,
+      "name": "Coachella (feat. Kwesi Arthur)",
+      "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
     },
     {
       "added_at": null,
@@ -707,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Not The Tape, Sorry 4 The Wait II",
         "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
@@ -739,26 +815,6 @@
       "duration_ms": 166800,
       "name": "Illuminati",
       "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -807,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epistles of Mama",
-        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207150,
-      "name": "Odo Bi",
-      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me and You",
         "url": "https://open.spotify.com/album/4bdvQMcOC8KnIpuluKKd2s"
       },
@@ -843,6 +879,26 @@
       "duration_ms": 226768,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/37gtSmRBMvDcC93rWch2by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
     },
     {
       "added_at": null,
@@ -967,70 +1023,6 @@
       "duration_ms": 240506,
       "name": "Bayla Trap (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/3c6ak2NO54ZOamcelzcDZB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best of Both Worlds",
-        "url": "https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC"
-      },
-      "artists": [
-        {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Sweetio - Club Mix",
-      "url": "https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3ry6ANZkcZXquT987YlIQr"
-      },
-      "artists": [
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 171154,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5lGt6rkHVoQbqnUUjsDEM4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Makoma",
-        "url": "https://open.spotify.com/album/5g6ob8kQyPRGIr0g9UQRlm"
-      },
-      "artists": [
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bosom P-Yung",
-          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Makoma",
-      "url": "https://open.spotify.com/track/4Tmh5bkwWsz0oJpkSaOOm8"
     }
   ],
   "unique_name": "This Is Sarkodie",

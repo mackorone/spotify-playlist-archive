@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 ### [me right now](https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX)
 
-> Die Playlist, die dich fühlt\. Cover: sombr
+> Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,649 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,631 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 2 | [Überleben](https://open.spotify.com/track/1WM1kGoxRHH5MP1UTZjCpw) | [Karina Rose](https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI), [Ikarus](https://open.spotify.com/artist/29BJmaevQUqxzDGD9sXcef) | [Überleben](https://open.spotify.com/album/1Ohf8UCgLSirVqNWd7HSUd) | 2:48 |
 | 3 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 |
-| 4 | [so heiß](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 |
+| 4 | [so heiß \(feat\. Cro\)](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß \(feat\. Cro\)](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 |
 | 5 | [ESTA NOCHE](https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [ESTA NOCHE](https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA) | 1:08 |
 | 6 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 |
 | 7 | [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 |
 | 100 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
 
-Snapshot ID: `AAAAAN2qFZXamB+GdVeWvam/4gpOiPvc`
+Snapshot ID: `AAAAAAqJ6dSnPaApP+CO9r5v7/U3Q8TR`

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 87340,
+  "num_followers": 87431,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACs8g5g8OObfg7HBnwDouo/",
+  "snapshot_id": "aLeFAAAAAAB820BWv8qYpNSelv9e0IW1",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Johnny Monteiro",
+          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
+        }
+      ],
+      "duration_ms": 240032,
+      "name": "Vivendo Avan\u00e7ado",
+      "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -535,34 +563,6 @@
       "duration_ms": 201190,
       "name": "Dispiei",
       "url": "https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Johnny Monteiro",
-          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
-        }
-      ],
-      "duration_ms": 240032,
-      "name": "Vivendo Avan\u00e7ado",
-      "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"
     },
     {
       "added_at": null,

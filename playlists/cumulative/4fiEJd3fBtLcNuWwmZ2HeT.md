@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-341 songs - 19 hr 23 min
+343 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,8 +126,10 @@
 | [Ma Chérie](https://open.spotify.com/track/2O4LWfEyyuOl4QYXzycM0r) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Ma Chérie](https://open.spotify.com/album/0R46cDVpHKEJn5VkVnjpEN) | 5:23 | 2025-08-28 |  |
 | [Machina in the brain \(feat\. KAFU\)](https://open.spotify.com/track/41IgLoZErPsZzAixZ8Mk7s) | [Folicca](https://open.spotify.com/artist/5XIRgaAF0uYvbtnKQNPOoW), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [City in the Brain](https://open.spotify.com/album/5W9zumOT376LaVx9Dj23wR) | 2:24 | 2024-07-01 |  |
 | [machrie](https://open.spotify.com/track/6PRDtyRDRPdxE2y07h33Z3) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [ma chérie](https://open.spotify.com/album/1WtQZclqIcvSPTtutuSPuo) | 5:23 | 2025-08-20 | 2025-08-29 |
+| [Marionette](https://open.spotify.com/track/6yrpCHRQ3ToeqhuT9L1il9) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 3:53 | 2025-09-04 |  |
 | [Mass Destruction \-Reload\-](https://open.spotify.com/track/3m058FygvgfkxiUcLIDXKK) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/0ou89XjahTvTUm8mJu8go6) | 3:05 | 2024-04-11 |  |
 | [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 | 2024-12-24 |  |
+| [Memento mori](https://open.spotify.com/track/7oiupGD4I9Qq3d9fvWq3iq) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 5:30 | 2025-09-04 |  |
 | [Memories of You \-Reload\-](https://open.spotify.com/track/3R0XM0PaKh2R7WYF8UJYe0) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 6:39 | 2024-06-03 |  |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-03 |  |
 | [MOKA!](https://open.spotify.com/track/2aN0K87tjNGCdNRUKZ4qJ9) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [MOKA!](https://open.spotify.com/album/1kZWcaTRXJkn5jy0oawRsX) | 2:31 | 2024-04-06 |  |

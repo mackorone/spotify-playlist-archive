@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 155462,
+  "num_followers": 155479,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAD7ODfMmVpApUIW2cbLWzZp",
+  "snapshot_id": "aLeFAAAAAAAQH1LA2MCFMXX4kW2XfAzZ",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+        "name": "Polvo Y Nada",
+        "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Ojal\u00e1 Sea Cierto",
-      "url": "https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb"
+      "duration_ms": 214505,
+      "name": "Polvo Y Nada",
+      "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Y Nada",
-        "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 214505,
-      "name": "Polvo Y Nada",
-      "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
+      "duration_ms": 156386,
+      "name": "Ojal\u00e1 Sea Cierto",
+      "url": "https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -623,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Con El Alma En La Mano",
-      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 185736,
       "name": "De Frente Al Mar",
       "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Nunca Cambies",
-      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215224,
+      "name": "La Reyna de Mi Hogar - Remastered 2025",
+      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 215224,
-      "name": "La Reyna de Mi Hogar - Remastered 2025",
-      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     },
     {
       "added_at": null,

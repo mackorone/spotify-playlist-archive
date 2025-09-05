@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172945,
+      "name": "AMAMI X CHI SONO (feat. Glocky & Side Baby)",
+      "url": "https://open.spotify.com/track/5CJAiulAVTOSlcCqxTBzac"
+    },
+    {
+      "album": {
         "name": "AMICI COME PRIMA",
         "url": "https://open.spotify.com/album/3ZsMXYg498oH28Jx7KkZUN"
       },
@@ -930,7 +956,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 204631,
       "name": "B\u00c2TIMENT (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6gLwwaugbT9d8gxae5FZw3"
@@ -992,7 +1018,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 105302,
       "name": "CARO INVERNO",
       "url": "https://open.spotify.com/track/1VErUT5dtBVxqtkdIFrCNM"
@@ -1244,7 +1270,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 230200,
       "name": "Come Finir\u00e0?",
       "url": "https://open.spotify.com/track/5sSwJbF5jJHGMiSOOfNl8V"
@@ -1362,7 +1388,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 181304,
       "name": "COSE CHE NON POSSO DIRE (feat. nayt)",
       "url": "https://open.spotify.com/track/6yEWgijF4AxZPnzXK4bcS9"
@@ -1972,7 +1998,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 158896,
       "name": "FERRARI BIANCA (feat. Astro, Tony Boy)",
       "url": "https://open.spotify.com/track/7bwTvJZlF36cnyIevQf6OY"
@@ -2842,7 +2868,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 178263,
       "name": "Lunarossa (feat. Mahmood)",
       "url": "https://open.spotify.com/track/1AtoFMtluLDiW0nZd7skxp"
@@ -3072,6 +3098,28 @@
       "duration_ms": 156827,
       "name": "Marciapiede (con Tony Effe, Ernia & Rkomi)",
       "url": "https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr"
+    },
+    {
+      "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "MAYDAY (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/7Eey0kKPfatUEQeldGmxAj"
     },
     {
       "album": {
@@ -3712,7 +3760,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 175053,
       "name": "Notte Blu II (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/7w5rrPfl0zH0vwTHeMHa2J"
@@ -5334,7 +5382,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 155744,
       "name": "Vita Divertida (feat. Sayf)",
       "url": "https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98"

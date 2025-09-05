@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,982 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,054 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 69 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 70 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |
 | 71 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
-| 72 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
-| 73 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
+| 72 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
+| 73 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
 | 74 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
 | 75 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 

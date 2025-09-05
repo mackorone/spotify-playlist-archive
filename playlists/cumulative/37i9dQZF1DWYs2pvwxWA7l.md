@@ -2,9 +2,9 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: SPINALL
+> The hottest Afropop records on the planet\.  Cover: Rema
 
-690 songs - 1 day 11 hr 9 min
+691 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,10 +238,11 @@
 | [Forever](https://open.spotify.com/track/2mIBy2thG7ZiECOf7tkUuG) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Forever](https://open.spotify.com/album/1LRJODu1aDERRG75QiCpwH) | 4:22 | 2023-02-09 | 2023-02-17 |
 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 | 2024-06-07 | 2024-08-30 |
 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 | 2025-08-22 |  |
-| [FORWARD](https://open.spotify.com/track/4ZAbuBPil114GUR8bzANI8) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 2:19 | 2025-08-29 |  |
+| [FORWARD](https://open.spotify.com/track/4ZAbuBPil114GUR8bzANI8) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 2:19 | 2025-08-29 | 2025-09-05 |
 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 | 2022-10-13 | 2022-11-14 |
 | [Free Me](https://open.spotify.com/track/6F4nVv0ZJl7yEi9N5ZVMFK) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:33 | 2023-01-19 | 2023-02-17 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 | 2025-07-28 |
+| [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-09-05 |  |
 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-14 | 2025-02-28 |
 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 | 2024-10-04 | 2024-10-26 |
 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 | 2025-07-04 |  |

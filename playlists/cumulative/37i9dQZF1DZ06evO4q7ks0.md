@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 34 min
+60 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,14 @@
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-03-08 |  |
 | [Dreams \- Acoustic Version](https://open.spotify.com/track/2J8xeXaGojJxfwlgcXISez) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:24 | 2025-03-08 |  |
 | [Electric Blue](https://open.spotify.com/track/2ZlWxTsv7PE6jGmEYB7s2E) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:50 | 2025-03-08 |  |
-| [Empty](https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:26 | 2025-07-27 |  |
+| [Empty](https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:26 | 2025-07-27 | 2025-09-05 |
+| [Empty \- 2025 Remastered](https://open.spotify.com/track/3HrNcD2Loy5lKsNZ3069Ye) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:25 | 2025-09-05 |  |
+| [Everything I Said](https://open.spotify.com/track/3dw1KIS8K5INsoeEXHQDdy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:52 | 2025-09-05 |  |
 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 | 2025-03-08 |  |
 | [Go Your Own Way](https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(The Complete Sessions 1996\-1997\)](https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU) | 4:01 | 2025-03-08 |  |
 | [Hollywood](https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 5:07 | 2025-03-08 |  |
-| [I Can't Be With You](https://open.spotify.com/track/4X0YxjnkSXCeVcYOkkAsyH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:07 | 2025-03-08 |  |
+| [I Can't Be With You](https://open.spotify.com/track/4X0YxjnkSXCeVcYOkkAsyH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:07 | 2025-03-08 | 2025-09-05 |
+| [I Can't Be With You \- 2025 Remastered](https://open.spotify.com/track/2JNllfsg7fMN18EJB9VrLT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:07 | 2025-09-05 |  |
 | [I Can't Be With You \- Live From Woodstock '94](https://open.spotify.com/track/2Tj9Il1Tm14WAyqeXEh0NB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [I Can't Be With You / Zombie](https://open.spotify.com/album/7iCCgdnZEdN0fJE1pxQ7yv) | 3:12 | 2025-07-27 | 2025-08-23 |
 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 | 2025-03-08 |  |
 | [I'm Still Remembering](https://open.spotify.com/track/47y3AKHvLSLgZ1doP75cbU) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:48 | 2025-04-05 |  |
@@ -55,7 +58,7 @@
 | [Twenty One](https://open.spotify.com/track/3ZTO8o61SH2xmdVACrGaUk) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:07 | 2025-03-08 |  |
 | [Wake Me When It's Over](https://open.spotify.com/track/1dJv9b2YEVMsWmtqcTskYr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:11 | 2025-03-08 |  |
 | [Wanted](https://open.spotify.com/track/7rvF9L6OiGeKI6SgZYQIg7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 2:08 | 2025-03-08 |  |
-| [Warchild](https://open.spotify.com/track/5vqHVUhEjHGnZBvfxedBZ8) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 3:50 | 2025-03-08 |  |
+| [Warchild](https://open.spotify.com/track/5vqHVUhEjHGnZBvfxedBZ8) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 3:50 | 2025-03-08 | 2025-09-05 |
 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 | 2025-03-08 |  |
 | [When You're Gone](https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:52 | 2025-03-08 |  |
 | [When You're Gone](https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:56 | 2025-03-08 |  |

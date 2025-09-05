@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10109,
+  "num_followers": 10111,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAB9FrvObo8jadO5ds9mzaBO",
+  "snapshot_id": "aLeFAAAAAABl6sC82m5iGfWEM0wOhyFS",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Echame a Mi la Culpa",
-      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
+      "duration_ms": 211017,
+      "name": "Esta Tristeza Mia",
+      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 211017,
-      "name": "Esta Tristeza Mia",
-      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
+      "duration_ms": 230034,
+      "name": "Echame a Mi la Culpa",
+      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voy A Pedirte Perd\u00f3n",
         "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+        "name": "Tesoros de Coleccion, Vol. 2",
+        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
+      "duration_ms": 190720,
+      "name": "Amor de Ayer",
+      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 196075,
       "name": "El Libro de los Dioses",
       "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tesoros de Coleccion, Vol. 2",
-        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Amor de Ayer",
-      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     },
     {
       "added_at": null,

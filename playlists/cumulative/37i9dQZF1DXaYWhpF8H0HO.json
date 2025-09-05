@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "high",
+        "url": "https://open.spotify.com/album/0iFVOKmAwq5QxHoZIlsDLD"
+      },
+      "artists": [
+        {
+          "name": "Olivia Pardede",
+          "url": "https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218239,
+      "name": "high",
+      "url": "https://open.spotify.com/track/3idBrMwX5Kcl5e2LOEW8P3"
+    },
+    {
+      "album": {
         "name": "HIGHER",
         "url": "https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3"
       },

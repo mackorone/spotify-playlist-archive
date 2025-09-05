@@ -1,6 +1,6 @@
 {
   "description": "Josh Ross and Country hits that will have you singing every word.",
-  "num_followers": 452482,
+  "num_followers": 452489,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "I'm A Little Crazy",
-        "url": "https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 199060,
-      "name": "I'm A Little Crazy",
-      "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "I'm A Little Crazy",
+        "url": "https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 199060,
+      "name": "I'm A Little Crazy",
+      "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
       },
       "artists": [
         {
@@ -1312,25 +1312,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
       },
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "This World's A Giant",
-        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 216160,
-      "name": "This World's A Giant",
-      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2025-07-04 04:00:22",

@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  NJ
 
-435 songs - 22 hr 18 min
+436 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 | 2025-01-31 |
 | [Sherifkante Chayakada](https://open.spotify.com/track/56vwyV0VgmBac81kZrXZOx) | [Mufaz Mazoodh](https://open.spotify.com/artist/3NRQFz2FXMgwmFSVZarjeL), [Hashim Azeez](https://open.spotify.com/artist/5bkSNzOpTyAdAKWIgg83OO) | [Sherifkante Chayakada](https://open.spotify.com/album/1413nRXSio7CuXk0s47muS) | 2:31 | 2025-08-11 |  |
 | [SHERIYA](https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [SHERIYA](https://open.spotify.com/album/2nRL1WRRHLRvBQf0k4afL6) | 3:11 | 2025-08-18 |  |
+| [Shoka Mookam \(From "Lokah \- Chapter 1: Chandra"\)](https://open.spotify.com/track/2kpfmXe5dI5ePEc5SUO7xJ) | [JK](https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Pranavam Sasi](https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R), [J'mymah](https://open.spotify.com/artist/7mSZcWRisV5SjhJesvrpyv), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Shoka Mookam \(From "Lokah \- Chapter 1: Chandra"\)](https://open.spotify.com/album/5UsIrkHj3EXL4bvh8FMvRk) | 4:08 | 2025-09-04 |  |
 | [SHUNDA MANDI](https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [SHUNDA MANDI](https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1) | 3:14 | 2025-02-14 | 2025-08-19 |
 | [SHYAMAMEGHAM FLIP](https://open.spotify.com/track/0jRsSbuZB8dn7WaA0PWwv8) | [sbz](https://open.spotify.com/artist/2EC0tDOTNvSKhy4aIcCb3K), [Damu](https://open.spotify.com/artist/7k1i2xUFqw8QE5fWguf6VB) | [SHYAMAMEGHAM FLIP](https://open.spotify.com/album/5xDv4ECF6244FORV84wOg2) | 3:24 | 2025-03-17 | 2025-04-17 |
 | [Sick](https://open.spotify.com/track/5bZHyKP7mcpsNwkrf7kdf1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Sick](https://open.spotify.com/album/3PHA1aZSacKObHWf8EeFBK) | 3:19 | 2025-06-12 |  |

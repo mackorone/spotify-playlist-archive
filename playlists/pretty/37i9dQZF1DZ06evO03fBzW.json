@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 116793,
+  "num_followers": 116806,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABlesTR2P1Xwq8GKOrs6xiC",
+  "snapshot_id": "aLeFAAAAAABqob7uOjkMZbMNImMJ1TqE",
   "tracks": [
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Open The Gate",
-      "url": "https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv"
+      "duration_ms": 277333,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/0Dmi9ykcCODLhBnB3OvWOv"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 277333,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/0Dmi9ykcCODLhBnB3OvWOv"
+      "duration_ms": 221000,
+      "name": "Open The Gate",
+      "url": "https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Push And Shove (Deluxe Version)",
         "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Beacon Street Collection",
         "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
       },
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 305533,
-      "name": "Greener Pastures",
-      "url": "https://open.spotify.com/track/70VN6p2gStJqBSpbwIiTXV"
+      "duration_ms": 246106,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Stricken",
-      "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"
+      "duration_ms": 305533,
+      "name": "Greener Pastures",
+      "url": "https://open.spotify.com/track/70VN6p2gStJqBSpbwIiTXV"
     },
     {
       "added_at": null,

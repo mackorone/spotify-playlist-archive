@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 80333,
+  "num_followers": 80343,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Reggaeto\u00f1erito",
         "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "HACE TIEMPO",
-        "url": "https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE"
-      },
-      "artists": [
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "HACE TIEMPO",
-      "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Perdon\u00e9monos",
         "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "HACE TIEMPO",
+        "url": "https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "HACE TIEMPO",
+      "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 185988,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "ESO VA",
+        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "ESO VA",
+      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "ENTE VIRTUAL",
         "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 191323,
       "name": "X Ti Lo Digo",
       "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "ESO VA",
-        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "ESO VA",
-      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> GIMS & Jul au sommet de la première playlist de France.
+> BLACKPINK au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384,533 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,384,649 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 |
 | 50 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 
-Snapshot ID: `AAAAALTe7pAsd3sA0ufS/vZaT3aKj2GH`
+Snapshot ID: `AAAAABfq8VM7+Lo4JmCwzUbn5j5bc8dG`

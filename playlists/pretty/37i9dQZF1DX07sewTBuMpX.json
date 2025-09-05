@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 140160,
+  "num_followers": 140164,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "180",
+      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "Your Season",
         "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 152000,
       "name": "Your Season",
       "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "180",
-      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "GIRLS WANNA HAVE FUN",
-        "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 208471,
-      "name": "GIRLS WANNA HAVE FUN",
-      "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Alsjeblieft",
         "url": "https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 200453,
       "name": "Alsjeblieft",
       "url": "https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "GIRLS WANNA HAVE FUN",
+        "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "MARADONA",
-        "url": "https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 145363,
-      "name": "MARADONA",
-      "url": "https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 174063,
       "name": "Stars",
       "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "MARADONA",
+        "url": "https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 145363,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "\u00c7a c'est bien",
-        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "\u00c7a c'est bien",
-      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Ik Heb Je",
         "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 194347,
       "name": "Ik Heb Je (met Henkie T & Yssi SB)",
       "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "\u00c7a c'est bien",
+        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "\u00c7a c'est bien",
+      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
     },
     {
       "added_at": "2025-07-17 22:00:46",

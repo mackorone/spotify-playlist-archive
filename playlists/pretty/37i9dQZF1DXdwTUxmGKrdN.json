@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 449152,
+  "num_followers": 449227,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 266145,
       "name": "Groovin' J",
       "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Global Kiss",
-        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 304266,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Global Kiss",
+        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 358213,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Listen to This",
         "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253577,
       "name": "Listen to This",
       "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Smooth Grooves, Vol. 2",
-        "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Southern Style",
-      "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
       },
@@ -939,6 +923,38 @@
       "duration_ms": 302814,
       "name": "10. Soul Dream",
       "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Smooth Grooves, Vol. 2",
+        "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "Southern Style",
+      "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -959,22 +975,6 @@
       "duration_ms": 221186,
       "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
       "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "J Funk City",
+        "url": "https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 248765,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/50yHsbUVQzuEy22CxpFutn"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "J Funk City",
-        "url": "https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 248765,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/50yHsbUVQzuEy22CxpFutn"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Soulfully",
         "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250000,
       "name": "Soulfully",
       "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
+      },
+      "artists": [
+        {
+          "name": "Jay Beckenstein",
+          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Eye Contact",
-        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
-      },
-      "artists": [
-        {
-          "name": "Jay Beckenstein",
-          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Eye Contact",
-      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "On the Up and Up",
         "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 248412,
       "name": "On the Up and Up",
       "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Midnight Daydream",
+        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dave & The HouseCall Band",
+          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Cecil's Groove",
+      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Midnight Daydream",
-        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
       },
       "artists": [
         {
-          "name": "Dr. Dave & The HouseCall Band",
-          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 261266,
-      "name": "Cecil's Groove",
-      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1379,22 +1395,6 @@
       "duration_ms": 237029,
       "name": "Velvet Groove",
       "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
-      },
-      "artists": [
-        {
-          "name": "Thom Rotella",
-          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Only 4 One Moment",
-      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Sippin the Yak",
         "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 267913,
       "name": "Sippin the Yak",
       "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Only 4 One Moment",
+      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 245925,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 257933,
       "name": "Say What's on Your Mind",
       "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/1wcjK3JMtVRUXQO6DbAOK8"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/1UI2LPIMEHa3ptE0S5Ta1O"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 295156,
       "name": "Stockholm Summer",
       "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/1wcjK3JMtVRUXQO6DbAOK8"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/1UI2LPIMEHa3ptE0S5Ta1O"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2055,6 +2055,46 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
+      },
+      "artists": [
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        },
+        {
+          "name": "Jordan Love",
+          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+        }
+      ],
+      "duration_ms": 257410,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE"
+      },
+      "artists": [
+        {
+          "name": "Dee Lucas",
+          "url": "https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb"
+        },
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        }
+      ],
+      "duration_ms": 226221,
+      "name": "Tried and True",
+      "url": "https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -2075,18 +2115,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "JJ's Strut (Radio Single)",
-        "url": "https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN"
+        "name": "Romance the Rain",
+        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
       },
       "artists": [
         {
-          "name": "Ragan Whiteside",
-          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         }
       ],
-      "duration_ms": 251702,
-      "name": "JJ's Strut (Radio Single)",
-      "url": "https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI"
+      "duration_ms": 289356,
+      "name": "Romance The Rain",
+      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2107,18 +2147,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Romance the Rain",
-        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
+        "name": "JJ's Strut (Radio Single)",
+        "url": "https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN"
       },
       "artists": [
         {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+          "name": "Ragan Whiteside",
+          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
         }
       ],
-      "duration_ms": 289356,
-      "name": "Romance The Rain",
-      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
+      "duration_ms": 251702,
+      "name": "JJ's Strut (Radio Single)",
+      "url": "https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2191,22 +2231,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Lavish",
-        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq"
       },
       "artists": [
         {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        },
-        {
-          "name": "Jordan Love",
-          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9"
         }
       ],
-      "duration_ms": 257410,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+      "duration_ms": 201866,
+      "name": "Floating World",
+      "url": "https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2231,22 +2267,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Floating World",
-      "url": "https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
       },
@@ -2259,26 +2279,6 @@
       "duration_ms": 313973,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "The Time Is Now",
-        "url": "https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE"
-      },
-      "artists": [
-        {
-          "name": "Dee Lucas",
-          "url": "https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb"
-        },
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        }
-      ],
-      "duration_ms": 226221,
-      "name": "Tried and True",
-      "url": "https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 242073,
-      "name": "Sky Watcher",
-      "url": "https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/0tlHys9ZKolT2bHG8CvgyT"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 307506,
       "name": "All Jazzed Up (And Nowhere To Go)",
       "url": "https://open.spotify.com/track/5vR4spKdyVXwP5DFUkM6yD"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 242073,
+      "name": "Sky Watcher",
+      "url": "https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "#1 Smooth Jazz Radio Hits!",
+        "url": "https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "High Five",
+      "url": "https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Unified",
         "url": "https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 262640,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "#1 Smooth Jazz Radio Hits!",
-        "url": "https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "High Five",
-      "url": "https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk"
     },
     {
       "added_at": "2025-03-03 14:06:45",

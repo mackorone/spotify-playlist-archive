@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-458 songs - 23 hr 8 min
+464 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 | 2025-05-28 |
 | [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-08 | 2023-11-17 |
 | [Content](https://open.spotify.com/track/2MTVB0XC95DWr8TXfSdcoG) | [Pax Tecum](https://open.spotify.com/artist/0eSl9lM1rby3VXZwc8MZIx) | [Content](https://open.spotify.com/album/085va1eBLEbM3vGWdOphso) | 3:34 | 2025-05-20 |  |
+| [Contentment](https://open.spotify.com/track/5ERFLJ0hgTIc8OlSC8jJlJ) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Contentment](https://open.spotify.com/album/37Xxf7ySwjP9jWam41Gxle) | 2:32 | 2025-09-04 |  |
 | [Corona Australis](https://open.spotify.com/track/3t7PyiRynlv3olTaf9906F) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Corona Australis](https://open.spotify.com/album/43wBTB1BVwVTc7SuM5HYdP) | 2:50 | 2025-08-20 |  |
 | [Cosmic Bliss](https://open.spotify.com/track/2yf19OMz4MKWGBOIBbwa6F) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Millennia](https://open.spotify.com/album/2pMVuu8bvtwcxk9mCWl6Xb) | 3:25 | 2023-04-21 | 2024-09-07 |
 | [Cosmic Echoes](https://open.spotify.com/track/21HoNmuQv0a3aJgK0SjFuk) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Cosmic Echoes](https://open.spotify.com/album/0U1lYG3UMFrtPizDDyRIW2) | 2:54 | 2025-01-29 |  |
@@ -120,6 +121,7 @@
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2021-12-08 | 2024-08-22 |
 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 | 2021-12-08 | 2023-08-12 |
 | [Ecstasies of Desire](https://open.spotify.com/track/4oTsb3maEdFoUeQpLdKUT7) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Ecstasies of Desire](https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF) | 2:31 | 2021-12-08 | 2024-09-07 |
+| [Effimero](https://open.spotify.com/track/2gBTT0x8FYQ8nfxYGUqQoy) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Effimero](https://open.spotify.com/album/3Cff3wflTxaArjbDOHFhzt) | 2:28 | 2025-09-04 |  |
 | [Elba](https://open.spotify.com/track/5snLmzdl7l5t4vSwG19sYG) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 2:31 | 2021-12-08 | 2024-08-03 |
 | [Eloudius](https://open.spotify.com/track/6Tl3O3dPqIdJWljoejNX0k) | [Moktar Debous](https://open.spotify.com/artist/5gWsUOTIaNIIeyOaxfxA91) | [Eloudius](https://open.spotify.com/album/7CXUaUcv3ItOmL7W4Edhed) | 3:11 | 2023-11-24 |  |
 | [Ember](https://open.spotify.com/track/4S5toB90ctODOMnjNCVxPC) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Ember](https://open.spotify.com/album/4GSOn8WOct28B3GfJnXUQP) | 3:09 | 2024-11-19 |  |
@@ -142,9 +144,11 @@
 | [Exception](https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Exception](https://open.spotify.com/album/3vZpbegph3K927kNhJglme) | 2:53 | 2024-08-21 | 2024-10-19 |
 | [Exhale](https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Exhale](https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN) | 2:58 | 2024-11-19 |  |
 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 | 2022-12-30 | 2024-08-03 |
+| [Eyes Closed](https://open.spotify.com/track/0JeRN8elvMsXf9CmSgzW54) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Eyes Closed](https://open.spotify.com/album/1kUh51UWkC5f4Tvr98QkJN) | 2:51 | 2025-09-04 |  |
 | [Fading Out](https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 4:07 | 2021-12-08 | 2024-11-20 |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2021-12-08 | 2022-10-01 |
 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-12-08 | 2024-07-20 |
+| [Faraway Repose](https://open.spotify.com/track/0BHBN2kDpohqRg9OUuIMLZ) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Faraway Repose](https://open.spotify.com/album/6OYMtnujMkzAxCGciBpmGg) | 2:15 | 2025-09-04 |  |
 | [Faultlines](https://open.spotify.com/track/0Wymw9BQ9YsNHzxt6JA9Rq) | [Monkey Mindset](https://open.spotify.com/artist/2KPrFZKaTyCOJBNf0RZYRl) | [Faultlines](https://open.spotify.com/album/3u6eul6yylGjvyskOY10ig) | 3:01 | 2024-05-10 |  |
 | [Felidae](https://open.spotify.com/track/7H5oDBhgS4ZKeHGUgD0jpo) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Felidae](https://open.spotify.com/album/4P3ktQbRMauYGxulDJd2ai) | 3:07 | 2021-12-08 | 2025-03-12 |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2021-12-08 | 2022-12-10 |
@@ -154,6 +158,7 @@
 | [Foliage](https://open.spotify.com/track/0rVFLkB8YWaET3lwNnCsVF) | [Wate Way](https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR) | [Foliage](https://open.spotify.com/album/0iHWuRkhVKW1buqJmtCncO) | 2:30 | 2022-12-09 | 2025-04-16 |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 | 2025-04-16 |
 | [For a moment](https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [For a moment](https://open.spotify.com/album/3HehNoOYCGkTWlZiQ3MBLC) | 2:39 | 2024-06-11 |  |
+| [Forgotten](https://open.spotify.com/track/0uwq4VguM8mPW5g7f4txoc) | [Lueen](https://open.spotify.com/artist/10HEL8QA7QwnoF7NqrtNal) | [Forgotten](https://open.spotify.com/album/46o0eZ7nT1df45XzHIJizV) | 3:11 | 2025-09-04 |  |
 | [Frames](https://open.spotify.com/track/7oZDgCYMmiO7KtNZqdL7XK) | [Enriched Soil](https://open.spotify.com/artist/6QIvdc5uWqnizXrxLaNF88) | [Frames](https://open.spotify.com/album/0AXyhZMJTNEhvDtreOdrp5) | 2:37 | 2024-04-29 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-12-08 | 2024-08-03 |
 | [Frozen Grasslands](https://open.spotify.com/track/2QN55dmp583TNohDVITyfz) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 2:38 | 2021-12-08 | 2024-09-07 |
@@ -360,6 +365,7 @@
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2021-12-08 | 2025-05-21 |
 | [Sheet Music](https://open.spotify.com/track/4RJjvH6i3XyXfBQ9jeJzCo) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Sheet Music](https://open.spotify.com/album/0ptAKUT3vnG0Tx4U7Egm2a) | 3:00 | 2024-04-04 |  |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2021-12-08 | 2024-08-03 |
+| [Shift of Attention](https://open.spotify.com/track/66EzXdty2mIEpEM1vwuX8m) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Shift of Attention](https://open.spotify.com/album/4QEligwKA6YIzCe7aHuclb) | 3:10 | 2025-09-04 |  |
 | [Signs](https://open.spotify.com/track/0s0XDmu4WwVfkCxqit6nDO) | [L'air](https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd) | [Signs](https://open.spotify.com/album/3WsLc45xgRUjymIN6F9Gl4) | 2:36 | 2025-01-14 |  |
 | [Silver Lining](https://open.spotify.com/track/7HXHvYpXHY3mQbFfgs2pzE) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Silver Lining](https://open.spotify.com/album/3fHEDIRa5nMkNmeHtu6nNA) | 2:49 | 2025-05-20 |  |
 | [Silver Winds](https://open.spotify.com/track/3VoT51d5b2w2egRxnGtC83) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Silver Winds](https://open.spotify.com/album/2TQLkrinPboSmmPCPtwqRe) | 2:29 | 2025-07-08 |  |

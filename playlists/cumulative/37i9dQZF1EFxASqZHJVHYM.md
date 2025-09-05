@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 7 hr 48 min
+142 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 | 2025-01-09 |  |
 | [A.L.L.T.Y\. 3 \(feat\. Baby Goth\)](https://open.spotify.com/track/5pEp4XIoJminFDCAfmqdY5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Baby Goth](https://open.spotify.com/artist/0ECSmon1BUiFnB33X24eLI) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 3:00 | 2024-01-29 |  |
 | [All Facts \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7F8HytQB1qAku7ZXTIhcYe) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [B\-Sides](https://open.spotify.com/album/2C6M7W3XuPMko8hacm8Ibo) | 3:00 | 2024-01-29 |  |
+| [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 | 2025-09-04 |  |
 | [All of Mine \(feat\. DRAM\)](https://open.spotify.com/track/4gqRjOdPwt6tFFZHFzywtE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Thinking Out Loud](https://open.spotify.com/album/3jNB3NFlcze1sc2BuK4Rlj) | 4:02 | 2025-01-09 | 2025-04-12 |
 | [An manchen Tagen](https://open.spotify.com/track/1dDfYa4z5wI5f4FRVHntPE) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Fakker Lifestyle \(Special Version\)](https://open.spotify.com/album/1BAxhUqy15dEizKBEs26Uv) | 3:24 | 2025-02-13 | 2025-04-12 |
 | [Avirex](https://open.spotify.com/track/76hTV1J1bMqLtLLSaT0oUt) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Planet Megatron](https://open.spotify.com/album/56RF57X1QdoA5qtGaLoKfP) | 2:44 | 2025-01-09 | 2025-04-12 |

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO?si=fqM7FOF0TyGe\_Q8OgNmSqA">Walter Chilambo</a>
 
-266 songs - 22 hr 57 min
+269 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Huniachi](https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI), [Gloria Muliro](https://open.spotify.com/artist/39RtliJb0Ct7KASnAK5Vs2) | [Usifadhaike](https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2) | 5:02 | 2022-06-24 |  |
 | [I Have Tasted / Nimeonja](https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 6:50 | 2022-06-24 | 2025-07-25 |
 | [I'm Blessed](https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [I'm Blessed](https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK) | 4:20 | 2023-05-05 | 2025-02-21 |
+| [In You](https://open.spotify.com/track/4rM07tKFQ0Ea4dCt61VOjm) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [In You](https://open.spotify.com/album/47yMhmltyGzvT6mYOrkP8l) | 7:50 | 2025-09-05 |  |
 | [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 | 2022-06-24 | 2023-05-21 |
 | [Jina La Yesu](https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp) | 4:55 | 2022-06-24 | 2023-06-09 |
 | [Kaa nami \- Live](https://open.spotify.com/track/1HvTdfzq7dLfaNcnyI59Wu) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Kaa nami \(Live\)](https://open.spotify.com/album/1MKs6gINHwZoh3mRAGxF4d) | 13:39 | 2024-10-11 |  |
@@ -205,6 +206,7 @@
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 | 2024-05-03 |
 | [Si Unaniona](https://open.spotify.com/track/4nqiZJNrjtWnJ3uBhHe5zM) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Si Unaniona](https://open.spotify.com/album/14U7TaCah1WFE4cYz7RTaG) | 3:13 | 2024-11-29 |  |
+| [Siendi Bila Wewe](https://open.spotify.com/track/13gevUnYIDW3IqkMOkdi6q) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Siendi Bila Wewe](https://open.spotify.com/album/5xgGi1XEezUjTOzK8t2nhv) | 4:02 | 2025-09-05 |  |
 | [Sifa Ziko Juu](https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m) | [Neo Elani](https://open.spotify.com/artist/7kl0ORDAUsmnGAN1LWGUM4) | [Sifa Ziko Juu](https://open.spotify.com/album/7G4JY0qlOoTkAugC3BaeKL) | 7:55 | 2025-08-22 |  |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-09-06 |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
@@ -273,6 +275,7 @@
 | [Yebo \(Nitawale\)](https://open.spotify.com/track/0LpsmMdrFo77ajgxiM7axD) | [Vestine and Dorcas](https://open.spotify.com/artist/1A9OmcsnDyYVidBEE7Mm4D) | [Yebo \(Nitawale\)](https://open.spotify.com/album/4UftFzSIK55k665kb9Wa1V) | 8:10 | 2025-05-26 |  |
 | [Yesu Karibu Kwangu](https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Yesu Karibu Kwangu](https://open.spotify.com/album/4RF4aF0SMIIFhzBJeMEGcE) | 6:54 | 2022-06-24 | 2024-09-06 |
 | [Yesu Karibu Kwangu](https://open.spotify.com/track/7h8lc1Hzhw4i1KGhWbgEGP) | [Rose Muhando](https://open.spotify.com/artist/4yJ8cEYvhv5blAUqfUkkdB) | [Miamba Imepasuka](https://open.spotify.com/album/3VocSMSSIm7jEXiWLn54W6) | 6:54 | 2022-06-24 | 2024-04-19 |
+| [Yesu Ni Uhuru](https://open.spotify.com/track/5IIMN8tmrJuLilwwjWBJ5Y) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [WE ARE BELOVED](https://open.spotify.com/artist/2pqzfd3r50fk530AHMXwRg) | [Yesu Ni Uhuru](https://open.spotify.com/album/5wD3Gxx9HneMjA8VBJlPW2) | 3:27 | 2025-09-05 |  |
 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2022-06-26. Prior content cannot be recovered.

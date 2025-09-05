@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: Wolter Kroes",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Joey Nicolay",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -554,6 +554,24 @@
       "duration_ms": 206298,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/05AVFzPtFgvDoEVDBoSifN"
+    },
+    {
+      "album": {
+        "name": "Avond 2.0",
+        "url": "https://open.spotify.com/album/0BVSguaWW08ymbT39URufK"
+      },
+      "artists": [
+        {
+          "name": "Martijn Stam",
+          "url": "https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207304,
+      "name": "Avond 2.0",
+      "url": "https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o"
     },
     {
       "album": {
@@ -2237,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Goede Slechte Tijden",
+        "url": "https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1"
+      },
+      "artists": [
+        {
+          "name": "Joeri Plaizier",
+          "url": "https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Goede Slechte Tijden",
+      "url": "https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7"
+    },
+    {
+      "album": {
         "name": "Had Jij Gedacht",
         "url": "https://open.spotify.com/album/2mdwwCCw0szjoRbywp3szc"
       },
@@ -2440,6 +2476,24 @@
       "duration_ms": 188666,
       "name": "Het Regent Pijpenstelen",
       "url": "https://open.spotify.com/track/1MhoNw8jlaZs6ItTGREl7X"
+    },
+    {
+      "album": {
+        "name": "Heya Heya",
+        "url": "https://open.spotify.com/album/6Y09HHZ8vksxIDs4cAXpqJ"
+      },
+      "artists": [
+        {
+          "name": "Metzzo",
+          "url": "https://open.spotify.com/artist/60l5QjZLkJD6yVLGrZITrh"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190304,
+      "name": "Heya Heya",
+      "url": "https://open.spotify.com/track/2ae8lMy1uqJlIesBYef1ZP"
     },
     {
       "album": {
@@ -2746,7 +2800,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 166523,
       "name": "Ik Hou D'r Van",
       "url": "https://open.spotify.com/track/5dzLiaSgG4CtbwRSNnGY1S"
@@ -5127,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Op De Liefde Verliefd",
+        "url": "https://open.spotify.com/album/2FcchAzD3NTgSgDNIyf7lv"
+      },
+      "artists": [
+        {
+          "name": "Marvin de Geest",
+          "url": "https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171371,
+      "name": "Op De Liefde Verliefd",
+      "url": "https://open.spotify.com/track/6zmNAGsxyVuf7KYrnnPUei"
+    },
+    {
+      "album": {
         "name": "Op de Maan met Maan",
         "url": "https://open.spotify.com/album/6CNkkMQuPST2hO4KR2qY4v"
       },
@@ -5138,7 +5210,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 194309,
       "name": "Op de Maan met Maan",
       "url": "https://open.spotify.com/track/5OXm70TP5w966vW4a8B4Hl"
@@ -5366,7 +5438,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180992,
       "name": "Plekje In Mijn Hart",
       "url": "https://open.spotify.com/track/64cxYuAQ4kDRLZb0YOrtsv"
@@ -5840,7 +5912,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 181415,
       "name": "Stap In Mijn Bootje",
       "url": "https://open.spotify.com/track/10xHzSmXDU9GAVQxnUGKx2"

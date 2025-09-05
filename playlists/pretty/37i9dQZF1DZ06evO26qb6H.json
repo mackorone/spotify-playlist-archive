@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACNKT9C85klOhMbx0r5G6EC",
+  "snapshot_id": "aLeFAAAAAACiW05436hUkE/wvv3v4VvX",
   "tracks": [
     {
       "added_at": null,
@@ -287,34 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUCY",
-        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
-      },
-      "artists": [
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 251128,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -339,6 +311,34 @@
       "duration_ms": 157557,
       "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
       "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 251128,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
     },
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Em Up",
+        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Wake Em Up",
+      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn Shame",
         "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 137938,
       "name": "Damn Shame",
       "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
     },
     {
       "added_at": null,
@@ -855,6 +855,30 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     }
   ],
   "unique_name": "This Is Murda Beatz",

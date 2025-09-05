@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Songwriters and their stories with Kingfishr \u2728",
+  "description": "Listen with intention \ud83d\udcdd Cover: Vance Joy",
   "name": "Common Thread",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 198472,
       "name": "Always Love featuring Hyunjin (Stray Kids)",
       "url": "https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 170955,
       "name": "Better in Person",
       "url": "https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 151743,
       "name": "Blisters & Sunburn",
       "url": "https://open.spotify.com/track/3pTPIi9dpiFlUGtDxth4Vh"
@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "changed it all",
+        "url": "https://open.spotify.com/album/45zOk2s5PyA8V10vCSoleJ"
+      },
+      "artists": [
+        {
+          "name": "benjamin marshall",
+          "url": "https://open.spotify.com/artist/43uKxuazcxU13X6jFrlFlQ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319500,
+      "name": "changed it all",
+      "url": "https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj"
+    },
+    {
+      "album": {
         "name": "Starflower",
         "url": "https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa"
       },
@@ -1445,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150048,
+      "name": "Damage Control",
+      "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
+    },
+    {
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 150872,
       "name": "Dance King",
       "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
@@ -1611,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "DidYouReadMyLetter?",
+        "url": "https://open.spotify.com/album/0zEoAjK4pGkgJEQxdVYHCY"
+      },
+      "artists": [
+        {
+          "name": "Valerie Rose",
+          "url": "https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DidYouReadMyLetter?",
+      "url": "https://open.spotify.com/track/1CJSZp2ViKNkU6CBmmxN0U"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -1680,10 +1734,28 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 221517,
       "name": "Dive Into You",
       "url": "https://open.spotify.com/track/1OdepkuTLJoj4af0EyoZJG"
+    },
+    {
+      "album": {
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "album": {
@@ -1972,7 +2044,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180728,
       "name": "edge of the world",
       "url": "https://open.spotify.com/track/2xbnHb6iUyw2Mc9vJIfKV2"
@@ -2030,6 +2102,24 @@
       "duration_ms": 162188,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/6EN8VbLSTYTUWgNBsjBtry"
+    },
+    {
+      "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/5M4KB0JXG6weukzS0AgHMv"
+      },
+      "artists": [
+        {
+          "name": "Ellis King",
+          "url": "https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183915,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4esFbV6wCkR0qkAPza967k"
     },
     {
       "album": {
@@ -2636,7 +2726,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 174040,
       "name": "Go Where You're Wanted",
       "url": "https://open.spotify.com/track/31I91A2vqfBKo6z4YknN0F"
@@ -3404,7 +3494,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 188991,
       "name": "I Am Enough",
       "url": "https://open.spotify.com/track/6eefU1OC375SvCfyyGdovo"
@@ -3570,7 +3660,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 194000,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/30eT8RRHMc5HGH2V6y9AJE"
@@ -3842,6 +3932,28 @@
       "duration_ms": 216000,
       "name": "It Isn\u2019t Perfect But It Might Be - from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn"
+    },
+    {
+      "album": {
+        "name": "It's Been A Year",
+        "url": "https://open.spotify.com/album/1pVmUWIpVBbtEvnHWlj3PQ"
+      },
+      "artists": [
+        {
+          "name": "Rona Mac",
+          "url": "https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF"
+        },
+        {
+          "name": "Wil Owen",
+          "url": "https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "It's Been A Year",
+      "url": "https://open.spotify.com/track/2noyEc0rcO8RWS6vsfrif6"
     },
     {
       "album": {
@@ -4156,7 +4268,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 149835,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1bkKjMzqeMG3knxBhDaKc0"
@@ -4787,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Miss Missing You",
+        "url": "https://open.spotify.com/album/6j9THPoE3D5h0Dg5ZPTeTS"
+      },
+      "artists": [
+        {
+          "name": "FLAVIA",
+          "url": "https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194713,
+      "name": "Miss Missing You",
+      "url": "https://open.spotify.com/track/40uLTiiVwQh3XjU778akBx"
+    },
+    {
+      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -4874,6 +5004,24 @@
       "duration_ms": 184978,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/3sad1WsfFDlwechthgL8Ei"
+    },
+    {
+      "album": {
+        "name": "My Anchor",
+        "url": "https://open.spotify.com/album/2JP904eL4CZfI9iaLkUbmp"
+      },
+      "artists": [
+        {
+          "name": "Alexander Morgan",
+          "url": "https://open.spotify.com/artist/4sK9zOcQMVubTle0kAmqRE"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "My Anchor",
+      "url": "https://open.spotify.com/track/6jKsniHayxHB66j0m7v2Se"
     },
     {
       "album": {
@@ -5606,7 +5754,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 238250,
       "name": "Personally",
       "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
@@ -6613,6 +6761,46 @@
     },
     {
       "album": {
+        "name": "Skylight (feat. Tiny Habits)",
+        "url": "https://open.spotify.com/album/0i9O0xlQPRxJ53Lgl4MWqd"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "Skylight (feat. Tiny Habits)",
+      "url": "https://open.spotify.com/track/4jeO32OZxJiSHsFBaR7PcR"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
+      "album": {
         "name": "SMOKE THE PAIN AWAY",
         "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
       },
@@ -6714,7 +6902,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 292148,
       "name": "Solastalgia",
       "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
@@ -7725,6 +7913,24 @@
     },
     {
       "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4S2932lDiFz0RbLvNlHwWu"
+      },
+      "artists": [
+        {
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159978,
+      "name": "The Valley",
+      "url": "https://open.spotify.com/track/1TKjOHN1FDNcClMQyKQRgw"
+    },
+    {
+      "album": {
         "name": "The Way I\u2019m Wired",
         "url": "https://open.spotify.com/album/67ta68xEpzq10kTo5jJfsw"
       },
@@ -7808,7 +8014,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 240586,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/2nnCgU9J5aZciocscHIhQ9"
@@ -7891,6 +8097,24 @@
     },
     {
       "album": {
+        "name": "Time & Place",
+        "url": "https://open.spotify.com/album/74TUBXQLbvtfUpoAgqMR0R"
+      },
+      "artists": [
+        {
+          "name": "Opheliah",
+          "url": "https://open.spotify.com/artist/28xj48nWyAvwEEyk1IWAtt"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217250,
+      "name": "Time & Place",
+      "url": "https://open.spotify.com/track/2hmVOGwrx2F9BrWBicv1fA"
+    },
+    {
+      "album": {
         "name": "Of Love and Loss",
         "url": "https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv"
       },
@@ -7902,7 +8126,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 259400,
       "name": "Time Lost",
       "url": "https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7"
@@ -8897,6 +9121,24 @@
     },
     {
       "album": {
+        "name": "Woman Of Faces",
+        "url": "https://open.spotify.com/album/4LjTxBjWubEIQbttwwdxUo"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290869,
+      "name": "Woman Of Faces",
+      "url": "https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6"
+    },
+    {
+      "album": {
         "name": "WOMAN\u2019S WORLD",
         "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
       },
@@ -8912,6 +9154,24 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Life",
+        "url": "https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp"
     },
     {
       "album": {

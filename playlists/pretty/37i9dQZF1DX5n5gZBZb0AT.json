@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 945108,
+  "num_followers": 945293,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,26 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "AUTOMOTIVO EMPURRA",
-        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
+        "name": "THIS FEELING",
+        "url": "https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS"
       },
       "artists": [
         {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+          "name": "DJ Anemia",
+          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
+        },
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
         }
       ],
-      "duration_ms": 72014,
-      "name": "AUTOMOTIVO EMPURRA",
-      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
+      "duration_ms": 122482,
+      "name": "THIS FEELING",
+      "url": "https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -759,26 +767,18 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "THIS FEELING",
-        "url": "https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS"
+        "name": "AUTOMOTIVO EMPURRA",
+        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
       },
       "artists": [
         {
-          "name": "DJ Anemia",
-          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
-        },
-        {
-          "name": "crier",
-          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
-        },
-        {
-          "name": "sixnite",
-          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
         }
       ],
-      "duration_ms": 122482,
-      "name": "THIS FEELING",
-      "url": "https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e"
+      "duration_ms": 72014,
+      "name": "AUTOMOTIVO EMPURRA",
+      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
     }
   ],
   "unique_name": "gymcore",

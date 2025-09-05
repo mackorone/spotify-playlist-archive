@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABM9hgarpeFNyVKtvDpU7HM",
+  "snapshot_id": "aLeFAAAAAADBHXsSTM2fC1bMXQi0owi9",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mergulhar",
-        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "Mergulhar",
-      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceano de L\u00e1grimas (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 257416,
       "name": "Oceano de L\u00e1grimas (Ao Vivo)",
       "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mergulhar",
+        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Mergulhar",
+      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus dos Deuses (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 255300,
+      "name": "Deus dos Deuses (Ao Vivo)",
+      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muda o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus dos Deuses (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 255300,
-      "name": "Deus dos Deuses (Ao Vivo)",
-      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ora Um Pouco Mais",
         "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
       },
@@ -751,26 +751,6 @@
       "duration_ms": 278517,
       "name": "Ora Um Pouco Mais",
       "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Elyon",
+        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 240976,
+      "name": "El Elyon",
+      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palavras L\u00edquidas",
         "url": "https://open.spotify.com/album/633KAVSvTRywDez2dhipDp"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 243760,
       "name": "Bastidores da Alma",
       "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Elyon",
-        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 240976,
-      "name": "El Elyon",
-      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
     }
   ],
   "unique_name": "This Is Elaine Martins",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   hun_sagde",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mags",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 185760,
       "name": "1000 H\u00e6nder",
       "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 194166,
       "name": "apricot jam",
       "url": "https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 144700,
       "name": "Bed\u00f8vende",
       "url": "https://open.spotify.com/track/3oswKE6oPvZWvnfJRRUNdl"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 128437,
       "name": "Big city life",
       "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Herified",
+        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
+      },
+      "artists": [
+        {
+          "name": "mags",
+          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
+    },
+    {
+      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -490,7 +508,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 141653,
       "name": "Bl\u00f8d",
       "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 165000,
       "name": "Dance Without You",
       "url": "https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr"
@@ -1090,6 +1108,24 @@
       "duration_ms": 176528,
       "name": "Din Sang",
       "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
+    },
+    {
+      "album": {
+        "name": "Diskosnav",
+        "url": "https://open.spotify.com/album/4NU6Dmiwn4tgGi42FFsakA"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170243,
+      "name": "Diskosnav",
+      "url": "https://open.spotify.com/track/1rc40ngp3eY9POSvsfftYP"
     },
     {
       "album": {
@@ -1451,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Fanget I En Dr\u00f8m",
+        "url": "https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Fanget I En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF"
+    },
+    {
+      "album": {
         "name": "Feed The Good",
         "url": "https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP"
       },
@@ -1624,7 +1678,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 167007,
       "name": "Fri",
       "url": "https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0"
@@ -1642,7 +1696,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 169043,
       "name": "Fri mand",
       "url": "https://open.spotify.com/track/5FAAsjvJYsNE64tbNwTPT9"
@@ -1808,7 +1862,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 193866,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa"
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 214787,
       "name": "G\u00e5 Itu",
       "url": "https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P"
@@ -1952,7 +2006,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 173023,
       "name": "Ham Med Paraplyen",
       "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
@@ -2498,7 +2552,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 173708,
       "name": "Ik T\u00e6nk Twice",
       "url": "https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin"
@@ -2848,7 +2902,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 159863,
       "name": "Kun For Festerne",
       "url": "https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN"
@@ -3032,7 +3086,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
@@ -3198,7 +3252,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 196225,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx"
@@ -3234,7 +3288,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 177165,
       "name": "Minder Om Dig",
       "url": "https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5"
@@ -3519,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "paper plane",
+        "url": "https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y"
+      },
+      "artists": [
+        {
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "paperplane",
+      "url": "https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp"
+    },
+    {
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7"
       },
@@ -3746,10 +3818,28 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 216677,
       "name": "Run",
       "url": "https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI"
+    },
+    {
+      "album": {
+        "name": "R\u00f8dt Flag",
+        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
+      },
+      "artists": [
+        {
+          "name": "Zira",
+          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147739,
+      "name": "R\u00f8dt Flag",
+      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
     },
     {
       "album": {
@@ -3800,7 +3890,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 182860,
       "name": "Sang Til Min Far",
       "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
@@ -3915,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "shout pillow",
+        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
+      },
+      "artists": [
+        {
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141677,
+      "name": "shout pillow",
+      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
+    },
+    {
+      "album": {
         "name": "Sidste Gang (feat. Silvia)",
         "url": "https://open.spotify.com/album/0KkoMqyodpwPncrqMGLDbz"
       },
@@ -3948,7 +4056,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 202708,
       "name": "Sidste \u00c5r",
       "url": "https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH"
@@ -4074,7 +4182,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 206924,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6Bd25fpOLW5TzfRRtqcaFG"
@@ -4132,7 +4240,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 142333,
       "name": "STADION",
       "url": "https://open.spotify.com/track/4kudNL6XGu5Y79pcUNWILB"
@@ -4258,7 +4366,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 140382,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB"
@@ -4475,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/1HfHyICQbF212PG2cdPj6d"
+      },
+      "artists": [
+        {
+          "name": "Sophia Fredskild",
+          "url": "https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197669,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/4yLfFqD4kOleS79GibMyhj"
+    },
+    {
+      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
       },
@@ -4624,7 +4750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 243312,
       "name": "T\u00e6t P\u00e5 Paradis",
       "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
@@ -4750,7 +4876,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 186681,
       "name": "Umuligt",
       "url": "https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1"
@@ -4916,7 +5042,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 140111,
       "name": "Venter Kun P\u00e5 Dig",
       "url": "https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ"
@@ -4952,7 +5078,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
@@ -5010,7 +5136,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 177818,
       "name": "Vindueskarm",
       "url": "https://open.spotify.com/track/3t97ccQXMzSRs5CW7oYXPV"

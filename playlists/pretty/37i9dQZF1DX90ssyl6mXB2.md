@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Pino
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,860 likes - 192 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,913 likes - 192 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 14 | [Falling Off](https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Falling Off](https://open.spotify.com/album/3wQcw5o7ZAiCQiE2Xs22Sp) | 2:40 |
 | 15 | [city girls](https://open.spotify.com/track/1dkccY8q1lZ37A6lUClydz) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [city girls](https://open.spotify.com/album/26ybTHui5GQS02zA1De7oQ) | 2:27 |
 | 16 | [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 |
-| 17 | [my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
+| 17 | [act xiii: my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act xiii: my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
 | 18 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
 | 19 | [Burnout \(feat\. Bun B\)](https://open.spotify.com/track/5iUi6YOwdomq32Mb7NqyR9) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Burnout \(feat\. Bun B\)](https://open.spotify.com/album/2Zah0QAuMPidjOXuGrQyWE) | 2:46 |
 | 20 | [DIRTY](https://open.spotify.com/track/63x8OG6BbnIEZ0jjrdb1pV) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [DIRTY](https://open.spotify.com/album/431n6Co1YsSkywzmlD3KvZ) | 2:30 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 31 | [Let Me Down Slow](https://open.spotify.com/track/01Posy6lTFjJShK8UffWi9) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Let Me Down Slow](https://open.spotify.com/album/51cYBBrQJNRTpwFXzxg7Pi) | 2:32 |
 | 32 | [FALLOUT](https://open.spotify.com/track/1ThaVFwi9BxJ67HbvxrLW9) | [Low.bō](https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y) | [FALLOUT](https://open.spotify.com/album/2jl98yYRwlRH4skcIiaIio) | 3:55 |
 | 33 | [Prettiest Girl \(Tyler's Version\)](https://open.spotify.com/track/0P8sGPeiBOgY5I8k2Vugzf) | [Tyler Watts](https://open.spotify.com/artist/0VqoeHbKgK8rjTpVjtip3B) | [Prettiest Girl \(Remix Pack\)](https://open.spotify.com/album/54n34qDHmKO4QhNGbmvxiz) | 2:18 |
-| 34 | [n da morning](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [n da morning](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 |
+| 34 | [act x: n da mornin](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act x: n da mornin](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 |
 | 35 | [WHITEOUT](https://open.spotify.com/track/4hiRmGKJuCD5A1Eg2ZIXAV) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [WHITEOUT](https://open.spotify.com/album/5vCEqiG1dV85k656D0qSxD) | 2:43 |
 | 36 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 37 | [If I Say I Hate U I Mean It](https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [If I Say I Hate U I Mean It](https://open.spotify.com/album/1PJ74qpU6fHxEUuHCA5w0O) | 2:35 |

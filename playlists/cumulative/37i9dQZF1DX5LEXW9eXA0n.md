@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 이석훈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 정승환\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,537 songs - 4 day 3 hr 42 min
+1,539 songs - 4 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Even if it rains again](https://open.spotify.com/track/3NYhHnmZGKX1wzeBwjeNfK) | [성유진](https://open.spotify.com/artist/3FecfVivS2YZ2wUl0vegwP) | [Even if it rains again](https://open.spotify.com/album/4Ife3HPZDQjZIDRl7zBns9) | 4:01 | 2023-05-31 | 2023-09-15 |
 | [Even If I’m Crazy](https://open.spotify.com/track/441x9yjdJ7MxzfkRdPtmvh) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Even If I’m Crazy](https://open.spotify.com/album/6DGhs9e7YfmnVjd4eosynH) | 3:35 | 2024-06-14 | 2024-10-17 |
 | [Even if nobody cares for you](https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Nobody Knows \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz) | 3:20 | 2022-01-27 | 2022-06-24 |
+| [Even Just Memories](https://open.spotify.com/track/43t8WaO2MoSO1m5g7YioL0) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [Even Just Memories](https://open.spotify.com/album/23dG0FiVEz44gEyQn7HEG4) | 3:56 | 2025-09-04 |  |
 | [Even Silently Cry\(2023\)](https://open.spotify.com/track/7zVeCI0asI0C42OQtAl3nD) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1vYvzttBDeonkb8m7aw6vH) | 4:39 | 2023-07-07 | 2023-10-20 |
 | [Even Then, I](https://open.spotify.com/track/3aATak00Bg68cyJwMyIgrS) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Even Then, I](https://open.spotify.com/album/3PXL79oceHp1bAMpGVknD4) | 4:31 | 2022-05-03 | 2022-05-12 |
 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2022-11-25 | 2023-01-21 |
@@ -603,6 +604,7 @@
 | [If i go back](https://open.spotify.com/track/7BLVD2Xu7AvAgxzdH5tLG6) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [If i go back](https://open.spotify.com/album/14CY4naLzIeXSlVtpLKwOb) | 3:43 | 2023-08-31 | 2023-11-16 |
 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 | 2024-06-04 |  |
 | [If I Love Again](https://open.spotify.com/track/7mU6Lqaggxunr1sRgPWNsJ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [If I Love Again](https://open.spotify.com/album/706EDOchNG8jWTCCGYK0bW) | 3:57 | 2023-04-26 | 2023-09-15 |
+| [If I Love Again](https://open.spotify.com/track/1BvBbq3KAD41EeubqOfXrE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [If I Love Again \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/5Ku0p8oWpRrZ5S51ym8Uxl) | 4:05 | 2025-09-04 |  |
 | [If I were the wind](https://open.spotify.com/track/2YNwMqQuVXbDuQxwxb2mZk) | [Y \(Golden Child\)](https://open.spotify.com/artist/15TTwJ99z8kILaEh6mHP7U) | [If I were the wind](https://open.spotify.com/album/092bvc9Ibtgp4CWlNPKABD) | 3:58 | 2023-03-15 | 2023-07-08 |
 | [If I were your summer](https://open.spotify.com/track/74ntiQ1mxRujlUMqSrQxRm) | [구름](https://open.spotify.com/artist/6c0nuPZItL13q5iqC3vfbd) | [If I were your summer](https://open.spotify.com/album/76yKGcKayzesRrZmjkarPZ) | 2:47 | 2024-08-10 | 2024-09-24 |
 | [If it happens, it happens](https://open.spotify.com/track/6pIcRq4yFP210gACpblAO6) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [If it happens, it happens](https://open.spotify.com/album/7whkQOWrcxLIPvzvndXryk) | 4:01 | 2024-11-05 | 2025-04-09 |
@@ -792,7 +794,7 @@
 | [Love, ing](https://open.spotify.com/track/53NfwDBeFuzW8eDxEQyCJd) | [Sun Ye](https://open.spotify.com/artist/7CBvUrPXH5uzagKCfAS54Q) | [Love, ing](https://open.spotify.com/album/0Rx8VbEuZPctmQeeS3p8qL) | 4:33 | 2022-03-31 | 2022-04-19 |
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2023-09-14 | 2025-01-02 |
 | [Love, the common word](https://open.spotify.com/track/2h0wEmZvW6cmMr0Fw1Tc7m) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Love, the common word](https://open.spotify.com/album/28aUeLxxvhM6ouWQz7IDgL) | 4:53 | 2025-05-19 |  |
-| [Love, Unspoken](https://open.spotify.com/track/4nmGqIfoOZ8jjm9XnU5HYJ) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [The Memory Part.1](https://open.spotify.com/album/5HsrTlBYwsEfue1S3MYOn9) | 3:18 | 2025-05-26 |  |
+| [Love, Unspoken](https://open.spotify.com/track/4nmGqIfoOZ8jjm9XnU5HYJ) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [The Memory Part.1](https://open.spotify.com/album/5HsrTlBYwsEfue1S3MYOn9) | 3:18 | 2025-05-26 | 2025-09-05 |
 | [Love..What is it](https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Love..What is it](https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4) | 3:45 | 2023-09-14 | 2023-11-03 |
 | [Lovelorn](https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [I Live and Mourn, Thus Resketch You](https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem) | 3:22 | 2024-06-04 | 2024-08-11 |
 | [Lovers](https://open.spotify.com/track/17IUvxErsnc8RmhkggoMwG) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Lovers](https://open.spotify.com/album/51q780I3cFQH2gTwp3bm8Q) | 4:00 | 2025-02-04 | 2025-02-07 |
@@ -1272,7 +1274,7 @@
 | [This night](https://open.spotify.com/track/1q2S2sHR7dPTUq27eBh6dk) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT) | [Candle](https://open.spotify.com/album/2umy3WPBMznBRpOluylVSI) | 3:52 | 2024-01-08 | 2024-06-05 |
 | [This Song](https://open.spotify.com/track/7GyKbTE1bVgWXr3tiqp3H1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [This Song](https://open.spotify.com/album/7mS4NsnK5NSwh5e3HEzyYP) | 5:11 | 2021-12-23 | 2022-06-06 |
 | [Those times](https://open.spotify.com/track/6AYFpiiNPcjpxA9RKa2glZ) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Those times](https://open.spotify.com/album/7cdzy2LsbTIYhbe6KjDIgB) | 3:42 | 2023-04-26 | 2023-09-12 |
-| [Three Friends](https://open.spotify.com/track/0GG4sMxQljxUEmqGwFBGAN) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [Three Friends](https://open.spotify.com/album/2zsanpQM3F2HU0BFvUQAhN) | 4:00 | 2025-05-09 |  |
+| [Three Friends](https://open.spotify.com/track/0GG4sMxQljxUEmqGwFBGAN) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [Three Friends](https://open.spotify.com/album/2zsanpQM3F2HU0BFvUQAhN) | 4:00 | 2025-05-09 | 2025-09-05 |
 | [Three Methods of Containing Sorrow](https://open.spotify.com/track/3RDCy9sr00fMnAN8b3E26Y) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Three Methods of Containing Sorrow](https://open.spotify.com/album/5dq1nYp45LJ0t5rng19jnU) | 3:56 | 2024-05-17 | 2024-09-14 |
 | [Threshold](https://open.spotify.com/track/0KCCMxvjXlhxH0Ha37popR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 4:11 | 2024-07-15 | 2025-02-12 |
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2021-12-20 | 2022-07-08 |

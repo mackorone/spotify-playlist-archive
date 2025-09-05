@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Fireboy DML, Topic, Nico Santos
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BUNT., The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,352 likes - 98 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,354 likes - 98 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 97 | [Things I Haven’t Told You](https://open.spotify.com/track/0pDVZoDOubNxgzjgTvzVQi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Things I Haven’t Told You](https://open.spotify.com/album/1BVA2ZrleGhk13DKwSIJib) | 2:36 |
 | 98 | [Rock The Party](https://open.spotify.com/track/2oqq6m2yhaocEOukbvwxur) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Rock The Party](https://open.spotify.com/album/0A9qsdWpUkxRMXR6RlQjk9) | 1:56 |
 
-Snapshot ID: `AAAAAOdbAxF7A6zgVYpqoXcLY3F04BrM`
+Snapshot ID: `AAAAAAxQdkvTJw4o1MouEXnHjzI0kGBY`

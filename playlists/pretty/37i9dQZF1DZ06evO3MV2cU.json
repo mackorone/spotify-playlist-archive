@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAA+2Jwxw4kc6BLTfELzjiBk",
+  "snapshot_id": "aLeFAAAAAACWNUw7UfJbtr/eokcRQDgS",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 218747,
-      "name": "God's Great Dance Floor",
-      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumental Songs Of Worship",
-        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
       "artists": [
-        {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
-        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 272000,
-      "name": "We Fall Down / Agnus Dei - Medley",
-      "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
+      "duration_ms": 218747,
+      "name": "God's Great Dance Floor",
+      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 245533,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instrumental Songs Of Worship",
+        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
+      },
+      "artists": [
+        {
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "We Fall Down / Agnus Dei - Medley",
+      "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
     },
     {
       "added_at": null,

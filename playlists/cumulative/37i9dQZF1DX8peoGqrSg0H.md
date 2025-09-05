@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: GEMINI, FOURTH
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-752 songs - 1 day 20 hr 20 min
+754 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 | 2025-03-20 | 2025-04-04 |
 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 | 2023-09-08 | 2023-09-16 |
 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 | 2022-09-09 |
+| [BB](https://open.spotify.com/track/64qJUpatIimaU56Wk7Fk0B) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BB](https://open.spotify.com/album/3yqxL15iqBwSHx0iIqkd1x) | 3:32 | 2025-09-04 |  |
 | [Be Your Luve](https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO) | [BUILD](https://open.spotify.com/artist/2Jp5KBkpzm1dRFal9Nlmvm) | [Be Your Luve](https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL) | 3:24 | 2023-09-08 | 2023-09-14 |
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2023-12-07 | 2024-10-04 |
 | [Believers](https://open.spotify.com/track/4rBFjW1hkzp9ttWG34HUXJ) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Believers](https://open.spotify.com/album/2rWCbQocy0hMs6Kc7scxCq) | 4:16 | 2022-09-02 | 2022-09-09 |
@@ -56,7 +57,7 @@
 | [Choose Me](https://open.spotify.com/track/4BoZEcYmmCgANjVTCCyY76) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [Choose Me](https://open.spotify.com/album/6KONF8hVx4IKHJswTvxPir) | 2:54 | 2024-11-14 | 2024-11-22 |
 | [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 | 2024-10-31 | 2024-11-08 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
-| [CLANG CLANG](https://open.spotify.com/track/5iAIC6pCoRSaUThmMSYZV1) | [DEXX](https://open.spotify.com/artist/00xcYloqQIi9MrDTP7NUuA) | [CLANG CLANG](https://open.spotify.com/album/1ddAQY6sw9CGa9SDIEtDXz) | 2:52 | 2025-06-27 |  |
+| [CLANG CLANG](https://open.spotify.com/track/5iAIC6pCoRSaUThmMSYZV1) | [DEXX](https://open.spotify.com/artist/00xcYloqQIi9MrDTP7NUuA) | [CLANG CLANG](https://open.spotify.com/album/1ddAQY6sw9CGa9SDIEtDXz) | 2:52 | 2025-06-27 | 2025-09-05 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Colorcon Wink](https://open.spotify.com/track/3OU1ssBavzW8bUI7levAdI) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Colorcon Wink](https://open.spotify.com/album/05tkWOkbo0Unm2veQiY7D6) | 4:59 | 2025-06-11 | 2025-08-01 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
@@ -169,7 +170,7 @@
 | [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [Third](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 | 2024-08-08 | 2024-08-16 |
 | [ROSÈE](https://open.spotify.com/track/4yYbrzNN5vVuTUXWuVK9wm) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [THI\-O 1st Mini Album](https://open.spotify.com/album/4JayThE37cKd5m1fbVwZii) | 3:18 | 2024-11-21 | 2024-11-29 |
 | [Sad Movie](https://open.spotify.com/track/1nenRWbemVvsxnxg296eFB) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Sad Movie](https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7) | 3:48 | 2022-05-26 | 2022-07-24 |
-| [SADSY](https://open.spotify.com/track/31F1An46wpxqSdKTl6u9pb) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [SADSY](https://open.spotify.com/album/6uBNdXcOnfFy7L8ch4UJnw) | 3:21 | 2025-08-28 |  |
+| [SADSY](https://open.spotify.com/track/31F1An46wpxqSdKTl6u9pb) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [SADSY](https://open.spotify.com/album/6uBNdXcOnfFy7L8ch4UJnw) | 3:21 | 2025-08-28 | 2025-09-05 |
 | [Second Chance](https://open.spotify.com/track/2a7YBNa6T4DhtF77kbWx8G) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Second Chance](https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ) | 3:22 | 2023-07-21 | 2023-07-29 |
 | [SECRETLY LOVE](https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w) | [DONUTCHA](https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU), [KANGSOMKS](https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW) | [SECRETLY LOVE](https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP) | 2:59 | 2022-06-09 | 2022-06-17 |
 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 | 2025-03-31 |  |
@@ -210,6 +211,7 @@
 | [WALK WALK](https://open.spotify.com/track/4AlJtmiBLtD2g6VGKhx6xF) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [WALK WALK](https://open.spotify.com/album/0zL56tDbTcYXWzXRoJDEEH) | 3:02 | 2024-06-27 | 2024-07-05 |
 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 | 2025-08-21 |  |
 | [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-02-15 | 2024-04-12 |
+| [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 | 2025-09-04 |  |
 | [What's Zabb \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/64URwmo2yZyqsXGB0LznJS) | [Off Jumpol](https://open.spotify.com/artist/0bKOBYaUDBZVgdimYPdZpp), [Gun Atthaphan](https://open.spotify.com/artist/0XBt4tNqmoaIqYR5qMEC0k) | [What's Zabb \- Single](https://open.spotify.com/album/5esCxXigd1S4maoJlducVq) | 3:24 | 2023-11-23 | 2023-12-08 |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2022-12-01 | 2022-12-09 |
 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 | 2025-07-10 |  |

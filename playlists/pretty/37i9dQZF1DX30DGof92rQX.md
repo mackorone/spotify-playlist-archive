@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Marshall Ahmad
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,018 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,020 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 27 | [DISCONNECT](https://open.spotify.com/track/2bA3xbeJ31KAFhprR44BZR) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [STRING THEORY](https://open.spotify.com/album/2Tnj9kg8mNpLS7SdSdLlxu) | 3:04 |
 | 28 | [Phool](https://open.spotify.com/track/1qozC68W4RGi9wxy14QpMl) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Phool](https://open.spotify.com/album/7MKEDm3eM6UxmgL09Vyo2Y) | 3:45 |
 | 29 | [Dheema Dheema](https://open.spotify.com/track/1Wz0yAcUO8CM9E8XoR8Rbq) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Dheema Dheema](https://open.spotify.com/album/2PQdA6JbExtudYxO9ngFkM) | 2:19 |
-| 30 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
+| 30 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
 | 31 | [Sanu Ek Pal](https://open.spotify.com/track/1WkCKxdIsWlB4CxBN31Zrx) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd), [Sarmad Ghafoor](https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl) | [Sanu Ek Pal](https://open.spotify.com/album/6xgH9jA22Aw5MTdcgGfAD6) | 6:34 |
 | 32 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 |
 | 33 | [Dil Ruba](https://open.spotify.com/track/1VVCIQHFamc5Q7uDsqDkfN) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Dil Ruba](https://open.spotify.com/album/0KD9Ddk52NSmYdzW8QcgFY) | 4:20 |

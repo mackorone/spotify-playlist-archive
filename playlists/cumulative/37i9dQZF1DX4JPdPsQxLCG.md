@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-495 songs - 1 day 7 hr 28 min
+497 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Balenciaga](https://open.spotify.com/track/4tg78jPJMFbU0JqayIRAtN) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Balenciaga](https://open.spotify.com/album/4YHB8GxdMw7Ph3QzjX3m7i) | 3:29 | 2024-04-19 | 2024-06-22 |
 | [Basement Apt.](https://open.spotify.com/track/4l2ZwGfd6ugIZViw7dtV8K) | [Sarah Harmer](https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e) | [You Were Here](https://open.spotify.com/album/7oWTHejE4DO3DvJDMGHS2F) | 4:08 | 2022-05-02 | 2022-07-25 |
 | [Beck + Call](https://open.spotify.com/track/58RmNnxqvmZyvwarlidx6K) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq), [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Touch](https://open.spotify.com/album/5W33XMFTkmUBeY9rIGlSKc) | 3:06 | 2022-05-02 | 2022-07-18 |
-| [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 | 2024-06-21 |  |
+| [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 | 2024-06-21 | 2025-09-05 |
 | [Big League](https://open.spotify.com/track/3lrFKF0vj5dK5EEtMVSDBZ) | [Tom Cochrane & Red Rider](https://open.spotify.com/artist/3IbmrzyGsVljlk9pTLdE3U) | [Victory Day](https://open.spotify.com/album/2jzxafOoc2lKlp4EbMJlgp) | 4:37 | 2022-05-02 | 2022-07-29 |
 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 | 2024-04-19 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 | 2022-05-02 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [Devil's On Fire](https://open.spotify.com/track/0v2oBOiRNmdMJPUYrnPFOM) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Little Army](https://open.spotify.com/album/1iTP80KloK5dmv8ZGeiCRA) | 3:04 | 2022-05-02 | 2022-07-02 |
 | [Did You Fall In Love With Me](https://open.spotify.com/track/2tui4DbRV9AEBwrxnrEbeT) | [Prairie Oyster](https://open.spotify.com/artist/59YYicz1skdbz1FPq7L1HD) | [Everybody Knows](https://open.spotify.com/album/0EYDSShtbDQ9UPb8N2Jhr2) | 3:36 | 2022-05-02 | 2022-07-25 |
 | [Diggin' A Hole](https://open.spotify.com/track/6c4RIQcixWsXmhHtfMWPRY) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hit And Run: The Best Of Big Sugar](https://open.spotify.com/album/5DkVM509YTab4WVZWE84ez) | 5:23 | 2022-05-02 | 2022-07-29 |
+| [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 | 2025-09-05 |  |
 | [Do You Wanna Party](https://open.spotify.com/track/1m7dBXRT9sndeZjVonOdfa) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do You Wanna Party](https://open.spotify.com/album/2Q1knImIr2P8YSsQPteh07) | 3:12 | 2024-04-19 | 2024-05-12 |
 | [Dock Rock](https://open.spotify.com/track/4EWk1eddwChaRlSK8i09rc) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 3:09 | 2022-09-10 | 2022-09-15 |
 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 | 2022-09-10 | 2022-09-15 |
@@ -473,7 +474,7 @@
 | [Wheat Kings](https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Yer Favourites](https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG) | 4:19 | 2022-05-02 | 2024-08-10 |
 | [When the Night Feels My Song](https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh) | 3:07 | 2022-05-02 |  |
 | [When the Night Feels My Song](https://open.spotify.com/track/5qMc9XB0lALs9VnQmY5qFv) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/0AhsJ8sWpUbBJUQRXtR1NE) | 3:07 | 2022-05-02 | 2024-04-19 |
-| [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 | 2024-05-10 |  |
+| [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 | 2024-05-10 | 2025-09-05 |
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:22 | 2022-05-02 |  |
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/0T4TdNQ93GEXKtfkCx9zYF) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/7iyRJ3WSW2y2LbIPUYJhgS) | 4:24 | 2023-05-18 | 2023-11-25 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2024-04-19 |  |
@@ -482,6 +483,7 @@
 | [Who You Are](https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:17 | 2024-04-19 | 2024-07-19 |
 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-22 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 |  |
+| [Wild One](https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Wild One](https://open.spotify.com/album/6uQPitAnucKcatIRufA7om) | 2:22 | 2025-09-05 |  |
 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 | 2024-04-19 |  |
 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 | 2024-04-19 | 2024-05-18 |
 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 | 2022-05-02 | 2024-04-19 |

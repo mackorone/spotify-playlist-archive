@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Masdddho
 
-514 songs - 1 day 19 hr 4 min
+515 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Tresno Tekan Mati](https://open.spotify.com/track/0JZnC7RDiYPLXBqaatZOeF) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Sischo Pransub](https://open.spotify.com/artist/0U2CrbRFpngdpuLqwk2RKD) | [Tresno Tekan Mati](https://open.spotify.com/album/72eFjr8FNykfdKiXMw9jCa) | 5:26 | 2025-01-30 | 2025-06-27 |
 | [Tresno Tekan Mati](https://open.spotify.com/track/4xrFfbqpxcF6KjKGg57DYS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Ratih SDE](https://open.spotify.com/artist/3G52T19P9oKRUizIgxqy2D) | [Tresno Tekan Mati](https://open.spotify.com/album/3MQNsBZtpSYVAr9w8alNit) | 5:19 | 2025-01-30 |  |
 | [Tresno Tekan Mati \- New Version](https://open.spotify.com/track/6dpx06KUkby9EfiUTLkiXd) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5a2TytayKwqFURNG7ArVlw) | 4:31 | 2023-12-21 |  |
+| [Trimo \(Tukule Roso Ilang Mergo Bondo\)](https://open.spotify.com/track/2PQtzDhnH5lxvLSZZnbL97) | [Delva Irawan](https://open.spotify.com/artist/1dnGoNYD9XEk3kwZ6DBkl7) | [Trimo \(Tukule Roso Ilang Mergo Bondo\)](https://open.spotify.com/album/3tMacl9dW3AM34HrcTnkeg) | 6:25 | 2025-09-04 |  |
 | [Tulus](https://open.spotify.com/track/1lx5m5RLpjljTVQ5XjpFOP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [ByanX](https://open.spotify.com/artist/3n5UUkbiCO2mU7eFeUln6c) | [Tulus](https://open.spotify.com/album/2vZXISjf0nnZ56tye7K16w) | 4:09 | 2024-02-08 | 2024-07-27 |
 | [Tutug](https://open.spotify.com/track/3DwDTd0AvCgWlPkLzSOXIA) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Tutug](https://open.spotify.com/album/4Z5swETDpF0iAR2rinVRyF) | 4:57 | 2024-10-11 | 2025-01-03 |
 | [Tutupono](https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tutupono](https://open.spotify.com/album/4jabGpRwf88fAgVkDxoPbd) | 6:12 | 2023-07-28 | 2024-12-13 |

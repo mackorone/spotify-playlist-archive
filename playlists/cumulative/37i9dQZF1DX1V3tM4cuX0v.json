@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Nikow",
+  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -86,6 +86,24 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
       "album": {
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -769,6 +787,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -806,6 +842,24 @@
       "duration_ms": 172800,
       "name": "Tavo akys",
       "url": "https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo"
+    },
+    {
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
       "album": {
@@ -1339,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u043e\u0434\u0430\u0439 \u0433\u0443\u0447\u043d\u043e\u0441\u0442\u0456 (12 points)",
+        "url": "https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "\u0414\u043e\u0434\u0430\u0439 \u0433\u0443\u0447\u043d\u043e\u0441\u0442\u0456 (12 points)",
+      "url": "https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL"
+    },
+    {
+      "album": {
         "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
         "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
       },
@@ -1470,7 +1542,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 194457,
       "name": "\u0417\u0430\u0431\u0438\u0439",
       "url": "https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj"
@@ -2098,7 +2170,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 176666,
       "name": "\u041f\u043e\u043a\u043e\u0445\u0430\u0439 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho"
@@ -2214,7 +2286,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 177346,
       "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT"

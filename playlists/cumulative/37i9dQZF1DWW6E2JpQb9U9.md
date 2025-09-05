@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-365 songs - 1 day 3 hr 30 min
+366 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [De Nada Sirve \- En Vivo En Argentina](https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Cómo Me Gusta Verte Reír](https://open.spotify.com/album/4lTU97kK1BZn8CM64e0qHK) | 4:11 | 2025-03-07 |  |
 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 | 2022-04-01 |  |
 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 | 2022-04-01 |  |
-| [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 | 2022-04-01 |  |
+| [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 | 2022-04-01 | 2025-09-05 |
 | [Desaparecer \- Vivo en Luna Park](https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Vivo Luna Park, Pt\. 1](https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4) | 4:23 | 2024-10-10 | 2025-03-08 |
 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 | 2024-12-16 |  |
 | [Desconfío de la Vida \- En Vivo Cosquín Rock](https://open.spotify.com/track/2nbUX5PBic49CsgLmV2X4O) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 6:46 | 2022-04-01 | 2023-10-07 |
@@ -141,6 +141,7 @@
 | [Esquina de la Sombra \- Vivo en Buenos Aires](https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Correntada \(Vivo en Buenos Aires\)](https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI) | 4:02 | 2024-11-29 |  |
 | [Estoy Completamente Nervioso \- En Vivo \- Remasterizado](https://open.spotify.com/track/0XwsU1FkJ96PBYoAiS8Oev) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [En Concierto \(Remasterizado\)](https://open.spotify.com/album/5R1Xd9BBV8i9fX4MsmQ2Nb) | 3:37 | 2022-04-01 | 2022-07-09 |
 | [Facil \(En Vivo \- Sala Nini Marshall\)](https://open.spotify.com/track/3pE1nVUEIjKgB8H7uheBtq) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Vozenoff \(En Vivo Desde Ushuaia\)](https://open.spotify.com/album/2IQn8dtrVIXly0qHkLTnFs) | 3:10 | 2022-06-24 | 2022-07-15 |
+| [Fanky \(En Vivo\)](https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Fanky \(En Vivo\)](https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6) | 5:03 | 2025-09-04 |  |
 | [Fantasma \- En Vivo](https://open.spotify.com/track/0qUPTVminL2wV1GXpDu7ya) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 4:58 | 2023-12-22 | 2024-04-19 |
 | [Fantasma \- En Vivo](https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:58 | 2022-04-01 | 2024-01-04 |
 | [Faro de los Ahogados](https://open.spotify.com/track/0NOHPwuVslrB8JK9d7riji) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Quebrado Vivo](https://open.spotify.com/album/4h0Ues7dxWwg3i6BmPIPiZ) | 3:35 | 2022-04-01 | 2022-07-29 |

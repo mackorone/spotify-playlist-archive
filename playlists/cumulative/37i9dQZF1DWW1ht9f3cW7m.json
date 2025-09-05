@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Belong To You",
+        "url": "https://open.spotify.com/album/71QSLMzVXtWu3lt3Z5N2vO"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        },
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270549,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/5Pcc7dUxSWJBMkdbR3mu2O"
+    },
+    {
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/4Huxw98rPzbwH7e6sEQRRC"
       },
@@ -3795,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "Marigolds",
+        "url": "https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170318,
+      "name": "Marigolds",
+      "url": "https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD"
+    },
+    {
+      "album": {
         "name": "mark/james",
         "url": "https://open.spotify.com/album/6ERboyRgPPiQscHNWqZYho"
       },
@@ -5262,7 +5302,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 220000,
       "name": "silly questions",
       "url": "https://open.spotify.com/track/6E8akTrRFf3e2h24qZL1ZJ"
@@ -5590,7 +5630,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 177618,
       "name": "Sweet Teeth",
       "url": "https://open.spotify.com/track/4cc4PxIF6eBP5EPNC3KYdI"

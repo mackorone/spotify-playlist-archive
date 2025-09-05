@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Kaushiki Chakraborty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,443 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,452 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 43 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
 | 44 | [Tum Naraz Ho](https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:55 |
 | 45 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
-| 46 | [Baanware](https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 7:51 |
-| 47 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
-| 48 | [BAALMAA](https://open.spotify.com/track/6S92MQ4Df2qIncc4Q35Udi) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:03 |
+| 46 | [BAALMAA](https://open.spotify.com/track/6S92MQ4Df2qIncc4Q35Udi) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:03 |
+| 47 | [Baanware](https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 7:51 |
+| 48 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 49 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 50 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
 

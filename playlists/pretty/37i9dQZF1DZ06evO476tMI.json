@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 630731,
+  "num_followers": 630743,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABhkpUlVfezU2s7eaJ8xFZU",
+  "snapshot_id": "aLeFAAAAAACGYHnWR0ZZWXcDR38sUEco",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 212990,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc"
+      "duration_ms": 305066,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": null,
@@ -215,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro"
       },
       "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 305066,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+      "duration_ms": 212990,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc"
     },
     {
       "added_at": null,

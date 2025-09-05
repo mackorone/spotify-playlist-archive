@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1253127,
+  "num_followers": 1253180,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAC0HkjMDNTqh5c/3UIdt2yR",
+  "snapshot_id": "aLeFAAAAAADEoPK7N2vWcwPpC/Zc00MS",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 416533,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
+      "duration_ms": 264333,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 264333,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb"
+      "duration_ms": 416533,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
+      "duration_ms": 274120,
+      "name": "Original Of The Species",
+      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 274120,
-      "name": "Original Of The Species",
-      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
+      "duration_ms": 259200,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stories Of Surrender EP",
-        "url": "https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba"
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
       "artists": [
-        {
-          "name": "Bono",
-          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
-        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 232758,
-      "name": "Sunday Bloody Sunday - Stories Of Surrender Version",
-      "url": "https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg"
+      "duration_ms": 234013,
+      "name": "Miracle Drug",
+      "url": "https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4"
     }
   ],
   "unique_name": "This Is U2",

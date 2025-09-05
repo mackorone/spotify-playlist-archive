@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-468 songs - 1 day 0 hr 40 min
+469 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 | 2024-09-07 |
 | [Back To You](https://open.spotify.com/track/5ps4sbbg2BEZnSxR4dzzey) | [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [NATAN](https://open.spotify.com/artist/2ytXAUlfstEUhiJof7mdPD) | [Back To You](https://open.spotify.com/album/3Hs9hjgWUXqrGuI85NFgsD) | 2:33 | 2021-10-29 | 2022-03-03 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 | 2025-06-29 |
-| [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2023-11-10 |  |
+| [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2023-11-10 | 2025-09-05 |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2022-11-24 | 2023-10-21 |
 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 | 2024-04-19 | 2025-05-31 |
 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-04-04 | 2025-07-07 |
@@ -189,6 +189,7 @@
 | [Higher](https://open.spotify.com/track/49AmxcPnsET8xC6vJWSsbo) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Higher](https://open.spotify.com/album/4x3pCrvcEGfyminaEhY9uQ) | 2:58 | 2021-10-29 | 2022-03-26 |
 | [Hit Me Up](https://open.spotify.com/track/2TG5LZkJS71E4ps1MbwmZU) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Hit Me Up](https://open.spotify.com/album/0HRiQafCjGq8QXF3snhiI1) | 3:06 | 2021-10-29 | 2022-07-24 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-06 |  |
+| [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 | 2025-08-29 |  |
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2022-09-30 | 2024-09-07 |
 | [Hold U \(feat\. James Tone\)](https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [James Tone](https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC) | [Hold U \(feat\. James Tone\)](https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB) | 3:28 | 2022-04-08 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 | 2022-09-09 | 2024-07-10 |

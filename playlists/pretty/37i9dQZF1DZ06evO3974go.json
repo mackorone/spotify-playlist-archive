@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20421,
+  "num_followers": 20424,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAsJ2C8l8lJqBozwPKnypiP",
+  "snapshot_id": "aLeFAAAAAACk1R+Hd9oq8xatNwJzMyfb",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Celebrate (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Basics",
         "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
       },
@@ -831,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Celebrate (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish Me Well",
         "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Heart Cold",
-      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sinning",
         "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 176009,
       "name": "Still Sinning",
       "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Heart Cold",
+      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
     },
     {
       "added_at": null,

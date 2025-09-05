@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B in the UK. Cover: Mulaa Joans",
+  "description": "The latest of R&B in the UK. Cover: Natanya",
   "name": "R&B UK",
   "tracks": [
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 203637,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 249500,
       "name": "Don't You Forget",
       "url": "https://open.spotify.com/track/0zICr7muWD6myHzUFEXc3p"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 197779,
       "name": "Down",
       "url": "https://open.spotify.com/track/2yZ23sMHy3Mr0ngR4eRr8R"
@@ -2762,6 +2762,24 @@
       "duration_ms": 163516,
       "name": "Freudian Slips",
       "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+    },
+    {
+      "album": {
+        "name": "Fruta Prohibida",
+        "url": "https://open.spotify.com/album/3XZ6OFcUcMgR5xJwy2IitS"
+      },
+      "artists": [
+        {
+          "name": "Qbanaa",
+          "url": "https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216313,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/4C0kY6BRzRDPlW0Z3uFPXV"
     },
     {
       "album": {
@@ -4477,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "Jezebel",
+        "url": "https://open.spotify.com/album/5MUMQdVStGYG834nBz6GaB"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194174,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/1NciBc7baz5hT6jNTixk7w"
+    },
+    {
+      "album": {
         "name": "JOURNEY",
         "url": "https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC"
       },
@@ -5109,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "DB",
+        "url": "https://open.spotify.com/album/1qDR2PRt1HHWWHDrLW4r1j"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/6mjAfjlIvfn21hYhwP4Inl"
+    },
+    {
+      "album": {
         "name": "Emotional Gangster",
         "url": "https://open.spotify.com/album/78yO2AOVjrtvfFf8dvHrGE"
       },
@@ -5232,7 +5286,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 210465,
       "name": "lvl 1 - HOME ALONE",
       "url": "https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn"
@@ -6126,7 +6180,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 251076,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/5uQHlxJYKPGJRHQfjDia0w"
@@ -7445,6 +7499,24 @@
     },
     {
       "album": {
+        "name": "skip!",
+        "url": "https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "skip!",
+      "url": "https://open.spotify.com/track/4ncEJ67Xn1yjaURi2X7aTy"
+    },
+    {
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/2A0LsbKIz0z9so3kxFoSM0"
       },
@@ -7670,6 +7742,24 @@
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
+    },
+    {
+      "album": {
+        "name": "Steppers / Closer",
+        "url": "https://open.spotify.com/album/3iysmFz1R1MIC1OnNVLS6s"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/1wgp8ywKsyg2p1axFfnN7X"
     },
     {
       "album": {
@@ -8219,6 +8309,24 @@
     },
     {
       "album": {
+        "name": "Teal Dreams",
+        "url": "https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194702,
+      "name": "Teal Dreams",
+      "url": "https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC"
+    },
+    {
+      "album": {
         "name": "tell em / time flies",
         "url": "https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4"
       },
@@ -8574,6 +8682,24 @@
       "duration_ms": 179928,
       "name": "Tried To Fly .",
       "url": "https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI"
     },
     {
       "album": {
@@ -8996,7 +9122,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 204200,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX"
@@ -9140,7 +9266,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 120705,
       "name": "Whole New Wardrobe",
       "url": "https://open.spotify.com/track/0h8KtXkpdruN69pSj6Jeav"

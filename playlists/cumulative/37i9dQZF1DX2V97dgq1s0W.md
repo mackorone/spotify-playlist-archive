@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Dayo Bello
+> The best voices in R&B\. Cover: Elmiene
 
 504 songs - 1 day 2 hr 39 min
 

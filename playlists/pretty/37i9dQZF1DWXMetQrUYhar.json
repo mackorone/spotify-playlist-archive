@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111153,
+  "num_followers": 111158,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -540,22 +540,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 239487,
-      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
       },
       "artists": [
@@ -567,6 +551,22 @@
       "duration_ms": 214393,
       "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 239487,
+      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1248,22 +1248,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN"
       },
       "artists": [
@@ -1275,6 +1259,22 @@
       "duration_ms": 277563,
       "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
       "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1424,17 +1424,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 192522,
-      "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
+      "duration_ms": 142643,
+      "name": "Consideration - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
     },
     {
       "added_at": "2023-11-07 19:15:28",
@@ -1456,17 +1456,33 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 142643,
-      "name": "Consideration - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
+      "duration_ms": 192522,
+      "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 168043,
+      "name": "White Noise - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1503,22 +1519,6 @@
       "duration_ms": 234473,
       "name": "Breathe - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
-      },
-      "artists": [
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 168043,
-      "name": "White Noise - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 225090,
-      "name": "Welcome to Your Life - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2cN7H31DES22HCjYitKggF"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 213995,
       "name": "Fire Escape - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 225090,
+      "name": "Welcome to Your Life - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2cN7H31DES22HCjYitKggF"
     },
     {
       "added_at": "2023-01-11 22:54:33",

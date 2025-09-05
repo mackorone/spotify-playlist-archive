@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-144 songs - 8 hr 59 min
+145 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2022-05-09 |  |
 | [ARTPOP](https://open.spotify.com/track/4ExhU5WCMZXaYSL8RAarvv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/3P4ieBubW04cGQT52hPxt6) | 4:07 | 2022-05-09 | 2022-11-13 |
 | [ARTPOP](https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 4:07 | 2022-05-09 |  |
-| [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2020-10-16\* |  |
+| [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2020-10-16\* | 2025-09-05 |
 | [Bad Romance](https://open.spotify.com/track/5WFIK6GKHpNXfjlH3BSnep) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(UK Deluxe\)](https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x) | 4:54 | 2020-10-16\* |  |
 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 | 2022-05-09 | 2024-04-19 |
 | [Bad Romance](https://open.spotify.com/track/7jUIPRC4R6B7NkKZof0Uci) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Divas Pop](https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj) | 4:54 | 2022-05-09 | 2022-11-13 |
@@ -133,6 +133,7 @@
 | [The Cure](https://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Cure](https://open.spotify.com/album/2yaSZnZhaxsbQ5xhgGbw3g) | 3:31 | 2022-05-09 | 2024-04-19 |
 | [The Cure](https://open.spotify.com/track/51PIvodunv6NmX5250zxAh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Cure](https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE) | 3:31 | 2020-10-16\* |  |
 | [The Cure](https://open.spotify.com/track/1kr3hljube9sUF0kp1mYdB) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Royalty](https://open.spotify.com/album/4fkkL10o4n5Tx13ph7tNrn) | 3:31 | 2022-05-09 | 2022-11-13 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-03 |  |
 | [The Edge Of Glory](https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:20 | 2020-10-16\* |  |
 | [The Edge Of Glory](https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 5:20 | 2022-05-09 | 2024-04-19 |
 | [The Edge Of Glory](https://open.spotify.com/track/2aoa5cKuiFjqVGpHUk4edI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Workout](https://open.spotify.com/album/2Qf3vLaKU7fg4a0x0ei8Ov) | 5:20 | 2022-05-09 | 2022-11-13 |

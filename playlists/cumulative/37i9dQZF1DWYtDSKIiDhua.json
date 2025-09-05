@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: no na",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Karencici",
   "name": "mood. ",
   "tracks": [
     {
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180000,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/4TEws61HNrnljB4c7bVsKc"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 220945,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
@@ -3542,6 +3542,28 @@
       "duration_ms": 134400,
       "name": "Caressing",
       "url": "https://open.spotify.com/track/5I9PPPSgYkQTgRCRD0bQkM"
+    },
+    {
+      "album": {
+        "name": "24 Hr Sports",
+        "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143857,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP"
     },
     {
       "album": {
@@ -5014,7 +5036,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 140303,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/5hKUDU4pAJ0r5q1EKHUtOQ"
@@ -15541,6 +15563,24 @@
     },
     {
       "album": {
+        "name": "New Martyrs (Ride 4 U)",
+        "url": "https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210052,
+      "name": "New Martyrs (Ride 4 U)",
+      "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
+    },
+    {
+      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/2TvbAsBVfXkvsdN3ca5eOn"
       },
@@ -16520,7 +16560,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 169820,
       "name": "ONE NIGHT",
       "url": "https://open.spotify.com/track/25lCIVyiwksrf28v9hldGR"
@@ -16538,7 +16578,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 207601,
       "name": "One Waking Dream",
       "url": "https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13"
@@ -17763,6 +17803,24 @@
     },
     {
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "album": {
         "name": "Position",
         "url": "https://open.spotify.com/album/6q4JLRLyknwO9uR1KT3xq7"
       },
@@ -18104,6 +18162,28 @@
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "album": {
+        "name": "Dear my muse",
+        "url": "https://open.spotify.com/album/6w2g6hQzeb5OBJmpIip5ir"
+      },
+      "artists": [
+        {
+          "name": "JUN. K",
+          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
+        },
+        {
+          "name": "Changbin of Stray Kids",
+          "url": "https://open.spotify.com/artist/1Ocr2yc1gR3a2a16yqNqal"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "R&B ME",
+      "url": "https://open.spotify.com/track/4a3IJKPfJLG8JulXasAKU5"
     },
     {
       "album": {
@@ -23569,6 +23649,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+    },
+    {
+      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -24451,6 +24549,24 @@
     },
     {
       "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "Voicenotes",
+      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
+    },
+    {
+      "album": {
         "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
         "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
       },
@@ -24514,6 +24630,24 @@
       "duration_ms": 219786,
       "name": "Waiting on the Right Time",
       "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
+    },
+    {
+      "album": {
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/3wXctFdiYhEMwMP1bLxu6C"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151168,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/7erMlcXKEJg4RCWp0ry7BV"
     },
     {
       "album": {
@@ -25960,7 +26094,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 250928,
       "name": "YARR",
       "url": "https://open.spotify.com/track/7kLBNcpi0UgM20E6DnQHwn"

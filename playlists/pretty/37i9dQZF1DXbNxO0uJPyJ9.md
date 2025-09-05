@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,597 likes - 80 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,758 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 41 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |
 | 42 | [\(I Wanna Give You\) Devotion \- Original Club Mix](https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A) | [Nomad](https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM) | [\(I Wanna Give You\) Devotion](https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC) | 6:49 |
 | 43 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 |
-| 44 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
+| 44 | [Shattered Dreams \- 12'' Extended Mix](https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [The Very Best Of Johnny Hates Jazz](https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB) | 5:12 |
 | 45 | [Blue Monday \('88\) \- 12" Version](https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Best Remixes](https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2) | 7:07 |
-| 46 | [Shattered Dreams \- 12'' Extended Mix](https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [The Very Best Of Johnny Hates Jazz](https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB) | 5:12 |
+| 46 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
 | 47 | [West End Girls \- Disco Mix](https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Disco](https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj) | 9:03 |
 | 48 | [Sunshine Reggae \- 12" Version](https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:37 |
 | 49 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |

@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Mulaa Joans
+> Discover your new favourite artists from UK&IE\. Cover: Demae
 
-326 songs - 17 hr 31 min
+327 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-06-17 |  |
 | [Steamroller](https://open.spotify.com/track/3NUVEYZe8SoeyxPO8PjhMs) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/5IuuKf7yyYt1WSBvK1Txam) | 2:55 | 2022-10-06 | 2023-03-05 |
 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 | 2022-11-11 | 2024-04-19 |
+| [Steppers](https://open.spotify.com/track/1wgp8ywKsyg2p1axFfnN7X) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Steppers / Closer](https://open.spotify.com/album/3iysmFz1R1MIC1OnNVLS6s) | 3:04 | 2025-09-04 |  |
 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 | 2022-07-28 |  |
 | [Stick Around](https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Everything Falls Into Place](https://open.spotify.com/album/2R9HgibWqmnLNBlKSxxtiJ) | 2:19 | 2022-07-14 |  |
 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 | 2024-04-25 |  |

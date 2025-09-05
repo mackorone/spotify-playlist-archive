@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: Ochungulo Family
+> Only the hottest Gengetone coming out of Kenya\. Cover: Odi Wa Muranga
 
-455 songs - 1 day 0 hr 24 min
+456 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Dunda](https://open.spotify.com/track/7nanZK1NvN5ICcJSEuRL3U) | [DERKMAN FTG](https://open.spotify.com/artist/57tBsnrbnaUfGDDC2pwtfd), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Dunda](https://open.spotify.com/album/7jscWvZYXu0IN5lyJELcx8) | 2:58 | 2023-08-31 | 2024-01-26 |
 | [Dusuma](https://open.spotify.com/track/3CxjOizcpCGAwZUs3kLIrS) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/5iPppSlnHgju6dTkQNIZ5w) | 3:33 | 2022-01-20 | 2022-01-28 |
 | [Dweet](https://open.spotify.com/track/3dyAWk6B82ImpE2qco0jLi) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Dweet](https://open.spotify.com/album/12jVz1pJQCLOXynE9s93rZ) | 2:51 | 2022-07-01 | 2023-08-08 |
+| [Eterera](https://open.spotify.com/track/1mSoG0UYiJi1uQ9rv2OHkC) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Eterera](https://open.spotify.com/album/2qSzMPdldHEBST8485H81X) | 2:21 | 2025-09-04 |  |
 | [Every Dakika](https://open.spotify.com/track/2ztLZ09IWt1B3c2tdvxder) | [Soundkraft](https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk), [RanzScooby](https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq), [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw) | [Every Dakika](https://open.spotify.com/album/2ThJWVXyqoBQvBQTTfmBnL) | 2:53 | 2024-02-29 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-01-20 | 2022-01-28 |
 | [Ex](https://open.spotify.com/track/4IaAncOtb1tpdS5xfML60h) | [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Ex](https://open.spotify.com/album/68hZRVtPpaP21V23PidWKQ) | 3:16 | 2022-05-12 | 2023-03-25 |
@@ -460,7 +461,7 @@
 | [Zible](https://open.spotify.com/track/3lsjJxqvPZn5oKSiYoitzN) | [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA), [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [Dj Lyta](https://open.spotify.com/artist/2lPEEC7Ci0BMaqyIKZryqL) | [Zible](https://open.spotify.com/album/1CYuFPOLRRRNOiI4x5cmvO) | 4:05 | 2022-02-10 | 2022-06-17 |
 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 | 2021-09-02 | 2023-08-18 |
 | [Zimenyilo](https://open.spotify.com/track/2GNMxLvOFuxBV1b9NGzscD) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6) | [Zimenyilo](https://open.spotify.com/album/4518jXSeHMv11oSsWYd8FN) | 3:23 | 2022-08-18 | 2023-07-14 |
-| [Zinaclap](https://open.spotify.com/track/5cdYbPNbSep1hek6X2CtDF) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Sean MMG](https://open.spotify.com/artist/3snfi6sDwNavuYOMEdM2b1), [Gody Tennor](https://open.spotify.com/artist/3wmVI21NcgCsCGGvYXW1QF), [Tipsy Gee](https://open.spotify.com/artist/70PFhmIijFIh6AGruNDMZT) | [Zinaclap](https://open.spotify.com/album/2LqYNdvR7cgNoY3lw6eUst) | 3:30 | 2024-06-20 |  |
+| [Zinaclap](https://open.spotify.com/track/5cdYbPNbSep1hek6X2CtDF) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Sean MMG](https://open.spotify.com/artist/3snfi6sDwNavuYOMEdM2b1), [Gody Tennor](https://open.spotify.com/artist/3wmVI21NcgCsCGGvYXW1QF), [Tipsy Gee](https://open.spotify.com/artist/70PFhmIijFIh6AGruNDMZT) | [Zinaclap](https://open.spotify.com/album/2LqYNdvR7cgNoY3lw6eUst) | 3:30 | 2024-06-20 | 2025-09-05 |
 | [Zorota](https://open.spotify.com/track/57uP6g6lY4ZoEF9vLQiSOJ) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6) | [Zorota](https://open.spotify.com/album/4sDexhcTjBhH5iyRRDqXND) | 2:11 | 2023-08-31 | 2023-12-22 |
 | [Zungushiwa](https://open.spotify.com/track/3Ck2uBtusYNyIlg37taAi7) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Zungushiwa](https://open.spotify.com/album/1ENn6Z0bIVUyagqByN4kck) | 3:17 | 2021-09-02 | 2022-01-07 |
 

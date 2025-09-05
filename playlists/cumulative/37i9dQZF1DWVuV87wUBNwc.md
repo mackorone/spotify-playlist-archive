@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> GIMS & Jul au sommet de la première playlist de France.
+> BLACKPINK au sommet de la première playlist de France.
 
 370 songs - 18 hr 47 min
 

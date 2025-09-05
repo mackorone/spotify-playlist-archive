@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADl20UWkSEj6OOBn1AkWF8Z",
+  "snapshot_id": "aLeFAAAAAACm8Uo1qNj6qHnp54Zsm83d",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Can't We Be Friends?",
-      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
+      "duration_ms": 342133,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 342133,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
+      "duration_ms": 227493,
+      "name": "Can't We Be Friends?",
+      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Weather Bird",
-      "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 240040,
       "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Weather Bird",
+      "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sonny Burke & His Orchestra",
+          "url": "https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+      "duration_ms": 177440,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
     },
     {
       "added_at": null,
@@ -863,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sonny Burke & His Orchestra",
-          "url": "https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,

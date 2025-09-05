@@ -1,13 +1,125 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 32144,
+  "num_followers": 32138,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAtESWncPVBK+raZn45ERuSQhkWf7bH",
+  "snapshot_id": "AAAtGDr9X/z8tvrwyou9FRO2gEzR3/8q",
   "tracks": [
+    {
+      "added_at": "2025-09-04 22:20:07",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx"
+    },
+    {
+      "added_at": "2025-09-04 22:20:06",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/20qgnwYmumRuusqWhAuc83"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 265449,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/40d3Gma09LoBTy9M2Edarq"
+    },
+    {
+      "added_at": "2025-09-04 22:20:04",
+      "album": {
+        "name": "Sa Re Ga Ma Pa",
+        "url": "https://open.spotify.com/album/1sQBhNKOstrRDX9qFjR0Os"
+      },
+      "artists": [
+        {
+          "name": "Maurya Sevak",
+          "url": "https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs"
+        }
+      ],
+      "duration_ms": 163454,
+      "name": "Sa Re Ga Ma Pa",
+      "url": "https://open.spotify.com/track/2lKVoNfesspkeWJzCZqxNo"
+    },
+    {
+      "added_at": "2025-09-04 22:20:03",
+      "album": {
+        "name": "BAD GIRL",
+        "url": "https://open.spotify.com/album/3XMMzxvhUwyCXxtetAb2Lm"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 164791,
+      "name": "BAD GIRL",
+      "url": "https://open.spotify.com/track/5FGf5PZjZ0CBPKdeI0TFhU"
+    },
+    {
+      "added_at": "2025-09-04 22:20:02",
+      "album": {
+        "name": "Love On Hold",
+        "url": "https://open.spotify.com/album/1fdWDM8YtbzmhIp8mMP10a"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 178207,
+      "name": "Love On Hold",
+      "url": "https://open.spotify.com/track/2XyjqBGEClpj4kBx6kv4kI"
+    },
+    {
+      "added_at": "2025-09-04 22:20:00",
+      "album": {
+        "name": "El Carretero",
+        "url": "https://open.spotify.com/album/4bYtIEuLXsvYjl57yLDuI5"
+      },
+      "artists": [
+        {
+          "name": "John Cala",
+          "url": "https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/6h5HhAyAb7MwTyhnDYUugR"
+    },
     {
       "added_at": "2025-08-28 16:22:12",
       "album": {

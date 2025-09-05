@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Satoshi, Advahov
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,785 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,787 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 42 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
 | 43 | [TUREAZ\-O](https://open.spotify.com/track/49TQJahxC2nOwzMuHeoMyo) | [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [TUREAZ\-O](https://open.spotify.com/album/3dk71qXYTDWB1Jjr8lfIPq) | 3:06 |
 | 44 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
-| 45 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
-| 46 | [Anxius](https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 3:00 |
+| 45 | [Anxius](https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 3:00 |
+| 46 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
 | 47 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
-| 48 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
-| 49 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
-| 50 | [Paradis 3](https://open.spotify.com/track/43Gt5PkBPDDzscRlWCfZps) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Paradis 3](https://open.spotify.com/album/1eKPlByx8VvRjE47fCPexj) | 3:50 |
+| 48 | [Paradis 3](https://open.spotify.com/track/43Gt5PkBPDDzscRlWCfZps) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Paradis 3](https://open.spotify.com/album/1eKPlByx8VvRjE47fCPexj) | 3:50 |
+| 49 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 50 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
 
 Snapshot ID: `AAAAAM8kSqjH+XLpaykLhF9GG91apVuP`

@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Gunna
 
-593 songs - 1 day 5 hr 54 min
+594 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-27 | 2023-02-04 |
 | [Mr Chow](https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:57 | 2024-11-08 | 2025-01-31 |
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-07-27 | 2023-02-17 |
+| [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 | 2025-09-05 |  |
 | [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 | 2023-04-27 | 2023-06-03 |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2023-01-27 | 2023-02-04 |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-08 | 2023-12-22 |
@@ -444,7 +445,7 @@
 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 | 2022-10-13 | 2022-11-04 |
 | [Prosper In Peace \(with Benny The Butcher\)](https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Prosper In Peace](https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m) | 3:32 | 2023-09-08 | 2023-09-19 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2022-09-16 | 2022-10-08 |
-| [PTSD 2 USDT](https://open.spotify.com/track/4iKu9Gpg6PBVIqyTPRbA2U) | [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [PTSD 2 USDT](https://open.spotify.com/album/2VQ2DECgvCMdJC0oQNmIHh) | 3:20 | 2025-08-29 |  |
+| [PTSD 2 USDT](https://open.spotify.com/track/4iKu9Gpg6PBVIqyTPRbA2U) | [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [PTSD 2 USDT](https://open.spotify.com/album/2VQ2DECgvCMdJC0oQNmIHh) | 3:20 | 2025-08-29 | 2025-09-05 |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:52 | 2022-07-27 | 2023-11-11 |
 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 | 2024-09-06 | 2024-11-16 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-26 | 2024-09-10 |

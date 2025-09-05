@@ -1,29 +1,13 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Laufey",
-  "num_followers": 37371,
+  "num_followers": 37452,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE551cXClfnYmvOELuF+VVcbQHvB",
+  "snapshot_id": "AAAAAFDgmYBePTo6+7v0DNkqFxlbFqsb",
   "tracks": [
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Forget-Me-Not",
-      "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
-    },
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
@@ -159,6 +143,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Forget-Me-Not",
+      "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Just Two Girls",
-      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 212445,
       "name": "Connell",
       "url": "https://open.spotify.com/track/4hjsXIvXtLE4KCtIEZmuX7"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 238607,
       "name": "What We On (with Don Toliver)",
       "url": "https://open.spotify.com/track/5euOEb5B1ALxnB06Oto5d8"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Dancing2",
         "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 272803,
       "name": "Dancing2",
       "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "PIKI",
-        "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 259867,
-      "name": "PIKI",
-      "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Lonely At The Top",
         "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 258000,
       "name": "SWANK WHITE (feat. Westside Gunn)",
       "url": "https://open.spotify.com/track/5xUUmEcCA9AONCu864FCGq"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "PIKI",
+        "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 259867,
+      "name": "PIKI",
+      "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
     },
     {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200351,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
       "added_at": "2025-09-03 16:50:41",
       "album": {
         "name": "To Dry a Tear",
@@ -639,6 +623,22 @@
       "duration_ms": 194700,
       "name": "I Love Lucy",
       "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Sophie",
-        "url": "https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 193153,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 193153,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "B A D I D E A",
-        "url": "https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 109634,
-      "name": "B A D I D E A",
-      "url": "https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/1KtWr0Jrrc6q7sMO30w2Zg"
+        "name": "B A D I D E A",
+        "url": "https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr"
       },
       "artists": [
         {
-          "name": "Prewn",
-          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
         }
       ],
-      "duration_ms": 234880,
-      "name": "System",
-      "url": "https://open.spotify.com/track/1xrFcmeQpv5Eo5Gx0AVknk"
+      "duration_ms": 109634,
+      "name": "B A D I D E A",
+      "url": "https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -887,6 +871,38 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/1KtWr0Jrrc6q7sMO30w2Zg"
+      },
+      "artists": [
+        {
+          "name": "Prewn",
+          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "System",
+      "url": "https://open.spotify.com/track/1xrFcmeQpv5Eo5Gx0AVknk"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Racecar",
+        "url": "https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 337561,
+      "name": "Racecar",
+      "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "RHODA",
         "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 290526,
       "name": "400",
       "url": "https://open.spotify.com/track/5shWaE48zh8ZnXzJMMIkuu"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "Racecar",
-        "url": "https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Patterson",
-          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
-        }
-      ],
-      "duration_ms": 337561,
-      "name": "Racecar",
-      "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
     },
     {
       "added_at": "2025-08-29 18:25:24",

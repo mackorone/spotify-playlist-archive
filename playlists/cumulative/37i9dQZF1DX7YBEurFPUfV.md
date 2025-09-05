@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-141 songs - 8 hr 6 min
+142 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Rjel Tunis](https://open.spotify.com/track/4I5ZyFF55zqQRNzYdhl1Od) | [Omar Laya](https://open.spotify.com/artist/3bbrfcE7yIia9BrIIMeZLF) | [Rjel Tunis](https://open.spotify.com/album/2nyIDIgnhMpVuD7MGkUO5S) | 3:33 | 2024-02-24 | 2025-01-24 |
 | [Sa7a](https://open.spotify.com/track/4FLgbthreXG0QiWWYeYfMf) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz) | [Sa7a](https://open.spotify.com/album/5GBcqogPqtHNYomZqoELo7) | 3:19 | 2024-02-24 | 2024-10-11 |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2024-02-24 | 2024-07-27 |
-| [Sagapo](https://open.spotify.com/track/6fFZHFNKHbBXcZPWgNqKXp) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Sagapo](https://open.spotify.com/album/0IGeayTS4H7JmOy2xEH00n) | 3:12 | 2024-11-26 |  |
+| [Sagapo](https://open.spotify.com/track/6fFZHFNKHbBXcZPWgNqKXp) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Sagapo](https://open.spotify.com/album/0IGeayTS4H7JmOy2xEH00n) | 3:12 | 2024-11-26 | 2025-09-05 |
 | [Savage](https://open.spotify.com/track/0eTSk4KhErvJ8fC4PhbsQg) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Savage](https://open.spotify.com/album/51skWbUOPoL7tqIvCZUKqY) | 2:52 | 2024-08-01 | 2024-10-11 |
 | [SECRET](https://open.spotify.com/track/68RcscBwwog1oQ96I5gnrL) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [SECRET](https://open.spotify.com/album/0kSOvC2nXGzIA4IASccBW3) | 3:16 | 2024-08-20 |  |
 | [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 | 2024-02-24 | 2024-05-25 |
@@ -130,6 +130,7 @@
 | [Stava Bene](https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Stava Bene](https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF) | 3:44 | 2024-04-18 | 2024-06-01 |
 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 | 2024-02-24 | 2024-04-19 |
 | [Sur La Tête De Ma Mère](https://open.spotify.com/track/6FdXUFCdk2oTBltsS216gC) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [Sur La Tête De Ma Mère](https://open.spotify.com/album/3nktcC8HVPUiJP5cdUYnJh) | 3:03 | 2024-02-24 | 2025-02-02 |
+| [Tamam](https://open.spotify.com/track/5sQB9em8iSsLJaBU5KCnrI) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Tamam](https://open.spotify.com/album/7dzteEU1NckZyEt8haS9DA) | 3:57 | 2025-09-04 |  |
 | [Tamam \- تمام](https://open.spotify.com/track/5uEEIZTLKtQjHXCKpqcAqz) | [Klay BBJ](https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO) | [Tamam \(تمام\)](https://open.spotify.com/album/28IxyUCkogf2mh0hxv6fOS) | 3:50 | 2024-02-24 | 2025-01-10 |
 | [Tfadhel](https://open.spotify.com/track/7EBgYjGG0ZXOZh3PraqIhj) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Tfadhel](https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu) | 3:12 | 2025-03-12 |  |
 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 | 2025-03-12 |  |

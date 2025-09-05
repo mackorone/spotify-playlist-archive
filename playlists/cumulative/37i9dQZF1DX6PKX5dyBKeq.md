@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Fredo
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: EsDeeKid, fakemink, Rico Ace
 
-2,156 songs - 4 day 11 hr 10 min
+2,157 songs - 4 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [BLM \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1OrQyeJFwnthJwEgNBSXg0) | [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [BLM \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6yPai6sBPDWEXhSjsSMepg) | 3:52 | 2020-10-10 | 2020-11-23 |
 | [BLOCK & DELETE](https://open.spotify.com/track/4Iv0Km4TarzZM3WbVfTzd0) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg) | [BLOCK & DELETE](https://open.spotify.com/album/5fC17FNZ2ejjXp3N5ox9sG) | 3:05 | 2022-08-18 | 2022-09-10 |
 | [Block Boy](https://open.spotify.com/track/4cptd7fQ3dNQrKeyMFiJJQ) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Block Boy](https://open.spotify.com/album/3wdHwUQCcgDh99xGfyssHj) | 2:17 | 2020-11-03 | 2021-01-29 |
+| [Block Tales](https://open.spotify.com/track/6u1eEbXzBtEFxrSPOW90V5) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Catch](https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Block Tales](https://open.spotify.com/album/20DqljJ63hpAAv5HCMYca0) | 2:52 | 2025-09-04 |  |
 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 | 2024-01-19 | 2024-03-16 |
 | [Blood on the Floor](https://open.spotify.com/track/5fAZDL4rSkkiQHXlJE5Shk) | [Jaxxon D\. Silva](https://open.spotify.com/artist/2xyB69da0CCHYgs9WUgFr1), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Blood on the Floor](https://open.spotify.com/album/6UlXMkZ462CuLUPCs4eI7c) | 2:06 | 2020-08-15 | 2020-08-30 |
 | [Blow Trees \(feat\. MIST, Abra Cadabra, Tunde & Wardz\)](https://open.spotify.com/track/5LgxU9EtzRK6aS88Fe5sSC) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Wardz](https://open.spotify.com/artist/2nd78NYnkIIRsWP7bhsljl) | [Blow Trees \(feat\. MIST, Abra Cadabra, Tunde & Wardz\)](https://open.spotify.com/album/4ng0sEcp3quY0JjOjcnF9y) | 3:24 | 2024-04-19 | 2024-05-11 |
@@ -429,7 +430,7 @@
 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 | 2021-07-09 | 2022-04-01 |
 | [Clearest of Signs](https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [Clearest of Signs](https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN) | 2:15 | 2022-05-06 | 2022-09-16 |
 | [Click Of My Fingers](https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Click Of My Fingers](https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi) | 3:13 | 2023-08-03 | 2023-12-09 |
-| [Close Protection](https://open.spotify.com/track/697OqmZMVY2PElSp3cg3bk) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Close Protection](https://open.spotify.com/album/70MV8ZUAB6jCAZbuB5jU39) | 1:47 | 2025-06-26 |  |
+| [Close Protection](https://open.spotify.com/track/697OqmZMVY2PElSp3cg3bk) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Close Protection](https://open.spotify.com/album/70MV8ZUAB6jCAZbuB5jU39) | 1:47 | 2025-06-26 | 2025-09-05 |
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-07-15 |
 | [Cloud 9](https://open.spotify.com/track/2PunFfwQmub6lKMmLe0H3w) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7) | [Underrated](https://open.spotify.com/album/6SznjJElCCQwtgjIC4AuLx) | 3:08 | 2024-12-20 | 2025-04-11 |
 | [Clout](https://open.spotify.com/track/62u66iaafZGsa517qQjzvi) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Clout](https://open.spotify.com/album/0JVLrYn6J7QaKzAsi2v1EB) | 2:19 | 2020-12-18 | 2021-01-08 |

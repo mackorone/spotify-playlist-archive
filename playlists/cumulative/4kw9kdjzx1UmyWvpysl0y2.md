@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,063 songs - 2 day 11 hr 33 min
+1,064 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Foul](https://open.spotify.com/track/678Xgl1L3zy2RR1QQO44zm) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul \(RAIZHELL Remix\)](https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU) | 2:59 | 2025-02-05 | 2025-02-12 |
 | [Foul](https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul](https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B) | 2:59 | 2024-10-04 | 2025-01-11 |
 | [Foul \- RAIZHELL Remix](https://open.spotify.com/track/3Ui6VUzyd1j7WXCP4koUaf) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul \(RAIZHELL Remix\)](https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU) | 2:37 | 2025-02-11 | 2025-05-01 |
+| [Free](https://open.spotify.com/track/2fI8duj2PRrFtBjuZ56Ukz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Free](https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX) | 2:47 | 2025-09-04 |  |
 | [Frequency Fusion](https://open.spotify.com/track/5VeCxkNBNIp5wwHk6XkQY2) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Frequency Fusion](https://open.spotify.com/album/4gKmRkOzbynrohmMZQOkwl) | 2:47 | 2023-09-01 | 2023-12-14 |
 | [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 | 2022-12-02 |
 | [Full Speed](https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Full Speed](https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh) | 2:53 | 2023-07-31 | 2023-12-14 |

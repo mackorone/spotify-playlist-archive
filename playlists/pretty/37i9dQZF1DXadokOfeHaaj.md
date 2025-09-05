@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Fcukers
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,963 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,993 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 53 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 |
 | 54 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 |
 | 55 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
-| 56 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
-| 57 | [24h In A Disco](https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco](https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS) | 3:15 |
+| 56 | [24h In A Disco](https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco](https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS) | 3:15 |
+| 57 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
 | 58 | [pacifico](https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [pacifico](https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9) | 3:18 |
 | 59 | [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 |
 | 60 | [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 67 | [Rush \(Missing Out On Me\)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [Rush \(Missing Out On Me\)](https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg) | 2:24 |
 | 68 | [It Feels Much Better](https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU) | 3:01 |
 | 69 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 |
-| 70 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
+| 70 | [Girl](https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Girl](https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa) | 3:24 |
 
 Snapshot ID: `AAAAAJz0YLMGUtJvrsulSMedhfIulbjp`

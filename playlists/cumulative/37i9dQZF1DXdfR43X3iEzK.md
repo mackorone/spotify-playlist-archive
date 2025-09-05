@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️ cover: artemas
+> my alt/pop could mean anything ⚔️ cover: d4vd
 
-473 songs - 1 day 1 hr 34 min
+481 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [9 2 5](https://open.spotify.com/track/4zz49nB3rFzVPrEQmwuSrU) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [9 2 5](https://open.spotify.com/album/1rLn3XFLdBGMkYThRRGtdF) | 4:29 | 2025-06-19 | 2025-07-18 |
 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-02-14 | 2025-03-28 |
 | [\_\_\_\_, close to you.](https://open.spotify.com/track/2Z4VqvPcyjpNpWUCZ75ddH) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [\_\_\_\_, close to you.](https://open.spotify.com/album/2fo5NIYUfdWFSNLbC6bJuA) | 2:43 | 2025-07-17 |  |
+| [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-04 |  |
 | [a green light](https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [a green light](https://open.spotify.com/album/0aFdRy0kEmY8rOKrU5pzbI) | 2:38 | 2025-05-01 | 2025-05-31 |
 | [Act of Innocence](https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Act of Innocence](https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG) | 3:03 | 2024-06-07 | 2024-07-31 |
 | [all i ever had](https://open.spotify.com/track/3QQ2um3SEAZUXaz8sL7YVV) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [all i ever had](https://open.spotify.com/album/6GGaPCCUmyK2jzR5zI3IeA) | 2:24 | 2025-06-06 | 2025-07-25 |
@@ -30,6 +31,7 @@
 | [All The Good Men](https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [All The Good Men](https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t) | 1:57 | 2025-08-15 |  |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 | 2025-03-14 |
 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 | 2024-06-07 | 2025-03-08 |
+| [Alone](https://open.spotify.com/track/0SNeXIyKngZs5WwHt1qrnO) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Alone](https://open.spotify.com/album/1x88zaL3Fhd4FCVtDIDhG1) | 2:52 | 2025-09-04 |  |
 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 | 2025-04-03 | 2025-05-31 |
 | [American Doll](https://open.spotify.com/track/49qWseFkwRYjqCJCul5h9o) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 2:15 | 2025-03-07 | 2025-03-21 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 | 2024-08-16 |
@@ -55,6 +57,7 @@
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-12-10 |
 | [Better If We Don't](https://open.spotify.com/track/7h9etc3zfnXYobjqCiQG20) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Better If We Don't](https://open.spotify.com/album/6j3p3KuggLr8qPaXlKyz7T) | 3:08 | 2025-04-17 | 2025-05-31 |
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-10 |  |
+| [Big Bad Pearl](https://open.spotify.com/track/7cPH1QXuEtdtGGJ7f1bn6j) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Big Bad Pearl](https://open.spotify.com/album/46WHnnpAdHD3vQgtJA6e8i) | 3:42 | 2025-09-04 |  |
 | [Bite](https://open.spotify.com/track/3kcJrIE5mQ6wmGKSy61hmT) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [Bite](https://open.spotify.com/album/02b7XEH280zTd1rSOWRi8u) | 2:26 | 2025-07-24 |  |
 | [blade bird](https://open.spotify.com/track/4Imp01XkBi3nquOhX5UGQN) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:18 | 2025-07-17 |  |
 | [Blindfold \(feat\. Liz Lawrence\)](https://open.spotify.com/track/3qlNhvJd7arndpEp2CFsaJ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:42 | 2024-06-07 | 2024-07-13 |
@@ -67,6 +70,7 @@
 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-03-28 | 2025-05-02 |
 | [Boyfriend](https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [Boyfriend](https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B) | 3:00 | 2025-03-21 | 2025-04-04 |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-06-07 | 2025-03-14 |
+| [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 | 2025-09-04 |  |
 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 | 2024-06-07 | 2025-03-08 |
 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 | 2025-06-26 | 2025-07-11 |
 | [Brotherly Hate](https://open.spotify.com/track/1WCHcUZXGO6BSKdWUBBSCD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Brotherly Hate](https://open.spotify.com/album/02Qfly51WMCezenFHLooKQ) | 2:49 | 2025-07-31 | 2025-08-22 |
@@ -272,14 +276,17 @@
 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-05-09 | 2025-07-25 |
 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 | 2025-03-14 | 2025-04-04 |
 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 | 2025-03-07 | 2025-03-28 |
+| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
 | [Lonyo!](https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Lonyo!](https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE) | 3:35 | 2025-08-07 |  |
 | [LOOK GOOD NAKED](https://open.spotify.com/track/76Yz3qIe8Rh9gdU3LgCqI2) | [DEMISANTÉ](https://open.spotify.com/artist/7GpNPLZ5JiluMbMZxh1EUq), [Demi Yo'ko](https://open.spotify.com/artist/7KFJi5XXBTrDfn7mhkcHpf) | [LOOK GOOD NAKED](https://open.spotify.com/album/2iGrvWNSvE0Z1b2wDEbNd3) | 2:16 | 2025-03-14 | 2025-04-18 |
 | [lose her](https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [kissing under an \(almost\) full moon](https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ) | 4:10 | 2025-05-09 | 2025-08-01 |
+| [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-04 |  |
 | [Lost You Again](https://open.spotify.com/track/1gg8yb0bUGrE58OyOg1WJa) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Lost You Again](https://open.spotify.com/album/1FncFecv4T6PmdXvLw7ZIB) | 3:06 | 2025-05-22 | 2025-06-27 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-10 | 2025-02-14 |
 | [Love Again](https://open.spotify.com/track/1gnsm5hGThEmvlEt9SJyAW) | [Lyon Dolphin](https://open.spotify.com/artist/4cftN2rDHIme2VtRYU7wzb) | [Love Again](https://open.spotify.com/album/5DxlFj09UIGhyJocBZapxm) | 3:36 | 2025-06-06 | 2025-08-01 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-02-14 | 2025-03-28 |
 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 | 2024-06-07 | 2024-07-19 |
+| [Lovelorn](https://open.spotify.com/track/397ZkoEUm0yfkHCTKlHrxT) | [Beattie](https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR) | [Lovelorn](https://open.spotify.com/album/1vq4P3z0gkOrT6EQcTCrmH) | 2:36 | 2025-09-04 |  |
 | [Lucy](https://open.spotify.com/track/2djMadJLhufUl397ravYvO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Lucy](https://open.spotify.com/album/1ayJQYYEf8irFc5UVR82f8) | 2:41 | 2025-03-28 | 2025-07-11 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-07 | 2025-03-08 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-06-07 | 2025-03-14 |
@@ -424,6 +431,7 @@
 | [Tether](https://open.spotify.com/track/2bwSei08fWmBaxkf4vzhgh) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Tether / Drawing Flesh from Stone](https://open.spotify.com/album/1VxsHikxSf6sOntWeQ3yhD) | 3:52 | 2025-07-24 |  |
 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 | 2025-05-15 | 2025-06-07 |
 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 | 2024-06-07 | 2025-03-08 |
+| [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 | 2025-09-04 |  |
 | [The Blue](https://open.spotify.com/track/2fAyPHPYdDoIADhRQgwoEh) | [Mumble Tide](https://open.spotify.com/artist/2EsJCBlZQSKzOj8lcxr9N8) | [Might As Well Play Another One](https://open.spotify.com/album/7MnQccSxmibUd0405fOpYy) | 4:28 | 2025-05-01 | 2025-07-25 |
 | [The Conflict Of The Mind](https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict Of The Mind](https://open.spotify.com/album/3IcTqH3eggpX1ODT8l535d) | 4:15 | 2024-06-07 | 2025-02-14 |
 | [The Deep Blue Okay](https://open.spotify.com/track/5hojXeDbIX1Q3USfoqyQ2Y) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [A Complicated Woman](https://open.spotify.com/album/3dJJU7f7Ab81xAmUvCT0o9) | 5:32 | 2025-04-24 | 2025-05-10 |

@@ -6383,6 +6383,24 @@
     },
     {
       "album": {
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1aBbXtexG3NrzuUPz9Yiia"
+    },
+    {
+      "album": {
         "name": "Second Self",
         "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
       },
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 182346,
       "name": "Time",
       "url": "https://open.spotify.com/track/0wRirPA2py1x1zGVt0qnfe"

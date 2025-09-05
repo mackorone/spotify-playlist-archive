@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,494 likes - 41 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,604 likes - 41 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,24 +30,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 20 | [Yo Quisiera Amarla](https://open.spotify.com/track/7Ln0OEpEiFDMwxHfEMP5aM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 5:06 |
 | 21 | [Te Invito](https://open.spotify.com/track/5UdT2XVZPgZDMi7vxQBgRN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 3:33 |
 | 22 | [Brindo Con Agua](https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Brindo Con Agua](https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO) | 4:41 |
-| 23 | [Cuando Volveras](https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:30 |
+| 23 | [Amor de Madre](https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 5:50 |
 | 24 | [La Tormenta](https://open.spotify.com/track/2d4rnjrHTPdLTFRGz4ccim) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:35 |
 | 25 | [Llorar](https://open.spotify.com/track/4M4oSbEjB8Z94039uyjXuO) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:10 |
-| 26 | [Amor de Madre](https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 5:50 |
+| 26 | [Cuando Volveras](https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:30 |
 | 27 | [Our Song](https://open.spotify.com/track/4AuBmjPXmbBc0ZxFuaqcVQ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:28 |
-| 28 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 |
+| 28 | [Lágrimas](https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:45 |
 | 29 | [Mi Niña Cambió](https://open.spotify.com/track/3ORQsL0g4APGsXoqD5tkpm) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:33 |
-| 30 | [Lágrimas](https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:45 |
+| 30 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 |
 | 31 | [Nueve y Quince \- 9: 15](https://open.spotify.com/track/1LitgN2tFmNVEtLY6qh5SZ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:24 |
-| 32 | [Alexandra](https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:05 |
+| 32 | [Inmortal \- Live From MetLife Stadium](https://open.spotify.com/track/3f9SWkabRYCU8jLZdEUpWD) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Inmortal \(Live From MetLife Stadium\)](https://open.spotify.com/album/6N5QFzqqBBMHyZXebyqRnv) | 5:10 |
 | 33 | [La Pelicula](https://open.spotify.com/track/4MSVpbF5oOFyOxpsmbFAsH) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 5:32 |
-| 34 | [Inmortal \- Live From MetLife Stadium](https://open.spotify.com/track/3f9SWkabRYCU8jLZdEUpWD) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Inmortal \(Live From MetLife Stadium\)](https://open.spotify.com/album/6N5QFzqqBBMHyZXebyqRnv) | 5:10 |
+| 34 | [Alexandra](https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:05 |
 | 35 | [Controversia](https://open.spotify.com/track/2SnqFQaxOxkLmUDpk7Z4mi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
-| 36 | [Un Poeta Enamorado](https://open.spotify.com/track/3UGmjwwOSioDqkeszNycGC) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:14 |
+| 36 | [My Voy \- Live](https://open.spotify.com/track/2YYqOY94VWoSl5XewubU9w) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 4:25 |
 | 37 | [Defa Vú](https://open.spotify.com/track/1x27vVrC2P7WPlW2tCsjGu) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:24 |
-| 38 | [My Voy \- Live](https://open.spotify.com/track/2YYqOY94VWoSl5XewubU9w) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 4:25 |
+| 38 | [Un Poeta Enamorado](https://open.spotify.com/track/3UGmjwwOSioDqkeszNycGC) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:14 |
 | 39 | [Alexandra / No Lo Perdona Dios / Amor Bonito / ¿cuándo Volverás? \- Live](https://open.spotify.com/track/6FFTFvSqtVID11P7o4yFwF) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Kings of Bachata: Sold Out at Madison Square Garden \(Live\)](https://open.spotify.com/album/3dYWBu4JKmTQ4WgsRUchkL) | 8:22 |
 | 40 | [Amor Bonito \(Novela 2\)](https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:37 |
 | 41 | [No Lo Perdona Dios](https://open.spotify.com/track/5ERhiZwEhNFIeXEG6RstN9) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:32 |
 
-Snapshot ID: `aLYzgAAAAABWNrHEIGYvtmq+Mv8KWdoQ`
+Snapshot ID: `aLeFAAAAAABjslYZ5OjZp/oRTOLGPHc6`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-755 songs - 1 day 13 hr 57 min
+756 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 | 2023-04-28 |
 | [AWOL](https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [AWOL](https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr) | 3:35 | 2022-07-22 | 2023-04-28 |
 | [aya](https://open.spotify.com/track/63IK5WSU4PJRlPWkNYIKZP) | [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [aya](https://open.spotify.com/album/2A6voGfhUhaF9fp6JlcMd3) | 3:44 | 2023-03-29 | 2023-08-10 |
+| [AYUDA](https://open.spotify.com/track/0XYsHKj2V91gj2LN00RdaV) | [MXRCVRY](https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf) | [AYUDA](https://open.spotify.com/album/6GWRGa92hMsagLO9JGsLnd) | 1:49 | 2025-09-04 |  |
 | [BABY](https://open.spotify.com/track/4ie0uWnLS3xv5ZBiFFdO8K) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BABY](https://open.spotify.com/album/0496ctErDNGeGhddpJTQct) | 2:38 | 2023-12-13 | 2024-05-15 |
 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 | 2023-12-13 | 2024-07-19 |
 | [Back & Forth](https://open.spotify.com/track/0MY27k185vk4UoWTg1kwpg) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Back & Forth](https://open.spotify.com/album/5CT8ygeSRRS4iQz9cBziP0) | 3:58 | 2024-05-07 | 2024-11-20 |

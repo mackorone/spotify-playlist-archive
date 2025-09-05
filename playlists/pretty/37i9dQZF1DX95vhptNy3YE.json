@@ -1,6 +1,6 @@
 {
   "description": "Renan Oliveira e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 370346,
+  "num_followers": 370310,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
-        "name": "A Nata de Tudo - A Ovelha Negra",
-        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
-      },
-      "artists": [
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 299076,
-      "name": "Medley de Igarat\u00e1 4",
-      "url": "https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
         "name": "Desabafo 2",
         "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 150000,
       "name": "Desabafo 2",
       "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
+        "name": "A Nata de Tudo - A Ovelha Negra",
+        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 299076,
+      "name": "Medley de Igarat\u00e1 4",
+      "url": "https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -431,18 +431,26 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "beira.wav",
+          "url": "https://open.spotify.com/artist/5hqyBZU3Hdg0HfT5VUURTB"
         }
       ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+      "duration_ms": 251587,
+      "name": "Avan\u00e7ando Muito",
+      "url": "https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -467,26 +475,18 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Elow",
-          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
-        },
-        {
-          "name": "beira.wav",
-          "url": "https://open.spotify.com/artist/5hqyBZU3Hdg0HfT5VUURTB"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 251587,
-      "name": "Avan\u00e7ando Muito",
-      "url": "https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT"
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -599,6 +599,42 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "Fiz Quase Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
+        "name": "A Cara do Enquadro",
+        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 145055,
+      "name": "Cartas na Mesa (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -631,42 +667,6 @@
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "A Cara do Enquadro",
-        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 145055,
-      "name": "Cartas na Mesa (B\u00f4nus)",
-      "url": "https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Fiz Quase Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Fiz Quase Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "Papel de Ot\u00e1rio",
+        "url": "https://open.spotify.com/album/49YIhCVfyKRjPYgFJTeoZI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "duration_ms": 150623,
+      "name": "Papel de Ot\u00e1rio",
+      "url": "https://open.spotify.com/track/10TooKY9p8e0Pget0v26lo"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "Banjo E Bon\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 229131,
       "name": "Banjo E Bon\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "Amor ou Ressentimento",
         "url": "https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF"
       },
@@ -859,46 +879,6 @@
       "duration_ms": 151048,
       "name": "Amor ou Ressentimento",
       "url": "https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Papel de Ot\u00e1rio",
-        "url": "https://open.spotify.com/album/49YIhCVfyKRjPYgFJTeoZI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        },
-        {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
-        }
-      ],
-      "duration_ms": 150623,
-      "name": "Papel de Ot\u00e1rio",
-      "url": "https://open.spotify.com/track/10TooKY9p8e0Pget0v26lo"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Minhas Andan\u00e7as",
-        "url": "https://open.spotify.com/album/3yPJ9jMG3NUaCYKPsfrGNL"
-      },
-      "artists": [
-        {
-          "name": "Cleber Augusto",
-          "url": "https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 217900,
-      "name": "Im\u00e3",
-      "url": "https://open.spotify.com/track/3kjg24Ovz5BfTbOvIHrFDL"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -947,6 +927,26 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "Minhas Andan\u00e7as",
+        "url": "https://open.spotify.com/album/3yPJ9jMG3NUaCYKPsfrGNL"
+      },
+      "artists": [
+        {
+          "name": "Cleber Augusto",
+          "url": "https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 217900,
+      "name": "Im\u00e3",
+      "url": "https://open.spotify.com/track/3kjg24Ovz5BfTbOvIHrFDL"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "S\u00f3 VVamo Sunset (Ao Vivo)",
         "url": "https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN"
       },
@@ -979,6 +979,38 @@
       "duration_ms": 170562,
       "name": "Em Qualquer Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
+        "name": "Yeezy Slide \"REMIX\"",
+        "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        },
+        {
+          "name": "ANTCONSTANTINO",
+          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "Yeezy Slide \"REMIX\"",
+      "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -1051,38 +1083,6 @@
       "duration_ms": 229095,
       "name": "Rob\u00f4 - Spotify Singles",
       "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Yeezy Slide \"REMIX\"",
-        "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "MC Marlon PH",
-          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
-        },
-        {
-          "name": "ANTCONSTANTINO",
-          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "Yeezy Slide \"REMIX\"",
-      "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
     },
     {
       "added_at": "2025-08-29 00:01:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,478 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,482 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 5 | [IN MY HEAD](https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [IN MY HEAD](https://open.spotify.com/album/5dI959e51lkReZI50si0ef) | 2:57 |
 | 6 | [Don Dada](https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:28 |
 | 7 | [Balance](https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:03 |
-| 8 | [Good Or Bad \(Oway\)](https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:05 |
-| 9 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 |
+| 8 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 |
+| 9 | [Good Or Bad \(Oway\)](https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:05 |
 | 10 | [Taku](https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Zero Panic, Vol\. 2](https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4) | 2:28 |
 | 11 | [I Can't Kill Myself](https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
 | 12 | [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 44 | [I Like The Way](https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [I Like The Way](https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz) | 3:19 |
 | 45 | [Sexy Ladies](https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:36 |
 | 46 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 |
-| 47 | [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 |
-| 48 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
+| 47 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
+| 48 | [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 |
 | 49 | [BLESSINGS \(feat\. Eugy Official\)](https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:54 |
 | 50 | [God You Are 2 Much](https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gift And Grace](https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE) | 4:32 |
 
-Snapshot ID: `aLYzgAAAAAApgONSJmIx0dql2wKwWw9i`
+Snapshot ID: `aLeFAAAAAAC2MQBweCjR/iqagNY1WOLL`

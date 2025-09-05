@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Sena \u015eahin ",
+  "description": "Pop'un sevilen isimleri. Kapak: G\u00f6ksel \u0130pek\u00e7i x Safiye",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -3263,6 +3263,28 @@
     },
     {
       "album": {
+        "name": "\u0130lk G\u00f6r\u00fc\u015fte Diyenler",
+        "url": "https://open.spotify.com/album/72X7xDZufFTCg3zxNOCYtV"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel \u0130pek\u00e7i",
+          "url": "https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr"
+        },
+        {
+          "name": "Safiye",
+          "url": "https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "\u0130lk G\u00f6r\u00fc\u015fte Diyenler",
+      "url": "https://open.spotify.com/track/2Nl4cwR8yS6DOhm1EPiLYD"
+    },
+    {
+      "album": {
         "name": "\u0130mdad\u0131m",
         "url": "https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd"
       },
@@ -3944,7 +3966,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180074,
       "name": "Kutuplar",
       "url": "https://open.spotify.com/track/6enbvLSRJJbmcovxPheEC2"
@@ -4605,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "Neyleyim",
+        "url": "https://open.spotify.com/album/7afUZVEM8lLALmNbi9ejgh"
+      },
+      "artists": [
+        {
+          "name": "Sufle",
+          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212047,
+      "name": "Neyleyim",
+      "url": "https://open.spotify.com/track/4DP9EEtBGAzmsM8URT7MIw"
+    },
+    {
+      "album": {
         "name": "NOLDUYSA OLDU",
         "url": "https://open.spotify.com/album/2szyZK8995Knlb6krlCSw9"
       },
@@ -4696,6 +4736,28 @@
       "duration_ms": 205224,
       "name": "Ortak",
       "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
+    },
+    {
+      "album": {
+        "name": "Panzehir",
+        "url": "https://open.spotify.com/album/3TvzSxSwzZ1ED48NtPF5C8"
+      },
+      "artists": [
+        {
+          "name": "Ece Mumay",
+          "url": "https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe"
+        },
+        {
+          "name": "Acnatro",
+          "url": "https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128766,
+      "name": "Panzehir",
+      "url": "https://open.spotify.com/track/0c7DbeZAQlYnqBCIf0T9Hx"
     },
     {
       "album": {
@@ -5698,7 +5760,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 148035,
       "name": "Tuttum B\u0131rakmam",
       "url": "https://open.spotify.com/track/02xoSSypEzF5VFdjEiZb8s"
@@ -6120,7 +6182,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 205312,
       "name": "YARALI",
       "url": "https://open.spotify.com/track/0QT4Z3h5z1U757wy9XRLFT"

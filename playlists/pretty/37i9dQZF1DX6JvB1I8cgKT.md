@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain]
 
 > We all crave things that aren't good for us\. Listen to music from the HBO Original series The Idol, streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,401 likes - 42 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,399 likes - 42 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

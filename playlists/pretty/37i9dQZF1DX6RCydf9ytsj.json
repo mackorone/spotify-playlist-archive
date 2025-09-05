@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 699069,
+  "num_followers": 699264,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
+      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
-      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
-      },
-      "artists": [
-        {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        }
-      ],
-      "duration_ms": 292626,
-      "name": "Everything That Glitters (Is Not Gold)",
-      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 203240,
       "name": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
       "url": "https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        }
+      ],
+      "duration_ms": 292626,
+      "name": "Everything That Glitters (Is Not Gold)",
+      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
+      "duration_ms": 183533,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 181426,
-      "name": "That's the Way Love Goes",
-      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
+      "duration_ms": 203600,
+      "name": "Twinkle, Twinkle Lucky Star",
+      "url": "https://open.spotify.com/track/5lxDdFXillBqYvKe9gsYT1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Swingin'",
-      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Best Of Michael Martin Murphey",
-        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Michael Martin Murphey",
-          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 171906,
-      "name": "What's Forever For?",
-      "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
+      "duration_ms": 197026,
+      "name": "Drivin' My Life Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "The Best Of Michael Martin Murphey",
+        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Michael Martin Murphey",
+          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
         }
       ],
-      "duration_ms": 197026,
-      "name": "Drivin' My Life Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
+      "duration_ms": 171906,
+      "name": "What's Forever For?",
+      "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 232773,
       "name": "What I'd Say",
       "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Do You Wanna Go to Heaven",
-      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Do You Wanna Go to Heaven",
+      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2024-10-14 21:15:40",

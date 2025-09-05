@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Wikus Botma",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -3055,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "Kwaai",
+        "url": "https://open.spotify.com/album/2bNCNkYpsXSzHObC5t6woq"
+      },
+      "artists": [
+        {
+          "name": "Wikus Botma",
+          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "Kwaai",
+      "url": "https://open.spotify.com/track/5C34K01X7SH8IK19GhnLKG"
+    },
+    {
+      "album": {
         "name": "Kwaaitjie",
         "url": "https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z"
       },
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 163035,
       "name": "Ouens Soos Ek",
       "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"

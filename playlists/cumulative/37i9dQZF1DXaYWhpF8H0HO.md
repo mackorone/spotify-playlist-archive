@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: no na
 
-460 songs - 1 day 2 hr 48 min
+461 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Here, I Said 'Thank You'](https://open.spotify.com/track/5Cgy50FxnAM37H2PPrVfSi) | [Cosmoplaza](https://open.spotify.com/artist/4dMVkCAtoW19LfuCvgQWpC) | [Here, I Said 'Thank You'](https://open.spotify.com/album/0hQtQdnbzwAbgCWEKWxRRq) | 2:16 | 2025-06-12 | 2025-07-18 |
 | [hey, i'm tired](https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [life update](https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf) | 4:05 | 2024-09-05 | 2025-01-24 |
 | [Hide](https://open.spotify.com/track/4MLJYSQ14LOLedbh0rXWil) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Hide](https://open.spotify.com/album/5WOtETfheZKBTIREHccP6a) | 3:23 | 2025-07-03 | 2025-08-29 |
+| [high](https://open.spotify.com/track/3idBrMwX5Kcl5e2LOEW8P3) | [Olivia Pardede](https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD) | [high](https://open.spotify.com/album/0iFVOKmAwq5QxHoZIlsDLD) | 3:38 | 2025-09-05 |  |
 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 | 2024-09-12 | 2025-01-24 |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 | 2025-01-24 |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-06-27 | 2025-01-24 |

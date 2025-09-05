@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Kim x Kany",
+  "description": "Les hits zouk du moment. Photo : Lisandro Cuxi",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -578,6 +578,28 @@
       "duration_ms": 157411,
       "name": "Call me",
       "url": "https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca"
+    },
+    {
+      "album": {
+        "name": "CARDIO",
+        "url": "https://open.spotify.com/album/2qCx00xTA23BEgRujR9Qng"
+      },
+      "artists": [
+        {
+          "name": "Dj M'sy",
+          "url": "https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c"
+        },
+        {
+          "name": "Dyrone",
+          "url": "https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "CARDIO",
+      "url": "https://open.spotify.com/track/4jGQosmehonskWfrEEzxN4"
     },
     {
       "album": {
@@ -1885,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "Il est temps",
+        "url": "https://open.spotify.com/album/4SAaZZTo2cl82ZGuaMq1xx"
+      },
+      "artists": [
+        {
+          "name": "SOUNDPLUG",
+          "url": "https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Il est temps",
+      "url": "https://open.spotify.com/track/6FRwVx9fXOArc1UhYWJynk"
+    },
+    {
+      "album": {
         "name": "Il y a moyen",
         "url": "https://open.spotify.com/album/75TOa84pPwYEsNNabUSNPs"
       },
@@ -2910,7 +2954,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 147245,
       "name": "Malin",
       "url": "https://open.spotify.com/track/1K2GYTdC5izc5ccZ1joDM2"
@@ -3386,7 +3430,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 184090,
       "name": "Nos images",
       "url": "https://open.spotify.com/track/7mNB65WvhACTs98QpTZvtC"

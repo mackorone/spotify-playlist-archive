@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: DVSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,527 likes - 291 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,610 likes - 291 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 51 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 52 | [The Way You Move](https://open.spotify.com/track/3Eu9tmJEAEMmnD2WxUbHHi) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [The Way You Move](https://open.spotify.com/album/61quv4YYzbubnaozMSdMNZ) | 2:50 |
 | 53 | [fmyx](https://open.spotify.com/track/4KnN83cdoND7BKDqSglgXd) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [fmyx/dirty diana](https://open.spotify.com/album/3sT4pMsWtvnQsCe6e9Z7Ha) | 1:58 |
-| 54 | [my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
+| 54 | [act xiii: my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act xiii: my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
 | 55 | [stupid prizes](https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [stupid prizes](https://open.spotify.com/album/6eiiFyinzNFa5ZnCiRp6c3) | 3:11 |
 | 56 | [Behave !](https://open.spotify.com/track/0V5JH4ELW3bvWnpmbwZ0Zs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Behave !](https://open.spotify.com/album/5Dv5eZIrl68gk1fzozZDds) | 2:43 |
 | 57 | [All That and More \(with Maverick Sabre\)](https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [All That and More \(with Maverick Sabre\)](https://open.spotify.com/album/32xmrLOID1vBsLNtcmIaOB) | 3:16 |

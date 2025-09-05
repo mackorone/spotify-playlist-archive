@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec marguerite
+> Les meilleures nouveautés de la variété française avec Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,641 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,655 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Chez moi](https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Chez moi](https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR) | 2:41 |
 | 50 | [Les fleurs de demain](https://open.spotify.com/track/2ijrZYVsc6wuqqwcKuolUF) | [Nola](https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA) | [Les fleurs de demain](https://open.spotify.com/album/212EyeaJhjacKwLxD3asLQ) | 2:02 |
 
-Snapshot ID: `AAAAALuWuslC9Vembile2LtjOBy1caSi`
+Snapshot ID: `AAAAABP6+VLKS45c2sehKT5Y40asBZv7`

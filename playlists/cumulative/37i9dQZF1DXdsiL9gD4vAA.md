@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-210 songs - 18 hr 46 min
+211 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/4AzCXSgvjUiEbkr7mBvpNO) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0AzQXg1jQISWHBnF4SHg3d) | 7:08 | 2023-12-12 | 2024-04-19 |
 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 |  |
 | [Ab Vo Baat Kahaan](https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Ab Vo Baat Kahaan](https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK) | 5:33 | 2025-08-01 |  |
+| [Achanak Safar Mein](https://open.spotify.com/track/3x8uf74HEWtW3AZ7uCvTWI) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Achanak Safar Mein](https://open.spotify.com/album/6dkt2eYxjXK0z7EnEFcNDw) | 6:31 | 2025-08-29 |  |
 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 | 2023-03-23 | 2025-08-12 |
 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 | 2025-01-01 |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 | 2024-04-19 |
@@ -35,7 +36,7 @@
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 | 2023-07-20 |
 | [Baalam](https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Baalam](https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2) | 4:20 | 2024-12-31 |  |
 | [Baat Itni Si](https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Baat Itni Si](https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY) | 5:34 | 2024-11-08 |  |
-| [Bahut Sonchta Hoon](https://open.spotify.com/track/5MSsS7cqt5WzwOfwoSl4GV) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Bahut Sonchta Hoon](https://open.spotify.com/album/5TtYcncsWLhIhgAkHbpztz) | 6:22 | 2025-08-08 |  |
+| [Bahut Sonchta Hoon](https://open.spotify.com/track/5MSsS7cqt5WzwOfwoSl4GV) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Bahut Sonchta Hoon](https://open.spotify.com/album/5TtYcncsWLhIhgAkHbpztz) | 6:22 | 2025-08-08 | 2025-09-05 |
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-12-31 |  |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6E2BUkw4XCghytulGBrbNI) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:33 | 2023-09-14 | 2024-04-19 |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6cQFfIR4FenzBP1tztktJL) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.2](https://open.spotify.com/album/6mtRHyLK4jWGNjse3byVu1) | 0:33 | 2024-04-18 | 2025-01-01 |

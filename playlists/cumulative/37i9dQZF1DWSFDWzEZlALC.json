@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: lovehead",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: TOBIAS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 259842,
       "name": "15 juni",
       "url": "https://open.spotify.com/track/6eO8fwLjJteXA4pWw2BMnI"
+    },
+    {
+      "album": {
+        "name": "1500 km",
+        "url": "https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "1500 km",
+      "url": "https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP"
     },
     {
       "album": {
@@ -720,6 +738,24 @@
       "duration_ms": 180000,
       "name": "4 Uhr",
       "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
+    },
+    {
+      "album": {
+        "name": "4000 Grad",
+        "url": "https://open.spotify.com/album/2lkXbUhpicIypWig96Sa4P"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143669,
+      "name": "4000 Grad",
+      "url": "https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR"
     },
     {
       "album": {
@@ -1866,7 +1902,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180542,
       "name": "Angst",
       "url": "https://open.spotify.com/track/5flXEtnmx7VsADuAYdEiIO"
@@ -1928,6 +1964,42 @@
       "duration_ms": 157354,
       "name": "Aperol Chick",
       "url": "https://open.spotify.com/track/6MSS0udA6vxkw40y4l0GDH"
+    },
+    {
+      "album": {
+        "name": "arizona 2012",
+        "url": "https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149837,
+      "name": "arizona 2012",
+      "url": "https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6"
+    },
+    {
+      "album": {
+        "name": "Arsch an Arsch.",
+        "url": "https://open.spotify.com/album/1p5zV40t8D6uyaEQeTwf2j"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Arsch an Arsch.",
+      "url": "https://open.spotify.com/track/6d3BPRJsNJuTeRTUwFpyKR"
     },
     {
       "album": {
@@ -3280,7 +3352,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 167118,
       "name": "blonded radio",
       "url": "https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX"
@@ -5491,6 +5563,24 @@
     },
     {
       "album": {
+        "name": "Du kannst nicht gut allein sein",
+        "url": "https://open.spotify.com/album/0GdCyhce60HcUmnUugZV6W"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Du kannst nicht gut allein sein",
+      "url": "https://open.spotify.com/track/2ZPIyzwaJ1fDdGdlqBq7Cy"
+    },
+    {
+      "album": {
         "name": "du k\u00fcsst jetzt jemand anderen :/",
         "url": "https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe"
       },
@@ -5784,7 +5874,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 121507,
       "name": "durchdenwind",
       "url": "https://open.spotify.com/track/2yy0N8goZoobfBbuf4i5vz"
@@ -6708,7 +6798,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 159880,
       "name": "Es ist schon ok",
       "url": "https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp"
@@ -8522,7 +8612,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 188402,
       "name": "Geflicktes Herz",
       "url": "https://open.spotify.com/track/5GOTb2rpHSk0SckpCONyfz"
@@ -10870,7 +10960,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 170840,
       "name": "Ich nehm die Sonne mit",
       "url": "https://open.spotify.com/track/1gx7oxnWR9Aiw9CiMh2idj"
@@ -13242,7 +13332,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 137076,
       "name": "Lala",
       "url": "https://open.spotify.com/track/1JKg6fNYI2MvettB4UoV4q"
@@ -14391,6 +14481,24 @@
     },
     {
       "album": {
+        "name": "Erinnerst du dich",
+        "url": "https://open.spotify.com/album/6HGoY1yJ9SvuXzbZz5k037"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Luftschloss",
+      "url": "https://open.spotify.com/track/1NJ1BkSyT0PAcbCPOQmtmJ"
+    },
+    {
+      "album": {
         "name": "Lungenfl\u00fcgel",
         "url": "https://open.spotify.com/album/5bPifu17qFz3j91MKxMh3t"
       },
@@ -14442,6 +14550,24 @@
       "duration_ms": 131244,
       "name": "machs f\u00fcr dich allein",
       "url": "https://open.spotify.com/track/0RkKUD6Q8l15P4DAwnRean"
+    },
+    {
+      "album": {
+        "name": "Mailand",
+        "url": "https://open.spotify.com/album/22LFqHs3L8xqDRzK53B6XT"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108157,
+      "name": "Mailand",
+      "url": "https://open.spotify.com/track/6yL8yqfzMPooUhF6PHe81x"
     },
     {
       "album": {
@@ -14738,6 +14864,24 @@
       "duration_ms": 126101,
       "name": "Marmeladenglas",
       "url": "https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU"
+    },
+    {
+      "album": {
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/1rp2rarNiSFB7ZqkIs5zPu"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292480,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/2pBJ5niLIzgziC8MsL7A4F"
     },
     {
       "album": {
@@ -16724,7 +16868,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 164000,
       "name": "Ohne Dich",
       "url": "https://open.spotify.com/track/1Bz1Ftugqs9AyrP4Hykm1h"
@@ -17024,7 +17168,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 163466,
       "name": "Panik",
       "url": "https://open.spotify.com/track/4XVM5oqBmoyWQCZz7uVI6z"
@@ -18577,6 +18721,24 @@
     },
     {
       "album": {
+        "name": "R\u00fcckbank",
+        "url": "https://open.spotify.com/album/5rZPP4RZsAgziV6ZKcBFDS"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "R\u00fcckbank",
+      "url": "https://open.spotify.com/track/0eykQulskSplL3BJ3YWBfe"
+    },
+    {
+      "album": {
         "name": "S-Bahn",
         "url": "https://open.spotify.com/album/6TJiwS41xu92moF2Tp3jor"
       },
@@ -18712,6 +18874,24 @@
       "duration_ms": 155773,
       "name": "Salz",
       "url": "https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3"
+    },
+    {
+      "album": {
+        "name": "Salzwasser",
+        "url": "https://open.spotify.com/album/7eH2JMRd3cUr2UGOBcfFNH"
+      },
+      "artists": [
+        {
+          "name": "Yunus",
+          "url": "https://open.spotify.com/artist/3SrCAswHaxL87fCepyuN0U"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171585,
+      "name": "Salzwasser",
+      "url": "https://open.spotify.com/track/7vDHMFwNG6JBV2SXL69fxO"
     },
     {
       "album": {
@@ -18910,7 +19090,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 186318,
       "name": "Schief in jedem Chor",
       "url": "https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN"
@@ -19882,6 +20062,24 @@
       "duration_ms": 181775,
       "name": "sinnlose gedanken",
       "url": "https://open.spotify.com/track/3Qz4uQoG1HoVawst5pwqGQ"
+    },
+    {
+      "album": {
+        "name": "siriusstern",
+        "url": "https://open.spotify.com/album/0LfbdxND1TtRf0EVzeyyR8"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS",
+          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "siriusstern",
+      "url": "https://open.spotify.com/track/2nFfjUbdHsmgt7bszzqXOE"
     },
     {
       "album": {
@@ -20969,6 +21167,24 @@
     },
     {
       "album": {
+        "name": "mp2",
+        "url": "https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184857,
+      "name": "Sterben Baby",
+      "url": "https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka"
+    },
+    {
+      "album": {
         "name": "Sterne",
         "url": "https://open.spotify.com/album/1zBezRSzJd3ksq1sw5OcQf"
       },
@@ -21278,7 +21494,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 196000,
       "name": "Sturm im Kopf",
       "url": "https://open.spotify.com/track/65z2UwzApFlNDIaIL6sH4x"
@@ -21404,7 +21620,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 129948,
       "name": "Tango",
       "url": "https://open.spotify.com/track/1XbP4kn5CSYvv1if1rQGbF"
@@ -23983,6 +24199,24 @@
     },
     {
       "album": {
+        "name": "wasserfarben",
+        "url": "https://open.spotify.com/album/4kqjunzSIIIvNhxLBwob9M"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184078,
+      "name": "wasserfarben",
+      "url": "https://open.spotify.com/track/1Yg5zPio1lMQOWsXmUjKpY"
+    },
+    {
+      "album": {
         "name": "Gruftpop",
         "url": "https://open.spotify.com/album/6d8X5I54nNXj2Ez0Ne7gZW"
       },
@@ -24142,7 +24376,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 164400,
       "name": "weiter",
       "url": "https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir"

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-887 songs - 2 day 10 hr 42 min
+889 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Describe You](https://open.spotify.com/track/5QX8sjpXdXRqlvRKZHR2HW) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Confessions](https://open.spotify.com/album/523NK9KpUMDov85Flrn1kf) | 3:19 | 2024-01-18 |  |
 | [Detroit Rock City](https://open.spotify.com/track/4DmBwHmp0FVO6NJ9QfH2w2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 5:18 | 2023-02-11 |  |
 | [Diamond Day](https://open.spotify.com/track/1SVbLtv66jl9djDekvnMTq) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 1:47 | 2025-02-14 |  |
+| [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z), [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 | 2025-09-04 |  |
 | [Different Trains: America, Before the War](https://open.spotify.com/track/1YiBEdXvyWL9rupB3Cg4IQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Different Trains / Electric Counterpoint](https://open.spotify.com/album/3i8ojYITZwfiZilo8ShpxQ) | 8:58 | 2024-02-07 | 2024-02-10 |
 | [Dig Me Out](https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:40 | 2023-08-14 |  |
 | [Dig My Grave](https://open.spotify.com/track/5mdYxvtDAnuYNYQw085Plw) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Apollo 18](https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR) | 1:08 | 2024-01-09 |  |
@@ -287,6 +288,7 @@
 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 | 2023-06-08 |  |
 | [Fruity](https://open.spotify.com/track/2cNZzxSe048owMCdRloYkH) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Sun Machine](https://open.spotify.com/album/5Nzqg5Xb7xaKfl3XudeNiY) | 3:50 | 2024-02-07 | 2024-05-17 |
 | [Future Nostalgia](https://open.spotify.com/track/3mC8VlVBwdVxCTq4cYZr64) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:04 | 2023-01-29 | 2024-03-15 |
+| [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 | 2025-09-04 |  |
 | [Gelid Ascent](https://open.spotify.com/track/1be49tNalB6UhKCfhpCV0B) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Paralytic Stalks](https://open.spotify.com/album/6nWmjBhBCijSziLSz10FyL) | 4:09 | 2023-06-03 |  |
 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 | 2024-03-17 | 2024-03-20 |
 | [Get Back](https://open.spotify.com/track/5HvB1BWxjT7Mc5VVmJXyhU) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:12 | 2024-08-16 |  |

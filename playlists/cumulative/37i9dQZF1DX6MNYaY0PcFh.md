@@ -2,9 +2,9 @@
 
 ### [New UK Garage](https://open.spotify.com/playlist/37i9dQZF1DX6MNYaY0PcFh)
 
-> The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Jorja Smith
+> The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: JayaHadADream
 
-304 songs - 17 hr 10 min
+305 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [I Wanna](https://open.spotify.com/track/0WGf7l6DPCl9OJAjAGjO1g) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Pressure](https://open.spotify.com/album/5d8EwTfv45Mf3DVTNeMFnf) | 5:22 | 2024-05-31 | 2024-09-06 |
 | [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:33 | 2025-08-15 |  |
 | [I'm Your Lover \(Only\)](https://open.spotify.com/track/6x9Hu7fMjHl3dA9VT2CPvQ) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [I'm Your Lover \(Only\)](https://open.spotify.com/album/5XQAEebkScnTFNtrHfi1sv) | 3:44 | 2025-08-15 | 2025-08-29 |
-| [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 | 2025-03-14 |  |
+| [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 | 2025-03-14 | 2025-09-05 |
 | [if thats okay with u <3](https://open.spotify.com/track/5SjBZxVxM8qv00A2MBQ3QS) | [Arundel](https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA) | [if thats okay with u <3](https://open.spotify.com/album/12YLAsNkEyWzbYvj4x1OYg) | 3:28 | 2024-09-05 |  |
 | [Insomnia](https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Channeler / Insomnia](https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E) | 4:38 | 2023-04-27 | 2023-08-02 |
 | [Is What It Is](https://open.spotify.com/track/1FjWbDfXu195TRmMxXZi99) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Is What It Is](https://open.spotify.com/album/7DE2X6ZVhSp0QXxxyMmZTr) | 4:29 | 2024-01-03 | 2024-09-13 |
@@ -238,6 +238,7 @@
 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 | 2024-03-29 | 2025-05-31 |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-11-25 | 2024-02-16 |
 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 | 2023-09-01 | 2025-05-16 |
+| [Senses](https://open.spotify.com/track/4zKfzNTHGTI60A5FcykRKU) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Senses](https://open.spotify.com/album/5F1ysE3pHEVff0KT3c0YfN) | 3:48 | 2025-09-04 |  |
 | [Senses](https://open.spotify.com/track/3ll3R3NIJAIgrxRhyUPbBq) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Senses](https://open.spotify.com/album/288sNd4BQCtDFtqD661sQK) | 2:51 | 2024-05-31 | 2024-06-28 |
 | [Shadows Pt\. 3](https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Shadows Pt\. 3](https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy) | 3:14 | 2024-05-10 | 2024-10-07 |
 | [Shine](https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Shine](https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5) | 2:49 | 2025-08-15 | 2025-08-30 |

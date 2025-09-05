@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83261,
+  "num_followers": 83290,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,34 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
+        "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
+        "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        },
+        {
+          "name": "Altijd Larstig & Rob Gasd\u2019rop",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+        },
+        {
+          "name": "FeestDJRuud",
+          "url": "https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "Van Goes Tot Purmerend - Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix",
+      "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
         "name": "Van God Los (Official 2025 Kamping Kitsch Club Anthem)",
         "url": "https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL"
       },
@@ -587,34 +615,6 @@
       "duration_ms": 165375,
       "name": "Van God Los - Official 2025 Kamping Kitsch Club Anthem",
       "url": "https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
-        "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
-        "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        },
-        {
-          "name": "Altijd Larstig & Rob Gasd\u2019rop",
-          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
-        },
-        {
-          "name": "FeestDJRuud",
-          "url": "https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "Van Goes Tot Purmerend - Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix",
-      "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "De Laatste (De Nachtbrakers Remix)",
-        "url": "https://open.spotify.com/album/5p8PEyTaHYcWCrYM9JbYOz"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "De Nachtbrakers",
-          "url": "https://open.spotify.com/artist/6WtQIrE4QtO7sceTzeasnn"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Laatste - De Nachtbrakers Remix",
-      "url": "https://open.spotify.com/track/75zPlFNjN0P92jD67UMIU2"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 154064,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "De Laatste (De Nachtbrakers Remix)",
+        "url": "https://open.spotify.com/album/5p8PEyTaHYcWCrYM9JbYOz"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "De Nachtbrakers",
+          "url": "https://open.spotify.com/artist/6WtQIrE4QtO7sceTzeasnn"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Laatste - De Nachtbrakers Remix",
+      "url": "https://open.spotify.com/track/75zPlFNjN0P92jD67UMIU2"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Het Is Een Nacht (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "Het Is Een Nacht - Total Loss Remix",
-      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Gas Erop",
         "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 179612,
       "name": "Gas Erop",
       "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Het Is Een Nacht (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 257202,
+      "name": "Het Is Een Nacht - Total Loss Remix",
+      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
     },
     {
       "added_at": "2025-08-07 22:00:34",

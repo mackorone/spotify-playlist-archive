@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: BL3SS, Gravagerz
+> The UK's biggest dance playlist! Cover: Luke Dean, Omar+
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,565 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,433,597 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 69 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 |
 | 70 | [Be Alright](https://open.spotify.com/track/5T5AS42m32tKpFLfibRSqy) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Be Alright](https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF) | 2:35 |
 
-Snapshot ID: `AAAAAMS8ow10C6yc4ewaRWCmBqGB14Cx`
+Snapshot ID: `AAAAABfvBXE+/TIXzfi0IFpUySMqwORL`

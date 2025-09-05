@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYR32AP4Wmt2>Boramess</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIX30jCdcmoHL>Mac DeMarco</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUEDTPDBY1KO>Jay Wheeler</a>, <a href=spotify:playlist:37i9dQZF1EIVGMPo9pz2W2>YoungBoy Never Broke Again</a>, <a href=spotify:playlist:37i9dQZF1EIZrYRP4IHLCX>Lil Peep</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 149030,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6"
@@ -1448,6 +1448,24 @@
       "duration_ms": 298440,
       "name": "BITTERSUITE",
       "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
+    },
+    {
+      "album": {
+        "name": "bizden olsun isterdim",
+        "url": "https://open.spotify.com/album/7chCiMkxR7phGqNPqIbNcH"
+      },
+      "artists": [
+        {
+          "name": "Boramess",
+          "url": "https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "bizden olsun isterdim",
+      "url": "https://open.spotify.com/track/5BrfqCzFP7TQL7YgugogJd"
     },
     {
       "album": {
@@ -1946,6 +1964,24 @@
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
+    },
+    {
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "album": {
@@ -2990,7 +3026,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 219226,
       "name": "Dreams From Bunker Hill",
       "url": "https://open.spotify.com/track/720cFmiRJj0brle3kQ7nHH"
@@ -4739,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "How Could You (Be OK)",
+        "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197594,
+      "name": "How Could You (Be OK)",
+      "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
+    },
+    {
+      "album": {
         "name": "Therapy Session",
         "url": "https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI"
       },
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 170240,
       "name": "I Bet on Losing Dogs",
       "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
@@ -7442,7 +7496,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 244137,
       "name": "Mati-Matian",
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
@@ -8788,7 +8842,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 136667,
       "name": "Pink in the Night",
       "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"

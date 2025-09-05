@@ -9066,7 +9066,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 193841,
       "name": "I Really Do...",
       "url": "https://open.spotify.com/track/2Dp6icDc5dvYnWvxZOjj75"
@@ -9586,7 +9586,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 303640,
       "name": "Ishq Bulaava",
       "url": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy"
@@ -14852,7 +14852,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States)",
       "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
@@ -17590,6 +17590,36 @@
       "duration_ms": 163200,
       "name": "OOPS",
       "url": "https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB"
+    },
+    {
+      "album": {
+        "name": "Oorum Blood (From \"Dude\")",
+        "url": "https://open.spotify.com/album/1FwT2MEKJvRlswZcB8mQTE"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "bebhumika",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240107,
+      "name": "Oorum Blood - From \"Dude\"",
+      "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
     },
     {
       "album": {
@@ -20908,7 +20938,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 271169,
       "name": "Satranga (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
@@ -21556,7 +21586,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -24990,7 +25020,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"
@@ -25020,7 +25050,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"

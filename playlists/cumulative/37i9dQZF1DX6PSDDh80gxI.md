@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Laila Al Habash in cover di Indie Italia 🧡
+> svegliaginevra in cover di Indie Italia 🌊
 
-349 songs - 18 hr 34 min
+354 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 | 2025-01-23 | 2025-03-12 |
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Acqua passata](https://open.spotify.com/track/5BdoBBRMswolsuftniTJY7) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Acqua passata](https://open.spotify.com/album/2R14AMf2ubRN99XASbQgFx) | 2:59 | 2025-05-29 |  |
+| [AIR \(feat\. Venerus & Ele A\)](https://open.spotify.com/track/0vty6zPguCSs4wiWpFYxO4) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:49 | 2025-09-04 |  |
 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 | 2025-05-08 | 2025-05-30 |
 | [Al cuore gentile](https://open.spotify.com/track/2KdngEV1IO0FvXW7rliNTw) | [Niccolò Fabi](https://open.spotify.com/artist/2pboyZFylWoAL86o6E1gDo) | [Al cuore gentile](https://open.spotify.com/album/75bc7Z3Qz01u318JDYAg1h) | 2:32 | 2025-05-15 | 2025-06-13 |
 | [Alaska](https://open.spotify.com/track/2rUvFkePq1K0WbW9uZ64oY) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Alaska](https://open.spotify.com/album/2I5DAwuxdzjCaTI1gvdtWH) | 2:26 | 2024-11-07 | 2025-01-24 |
@@ -43,6 +44,7 @@
 | [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 | 2024-09-27 |  |
 | [BAR S\. CALISTO](https://open.spotify.com/track/4MuMKlFB6W9QAqSpXZf85n) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [NOTTI BRAVE AMARCORD](https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J) | 2:34 | 2025-04-24 | 2025-05-09 |
 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 | 2025-04-24 | 2025-07-18 |
+| [Becalóva](https://open.spotify.com/track/6EM5Wh5yvEI2bXLqm82sjr) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/6o9iETdhprzrxv0ARB4eoB) | 3:00 | 2025-09-04 |  |
 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-10-04 |
 | [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 | 2025-04-10 | 2025-07-04 |
@@ -125,6 +127,7 @@
 | [Girotondo \(feat\. Gio Evan\)](https://open.spotify.com/track/4MVYJcHU7fFaZz0fALp4fc) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy), [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Piccola abitante di Saturno](https://open.spotify.com/album/0UQpvfjR1GJ7XnMI4ZRpmg) | 2:30 | 2025-04-24 | 2025-07-17 |
 | [Giura](https://open.spotify.com/track/2R5t2eZcBd0HTuthZChjSN) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Long Story Short](https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL) | 3:00 | 2024-06-27 | 2024-07-05 |
 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-10-17 | 2025-03-28 |
+| [Gomma Americana](https://open.spotify.com/track/6atsBUUO14VdT7XdUtUcKj) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Gomma Americana](https://open.spotify.com/album/5CuqrabMbyE2wmNx3bEcgA) | 2:32 | 2025-09-04 |  |
 | [Grattacieli meteoriti gli angeli](https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:24 | 2025-01-23 |  |
 | [Grazie ma no grazie](https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Grazie ma no grazie](https://open.spotify.com/album/0qXDA1aseu36UbzuadyYnx) | 3:25 | 2025-02-12 | 2025-05-16 |
 | [GUAGLIONA \(feat\. Lil Jolie\)](https://open.spotify.com/track/2KufQMHOclDkVO3WT5L91j) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [GUAGLIONA](https://open.spotify.com/album/6ssZZ0r8YDAFO8NMcLNmMP) | 2:45 | 2024-06-27 | 2024-08-16 |
@@ -275,6 +278,7 @@
 | [Sabato sera](https://open.spotify.com/track/5r89XCDpwt6EEzycluccVt) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [Sabato sera](https://open.spotify.com/album/5oaGasWzGMskHq7ZX3o7uj) | 3:10 | 2025-05-01 | 2025-05-16 |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-08-16 |
 | [Sarebbe bello ve'](https://open.spotify.com/track/2bPR1yKjYwbFPYefuSddBS) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Sarebbe bello ve'](https://open.spotify.com/album/22Ca29HbzkEzK6zp8QSrxK) | 3:06 | 2025-03-13 | 2025-04-11 |
+| [sbalzi d'umore](https://open.spotify.com/track/62mrphhxReT05rlu68jdYL) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [sbalzi d'umore](https://open.spotify.com/album/6qEzXWQHBtiL3g3hcQQ2DB) | 2:54 | 2025-09-04 |  |
 | [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-06-26 |  |
 | [Sconosciuti](https://open.spotify.com/track/7G5MGUEldnk7eixgIjaeaY) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Sconosciuti](https://open.spotify.com/album/7fW7qpPuLWgge3SpBUUTlm) | 3:37 | 2025-01-16 | 2025-02-12 |
 | [Sconosciuti](https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:46 | 2024-11-07 | 2025-01-03 |
@@ -305,6 +309,7 @@
 | [STRANO DESERTO ᨎ \(con Cosmo, Rares\)](https://open.spotify.com/track/1YFhKr5EldFs93ywTtSzLi) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:31 | 2024-06-27 | 2024-11-22 |
 | [Strappami il cuore](https://open.spotify.com/track/2DjIy92NOh2maqFIU23Olu) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [Strappami il cuore](https://open.spotify.com/album/2dN6BRYg6KhHw7EFPb7Wra) | 2:39 | 2025-05-08 | 2025-06-13 |
 | [Stupido](https://open.spotify.com/track/7MxofH0jnTTEnCzau5VdJs) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Stupido](https://open.spotify.com/album/5NccRVh2Ds5owdpDfW4Rh5) | 3:10 | 2025-05-08 |  |
+| [SU E GIÙ \(feat\. Piccolo & Clams Casino\)](https://open.spotify.com/track/0gysKxbEM9DDzUhZTUicX9) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:25 | 2025-09-04 |  |
 | [Sul più bello](https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Sul più bello](https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx) | 2:56 | 2024-07-18 | 2025-02-12 |
 | [Suona](https://open.spotify.com/track/5TvUHRaL7vEowTJdlf7uLQ) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Suona! Vol.1](https://open.spotify.com/album/6R1f97fvkL6rjEG87EFHFV) | 4:31 | 2024-10-10 | 2024-10-25 |
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 | 2024-08-02 |

@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: JELEEL!, Darkoo
 
-607 songs - 1 day 7 hr 31 min
+608 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All For Me](https://open.spotify.com/track/5oPJE47uQBX0akLw3YjQOx) | [AdeJosh](https://open.spotify.com/artist/7vI5Bl979W5P8zRgkdZQ7k) | [All For Me](https://open.spotify.com/album/24B7kwxNISMrceYMRsXhqf) | 2:40 | 2022-07-17 | 2022-08-06 |
 | [All I Really Want](https://open.spotify.com/track/2Y2KafmW8gFf68tTLVeRYw) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [All I Really Want](https://open.spotify.com/album/5OqvebMOCWm6uRBJcIS7uD) | 3:22 | 2022-09-22 | 2022-10-13 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-18 | 2022-09-17 |
+| [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 | 2025-08-29 |  |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-28 | 2022-08-17 |
 | [Ameno Amapiano \- Remix](https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano \(Remix\)](https://open.spotify.com/album/6OgwPuUsCQb7mqyNMr9d2x) | 3:51 | 2021-12-20 | 2022-06-11 |
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-01-24 | 2023-05-15 |
@@ -211,7 +212,7 @@
 | [Girl Next Door](https://open.spotify.com/track/5tmwk5sBCr1HPHZSzcVxup) | [Tessellated](https://open.spotify.com/artist/3XXMDj1Yn4RJ7REbXK2u32), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Girl Next Door](https://open.spotify.com/album/2Eqo6YOTEK9UE0uQGlG3Mh) | 2:29 | 2023-04-20 | 2023-05-15 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-15 | 2024-07-13 |
 | [Girl Next Door](https://open.spotify.com/track/2KW7heSrlvY2bLnZaHygw4) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Girl Next Door](https://open.spotify.com/album/46StIVZbevF3UTmzYPTQFT) | 3:09 | 2022-03-21 | 2022-07-29 |
-| [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-31 |  |
+| [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-31 | 2025-09-05 |
 | [GIRLS WANNA HAVE FUN](https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [GIRLS WANNA HAVE FUN](https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof) | 3:28 | 2024-07-12 | 2024-08-06 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-21 | 2023-03-03 |
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-08-05 | 2025-03-04 |

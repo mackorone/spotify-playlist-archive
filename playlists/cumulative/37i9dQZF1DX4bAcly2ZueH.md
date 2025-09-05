@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-196 songs - 10 hr 14 min
+197 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 | 2024-09-25 |  |
 | [Calm Current](https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Calm Current](https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR) | 2:57 | 2025-04-02 |  |
 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 | 2022-10-11 |  |
+| [Chamomile](https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Chamomile](https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ) | 3:16 | 2025-09-04 |  |
 | [City Light](https://open.spotify.com/track/0iyTHcQ6DHU59aJd7z0lru) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3XB4Ss6DwQVCoybkKE2RDW) | 3:03 | 2024-03-05 |  |
 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 | 2024-04-19 |
 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 | 2022-10-11 | 2023-07-05 |
@@ -45,7 +46,7 @@
 | [Day Trip](https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Day Trip](https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W) | 2:17 | 2024-03-05 |  |
 | [Daybreak](https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ) | 3:28 | 2024-03-05 | 2025-01-29 |
 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 | 2022-10-11 | 2024-04-19 |
-| [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 | 2024-03-05 |  |
+| [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 | 2024-03-05 | 2025-09-05 |
 | [Daylight Blows into One Door](https://open.spotify.com/track/4UUK97XIT1y1TyBLgVi6Xc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:28 | 2022-10-11 | 2024-04-19 |
 | [Dragon Collection](https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt) | [Four Face](https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko) | [Dragon Collection](https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh) | 3:42 | 2024-01-11 |  |
 | [Elevate](https://open.spotify.com/track/2EBcFkIyG1gnCnlKqHaeYl) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Tel Père Tel Fils](https://open.spotify.com/album/7obwq0u0uJtALHkkC5gjaa) | 2:19 | 2024-03-05 | 2025-07-16 |

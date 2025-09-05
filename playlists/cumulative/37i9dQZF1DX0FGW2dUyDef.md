@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Çağla x Doğu Swag
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: BLOK3
 
 199 songs - 9 hr 53 min
 

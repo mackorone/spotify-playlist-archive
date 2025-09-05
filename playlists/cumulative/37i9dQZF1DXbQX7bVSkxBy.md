@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover: kingdmusic
+> Raise a voice and testify the goodness of God\.  Cover: Mike Aremu and Gabriel Eziashi
 
-458 songs - 1 day 13 hr 43 min
+459 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 | 2025-04-01 |
 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 | 2023-04-07 | 2023-07-28 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2023-08-15 |
-| [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-03-29 |  |
+| [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-03-29 | 2025-09-05 |
 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 | 2025-04-18 | 2025-04-22 |
 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 | 2023-12-29 | 2024-07-27 |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 | 2024-11-29 |
@@ -367,6 +367,7 @@
 | [Season's Reason](https://open.spotify.com/track/3buA5kBncfdG3yEIJ2dAka) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Season's Reason](https://open.spotify.com/album/5mVXqfEMlEpwlZcWRYPphE) | 2:40 | 2023-11-24 | 2023-12-09 |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2023-12-29 | 2024-03-09 |
 | [Shoulders](https://open.spotify.com/track/5MCG4XcVcvCOXWpSg2cfRC) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 5:03 | 2025-04-18 | 2025-04-22 |
+| [So Good](https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [So Good](https://open.spotify.com/album/7d6PpHVB0TjQbogPXJ23Ar) | 3:18 | 2025-08-29 |  |
 | [Solid Rock](https://open.spotify.com/track/3dCdw2R2AMWuXZuOot1fft) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [From This Heart](https://open.spotify.com/album/133jlw9oKKkNx6VQa41VX8) | 5:18 | 2024-03-29 | 2024-04-05 |
 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 | 2023-12-29 | 2024-07-12 |
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-06-20 |

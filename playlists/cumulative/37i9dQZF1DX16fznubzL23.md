@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-254 songs - 13 hr 10 min
+256 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Fvck You](https://open.spotify.com/track/3YbFfl3M2XgBhKoUW19XbQ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [King Of Love](https://open.spotify.com/album/17HtAdJO3qQzLJDf9GAePl) | 3:51 | 2024-03-05 | 2024-06-07 |
 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 | 2022-04-25 |  |
 | [Going Nowhere Slowly](https://open.spotify.com/track/7Li81J4JSt763RhK94qajP) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 3:33 | 2024-10-12 | 2025-01-22 |
+| [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 | 2025-09-05 |  |
 | [Gone Back](https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Gone Back](https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo) | 2:36 | 2023-05-19 | 2024-03-06 |
 | [Goodbye](https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodbye](https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ) | 3:44 | 2022-03-18 | 2023-05-24 |
 | [Goodbye](https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO) | [Shilexy](https://open.spotify.com/artist/7syExwVSn7jcM9VWQNU33d), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Goodbye](https://open.spotify.com/album/11Um6mbX3Mi0syR6IpDKqm) | 3:06 | 2023-02-23 | 2023-03-18 |
@@ -177,7 +178,7 @@
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 |  |
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-01-31 |  |
 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-06-06 |  |
-| [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 | 2024-03-05 |  |
+| [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 | 2024-03-05 | 2025-09-05 |
 | [Olufunmi](https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Compilation](https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg) | 5:04 | 2023-10-27 | 2024-04-19 |
 | [Olufunmi](https://open.spotify.com/track/77MQN7u2xs3tlGS5CMMj4Y) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Call My Name](https://open.spotify.com/album/5dVJp3wBd86sYrMpZsCiE2) | 5:09 | 2023-05-19 | 2023-06-12 |
 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 | 2022-02-11 | 2022-09-07 |
@@ -214,7 +215,7 @@
 | [Silly Nigga](https://open.spotify.com/track/5A9jthOz2ZMepULTBPQACH) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Silly Nigga](https://open.spotify.com/album/1wHUHtcfT6Rs7rV9vj9ung) | 2:55 | 2023-04-20 | 2023-05-12 |
 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 | 2022-11-04 | 2023-02-04 |
 | [Solo](https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Solo](https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO) | 3:22 | 2024-11-15 | 2025-01-22 |
-| [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-21 |  |
+| [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-21 | 2025-09-05 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-18 | 2024-04-19 |
 | [Stranger](https://open.spotify.com/track/5RCJ9b4Qw6mayhWRDwAjrZ) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb) | [Stranger](https://open.spotify.com/album/63BDmIlVAzz5xrie6GwYpH) | 2:13 | 2023-02-16 | 2023-03-18 |
 | [Streets Are Lonely](https://open.spotify.com/track/3JD44UQP4haVSrdqcQ41Np) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:31 | 2025-03-28 |  |
@@ -236,6 +237,7 @@
 | [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 | 2024-04-19 | 2024-05-19 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-10-07 |
 | [Toxic Relationship](https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Toxic Relationship](https://open.spotify.com/album/0qtTsSO5vZej8tfvc3pn9v) | 2:46 | 2024-03-01 | 2024-03-06 |
+| [Track 6](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 0:00 | 2025-09-05 |  |
 | [Tragic](https://open.spotify.com/track/2kGGzpFQPLz0NtgCHFo9AI) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0), [Crispen](https://open.spotify.com/artist/0hQEeOM8vtXG4ytmW6knaR) | [Tragic](https://open.spotify.com/album/0gqVeRX0RusP92oHhjIIj2) | 2:43 | 2024-07-26 | 2024-09-10 |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-13 |  |
 | [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-17 | 2024-09-10 |

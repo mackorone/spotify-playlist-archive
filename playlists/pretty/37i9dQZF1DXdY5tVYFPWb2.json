@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 177190,
+  "num_followers": 177226,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 253123,
-      "name": "NEO JAPAN",
-      "url": "https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj"
-    },
-    {
-      "added_at": "2025-09-02 15:00:26",
-      "album": {
         "name": "\u6771\u4eaccruisin'",
         "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188569,
       "name": "\u6771\u4eaccruisin'",
       "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
+    },
+    {
+      "added_at": "2025-09-02 15:00:26",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 253123,
+      "name": "NEO JAPAN",
+      "url": "https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj"
     },
     {
       "added_at": "2025-09-02 15:00:26",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "Torie",
-        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 234380,
-      "name": "Torie",
-      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
-    },
-    {
-      "added_at": "2025-09-02 15:00:26",
-      "album": {
         "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
         "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 208981,
       "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
       "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
+    },
+    {
+      "added_at": "2025-09-02 15:00:26",
+      "album": {
+        "name": "Torie",
+        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 234380,
+      "name": "Torie",
+      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
     },
     {
       "added_at": "2025-09-02 15:00:26",
@@ -1247,22 +1247,6 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
-    },
-    {
-      "added_at": "2025-09-02 15:00:26",
-      "album": {
-        "name": "Unlucky!!",
-        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 215221,
-      "name": "Unlucky!!",
-      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
     },
     {
       "added_at": "2025-09-02 15:00:26",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
+    },
+    {
+      "added_at": "2025-09-02 15:00:26",
+      "album": {
         "name": "RIDE ON TIME",
         "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "Every One Minute",
-        "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 210276,
-      "name": "Every One Minute",
-      "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
-    },
-    {
-      "added_at": "2025-09-02 15:00:26",
-      "album": {
         "name": "SEPTEMBER",
         "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 275560,
       "name": "SEPTEMBER",
       "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+    },
+    {
+      "added_at": "2025-09-02 15:00:26",
+      "album": {
+        "name": "Every One Minute",
+        "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 210276,
+      "name": "Every One Minute",
+      "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
     },
     {
       "added_at": "2025-09-02 15:00:26",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
+        "name": "SMILE IN YOUR FACE",
+        "url": "https://open.spotify.com/album/3VldLs3P0Zs1QLCWonbpUu"
+      },
+      "artists": [
+        {
+          "name": "gb",
+          "url": "https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6"
+        },
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        },
+        {
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        }
+      ],
+      "duration_ms": 291078,
+      "name": "SMILE IN YOUR FACE",
+      "url": "https://open.spotify.com/track/5fsyRKVwn9orelKrreg5TE"
+    },
+    {
+      "added_at": "2025-09-02 15:00:26",
+      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1599,22 +1623,6 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
-      },
-      "artists": [
-        {
-          "name": "sucola",
-          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
-    },
-    {
-      "added_at": "2025-09-02 15:00:26",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1631,26 +1639,18 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "SMILE IN YOUR FACE",
-        "url": "https://open.spotify.com/album/3VldLs3P0Zs1QLCWonbpUu"
+        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
       },
       "artists": [
         {
-          "name": "gb",
-          "url": "https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6"
-        },
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        },
-        {
-          "name": "\u8352\u8c37\u7fd4\u5927",
-          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
         }
       ],
-      "duration_ms": 291078,
-      "name": "SMILE IN YOUR FACE",
-      "url": "https://open.spotify.com/track/5fsyRKVwn9orelKrreg5TE"
+      "duration_ms": 225746,
+      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
     },
     {
       "added_at": "2025-09-02 15:00:26",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
-    },
-    {
-      "added_at": "2025-09-02 15:00:26",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
+        "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
+    },
+    {
+      "added_at": "2025-09-02 15:00:26",
+      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2025-09-02 15:00:26",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
       "artists": [
         {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

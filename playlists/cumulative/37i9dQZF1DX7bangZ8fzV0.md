@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Chris Steyn
+> Net die beste Afrikaanse musiek! Omslag: Wikus Botma
 
-325 songs - 17 hr 57 min
+326 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 | 2023-04-27 | 2023-08-25 |
 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 | 2023-05-11 |  |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-11 |
+| [Kwaai](https://open.spotify.com/track/5C34K01X7SH8IK19GhnLKG) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kwaai](https://open.spotify.com/album/2bNCNkYpsXSzHObC5t6woq) | 2:48 | 2025-09-04 |  |
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 | 2024-11-01 |
 | [Kwagga Karnaval](https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kwagga Karnaval](https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc) | 3:30 | 2023-08-24 | 2024-03-29 |
 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 | 2025-02-06 |  |
@@ -239,7 +240,7 @@
 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 | 2025-08-07 |  |
 | [Ophou](https://open.spotify.com/track/2vRJC11heZ6GqkmnqXTnrO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ophou](https://open.spotify.com/album/4DgQmYYVWDOszCGW7McXWe) | 3:32 | 2022-09-29 | 2023-08-25 |
 | [Opstaan](https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Opstaan](https://open.spotify.com/album/24rkKZ0UUz70PKK0tHvFsu) | 3:32 | 2023-03-09 | 2023-04-07 |
-| [Ouens Soos Ek](https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Ouens Soos Ek](https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab) | 2:43 | 2023-09-21 |  |
+| [Ouens Soos Ek](https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Ouens Soos Ek](https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab) | 2:43 | 2023-09-21 | 2025-09-05 |
 | [Pakkie Mal Berou \(Marlboro\)](https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Pakkie Mal Berou \(Marlboro\)](https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1) | 2:46 | 2025-08-14 |  |
 | [Partykiehonde](https://open.spotify.com/track/5GZJ8J9tBVTT6HArRAwK6V) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Partykiehonde](https://open.spotify.com/album/3ggZuVpYhIaycDqIRaIv2U) | 2:40 | 2023-05-11 | 2023-08-04 |
 | [Pitte](https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Pitte](https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq) | 3:00 | 2025-03-13 |  |

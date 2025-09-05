@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,593 likes - 38 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,662 likes - 38 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 37 | [Electric Cross](https://open.spotify.com/track/0ADnhZNVVnSApQStXz2XxK) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 5:23 |
 | 38 | [10:16](https://open.spotify.com/track/7cHXbLD2MHOwGTezFgAQIc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 1:08 |
 
-Snapshot ID: `aLYzgAAAAAC3hT7n6oHw/wmDx8ux8BjB`
+Snapshot ID: `aLeFAAAAAABN7vTo2lMxn1Vo1N0oAoA9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,035 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,076 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 50 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
 | 51 | [BADO](https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [BADO](https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM) | 3:14 |
 | 52 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 |
-| 53 | [Dawn](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Dawn](https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs) | 4:22 |
-| 54 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
+| 53 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
+| 54 | [Dawn](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Dawn](https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs) | 4:22 |
 | 55 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
 | 56 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 57 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
 | 58 | [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 |
 | 59 | [Waiting on the World](https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Waiting on the World](https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz) | 3:53 |
-| 60 | [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 |
+| 60 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 |
 
 Snapshot ID: `AAAAAGwaBNl62kiKzdeXhXFkZXhTHga4`

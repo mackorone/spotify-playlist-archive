@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1368600,
+  "num_followers": 1368824,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACowmiYpBTo3Opc6ZYj2ypa",
+  "snapshot_id": "aLeFAAAAAAAeyUq7DaKKnQn7ggAUmEmi",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
       "duration_ms": 178693,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
     }
   ],
   "unique_name": "This Is KAROL G",

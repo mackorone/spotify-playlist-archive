@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 251173,
       "name": "Lhabia",
       "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
+    },
+    {
+      "album": {
         "name": "my mind is a mountain",
         "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 182828,
       "name": "~metal dream",
       "url": "https://open.spotify.com/track/1HuuFLjgjIfzMFgGuZjv4Z"

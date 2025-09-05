@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1431965,
+  "num_followers": 1431976,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACPz2OouttuqMxM4pyqU7xP",
+  "snapshot_id": "aLeFAAAAAAApIkgL+YnkWujKC2tr//2W",
   "tracks": [
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 205207,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 212668,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 205207,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
     },
     {
       "added_at": null,

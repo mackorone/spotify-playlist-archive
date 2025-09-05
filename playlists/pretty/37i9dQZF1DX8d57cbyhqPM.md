@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
+> Du Congo, au monde 🌍 avec Tontons SenSey' et Bolémvn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,363 likes - 76 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,382 likes - 76 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 75 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 |
 | 76 | [So’oo](https://open.spotify.com/track/6WhL911Vn01ZIt8JcqtRwu) | [KCM](https://open.spotify.com/artist/76zZT6pbBbdHZlSeDLoNVM) | [So’oo](https://open.spotify.com/album/6ymWudiASfHTvE942UX68H) | 2:53 |
 
-Snapshot ID: `AAAAAAD23GaMAJ5xPIgLHpPDSksNwCGn`
+Snapshot ID: `AAAAAGJ2rdbCEKhVtJ0usfsdZA72KrqR`

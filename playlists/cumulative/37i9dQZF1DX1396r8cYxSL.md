@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2025](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2025 yazına damga vuran şarkılar\. Kapak: Norm Ender x Ebru Gündeş
+> 2025 yazına damga vuran şarkılar.
 
 176 songs - 8 hr 27 min
 

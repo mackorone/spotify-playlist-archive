@@ -1,12 +1,12 @@
 {
   "description": "This is Ramin Djawadi. The essential tracks, all in one playlist.",
-  "num_followers": 49974,
+  "num_followers": 49969,
   "original_name": "This Is Ramin Djawadi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAuwsTYfbPzeNPQQa0CS27m",
+  "snapshot_id": "aLeFAAAAAADpqG/H104ee8PqOvJgiN8E",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/5QKK7785dSYrutocW7lGub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pacific Rim (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 295426,
       "name": "Pacific Rim (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/5QKK7785dSYrutocW7lGub"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "The North Remembers",
-      "url": "https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 150373,
       "name": "Home",
       "url": "https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "The North Remembers",
+      "url": "https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westworld: Season 1 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 330237,
-      "name": "Dr. Ford",
-      "url": "https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 174160,
       "name": "Winter Is Here",
       "url": "https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Westworld: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 330237,
+      "name": "Dr. Ford",
+      "url": "https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of the Dragon: Season 2 (Soundtrack from the HBO\u00ae Series)",
-        "url": "https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC"
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 284122,
-      "name": "All Must Choose",
-      "url": "https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq"
+      "duration_ms": 156365,
+      "name": "The Power of Prophecy",
+      "url": "https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
-        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+        "name": "House of the Dragon: Season 2 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 156365,
-      "name": "The Power of Prophecy",
-      "url": "https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy"
+      "duration_ms": 284122,
+      "name": "All Must Choose",
+      "url": "https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 129320,
-      "name": "See You for What You Are",
-      "url": "https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
         "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
-        "url": "https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6"
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
       },
       "artists": [
         {
@@ -652,25 +636,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Mother Of Dragons",
-      "url": "https://open.spotify.com/track/3czgLTPcYPQlkcnMeVxziP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Breaker of Chains",
-      "url": "https://open.spotify.com/track/4Lk1qSykuFO6mW926IVZJj"
+      "duration_ms": 129320,
+      "name": "See You for What You Are",
+      "url": "https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY"
     },
     {
       "added_at": null,
@@ -691,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Mother Of Dragons",
+      "url": "https://open.spotify.com/track/3czgLTPcYPQlkcnMeVxziP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
         "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
       },
@@ -703,22 +687,6 @@
       "duration_ms": 94183,
       "name": "An Impossible Choice",
       "url": "https://open.spotify.com/track/793D3U2TMPyTgwWlY2cDup"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 83013,
-      "name": "I Have to Go North",
-      "url": "https://open.spotify.com/track/7zHgw57kui6pUeG4ITslMX"
     },
     {
       "added_at": null,
@@ -755,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 83013,
+      "name": "I Have to Go North",
+      "url": "https://open.spotify.com/track/7zHgw57kui6pUeG4ITslMX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 93106,
       "name": "Blood of the Dragon",
       "url": "https://open.spotify.com/track/3As7Ugnc8VMp1Xf54VwwLW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Breaker of Chains",
+      "url": "https://open.spotify.com/track/4Lk1qSykuFO6mW926IVZJj"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "You Are No Son of Mine",
-      "url": "https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
         "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 161320,
       "name": "Daemon and Rhaenyra",
       "url": "https://open.spotify.com/track/6FrnfJK65CRlt3owJygosL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Westworld: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Exit Music (For a Film)",
+      "url": "https://open.spotify.com/track/2fp70dCeAE5WvnC2en1j4b"
     }
   ],
   "unique_name": "This Is Ramin Djawadi",

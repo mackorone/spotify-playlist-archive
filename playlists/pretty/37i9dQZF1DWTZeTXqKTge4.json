@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: MB, Souldia, White-B, Lost",
-  "num_followers": 88998,
+  "num_followers": 89000,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJR09KV6+KhrUQyXPFWqNMthz0PR",
+  "snapshot_id": "AAAAAK4eMMnvQeulDwk0k2ET64YQTWsn",
   "tracks": [
     {
       "added_at": "2025-08-22 00:01:27",
@@ -67,6 +67,26 @@
       "duration_ms": 125575,
       "name": "Quelque chose",
       "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
+    },
+    {
+      "added_at": "2025-09-04 21:45:01",
+      "album": {
+        "name": "Right Now (Remix)",
+        "url": "https://open.spotify.com/album/3pSttgZ4UYo6QGEtnnpNeb"
+      },
+      "artists": [
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 201649,
+      "name": "Right Now - Remix",
+      "url": "https://open.spotify.com/track/1LCjhzSlh0fyjKPHK7zre0"
     },
     {
       "added_at": "2025-08-15 00:01:29",

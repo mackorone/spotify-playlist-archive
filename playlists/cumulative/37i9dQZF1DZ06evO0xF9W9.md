@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 54 min
+113 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [CHARTiANDO](https://open.spotify.com/track/5FQku4nE0zRYSg2tnPo4XW) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [CHARTiANDO](https://open.spotify.com/album/5oQb5xuVZSmrgRfCR0v1G7) | 2:52 | 2025-05-07 | 2025-06-12 |
 | [CHARTiANDO](https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [CHARTiANDO](https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG) | 2:52 | 2025-06-12 |  |
 | [Comerte](https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:03 | 2024-07-12 | 2025-05-24 |
-| [Comerte](https://open.spotify.com/track/4DYluIPJsLvat5eijJP082) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:03 | 2025-06-10 |  |
+| [Comerte](https://open.spotify.com/track/4DYluIPJsLvat5eijJP082) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:03 | 2025-06-10 | 2025-09-05 |
 | [Culiacan](https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 2:51 | 2025-03-30 | 2025-06-30 |
 | [Culiacan](https://open.spotify.com/track/3R3kQSwosKvVNqQwa2C9Nq) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:51 | 2025-06-30 |  |
 | [Culiacan](https://open.spotify.com/track/4B5G10aokuWdgVkgD5m6d7) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:51 | 2024-09-11 | 2025-03-30 |
@@ -55,6 +55,7 @@
 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 | 2024-10-07 | 2025-04-08 |
 | [Mas Diablo Soy Yo](https://open.spotify.com/track/7JvooZ9YHJ2mTGUQLCiTbn) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/3yLgPoMyYbIYZI0a9ehM9C) | 3:40 | 2025-04-08 |  |
 | [Maulla](https://open.spotify.com/track/63duS6SnYV6lKzv79zINUH) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:37 | 2024-07-12 | 2024-09-12 |
+| [Mi Camino](https://open.spotify.com/track/2wCAFZrTjjwVyqmFC07TA8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:47 | 2025-09-05 |  |
 | [Mi Camino](https://open.spotify.com/track/4mcljCYLS037Sae13QhJcE) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Mi Camino](https://open.spotify.com/album/0jJzHJf7e8az1HOKA4EmIz) | 2:47 | 2024-06-19 | 2024-09-23 |
 | [Mi Camino](https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:47 | 2024-09-30 | 2024-12-31 |
 | [Mi Camino](https://open.spotify.com/track/6m9BrQKlWR8DWg0sxvs9JP) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Mi Camino](https://open.spotify.com/album/3rGcy1mGPvJi07RXYJBoaY) | 2:47 | 2025-04-17 | 2025-08-24 |

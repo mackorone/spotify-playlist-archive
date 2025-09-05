@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,980 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,024 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 31 | [Blow My High](https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Focus More On Me \(Deluxe\)](https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg) | 2:29 |
 | 32 | [The Largest](https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:12 |
 | 33 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
-| 34 | [my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
+| 34 | [act xiii: my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act xiii: my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
 | 35 | [MORE THAN A HOMIE](https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [MORE THAN A HOMIE](https://open.spotify.com/album/1mJDMgJyr19JFmT0GxBCgT) | 3:34 |
 | 36 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
 | 37 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |

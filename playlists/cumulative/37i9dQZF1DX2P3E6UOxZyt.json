@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: Marz23",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u9ec3\u744b\u6615 (Haezee)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 139574,
       "name": "cold.",
       "url": "https://open.spotify.com/track/1q0J313GngZkIUlI47e8iU"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 219263,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/1cuw8v8IuJJ3iIw8pvUEHC"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 166560,
       "name": "DJV",
       "url": "https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60"
@@ -4504,7 +4504,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 191538,
       "name": "SUPA HERO (feat. BG8LOCC)",
       "url": "https://open.spotify.com/track/0FbQzSm6pHy98Dse2VQXZA"
@@ -4722,7 +4722,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 294697,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6OEdWblne8zSJwOlL4ngLs"
@@ -7087,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "\u7576\u6211\u4e0d\u6562\u8aaa+",
+        "url": "https://open.spotify.com/album/5VnvR23PXnaX6NrSkp6eQd"
+      },
+      "artists": [
+        {
+          "name": "JUD \u9673\u6cf3\u5e0c",
+          "url": "https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212110,
+      "name": "\u5269\u4e0b\u6211\u7684\u6642\u5019",
+      "url": "https://open.spotify.com/track/1eyjhqtEKCxSyZ95zum0wJ"
+    },
+    {
+      "album": {
         "name": "\u4e94\u884c",
         "url": "https://open.spotify.com/album/64qndSFm4RqEq6KQaREtri"
       },
@@ -7402,7 +7420,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 309336,
       "name": "\u543b\u904e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/6TmIxPp4YsIgixmOoFCQvQ"
@@ -9100,7 +9118,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 145635,
       "name": "\u60f3\u548c\u59b3\u770b\u6700\u9577\u7684\u96fb\u5f71",
       "url": "https://open.spotify.com/track/3SPAcmPKypmigSitbOT11Q"
@@ -9594,7 +9612,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 198193,
       "name": "\u6211\u60f3\u6709\u59b3\u5728\u7684Day&Night",
       "url": "https://open.spotify.com/track/0CcMfLzQfbp2C01P9sbFNw"
@@ -10176,7 +10194,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 256402,
       "name": "\u6539\u5929 Till Next Time",
       "url": "https://open.spotify.com/track/7K5HOjetxSS2hJ42igXOSN"
@@ -12808,7 +12826,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 214153,
       "name": "\u8336\u9910\u5ef3 I\u2019m Okay",
       "url": "https://open.spotify.com/track/2pDaN9J0WKljunntXaDLkG"
@@ -13180,7 +13198,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 245825,
       "name": "\u8ca0\u6975\u5148\u751f",
       "url": "https://open.spotify.com/track/3gGMlG1KD0QzLYMGDxb0jq"

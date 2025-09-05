@@ -3143,6 +3143,32 @@
     },
     {
       "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/0UalSOICU8bebaZeAGaJYT"
+      },
+      "artists": [
+        {
+          "name": "Pranaay",
+          "url": "https://open.spotify.com/artist/58L9DePlTLE2D1I9Ohvs63"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/6ySwcE3IqA3ZYIOGOmTgdv"
+    },
+    {
+      "album": {
         "name": "Ezhundu Po",
         "url": "https://open.spotify.com/album/644H0OppWK9lIEHCxoqECd"
       },

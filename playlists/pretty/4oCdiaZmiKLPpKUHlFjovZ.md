@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Babyface Ray, Ski Mask The Slump God, XXXTENTACION &amp; Rio Da Yung Og.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 36,552 likes - 96 songs - 4 hr 29 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 36,514 likes - 96 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Standing on Business](https://open.spotify.com/track/4dlGz2heWuSZ6nE6gOyLjD) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Codeine Cowboy](https://open.spotify.com/album/2qKLRkLcQeq5Pa79KJgsf8) | 3:47 |
 | 2 | [I Don't Care...](https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [I Don't Care...](https://open.spotify.com/album/1utha3BJLakow5UUB8fdYM) | 3:35 |
 | 3 | [Different Music](https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [F.L.I.N.T\. \(Feeling Like I'm Not Through\)](https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7) | 2:51 |
-| 4 | [All That](https://open.spotify.com/track/167vDGiHC4msGIrVPPZMA9) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [All That](https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do) | 2:38 |
+| 4 | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
 | 5 | [ALL I GOT](https://open.spotify.com/track/4y5gyOUkDAVwN6p58GdNKU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [INTRUSIVE THOUGHTS 2](https://open.spotify.com/album/2qVwJjPM1v86KOaTUISMiT) | 3:08 |
 | 6 | [Wavy Crete](https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wavy Crete](https://open.spotify.com/album/3DVkH8mqscQXvXizos3RcW) | 2:34 |
 | 7 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 95 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
 | 96 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |
 
-Snapshot ID: `AAAbnJ5keYTf28biitRAmYqdEmpGPUUe`
+Snapshot ID: `AAAbn+dSj9YmFBgkGZl1JfgiJAGkuE6Y`

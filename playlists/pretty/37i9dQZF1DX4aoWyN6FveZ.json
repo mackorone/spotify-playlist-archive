@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 23065,
+  "num_followers": 23071,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 388226,
-      "name": "Last Night (feat. Keyshia Cole)",
-      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 388226,
+      "name": "Last Night (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
     },
     {
       "added_at": "2022-10-01 20:09:45",

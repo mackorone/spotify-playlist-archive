@@ -1,13 +1,37 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 311854,
+  "num_followers": 311915,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAFxpNaNYbWLKPanp9H/jC2",
+  "snapshot_id": "aLeFAAAAAADPsQ+EWspFEi00AZH9XpJl",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAOS DLX",
+        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Qualywav1",
+          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "TUDO DE NOVO",
+      "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
+    },
     {
       "added_at": null,
       "album": {
@@ -167,30 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAOS DLX",
-        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Qualywav1",
-          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
-        }
-      ],
-      "duration_ms": 225391,
-      "name": "TUDO DE NOVO",
-      "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -235,34 +235,6 @@
       "duration_ms": 137142,
       "name": "Deus Perdoa",
       "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 258782,
-      "name": "KGL's",
-      "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
     },
     {
       "added_at": null,
@@ -315,6 +287,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 258782,
+      "name": "KGL's",
+      "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
       },
@@ -355,30 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 174381,
-      "name": "Me Deixe Leve",
-      "url": "https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -399,6 +375,30 @@
       "duration_ms": 139534,
       "name": "Corte Americano",
       "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 174381,
+      "name": "Me Deixe Leve",
+      "url": "https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 256997,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 228529,
       "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
       "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 256997,
-      "name": "Invicto",
-      "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 296122,
+      "name": "Isso Que \u00c9 Vida",
+      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Melhor Vibe",
         "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 296122,
-      "name": "Isso Que \u00c9 Vida",
-      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 183376,
       "name": "Canto Alto",
       "url": "https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 234252,
-      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
-      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
     },
     {
       "added_at": null,
@@ -1083,6 +1083,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Quero Paz",
+      "url": "https://open.spotify.com/track/2jtg6PA6LmQQa7fS0a7MbF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00eddia",
         "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Quero Paz",
-      "url": "https://open.spotify.com/track/2jtg6PA6LmQQa7fS0a7MbF"
     },
     {
       "added_at": null,

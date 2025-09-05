@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Yes'sir Days
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Violette Wautier
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,381 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,464 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 2 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 3 | [ลามปาม \(circus\)](https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลามปาม \(circus\)](https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t) | 4:56 |
-| 4 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 |
-| 5 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 |
-| 6 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 |
-| 7 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
-| 8 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 9 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
-| 10 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
-| 11 | [โลกทั้งใบ](https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [โลกทั้งใบ](https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21) | 3:42 |
-| 12 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
+| 1 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 2 | [ลามปาม \(circus\)](https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลามปาม \(circus\)](https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t) | 4:56 |
+| 3 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
+| 4 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 |
+| 5 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 |
+| 6 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
+| 7 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 |
+| 8 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
+| 9 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 10 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
+| 11 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
+| 12 | [โลกทั้งใบ](https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [โลกทั้งใบ](https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21) | 3:42 |
 | 13 | [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 |
 | 14 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 15 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
 | 50 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 |
 
-Snapshot ID: `AAAAAC24JzCzlic9B+aR0sY5xc7FzQEm`
+Snapshot ID: `AAAAALMMg1fxNrSNX9PQhVni/iuhGWNL`

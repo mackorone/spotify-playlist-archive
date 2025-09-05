@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 116 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 116 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 57 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
 | 58 | [Home We Choose](https://open.spotify.com/track/0XxwxPxS2oK6Iv0Ge6DwkB) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Hello California](https://open.spotify.com/album/2PnbNBgtDA7VPdIJaHOYV3) | 4:10 |
 | 59 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
-| 60 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
-| 61 | [End of Time](https://open.spotify.com/track/3QNELTJE1rx5TwDFOel2rr) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [End of Time](https://open.spotify.com/album/3cz09fVEDtdj90y4UUVa7s) | 3:01 |
+| 60 | [End of Time](https://open.spotify.com/track/3QNELTJE1rx5TwDFOel2rr) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [End of Time](https://open.spotify.com/album/3cz09fVEDtdj90y4UUVa7s) | 3:01 |
+| 61 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
 | 62 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
 | 63 | [naked](https://open.spotify.com/track/342V5RVC9DFrYfAA6OOJkJ) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:53 |
 | 64 | [Sawed Off Shotgun](https://open.spotify.com/track/4bvNpj3dwfzIxPFJCvsLeh) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [No Hard Feelings](https://open.spotify.com/album/1yTrHdi3czn3taZM9KsCLX) | 2:13 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 115 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 116 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Ab7Q9gAAAADXoKybfDl0Lz43X/Ww5k4M`
+Snapshot ID: `Ab7WyAAAAADvPhmvGuzkKwi3Zoj3pXmx`

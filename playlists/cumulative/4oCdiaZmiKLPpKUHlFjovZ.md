@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Babyface Ray, Ski Mask The Slump God, XXXTENTACION &amp; Rio Da Yung Og.
 
-180 songs - 8 hr 0 min
+181 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [ALL I GOT](https://open.spotify.com/track/4y5gyOUkDAVwN6p58GdNKU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [INTRUSIVE THOUGHTS 2](https://open.spotify.com/album/2qVwJjPM1v86KOaTUISMiT) | 3:08 | 2025-08-13 |  |
 | [All Love](https://open.spotify.com/track/7qiqChGX27g39lIhBWZKGK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [All Love](https://open.spotify.com/album/1HBEA5Xw6jOhKyjVaWlsdL) | 2:02 | 2024-03-25 | 2024-06-01 |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |
-| [All That](https://open.spotify.com/track/167vDGiHC4msGIrVPPZMA9) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [All That](https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do) | 2:38 | 2025-08-18 |  |
+| [All That](https://open.spotify.com/track/167vDGiHC4msGIrVPPZMA9) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [All That](https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do) | 2:38 | 2025-08-18 | 2025-09-05 |
 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 | 2023-10-30 | 2024-01-20 |
 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 | 2024-01-12 |  |
 | [Amen](https://open.spotify.com/track/3Q5b9lTrxvv6f8jLX4M6VJ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Amen](https://open.spotify.com/album/5Rqj746qniBVcnLT4QglB5) | 3:17 | 2025-04-29 |  |
@@ -153,6 +153,7 @@
 | [Slut](https://open.spotify.com/track/4y09z2lAF40PebZLUmFdNv) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [Slut](https://open.spotify.com/album/3nAU88uRQbbuT5hlPBtom3) | 2:22 | 2023-08-11 | 2024-02-21 |
 | [Sneaky "B"](https://open.spotify.com/track/0tnOqAPvtKcmj3GE7Iyc58) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Sneaky "B"](https://open.spotify.com/album/5CJnXpMnstOEdvRWIGOdjf) | 2:38 | 2025-07-07 | 2025-08-19 |
 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 | 2023-07-24 | 2024-05-21 |
+| [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 | 2025-09-04 |  |
 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 | 2024-01-19 |  |
 | [Soak City \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/1J6JBQrTm7mmAVhOYddhDM) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Soak City \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/album/6R68BhIDX91MORN00cxeo0) | 4:14 | 2023-09-08 | 2024-01-20 |
 | [Something Happen](https://open.spotify.com/track/2bExfxTn0UOU4qYbdXK50I) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Something Happen](https://open.spotify.com/album/1nqKE6lQyN1q8gnSmgzOib) | 2:18 | 2025-01-17 | 2025-03-05 |

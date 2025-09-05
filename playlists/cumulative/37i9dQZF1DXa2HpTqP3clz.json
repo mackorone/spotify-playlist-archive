@@ -6191,6 +6191,24 @@
     },
     {
       "album": {
+        "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
+      },
+      "artists": [
+        {
+          "name": "Lorraine Jordan & Carolina Road",
+          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "Keepers of the Flame",
+      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
+    },
+    {
+      "album": {
         "name": "Kentucky Bluegrassed",
         "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
       },
@@ -11362,7 +11380,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 138534,
       "name": "This Sad Song (Single Version) [Live]",
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"

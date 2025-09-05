@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34580,
+  "num_followers": 34582,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABAoXVujSG+HXzUHrkxkeob",
+  "snapshot_id": "aLeFAAAAAAC2rUtFu8YypjXnXDhF+1Us",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Sedjedo",
+      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 213480,
       "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
       "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Sedjedo",
-      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "dellali",
-        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
       },
       "artists": [
         {
-          "name": "Cheb Mami",
-          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
-        },
-        {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
         }
       ],
-      "duration_ms": 235306,
-      "name": "Madanite",
-      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
     },
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
+        "name": "dellali",
+        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
         },
         {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
+      "duration_ms": 235306,
+      "name": "Madanite",
+      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 51357,
+  "num_followers": 51358,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADUUwyCXIi1AkPw86W9AxaN",
+  "snapshot_id": "aLeFAAAAAAAXpcctEYq93KVoI0Vpck9/",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 123800,
+      "name": "Think Twice Before You Go",
+      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 123800,
-      "name": "Think Twice Before You Go",
-      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Stella Mae",
-      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 158800,
       "name": "Cry Before I Go",
       "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Stella Mae",
+      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Serve You Right To Suffer (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 148097,
-      "name": "Bottle Up & Go - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 172400,
       "name": "Mr. Lucky",
       "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Serve You Right To Suffer (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 148097,
+      "name": "Bottle Up & Go - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVE IN HOUSTON 1979",
-        "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Roll Your Daddy Right",
-      "url": "https://open.spotify.com/track/2E8ndUQK4EYrg3Kya1KlUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIVE IN HOUSTON 1979",
+        "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Roll Your Daddy Right",
+      "url": "https://open.spotify.com/track/2E8ndUQK4EYrg3Kya1KlUc"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 615950,
+  "num_followers": 616497,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAB2/JUKAXgIF/OHaSyRl8Hu",
+  "snapshot_id": "aLeFAAAAAAB6e8h/JftNRLG2OV01iT6V",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
       },
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+      "duration_ms": 138453,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
     }
   ],
   "unique_name": "This Is Sabrina Carpenter",

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Achalugo",
+        "url": "https://open.spotify.com/album/6MmsSYwvywyP3PXSVkP151"
+      },
+      "artists": [
+        {
+          "name": "Ugoccie",
+          "url": "https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129520,
+      "name": "Achalugo",
+      "url": "https://open.spotify.com/track/0GHBAiVELnXDCDGnso3NRT"
+    },
+    {
+      "album": {
         "name": "Freely",
         "url": "https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 148000,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 152258,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW"
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 137210,
       "name": "I No Fit Die",
       "url": "https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL"
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 154556,
       "name": "My Padi",
       "url": "https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn"
@@ -2747,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "Sonfo",
+        "url": "https://open.spotify.com/album/0nZYkn0faXzsBY5JnwN4Mu"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179173,
+      "name": "Sonfo",
+      "url": "https://open.spotify.com/track/4gqI025AvVoK8qvTju5zN8"
+    },
+    {
+      "album": {
         "name": "Suh Good",
         "url": "https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu"
       },
@@ -2900,6 +2940,50 @@
       "duration_ms": 183170,
       "name": "Tonic No Lime - Remix",
       "url": "https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5"
+    },
+    {
+      "album": {
+        "name": "Only Sad People Smile",
+        "url": "https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY"
+    },
+    {
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160074,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [100 Greatest Christmas Songs Ever](https://open.spotify.com/playlist/5OP7itTh52BMfZS1DJrdlv)
 
-> Celebrate Christmas in style with this timeless playlist of Xmas favorites old and new  ☀️🎄\. Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
+> Celebrate Christmas in style with this timeless playlist of Xmas favorites old and new  🎄\. It's never too early! Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-187 songs - 9 hr 53 min
+188 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [christmas dream](https://open.spotify.com/track/237RKVJSgN8PpsYbyEZMqp) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:30 | 2023-12-09 | 2025-07-02 |
 | [Christmas Eve](https://open.spotify.com/track/1p2UlA2q2zz4nL0Zxgh78g) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:00 | 2023-12-09 | 2025-07-02 |
 | [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 | 2025-07-01 |  |
+| [Christmas in Our Hearts](https://open.spotify.com/track/6fu6uFC8eSFWnEcZnkIUdJ) | [Jose Mari Chan](https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS) | [Christmas in Our Hearts](https://open.spotify.com/album/1M1Gi9L0gttpvARre57p7y) | 3:27 | 2025-09-04 |  |
 | [Christmas Is All Around \- Acoustic](https://open.spotify.com/track/28fFuQJZxhTgA4OA8s9BJl) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Acoustic Christmas](https://open.spotify.com/album/0BoxAmnhfLOVbc1I8uPSvL) | 2:47 | 2024-11-11 | 2025-07-02 |
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/5oKGMxxBYRUdT7omkdilTx) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:51 | 2023-12-09 | 2025-07-02 |
 | [Christmas Lights](https://open.spotify.com/track/3ODH5TiKxbhJ0y1sFGZpd7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:02 | 2023-12-09 | 2025-07-02 |
@@ -123,7 +124,7 @@
 | [Must Mean It's Christmas](https://open.spotify.com/track/0VMBFz9yMt9L81uzTKLj92) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Learning To Dance \(Lanigan’s Ball\)](https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC) | 3:05 | 2023-12-09 | 2024-12-03 |
 | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/track/0zavRY9lIR1UZIX0vRZImx) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/album/4EYmRuwHd0urc6gLA2JNYJ) | 2:31 | 2023-12-09 | 2023-12-25 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2025-07-01 |  |
-| [O Come, All Ye Faithful](https://open.spotify.com/track/66PV6wBrg5SDOJC1v64tzi) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl) | [Christmas At Downton Abbey](https://open.spotify.com/album/0qbPGL5IPltB62HMRUhDXd) | 4:45 | 2025-07-01 |  |
+| [O Come, All Ye Faithful](https://open.spotify.com/track/66PV6wBrg5SDOJC1v64tzi) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl) | [Christmas At Downton Abbey](https://open.spotify.com/album/0qbPGL5IPltB62HMRUhDXd) | 4:45 | 2025-07-01 | 2025-09-05 |
 | [O Holy Night](https://open.spotify.com/track/6JY1Bv099vhkeAHuSjNlQJ) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Noël \(Deluxe Edition\)](https://open.spotify.com/album/27Ovu2vEYcN7dcd27yRkGg) | 4:48 | 2025-07-01 |  |
 | [Officially Christmas](https://open.spotify.com/track/7Kr4PZ2XFbaQ28sA1ZeIKa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:58 | 2025-07-01 |  |
 | [oíche chiúin \(silent night\)](https://open.spotify.com/track/5BhPAnwbjJkbIE3zMgCQoH) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [oíche chiúin \(silent night\)](https://open.spotify.com/album/5LkCo3rdSCJGLqIAOzQQSY) | 2:55 | 2024-12-02 |  |

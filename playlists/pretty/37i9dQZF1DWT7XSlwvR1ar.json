@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2123176,
+  "num_followers": 2123334,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 214666,
       "name": "Heart's Content",
       "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -595,6 +595,26 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Missing Home",
-        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Missing Home",
-      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Missing Home",
+        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Missing Home",
+      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+        }
+      ],
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "In the Clouds",
-        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 212047,
-      "name": "In the Clouds",
-      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "My Own",
         "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 210608,
       "name": "My Own",
       "url": "https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "In the Clouds",
+        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 212047,
+      "name": "In the Clouds",
+      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
     },
     {
       "added_at": "2025-05-02 04:00:31",

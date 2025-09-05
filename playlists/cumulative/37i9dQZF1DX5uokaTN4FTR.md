@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: BL3SS, Gravagerz
+> The UK's biggest dance playlist! Cover: Luke Dean, Omar+
 
 696 songs - 1 day 12 hr 11 min
 

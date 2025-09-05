@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Kwaku DMC",
+  "description": "The most intense local drill music firing up the continent. Cover:  G4 Boyz",
   "name": "Asakaa",
   "tracks": [
     {
@@ -886,6 +886,24 @@
       "duration_ms": 195093,
       "name": "Awoyo Sofo",
       "url": "https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K"
+    },
+    {
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/6o55lkrss6NOhwpLb0oMNi"
+      },
+      "artists": [
+        {
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97708,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/138IntrM8hYCGqejrMNOGU"
     },
     {
       "album": {
@@ -5748,7 +5766,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 157150,
       "name": "Wiase Y\u025b Spooky",
       "url": "https://open.spotify.com/track/4SUvMydkbVAjnaAhxzju1L"

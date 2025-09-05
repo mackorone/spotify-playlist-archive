@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 183 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 183 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 157 | [Trapped In The Car](https://open.spotify.com/track/3rROv6Wlp9i3Ocx7aJ1yFq) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Lost but Found](https://open.spotify.com/album/1MfTTBG6YwGiOkph1bPs9L) | 2:46 |
 | 158 | [Nobody But You](https://open.spotify.com/track/0HZ8o8lOp8sKtcnv3ngaOJ) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:10 |
 | 159 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
-| 160 | [History](https://open.spotify.com/track/3JN6wykoBHA9nfTQSZpcHH) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:37 |
-| 161 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 160 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 161 | [History](https://open.spotify.com/track/3JN6wykoBHA9nfTQSZpcHH) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:37 |
 | 162 | [Planet Lonely](https://open.spotify.com/track/2O9TR86ZliDlmIKcduJ3VT) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Planet Lonely](https://open.spotify.com/album/2Bc112Kr0ntu1SAci8yJ4B) | 1:58 |
 | 163 | [You Make It so Easy, Don't You \(feat\. Sam Sparro\)](https://open.spotify.com/track/08XXFoYJNdPnYGxVS9a7A9) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fun City](https://open.spotify.com/album/2sxw4rC5lerPPb5gDbOwWm) | 3:18 |
 | 164 | [Face The Music](https://open.spotify.com/track/1BEE0Pu5aamUeLi4s9pjPm) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:24 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 170 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 |
 | 171 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
 | 172 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 |
-| 173 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
-| 174 | [Diamonds](https://open.spotify.com/track/5rabFrRfemSqSsPGWib3f3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:21 |
+| 173 | [Diamonds](https://open.spotify.com/track/5rabFrRfemSqSsPGWib3f3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:21 |
+| 174 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
 | 175 | [Just Like That](https://open.spotify.com/track/1ZHJT6nKBgeDdCOYkiIJe4) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:33 |
 | 176 | [Heroes](https://open.spotify.com/track/7hZ2EoSYkzmONuIKFHWu4s) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 3:38 |
 | 177 | [Make Yourself Over](https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:20 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 182 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 183 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab7RFAAAAAAuzpYFs02hK7eZlsDwmTyN`
+Snapshot ID: `Ab7WlgAAAABrAGxrhcAyjPe0tLpQhgfb`

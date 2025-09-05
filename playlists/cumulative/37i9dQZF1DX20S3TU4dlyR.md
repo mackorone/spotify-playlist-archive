@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-288 songs - 18 hr 57 min
+289 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Multipartisme](https://open.spotify.com/track/5BPCKdURYUk6lXrzHcId3x) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0) | [Multipartisme](https://open.spotify.com/album/06WOEIneztsCs9nYGfmyYW) | 4:10 | 2025-05-16 |  |
 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 | 2025-03-14 |  |
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-07-21 |  |
-| [Más amor](https://open.spotify.com/track/1BPcvQFG4cib6GNvzN1dcH) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Leon Demaria](https://open.spotify.com/artist/0CPXE9mP1XiodB1t8Rv1Sl) | [Más amor](https://open.spotify.com/album/1k7OvMaQnYJ57SwEcoTYhF) | 3:37 | 2025-03-21 |  |
+| [Más amor](https://open.spotify.com/track/1BPcvQFG4cib6GNvzN1dcH) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Leon Demaria](https://open.spotify.com/artist/0CPXE9mP1XiodB1t8Rv1Sl) | [Más amor](https://open.spotify.com/album/1k7OvMaQnYJ57SwEcoTYhF) | 3:37 | 2025-03-21 | 2025-09-05 |
 | [Más Libre](https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0) | [Más Libre](https://open.spotify.com/album/2THc86woJAYYpM1yTlD9yK) | 3:22 | 2022-05-06 | 2022-07-25 |
 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 | 2022-07-01 | 2024-04-09 |
 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 | 2022-05-06 |  |
@@ -188,6 +188,7 @@
 | [Olas](https://open.spotify.com/track/0GXEnyRMUbfhlBpv4gCZb2) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Olas](https://open.spotify.com/album/6a0bK1605mqoKk0lhZ7YFh) | 3:40 | 2022-05-06 | 2022-07-06 |
 | [Olvídate de Todo](https://open.spotify.com/track/32SyyTykqugl87twT0ss5L) | [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [The Golden Travellers](https://open.spotify.com/artist/5FQLtptVnc5LPSRBaRTlKh) | [Olvídate de Todo](https://open.spotify.com/album/6OvDunTn5gcFKslC7Jr16x) | 4:10 | 2022-05-06 | 2022-06-01 |
 | [On the Good Road \- En Vivo En Sala Siranush](https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [On the Good Road \(En Vivo En Sala Siranush\)](https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt) | 3:48 | 2022-09-23 | 2023-04-21 |
+| [Origen Natural](https://open.spotify.com/track/3VTg7UaLie6HofBvSnOHzQ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Origen Natural](https://open.spotify.com/album/1SNVNkeVZNmyxK1komzCxC) | 3:17 | 2025-09-04 |  |
 | [Otoño en Mendoza](https://open.spotify.com/track/2iC4Zs0v1LpcuS4rJRhhGV) | [Pocho Sosa](https://open.spotify.com/artist/2VWOox1VSb3HNW8GBuSydI), [Surco Pando](https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a) | [Otoño en Mendoza](https://open.spotify.com/album/1VjpyywoCXAfgKLHkRooB1) | 4:32 | 2022-05-06 | 2022-07-08 |
 | [Oyelo](https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 3:08 | 2022-05-06 |  |
 | [Palabras Bellas](https://open.spotify.com/track/1zxIE9LS795dtjDOi4VA5E) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [A Tempo](https://open.spotify.com/album/4gAJpDQYUEM0xdvbfKSkZk) | 3:21 | 2025-05-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451 likes - 384 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 452 likes - 384 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,13 +146,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 136 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 |
 | 137 | [High Society Calypso](https://open.spotify.com/track/5DiCVFFmQ0uxPkPlBTVVO2) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [In Concert \(Newport 1960\)](https://open.spotify.com/album/5yfs4HBmueqnv9t82mFPEm) | 2:51 |
 | 138 | [I've Come To Wive It Wealthily In Padua](https://open.spotify.com/track/5T0i46U2lhpQwSwpS5tagh) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:09 |
-| 139 | [Bon Voyage](https://open.spotify.com/track/2WwbqonXDGWTRFLNjb4c9H) | [The "Anything Goes" 2003 Ensemble](https://open.spotify.com/artist/0fAvQUq05luf4Ej75U3G4b) | [Anything Goes \(2003 London Cast Recording\)](https://open.spotify.com/album/4CFBcMMpC2Oh14q6kMCl3W) | 1:22 |
-| 140 | [Old Fashioned Garden](https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 3:03 |
+| 139 | [Old Fashioned Garden](https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 3:03 |
+| 140 | [Bon Voyage](https://open.spotify.com/track/2WwbqonXDGWTRFLNjb4c9H) | [The "Anything Goes" 2003 Ensemble](https://open.spotify.com/artist/0fAvQUq05luf4Ej75U3G4b) | [Anything Goes \(2003 London Cast Recording\)](https://open.spotify.com/album/4CFBcMMpC2Oh14q6kMCl3W) | 1:22 |
 | 141 | [Where Have You Been?](https://open.spotify.com/track/5oq7aSx9jQCpUZkv5zWHXE) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 8:19 |
 | 142 | [Heaven Hop](https://open.spotify.com/track/5KCoYJWMC7prGWRjzT9Ly8) | [Margery Gray](https://open.spotify.com/artist/6bHl6EbhiWxn9xFrdrwM8i), [Anything Goes Ensemble \(1962\)](https://open.spotify.com/artist/7cTGaIRvLkJRjBTG0LbwwC) | [Anything Goes \(Off\-Broadway Cast Recording \(1962\)\)](https://open.spotify.com/album/5Q95OYMeaGOkULW2mb2LZ9) | 3:16 |
 | 143 | [Cherry Pies Ought to Be You \(with Rosemary Clooney\)](https://open.spotify.com/track/6eNRJ9yrEg4o6ZxWVhAz8a) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:21 |
-| 144 | [Be A Clown](https://open.spotify.com/track/6NbXDlKG67qnAkkFWaqkbC) | [Roy Castle](https://open.spotify.com/artist/324xt1Bk9XVPyKcdPp6Fvw) | [Singin' in the Rain \(Original Cast Recording\)](https://open.spotify.com/album/0gkUILRS323Or4XhOPHMhn) | 2:23 |
-| 145 | [Rap Tap on Wood](https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:39 |
+| 144 | [Rap Tap on Wood](https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:39 |
+| 145 | [Be A Clown](https://open.spotify.com/track/6NbXDlKG67qnAkkFWaqkbC) | [Roy Castle](https://open.spotify.com/artist/324xt1Bk9XVPyKcdPp6Fvw) | [Singin' in the Rain \(Original Cast Recording\)](https://open.spotify.com/album/0gkUILRS323Or4XhOPHMhn) | 2:23 |
 | 146 | [Main Titles](https://open.spotify.com/track/0EC669zWXQlHL4Sa6GR1Qh) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:56 |
 | 147 | [Only Another Boy And Girl](https://open.spotify.com/track/1hYfftcJJPoGJTorbul01x) | [Benny Goodman Quintet](https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq), [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 2:59 |
 | 148 | [Queen Of Terre Haute/you've Got That Thing/you Don't Know Paris/you Do Something To Me](https://open.spotify.com/track/11em19Uiy6JeRxWj2r7t7a) | [Julie Wilson](https://open.spotify.com/artist/1fhAvBp1YOYqUG4ArrvRil) | [Cole Porter Songbook](https://open.spotify.com/album/7gKapxvZW2RTjpTcWamiTS) | 6:05 |
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 383 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 384 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Ab7RHgAAAAB1sMZlNcT6S6VVMtHsncz/`
+Snapshot ID: `Ab7WtAAAAADTyvYFc5Ulw7DvZ4jyBlaV`

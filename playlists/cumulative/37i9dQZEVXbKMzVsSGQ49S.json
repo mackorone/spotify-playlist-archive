@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 163750,
       "name": "10 \u00de\u00daSUND",
       "url": "https://open.spotify.com/track/64QhlrzSmL75MnvEvWzGs6"
@@ -5694,7 +5694,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 187939,
       "name": "Bleikur Range Rover",
       "url": "https://open.spotify.com/track/0i4AOhWJqkedl62X2uxq4k"
@@ -9184,6 +9184,24 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
     },
     {
       "album": {
@@ -29086,7 +29104,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -45006,7 +45024,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 148855,
       "name": "St\u00f3rir Str\u00e1kar",
       "url": "https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE"
@@ -46726,7 +46744,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -57472,7 +57490,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 109400,
       "name": "\u0421\u0432\u0435\u0442 \u043a\u0443\u043f\u043e\u043b\u043e\u0432",
       "url": "https://open.spotify.com/track/4LqEgY6PysIm5rgxV9idyf"
@@ -57490,7 +57508,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 102880,
       "name": "\u0422\u0435\u043d\u044c \u043f\u0430\u043d\u0442\u0435\u0440\u044b",
       "url": "https://open.spotify.com/track/7gsqqvY8qMQB5BoRYmx71s"
@@ -57508,7 +57526,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 97000,
       "name": "\u0424\u043b\u0430\u0433 \u0432 \u0440\u0443\u043a\u0430\u0445",
       "url": "https://open.spotify.com/track/4DdHh0V4J2fBI8dziIZMpE"
@@ -57526,7 +57544,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 126560,
       "name": "\u0427\u0451\u0440\u043d\u0430\u044f \u043a\u043b\u0430\u0441\u0441\u0438\u043a\u0430",
       "url": "https://open.spotify.com/track/4gpWJWg1LLF3DWwzdK4ds5"

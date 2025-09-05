@@ -2,7 +2,7 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
+> Du Congo, au monde 🌍 avec Tontons SenSey' et Bolémvn.
 
 634 songs - 1 day 12 hr 5 min
 

@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: No.1
+> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: MERO x Ati242
 
-711 songs - 1 day 8 hr 13 min
+712 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ağla](https://open.spotify.com/track/4qJ5KHEJdcp5niEPWOnTyU) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ElPatron](https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX) | 2:13 | 2025-02-20 | 2025-03-21 |
 | [Ağla](https://open.spotify.com/track/6UJu0bCXSi91whMUJJOct5) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/72KQmVzxSz2V9JfHcpWV0X) | 3:04 | 2025-04-24 | 2025-05-30 |
 | [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 | 2023-07-27 | 2024-03-08 |
+| [Ağır Adımlarım](https://open.spotify.com/track/0j4pj37sGUeAL0nbxm9106) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Ağır Adımlarım](https://open.spotify.com/album/2vT28f0NzRnPTjdler4GHf) | 2:32 | 2025-08-28 |  |
 | [AŞIK OLDUM](https://open.spotify.com/track/3SJklzPJQ6qYw6WzlRtBRj) | [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG), [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [AŞIK OLDUM](https://open.spotify.com/album/4xU0uz2jlyRYmf75Zo0fxx) | 2:08 | 2023-12-12 | 2023-12-22 |
 | [Aşk Her Şeyi Affeder Mi](https://open.spotify.com/track/1UVIKuZpRjdSoM2jj81GGJ) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [Aşk Her Şeyi Affeder Mi](https://open.spotify.com/album/7Kki8jgwpltOsbMPyZ7ksF) | 2:27 | 2024-06-13 | 2024-07-05 |
 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 | 2023-06-08 | 2023-10-06 |

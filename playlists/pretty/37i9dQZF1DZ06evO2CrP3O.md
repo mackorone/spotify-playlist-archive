@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,915 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,925 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 7 | [Atomic](https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:40 |
 | 8 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 9 | [Hanging On The Telephone \- Remastered](https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 2:22 |
-| 10 | [Denis \- Remastered](https://open.spotify.com/track/3RIpoyYHjSTJtwoi5yHW1E) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:19 |
+| 10 | [Denis \- Remastered 2001](https://open.spotify.com/track/3RIpoyYHjSTJtwoi5yHW1E) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:19 |
 | 11 | [Dreaming](https://open.spotify.com/track/2Rn7bVL1FVYboc4c55RUdg) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:08 |
 | 12 | [Atomic](https://open.spotify.com/track/1agoWz2axt0R9alvenDXB0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic](https://open.spotify.com/album/7GIYvXj0WMNJ73Nvim7yVt) | 3:49 |
 | 13 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 21 | [\(I'm Always Touched By Your\) Presence, Dear \- Remastered](https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:43 |
 | 22 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 |
 | 23 | [In The Flesh \- Remastered 2001](https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:33 |
-| 24 | [The Tide Is High \- Live](https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt) | 4:04 |
-| 25 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
+| 24 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
+| 25 | [The Tide Is High \- Live](https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt) | 4:04 |
 | 26 | [Pretty Baby](https://open.spotify.com/track/0Yue9xdK8DrISp8AeEpTDY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:23 |
 | 27 | [Rip Her To Shreds \- Remastered 2001](https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
 | 28 | [Island Of Lost Souls](https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Heart of Glass](https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9) | [Kingston Sound System](https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart of Glass](https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa) | 3:05 |
 | 50 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
 
-Snapshot ID: `aLYzgAAAAAApH8E5yH5mdgYhlXDd3d4D`
+Snapshot ID: `aLeFAAAAAAD7/ZOIyId0X4DhoGONUZbL`

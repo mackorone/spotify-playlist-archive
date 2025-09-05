@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 653782,
+  "num_followers": 654550,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1805,22 +1805,6 @@
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "It Only Takes a Minute: A Lifetime with Tavares",
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
       },
       "artists": [
         {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1867,6 +1851,22 @@
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+      },
+      "artists": [
+        {
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Vehicle",
-        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
-      },
-      "artists": [
-        {
-          "name": "The Ides Of March",
-          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Vehicle",
-      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 307573,
-      "name": "Car Wash - Long Version",
-      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Go West In the Navy",
         "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 250880,
       "name": "Go West - Original Version 1979",
       "url": "https://open.spotify.com/track/0SdfUMRHhcjxrMv5d9V1UP"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "Car Wash - Long Version",
+      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
     },
     {
       "added_at": "2021-09-08 13:31:49",

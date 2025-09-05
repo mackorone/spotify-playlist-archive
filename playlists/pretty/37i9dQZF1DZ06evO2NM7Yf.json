@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAC3xdM0GOdr2eH11Pn2Ce4c",
+  "snapshot_id": "aLeFAAAAAAA10Mt18SIS2PbY6UQY3Uv3",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...but i'd miss you too much!",
         "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 178301,
       "name": "...but i'd miss you too much!",
       "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,

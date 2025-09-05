@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 528791,
+  "num_followers": 528779,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 188613,
       "name": "I Wish I Knew How It Would Feel to Be Free",
       "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Greatest Motown Hits",
         "url": "https://open.spotify.com/album/1tW5QSPVGeD5U0WzPFGTAX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175693,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/09Nlhtnn087cbbhMzuInxy"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "The Love Is Gone",
         "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Heaux Tales, Mo' Tales: The Deluxe",
-        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Hurt Me So Good",
-      "url": "https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ"
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -983,22 +967,18 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+        "name": "Heaux Tales, Mo' Tales: The Deluxe",
+        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+      "duration_ms": 211920,
+      "name": "Hurt Me So Good",
+      "url": "https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -1023,6 +1003,26 @@
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Yesterday's Tomorrow",
-        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 331826,
-      "name": "Why iii Love The Moon.",
-      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Too Soon",
         "url": "https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 181330,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 331826,
+      "name": "Why iii Love The Moon.",
+      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
     },
     {
       "added_at": "2025-04-25 11:32:20",

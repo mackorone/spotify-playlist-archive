@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31030,
+  "num_followers": 31035,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAARur5/qZbpDSCnLdKNBCcG",
+  "snapshot_id": "aLeFAAAAAADF4p3gsaIwepoTzllfh3qV",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "From the Bottle to the Bottom",
+      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "The Taker",
+      "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boulder To Birmingham (Live)",
         "url": "https://open.spotify.com/album/01TfnbqEmjUZO7WlGGqWOr"
       },
@@ -911,38 +943,6 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "The Taker",
-      "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "From the Bottle to the Bottom",
-      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
     },
     {
       "added_at": null,
@@ -1303,22 +1303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Jody and the Kid",
-      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Border Lord",
         "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 154013,
       "name": "Gettin' By, High and Strange",
       "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
     },
     {
       "added_at": null,
@@ -1351,22 +1351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural Act",
         "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 249520,
       "name": "Loving You Was Easier",
       "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

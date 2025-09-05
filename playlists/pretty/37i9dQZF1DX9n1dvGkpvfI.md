@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Tobias Forge of <a href="https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D?si=c6cdd622f63042d2">Ghost</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,354 likes - 36 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,370 likes - 36 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
 | 2 | [Waiting for Darkness](https://open.spotify.com/track/7hj7j4Ym5NZxiEgSwzTSBY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 5:17 |
 | 3 | [Distant Early Warning](https://open.spotify.com/track/1bVnRjdVprR6ZoT67DBxML) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Grace Under Pressure](https://open.spotify.com/album/20RfdO7fta9qlXEWTFSWuT) | 4:56 |
-| 4 | [I Wanna Rock](https://open.spotify.com/track/64ywvJE5j3PmRHzuah2WKR) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/7LEgf3IOaVyBExG9rdU2wl) | 2:59 |
+| 4 | [I Wanna Rock](https://open.spotify.com/track/64ywvJE5j3PmRHzuah2WKR) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/7LEgf3IOaVyBExG9rdU2wl) | 3:03 |
 | 5 | [Ride The Lightning \(Remastered\)](https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:36 |
 | 6 | [Wheels of Confusion / The Straightener \- 2014 Remaster](https://open.spotify.com/track/0zALOXEZdMLsuFAW8P8PUC) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2014 Remaster\)](https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f) | 7:47 |
 | 7 | [In The Lap Of The Gods \- Remastered 2011](https://open.spotify.com/track/4NC17l5uGr8JA4QJAbrb4N) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/5CooX2xg5YibepSfjbRFNT) | 3:22 |

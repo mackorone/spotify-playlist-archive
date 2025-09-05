@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 150671,
+  "num_followers": 150680,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAiRKHTfIoBzox4o7E2gUxH",
+  "snapshot_id": "aLeFAAAAAADhynC9ShP5fcJwcRCWycoy",
   "tracks": [
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
       },
       "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+      "duration_ms": 213857,
+      "name": "I Wanna Remember (feat. Carrie Underwood)",
+      "url": "https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V"
     },
     {
       "added_at": null,
@@ -671,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 213857,
-      "name": "I Wanna Remember (feat. Carrie Underwood)",
-      "url": "https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V"
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     },
     {
       "added_at": null,

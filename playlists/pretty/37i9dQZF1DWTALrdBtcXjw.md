@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,747 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,750 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 75 | [Hidden Island](https://open.spotify.com/track/600RTP3vo0uKAtYu8sutbY) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Hidden Island](https://open.spotify.com/album/1EnVCdjr7wRPXUjDWqT2G6) | 6:55 |
 | 76 | [My Cherie Amour](https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR) | [Jon Davis](https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc) | [Changes over Time](https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i) | 4:05 |
 | 77 | [Every time we say goodbye](https://open.spotify.com/track/3oeUIbQyI22ymUFRAuZfuu) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Marc van Rooij](https://open.spotify.com/artist/1EUHQilQkYWbsUQWe7SvDj), [Hans Van Oosterhout](https://open.spotify.com/artist/6F152Gyy69dlNrx8QZzxwV) | [Rob van Bavel Trio](https://open.spotify.com/album/6CoarHW26qMqQjvcz7P5jJ) | 5:11 |
-| 78 | [More Than You Know](https://open.spotify.com/track/45Hg9G6ErEpv0zXDzEs5i3) | [Graham Harvey](https://open.spotify.com/artist/1JJR7xNYRfi4iuY7mVQ0DS), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [Jeremy Brown](https://open.spotify.com/artist/0Ov05kdgJtUwMZXGCkCDAQ), [Josh Morrison](https://open.spotify.com/artist/4ynl1ZTEDPTMBQy8ws8qs9) | [More Than You Know](https://open.spotify.com/album/4O2qrIuZgFCiU4aDaBadJY) | 5:31 |
+| 78 | [More Than You Know](https://open.spotify.com/track/45Hg9G6ErEpv0zXDzEs5i3) | [Graham Harvey](https://open.spotify.com/artist/1JJR7xNYRfi4iuY7mVQ0DS), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [Jeremy Brown](https://open.spotify.com/artist/0Ov05kdgJtUwMZXGCkCDAQ), [Josh Morrison](https://open.spotify.com/artist/5lKqUCH0JMgRm4kQvFXpns) | [More Than You Know](https://open.spotify.com/album/4O2qrIuZgFCiU4aDaBadJY) | 5:31 |
 | 79 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 |
 | 80 | [Very Late](https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:14 |
 | 81 | [At That Moment](https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:39 |

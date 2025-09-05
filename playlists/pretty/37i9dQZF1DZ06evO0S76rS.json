@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 158096,
+  "num_followers": 158110,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADkXkpN8e967iQ0Tv9AeGIy",
+  "snapshot_id": "aLeFAAAAAABJGjHw9oW6VWhZkP/OC1yf",
   "tracks": [
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Querer Es Poder",
         "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 338964,
       "name": "Digo Yo",
       "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
     },
     {
       "added_at": null,

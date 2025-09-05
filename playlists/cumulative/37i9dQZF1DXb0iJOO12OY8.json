@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "BL\u00c5ST",
+        "url": "https://open.spotify.com/album/6FBMQBfSe6ShJpDo6OxEye"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168425,
+      "name": "BL\u00c5ST",
+      "url": "https://open.spotify.com/track/0mShuzpXpvDkAdwy3qEDeQ"
+    },
+    {
+      "album": {
         "name": "Roc Boyz, Vol. 3",
         "url": "https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g"
       },
@@ -556,6 +574,24 @@
       "duration_ms": 187790,
       "name": "Da vi var to",
       "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
+    },
+    {
+      "album": {
+        "name": "Dag Otto",
+        "url": "https://open.spotify.com/album/2uImL3lD9YDFcUwO9Pviab"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "Dag Otto",
+      "url": "https://open.spotify.com/track/5oBYIX7jqkWuaZR97fwGEH"
     },
     {
       "album": {
@@ -904,6 +940,28 @@
       "duration_ms": 144360,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
+    },
+    {
+      "album": {
+        "name": "fairytale",
+        "url": "https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "fairytale",
+      "url": "https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1"
     },
     {
       "album": {
@@ -1930,7 +1988,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 134428,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
@@ -2322,7 +2380,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 145111,
       "name": "Ryker p\u00e5'a igjen",
       "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
@@ -2392,7 +2450,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 157034,
       "name": "Sakte Film",
       "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"

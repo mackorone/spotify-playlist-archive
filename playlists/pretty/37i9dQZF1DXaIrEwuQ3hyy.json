@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1082181,
+  "num_followers": 1082187,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200500,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
-      },
-      "artists": [
-        {
-          "name": "Kamran Khan",
-          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
-        },
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 238250,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -771,18 +751,22 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "valentino",
-        "url": "https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P"
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
       },
       "artists": [
         {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        },
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 128020,
-      "name": "valentino",
-      "url": "https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT"
+      "duration_ms": 238250,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -807,18 +791,18 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Jessie (i miss you)",
-        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
+        "name": "valentino",
+        "url": "https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
         }
       ],
-      "duration_ms": 197748,
-      "name": "Jessie (i miss you)",
-      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
+      "duration_ms": 128020,
+      "name": "valentino",
+      "url": "https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -835,6 +819,22 @@
       "duration_ms": 257400,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "Jessie (i miss you)",
+        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 197748,
+      "name": "Jessie (i miss you)",
+      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "Welcome to the Mood / Sundown",
         "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 258505,
       "name": "All Again",
       "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 287000,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "Sick To My Stomach",
         "url": "https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 198253,
       "name": "June",
       "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
-        "name": "Damn the Wild Air, Pt. 01",
-        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "Make me think of you",
         "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
       },
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "cupped and open",
-        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 236167,
-      "name": "cupped and open",
-      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -1659,6 +1643,22 @@
       "duration_ms": 256670,
       "name": "Someone Special",
       "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "cupped and open",
+        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "cupped and open",
+      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
     },
     {
       "added_at": "2025-08-29 06:06:40",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-08-29 06:06:40",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
-    },
-    {
-      "added_at": "2025-08-29 06:06:40",
-      "album": {
         "name": "Like a Song",
         "url": "https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 207036,
       "name": "Like a Song",
       "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
+    },
+    {
+      "added_at": "2025-08-29 06:06:40",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     }
   ],
   "unique_name": "Sommer Chillout",

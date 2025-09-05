@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,483 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,531 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 91 | [Ahora Dice \- Real Hasta La Muerte Remix](https://open.spotify.com/track/1fs9kTASuC9RJ9say6KX2K) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Anuel](https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice \(Real Hasta La Muerte Remix\)](https://open.spotify.com/album/6YSzIBEEAWmJurZyf0XcVi) | 4:35 |
 | 92 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
 | 93 | [Shut Up](https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Shut Up](https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC) | 2:59 |
-| 94 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 |
+| 94 | [Triste](https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/0AAxqrygloVXEathVtYauj) | 4:24 |
 | 95 | [Pa Ti](https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Pa Ti](https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A) | 3:11 |
 | 96 | [Relax](https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Relax](https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3) | 3:26 |
 | 97 | [Nunca Sapo](https://open.spotify.com/track/630ryPVdooTZr78p63sCFB) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nunca Sapo](https://open.spotify.com/album/4pVJ0s3J6LBHtvKkRm6UQd) | 7:12 |
 | 98 | [Brindemos](https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ) | 3:36 |
-| 99 | [Triste](https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/0AAxqrygloVXEathVtYauj) | 4:24 |
+| 99 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 |
 | 100 | [Sensualidad](https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Sensualidad](https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY) | 4:57 |
 | 101 | [Chambea](https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/1M3WE183lRAy3NY3JDOsts) | 3:11 |
 | 102 | [Soy Peor](https://open.spotify.com/track/5MT96Zz0ymUJNm8obKZQr0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/28xYvlMemVAzCBJdJVNqf9) | 4:17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Neffa in cover",
+  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Irama e Elodie in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Cuore Rotto",
+        "url": "https://open.spotify.com/album/4Ytu4wfLAjT4nNVaQ1Gdl8"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148483,
+      "name": "Cuore Rotto",
+      "url": "https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ"
+    },
+    {
+      "album": {
         "name": "CUORICINI",
         "url": "https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK"
       },
@@ -1617,6 +1635,28 @@
     },
     {
       "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "DA QUANDO CI SEI TU (feat. Alfa)",
+      "url": "https://open.spotify.com/track/4tIDe4F2wXQByJ1kpYjfnI"
+    },
+    {
+      "album": {
         "name": "Mediterraneo",
         "url": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd"
       },
@@ -1632,6 +1672,24 @@
       "duration_ms": 200590,
       "name": "Dai che fai",
       "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
+    },
+    {
+      "album": {
+        "name": "Dalla mia parte",
+        "url": "https://open.spotify.com/album/2hThH9RV4VpTcoWVo7Ap8Y"
+      },
+      "artists": [
+        {
+          "name": "Francesco Gabbani",
+          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202337,
+      "name": "Dalla mia parte",
+      "url": "https://open.spotify.com/track/5POSEqaf7H7Zus4KF66QkG"
     },
     {
       "album": {
@@ -2344,7 +2402,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 195240,
       "name": "FRANCESCA",
       "url": "https://open.spotify.com/track/2ywWLlsgT68eJZ3FvFUcEj"
@@ -2654,7 +2712,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 173135,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs"
@@ -4919,6 +4977,54 @@
     },
     {
       "album": {
+        "name": "Piazza San Marco (feat. Marco Mengoni)",
+        "url": "https://open.spotify.com/album/5hvqSt6A4URvBVagocDuwo"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        },
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218307,
+      "name": "Piazza San Marco (feat. Marco Mengoni)",
+      "url": "https://open.spotify.com/track/0o5CZeuplgMbxles3Kketq"
+    },
+    {
+      "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Piccolo",
+          "url": "https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209312,
+      "name": "PICCOLA (feat. Piccolo & thasup)",
+      "url": "https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA"
+    },
+    {
+      "album": {
         "name": "Piccoli piccoli (feat. centomilacarie)",
         "url": "https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC"
       },
@@ -5555,6 +5661,24 @@
     },
     {
       "album": {
+        "name": "sbalzi d'umore",
+        "url": "https://open.spotify.com/album/6qEzXWQHBtiL3g3hcQQ2DB"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174393,
+      "name": "sbalzi d'umore",
+      "url": "https://open.spotify.com/track/62mrphhxReT05rlu68jdYL"
+    },
+    {
+      "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
       },
@@ -6072,7 +6196,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 190190,
       "name": "Stupido",
       "url": "https://open.spotify.com/track/7MxofH0jnTTEnCzau5VdJs"
@@ -6638,6 +6762,24 @@
       "duration_ms": 167542,
       "name": "Una Stupida Scusa",
       "url": "https://open.spotify.com/track/2YG2PSDHU3HCNXhLNqvaK9"
+    },
+    {
+      "album": {
+        "name": "URAGANI",
+        "url": "https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169342,
+      "name": "URAGANI",
+      "url": "https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm"
     },
     {
       "album": {

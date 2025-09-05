@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover:Nanette
+> Proudly Southern African Afropop gems\. Cover: Sjava
 
-705 songs - 2 day 2 hr 19 min
+706 songs - 2 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Mosadi O Fiwa Tshelete](https://open.spotify.com/track/6bYdCE86QF3YTTzLWVv7Nw) | [Pleasure Tsa Manyalo](https://open.spotify.com/artist/36pHzywxb8wvQAj8VUuZmD) | [Mosadi O Fiwa Tshelete](https://open.spotify.com/album/760aOPAzV2HaefUPf0Y8Aj) | 5:19 | 2022-10-28 | 2022-12-02 |
 | [Motho waka wa nnete](https://open.spotify.com/track/4rXyZdalTuvWAZchcESHfd) | [DHEM SCOTT](https://open.spotify.com/artist/75utB6JJ6vqbp5IINqKHFh) | [Motho waka wa nnete](https://open.spotify.com/album/71eL8kyxAou0AANMZxBcrG) | 4:25 | 2025-04-24 | 2025-08-15 |
 | [Movie](https://open.spotify.com/track/6w96SS19VqUpo8O9B8Hzzc) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Fortunator](https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk), [DJ Gun Do SA](https://open.spotify.com/artist/1RL5BtcTKxdM6Kqq4rdFVz) | [Movie](https://open.spotify.com/album/1AI9XEs70EabkDP1riIY9C) | 4:50 | 2023-08-10 | 2023-09-15 |
+| [Moya Wami \- Live](https://open.spotify.com/track/3T9tONmBdltnOBREBCluJ2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi 2.0 \(Live\)](https://open.spotify.com/album/6rStwnR4K0V6Cjhl0h5Qrr) | 4:52 | 2025-09-05 |  |
 | [Mukhavha](https://open.spotify.com/track/3st5Q868pmPugbKTkJv39y) | [TuksinSA](https://open.spotify.com/artist/3F8IEuHCZhhYDmTU9VSGka), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Fuza](https://open.spotify.com/artist/1eiNYZ59HozPD7OKwoeQz7) | [Mukhavha](https://open.spotify.com/album/3p0y1rIxgV274BcONXiGZE) | 5:50 | 2022-08-11 | 2022-09-23 |
 | [Muntu Wami](https://open.spotify.com/track/29i0sPGkNsyZJdsG92Cyht) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [Muntu Wami](https://open.spotify.com/album/38k7OmWHCexCtTcdi394c2) | 3:54 | 2024-05-23 |  |
 | [My Dali](https://open.spotify.com/track/0162umcwk7g36RxucZnMPV) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [My Dali](https://open.spotify.com/album/6XRmYFcpuhvzu5zUqyF7Bi) | 4:02 | 2022-06-02 | 2022-07-01 |

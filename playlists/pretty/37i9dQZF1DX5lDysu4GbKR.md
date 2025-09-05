@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Lekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,083 likes - 145 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,090 likes - 145 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 77 | [I’m Leaving \- The Circle Session, 2023](https://open.spotify.com/track/0EaeEbXhVlWzdr32YgNYB8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I’m Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/5WfzSDKTMXLKiQOHFR0ozY) | 5:19 |
 | 78 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 |
 | 79 | [Is It Any Wonder? \- Live at Paste](https://open.spotify.com/track/7MGlEFQtwlbT0qJF3fK8Vj) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live at Paste](https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY) | 4:09 |
-| 80 | [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 |
+| 80 | [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [SICKOFTHEINTERNET](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 |
 | 81 | [No Clouds No Love](https://open.spotify.com/track/5XFbZWqWXasU1DGx5Xxfsl) | [whothefislou](https://open.spotify.com/artist/3wyFq7XvimcjTGC0RifBZW), [ambrozia](https://open.spotify.com/artist/7k6t9onDZKvbED454IY0Lm) | [Wavelength](https://open.spotify.com/album/4zFHXvzqE5erI4pwYZyohF) | 3:33 |
 | 82 | [burn out](https://open.spotify.com/track/7D4W8nqlPMDsr3IjogAT3S) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:24 |
 | 83 | [SOMEWHERE FAR](https://open.spotify.com/track/0y6DaC0f8sGqzbU5UKoPEb) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [SOMEWHERE FAR](https://open.spotify.com/album/3unR1FTn8GilyeSvUchaXt) | 2:24 |

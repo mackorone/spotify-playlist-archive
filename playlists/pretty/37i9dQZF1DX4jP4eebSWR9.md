@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,602,216 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,602,077 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 34 | [Bella Napoli](https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Bella Napoli](https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we) | 3:55 |
 | 35 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 36 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 37 | [so heiß](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 |
+| 37 | [so heiß \(feat\. Cro\)](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß \(feat\. Cro\)](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 |
 | 38 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 39 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 40 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 |

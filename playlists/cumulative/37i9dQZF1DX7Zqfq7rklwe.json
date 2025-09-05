@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Sleep Token.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa PRESIDENT.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Angel of Midnight",
+        "url": "https://open.spotify.com/album/4HlR5iQDk57xUQeBTMwNhK"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Angel Of Midnight",
+      "url": "https://open.spotify.com/track/4ElS6G17jF87cluP3rn8Aa"
+    },
+    {
+      "album": {
         "name": "Anhedonia",
         "url": "https://open.spotify.com/album/0w9soTmgOvg2anV3SfZ9jV"
       },
@@ -302,6 +320,24 @@
       "duration_ms": 306613,
       "name": "Ascension Day",
       "url": "https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk"
+    },
+    {
+      "album": {
+        "name": "The Vantages II",
+        "url": "https://open.spotify.com/album/6VX3ImePqDm69HlKeiqwZ2"
+      },
+      "artists": [
+        {
+          "name": "The Vantages",
+          "url": "https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230671,
+      "name": "Automata",
+      "url": "https://open.spotify.com/track/5RZ2lJbeD0RH3AADk3pKf1"
     },
     {
       "album": {
@@ -424,7 +460,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 255493,
       "name": "Beneath The Dark Waters",
       "url": "https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI"
@@ -865,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Children of the Grave",
+        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287780,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
+    },
+    {
+      "album": {
         "name": "Never Too Loud",
         "url": "https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O"
       },
@@ -876,7 +930,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 177733,
       "name": "Code Of The Road",
       "url": "https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku"
@@ -1135,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
+    },
+    {
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -1352,6 +1424,32 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "album": {
+        "name": "End of You",
+        "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "End of You",
+      "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
     },
     {
       "album": {
@@ -2146,7 +2244,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
@@ -2290,7 +2388,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 216746,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB"
@@ -2438,7 +2536,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 212710,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
@@ -3363,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Raveyard",
+        "url": "https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        },
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225307,
+      "name": "Raveyard",
+      "url": "https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO"
+    },
+    {
+      "album": {
         "name": "Rebel of the North",
         "url": "https://open.spotify.com/album/2CBX2zP8fLEI6T15p5aH5E"
       },
@@ -3662,7 +3782,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 236794,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
@@ -3788,7 +3908,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 199000,
       "name": "Shine",
       "url": "https://open.spotify.com/track/3SEePFRQ1hWqDBL3hpQzaY"
@@ -3810,6 +3930,24 @@
       "duration_ms": 256293,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+    },
+    {
+      "album": {
+        "name": "Silent Divide",
+        "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303832,
+      "name": "Silent Divide",
+      "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
     },
     {
       "album": {
@@ -4462,7 +4600,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 223199,
       "name": "The End",
       "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
@@ -4484,6 +4622,28 @@
       "duration_ms": 213010,
       "name": "The End",
       "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
+    },
+    {
+      "album": {
+        "name": "The End (feat. BABYMETAL) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "The End (feat. BABYMETAL) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
     },
     {
       "album": {
@@ -5020,7 +5180,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 238156,
       "name": "Whiteout Moon",
       "url": "https://open.spotify.com/track/5Wphkrmc1NYqFf4Geb1rFm"
@@ -5132,7 +5292,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 252440,
       "name": "Your Sweet 666",
       "url": "https://open.spotify.com/track/3IOTNKbDiyk8OpVrQZq838"

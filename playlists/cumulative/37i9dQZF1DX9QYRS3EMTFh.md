@@ -2,14 +2,14 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall, shatta & bouyon du moment\. Photo : DJ Kawest
+> Les hits dancehall, shatta & bouyon du moment\. Photo : Kalash
 
-656 songs - 1 day 4 hr 29 min
+658 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Ofcourse](https://open.spotify.com/track/0Drfj8Up1EMkQIK216sL1a) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [\#Ofcourse](https://open.spotify.com/album/2CRRoL9ytm1OHo886HJLPj) | 3:19 | 2024-04-25 | 2024-05-24 |
-| [\#patachou](https://open.spotify.com/track/3eWN9SplW6aFqVQRcaVyA8) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [\#patachou](https://open.spotify.com/album/3NulO5NySAPzVty1CCBA9Z) | 1:46 | 2025-08-14 |  |
+| [\#patachou](https://open.spotify.com/track/3eWN9SplW6aFqVQRcaVyA8) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [\#patachou](https://open.spotify.com/album/3NulO5NySAPzVty1CCBA9Z) | 1:46 | 2025-08-14 | 2025-09-05 |
 | [10 / 10](https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [10 / 10](https://open.spotify.com/album/4YUT7LYDMFCxtE9v1q93EQ) | 2:53 | 2021-12-22 | 2022-03-18 |
 | [4 SAISONS](https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Lifestyle Melody](https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY) | 2:12 | 2025-07-10 |  |
 | [420](https://open.spotify.com/track/19KLlE2v5E4AMvushL8EHf) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Team DAMP](https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP) | [420](https://open.spotify.com/album/3R502v16PmUz1mXEjEsKch) | 2:53 | 2024-04-18 | 2024-05-10 |
@@ -329,6 +329,7 @@
 | [Koussi Koussa \(feat\. Jahyanai\)](https://open.spotify.com/track/7q3HHz30BuCvxrvJbAnZBW) | [Asakura](https://open.spotify.com/artist/6Twdw4cy4bu2vRXuCne8uU), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Koussi Koussa \(feat\. Jahyanai\)](https://open.spotify.com/album/5Ds0Hz82gkek4GJm1CXMVE) | 2:17 | 2023-04-27 | 2023-09-15 |
 | [KOZÉ CHO](https://open.spotify.com/track/708xBnPh7gOyMz1pjqH7rL) | [CRAAZY](https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd), [WAH WAAH](https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [HUSTLER](https://open.spotify.com/album/7JCTRhSMh0Twq7yUfY0CyW) | 1:54 | 2023-06-01 | 2023-11-10 |
 | [Kuff Kaff](https://open.spotify.com/track/5xFPsBOWJj2uirVGxU4iBQ) | [Saa'Turn](https://open.spotify.com/artist/79oiLTBpm8FkKnqWHmtr1Z), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Kuff Kaff](https://open.spotify.com/album/14VJvZtbl0ZiRrH9I2m9DC) | 2:10 | 2025-07-17 | 2025-08-22 |
+| [L'or](https://open.spotify.com/track/0EZ1oWS6NsjHqIjfXdALw2) | [Chani Man](https://open.spotify.com/artist/3c06xbau4OgBytTvM6bXXg) | [L'or](https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT) | 2:57 | 2025-09-04 |  |
 | [La Belette](https://open.spotify.com/track/2MUVuW834R2Ep08eyXFAZx) | [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [La Belette](https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO) | 1:41 | 2025-08-07 |  |
 | [La Boue](https://open.spotify.com/track/30UAp6vwkZsKsDSYUZdYXf) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LESTEF KJF BOYZ](https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp) | [La Boue](https://open.spotify.com/album/5ZDl4s02rWdKkzoWIm6QbC) | 2:30 | 2024-12-12 | 2025-02-14 |
 | [La Campagne](https://open.spotify.com/track/23WNKe9sWP3rttS8pptRJa) | [Liine](https://open.spotify.com/artist/2qnxVuZSDmKCnMgyXImYFg), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [La Campagne](https://open.spotify.com/album/2K2WPWRBCT4k7wg2fswK61) | 1:36 | 2025-07-17 | 2025-08-22 |
@@ -579,6 +580,7 @@
 | [Take it Easy](https://open.spotify.com/track/3yiMchD4ThuuBSyHIKwWrn) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Vj Lou](https://open.spotify.com/artist/4UVzZ2QgBMOIRqygmERMzL) | [Take it Easy](https://open.spotify.com/album/5AnmUVHcE89DR29xnJN1NQ) | 2:04 | 2023-04-06 | 2023-06-23 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-20 | 2024-07-19 |
 | [Talk Truth](https://open.spotify.com/track/2CrlQkUnyKFkY3SrsybnDS) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Talk Truth](https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS) | 2:22 | 2023-06-22 | 2023-09-15 |
+| [TAMBOU](https://open.spotify.com/track/1c7i0QliKMH9SSpgPSTHDo) | [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe), [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [TAMBOU](https://open.spotify.com/album/1rfmcQhSMXujxmIPNKspxz) | 2:11 | 2025-09-04 |  |
 | [TAPE MEASURE](https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 2:50 | 2022-08-25 | 2022-10-28 |
 | [Tcheck Pou Tcheck](https://open.spotify.com/track/7tDNoWXXVQo5vs5cJFtVSr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:38 | 2024-12-12 | 2025-01-17 |
 | [Tek Jam](https://open.spotify.com/track/5Z2XXc8L1j6aXXE3ZMaJVF) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Tek Jam](https://open.spotify.com/album/4Zk6hph7AuXjcf189rcWXx) | 3:31 | 2022-12-29 | 2023-02-10 |

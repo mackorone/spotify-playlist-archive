@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. cover: she's green
+> Gazing at pedals, soaring celestially high\. cover: Quannnic
 
-761 songs - 2 day 1 hr 7 min
+770 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-10 | 2023-07-22 |
 | [Floodgate](https://open.spotify.com/track/00OpDpXs71NMvXyYFBf2rV) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Floodgate](https://open.spotify.com/album/6mLQEXmux7PLbetW9eu1ix) | 2:23 | 2024-10-25 |  |
 | [floor](https://open.spotify.com/track/5zf733d1cp4qk7uah0moKq) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [happyyy](https://open.spotify.com/album/4xFzkTYNjBrLg9KRNUyXWm) | 1:34 | 2023-10-13 | 2024-02-24 |
+| [Floorface](https://open.spotify.com/track/5OQiaJR2fde5d6k3ULRCaz) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Warbrained](https://open.spotify.com/album/4esdADi38vK9OVIpR9qgBJ) | 4:06 | 2025-09-04 |  |
 | [Flores Rotas](https://open.spotify.com/track/4Kpx1Srna5losw7gIq1Kkv) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Flores Rotas](https://open.spotify.com/album/4aLjH5HM35HSeShlbFYymW) | 5:05 | 2021-12-02 | 2022-07-29 |
 | [flower](https://open.spotify.com/track/1U1HCNmMUk1tCZDU7ME9y2) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [ok](https://open.spotify.com/album/26zISVi1kzYcpi3tkMfUvs) | 1:15 | 2023-06-14 | 2023-06-21 |
 | [Flowers](https://open.spotify.com/track/2arkm9E0tvD0MHvr3izthl) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 4:28 | 2024-04-05 |  |
@@ -355,6 +356,7 @@
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-01 |  |
 | [I Think It's Light Outside](https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [The Moth, The Lizard, And The Secret Machines](https://open.spotify.com/album/21dYzZhlxvBeHShNB26zHu) | 4:31 | 2023-03-24 | 2023-05-23 |
 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-11-10 | 2024-10-26 |
+| [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-09-04 |  |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-12 |  |
 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 | 2023-03-10 | 2023-09-30 |
 | [If Only](https://open.spotify.com/track/4jphqPoGiGPuj1hCPKR5Zq) | [Krall](https://open.spotify.com/artist/6INLUjiXnW7gqoqqggL66N) | [If Only](https://open.spotify.com/album/1wRZjSOsThCvJbIOO0LptI) | 3:23 | 2024-04-05 |  |
@@ -407,6 +409,7 @@
 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-20 | 2023-09-02 |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2023-11-14 |  |
 | [kittyriff](https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [chrome is lullaby](https://open.spotify.com/album/2RSFZOEGjPPrZHRCnkfRIb) | 3:02 | 2024-10-25 |  |
+| [kittyriff \- They Are Gutting a Body of Water: re](https://open.spotify.com/track/5njHtmOYd2vpvnpECR6uWY) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [kittyriff \(They Are Gutting a Body of Water: re\)](https://open.spotify.com/album/22KbYmRIcABrnvhot5EvrO) | 3:58 | 2025-09-04 |  |
 | [kmart amen break](https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:40 | 2024-02-23 | 2025-07-19 |
 | [krillin](https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h), [SUN ORGAN](https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp) | [krillin](https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB) | 2:15 | 2024-03-08 |  |
 | [Lambspring](https://open.spotify.com/track/0Uz7iEsz2mME7o48aXcasP) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Dissolution Wave](https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR) | 5:20 | 2023-02-17 | 2023-07-29 |
@@ -502,6 +505,7 @@
 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 | 2024-04-30 |
 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 | 2021-10-19 | 2023-06-08 |
 | [NPC](https://open.spotify.com/track/1UbE5driFCXOtqjRoqOqqQ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [NPC](https://open.spotify.com/album/2djvGQmMqVG6b1rP7G2Kbb) | 3:38 | 2023-10-20 | 2024-04-20 |
+| [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 | 2025-09-04 |  |
 | [Oceanographer](https://open.spotify.com/track/71wcG7nq6PwywJUXxYla7h) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Oceanographer](https://open.spotify.com/album/6o2rLJ32mrDVlhLd55sNNG) | 5:57 | 2025-08-11 |  |
 | [Oceans](https://open.spotify.com/track/53WUmuG7PPNjtbRWoN56SA) | [JAUS](https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2) | [Oceans](https://open.spotify.com/album/1k3X1D3AnKLXo1mnMk1WeC) | 3:17 | 2021-10-19 | 2022-07-29 |
 | [Océano](https://open.spotify.com/track/72Qedzj7OHNDti4yTh7YuD) | [Resplandor](https://open.spotify.com/artist/3vgAuHUBcrSQgTqNMcNk6o) | [Tristeza](https://open.spotify.com/album/0cTKav3mJnKD4SefScUVgY) | 7:36 | 2022-06-29 | 2022-08-04 |
@@ -580,8 +584,10 @@
 | [Scapa Flow](https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Scapa Flow](https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N) | 3:59 | 2023-08-04 | 2023-12-12 |
 | [Scapa Flow](https://open.spotify.com/track/4oaLvyUUF7poPuAZSKnNT9) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Hard Light](https://open.spotify.com/album/3GzUPre1YjcoEjvV3cv6kB) | 3:59 | 2023-11-14 | 2024-04-13 |
 | [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 | 2023-12-14 |  |
+| [Scolder](https://open.spotify.com/track/6Oy7dkb0pkQjIJaglDHrny) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Warbrained](https://open.spotify.com/album/4esdADi38vK9OVIpR9qgBJ) | 3:52 | 2025-09-04 |  |
 | [season](https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [season/everblue](https://open.spotify.com/album/1tpA5j4ugBgRdiv0QHeDbj) | 4:37 | 2023-11-10 | 2024-04-30 |
 | [Second Space Song](https://open.spotify.com/track/3ivkORJmP12B3fxXkDszyY) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Starflyer 59](https://open.spotify.com/album/7eTETj3EROBg3aGhulEuwk) | 3:20 | 2024-02-23 | 2024-03-23 |
+| [Secrets](https://open.spotify.com/track/6hawTk0rC1XZ3Q85VPxNdz) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Secrets](https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo) | 4:41 | 2025-09-04 |  |
 | [See](https://open.spotify.com/track/1ePVUvhtcNQ5zTxlr7jtam) | [wylie hopkins](https://open.spotify.com/artist/4os4J8PaDrqHAsBfO2xDn9) | [See](https://open.spotify.com/album/4xm2dAMh82lr2dYg9QLtRt) | 3:41 | 2024-09-13 |  |
 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 | 2024-01-24 | 2025-05-16 |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2023-02-17 | 2023-09-30 |
@@ -670,6 +676,7 @@
 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 | 2024-01-12 | 2024-12-10 |
 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 | 2023-06-30 | 2024-02-24 |
 | [the chase](https://open.spotify.com/track/2bAK4hQgcz2CsQDqV9uEQE) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [the chase](https://open.spotify.com/album/0c4G5LLVXZcrGMO6LGZ1gQ) | 3:25 | 2025-08-22 |  |
+| [the chase](https://open.spotify.com/track/2qNww5D7A3E5Jo1wtVQKMD) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [the chase](https://open.spotify.com/album/2B6Zano0KSvh8J7fOPdOOH) | 3:25 | 2025-09-04 |  |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 | 2023-06-17 |
 | [The Fall](https://open.spotify.com/track/1otGsnttRUt1mZhBf3f9MZ) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Close To The Knife](https://open.spotify.com/album/2xgOw1wS8dNQX5CvKIfbxO) | 3:54 | 2025-05-15 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 | 2023-06-08 |
@@ -750,6 +757,7 @@
 | [Wither](https://open.spotify.com/track/2JKmcTJA74Yoi6poaoWiG5) | [Overhang](https://open.spotify.com/artist/08MZJSQuy2HHMe6N0EGAtt) | [Overhang](https://open.spotify.com/album/6l4RMfgZ31b1GmZ3nQwN2B) | 4:52 | 2024-04-05 |  |
 | [Wonder](https://open.spotify.com/track/63gll6vcJRkW7ZeBsvT8wq) | [Animal Ghosts](https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU) | [Swell](https://open.spotify.com/album/0xhlx3Ajj7l3ihguKe5zys) | 4:10 | 2024-02-23 | 2024-10-26 |
 | [wonder if you care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if you care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 | 2023-06-07 | 2024-05-25 |
+| [Wrenches](https://open.spotify.com/track/7mjkbmG53s8oUmSdyL3t6Z) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Warbrained](https://open.spotify.com/album/4esdADi38vK9OVIpR9qgBJ) | 5:01 | 2025-09-04 |  |
 | [Y Así Fue](https://open.spotify.com/track/6stgaAT41y41PN5kGPgmyp) | [mafalda](https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs) | [Y Así Fue](https://open.spotify.com/album/3GObiymy4fo1LNS64vVxyd) | 3:41 | 2023-11-27 | 2024-03-19 |
 | [Ya No Tengo Palabras](https://open.spotify.com/track/752g0fnwU1cFE0W5gDqlmK) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [Ya No Tengo Palabras](https://open.spotify.com/album/2bzgNtHlgsYqKrmaVpOoVj) | 4:21 | 2023-11-10 | 2024-04-30 |
 | [Yeah](https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT) | 2:30 | 2022-12-15 | 2023-03-14 |
@@ -768,6 +776,7 @@
 | [Песня о привязанности](https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ) | [Автоспорт](https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE) | [Береги себя](https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY) | 3:07 | 2022-12-15 | 2023-03-25 |
 | [さめない](https://open.spotify.com/track/1Z9HoCZq6RfaG3LLIKRHIQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:35 | 2023-11-07 | 2024-04-06 |
 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 | 2024-11-22 |  |
+| [雨月物語](https://open.spotify.com/track/4KsdldOZIUez30s6Z69N9u) | [白色海岸The White Coast](https://open.spotify.com/artist/3E8hU2azxBuXCSETWgsA3T) | [雨月物語](https://open.spotify.com/album/0CjtnLf9pXzF0QUIJBvNTF) | 3:22 | 2025-09-04 |  |
 | [기다려준 새벽 \(Following Her to No Particular Sunrise\)](https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn) | [Della Zyr](https://open.spotify.com/artist/0fx546FEiZSwGoSbuMnsmN) | [비타민과 우려 Vitamins and Apprehension](https://open.spotify.com/album/3KvDdvikW0qXKnfGYZQtXf) | 8:00 | 2022-12-15 | 2023-02-28 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

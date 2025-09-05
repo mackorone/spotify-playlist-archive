@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u5e38\u7530\u5927\u5e0c",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Chip Wickham",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 217883,
       "name": "7\u3064\u6570\u3048\u308d\uff01",
       "url": "https://open.spotify.com/track/1OIEqbUIvlnEw5xQKsXSq8"
@@ -1932,6 +1932,24 @@
       "duration_ms": 658906,
       "name": "Departure",
       "url": "https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86"
+    },
+    {
+      "album": {
+        "name": "Dersen Cafe & Give Nothing",
+        "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124200,
+      "name": "Dersen Cafe",
+      "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
     },
     {
       "album": {
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 308510,
       "name": "Luminous Giants (feat. Rakhi Singh & Manchester Collective)",
       "url": "https://open.spotify.com/track/3vuqZI49ke1PTlVx6YYqRg"
@@ -5733,6 +5751,24 @@
     },
     {
       "album": {
+        "name": "The Eternal Now",
+        "url": "https://open.spotify.com/album/1cTZwsdZutzwt8nGvwTOYA"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315506,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2EQ0pVG4H8m9pBGtZgkzwF"
+    },
+    {
+      "album": {
         "name": "Outta Here",
         "url": "https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3"
       },
@@ -6202,7 +6238,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 185648,
       "name": "Rules",
       "url": "https://open.spotify.com/track/0rUuNudQpUBVIuGjbtBvRR"
@@ -8582,6 +8618,24 @@
       "duration_ms": 167900,
       "name": "\u60d1\u661f",
       "url": "https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL"
+    },
+    {
+      "album": {
+        "name": "\u63fa\u308c\u308b",
+        "url": "https://open.spotify.com/album/7oU1ioz9JWtg73Lnl23jv6"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218095,
+      "name": "\u63fa\u308c\u308b",
+      "url": "https://open.spotify.com/track/7htsAqcJKs8wuKIbIFB47r"
     },
     {
       "album": {

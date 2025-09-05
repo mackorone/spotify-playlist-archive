@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-180 songs - 11 hr 51 min
+181 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Peaceful Sound Bath](https://open.spotify.com/track/1XOoK8b08hYrAU0vMcnQIS) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:12 | 2022-02-22 | 2024-03-01 |
 | [Perpetual Bowl](https://open.spotify.com/track/70VqRL6Yjrm0NTwZWZ5do3) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:45 | 2022-12-13 | 2025-04-30 |
 | [Perspective](https://open.spotify.com/track/7HyEK4QwfJriTk2Y6IL2tH) | [Noah Proctor Meditations](https://open.spotify.com/artist/6ttLZmuxBwwIq7Nu7iJbNE) | [Sound Bath](https://open.spotify.com/album/3H5ridvpAuOeAfoHpu8Zpr) | 3:23 | 2022-01-06 | 2025-07-10 |
+| [Power of a Flame](https://open.spotify.com/track/0TS7lA9wY0JKRHjsW3cYrU) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL), [Eera Sidorina](https://open.spotify.com/artist/6QF5U4s6rjFywHsLpfHDNZ) | [Between the now and next](https://open.spotify.com/album/3Sjg2gjbFBjyvO4qfKBHhd) | 4:32 | 2025-09-04 |  |
 | [Prayer for Protection](https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:29 | 2022-01-06 | 2025-07-10 |
 | [Present Thoughts](https://open.spotify.com/track/72N5ExTFna6rUswSu21fxo) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:10 | 2022-03-25 | 2024-03-01 |
 | [Preservation](https://open.spotify.com/track/0IlaIk8xzuKP7Wei0I0c9y) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Preservation](https://open.spotify.com/album/1a7Xfww0jdCKRbNwzQA1ho) | 2:47 | 2024-08-30 |  |

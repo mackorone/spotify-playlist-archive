@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: bryska",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Fukaj, Vito Bambino",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 159428,
       "name": "Co noc",
       "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
@@ -2204,6 +2204,28 @@
       "duration_ms": 153600,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp"
+    },
+    {
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/51otAdQkie3YiZQQqjlrEt"
+      },
+      "artists": [
+        {
+          "name": "Enej",
+          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
+        },
+        {
+          "name": "Sebastian Karpiel-Bu\u0142ecka",
+          "url": "https://open.spotify.com/artist/69llk3EX3Mq2c3q4aEVdTs"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239003,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/2FZooN1RiZox2PETdfcmSE"
     },
     {
       "album": {
@@ -4490,6 +4512,28 @@
       "duration_ms": 190714,
       "name": "Latawce",
       "url": "https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J"
+    },
+    {
+      "album": {
+        "name": "Lato",
+        "url": "https://open.spotify.com/album/3vatrTvp9GNb1K2dFI7azz"
+      },
+      "artists": [
+        {
+          "name": "Tymoteusz",
+          "url": "https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS"
+        },
+        {
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166215,
+      "name": "Lato",
+      "url": "https://open.spotify.com/track/2PkEVUJlyY6A4COS3RQsuu"
     },
     {
       "album": {
@@ -7128,7 +7172,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 127499,
       "name": "Oda do Olka",
       "url": "https://open.spotify.com/track/0fPvx44Jy0iRhho0fExyVJ"
@@ -10468,7 +10512,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 215560,
       "name": "w kilometrach",
       "url": "https://open.spotify.com/track/7G4wYMAA1C4sgjfUqDiPLf"
@@ -11536,6 +11580,24 @@
       "duration_ms": 178514,
       "name": "Zapomnij Mnie",
       "url": "https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF"
+    },
+    {
+      "album": {
+        "name": "Zaraz Wracam",
+        "url": "https://open.spotify.com/album/1358nvc5e4O1iMkkk6lpeY"
+      },
+      "artists": [
+        {
+          "name": "Andrzej Piaseczny",
+          "url": "https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144601,
+      "name": "Zaraz Wracam",
+      "url": "https://open.spotify.com/track/3RI3vuws0JrXhuDPWV72wV"
     },
     {
       "album": {

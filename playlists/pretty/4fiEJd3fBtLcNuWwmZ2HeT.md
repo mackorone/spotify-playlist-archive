@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 335 songs - 18 hr 57 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 337 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -343,5 +343,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 333 | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 |
 | 334 | [Dec.](https://open.spotify.com/track/7iYrP7trNTMlH9fbRAnexx) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Dec.](https://open.spotify.com/album/2Ym8AuIyzuVjSgxq81gIvp) | 2:12 |
 | 335 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
+| 336 | [Memento mori](https://open.spotify.com/track/7oiupGD4I9Qq3d9fvWq3iq) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 5:30 |
+| 337 | [Marionette](https://open.spotify.com/track/6yrpCHRQ3ToeqhuT9L1il9) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 3:53 |
 
-Snapshot ID: `AAAJQgMMpoB7CQdDqMiKt/q6Sb5Lb2Mk`
+Snapshot ID: `AAAJRKoFxW7WhvF6c6GIlLCRWANseZtN`

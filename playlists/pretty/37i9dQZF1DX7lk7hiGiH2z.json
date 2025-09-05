@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 53921,
+  "num_followers": 53942,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+        "name": "Giraffenaffen 2",
+        "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Jupiter Jones",
+          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 147375,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+      "duration_ms": 187946,
+      "name": "Probiers mal mit Gem\u00fctlichkeit",
+      "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -607,22 +611,18 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Giraffenaffen 2",
-        "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
       },
       "artists": [
         {
-          "name": "Jupiter Jones",
-          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 187946,
-      "name": "Probiers mal mit Gem\u00fctlichkeit",
-      "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
+      "duration_ms": 147375,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
-        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 126232,
-      "name": "Ab in den Urlaub",
-      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Das Sommertier",
         "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 147571,
       "name": "Das Sommertier",
       "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
+        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 126232,
+      "name": "Ab in den Urlaub",
+      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
+        "name": "Sommerbrille",
+        "url": "https://open.spotify.com/album/42Zwv4MVwF55fo7GAjPtgO"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 156450,
+      "name": "Sommerbrille",
+      "url": "https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
         "name": "Unter meinem Bett. Best Of",
         "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
@@ -1323,26 +1339,6 @@
       "duration_ms": 149360,
       "name": "Rumspringen",
       "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
-        "name": "Raumschiff",
-        "url": "https://open.spotify.com/album/0RvaLDbmx9L8P3gLvQU69N"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
-        },
-        {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "Raumschiff",
-      "url": "https://open.spotify.com/track/0LqVqtvi6cnPEIOpxIVN1I"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

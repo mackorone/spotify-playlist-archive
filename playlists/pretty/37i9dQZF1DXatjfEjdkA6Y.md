@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,291 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,294 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 9 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |
 | 10 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 |
 | 11 | [Save Your Kisses For Me](https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Greatest 70's Hits Best Ever](https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc) | 3:02 |
-| 12 | [Après toi](https://open.spotify.com/track/13tx9je0ftBgu6BKpsQDo4) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Vicky Leandros \(Expanded Edition\)](https://open.spotify.com/album/5SdvPCwMrGeco2J8YYXB6I) | 3:32 |
-| 13 | [Beg, Steal Or Borrow](https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The Albums 1970\-73](https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj) | 2:47 |
+| 12 | [Beg, Steal Or Borrow](https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The Albums 1970\-73](https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj) | 2:47 |
+| 13 | [Après toi](https://open.spotify.com/track/13tx9je0ftBgu6BKpsQDo4) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Vicky Leandros \(Expanded Edition\)](https://open.spotify.com/album/5SdvPCwMrGeco2J8YYXB6I) | 3:32 |
 | 14 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
 | 15 | [Disco Tango](https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj) | [Tommy Seebach](https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz) | [Disco Tango \[Remastered\]](https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY) | 2:50 |
 | 16 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 47 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
 | 48 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
 | 49 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
-| 50 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
-| 51 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
+| 50 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
+| 51 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
 | 52 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
 | 53 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
 | 54 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 58 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 59 | [Junger Tag](https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:20 |
 | 60 | [Amanece](https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic) | [Jaime Morey](https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp) | [Jaime Morey: Todos Sus Exitos](https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L) | 3:03 |
-| 61 | [Enseñame a Cantar](https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6) | [Micky](https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht) | [40 Años de No\. 1 en Español : Los 50's, 60's, 70's y 80's](https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8) | 3:27 |
+| 61 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
 | 62 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
-| 63 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
+| 63 | [Enseñame a Cantar](https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6) | [Micky](https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht) | [40 Años de No\. 1 en Español : Los 50's, 60's, 70's y 80's](https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8) | 3:27 |
 | 64 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
 | 65 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
 | 66 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |

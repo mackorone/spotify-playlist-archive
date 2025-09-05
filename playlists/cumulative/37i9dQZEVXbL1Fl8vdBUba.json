@@ -2249,24 +2249,6 @@
     },
     {
       "album": {
-        "name": "UNA VALIJA EN SENTIMIENTO",
-        "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
-      },
-      "artists": [
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        }
-      ],
-      "date_added": "2025-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252380,
-      "name": "ELECTROLIBONBON",
-      "url": "https://open.spotify.com/track/3CHcEAW2hG6rlT2W1LlOtQ"
-    },
-    {
-      "album": {
         "name": "ELECTROLIBONBON",
         "url": "https://open.spotify.com/album/3psqcXp7ROtDYM8U32XHCm"
       },
@@ -2282,6 +2264,28 @@
       "duration_ms": 252380,
       "name": "ELECTROLIBONBON",
       "url": "https://open.spotify.com/track/5V0j8PSmBYQsFfXKKmzHRj"
+    },
+    {
+      "album": {
+        "name": "UNA VALIJA EN SENTIMIENTO",
+        "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Prodmonja",
+          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252380,
+      "name": "ELECTROLIBONBON",
+      "url": "https://open.spotify.com/track/3CHcEAW2hG6rlT2W1LlOtQ"
     },
     {
       "album": {

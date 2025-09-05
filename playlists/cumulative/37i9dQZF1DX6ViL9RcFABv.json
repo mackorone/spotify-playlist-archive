@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Yasmine & Nenny ",
+  "description": "Uma playlist de pura alma pop! Foto: Beatriz Abrunhosa ",
   "name": "Pop PT",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 130199,
       "name": "Anjos",
       "url": "https://open.spotify.com/track/4CBaW78g5v8JSKlL8vCQ0U"
@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Sombra no Mar",
+        "url": "https://open.spotify.com/album/4K1I5goMj6HBdPLlaY1Lwq"
+      },
+      "artists": [
+        {
+          "name": "Amor Perdido",
+          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150357,
+      "name": "C\u00e9u de Jasmim",
+      "url": "https://open.spotify.com/track/6mIRDRUNImoheHxpexr5qx"
+    },
+    {
+      "album": {
         "name": "Dan\u00e7a Comigo",
         "url": "https://open.spotify.com/album/0u0hvzMuGa4FOZqDI85qqH"
       },
@@ -1926,6 +1944,28 @@
       "duration_ms": 195782,
       "name": "Dois Dedos de Testa",
       "url": "https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4O4Z2HgACr41aZ66X0jmL7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
+        {
+          "name": "Os Azeitonas",
+          "url": "https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu"
     },
     {
       "album": {
@@ -2536,7 +2576,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 156078,
       "name": "ganhei.",
       "url": "https://open.spotify.com/track/0El5s3r9Ogb5pJn6lB7wlE"
@@ -3130,7 +3170,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 181406,
       "name": "LIBRAM",
       "url": "https://open.spotify.com/track/58onl1z8Eyat0gwaH5oIZp"
@@ -5076,6 +5116,24 @@
       "duration_ms": 166700,
       "name": "Sem ti no Natal",
       "url": "https://open.spotify.com/track/2WwNInqhqXBUhCcltFKuUT"
+    },
+    {
+      "album": {
+        "name": "Sentir Demais",
+        "url": "https://open.spotify.com/album/26Uss3yiklzIIbjriDr2z8"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "Sentir Demais",
+      "url": "https://open.spotify.com/track/78YlWezaE2pSEAyWwNvepu"
     },
     {
       "album": {

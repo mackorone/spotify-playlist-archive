@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 118426,
+  "num_followers": 118418,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "DICHOTOMY",
+        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Haunt My Mind (Machinedrum Remix)",
         "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
       },
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "DICHOTOMY",
-        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+        "name": "The World\u2019s Biggest Paving Slab",
+        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
         }
       ],
-      "duration_ms": 223278,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+      "duration_ms": 185471,
+      "name": "The World's Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1475,18 +1491,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "The World\u2019s Biggest Paving Slab",
-        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
+        "name": "EZ 4 Me",
+        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
         }
       ],
-      "duration_ms": 185471,
-      "name": "The World's Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
+      "duration_ms": 180628,
+      "name": "EZ 4 Me",
+      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "EZ 4 Me",
-        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 180628,
-      "name": "EZ 4 Me",
-      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
-      },
-      "artists": [
-        {
-          "name": "Peter Xan",
-          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Go Get It",
         "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 131320,
       "name": "I Go Get It",
       "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 208747,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
     },
     {
       "added_at": "2023-11-20 15:00:00",

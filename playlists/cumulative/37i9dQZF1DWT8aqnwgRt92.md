@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,146 songs - 5 day 12 hr 57 min
+2,148 songs - 5 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Frontiers](https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Frontiers](https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C) | 2:36 | 2025-01-04 | 2025-04-11 |
 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2022-12-22 | 2023-01-18 |
 | [Fun! Fun! Fun!](https://open.spotify.com/track/1VfpwHeU9pho57Ag6T4crZ) | [新浜レオン](https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2) | [Fun! Fun! Fun!](https://open.spotify.com/album/09CblIw8WSWkHyPTY6A9sR) | 4:11 | 2025-04-15 | 2025-05-23 |
-| [Futari Camp](https://open.spotify.com/track/2qGJOqjNKUU3NWu2UzKg4j) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Futari Camp](https://open.spotify.com/album/5L18yT8MrVrTbQ3p9KnI89) | 3:46 | 2025-07-10 |  |
+| [Futari Camp](https://open.spotify.com/track/2qGJOqjNKUU3NWu2UzKg4j) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Futari Camp](https://open.spotify.com/album/5L18yT8MrVrTbQ3p9KnI89) | 3:46 | 2025-07-10 | 2025-09-05 |
 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-07-28 | 2022-08-17 |
 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 | 2023-08-01 | 2023-10-08 |
 | [Future Soda](https://open.spotify.com/track/4C1sgQTlXViKQ0E3LXoOew) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Future Soda](https://open.spotify.com/album/4LCcyv7mKIVHZq7Fh0d9kk) | 4:07 | 2025-07-01 | 2025-07-14 |
@@ -534,7 +534,7 @@
 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 | 2022-10-28 |
 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 | 2023-07-11 | 2023-10-04 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
-| [Kamidanomi](https://open.spotify.com/track/5KIIuDnV38MvQET0HjhCcN) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Kamidanomi](https://open.spotify.com/album/2TjuVsLDn5UJThFZv86S5u) | 3:47 | 2025-07-17 |  |
+| [Kamidanomi](https://open.spotify.com/track/5KIIuDnV38MvQET0HjhCcN) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Kamidanomi](https://open.spotify.com/album/2TjuVsLDn5UJThFZv86S5u) | 3:47 | 2025-07-17 | 2025-09-05 |
 | [KAMIGAMI\-神噛\- \- TV edit](https://open.spotify.com/track/4SNhHffgdvKYyyGcbxqPZ1) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [KAMIGAMI\-神噛\- \(TV edit\)](https://open.spotify.com/album/6Met7PlW4vHDLB8lNqBvVf) | 1:33 | 2022-10-25 | 2022-11-23 |
 | [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 | 2023-01-12 | 2023-02-08 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-14 |
@@ -550,6 +550,7 @@
 | [KEY of Like！](https://open.spotify.com/track/2hQkYgyZfIcmDgIHMcidvB) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM), [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh), [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [KEY of Like！](https://open.spotify.com/album/5dwr0fHNYlLzbZqTqMwotl) | 4:11 | 2025-02-11 | 2025-03-12 |
 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 | 2023-01-17 | 2023-02-01 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 | 2023-07-05 |
+| [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/track/4FI5XZ9paE4Lliaacra77p) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/album/3osCW6kofsU9dIlILmL46l) | 4:12 | 2025-09-04 |  |
 | [Kienai](https://open.spotify.com/track/3PSp3yra8DpUdQDPT9ZRj0) | [THE BINARY](https://open.spotify.com/artist/60X2RP6vK5pB964r0LyK5X) | [Kienai](https://open.spotify.com/album/6quUpgSDL82oAvsGw0gpT0) | 3:31 | 2024-01-16 | 2024-04-11 |
 | [Killer Bars](https://open.spotify.com/track/75kFg28MsVmkATS6NYQ13i) | [Hilcrhyme](https://open.spotify.com/artist/5sefnd4yMQNYe9fuLi2XYw) | [Killer Bars](https://open.spotify.com/album/4cmcSalneTMr2guz93ynOx) | 3:23 | 2024-01-04 | 2024-01-10 |
 | [KiLLKiSS](https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [KiLLKiSS](https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p) | 3:28 | 2025-01-07 | 2025-04-16 |
@@ -693,6 +694,7 @@
 | [Mortal With You](https://open.spotify.com/track/34XLcOAQBpe5sEJXXg7HzO) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/042fxv6U1zEMmJjLREFGw8) | 3:55 | 2022-07-05 | 2022-07-29 |
 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 | 2025-07-08 |  |
 | [Move The Soul](https://open.spotify.com/track/06lPpnaKh64CEQ5hXqqQNo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Move The Soul](https://open.spotify.com/album/18MU560yUVxVIjZ2bZVcmi) | 3:32 | 2022-05-28 | 2022-06-22 |
+| [Moving Still Life](https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Moving Still Life](https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO) | 2:50 | 2025-09-04 |  |
 | [Mubansou](https://open.spotify.com/track/7jYU29WcxlYDJENKNH6ss0) | [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [Mubansou](https://open.spotify.com/album/6F4lwZsxEP6ZOoAoh2ykkH) | 5:00 | 2023-04-06 | 2023-06-28 |
 | [Muchauman no Theme](https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [Muchauman no Theme](https://open.spotify.com/album/4JT0mrCRYo1tE1pUNsqIQe) | 0:34 | 2024-01-30 | 2024-03-08 |
 | [Mujikaku no Tensai](https://open.spotify.com/track/4POh4ThJaKsqfuSgwsuDjA) | [Non Stop Rabbit](https://open.spotify.com/artist/3BI27TxQPk2BVbiThvj1EV) | [Mujikaku no Tensai](https://open.spotify.com/album/31TmYdlBCK6cXddVWOW5Tl) | 4:09 | 2022-07-28 | 2022-09-28 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABbrs2Z3tE8aEbjJ0gwEppr",
+  "snapshot_id": "aLeFAAAAAABc6ST5bg0kQkjm83DKZzzm",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
@@ -556,49 +540,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Luis Padilla",
-          "url": "https://open.spotify.com/artist/02lRteeUjXQmfEppmNO7pV"
-        }
-      ],
-      "duration_ms": 230722,
-      "name": "Cosas Del Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j"
+      "duration_ms": 217333,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
     },
     {
       "added_at": null,
@@ -623,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Las Vegas",
-        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Luis Padilla",
+          "url": "https://open.spotify.com/artist/02lRteeUjXQmfEppmNO7pV"
         }
       ],
-      "duration_ms": 400385,
-      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
+      "duration_ms": 230722,
+      "name": "Cosas Del Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j"
     },
     {
       "added_at": null,
@@ -655,6 +603,42 @@
       "duration_ms": 170426,
       "name": "Me Derrito (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Las Vegas",
+        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 400385,
+      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
     },
     {
       "added_at": null,
@@ -775,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
+        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
+      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Triste Recuerdo (En Vivo)",
         "url": "https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI"
       },
@@ -791,26 +795,6 @@
       "duration_ms": 274320,
       "name": "Triste Recuerdo - En Vivo",
       "url": "https://open.spotify.com/track/549yunuC38OgTpTfYzZpsW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Te Lo Pido (En Vivo)",
-        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 287205,
-      "name": "Y Te Lo Pido - En Vivo",
-      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
     },
     {
       "added_at": null,
@@ -835,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
-        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+        "name": "Y Te Lo Pido (En Vivo)",
+        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
       },
       "artists": [
         {
@@ -844,13 +828,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
-      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+      "duration_ms": 287205,
+      "name": "Y Te Lo Pido - En Vivo",
+      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
     },
     {
       "added_at": null,
@@ -919,6 +903,26 @@
       "duration_ms": 224964,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/6EWH5WNvkEZXvmHdLGuL1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Voy A Amar (En Vivo)",
+        "url": "https://open.spotify.com/album/1x2NskCBNshzTbfR5YmCG8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Te Voy A Amar - En Vivo",
+      "url": "https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0"
     },
     {
       "added_at": null,

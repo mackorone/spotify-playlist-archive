@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Stef Bos",
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Herman van Veen & Gerson Main",
   "name": "Mooi Nederlands",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 286093,
       "name": "'k Heb Je Lief",
       "url": "https://open.spotify.com/track/2ydITGJdX7BlxYkGTw8yhG"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2025 (Snelle)",
+        "url": "https://open.spotify.com/album/45xmJIzZ6mMaOn0mPxhEml"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282965,
+      "name": "'k Heb Je LIef",
+      "url": "https://open.spotify.com/track/4XMj3lJ3leMAhhEE2yXZ4Y"
     },
     {
       "album": {
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 215493,
       "name": "Er Wordt Op Je Gewacht",
       "url": "https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo"
@@ -1828,10 +1850,32 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 225574,
       "name": "In dit huis",
       "url": "https://open.spotify.com/track/5vXLnShJWR7sWvgpYq1ojG"
+    },
+    {
+      "album": {
+        "name": "In dit huis (Live)",
+        "url": "https://open.spotify.com/album/676sRodKmYDr72hqrGYOmc"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        },
+        {
+          "name": "Veldhuis & Kemper",
+          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219129,
+      "name": "In dit huis (Live)",
+      "url": "https://open.spotify.com/track/4SC9TZrBeoWx1zxDviwiYT"
     },
     {
       "album": {
@@ -2026,7 +2070,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 162039,
       "name": "Koortsdroom (Nooit Spijt)",
       "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
@@ -2174,7 +2218,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180725,
       "name": "Lichaam Zoekt Geest - Akoestische Versie",
       "url": "https://open.spotify.com/track/7cCG3NolytD74kEmwjs4yX"
@@ -2688,7 +2732,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 174149,
       "name": "Neem Me Mee",
       "url": "https://open.spotify.com/track/5lVqvFE37CbpD75XnAIhPn"
@@ -2944,7 +2988,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 205520,
       "name": "Oude Maasweg",
       "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
@@ -3327,6 +3371,28 @@
     },
     {
       "album": {
+        "name": "Tranen",
+        "url": "https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        },
+        {
+          "name": "Gerson Main",
+          "url": "https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199074,
+      "name": "Tranen",
+      "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
+    },
+    {
+      "album": {
         "name": "Trillend op m\u2019n benen",
         "url": "https://open.spotify.com/album/3V5wwGUrvDhDHC3GEKfqts"
       },
@@ -3646,7 +3712,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 183141,
       "name": "Vraag",
       "url": "https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI"
@@ -4032,7 +4098,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 232933,
       "name": "Zing-Vecht-Huil-Bid-Lach-Werk En Bewonder",
       "url": "https://open.spotify.com/track/2g7QbxPVnDQ7c92y47TxiK"

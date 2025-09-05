@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BtzaRqOeJj.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:4FZ3j1oH43e7cukCALsCwf">Jack White's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,871 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

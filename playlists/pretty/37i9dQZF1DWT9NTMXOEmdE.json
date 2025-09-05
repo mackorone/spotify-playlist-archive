@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 484382,
+  "num_followers": 484360,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-21 05:25:10",
       "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 250483,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
-    },
-    {
-      "added_at": "2025-07-21 05:25:10",
-      "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+    },
+    {
+      "added_at": "2025-07-21 05:25:10",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 250483,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
     },
     {
       "added_at": "2025-07-21 05:25:10",

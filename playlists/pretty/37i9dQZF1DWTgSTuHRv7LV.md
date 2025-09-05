@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Victor Mendivil
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,888 likes - 210 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,945 likes - 210 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,31 @@
 {
-  "description": "The hottest Afropop records on the planet.  Cover: SPINALL",
-  "num_followers": 626815,
+  "description": "The hottest Afropop records on the planet.  Cover: Rema",
+  "num_followers": 626901,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALq18z4M3CHabVbPTzhBUU5RjJmB",
+  "snapshot_id": "AAAAAFU0LqEvBcFZdwhmhDXGzXIFHXru",
   "tracks": [
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
@@ -53,27 +69,7 @@
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "\u00c8K\u00d3 GROOVE",
-        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 139551,
-      "name": "FORWARD",
-      "url": "https://open.spotify.com/track/4ZAbuBPil114GUR8bzANI8"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx"
@@ -89,7 +85,7 @@
       "url": "https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Hot Body",
         "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
@@ -105,7 +101,7 @@
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
@@ -121,7 +117,7 @@
       "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
@@ -141,7 +137,7 @@
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Awolowo",
         "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
@@ -157,7 +153,7 @@
       "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
@@ -181,7 +177,7 @@
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -201,7 +197,7 @@
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
@@ -221,7 +217,7 @@
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Gimme Dat",
         "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
@@ -241,7 +237,7 @@
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "WWP",
         "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
@@ -281,7 +277,7 @@
       "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
@@ -297,27 +293,7 @@
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
@@ -337,7 +313,27 @@
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
@@ -357,7 +353,23 @@
       "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
@@ -377,23 +389,7 @@
       "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
@@ -413,7 +409,7 @@
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -433,39 +429,7 @@
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
@@ -485,27 +449,39 @@
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Tanko (feat. Terry G)",
         "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
@@ -525,7 +501,27 @@
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -541,7 +537,7 @@
       "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
@@ -557,7 +553,7 @@
       "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
@@ -593,7 +589,7 @@
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
@@ -637,7 +633,7 @@
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
@@ -661,7 +657,7 @@
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Fi Kan We Kan",
         "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
@@ -733,7 +729,7 @@
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
@@ -753,7 +749,7 @@
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
@@ -773,7 +769,7 @@
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
@@ -805,7 +801,7 @@
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
@@ -861,7 +857,7 @@
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
@@ -897,7 +893,7 @@
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "TZA",
         "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
@@ -949,7 +945,7 @@
       "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "alone (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
@@ -969,7 +965,7 @@
       "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
@@ -989,7 +985,7 @@
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
@@ -1025,7 +1021,39 @@
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
@@ -1045,147 +1073,7 @@
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "So Much Sense",
-        "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 168072,
-      "name": "So Much Sense",
-      "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
-      },
-      "artists": [
-        {
-          "name": "Okello Max",
-          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
-        }
-      ],
-      "duration_ms": 239572,
-      "name": "Taya",
-      "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "All My Enemies Are Suffering",
-        "url": "https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 194805,
-      "name": "All My Enemies Are Suffering",
-      "url": "https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
@@ -1205,7 +1093,115 @@
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "So Much Sense",
+        "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 168072,
+      "name": "So Much Sense",
+      "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
+      },
+      "artists": [
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        }
+      ],
+      "duration_ms": 239572,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "All My Enemies Are Suffering",
+        "url": "https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 194805,
+      "name": "All My Enemies Are Suffering",
+      "url": "https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
@@ -1225,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
@@ -1249,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
@@ -1269,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
@@ -1285,7 +1281,7 @@
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
@@ -1309,7 +1305,7 @@
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
-      "added_at": "2025-08-29 00:01:19",
+      "added_at": "2025-09-05 00:01:27",
       "album": {
         "name": "Katam (feat. Bien)",
         "url": "https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cAAwixv4DI4AOR4qluYL3.md) - [plain]
 
 > Release all your worries\. Enjoy the times with sounds from legends like  Bob Marley, Snoop Dogg &amp; Bone Thugs \-N\- Haromony\. \#HighlyRecommended
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 313 likes - 35 songs - 2 hr 28 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 312 likes - 35 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

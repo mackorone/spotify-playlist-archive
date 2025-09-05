@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Amber Mark",
+  "description": "De nieuwste pop songs. Cover: Lady Gaga",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 172653,
       "name": "10/10",
       "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
+    },
+    {
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "album": {
@@ -3584,6 +3602,24 @@
       "duration_ms": 224803,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
+    },
+    {
+      "album": {
+        "name": "Cute Aggression",
+        "url": "https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156926,
+      "name": "Cute Aggression",
+      "url": "https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL"
     },
     {
       "album": {
@@ -8100,7 +8136,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 195705,
       "name": "Hotel Rock Bottom (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
@@ -9176,6 +9212,24 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "album": {
+        "name": "I'm your first",
+        "url": "https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174449,
+      "name": "I'm your first",
+      "url": "https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV"
     },
     {
       "album": {
@@ -16289,6 +16343,24 @@
     },
     {
       "album": {
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/1Y7rc1h1p9vn5TDRnbIiw0"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203433,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/1PXiU7yaE1iAhz8XyqhJaK"
+    },
+    {
+      "album": {
         "name": "Something Good",
         "url": "https://open.spotify.com/album/2kg8kMuvKS5DuPK6zg8mCv"
       },
@@ -17829,6 +17901,24 @@
     },
     {
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162962,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"
+    },
+    {
+      "album": {
         "name": "The Healing",
         "url": "https://open.spotify.com/album/1Giu0w3VhoS72xVjaWGTCH"
       },
@@ -17844,6 +17934,24 @@
       "duration_ms": 209213,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/71NRgNmHbukGD3bXxN5Xyx"
+    },
+    {
+      "album": {
+        "name": "The Knife In My Back",
+        "url": "https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "The Knife In My Back",
+      "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
     },
     {
       "album": {
@@ -18887,6 +18995,24 @@
     },
     {
       "album": {
+        "name": "the truth of living in reality",
+        "url": "https://open.spotify.com/album/1BDn9PF9UTstr1CNDLk1WL"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195197,
+      "name": "waste a life",
+      "url": "https://open.spotify.com/track/2SOgQx7AcVmBDyQxx9zN6B"
+    },
+    {
+      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
       },
@@ -19060,7 +19186,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 176923,
       "name": "Wet, Hot American Dream",
       "url": "https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ"

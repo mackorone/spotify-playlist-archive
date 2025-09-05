@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 11246,
+  "num_followers": 11250,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACVZlOkH+YVHd1UFt5Tlczl",
+  "snapshot_id": "aLeFAAAAAABNDXD9GgMagZXZVLuEpbg+",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 147451,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On Me (feat. Emei)",
         "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 149569,
       "name": "Hold On Me (feat. Emei)",
       "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [me right now](https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX)
 
-> Die Playlist, die dich fühlt\. Cover: sombr
+> Die Playlist, die dich fühlt\. Cover: 01099
 
 2,907 songs - 5 day 15 hr 53 min
 
@@ -2262,7 +2262,7 @@
 | [So egal](https://open.spotify.com/track/3PzIfVahzcj6bnk4wKKLFu) | [Ben Factor](https://open.spotify.com/artist/16Z37kyA2PJ85ppgwBAHtC), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [So egal](https://open.spotify.com/album/1O6zCMekzyuHYA5omhOj1v) | 3:06 | 2024-05-16 | 2024-06-07 |
 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 | 2022-09-09 | 2022-10-21 |
 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 | 2025-08-07 |  |
-| [so heiß](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 | 2025-08-14 |  |
+| [so heiß \(feat\. Cro\)](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß \(feat\. Cro\)](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 | 2025-08-14 |  |
 | [so k.o.](https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [so k.o.](https://open.spotify.com/album/4lEsfnmMIQKOn21J4PMwmc) | 3:34 | 2023-10-26 | 2023-12-09 |
 | [So oft](https://open.spotify.com/track/0Pxq2LXEbTHMg0l7PAeHut) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [So oft](https://open.spotify.com/album/3cg09HKLU3ibZWRxoo5t4c) | 3:00 | 2023-10-19 | 2023-10-27 |
 | [SO WIE DU](https://open.spotify.com/track/1MOJxgbEl6hL9ZyFHU2lwA) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn) | [SO WIE DU](https://open.spotify.com/album/40NZ9s3Y3UUvgBKHioh9XO) | 1:57 | 2024-10-31 | 2024-11-29 |

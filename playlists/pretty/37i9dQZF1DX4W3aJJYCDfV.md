@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter, CMAT, Major Lazer and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,843 likes - 116 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,911 likes - 116 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 115 | [World of Imagination](https://open.spotify.com/track/3hPmjsQR23X4BVAUbkkKP0) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [World of Imagination](https://open.spotify.com/album/5VLv1pqDtOkSIi8dh0qeIE) | 3:27 |
 | 116 | [FUND$](https://open.spotify.com/track/799HHc8eTnRsHCFqXTwVRa) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [FUND$](https://open.spotify.com/album/4hQLeyedpQnCceU8hjjHjW) | 2:31 |
 
-Snapshot ID: `AAAAAM2oV1JMFtgHhao+MuzLmWnbxsTO`
+Snapshot ID: `AAAAAIskha5porGusNJNrdBRyniMZBjP`

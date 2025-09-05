@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 257779,
+  "num_followers": 257802,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAC2c/K+qi7AFKwRQKyDfp8z",
+  "snapshot_id": "aLeFAAAAAAAcWVQqRJB7CoCcUyglShcm",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 254093,
       "name": "A Fool for Your Stockings",
       "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 204133,
       "name": "I Thank You",
       "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 212026,
       "name": "Stages",
       "url": "https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Velcro Fly",
+      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tejas",
         "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 209626,
       "name": "Asleep in the Desert (Instrumental)",
       "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Just Got Back from Baby's",
-      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Velcro Fly",
-      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythmeen",
-        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 296933,
-      "name": "She's Just Killing Me",
-      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 207706,
       "name": "Certified Blues",
       "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 296933,
+      "name": "She's Just Killing Me",
+      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Goin' Down to Mexico",
+      "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
         "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 197734,
       "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
       "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Goin' Down to Mexico",
-      "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
     },
     {
       "added_at": null,

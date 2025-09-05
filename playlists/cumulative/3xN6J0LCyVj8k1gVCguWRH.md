@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,268 songs - 12 day 6 hr 42 min
+5,269 songs - 12 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4998,6 +4998,7 @@
 | [Welcome to the Digital Stone Age \- Radio Edit](https://open.spotify.com/track/7I2kX0IY5sCylve0o8evMm) | [Now We're in Stereo](https://open.spotify.com/artist/1st2VNgbGNMWxOMrrhHzLr) | [Welcome to the Digital Stone Age](https://open.spotify.com/album/6EcRAjhl1mV1A1FkKGhrgo) | 4:16 | 2020-12-20 | 2021-01-06 |
 | [What A Difference A Day Made](https://open.spotify.com/track/6eyvtNOtYM6PxqMkq0Hw33) | [Barbara Morrison](https://open.spotify.com/artist/4bmIZ56Upm3rOOVWJyd6b9), [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Timeless](https://open.spotify.com/album/577ta81dZuMkqj7WMnkHAX) | 4:16 | 2022-02-25 | 2022-03-14 |
 | [What a Difference a Day Made](https://open.spotify.com/track/53Xg43dOVJSJ1GiOYkdWlg) | [Danny Jonokuchi](https://open.spotify.com/artist/1cmdwdslxA6pz8pT455AJO), [Alita Moses](https://open.spotify.com/artist/7BIauBSZzpxGjwgYujcnVl) | [What a Difference a Day Made](https://open.spotify.com/album/0nMR0OiSaWceNKb6Tj9RIm) | 4:25 | 2023-08-06 | 2023-08-28 |
+| [What a Little Love Can Do](https://open.spotify.com/track/3AnZkWVaXNHRgUmAyF8G0Q) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [What a Little Love Can Do](https://open.spotify.com/album/15J2ZBIngRYodkdiKBout9) | 3:03 | 2025-09-04 |  |
 | [What A Time To Be Alive](https://open.spotify.com/track/5EHJ6D9d7zEmyHGEZHpxS9) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [What A Time To Be Alive](https://open.spotify.com/album/6brvnpKqJ5FTi2RatTXqiF) | 4:05 | 2022-09-01 | 2022-09-18 |
 | [What a Way](https://open.spotify.com/track/1yWBXDefrIQhyyI0a8jPsV) | [Kindred Connection](https://open.spotify.com/artist/5cEEoJbXSjPdfO4xYWXPvg) | [What a Way](https://open.spotify.com/album/1s689DNOZ7yADGwMdx78Nt) | 4:00 | 2021-09-12 | 2021-09-28 |
 | [What about me?](https://open.spotify.com/track/08vERAB9Aqh7YPqCw9Pe2m) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5), [Jonahh](https://open.spotify.com/artist/2JDD97B00Qrr3c3dzZGnSc) | [What about me?](https://open.spotify.com/album/3p6SIX5KZ8WWamcwYDgg4o) | 2:54 | 2024-02-15 | 2024-02-27 |
@@ -5162,7 +5163,7 @@
 | [WORST THING](https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [WORST THING](https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM) | 2:09 | 2024-10-08 | 2024-10-21 |
 | [Worth It](https://open.spotify.com/track/5WUimXXg0VCx2HhhRk5hnX) | [The Fantasy Exchange](https://open.spotify.com/artist/6tLYl2lVuJWyAoglaNd9eL), [Nick Hagelin](https://open.spotify.com/artist/4uzUAkAnJ15k3cBrI8Op9W), [tilde](https://open.spotify.com/artist/2cSdQ45t0UV2O2y527yKox), [Kell](https://open.spotify.com/artist/1IjifYOYo6VDWn4St9OM29) | [Worth It](https://open.spotify.com/album/3xncuNtIfCjGqQTfZLzKEZ) | 3:35 | 2022-09-21 | 2022-10-09 |
 | [Worth Your While](https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Worth Your While](https://open.spotify.com/album/7gU4XM3CXcvvgGLjwvPrAe) | 3:18 | 2023-04-20 | 2023-05-09 |
-| [WORTHY](https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5) | [Omari Dreams](https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3) | [WORTHY](https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG) | 2:09 | 2025-08-24 |  |
+| [WORTHY](https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5) | [Omari Dreams](https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3) | [WORTHY](https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG) | 2:09 | 2025-08-24 | 2025-09-05 |
 | [Worthy](https://open.spotify.com/track/2osmujeHiS4OlPSOnHR5Hp) | [Rina Chanel](https://open.spotify.com/artist/3Vxlbac46VEnaZ360knkHu) | [Worthy](https://open.spotify.com/album/5kIKa0G1CyhSMAECu1uwiI) | 4:50 | 2020-12-09 | 2021-01-02 |
 | [Would You Stop Loving Me](https://open.spotify.com/track/7x1X6BsAZf5EC81hheT3Ro) | [Matthew Carter](https://open.spotify.com/artist/0SN2AUrCuJIdliVkrds7Po) | [Trip Hop Fun](https://open.spotify.com/album/5UmrBkAg1mVP7e54wbawMs) | 2:47 | 2025-05-17 | 2025-06-01 |
 | [wouldn't it be nice?](https://open.spotify.com/track/611Bd4ADYITpDyU9tapWNw) | [Brett Castro](https://open.spotify.com/artist/7KiNjNQ66cfEJEgXCmIuYe) | [wouldn't it be nice?](https://open.spotify.com/album/2Ylo6MCaKM6wMtH6WX4B0B) | 2:31 | 2022-12-30 | 2023-01-21 |

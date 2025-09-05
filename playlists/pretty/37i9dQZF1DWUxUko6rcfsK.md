@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,820 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,805 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 |
-| 2 | [Caroline](https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:20 |
-| 3 | [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 |
-| 4 | [Durian](https://open.spotify.com/track/1XQEPdAvaP3VfMz9h0QXXl) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Durian](https://open.spotify.com/album/3CFWFANusIG3j8U8YW5nqb) | 3:43 |
-| 5 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 |
+| 1 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 |
+| 2 | [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 |
+| 3 | [Caroline](https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:20 |
+| 4 | [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 |
+| 5 | [Durian](https://open.spotify.com/track/1XQEPdAvaP3VfMz9h0QXXl) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Durian](https://open.spotify.com/album/3CFWFANusIG3j8U8YW5nqb) | 3:43 |
 | 6 | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/track/1vE88eOSWUb2hjljglRfc1) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/album/2RcjbKoEHJVmhX5DYD3PMu) | 5:39 |
 | 7 | [Funny](https://open.spotify.com/track/1uMp3JaBE03wrdyaES8Fqf) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Funny](https://open.spotify.com/album/47otQ4atJ7mxXJJcN9mBxJ) | 2:27 |
 | 8 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 |
 | 60 | [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 |
 
-Snapshot ID: `AAAAALdz1Z3DMOSK3SygZjUVy3R/2vEL`
+Snapshot ID: `AAAAAIv/d8fPQDPkadgGOgXawC55C1w3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,786 likes - 88 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,848 likes - 88 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

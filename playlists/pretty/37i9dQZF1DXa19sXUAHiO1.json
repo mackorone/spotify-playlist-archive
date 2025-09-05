@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1256213,
+  "num_followers": 1256150,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
       "added_at": "2021-12-14 20:07:58",
       "album": {
         "name": "Rocky Mountain High",
@@ -395,6 +379,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Kodachrome",
-      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Waking & Dreaming",
@@ -475,6 +459,22 @@
       "duration_ms": 234040,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Kodachrome",
+      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Stairsteps (Expanded Edition)",
@@ -763,6 +747,22 @@
       "duration_ms": 197440,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
     },
     {
       "added_at": "2022-06-30 18:06:09",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
+      "added_at": "2022-06-30 18:06:09",
       "album": {
-        "name": "Chicago IX: Chicago's Greatest Hits",
-        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
+        "name": "Jonathan Edwards",
+        "url": "https://open.spotify.com/album/6v7ceaQydkdy8oQbZ8oYW0"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Jonathan Edwards",
+          "url": "https://open.spotify.com/artist/7gyVuJLsatWofXCAw1SGxM"
         }
       ],
-      "duration_ms": 235800,
-      "name": "Saturday in the Park",
-      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
+      "duration_ms": 138733,
+      "name": "Sunshine (Go Away Today)",
+      "url": "https://open.spotify.com/track/3Xd39NB1rifow2RDNVgSFp"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

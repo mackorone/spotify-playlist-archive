@@ -4,7 +4,7 @@
 
 > freshly squeezed 📹  elle coves
 
-365 songs - 19 hr 44 min
+367 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bedbugs](https://open.spotify.com/track/5MdHqvEJxK8RvSN5ziVKmT) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Bedbugs](https://open.spotify.com/album/5s6HqHbHK8PDnsSHtBUivO) | 2:56 | 2024-06-14 | 2024-09-21 |
 | [Before You](https://open.spotify.com/track/4V9yjHyeGpFxrvQtBxZ9Ok) | [Tuff Bear](https://open.spotify.com/artist/7AOmmzhzOjls8I7MoHOUfR) | [Before You](https://open.spotify.com/album/4UatRznOUWzdjNYFFqmc0j) | 3:32 | 2024-06-14 | 2024-08-22 |
 | [Before You Go](https://open.spotify.com/track/3cCnQ7TqFLUVGl2Ypduys7) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Before You Go](https://open.spotify.com/album/27nDI79oHU0j5nkhOkjNjD) | 2:31 | 2025-01-24 | 2025-01-26 |
+| [Belong To You](https://open.spotify.com/track/5Pcc7dUxSWJBMkdbR3mu2O) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Belong To You](https://open.spotify.com/album/71QSLMzVXtWu3lt3Z5N2vO) | 4:30 | 2025-09-04 |  |
 | [Beloved](https://open.spotify.com/track/1EZSldxZEuWVL2S9L9cNoH) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Beloved](https://open.spotify.com/album/4Huxw98rPzbwH7e6sEQRRC) | 3:59 | 2025-07-24 |  |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-14 | 2025-06-01 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-08-21 | 2025-05-02 |
@@ -217,6 +218,7 @@
 | [Made It Happen](https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [Made It Happen](https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG) | 3:59 | 2025-06-05 | 2025-07-11 |
 | [Madeline](https://open.spotify.com/track/2cg7tt0ybmEfuyrLBkApJU) | [Zander](https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54) | [Madeline](https://open.spotify.com/album/2m8xbhVhuGvvap833PF21z) | 3:39 | 2025-06-12 | 2025-08-01 |
 | [Man On The Moon](https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Man On The Moon](https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx) | 3:20 | 2025-08-15 |  |
+| [Marigolds](https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Marigolds](https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr) | 2:50 | 2025-09-04 |  |
 | [mark/james](https://open.spotify.com/track/0KLfvc7b1ZtbU83g4h0dsc) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [mark/james](https://open.spotify.com/album/6ERboyRgPPiQscHNWqZYho) | 2:42 | 2025-08-07 |  |
 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 | 2025-05-01 | 2025-06-13 |
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-08-21 | 2025-01-24 |
@@ -297,7 +299,7 @@
 | [Shiny Things](https://open.spotify.com/track/1FtIJ4bHPWDp82eFDAe9w7) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Shiny Things](https://open.spotify.com/album/3onXWmnfOLbH5TeRvtFlDk) | 2:47 | 2024-08-21 | 2024-09-21 |
 | [shock to my system](https://open.spotify.com/track/1FpFO29GfkmHIt0yWVbpmg) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [conversations with those i love](https://open.spotify.com/album/0mMjfxxZHYULpkHqlAgxz9) | 3:05 | 2025-05-22 | 2025-08-29 |
 | [Shoulders](https://open.spotify.com/track/2IjG4DhRZ2eOkScfJn7hcm) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [Shoulders](https://open.spotify.com/album/5GshgWDxIaD1GhL23EPIxz) | 3:31 | 2025-05-01 | 2025-08-08 |
-| [silly questions](https://open.spotify.com/track/6E8akTrRFf3e2h24qZL1ZJ) | [Carolyn](https://open.spotify.com/artist/5eTsgn1utfup58aO4aORDs) | [silly questions](https://open.spotify.com/album/1O5XVn5FWBdmRjZ96vpWX2) | 3:40 | 2025-06-26 |  |
+| [silly questions](https://open.spotify.com/track/6E8akTrRFf3e2h24qZL1ZJ) | [Carolyn](https://open.spotify.com/artist/5eTsgn1utfup58aO4aORDs) | [silly questions](https://open.spotify.com/album/1O5XVn5FWBdmRjZ96vpWX2) | 3:40 | 2025-06-26 | 2025-09-05 |
 | [Silver Ford](https://open.spotify.com/track/1tpgA9lmb1m3qZm1qTnJtD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Devotion](https://open.spotify.com/album/27vmolsE6YhpGbZoMfdjcv) | 3:56 | 2025-05-08 | 2025-07-25 |
 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 | 2025-04-12 | 2025-07-18 |
 | [snug as a bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [snug as a bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 | 2025-04-12 | 2025-07-25 |
@@ -315,7 +317,7 @@
 | [Summertime](https://open.spotify.com/track/0Vesfwe8lnI5xW9Wg8Gfki) | [Lei Hope](https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu) | [Summertime](https://open.spotify.com/album/5jq4L2BpP7aWqu5nbfSWEb) | 4:20 | 2024-06-14 | 2024-08-22 |
 | [sunday morning](https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [sunday morning](https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ) | 2:20 | 2025-07-31 |  |
 | [Superficial Love](https://open.spotify.com/track/2hT2qiRRKpUgACQYyTm4sH) | [Archi](https://open.spotify.com/artist/1Dis4rKIyeLVj5OBoV9HiI) | [Superficial Love](https://open.spotify.com/album/77JPLS0OHuMaok1G9qGgTQ) | 4:03 | 2025-06-26 | 2025-08-29 |
-| [Sweet Teeth](https://open.spotify.com/track/4cc4PxIF6eBP5EPNC3KYdI) | [Theo Lear](https://open.spotify.com/artist/40ywafLS6QHUEmssWuTkxG) | [Sweet Teeth](https://open.spotify.com/album/08AABFfqUjf1ciLuvg6uyb) | 2:57 | 2025-07-31 |  |
+| [Sweet Teeth](https://open.spotify.com/track/4cc4PxIF6eBP5EPNC3KYdI) | [Theo Lear](https://open.spotify.com/artist/40ywafLS6QHUEmssWuTkxG) | [Sweet Teeth](https://open.spotify.com/album/08AABFfqUjf1ciLuvg6uyb) | 2:57 | 2025-07-31 | 2025-09-05 |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-04-12 | 2025-06-06 |
 | [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 | 2025-06-26 | 2025-08-15 |
 | [talking](https://open.spotify.com/track/3Cry9wiH5YvxGXgRcbYP52) | [Bianca Espino](https://open.spotify.com/artist/0GzVS90Z6euyKrgeupAFZb) | [talking](https://open.spotify.com/album/0KypqhEhwrl8bs1gQAJONa) | 3:28 | 2025-06-12 | 2025-07-11 |

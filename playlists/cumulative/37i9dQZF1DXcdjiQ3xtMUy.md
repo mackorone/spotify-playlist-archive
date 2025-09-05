@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Sicario, Konstantinos Argiros, SNIK
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Danae
 
-199 songs - 10 hr 16 min
+200 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [KOINO MYSTIKO](https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [KOINO MYSTIKO](https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG) | 2:26 | 2024-09-26 | 2025-06-06 |
 | [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 | 2024-06-27 | 2024-08-09 |
 | [KONTEVW](https://open.spotify.com/track/4hSKkLxvckNq8iEz32ojGW) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Kid Young](https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [XWRA TOU POTE](https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs) | 3:26 | 2025-07-03 |  |
-| [Kontra Pao](https://open.spotify.com/track/6aiZBuwD6tTymjfmiVl071) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Kontra Pao](https://open.spotify.com/album/44Ujj14JURuWCaqHHiF32g) | 3:07 | 2025-01-23 |  |
+| [Kontra Pao](https://open.spotify.com/track/6aiZBuwD6tTymjfmiVl071) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Kontra Pao](https://open.spotify.com/album/44Ujj14JURuWCaqHHiF32g) | 3:07 | 2025-01-23 | 2025-09-05 |
 | [Kornaro \- Remix](https://open.spotify.com/track/527rcJEpvVxbOZ7PEWFHUP) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Stathis Xenos](https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf) | [Kornaro \(Remix\)](https://open.spotify.com/album/6IEHylAyKOxHdWAeFEcTS3) | 3:36 | 2024-07-11 | 2024-11-08 |
 | [Kounia Bella](https://open.spotify.com/track/29fkjtxUcfXLYPrrZ0sPoa) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Kounia Bella](https://open.spotify.com/album/3fZAhqF8zVjRFMZRD2cFOk) | 2:50 | 2025-07-03 |  |
 | [Krypsou](https://open.spotify.com/track/7kvlJ0hzUxHUvy6XdNn2g3) | [Jenny Georgiadi](https://open.spotify.com/artist/7CiW0X8FYCQOhskclPFkxo), [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes) | [Krypsou](https://open.spotify.com/album/5HAzznEHA6Lga7u075Pju3) | 2:54 | 2024-06-27 | 2024-07-12 |
@@ -138,6 +138,7 @@
 | [Mythos](https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Mythos](https://open.spotify.com/album/58ot8gXv5rkCoHrsPKRENm) | 2:54 | 2024-09-12 | 2025-05-09 |
 | [Na Minoume Panta Pedia](https://open.spotify.com/track/42rJEFQaMjNVa3ZMZQQXta) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Na Minoume Panta Pedia \(Original TV Series Soundtrack\)](https://open.spotify.com/album/52mLi5TJ7IkDvM0SMjZNdp) | 3:07 | 2024-10-24 | 2024-11-15 |
 | [Neon Sky](https://open.spotify.com/track/2mw0Apayn8IKWyKwsaZ8mx) | [Kid Moxie](https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa) | [Neon Sky](https://open.spotify.com/album/7bhgW6xg1uvqhDzlUD14Vg) | 4:12 | 2024-10-17 | 2024-11-01 |
+| [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 | 2025-09-04 |  |
 | [Noumero 1](https://open.spotify.com/track/6ItU0GpYf2VkEmVZNdJ9o4) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Noumero 1](https://open.spotify.com/album/0IqPdSYN3oTYYx8PYlTWRq) | 2:33 | 2024-06-27 | 2024-07-12 |
 | [Nyxta Mou Megali](https://open.spotify.com/track/7yJbjncqS0bjrUQdRafkr8) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Nyxta Mou Megali](https://open.spotify.com/album/1PIFOqbw2AfsOsrZi2sKtL) | 3:40 | 2024-11-21 | 2025-07-11 |
 | [O,ti Agapo Ine Diko Sou](https://open.spotify.com/track/3AzofnOpG7u3P9UhIstOna) | [Yanna Vasileiou](https://open.spotify.com/artist/2aG0LtkScINaBgvSuVxDfx) | [O,ti Agapo Ine Diko Sou](https://open.spotify.com/album/7hTVvKWGRXRUBGpgANhv35) | 3:26 | 2024-12-05 | 2025-01-17 |

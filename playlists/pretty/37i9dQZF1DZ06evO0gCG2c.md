@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,220 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,258 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [That's Right \(feat\. Akon\) \- Explicit Album Version](https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Last 2 Walk](https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn) | 2:56 |
 
-Snapshot ID: `aLYzgAAAAADmrYowC/2eh1XGrCNWBiRo`
+Snapshot ID: `aLeFAAAAAAA96crZzW+KQ/un63EDn553`

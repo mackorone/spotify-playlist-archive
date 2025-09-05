@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 51808,
+  "num_followers": 51817,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAQiKpE7BuMuv3a+2W+Vo7H",
+  "snapshot_id": "aLeFAAAAAADfH6+0mgOIl/wz+StsQa23",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 219266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Samba Dees Days",
-      "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "West Coast Live",
         "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 727266,
       "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
       "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Samba Dees Days",
+      "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 176973,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
+      "duration_ms": 202586,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
     },
     {
       "added_at": null,
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
+      "duration_ms": 176973,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
     }
   ],
   "unique_name": "This Is Stan Getz",

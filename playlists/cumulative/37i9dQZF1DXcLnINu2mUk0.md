@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Pta, Myles 6ix
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: LEO2745, ALICIA MARQUES
 
-785 songs - 1 day 17 hr 30 min
+787 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-02 |
 | [Fadjas](https://open.spotify.com/track/6rJgG1reeI00GZfMGBVKXj) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh), [Lukenya](https://open.spotify.com/artist/0nHgoaKFP0GcDqSDxwn1zn) | [Assuntus Friu](https://open.spotify.com/album/5FSuP4O034yFnojk0diEde) | 3:55 | 2025-02-14 | 2025-03-01 |
-| [Fala a Verdade](https://open.spotify.com/track/097XHNkVPfdbe6Vbsx6l5X) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Cuarto Minguante](https://open.spotify.com/album/3PO9tUNp8shqt9fK8b8qq6) | 2:57 | 2025-07-31 |  |
+| [Fala a Verdade](https://open.spotify.com/track/097XHNkVPfdbe6Vbsx6l5X) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Cuarto Minguante](https://open.spotify.com/album/3PO9tUNp8shqt9fK8b8qq6) | 2:57 | 2025-07-31 | 2025-09-05 |
 | [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-26 | 2023-06-16 |
 | [Fala\-me A Verdade](https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala\-me A Verdade](https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ) | 2:52 | 2024-05-09 |  |
 | [Falei](https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn), [Dj Verigal](https://open.spotify.com/artist/2LcsmbSSktQ6RYj5VvUQfO), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI), [Kastro Songz](https://open.spotify.com/artist/55B8Gbt3M3EMDbn7gQa3Mr) | [Falei](https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4) | 2:57 | 2024-11-08 | 2025-05-02 |
@@ -283,7 +283,7 @@
 | [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 | 2023-08-17 | 2023-09-08 |
 | [Feisty](https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Feisty](https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39) | 2:41 | 2023-03-03 | 2023-03-25 |
 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 | 2024-03-08 | 2024-04-19 |
-| [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 | 2025-01-24 |  |
+| [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 | 2025-01-24 | 2025-09-05 |
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 | 2023-06-15 | 2024-11-16 |
 | [Fica À Espera](https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Fica À Espera](https://open.spotify.com/album/47pnlWiEK2a1Weg7OiMbfF) | 3:21 | 2025-08-29 |  |
@@ -417,6 +417,7 @@
 | [Malembe](https://open.spotify.com/track/1HvCXSGcnY9EnGMCBEnu2k) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Malembe](https://open.spotify.com/album/0MvYt25PT38bVPzGSllGqe) | 2:30 | 2024-12-20 | 2025-01-31 |
 | [Maluca](https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Maluca](https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC) | 2:28 | 2023-07-06 | 2023-07-28 |
 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 | 2024-01-12 | 2024-02-16 |
+| [Marcas](https://open.spotify.com/track/6C5O0i4HyWh28i2EOyHWxX) | [Lucas Davis](https://open.spotify.com/artist/6vO6Yhs4AFnGERI23LmHC5), [Font](https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1) | [Marcas](https://open.spotify.com/album/5BChOTwUPTheJ04yQkt5qd) | 3:43 | 2025-09-04 |  |
 | [MARIPOSA](https://open.spotify.com/track/2MWPhFv5k2Xjqt6Qea94nG) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Cósmico](https://open.spotify.com/artist/6DsNivzEk4uMuk0f4QjdSS), [Hyzer](https://open.spotify.com/artist/48Uqot4YbHpPRt6ABUYiqP) | [MARIPOSA](https://open.spotify.com/album/1hwRmaHQ79ZOqSUHk9tTVf) | 3:54 | 2023-03-24 | 2023-04-14 |
 | [María♡](https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE) | [Arthyy](https://open.spotify.com/artist/78W2GovFrkUXeFlIkmEHhs) | [María♡](https://open.spotify.com/album/28moMVQvQVXvCCrBCDH3cK) | 3:20 | 2022-12-02 | 2022-12-04 |
 | [Me Liga](https://open.spotify.com/track/3tDSsSxhgxZXm6cEiNkuBH) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [Me Liga](https://open.spotify.com/album/18sYSSTZxicODIumIZqC54) | 2:53 | 2022-08-18 | 2022-08-31 |
@@ -665,6 +666,7 @@
 | [Something](https://open.spotify.com/track/6XVYgOYwFSasbsPB41HCFA) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Something](https://open.spotify.com/album/2XyhjxFE8Cp9bwEwy5tWTz) | 4:05 | 2023-11-10 | 2023-11-18 |
 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 | 2024-09-13 |  |
 | [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 | 2024-04-18 | 2024-04-30 |
+| [Sonhos De Uma Criança](https://open.spotify.com/track/0q91TUDvR1zwWv4csvlzoI) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [ALICIA MARQUES](https://open.spotify.com/artist/2X0yRGZEniWxOYwskDiUZ0) | [Sonhos De Uma Criança](https://open.spotify.com/album/1s2sAIUjwAj5utFUjzeVVS) | 2:33 | 2025-09-04 |  |
 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 | 2024-03-01 | 2024-03-22 |
 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 | 2022-07-07 | 2023-09-22 |
 | [Sou Eu](https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Sou Eu](https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb) | 3:34 | 2023-06-15 | 2023-06-30 |

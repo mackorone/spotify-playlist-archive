@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 114672,
+  "num_followers": 114704,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -959,30 +959,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Parlante",
-        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        },
-        {
-          "name": "Valles T",
-          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
-        },
-        {
-          "name": "Raymond Daniel",
-          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "Parlante",
-      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "THE RULES",
         "url": "https://open.spotify.com/album/7tyUUAbaAgku8WzXWTkoP7"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 693654,
       "name": "THE RULES",
       "url": "https://open.spotify.com/track/2Q8mFo9kEhgf2rgNOIHK86"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1167,46 +1167,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Tiempos Felices",
-        "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Nax",
-          "url": "https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn"
-        }
-      ],
-      "duration_ms": 201399,
-      "name": "Tiempos Felices",
-      "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "No Plastic",
-        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
-      },
-      "artists": [
-        {
-          "name": "Mamborap",
-          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
-        },
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 225238,
-      "name": "No Plastic",
-      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "MORE FYAH",
         "url": "https://open.spotify.com/album/5LdNhgoWkHGJdePD8ga9nm"
       },
@@ -1267,6 +1227,46 @@
       "duration_ms": 642229,
       "name": "MORE FYAH",
       "url": "https://open.spotify.com/track/4L3eRmXwGZ4fPcvtF285El"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Tiempos Felices",
+        "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Nax",
+          "url": "https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn"
+        }
+      ],
+      "duration_ms": 201399,
+      "name": "Tiempos Felices",
+      "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "No Plastic",
+        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "duration_ms": 225238,
+      "name": "No Plastic",
+      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
     },
     {
       "added_at": "2025-05-23 06:00:30",

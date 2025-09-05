@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe e Rodrigo, Sabrina Carpenter, Natanzinho Lima com Wesley Safadão e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,148,027 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148,139 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 33 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |
 | 34 | [Não Tenha Dó](https://open.spotify.com/track/58Q63qvLRyp6Ftj5GcSHjM) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Não Tenha Dó](https://open.spotify.com/album/0Kt5Bw99SaYI5O1ddptqFZ) | 5:15 |
 | 35 | [Seu Olhar](https://open.spotify.com/track/1VW2piIbq26AC64SxjzvGU) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Seu Olhar](https://open.spotify.com/album/0vadfXdQ2JGrYBqfitXMHf) | 2:29 |
-| 36 | [Como Nunca Antes](https://open.spotify.com/track/3sULbVqK8S16Rikxaqbjzs) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77), [Ucha](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Como Nunca Antes](https://open.spotify.com/album/3GoCIQTqdERn3h2qVf2jnA) | 3:32 |
+| 36 | [Como Nunca Antes](https://open.spotify.com/track/3sULbVqK8S16Rikxaqbjzs) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Como Nunca Antes](https://open.spotify.com/album/3GoCIQTqdERn3h2qVf2jnA) | 3:32 |
 | 37 | [Em Mim Também Doeu](https://open.spotify.com/track/5hYRN8g0wjMA7AoVezrX1p) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Em Mim Também Doeu](https://open.spotify.com/album/48RKNc7bYaa9Y5MkgLqMGC) | 2:28 |
 | 38 | [Me Visto de Solteiro \- Ao Vivo](https://open.spotify.com/track/0UAB8paLVhhLnjsC9FxGBq) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Encontro, Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/3sYsT7p0qdZ79rfTyzduEA) | 2:47 |
 | 39 | [Fogo de Álcool \- Ao Vivo](https://open.spotify.com/track/25ZPyblCj4TcqENIVwr8ew) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Esqueminha Acústico \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1QIHvm8uIqeB9No0TBh9si) | 2:23 |

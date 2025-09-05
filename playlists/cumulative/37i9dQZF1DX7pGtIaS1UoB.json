@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "\u300a\u53f3\u5148\u751f\u300bMr Right",
+        "url": "https://open.spotify.com/album/6f0N4CejAj2OtC8oAoXLVf"
+      },
+      "artists": [
+        {
+          "name": "Sheron Tan",
+          "url": "https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph"
+        },
+        {
+          "name": "\u9ec4\u6e58\u6dcb",
+          "url": "https://open.spotify.com/artist/4aHnpdagCMoZKf8XgRxG5t"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239856,
+      "name": "\u300a\u53f3\u5148\u751f\u300bMr Right",
+      "url": "https://open.spotify.com/track/6RtE4MSOGZgMyZFMjWrb47"
+    },
+    {
+      "album": {
         "name": "\u4e00\u5929",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -6444,7 +6466,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 227568,
       "name": "\u731c\u4e00\u731c (\u7db2\u8def\u5287\u300a\u81f4\u6211\u5011\u6696\u6696\u7684\u5c0f\u6642\u5149\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e"

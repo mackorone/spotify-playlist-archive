@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIRUP \*👉 <a href="https://spice.eplus.jp/articles/340515">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,284 likes - 84 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,282 likes - 84 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 57 | [eye](https://open.spotify.com/track/5j42jJbmKzkBdyw46SeSMO) | [深夜枠](https://open.spotify.com/artist/6RdcU4lC987g4qquPd3KyT) | [eye](https://open.spotify.com/album/6SLyN1ITOOx6Y2cfLNTOa7) | 3:53 |
 | 58 | [くらげ](https://open.spotify.com/track/39FMXE0qy7dmKZ4HoWtwq3) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [華麗](https://open.spotify.com/album/0OsoMdOREjRO13tyBpC4LB) | 3:26 |
 | 59 | [Venus](https://open.spotify.com/track/35pTdvFQUjqyQwXRuBfYwu) | [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [Venus](https://open.spotify.com/album/0a4M9djldSAwLG6qpcJodJ) | 2:37 |
-| 60 | [I'm Gone \(feat\. levi & valknee\)](https://open.spotify.com/track/2VnjNzbfiGOtWSUQUi343K) | [バイレファンキかけ子](https://open.spotify.com/artist/2WrekljFhg7b0OhtRHtz3X), [levi](https://open.spotify.com/artist/2LiZYqwro1gPzBYTYZsbVB), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DESVIO FULL THROTTLE](https://open.spotify.com/album/5PSb2ZnlElQ0CESLQDh8M5) | 2:30 |
+| 60 | [I'm Gone \(feat\. levi & valknee\)](https://open.spotify.com/track/2VnjNzbfiGOtWSUQUi343K) | [バイレファンキかけ子](https://open.spotify.com/artist/2WrekljFhg7b0OhtRHtz3X), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DESVIO FULL THROTTLE](https://open.spotify.com/album/5PSb2ZnlElQ0CESLQDh8M5) | 2:30 |
 | 61 | [光](https://open.spotify.com/track/6FBj38HvATJbaI0jZRoUBR) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [光](https://open.spotify.com/album/5ssEvdycaj6hwndNCrYZtF) | 3:02 |
 | 62 | [ふたりよがり](https://open.spotify.com/track/2RZyenKDo8Jt22XuzbKxWM) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [金木和也](https://open.spotify.com/artist/53zb1ShcMJ94ZMQVweJilO) | [Singin’ in the Yellow](https://open.spotify.com/album/7vNbvleG2OgQChQ5NUeSmG) | 2:34 |
 | 63 | [Mirage \- ep ver.](https://open.spotify.com/track/3Xvou1Rkr4cF0UVx2Jj1c8) | [Hazy Sparkle](https://open.spotify.com/artist/6mFv1f54XeuP48JnCOjWKZ) | [pureself](https://open.spotify.com/album/16y1uy7TDVwzTw41RQRA3b) | 3:31 |

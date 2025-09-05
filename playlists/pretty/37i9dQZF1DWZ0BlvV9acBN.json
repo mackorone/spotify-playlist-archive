@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 147140,
+  "num_followers": 147147,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-06-20 03:01:28",
       "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+    },
+    {
+      "added_at": "2025-06-20 03:01:28",
+      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 197936,
       "name": "Na Contram\u00e3o",
       "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
-    },
-    {
-      "added_at": "2025-06-20 03:01:28",
-      "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2025-06-20 03:01:28",

@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Disco Lines x Tinashe au top des bangers dance/electro du moment !
+> Sound Of Legend au top des bangers dance/electro du moment !
 
 287 songs - 13 hr 14 min
 

@@ -1,13 +1,29 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 42709,
+  "num_followers": 42724,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAB/P1PPc+IwlgXpm8BKL8X",
+  "snapshot_id": "aLeFAAAAAADJsoSY9zdQUjkZbcGxhvuo",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+    },
     {
       "added_at": null,
       "album": {
@@ -51,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -83,6 +83,22 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": null,
@@ -123,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Comin' Home",
         "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 194270,
       "name": "Never Comin' Home",
       "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
       "added_at": null,
@@ -187,38 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
       },
@@ -231,22 +215,6 @@
       "duration_ms": 188254,
       "name": "Change",
       "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Night Same Rodeo",
-        "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 199185,
-      "name": "Yours For The Breaking",
-      "url": "https://open.spotify.com/track/0XXeFRmn1L9b2zCpCel9Wc"
     },
     {
       "added_at": null,
@@ -267,6 +235,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Night Same Rodeo",
+        "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 199185,
+      "name": "Yours For The Breaking",
+      "url": "https://open.spotify.com/track/0XXeFRmn1L9b2zCpCel9Wc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New To Country",
         "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 177123,
       "name": "New To Country",
       "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 182465,
+      "name": "Get to Gettin\u2019 Gone",
+      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 182465,
-      "name": "Get to Gettin\u2019 Gone",
-      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 200966,
       "name": "Someone In This Room (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 198904,
+      "name": "Chase Her",
+      "url": "https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 198904,
-      "name": "Chase Her",
-      "url": "https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell or High Water (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Night Same Rodeo",
-        "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 170888,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/1hI2xINp7qDKEDsqG78dFG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Small Town Crazy",
         "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 162352,
       "name": "Small Town Crazy",
       "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Night Same Rodeo",
+        "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 170888,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/1hI2xINp7qDKEDsqG78dFG"
     },
     {
       "added_at": null,

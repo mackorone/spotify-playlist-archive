@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: Lakeview
+> Country music that rocks\. Cover: Chris Stapleton
 
 420 songs - 23 hr 57 min
 
@@ -93,7 +93,7 @@
 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 | 2022-11-18 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-04-29 | 2023-06-17 |
 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 | 2023-01-20 |  |
-| [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 | 2023-12-08 |  |
+| [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 | 2023-12-08 | 2025-09-05 |
 | [Cut the Grass](https://open.spotify.com/track/6zQvexoU5zfWObLpIX7p2S) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [On Your Time](https://open.spotify.com/album/52ERswZYKe68NHnMAI8AXi) | 7:00 | 2023-10-06 | 2023-12-02 |
 | [Damned If I Do](https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Damned If I Do](https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF) | 3:37 | 2025-08-15 |  |
 | [Days of Gold](https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:21 | 2023-01-20 | 2023-04-01 |
@@ -321,7 +321,7 @@
 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 | 2021-11-01 | 2023-08-17 |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-09-30 | 2023-01-03 |
 | [Side Effects Of The Heart](https://open.spotify.com/track/0dQBrRLmcqB19S1X29ZX6Y) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/2gNistjl0EPPCBD9LsjUoN) | 4:08 | 2023-06-16 | 2024-08-24 |
-| [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 | 2023-11-17 |  |
+| [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 | 2023-11-17 | 2025-09-05 |
 | [Six Feet Deep](https://open.spotify.com/track/5oHzaBb8BE88p14nnwLr8z) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Six Feet Deep](https://open.spotify.com/album/38zzUuhTIFY7upxCSABbRt) | 3:10 | 2023-04-21 | 2024-08-24 |
 | [Six Feet Deep](https://open.spotify.com/track/6DeONxjl3gp2eiQq87nBoH) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Six Feet Deep](https://open.spotify.com/album/2IKGb02EUoeHsjfikg4lY4) | 3:10 | 2023-12-08 | 2024-04-19 |
 | [Skeletons](https://open.spotify.com/track/2hJI1lFKKWAsy6UAPSQyVU) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/39DlwBJdvZ1f3j0kNHKRtR) | 3:39 | 2021-11-01 | 2022-10-01 |
@@ -351,7 +351,7 @@
 | [Tell the People](https://open.spotify.com/track/5gc0DRaKq0ijViRdG5juAS) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:38 | 2021-11-01 | 2022-07-29 |
 | [That's The Kinda Place](https://open.spotify.com/track/4lkxrngFnPkp54beg466xV) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [That's The Kinda Place](https://open.spotify.com/album/6QFCmYV8X3bclMyINhimCL) | 3:39 | 2021-11-01 | 2022-07-20 |
 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 | 2023-04-21 |  |
-| [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 | 2023-09-15 | 2025-08-30 |
+| [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 | 2023-09-15 |  |
 | [The Bottom \(Raise Em Up\)](https://open.spotify.com/track/4oefbJXSZQ6tVIn7P8ieub) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Bar Stool Preacher](https://open.spotify.com/album/6pVUsN0pgT6pkPT6BJQjtj) | 2:26 | 2022-01-21 | 2022-07-10 |
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2023-04-07 | 2025-05-10 |
 | [The Devil Is an Angel](https://open.spotify.com/track/1NrHorXOBOduKQ0QbLH5VS) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [The Devil Is An Angel](https://open.spotify.com/album/1BJYIhTmHlup1sXCE9Wnot) | 2:22 | 2021-11-01 | 2022-05-07 |
@@ -415,7 +415,7 @@
 | [Wolves Cry](https://open.spotify.com/track/39SzkM3x0JGY6b7HV0wi4E) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Wolves Cry](https://open.spotify.com/album/6C6MV8pVQJLMtXGIjSlRtC) | 2:43 | 2023-03-17 | 2023-05-18 |
 | [Wolves Cry](https://open.spotify.com/track/7yyRhjoCsdt5dDpFz2CImD) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 2:43 | 2023-05-12 | 2024-04-19 |
 | [Workin' Man](https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Workin' Man](https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX) | 3:38 | 2022-06-24 | 2023-03-04 |
-| [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 | 2025-08-28 |
+| [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 |  |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-04-28 |  |
 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 | 2023-10-20 |  |
 | [Wrong Right Now](https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Neon Grave EP](https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez) | 3:09 | 2023-03-03 | 2023-04-29 |

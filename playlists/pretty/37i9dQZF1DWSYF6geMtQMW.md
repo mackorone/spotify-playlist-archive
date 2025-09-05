@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: פאר טסי
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,997 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,119 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 43 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 44 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 |
 | 45 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 |
-| 46 | [גל עיניי](https://open.spotify.com/track/635ke14KZqjGWRnRpd42w0) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [גל עיניי](https://open.spotify.com/album/5fzolWm4o4kgITLSKpTpAm) | 3:11 |
+| 46 | [גל עיניי](https://open.spotify.com/track/635ke14KZqjGWRnRpd42w0) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [גל עיניי](https://open.spotify.com/album/5fzolWm4o4kgITLSKpTpAm) | 3:11 |
 | 47 | [תמיד אוהב אותי](https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [תמיד אוהב אותי](https://open.spotify.com/album/1YdxoBErtg9MusUuZ6hjSp) | 2:52 |
 | 48 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |

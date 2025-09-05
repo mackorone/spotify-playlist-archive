@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto:Chinoy",
-  "num_followers": 188708,
+  "num_followers": 188678,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
+        "name": "Revuelta En Vivo",
+        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 291621,
+      "name": "Un Amor Violento (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
         "name": "Arauco Tiene una Pena",
         "url": "https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Revuelta En Vivo",
-        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 291621,
-      "name": "Un Amor Violento (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
         "name": "Infiel",
         "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 253293,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232457,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -355,18 +339,18 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Caballo sin due\u00f1o",
-        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L"
       },
       "artists": [
         {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 217543,
-      "name": "Caballo sin due\u00f1o",
-      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
+      "duration_ms": 232457,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -383,6 +367,22 @@
       "duration_ms": 276465,
       "name": "He barrido el sol (Revuelta en vivo)",
       "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
+        "name": "Caballo sin due\u00f1o",
+        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Caballo sin due\u00f1o",
+      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
+        "name": "Hojas de T\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Hojas de T\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
         "name": "Vacaciones de Invierno (ac\u00fastico)",
         "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 182000,
       "name": "Vacaciones de Invierno - ac\u00fastico",
       "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
-        "name": "Hojas de T\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "Hojas de T\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Lo Que Dicen",
-        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
       "artists": [
         {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 243566,
-      "name": "Lo Que Dicen",
-      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -879,6 +863,22 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
+        "name": "Lo Que Dicen",
+        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
+      },
+      "artists": [
+        {
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+        }
+      ],
+      "duration_ms": 243566,
+      "name": "Lo Que Dicen",
+      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
         "name": "Hacia Ti",
         "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
       },
@@ -891,54 +891,6 @@
       "duration_ms": 225967,
       "name": "Hacia Ti",
       "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
-        "name": "Como es que no gozas",
-        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "Como es que no gozas",
-      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
-      },
-      "artists": [
-        {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -959,18 +911,34 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
       "artists": [
         {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
+      },
+      "artists": [
+        {
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -991,6 +959,38 @@
       "duration_ms": 219000,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
+        "name": "Como es que no gozas",
+        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 169384,
+      "name": "Como es que no gozas",
+      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+      },
+      "artists": [
+        {
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
     },
     {
       "added_at": "2025-08-28 19:36:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-08-28 19:36:08",
       "album": {
-        "name": "Lo Que Es Real",
-        "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
-      },
-      "artists": [
-        {
-          "name": "El Otro Astronauta",
-          "url": "https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa"
-        }
-      ],
-      "duration_ms": 223593,
-      "name": "Lo Que Es Real",
-      "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
-    },
-    {
-      "added_at": "2025-08-28 19:36:08",
-      "album": {
         "name": "Baladas del Fin del Mundo",
         "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 248593,
       "name": "Revelando, Develando",
       "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
+    },
+    {
+      "added_at": "2025-08-28 19:36:08",
+      "album": {
+        "name": "Lo Que Es Real",
+        "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
+      },
+      "artists": [
+        {
+          "name": "El Otro Astronauta",
+          "url": "https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa"
+        }
+      ],
+      "duration_ms": 223593,
+      "name": "Lo Que Es Real",
+      "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
     },
     {
       "added_at": "2025-08-28 19:36:08",

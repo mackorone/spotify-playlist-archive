@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: ZiZZi
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,324 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,333 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [NAXO](https://open.spotify.com/track/76GRYJiHeSiMQwnduYIlyr) | [BAKV](https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [NAXO](https://open.spotify.com/album/1lwa1Dba6uADUwmasQR6Mc) | 2:44 |
 | 60 | [CAPO DEI CAPI](https://open.spotify.com/track/5EAa3CqPUv1kudp8zHgyPm) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [CAPO DEI CAPI](https://open.spotify.com/album/2Oz75fOLIhUkl7xySEZk9t) | 4:36 |
 
-Snapshot ID: `AAAAAIOCPbbJdjDer6zqp/Jxc2OoFBiu`
+Snapshot ID: `AAAAADCU0z+PGzcBiQFOZBRDOujpCuRZ`

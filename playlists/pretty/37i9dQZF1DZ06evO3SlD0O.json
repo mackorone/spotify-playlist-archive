@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 27556,
+  "num_followers": 27563,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAD2jctjj+2IGdXncyikJl42",
+  "snapshot_id": "aLeFAAAAAADLowGlf9x4beUyDr0aaDru",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Aprend\u00ed Contigo",
+      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Amores Ni Deudas",
         "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 184000,
       "name": "Tres Por Una",
       "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "Aprend\u00ed Contigo",
-      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+      "duration_ms": 145520,
+      "name": "La Entrega",
+      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 145520,
-      "name": "La Entrega",
-      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     },
     {
       "added_at": null,

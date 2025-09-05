@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Sweet R&B straight out of Africa. Cover: Tiwa Savage",
-  "name": "Tantalizers",
+  "description": "Intersection of R&B and afrobeats. Cover: Tay Iwar",
+  "name": "afro&b ",
   "tracks": [
     {
       "album": {
@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "WONDERFUL",
+        "url": "https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220322,
+      "name": "FIND A WAY",
+      "url": "https://open.spotify.com/track/76uERg3iGnf13tuoRoUSxD"
+    },
+    {
+      "album": {
         "name": "LOVE/HATE Pt. 2",
         "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
       },
@@ -3229,6 +3247,28 @@
     },
     {
       "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+    },
+    {
+      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN"
       },
@@ -3400,7 +3440,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 212800,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD"
@@ -6998,7 +7038,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 165431,
       "name": "Reflection Station",
       "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
@@ -7100,6 +7140,28 @@
       "duration_ms": 167272,
       "name": "Risk (feat. Moliy)",
       "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
+    },
+    {
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164599,
+      "name": "robbery",
+      "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
     },
     {
       "album": {
@@ -8200,7 +8262,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 146127,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx"

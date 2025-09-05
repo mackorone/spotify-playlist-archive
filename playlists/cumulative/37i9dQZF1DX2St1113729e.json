@@ -10019,6 +10019,28 @@
     },
     {
       "album": {
+        "name": "P\u00baRNSTAR",
+        "url": "https://open.spotify.com/album/39QTMuwfphMZwJEsj3SNSZ"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        },
+        {
+          "name": "Wazowss",
+          "url": "https://open.spotify.com/artist/5ehbOlqroF2VDPRYLyZ8gC"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "P\u00baRNSTAR",
+      "url": "https://open.spotify.com/track/3RZdvcl9geydTjBZOMeOyN"
+    },
+    {
+      "album": {
         "name": "P\u00c1LIDA",
         "url": "https://open.spotify.com/album/2tn874xuKYmoe3svbAhJG5"
       },
@@ -12374,7 +12396,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 142407,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/1OOVAraZZw0ZGXKTbawtr0"

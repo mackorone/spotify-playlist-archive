@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 298878,
+  "num_followers": 298886,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAIUSFrA94mVNHMfeU92nwx",
+  "snapshot_id": "aLeFAAAAAACJGXqF925kuF3nH/q01//D",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things I Never Said",
-        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287479,
-      "name": "Things I Never Said - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slaves and Masters (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 326013,
       "name": "King of Dreams",
       "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things I Never Said",
+        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 287479,
+      "name": "Things I Never Said - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "inFinite",
         "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 282426,
       "name": "All I Got Is You",
       "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whoosh!",
-        "url": "https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2"
+        "name": "Rapture of the Deep (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Nothing at All",
-      "url": "https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j"
+      "duration_ms": 273610,
+      "name": "Wrong Man - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/7o5SdJ3mrMC0Vgstv1rHM3"
     }
   ],
   "unique_name": "This Is Deep Purple",

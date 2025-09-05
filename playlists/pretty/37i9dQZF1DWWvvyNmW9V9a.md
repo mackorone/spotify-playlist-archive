@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Rosaline Rotwood has landed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109,598 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109,433 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 9 min
+39 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 | 2025-08-02 |  |
 | [Mount Shasta](https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 | 2025-08-02 |  |
 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 | 2025-08-02 |  |
+| [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-05 |  |
 | [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 | 2025-08-02 |  |
 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 | 2025-08-02 |  |
 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 | 2025-08-02 |  |

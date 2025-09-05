@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71681,
+  "num_followers": 71704,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "As The Years Go By",
-        "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "As The Years Go By",
+        "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "Bluesette",
         "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 208777,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 208777,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
       },
       "artists": [
         {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
         }
       ],
-      "duration_ms": 166683,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "All The Things You Are",
         "url": "https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 174938,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "You Stepped Out Of A Dream",
         "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "This Is The Time",
         "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 159599,
       "name": "This Is The Time",
       "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+      },
+      "artists": [
+        {
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+        }
+      ],
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 180635,
       "name": "Although",
       "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Maybe under some other sky",
-        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
-      },
-      "artists": [
-        {
-          "name": "Shaunta Coburn",
-          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Maybe under some other sky",
-      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "See you in the morning",
         "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 160000,
       "name": "See you in the morning",
       "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Maybe under some other sky",
+        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
+      },
+      "artists": [
+        {
+          "name": "Shaunta Coburn",
+          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Maybe under some other sky",
+      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "\u00c8 ora di dormire",
         "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
       },
@@ -1503,34 +1487,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "L\u2019herbe verte",
-        "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
       "artists": [
         {
-          "name": "Marceau Sartre",
-          "url": "https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l"
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
         }
       ],
-      "duration_ms": 141374,
-      "name": "L\u2019herbe verte",
-      "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
-      },
-      "artists": [
-        {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Afterhours",
-      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1551,18 +1519,34 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
       },
       "artists": [
         {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
         }
       ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "L\u2019herbe verte",
+        "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
+      },
+      "artists": [
+        {
+          "name": "Marceau Sartre",
+          "url": "https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "L\u2019herbe verte",
+      "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Afterhours",
+      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },
       "artists": [
         {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
         }
       ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

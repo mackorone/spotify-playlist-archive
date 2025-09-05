@@ -10396,7 +10396,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -26108,7 +26108,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -30865,6 +30865,24 @@
     },
     {
       "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -33066,6 +33084,32 @@
       "duration_ms": 148117,
       "name": "Vai Viver",
       "url": "https://open.spotify.com/track/60ILJutBf3XoAfmNafR8mz"
+    },
+    {
+      "album": {
+        "name": "Valentino",
+        "url": "https://open.spotify.com/album/68C4teLrfFcr8XfEZL1qa4"
+      },
+      "artists": [
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157033,
+      "name": "Valentino",
+      "url": "https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5"
     },
     {
       "album": {

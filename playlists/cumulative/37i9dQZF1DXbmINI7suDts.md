@@ -4,13 +4,14 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Pallaso
 
-160 songs - 8 hr 53 min
+162 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-11-17 | 2024-03-02 |
 | [A Thing](https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [1947](https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U) | 3:45 | 2022-06-06 | 2023-08-26 |
 | [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 |  |
+| [AGENDA](https://open.spotify.com/track/40D9TE1bStQ10lNDnhlbMP) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Agenda](https://open.spotify.com/album/79P9lpJeCfUvRW2FJDTJCx) | 3:54 | 2025-09-04 |  |
 | [Akaffekye \- Acoustic Version](https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Akaffekye \(Acoustic Version\)](https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED) | 2:59 | 2022-06-06 | 2023-07-29 |
 | [Akigusa](https://open.spotify.com/track/12IV11evgB42zhjWJID2Rm) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [Akigusa](https://open.spotify.com/album/04C5PjWPsQqGVg4PGFWSDH) | 4:48 | 2025-01-23 |  |
 | [ALRIGHT](https://open.spotify.com/track/69JEE0GJT0Pnc5YrADBAmo) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [ALRIGHT](https://open.spotify.com/album/6ywhGZi3ckSdfCmc2g2e30) | 2:22 | 2025-02-14 |  |
@@ -34,7 +35,7 @@
 | [daisy](https://open.spotify.com/track/4x64Sipuqi7sJ1PCr9UEMc) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [olympean](https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf) | 1:12 | 2024-11-22 | 2025-07-25 |
 | [Desire](https://open.spotify.com/track/654SYg2HiYmZI3chN6erFl) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl) | [Desire](https://open.spotify.com/album/70yKNubVpLpVipULl9k5Pr) | 3:35 | 2025-08-21 |  |
 | [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 | 2022-09-09 |
-| [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 |  |
+| [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 | 2025-09-05 |
 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 |  |
 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 | 2023-11-16 |  |
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 | 2023-12-09 |
@@ -64,6 +65,7 @@
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |
 | [i will recover all](https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [i will recover all](https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58) | 2:57 | 2023-08-11 | 2025-02-08 |
 | [I'M FINE](https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU) | [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [I'M FINE](https://open.spotify.com/album/77ieplqkCJVSK8YdLAt91a) | 3:07 | 2024-07-18 | 2024-11-23 |
+| [Ileng](https://open.spotify.com/track/3Y9uzR8D44o11xqB4Pw6ev) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 4:38 | 2025-09-04 |  |
 | [Its Crazy](https://open.spotify.com/track/3rtEI69SClTiIvelgbQ1b8) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [Its Crazy](https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh) | 2:28 | 2022-06-06 | 2022-06-25 |
 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 | 2024-05-16 |  |
 | [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 | 2023-01-21 |

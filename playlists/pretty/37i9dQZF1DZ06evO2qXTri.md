@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,927 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,942 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 12 | [Looking for You](https://open.spotify.com/track/7lXbmBVZsyhxsxBzodG1w3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 4:06 |
 | 13 | [My Life Is In Your Hands](https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 7:01 |
 | 14 | [Why We Sing \- Live](https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 5:55 |
-| 15 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
-| 16 | [Hosanna \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:07 |
+| 15 | [Hosanna \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:07 |
+| 16 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
 | 17 | [Fear Is Not My Future \(feat\. Brandon Lake\)](https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 10:25 |
 | 18 | [He's Able \- Live](https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:05 |
-| 19 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
-| 20 | [He Reigns / Awesome God \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4mDkFfjm82m9goCcumFeL7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 4:25 |
+| 19 | [He Reigns / Awesome God \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4mDkFfjm82m9goCcumFeL7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 4:25 |
+| 20 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
 | 21 | [Could've Been \(with J Moss & Tye Tribbett\)](https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:47 |
 | 22 | [Try Love](https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 4:32 |
 | 23 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK) | [Taylor Mosby](https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:25 |
 | 50 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 |
 
-Snapshot ID: `aLYzgAAAAAAvobKX0cmNqyhIxc8ub0t9`
+Snapshot ID: `aLeFAAAAAABV6xkWCkza8lnitzdyBZWL`

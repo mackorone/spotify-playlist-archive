@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Ayanne
+> African dance party music from the continent to Paris\. Photo : Josey
 
-248 songs - 13 hr 42 min
+250 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [C'est Dieu](https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54) | [Confirmé Manadja](https://open.spotify.com/artist/0Ay3wxcNxGlLwwZe6KOcpY), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'est Dieu](https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV) | 3:22 | 2023-02-16 | 2023-06-16 |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 | 2025-08-08 |
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
-| [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 | 2025-05-01 |  |
+| [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 | 2025-05-01 | 2025-09-05 |
 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 | 2024-05-03 |
 | [C'EST SON TEMPS](https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'EST SON TEMPS](https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS) | 3:58 | 2025-02-13 |  |
 | [C'est Tromper](https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW) | [Nifa Fanafoule](https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O) | [C'est Tromper](https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g) | 3:16 | 2022-09-01 | 2022-10-28 |
@@ -57,6 +57,7 @@
 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 | 2023-01-12 |  |
 | [Chicoter pour fracasser](https://open.spotify.com/track/5a0YN4NfIbOhatuIiQ4aaa) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Chicoter pour fracasser](https://open.spotify.com/album/0tycWd8QCUDH8rnQkt7Gxa) | 2:40 | 2025-04-10 | 2025-06-13 |
 | [CHINOISERIE](https://open.spotify.com/track/5kH3FDNKaeiABMm8lUlIWq) | [Tiss Wayne](https://open.spotify.com/artist/43Y4Pvwr65cBA0lQAXpm8i), [Shibing](https://open.spotify.com/artist/3rCAxoz1sVyzTxlJThlnWH), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [CHINOISERIE](https://open.spotify.com/album/79ss8yAYY3VfYKJn3Nm8wD) | 2:38 | 2023-05-18 | 2024-03-29 |
+| [Choketo](https://open.spotify.com/track/4CrLIuucY8jynYTWhz4U6Z) | [RK MERLY](https://open.spotify.com/artist/5zbxK01VEEqCPDOxoUnVxU), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Choketo](https://open.spotify.com/album/31gqISXbdTnN0pzuaKCwyg) | 2:23 | 2025-09-04 |  |
 | [Commando](https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Commando](https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd) | 2:52 | 2023-01-26 | 2023-07-07 |
 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 | 2023-07-06 | 2023-09-29 |
 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 | 2023-12-21 | 2025-05-30 |
@@ -139,7 +140,7 @@
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 | 2023-05-19 |
 | [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 | 2023-06-29 | 2023-11-10 |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
-| [Korotoumou](https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Korotoumou](https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP) | 2:36 | 2025-04-24 |  |
+| [Korotoumou](https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Korotoumou](https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP) | 2:36 | 2025-04-24 | 2025-09-05 |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |
 | [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 | 2024-07-12 |
@@ -184,6 +185,7 @@
 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 | 2023-07-13 |  |
 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 | 2022-12-08 |  |
 | [Nanakafra](https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Nanakafra](https://open.spotify.com/album/5MMCy49BKCbOuale1Pc6Cs) | 4:08 | 2022-11-17 | 2023-01-27 |
+| [Noroyabazin \- La dance du Bazin](https://open.spotify.com/track/0916kwsuNxKSPexm1Q3UvI) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [Noroyabazin \(La dance du Bazin\)](https://open.spotify.com/album/3ytkAXd9dponFamuAexiGi) | 3:30 | 2025-09-04 |  |
 | [NOVELAS](https://open.spotify.com/track/4SglQfp9apak2FDtRmkEgB) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kedjevaratitude](https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ) | 3:56 | 2024-12-05 | 2025-01-31 |
 | [O'cho](https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [O'cho](https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM) | 3:15 | 2023-04-27 | 2024-12-13 |
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |

@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "All Ova",
+        "url": "https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "cjthechemist",
+          "url": "https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163685,
+      "name": "All Ova",
+      "url": "https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26"
+    },
+    {
+      "album": {
         "name": "Always (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
@@ -4226,7 +4248,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 123950,
       "name": "Girlie-Pop!",
       "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"

@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-458 songs - 1 day 3 hr 54 min
+459 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,10 +140,11 @@
 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 | 2022-03-30 | 2025-05-15 |
 | [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 | 2021-11-12 |  |
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-16 | 2025-05-31 |
+| [Flaco 92'](https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Apertura](https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM) | 1:42 | 2025-07-17 |  |
 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 | 2022-01-12 |  |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains, Vol\. 1](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2024-06-25 |
 | [Flora](https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Flora](https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC) | 6:02 | 2025-05-14 |  |
-| [Flurry](https://open.spotify.com/track/6rNhG4YREPMyD3gQMx9G6O) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Flurry](https://open.spotify.com/album/3tSC8QPwJUIQgqCm1xJnkK) | 21:08 | 2025-07-17 |  |
+| [Flurry](https://open.spotify.com/track/6rNhG4YREPMyD3gQMx9G6O) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Flurry](https://open.spotify.com/album/3tSC8QPwJUIQgqCm1xJnkK) | 21:08 | 2025-07-17 | 2025-09-05 |
 | [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 | 2024-02-29 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2024-09-05 |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6) | 6:42 | 2021-10-16 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat Sabrina Carpenter, Evelina, SHRTY & Turisti, Senya, Tupe\. ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,796 likes - 118 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,813 likes - 118 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 117 | [Girl Like You](https://open.spotify.com/track/45eM0KTy3OlJZicvcmwahf) | [Harper Bloom](https://open.spotify.com/artist/57SMUbet36EnQb3LBuXWtV) | [Girl Like You](https://open.spotify.com/album/1jDg4Xj11I32MOOdCvEwSD) | 3:04 |
 | 118 | [Winter Visions](https://open.spotify.com/track/4KH4CZPZWu6fG4HKhIvs82) | [Suotana](https://open.spotify.com/artist/3hGRvDW3UnwxI5OIsfwEGx) | [Ounas II](https://open.spotify.com/album/45mHBRlSxiii1fmNICSbuN) | 5:28 |
 
-Snapshot ID: `AAAAAPfQ73aJTHY7fZbDXxFRDzlJAlQJ`
+Snapshot ID: `AAAAAKXGn2reQ4qdE3tY4ggYy6iLa9m/`

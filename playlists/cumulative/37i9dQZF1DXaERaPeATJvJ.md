@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: The Morning After
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pas Band
 
-180 songs - 12 hr 39 min
+181 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Forget Jakarta](https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Forget Your Plan](https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr) | 6:41 | 2025-07-25 |  |
 | [Funny Little Dream](https://open.spotify.com/track/2W3Oq3vWsxCD7qGuy9jLTU) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/3kCSZ4uIMazjsWt8zz46eM) | 3:10 | 2023-03-02 | 2024-04-19 |
 | [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 |  |
+| [Gangster of Love](https://open.spotify.com/track/7sBCVGBnRadus4ontnBlDG) | [Pas Band](https://open.spotify.com/artist/3B5lpTyCi94AQaqrw1UvLs) | [4 Through the Sap](https://open.spotify.com/album/5dfYnpbGi3suvAU7Av4nJt) | 5:11 | 2025-09-04 |  |
 | [Gaze](https://open.spotify.com/track/6cebiKUXkoLYlaxzDfEPtS) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Forget Your Plan](https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr) | 5:09 | 2025-07-25 |  |
 | [Gesneriana](https://open.spotify.com/track/4jazdSJh7enogGmipPHYDA) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Los Skut Leboys](https://open.spotify.com/album/2y7GNu8un0dk53CP4jnV4U) | 4:10 | 2024-03-24 | 2024-04-05 |
 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 | 2021-11-25 |  |

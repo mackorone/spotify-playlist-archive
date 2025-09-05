@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAQA1vUqYOBIkI+ZoW881Hm",
+  "snapshot_id": "aLeFAAAAAAAuzrJ0zv4hyqANajk7jX5P",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Carrega Minha Bolsa",
+        "url": "https://open.spotify.com/album/3Qrmx9hrVlLzCULW9H5rxl"
+      },
+      "artists": [
+        {
+          "name": "dj andreoli",
+          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
+        },
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "DJ Kayque",
+          "url": "https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2"
+        }
+      ],
+      "duration_ms": 133370,
+      "name": "Ele Carrega Minha Bolsa",
+      "url": "https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Veneno do Escorpi\u00e3o V.2",
         "url": "https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4"
       },
@@ -479,42 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Carrega Minha Bolsa",
-        "url": "https://open.spotify.com/album/3Qrmx9hrVlLzCULW9H5rxl"
-      },
-      "artists": [
-        {
-          "name": "dj andreoli",
-          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
-        },
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        },
-        {
-          "name": "DJ Kayque",
-          "url": "https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2"
-        }
-      ],
-      "duration_ms": 133370,
-      "name": "Ele Carrega Minha Bolsa",
-      "url": "https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se T\u00e1 Solteira (Breaking Beattz Remix)",
         "url": "https://open.spotify.com/album/7FBFI5vvR2FB1M6df6khkM"
       },
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo na Boca",
-        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "MC Pel\u00e9",
-          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
-        }
-      ],
-      "duration_ms": 125307,
-      "name": "Beijo na Boca",
-      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 142153,
       "name": "Ela Joga Muito na Minha Cara",
       "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beijo na Boca",
+        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "MC Pel\u00e9",
+          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
+        }
+      ],
+      "duration_ms": 125307,
+      "name": "Beijo na Boca",
+      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Papo 10",
         "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 153545,
       "name": "Papo 10",
       "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -1004,17 +1004,21 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
         },
         {
-          "name": "Dj Nattan",
-          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
         }
       ],
-      "duration_ms": 99692,
-      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
-      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
+      "duration_ms": 146000,
+      "name": "Papo de Arrependida",
+      "url": "https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH"
     },
     {
       "added_at": null,
@@ -1092,21 +1096,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
         },
         {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        },
-        {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+          "name": "Dj Nattan",
+          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Papo de Arrependida",
-      "url": "https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH"
+      "duration_ms": 99692,
+      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
+      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
     },
     {
       "added_at": null,

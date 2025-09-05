@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,069 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,073 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 18 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 19 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 20 | [マリオネットダンサー](https://open.spotify.com/track/6ipfY4NbzUNNTzvntTKVK4) | [ひらぎ](https://open.spotify.com/artist/2lcVy7y2fmmwtiTw8ajozQ) | [マリオネットダンサー](https://open.spotify.com/album/5eDfTC0MnDfg5KyVlwqcKL) | 2:18 |
-| 21 | [しゅき♡るーぷまにあ！ \- feat.初音ミク](https://open.spotify.com/track/1ZHpeNDuNTY3fo89Cpi3D6) | [Loveit Core](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB) | [しゅき♡るーぷまにあ！ \(feat.初音ミク\)](https://open.spotify.com/album/76Dk6LdKCqTjOAy9Xskjyy) | 2:56 |
+| 21 | [しゅき♡るーぷまにあ！ \- feat.初音ミク](https://open.spotify.com/track/1ZHpeNDuNTY3fo89Cpi3D6) | [Loveit Core](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [しゅき♡るーぷまにあ！ \(feat.初音ミク\)](https://open.spotify.com/album/76Dk6LdKCqTjOAy9Xskjyy) | 2:56 |
 | 22 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
 | 23 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 24 | [Shitauchi](https://open.spotify.com/track/2oTbs1CnOViXXw2NpfW2v0) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Aizou](https://open.spotify.com/album/0BdZocxXNdRC3k5qJbvwjo) | 3:14 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: CMAT
+> All the new music you need to hear right now\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,410 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,427 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
 | 80 | [Dumb Girl](https://open.spotify.com/track/5ZT6xWFUUXSwKmMC0kBZL9) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur](https://open.spotify.com/album/5svjBxPc0CFYX8ftpZwVal) | 3:10 |
 
-Snapshot ID: `AAAAAEsHQm9MDxcT+Z2sXx4uQspW4hVR`
+Snapshot ID: `AAAAAPDaBsOoGaBsBFUpr/O8ibfemEgW`

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202184,
+  "num_followers": 202181,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAC84RaRiEhQzxSvcW3s07c8",
+  "snapshot_id": "aLeFAAAAAABTg0rBroJObUBaWyd9bk7b",
   "tracks": [
     {
       "added_at": null,
@@ -318,15 +318,11 @@
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         }
       ],
-      "duration_ms": 189486,
-      "name": "Swervin (feat. 6ix9ine)",
-      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
+      "duration_ms": 157862,
+      "name": "Love Drugs and Sex",
+      "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
     },
     {
       "added_at": null,
@@ -390,11 +386,15 @@
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         }
       ],
-      "duration_ms": 157862,
-      "name": "Love Drugs and Sex",
-      "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
+      "duration_ms": 189486,
+      "name": "Swervin (feat. 6ix9ine)",
+      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
     },
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 165710,
-      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv"
       },
@@ -919,42 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning (Sped Up Version)",
-        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
         },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Drowning - Sped Up Version",
-      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 154250,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+      "duration_ms": 165710,
+      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
     },
     {
       "added_at": null,
@@ -979,22 +939,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
       "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Chills (LA Hills)",
-      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+      "duration_ms": 154250,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drowning (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Drowning - Sped Up Version",
+      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
     },
     {
       "added_at": null,
@@ -1019,6 +999,26 @@
       "duration_ms": 258158,
       "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
     },
     {
       "added_at": null,

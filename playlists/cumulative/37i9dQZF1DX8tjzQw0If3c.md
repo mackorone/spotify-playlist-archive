@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-207 songs - 11 hr 17 min
+208 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Emas](https://open.spotify.com/track/5ETZyQalxrY6NrYr5477HB) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Emas](https://open.spotify.com/album/1lpXnPeJRDNjeLSfHgd1JE) | 3:35 | 2025-04-15 |  |
 | [Empty Seat](https://open.spotify.com/track/5SWI4mExFgJYxc3lmKqhHe) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:49 | 2024-12-04 | 2025-04-16 |
 | [Empty Seat](https://open.spotify.com/track/5pauvFrp9fPakXKBuLsO2m) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:49 | 2024-06-27 | 2024-12-05 |
+| [Esok](https://open.spotify.com/track/6BSIKwOKQsWW5bomKWGNWF) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Esok](https://open.spotify.com/album/5ZEmVTXUbNG3ckTR63JWrX) | 2:56 | 2025-09-04 |  |
 | [EYEZ](https://open.spotify.com/track/0mb8qYvh2IUAuQQ3gNTueb) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [EYEZ](https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN) | 3:53 | 2025-07-17 |  |
 | [FADE](https://open.spotify.com/track/3XZHLeJ3qcVWhMSTlarRWA) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [FADE](https://open.spotify.com/album/4zkXysoyWxSxF9T7OsbgQe) | 2:36 | 2025-04-15 |  |
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-04-16 |

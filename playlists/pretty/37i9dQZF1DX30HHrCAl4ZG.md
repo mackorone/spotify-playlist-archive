@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from The Beths
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,693 likes - 134 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,548 likes - 134 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

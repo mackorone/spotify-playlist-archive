@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Cath黃妍
+> 感受女聲力量。Cover: sica
 
-553 songs - 1 day 8 hr 55 min
+555 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [你的損失](https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你的損失](https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis) | 3:58 | 2025-07-17 |  |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2024-06-27 |  |
 | [假如讓你吻下去](https://open.spotify.com/track/0Qsofso1lXDJNIZbFi1bD4) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [假如讓你吻下去](https://open.spotify.com/album/0HRhPx2IxvKql2bOvVygna) | 4:35 | 2024-06-27 |  |
+| [假設......](https://open.spotify.com/track/0Rs2v75NnM8UpHHCWdiceT) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [假設......](https://open.spotify.com/album/2sSuPT9ZWZYqGboonfSHWV) | 3:22 | 2025-09-04 |  |
 | [偷東西的女孩](https://open.spotify.com/track/7ptKqAuDW94DRMIFxKJHal) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [偷東西的女孩](https://open.spotify.com/album/21cpsk8V7cfhmSpQAKiisF) | 4:18 | 2024-06-27 |  |
 | [傷心的時候別說話](https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [傷心的時候別說話](https://open.spotify.com/album/4vDyhiJ9rvoLdkJtH8t6Iy) | 3:21 | 2024-09-12 |  |
 | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/track/1ZDS8ZRWeRRbYXECjFELhp) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/album/7Kdd5etsuHT1NuRDByBEFD) | 3:42 | 2024-06-27 |  |
@@ -539,6 +540,7 @@
 | [那黑夜沒很夜 Huggies](https://open.spotify.com/track/4b87uRNyNKVX4DYIxGj6My) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [那黑夜沒很夜 Huggies](https://open.spotify.com/album/71A5dMgBJwFynVxBDDKZ3t) | 3:00 | 2024-11-14 |  |
 | [醬醬醬](https://open.spotify.com/track/41nGkNgosSPuyQQtXYMrJU) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [醬醬醬](https://open.spotify.com/album/4ooptT4824qIirmvkzyuc2) | 3:13 | 2024-06-27 |  |
 | [重拾呼吸的節奏](https://open.spotify.com/track/22uNc94lqKFi6cXxi1D6Om) | [杜以辰](https://open.spotify.com/artist/7dfCO9wZRuuYOthlyFBqCs) | [重拾呼吸的節奏](https://open.spotify.com/album/2xbcE16g6FveUbUPMDnrxl) | 3:28 | 2024-06-27 |  |
+| [開心果](https://open.spotify.com/track/3KNaTGL2CrSk5W5L0bEQLw) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [開心果](https://open.spotify.com/album/7bBr9JCG44j7UXzicHUrnT) | 3:38 | 2025-09-04 |  |
 | [開燈 \. 熄燈 \- 熄燈版](https://open.spotify.com/track/0ESNH8JaBCbLb2PH5rZpL1) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret](https://open.spotify.com/album/5CsoFDurYbSRb02fd5AqRQ) | 4:15 | 2024-06-27 |  |
 | [間歇性休眠](https://open.spotify.com/track/6NTpMNt4qi3icnZq9Wh5WE) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [間歇性休眠](https://open.spotify.com/album/2N8gg8nxAPMrAJOJkCnM0H) | 4:41 | 2024-06-27 |  |
 | [關我蛋治](https://open.spotify.com/track/6DRatWcrhtv1ba4xeV01Bi) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [關我蛋治](https://open.spotify.com/album/6o5YClIb0rr2h6a189V9iK) | 3:16 | 2024-06-27 |  |

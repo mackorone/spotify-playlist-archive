@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-129 songs - 8 hr 26 min
+130 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [fogbound \( + 池田エライザ \)](https://open.spotify.com/track/7N3SyH4n4kjbMl8gYNs63K) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [池田 エライザ](https://open.spotify.com/artist/5M2zpiu3UmpkILAzG32bCP) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:15 | 2022-11-22 | 2024-04-19 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-22 | 2024-08-21 |
 | [KICK BACK](https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:14 | 2024-08-20 |  |
+| [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/track/4FI5XZ9paE4Lliaacra77p) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/album/3osCW6kofsU9dIlILmL46l) | 4:12 | 2025-09-04 |  |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-20 | 2024-08-21 |
 | [LADY](https://open.spotify.com/track/6zOrkNaQjL3PE6HzwSwZUW) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:28 | 2024-08-20 |  |
 | [Lemon](https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:15 | 2022-11-22 | 2024-04-19 |

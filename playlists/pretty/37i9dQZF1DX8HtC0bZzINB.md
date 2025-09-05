@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,357 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,366 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 41 | [Seviyo Sevmiyo](https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Seviyo Sevmiyo](https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi) | 2:52 |
 | 42 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 |
 | 43 | [Ücra](https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg) | [Emrah Karakuyu](https://open.spotify.com/artist/1Kb8Eb6SbHbzUYSqhhDtx5), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [Ücra](https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr) | 3:19 |
-| 44 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
-| 45 | [neydi derdin](https://open.spotify.com/track/0RoAuPEONZLR6QK4GGJiEr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [neydi derdin](https://open.spotify.com/album/1XK7zWCTSPJqFXGDMIPTCL) | 2:35 |
+| 44 | [neydi derdin](https://open.spotify.com/track/0RoAuPEONZLR6QK4GGJiEr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [neydi derdin](https://open.spotify.com/album/1XK7zWCTSPJqFXGDMIPTCL) | 2:35 |
+| 45 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
 | 46 | [bu bi' itiraf](https://open.spotify.com/track/6s0WUuPlnK8JTcBEhLw6pp) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui), [Deha](https://open.spotify.com/artist/3G8CpiMJOnYQJ8Xyud2lQg), [Deniz Rhode](https://open.spotify.com/artist/2N5PnASGMV4yCYW2rUg03L) | [bu bi' itiraf](https://open.spotify.com/album/4KAABV3CDGqkalDJQznmzv) | 2:11 |
 | 47 | [Latina](https://open.spotify.com/track/3JmENq4lSWUE2NkJEDiRBh) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Funda](https://open.spotify.com/artist/03OI6M20ksK4v0WFYa4aLZ) | [Yaz Albümü](https://open.spotify.com/album/3RdgVxFXrgwUjOxMmpqre4) | 3:19 |
 | 48 | [Senden Vazgeçtim](https://open.spotify.com/track/3RAmJSQDSJWgrzu66Ftcrr) | [Bora](https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E) | [Senden Vazgeçtim](https://open.spotify.com/album/72ulEcsqjpgL4lcGO8gnyT) | 1:50 |

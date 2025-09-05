@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Rhiannon Giddens & Justin Robinson
 
-656 songs - 1 day 14 hr 54 min
+657 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Just Let Me Know](https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Just Let Me Know](https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg) | 2:48 | 2024-05-10 | 2024-09-01 |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-07-22 | 2024-04-19 |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-12-17 | 2022-07-29 |
+| [Keepers of the Flame](https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g) | [Lorraine Jordan & Carolina Road](https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw) | [Keepers of the Flame](https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w) | 2:55 | 2025-08-15 |  |
 | [Kentucky Blue](https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Bluegrassed](https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D) | 3:00 | 2024-05-10 | 2025-02-26 |
 | [Kentucky Gold](https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Kentucky for Me](https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv) | 3:36 | 2024-04-26 | 2025-02-01 |
 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 | 2024-01-26 |  |
@@ -575,7 +576,7 @@
 | [They Call It Music \- Simply Bluegrass](https://open.spotify.com/track/7mo9QVf7ChCsdSlooAR7FK) | [The Gibson Brothers](https://open.spotify.com/artist/5rJLbEGewsZYI6T33W4DvA) | [They Call It Music \(Simply Bluegrass\)](https://open.spotify.com/album/3LLq6jMuRW8pF8j6sf9D8g) | 3:37 | 2022-03-11 | 2022-07-25 |
 | [This Favored Land](https://open.spotify.com/track/0ohHY0YoaXpDHvEk9qViuG) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Phoebe Hunt](https://open.spotify.com/artist/1wE9ZF6TT2O3XyYTmPLQ5x) | [Shall We Hope](https://open.spotify.com/album/17XUbpjDI2uQWvXcDoJUwT) | 3:29 | 2021-12-17 | 2022-06-21 |
 | [This Old Plane](https://open.spotify.com/track/4VCRlqJr50b8q3zJEkc4Ei) | [The Bad Oats](https://open.spotify.com/artist/3qod4QYLHKxmo007ymm6Gz) | [The Other Side Of Love](https://open.spotify.com/album/3ftHiJIrci7MzIx3YDsZr9) | 2:37 | 2022-03-18 | 2022-07-14 |
-| [This Sad Song \(Single Version\) \[Live\]](https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [This Sad Song \(Single Version\) \[Live\]](https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ) | 2:18 | 2024-08-02 |  |
+| [This Sad Song \(Single Version\) \[Live\]](https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [This Sad Song \(Single Version\) \[Live\]](https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ) | 2:18 | 2024-08-02 | 2025-09-05 |
 | [This Train](https://open.spotify.com/track/09iWpYZvWO6BTSliOVFFQ7) | [Wood Box Heroes](https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH) | [This Train](https://open.spotify.com/album/17ZrP4A6MVPFkq94wD2L0B) | 3:26 | 2023-03-31 | 2023-04-09 |
 | [This Valley](https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [This Valley](https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo) | 4:15 | 2024-04-06 | 2025-02-01 |
 | [Time We Made Time](https://open.spotify.com/track/18tdZq3CmktV6HIAGSiJ0B) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:55 | 2022-07-22 | 2023-04-29 |

@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2021-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 226092,
       "name": "Cup of Joe",
       "url": "https://open.spotify.com/track/5cwtgZnXsn2vVfuQZPSFt3"
@@ -5039,6 +5039,24 @@
     },
     {
       "album": {
+        "name": "Echo in the Field",
+        "url": "https://open.spotify.com/album/0fZJEmTD8gv10S1gx4Q52c"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278028,
+      "name": "Echo in the Field",
+      "url": "https://open.spotify.com/track/0zIbm5njltu0NefdY5G3zp"
+    },
+    {
+      "album": {
         "name": "Always Inside Your Head",
         "url": "https://open.spotify.com/album/36BhQCIGZyc0JyZAfysXYI"
       },
@@ -5408,7 +5426,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 131000,
       "name": "Entering Lumon (ODESZA Severance Remix)",
       "url": "https://open.spotify.com/track/2xToDIuuYKkOhuDZGYxuIR"
@@ -6608,7 +6626,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -6680,7 +6698,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 170113,
       "name": "Flounder",
       "url": "https://open.spotify.com/track/5t9iuSeJBZGTMDGPuB630e"
@@ -7854,7 +7872,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 305402,
       "name": "Hanging D - Max Cooper Remix",
       "url": "https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC"

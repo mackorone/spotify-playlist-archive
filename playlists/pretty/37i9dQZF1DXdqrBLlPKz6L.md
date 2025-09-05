@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,931 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,941 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ELECTROLIBONBON](https://open.spotify.com/track/3CHcEAW2hG6rlT2W1LlOtQ) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 4:12 |
+| 1 | [ELECTROLIBONBON](https://open.spotify.com/track/3CHcEAW2hG6rlT2W1LlOtQ) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 4:12 |
 | 2 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 |
 | 3 | [CONDENADO AL EXITO II](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 4:17 |
 | 4 | [VIBEX](https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [VIBEX](https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91) | 1:39 |

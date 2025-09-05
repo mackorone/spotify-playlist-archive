@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 223389,
       "name": "3 am walk - Slowed Version",
       "url": "https://open.spotify.com/track/6WvEAgklyO4jvIer6wkpko"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 473300,
       "name": "A Light in the Dark",
       "url": "https://open.spotify.com/track/4uqYhg96dODkNrtnYDOOVf"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 221612,
       "name": "black box - alt version",
       "url": "https://open.spotify.com/track/1aEqFOVkJRPBxQME5U06DS"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 176000,
       "name": "Floor Position",
       "url": "https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1"
@@ -2426,6 +2426,28 @@
       "duration_ms": 176250,
       "name": "Indifference - Slowed",
       "url": "https://open.spotify.com/track/1gjBYuGJM1RPLKrhQy5Sjo"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3Oo2a79lPxI5psU7PkMSNj"
+      },
+      "artists": [
+        {
+          "name": "SUUVI",
+          "url": "https://open.spotify.com/artist/2Z69VotjS9931cszUDlmAr"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205248,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7pHumvA3vKnh10gYd0UZRM"
     },
     {
       "album": {
@@ -3396,6 +3418,24 @@
       "duration_ms": 243720,
       "name": "Nimmermeer",
       "url": "https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1"
+    },
+    {
+      "album": {
+        "name": "Quaristice (Versions)",
+        "url": "https://open.spotify.com/album/3EhXQYoLSUFXkDDSxrLHx1"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263899,
+      "name": "nofour",
+      "url": "https://open.spotify.com/track/3hVlgICwiJPz5ZaFhw3tcB"
     },
     {
       "album": {
@@ -5844,7 +5884,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 292389,
       "name": "Untitled, Saturday",
       "url": "https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn"
@@ -6014,7 +6054,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 314454,
       "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
       "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"

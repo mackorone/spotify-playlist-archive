@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,351 likes - 465 songs - 1 day 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,353 likes - 465 songs - 1 day 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 73 | [2 hands](https://open.spotify.com/track/0B7tnohfi83RQquo2JRHrL) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:02 |
 | 74 | [Stranger Things \(feat\. OneRepublic\)](https://open.spotify.com/track/4sJqSKPc5fZ5OZ8JiVI44N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:41 |
 | 75 | [RUNAWAY](https://open.spotify.com/track/2LsFnG9KYkWSk8dVopmHw2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:25 |
-| 76 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 |
-| 77 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 |
+| 76 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 |
+| 77 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 |
 | 78 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
 | 79 | [Something I Need](https://open.spotify.com/track/5aIZ2jtxZ4o4GHQXTybkIa) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:00 |
 | 80 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 |
 | 81 | [Lucky Strike](https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:05 |
 | 82 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
 | 83 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 |
-| 84 | [Brighter Than The Sun](https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:51 |
-| 85 | [West Coast](https://open.spotify.com/track/1B7Vir1E4FcFPP5tUzDSmR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 3:15 |
-| 86 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 84 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 85 | [Brighter Than The Sun](https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:51 |
+| 86 | [West Coast](https://open.spotify.com/track/1B7Vir1E4FcFPP5tUzDSmR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 3:15 |
 | 87 | [I Know Places](https://open.spotify.com/track/6EwNJz8CuVsrsLvXprJ20Q) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:15 |
 | 88 | [Battlefield](https://open.spotify.com/track/0wGPUxi4tuxfSeR0DtHFSp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/493cZBXesSA3z8UBKkwjQi) | 4:01 |
 | 89 | [Do It Like That](https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:25 |
@@ -256,8 +256,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 246 | [Lullaby](https://open.spotify.com/track/1QijFEB8TfVgDHdBqPczo6) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:37 |
 | 247 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 |
 | 248 | [Take a Bow](https://open.spotify.com/track/09CIJTmSoWTrrpIh2EUatf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:54 |
-| 249 | [So Far Gone](https://open.spotify.com/track/1XCWRPypSirT0WiXQGDcAl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:34 |
-| 250 | [Distance](https://open.spotify.com/track/2l3gQ8Zv1KlGqyE6B4ntPC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:00 |
+| 249 | [Distance](https://open.spotify.com/track/2l3gQ8Zv1KlGqyE6B4ntPC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:00 |
+| 250 | [So Far Gone](https://open.spotify.com/track/1XCWRPypSirT0WiXQGDcAl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:34 |
 | 251 | ['Til The Dawn](https://open.spotify.com/track/6fc0E8NhqsOoXTDyudtaUb) | [Drew Sidora](https://open.spotify.com/artist/6RbIwDgAskXJEpnZJl5vnE) | [Step Up \- Original Soundtrack](https://open.spotify.com/album/02W2pKViYFgqy9JR7XpRio) | 3:09 |
 | 252 | [Getting Started \(Hobbs & Shaw\)](https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:38 |
 | 253 | [Strip Me](https://open.spotify.com/track/2371M3KFIjpbHnVmh4dw85) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:29 |
@@ -474,4 +474,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 464 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 465 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Ab7RFAAAAAARmShhVIDAV1hjUYxfDHe2`
+Snapshot ID: `Ab7WyAAAAAAHO3eeuRxShlLhBMgdk7C3`

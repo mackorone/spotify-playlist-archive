@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 564 songs - 1 day 12 hr 53 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 566 songs - 1 day 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -572,5 +572,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 562 | [Everything's Fine](https://open.spotify.com/track/61yVt2xUIrwYI53xY3jSFE) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Everything's Fine](https://open.spotify.com/album/51WZxnoOPfdGY2yUwfCLhf) | 1:07 |
 | 563 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 |
 | 564 | [Look At You](https://open.spotify.com/track/5eA4dnhQQbUVRohOqK2AWd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 2:59 |
+| 565 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z), [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 |
+| 566 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
 
-Snapshot ID: `AAAHlgGZj3aPPJMUw6fdifrGcLW/U3KX`
+Snapshot ID: `AAAHmpNvL0VVKB/aviKUxXyAsd4+04Wz`

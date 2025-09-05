@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Ouri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,052 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,027 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 44 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:24 |
 | 45 | [HEARTLESS](https://open.spotify.com/track/0Qg6C8x7cXrO7KiV8wl6M6) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [HEARTLESS](https://open.spotify.com/album/7d5EIDkACKtDSLHUZce7TE) | 3:54 |
 | 46 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
-| 47 | [my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
+| 47 | [act xiii: my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act xiii: my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
 | 48 | [Stay Home](https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Stay Home](https://open.spotify.com/album/2K5izQrAm5MsXpiZIGbiGi) | 2:37 |
 | 49 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/1gXHmNzTj1fwxPWMOZ9Frn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/album/0mhTypXZWjlqrSrcRkerLf) | 3:36 |
 | 50 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 |

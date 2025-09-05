@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,593 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,613 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 49 | [If I Give My Heart to You \(with The Mellomen\)](https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:49 |
 | 50 | [It's All In The Game](https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [The Hits and More](https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ) | 2:39 |
 | 51 | [Rubber Ball](https://open.spotify.com/track/3Onckv4ELY5JiWgoqUFxvf) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Essential](https://open.spotify.com/album/2qvgU7ANFcPldErKcJkcnR) | 2:21 |
-| 52 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:32 |
-| 53 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 |
+| 52 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 |
+| 53 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:32 |
 | 54 | [Hold My Hand](https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Most of All](https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF) | 2:49 |
 | 55 | [Moonlight Gambler](https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:54 |
 | 56 | [Look At That Girl](https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [The Very Best of Guy Mitchell](https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz) | 2:53 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 70 | [I'm Walking Behind You \- 2001 Remastered](https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 3:04 |
 | 71 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
 | 72 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
-| 73 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |
-| 74 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
+| 73 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
+| 74 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |
 | 75 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
 | 76 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
 | 77 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
 | 78 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 |
-| 79 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
-| 80 | [More](https://open.spotify.com/track/1ift7pvnph4S0eHMLjYD4E) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Legends](https://open.spotify.com/album/1oHN7HNvyr2kCtFREr9FZt) | 2:35 |
+| 79 | [More](https://open.spotify.com/track/1ift7pvnph4S0eHMLjYD4E) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Legends](https://open.spotify.com/album/1oHN7HNvyr2kCtFREr9FZt) | 2:35 |
+| 80 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
 
 Snapshot ID: `AAAAAEtxqEitCBj66EiAsgRXZFAm3TaF`

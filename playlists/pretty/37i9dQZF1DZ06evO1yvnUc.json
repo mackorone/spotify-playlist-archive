@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 156519,
+  "num_followers": 156612,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABH+BguXyiOzSZB/wvmXiAV",
+  "snapshot_id": "aLeFAAAAAAAiKpl70hnDeZb+L9pkwsvS",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 303628,
+      "name": "WEST DISTRICT",
+      "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 236973,
       "name": "Preach",
       "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 303628,
-      "name": "WEST DISTRICT",
-      "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"
     },
     {
       "added_at": null,

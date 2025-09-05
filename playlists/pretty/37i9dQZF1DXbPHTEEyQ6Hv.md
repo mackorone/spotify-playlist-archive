@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,472 likes - 119 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,463 likes - 119 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 33 | [Blue Christmas](https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Blue Christmas](https://open.spotify.com/album/4yQZZRtvEUIBgof8K8NC9w) | 2:32 |
 | 34 | [Cantique De Noël](https://open.spotify.com/track/2WnkEW8F20IfnZjHToKh9V) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [The Christmas Collection](https://open.spotify.com/album/52Na0HF5eGRagKqZdE98CE) | 3:48 |
 | 35 | [All I Want For Christmas is You \- Cover](https://open.spotify.com/track/0F1o5Komjj1RXDceIDyVdI) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [All I Want For Christmas is You \(Cover\)](https://open.spotify.com/album/1QeZioeBRk5Lfum86keCXu) | 2:42 |
-| 36 | [Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG) | [Robert Wells](https://open.spotify.com/artist/2b5IBuGQwskEO9VwynCNtO), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:18 |
+| 36 | [Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG) | [Robert Wells](https://open.spotify.com/artist/5GgQaXN58vIXabBwnkkTae), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:18 |
 | 37 | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/track/0s7M8v8r9dSSqEo9KiGypA) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/album/0Lf8nFCFT3RgkCRu2t3Ces) | 2:24 |
 | 38 | [This Christmas](https://open.spotify.com/track/7nPPpcAYWxlAZZ3PXYsaVI) | [Joe Hanson](https://open.spotify.com/artist/4r7XWdXa1dYecUdXwBPIGb) | [This Christmas](https://open.spotify.com/album/4eIb6EZ2ZSUfmKckrarmcJ) | 2:55 |
 | 39 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/1Xjj1DDj2s0KlcLvixqgBd) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Santa Claus Is Comin' to Town](https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S) | 1:39 |

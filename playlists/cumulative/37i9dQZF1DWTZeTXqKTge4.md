@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: MB, Souldia, White\-B, Lost
 
-835 songs - 1 day 18 hr 20 min
+836 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [Rien m'faire](https://open.spotify.com/track/5mai2Bwht380oISASmMx3T) | [Psycadelick](https://open.spotify.com/artist/1HqB7rrPzpiqR9OMNKfZdE) | [Psyca](https://open.spotify.com/album/2oV3EZpq7eI8BgSAIg4XUU) | 3:08 | 2024-07-05 | 2024-07-27 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-21 |
 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 | 2025-05-16 |  |
+| [Right Now \- Remix](https://open.spotify.com/track/1LCjhzSlh0fyjKPHK7zre0) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Right Now \(Remix\)](https://open.spotify.com/album/3pSttgZ4UYo6QGEtnnpNeb) | 3:21 | 2025-09-04 |  |
 | [RIGHT OR WRONG](https://open.spotify.com/track/11UYuQEXBRKZ3gMZp6yDIm) | [Woody](https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy) | [TOPAZE](https://open.spotify.com/album/5vHU7YT7LJU4QxmwihY5fL) | 2:23 | 2025-08-07 |  |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
 | [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 | 2024-02-03 |

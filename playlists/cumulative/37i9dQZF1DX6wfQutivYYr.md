@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Baby Gang sulla cover della playlist più grande in Italia 🏆
+> Olly sulla cover della playlist più grande in Italia 🏆
 
 235 songs - 12 hr 5 min
 

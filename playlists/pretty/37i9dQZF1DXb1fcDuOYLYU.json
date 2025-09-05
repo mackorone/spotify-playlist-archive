@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: Paloma Morphy",
-  "num_followers": 106370,
+  "num_followers": 106390,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-07-01 04:00:13",
       "album": {
-        "name": "WASSUP",
-        "url": "https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 162263,
-      "name": "WASSUP",
-      "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
-    },
-    {
-      "added_at": "2025-07-01 04:00:13",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2025-07-01 04:00:13",
+      "album": {
+        "name": "WASSUP",
+        "url": "https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 162263,
+      "name": "WASSUP",
+      "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
     },
     {
       "added_at": "2025-07-01 04:00:13",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-07-01 04:00:13",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
-    },
-    {
-      "added_at": "2025-07-01 04:00:13",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 190160,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
+    },
+    {
+      "added_at": "2025-07-01 04:00:13",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2025-07-01 04:00:13",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-07-01 04:00:13",
       "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2025-07-01 04:00:13",
+      "album": {
         "name": "Enam\u00f3rate",
         "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 147785,
       "name": "Enam\u00f3rate",
       "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
-    },
-    {
-      "added_at": "2025-07-01 04:00:13",
-      "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2025-07-01 04:00:13",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2025-07-01 04:00:13",
       "album": {
-        "name": "HAKiA",
-        "url": "https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi"
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
       "artists": [
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 133894,
-      "name": "HAKiA",
-      "url": "https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K"
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
     }
   ],
   "unique_name": "Women of Latin",

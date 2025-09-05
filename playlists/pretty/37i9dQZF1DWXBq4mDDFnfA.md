@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,926 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,967 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 11 | [Fracture \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/3brPjGopZsgIJw5KkeeM3v) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Fracture \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/54lLgfTvAB9piO2AkpHJP2) | 3:58 |
 | 12 | [Lyric Pieces, Book 1, Op\. 12: No\. 1, Arietta \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/60t4pNF1TiAZ7uOBcVsL2w) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Grieg: Lyric Pieces, Book 1, Op\. 12: No\. 1, Arietta \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/058uS2CCQuyq1hepia3i2x) | 1:36 |
 | 13 | [Fantasy for Guitar Op\. 107: III\. Arietta 1](https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Dreams and Fancies: English Music for Solo Guitar](https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH) | 2:03 |
-| 14 | [Ponce: Estrellita](https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Manuel Barrueco](https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE) | [Cantos y Danzas](https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF) | 2:46 |
+| 14 | [Ponce: 2 Canciones mexicanas: No\. 2, Estrellita](https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Manuel Barrueco](https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE) | [Cantos y Danzas](https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF) | 2:46 |
 | 15 | [Catalan Folk Songs: No\. 7, El testament d'Amelia](https://open.spotify.com/track/4zhopbx2JBAmCALQ61jEAE) | [Miguel Llobet Solés](https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Spanish Serenades](https://open.spotify.com/album/6vj2ueTEukJmKhNO8xKzkD) | 2:10 |
 | 16 | [LakmÃ©: Flower Duet](https://open.spotify.com/track/10RYcLM6seFPApCHvxRoZ7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Reading and Studying](https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq) | 1:28 |
 | 17 | [The Last of Us Theme \(Arr\. Mugi for Guitar\) \- From "The Last of Us"](https://open.spotify.com/track/7za0zJlaihHwzp5Q0FDnro) | [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [The Last of Us Theme \(Arr\. Mugi for Guitar\) \[From "The Last of Us"\]](https://open.spotify.com/album/6wbBTOzLh7vP3J6OkjDbfy) | 4:26 |

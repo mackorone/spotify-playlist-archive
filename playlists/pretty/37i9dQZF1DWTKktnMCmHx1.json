@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 93753,
+  "num_followers": 93752,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "UHLALA",
+      "url": "https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "Look Back at It (feat. CAPO PLAZA)",
         "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 225541,
       "name": "Look Back at It (feat. CAPO PLAZA)",
       "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "UHLALA",
-      "url": "https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN"
     },
     {
       "added_at": "2024-12-06 12:53:49",

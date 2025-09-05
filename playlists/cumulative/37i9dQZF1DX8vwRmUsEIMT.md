@@ -2,7 +2,7 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: CMAT
+> All the new music you need to hear right now\. Cover: Lady Gaga
 
 3,177 songs - 7 day 3 hr 45 min
 

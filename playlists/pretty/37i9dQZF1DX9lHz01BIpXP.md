@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: 21 Promo & Pengii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,874 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,875 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 26 | [Die Pad Is Nie Easy](https://open.spotify.com/track/4AJf1Qxc1hpJ6TZRveqSfQ) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [DJV](https://open.spotify.com/artist/7GjjnDJKb73hBTZiThqnOI) | [Die Pad Is Nie Easy](https://open.spotify.com/album/3Km26NcreAJ5g8IQL8cWMR) | 3:07 |
 | 27 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
 | 28 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
-| 29 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
-| 30 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
+| 29 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
+| 30 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
 | 31 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 32 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
 | 33 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |

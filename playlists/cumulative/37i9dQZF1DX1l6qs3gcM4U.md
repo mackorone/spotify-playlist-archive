@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Soarito
+> Fall in love with the sensual sounds of Kizomba! Cover: Mr\. KIZOMBA
 
-565 songs - 1 day 8 hr 37 min
+567 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 | 2021-12-10 | 2024-09-27 |
 | [Me Toca](https://open.spotify.com/track/3bdyv9dFP9rUVtdGnFd3Sf) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Memórias](https://open.spotify.com/album/4RVec4jzbNChSwlwWiZUUb) | 4:15 | 2022-02-14 | 2022-08-05 |
 | [Medo](https://open.spotify.com/track/0bkEoIUJf76pkTNopXcw81) | [NZ GANG](https://open.spotify.com/artist/1o38mG2THcoYNgnrNYRKyu) | [Medo](https://open.spotify.com/album/71opZXt6QorbZzUl3hHxnx) | 4:00 | 2022-01-27 | 2022-02-01 |
+| [Melaço](https://open.spotify.com/track/62OAk7h94Lpg2t9P8oFRJs) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn) | [Melaço](https://open.spotify.com/album/0QEZxLCXlvXVkRu3Bc8ZT6) | 2:46 | 2025-09-04 |  |
 | [Melhor De Mim](https://open.spotify.com/track/7MEDcLf5GnKbAZilveql59) | [Lupambo Produções](https://open.spotify.com/artist/21jubjQ9J5zyNTcO9EzOWK) | [Melhor De Mim](https://open.spotify.com/album/1HU1IPpg4qpPrUAX7AsetQ) | 3:42 | 2022-01-14 | 2022-02-03 |
 | [Menino Veneno](https://open.spotify.com/track/3OOWGAABy0Yj2U0Muw8JoN) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Menino Veneno](https://open.spotify.com/album/0jDx4qEfq1x82ASZnyLW4k) | 3:13 | 2023-04-13 | 2023-05-05 |
 | [Menta](https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Menta](https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk) | 3:16 | 2023-09-14 |  |
@@ -398,6 +399,7 @@
 | [Podem Até Tentar](https://open.spotify.com/track/4kceEw4hLkTDCUZkt8Dv49) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Podem Até Tentar](https://open.spotify.com/album/5cJgnQcq4EAQRcSRWPZFZC) | 3:01 | 2023-11-10 | 2024-03-08 |
 | [Pondodu](https://open.spotify.com/track/0hfdyksAPklSdEcZEeen5q) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Boy Game](https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk), [Pcc](https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy) | [Pondodu](https://open.spotify.com/album/51gfGpmvSvZnVwxnnwWHpa) | 3:23 | 2024-05-16 | 2024-07-27 |
 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 | 2023-01-04 | 2023-06-23 |
+| [Por Causa Dela](https://open.spotify.com/track/1K2BmCDkTM88bghj43PBpi) | [Gasso Franco](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [Por Causa Dela](https://open.spotify.com/album/4UzQwbdyuEkpFud7de0myp) | 3:14 | 2025-09-04 |  |
 | [Porque Te Amo](https://open.spotify.com/track/5eFlivXOQh4Yq9Df0t6GX1) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa), [Boss AC](https://open.spotify.com/artist/2AiLSd9HXwfFwO9g00s2hk) | [Kizomba Mega Hits, Vol\. 3](https://open.spotify.com/album/5GLvwNHDE2cFAe9fOFtTUj) | 4:35 | 2022-03-25 | 2022-04-20 |
 | [Pra Cuiar Mais \(feat\. C4 Pedro\)](https://open.spotify.com/track/2j1UBahUo1bbMu6rHC5GnE) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pra Cuiar Mais \(feat\. C4 Pedro\)](https://open.spotify.com/album/33mLkg2hwReuXtySTfmijQ) | 3:48 | 2021-12-10 | 2022-02-03 |
 | [Pra Sempre](https://open.spotify.com/track/71EjCo2pX25Eusvk45VU5t) | [Barbie Africana](https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF), [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Pra Sempre](https://open.spotify.com/album/0QREchufuxe3EhSdzNd1Uq) | 3:00 | 2025-02-28 | 2025-04-22 |
@@ -480,7 +482,7 @@
 | [Te Amo Tanto](https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Te Amo Tanto](https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj) | 3:02 | 2021-12-10 | 2025-03-28 |
 | [Tellin Me Something](https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 2:47 | 2023-12-15 | 2024-04-19 |
 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 | 2021-12-10 | 2023-12-09 |
-| [Tem Que Saber](https://open.spotify.com/track/5V9p06Za7Bi99cFE23J6JE) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Tem Que Saber](https://open.spotify.com/album/1AhbaZzBNnFYX6omOAD5Va) | 3:48 | 2025-07-11 |  |
+| [Tem Que Saber](https://open.spotify.com/track/5V9p06Za7Bi99cFE23J6JE) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Tem Que Saber](https://open.spotify.com/album/1AhbaZzBNnFYX6omOAD5Va) | 3:48 | 2025-07-11 | 2025-09-05 |
 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 | 2021-12-10 | 2025-06-06 |
 | [Tempo](https://open.spotify.com/track/6fn8UvMTxVJNlweb6XIocz) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6) | [Tempo](https://open.spotify.com/album/0FJVhzLEIc8cEiUMtzXkeJ) | 3:07 | 2025-02-28 | 2025-03-07 |
 | [Tempo](https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Tempo](https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx) | 3:34 | 2023-12-29 | 2025-03-28 |
@@ -570,7 +572,7 @@
 | [É Golo](https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [É Golo](https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q) | 3:36 | 2022-09-22 | 2022-12-08 |
 | [É MEMO ESSE](https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Telminho](https://open.spotify.com/artist/2PiR7s9Qe7ZB0gWcjKc9d1) | [É MEMO ESSE](https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P) | 3:29 | 2025-07-17 |  |
 | [É Mentira](https://open.spotify.com/track/6akHiBM9q6bPCg9SBCBoSz) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr) | [DaMaika Season](https://open.spotify.com/album/4guI5Wy4lUy3veJKlcwBPE) | 3:43 | 2022-02-25 | 2022-04-06 |
-| [Última Dança](https://open.spotify.com/track/6BUiTF3mlMsBbIAhEAWmpj) | [Joelson JB](https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8) | [Última Dança](https://open.spotify.com/album/2JW3JBnJWLKrDbgSuFxA0E) | 3:22 | 2025-08-14 |  |
+| [Última Dança](https://open.spotify.com/track/6BUiTF3mlMsBbIAhEAWmpj) | [Joelson JB](https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8) | [Última Dança](https://open.spotify.com/album/2JW3JBnJWLKrDbgSuFxA0E) | 3:22 | 2025-08-14 | 2025-09-05 |
 | [Última Lágrima](https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Biig Star](https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i) | [Última Lágrima](https://open.spotify.com/album/4zjtymkeds3m640tebq4a5) | 4:02 | 2024-08-01 |  |
 | [Única](https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Única](https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ) | 3:54 | 2024-05-10 |  |
 

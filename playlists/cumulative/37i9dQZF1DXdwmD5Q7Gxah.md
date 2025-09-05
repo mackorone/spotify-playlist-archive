@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: After
 
-3,516 songs - 8 day 0 hr 5 min
+3,518 songs - 8 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-03 | 2024-10-19 |
 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 | 2021-04-24 | 2021-12-02 |
 | [Faraway](https://open.spotify.com/track/0Q4PkMbhBDSS5jBaPm4ZmH) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [Faraway](https://open.spotify.com/album/3DKLTzynscOG3Ix88stW5S) | 2:27 | 2019-10-30 | 2020-02-05 |
+| [Fatal Attraction](https://open.spotify.com/track/5631C1irkmhGmNPeyKp7av) | [For Opal](https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4) | [Fatal Attraction](https://open.spotify.com/album/3WE1NBG8v7glf6akszxVq5) | 2:47 | 2025-09-04 |  |
 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 | 2025-01-07 | 2025-03-27 |
 | [Fauxllennium](https://open.spotify.com/track/6m7cJtdIvS7AiL7QvyOHwS) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 3:08 | 2024-12-03 | 2025-03-29 |
 | [Favorite Drug](https://open.spotify.com/track/18ZjYJcgFWiBhnvFzh5m3N) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:29 | 2019-08-30 | 2019-10-11 |
@@ -1885,7 +1886,7 @@
 | [Love On Top](https://open.spotify.com/track/2aPsnczW0FbW24MXtlWrC4) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Love On Top](https://open.spotify.com/album/1IzSQzGqrHWaMe12OI5yH8) | 2:13 | 2020-05-15 | 2020-07-31 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-24 | 2024-04-19 |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-10 | 2024-11-22 |
-| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-01-16 |  |
+| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-01-16 | 2025-09-05 |
 | [Love Trap](https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Love Trap](https://open.spotify.com/album/52rmgq7Ah95kNSemFMV3Zc) | 2:40 | 2025-02-14 | 2025-03-27 |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-02-10 | 2023-04-22 |
 | [Love You Anyway](https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:57 | 2025-03-21 | 2025-04-05 |
@@ -1929,7 +1930,7 @@
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-07-30 |
 | [Makeup](https://open.spotify.com/track/2ciAYoCq1z4BboYNvGbnLH) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Makeup](https://open.spotify.com/album/2xT0Zibv3H6LhmGLFMjpZc) | 3:16 | 2022-02-04 | 2022-03-11 |
 | [makeup drawer](https://open.spotify.com/track/1xnUqreX9IFFBBpFfI6OBy) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [makeup drawer](https://open.spotify.com/album/5RKmUXywPYyVgoP8PeVbus) | 3:02 | 2020-02-20 | 2020-06-02 |
-| [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-16 |  |
+| [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-16 | 2025-09-05 |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2019-07-30\* | 2019-08-08 |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2021-07-31 | 2021-11-13 |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-06-23 | 2023-07-14 |
@@ -2394,6 +2395,7 @@
 | [Pop Star \- Chaeyoung Remix](https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Chaeyoung](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [Pop Star \(Chaeyoung Remix\)](https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0) | 3:28 | 2023-10-27 | 2024-01-11 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-15 | 2022-02-26 |
 | [PORN ACTING\*\[FLIP\] \- Spotify Singles](https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Spotify Singles](https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi) | 3:06 | 2023-06-16 | 2023-07-29 |
+| [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-04 |  |
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-08 |  |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-02 | 2022-09-17 |
 | [Post Break Up Beauty](https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:52 | 2025-06-27 |  |

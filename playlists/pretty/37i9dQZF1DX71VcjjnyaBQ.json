@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 429443,
+  "num_followers": 429520,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
+        "name": "Jazz Lullaby",
+        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
+      },
+      "artists": [
+        {
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+        }
+      ],
+      "duration_ms": 189929,
+      "name": "Frere Jacques",
+      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
         "name": "Forest Floor",
         "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 268081,
       "name": "Bess Is My Woman Now",
       "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
-        "name": "Jazz Lullaby",
-        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
-      },
-      "artists": [
-        {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
-        }
-      ],
-      "duration_ms": 189929,
-      "name": "Frere Jacques",
-      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
     },
     {
       "added_at": "2025-08-22 13:28:43",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
-      },
-      "artists": [
-        {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
     },
     {
       "added_at": "2025-08-22 13:28:43",

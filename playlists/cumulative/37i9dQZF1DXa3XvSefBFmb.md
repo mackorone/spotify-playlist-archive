@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como CAROLINA DE DEUS e explora as músicas escolhidas pelos nossos editores.
 
-1,198 songs - 2 day 17 hr 48 min
+1,201 songs - 2 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [DAQUI](https://open.spotify.com/track/4LJYiFNdhgfUfVJqGB47qw) | [ME.LÔ](https://open.spotify.com/artist/0xM4t8QPt1dErf2RkArMdb) | [DAQUI](https://open.spotify.com/album/6Av6qGNYYuoX0Cy5ywavgE) | 2:18 | 2024-07-02 | 2024-10-03 |
 | [Day or Two](https://open.spotify.com/track/6ulVRECp2ylfHmo7LvsdyV) | [Sara Cruz](https://open.spotify.com/artist/0MKeDWrI54fdwBtvdtc19A) | [Day or Two](https://open.spotify.com/album/3daQkt3JhNiFNFRyt0NC8g) | 3:09 | 2023-06-06 | 2023-09-06 |
 | [De Fio A Pavio](https://open.spotify.com/track/2EsPODPRKEg3YGF0umKgyR) | [Mafalda Veiga](https://open.spotify.com/artist/5bD6psQfhLXvadNAD0VttX) | [Geografia Particular](https://open.spotify.com/album/7cSeg4kac9fw2DRvrbr2FW) | 3:52 | 2024-04-03 | 2024-05-02 |
+| [De Não Saber o Que Me Espera](https://open.spotify.com/track/2VHNLxugcYzrSLe9tVR5iQ) | [Cristina Branco](https://open.spotify.com/artist/0Naz1mk7F25xrk44Ugd8nd) | [De Não Saber o Que Me Espera](https://open.spotify.com/album/4gCoS1WZzZF9fQNU98fl2d) | 2:27 | 2025-09-02 |  |
 | [De Onde Eu Vim](https://open.spotify.com/track/56SoDtR5HJsiBa9pViB10n) | [Liliana Almeida](https://open.spotify.com/artist/3MHwsLhLc0J5tbzgFYCNWu) | [De onde vim](https://open.spotify.com/album/6NzcQjUC5Ihm6WNlGp9Pqq) | 3:57 | 2023-09-05 | 2023-10-04 |
 | [De Tus Caricias Al Cielo](https://open.spotify.com/track/6FMLJKE6tAM8NaBSGYpO64) | [Cuca Roseta](https://open.spotify.com/artist/5JfkzRrPKWcMQenALP3UKL) | [De Tus Caricias Al Cielo](https://open.spotify.com/album/4ZHHF5vcOV9V0luWNvKfi2) | 3:20 | 2024-01-10 | 2024-02-07 |
 | [De Volta](https://open.spotify.com/track/4Liz1bi9seXPhJw0Pa27Bp) | [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG) | [De Volta](https://open.spotify.com/album/3y9p49EeQe5hMDUhxJwtYM) | 2:40 | 2025-01-08 | 2025-03-05 |
@@ -420,6 +421,7 @@
 | [FOI DEUS \- Radio Edit](https://open.spotify.com/track/4fdOAcSV0uA7FbKGiWDj6f) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt), [Anabela](https://open.spotify.com/artist/36PDnrd2l1ZdELjuIWlaNU) | [FOI DEUS \(Amália Rodrigues Feat\. Anabela\)](https://open.spotify.com/album/4h7vcHHd1EXxoAJwZWiete) | 3:55 | 2025-01-08 | 2025-03-05 |
 | [Fome De Viagem](https://open.spotify.com/track/33lxmcEisX8NwBNNonE301) | [Inês Homem de Melo](https://open.spotify.com/artist/0QdfRhW7jTykazbcEuNtgL) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 2:47 | 2022-02-02 | 2022-04-06 |
 | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM) | 3:53 | 2024-09-03 | 2024-11-06 |
+| [fool for you](https://open.spotify.com/track/7sylyAvTTJkto7UnchJdyZ) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [fool for you](https://open.spotify.com/album/6tSM9HGl0tVNYWXlggjhZc) | 1:55 | 2025-09-02 |  |
 | [FOREVER & EVER](https://open.spotify.com/track/5r0uQNO1RVkwZOFt1gHcTs) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi) | 3:26 | 2025-02-05 | 2025-04-02 |
 | [Forma](https://open.spotify.com/track/7IY4vvXSzvC9NG2QbbOiCz) | [SOPHIA](https://open.spotify.com/artist/0wlYDNCNA2BeqciBhNEYM8) | [Forma](https://open.spotify.com/album/3vkl2w4zEvghw16vas9T61) | 3:05 | 2023-10-03 | 2023-11-30 |
 | [Fortuna](https://open.spotify.com/track/6EfAk17gvHb3gCOdg06jrQ) | [HADESSA](https://open.spotify.com/artist/7de7WfiJE75AYM339SbTCN) | [FORTUNA](https://open.spotify.com/album/4Jr5XZRa4V3nCl3iLFc6KY) | 2:26 | 2023-07-04 | 2023-10-04 |
@@ -989,6 +991,7 @@
 | [Sente\-me](https://open.spotify.com/track/6ySYTYcp4mryfcZ2LNfnv2) | [Annie Vybz](https://open.spotify.com/artist/77dEdVCqVU3bF0dEMwiEXP) | [Sente\-me](https://open.spotify.com/album/0mam6tVPRKQWkfvv2M8xf5) | 3:24 | 2023-08-01 | 2024-01-10 |
 | [Senti](https://open.spotify.com/track/2rdMvsPxILZUB5AKIor4b7) | [Liliana Almeida](https://open.spotify.com/artist/3MHwsLhLc0J5tbzgFYCNWu) | [Senti](https://open.spotify.com/album/5MurnDIzeg4bHEWxnxXHSJ) | 2:44 | 2024-04-03 | 2024-05-02 |
 | [Sentido](https://open.spotify.com/track/6EFzJTt6mCX3bogw6mlfaa) | [Isabella Bretz](https://open.spotify.com/artist/0MNi6Dw2rsbVIsUiWUGK8s), [Rodrigo Lana](https://open.spotify.com/artist/69wkhPFqXSxmeBL8f6D0Fs), [Katerina L'dokova](https://open.spotify.com/artist/5r5JuV2FowaxIOFXNVjmAl), [Lucas Telles](https://open.spotify.com/artist/5GbIjlY1tT2LGFAvY6QQ8G) | [Sentido](https://open.spotify.com/album/2hH09q8R0X4uRNGilln7pr) | 4:22 | 2022-10-04 | 2022-11-02 |
+| [Sentir Demais](https://open.spotify.com/track/78YlWezaE2pSEAyWwNvepu) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Sentir Demais](https://open.spotify.com/album/26Uss3yiklzIIbjriDr2z8) | 3:18 | 2025-09-02 |  |
 | [Ser Mulher](https://open.spotify.com/track/30oVq7DYscRKPts5ry5CFs) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Ser Mulher](https://open.spotify.com/album/2KEcHj85NXJskjYgYaiBEc) | 3:26 | 2022-07-05 | 2022-10-05 |
 | [Serenata](https://open.spotify.com/track/0iH6ACCaYRPekMHUcHV2uX) | [Cremilda Medina](https://open.spotify.com/artist/7m1dm6eKgspx20jb8RrCEp) | [Serenata](https://open.spotify.com/album/404DplsamthydoxOpTssjZ) | 4:42 | 2023-01-04 | 2023-03-01 |
 | [Será o que Será](https://open.spotify.com/track/13zIXFdZlVUvzVDcdOyUso) | [Joana Espadinha](https://open.spotify.com/artist/2LNs5dvEce3LaEp4nwW16B) | [Será o que Será](https://open.spotify.com/album/7aKu8zZEkGTYXAVI1q9Wyt) | 3:37 | 2023-07-04 | 2024-01-10 |

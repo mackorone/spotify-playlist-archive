@@ -4,7 +4,7 @@
 
 > We introduce exciting artists to you from the Benelux: <a href="spotify:artist:7bfwKXhmR1JF1PiBzaxY2b">néomí</a> \(cover\)
 
-215 songs - 11 hr 33 min
+216 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-11 | 2025-01-10 |
 | [garden](https://open.spotify.com/track/3Y8tSl1kiegVv7GRzwHuI5) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 4:38 | 2025-03-05 | 2025-07-04 |
 | [get older](https://open.spotify.com/track/0Ry8KfNAJIuKQBskXsF0ee) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [not going anywhere](https://open.spotify.com/album/2JJWyPspAEHpWybdHPtFzi) | 2:57 | 2023-09-14 |  |
+| [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 | 2025-09-04 |  |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-02-03 | 2022-03-19 |
 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 | 2024-09-05 | 2025-03-06 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/1S6dAn7JVM7f0TPabCjS3Y) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/2bfob7z1a7651fvK2kCf5a) | 4:23 | 2023-07-20 | 2023-07-26 |

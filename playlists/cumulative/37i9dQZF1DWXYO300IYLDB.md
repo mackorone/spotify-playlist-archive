@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-539 songs - 1 day 8 hr 3 min
+540 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-10-20 |  |
 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 | 2024-01-04 |
 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 | 2024-02-20 | 2024-10-26 |
-| [For Months Now](https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:06 | 2024-02-06 |  |
+| [For Months Now](https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:06 | 2024-02-06 | 2025-09-05 |
 | [For Months Now](https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:06 | 2024-02-15 | 2024-04-19 |
 | [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P) | 4:26 | 2024-11-28 | 2025-07-11 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-08 |  |
@@ -215,7 +215,7 @@
 | [I Told You That I Was Afraid \- Acoustic](https://open.spotify.com/track/2xI0fHshnUbLnKGB66Mc3c) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/album/1hIGg6MAd0unvfdCRpqCVU) | 3:11 | 2023-07-18 | 2023-09-19 |
 | [i wish you cheated \(acoustic\)](https://open.spotify.com/track/2PWe35jhtzmXp2y1862ApF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated \(acoustic\)](https://open.spotify.com/album/5hsssklJGTWScnUf4kSHM2) | 3:13 | 2023-10-17 | 2023-11-17 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-10-20 | 2025-04-04 |
-| [I'm With You](https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I'm With You](https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS) | 2:33 | 2025-01-23 |  |
+| [I'm With You](https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I'm With You](https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS) | 2:33 | 2025-01-23 | 2025-09-05 |
 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 | 2023-06-29 | 2023-10-06 |
 | [If I Was A Painter](https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [All Of This Is Chance](https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE) | 4:07 | 2023-02-09 | 2023-06-30 |
 | [In A Little While \- Demo](https://open.spotify.com/track/1dtuekJQHi8E2KRYiDlH6n) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [In A Little While \(Demo\)](https://open.spotify.com/album/7cXpVPMICPQrdRZQm94VKH) | 4:05 | 2024-01-02 | 2024-02-28 |
@@ -309,6 +309,7 @@
 | [North Marine Drive](https://open.spotify.com/track/1Z6hLIXSRczR1GiEXGcqZt) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [North Marine Drive](https://open.spotify.com/album/4FjsXGxYbYGobkIspixnlw) | 3:30 | 2025-07-10 | 2025-08-12 |
 | [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-10-20 | 2022-12-14 |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2024-01-24 |
+| [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/track/4PC50SVpunelqtTeXUAG41) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [東川亜希子](https://open.spotify.com/artist/26wUFJYN45UPECKEFcocoq) | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/album/5fYd5VD8XTRV9nQenYzmKf) | 3:01 | 2025-09-04 |  |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-09 | 2023-03-22 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-12-13 | 2023-02-10 |
 | [Old Man](https://open.spotify.com/track/56LNNaTpa4fNuduLV6S0zs) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Old Man](https://open.spotify.com/album/7DbA9Ybpa35tJY2Z9RmLGg) | 3:28 | 2022-10-20 | 2022-11-02 |
@@ -494,7 +495,7 @@
 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-13 | 2025-02-07 |
 | [Your House My House](https://open.spotify.com/track/0FBvAV5khV9zgmPm71VjQS) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:17 | 2023-11-14 | 2024-02-28 |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2023-03-14 | 2024-01-03 |
-| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 | 2025-08-25 |
+| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 |  |
 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 | 2024-02-06 | 2024-11-08 |
 | [きみといっしょ](https://open.spotify.com/track/5fEF7RXefUrSj6cHI2RFMX) | [宗藤竜太](https://open.spotify.com/artist/0SbD2ebnqKRmC6FrmC8VHS) | [きみといっしょ](https://open.spotify.com/album/1OhwpPbEkZToBKMzKKasb4) | 3:27 | 2024-02-20 | 2024-03-08 |
 | [さいなら](https://open.spotify.com/track/647oMB0in42klUaC4cDcFI) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [さいなら](https://open.spotify.com/album/6GlJfGrISS0My3OtiunCH7) | 2:39 | 2025-03-20 | 2025-04-04 |

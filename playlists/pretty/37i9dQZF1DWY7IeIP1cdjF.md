@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Blessd, Fuerza Regida, Ovy On The Drums, Bad Bunny, Feid and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,640,129 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,638,670 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

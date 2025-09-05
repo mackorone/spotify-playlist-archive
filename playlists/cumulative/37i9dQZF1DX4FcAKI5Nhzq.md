@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CORTIS\)
 
-1,411 songs - 3 day 3 hr 59 min
+1,412 songs - 3 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -859,6 +859,7 @@
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-15 | 2025-03-14 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-02-18 |
 | [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 | 2024-08-08 | 2024-09-21 |
+| [NO DAY](https://open.spotify.com/track/5BsfZFM6O8Prt7lG1GRkOz) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [NO DAY](https://open.spotify.com/album/4nWtg5GjFNs1e4ThRi00aV) | 3:26 | 2025-09-04 |  |
 | [No diggity](https://open.spotify.com/track/1Ovza9IYvEbdB7SctQCHIS) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [DEVIL](https://open.spotify.com/album/2vapQ5AsHtSVE970EbK9i7) | 3:31 | 2021-01-21 | 2021-03-01 |
 | [No good in good\-bye](https://open.spotify.com/track/7e1awRaixVM0YDoZZs5mC1) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:32 | 2021-11-05 | 2022-01-04 |
 | [No Love](https://open.spotify.com/track/5mMqlFlWJNAApggUOEfYDn) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD LIAR \- The 4th Mini Special Album](https://open.spotify.com/album/0ExK4LxhnukLaSgbmwITmj) | 3:19 | 2020-10-13\* | 2020-11-16 |
@@ -1135,7 +1136,7 @@
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-13 | 2022-10-01 |
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2021-01-18 | 2021-05-05 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-03 | 2022-03-10 |
-| [STEP IT UP](https://open.spotify.com/track/1FCj33CWl1pCJnDZZGpF1y) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [STEP IT UP](https://open.spotify.com/album/3MBiIPA9X5spqqQmnPlDu0) | 2:17 | 2025-07-24 |  |
+| [STEP IT UP](https://open.spotify.com/track/1FCj33CWl1pCJnDZZGpF1y) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [STEP IT UP](https://open.spotify.com/album/3MBiIPA9X5spqqQmnPlDu0) | 2:17 | 2025-07-24 | 2025-09-05 |
 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-09-07 | 2021-12-14 |
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-09-18 | 2021-11-12 |
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-01 | 2024-11-08 |

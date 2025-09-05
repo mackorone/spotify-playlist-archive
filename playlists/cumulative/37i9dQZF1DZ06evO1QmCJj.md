@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 17 min
+104 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Mala Cara](https://open.spotify.com/track/7jzWJgzbodsjOhJ5brR6eu) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:48 | 2024-05-10 | 2024-05-17 |
 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 | 2023-11-10 |  |
 | [Maldición](https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:08 | 2023-11-10 | 2025-07-04 |
-| [Mamisuki](https://open.spotify.com/track/2MOFVVt6fU8xSpG1CVRuia) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mamisuki](https://open.spotify.com/album/5gfbFis0U4PKWI2nQ8AGgY) | 2:12 | 2025-08-09 |  |
+| [Mamisuki](https://open.spotify.com/track/2Br42Z1UoDdGLJNVEdkipn) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 2:12 | 2025-09-05 |  |
+| [Mamisuki](https://open.spotify.com/track/2MOFVVt6fU8xSpG1CVRuia) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mamisuki](https://open.spotify.com/album/5gfbFis0U4PKWI2nQ8AGgY) | 2:12 | 2025-08-09 | 2025-09-05 |
 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 | 2023-11-10 |  |
 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 | 2023-11-10 |  |
 | [MI COLETA](https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 3:07 | 2025-07-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Colombia.",
-  "num_followers": 37526,
+  "num_followers": 37542,
   "original_name": "Top Songs - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MEuvIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "ME0AoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-08-29 15:58:14",
@@ -618,6 +618,10 @@
         {
           "name": "Kris R.",
           "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Prodmonja",
+          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
         }
       ],
       "duration_ms": 252380,

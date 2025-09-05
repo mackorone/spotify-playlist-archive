@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,446 songs - 2 day 11 hr 57 min
+1,448 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [Månen](https://open.spotify.com/track/7Jyj9yjlmCjxH1IwQ0LY0a) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Månen](https://open.spotify.com/album/3ffvtG2m6BrFbkRN7Mo2fs) | 2:38 | 2024-03-14 | 2024-04-19 |
 | [Mössens julafton](https://open.spotify.com/track/6H5zZZvuLHqVCJHfFCbmBz) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [Emma Blyfors](https://open.spotify.com/artist/5V364OVjvwYxKrPKjyrxp3) | [Mössens julafton](https://open.spotify.com/album/4iERReTkBLFBluK2dPXsB3) | 2:00 | 2024-12-12 | 2025-01-03 |
 | [NA NA NA](https://open.spotify.com/track/3ScNpBHn8UO1RVs4hEFuNl) | [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY), [Lisa Eismar](https://open.spotify.com/artist/3F4Op5MNUYPoxC0Y6oGfYp) | [NA NA NA](https://open.spotify.com/album/6laU1TMYZYlyCUSwD9KWTA) | 3:00 | 2021-12-16 | 2022-05-20 |
+| [Nachspiel](https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU) | [Swingklubben](https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Nachspiel](https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE) | 2:37 | 2025-09-04 |  |
 | [Naken](https://open.spotify.com/track/37awLvqxXQidU5IlAXVKtk) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Naken](https://open.spotify.com/album/7Bmi1YeXDDmnJRlsmiWmcm) | 2:48 | 2022-09-29 | 2022-10-28 |
 | [NAKEN PÅ BALKONGEN](https://open.spotify.com/track/4wcyAifN0JvpRB13WgysZF) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [NAKEN PÅ BALKONGEN](https://open.spotify.com/album/3FtBYaMfODBGSxrsoTPxn3) | 2:11 | 2024-06-06 | 2024-07-27 |
 | [NATT TILL DAG](https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [NATT TILL DAG](https://open.spotify.com/album/7DrEhHhsCtyMT3HVKk8vKv) | 2:48 | 2023-07-27 | 2023-09-08 |
@@ -922,6 +923,7 @@
 | [One Time](https://open.spotify.com/track/4RAfngNknMly9wKqXtUA5h) | [Stagne](https://open.spotify.com/artist/3YaykySJU2sEt65yb4mvy8), [Heynegaard](https://open.spotify.com/artist/1bB0uLTQF5SdSf2wkocx9q) | [One Time](https://open.spotify.com/album/4QCTjdXTHmETSyuTJyq9qc) | 2:15 | 2021-12-16 | 2022-05-19 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-04-01 | 2022-08-26 |
 | [Ooa hela natten](https://open.spotify.com/track/2pa73fbZD7ltJ09AB0Teox) | [Attack](https://open.spotify.com/artist/7xDHTY5TFdVXbIt961koTh) | [Rätt stuk](https://open.spotify.com/album/0mCkxwfQqeZw72kKV59TfW) | 4:13 | 2022-08-25 | 2022-11-11 |
+| [Ooa hela natten](https://open.spotify.com/track/1q8kPd4KTI9NeUYU7RLVwG) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Ooa hela natten](https://open.spotify.com/album/3gmk2w7RBuPP9Tj7V8MfBG) | 2:27 | 2025-09-04 |  |
 | [OTROGEN](https://open.spotify.com/track/1acoJNp0YXcfHOQsnfOZ9V) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [OTROGEN](https://open.spotify.com/album/2hJae9cgGcK7CEHDHQAqNE) | 2:07 | 2023-07-13 | 2023-09-08 |
 | [Overload](https://open.spotify.com/track/7BFfobG0V0WN8yqvorXj7y) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Overload](https://open.spotify.com/album/61mlqCWXFehEIMYjXw3b5O) | 2:53 | 2022-06-16 | 2022-07-19 |
 | [PACKAD](https://open.spotify.com/track/0mA2l1eX3NjAbvgTbwCN2z) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [PACKAD](https://open.spotify.com/album/3gulxQThrDvwihZsZHQLOr) | 2:03 | 2024-02-15 | 2024-03-15 |

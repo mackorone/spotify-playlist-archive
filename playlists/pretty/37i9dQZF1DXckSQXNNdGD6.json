@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  Alice Wonder.",
-  "num_followers": 20930,
+  "num_followers": 20959,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
+        "name": "Mocatriz",
+        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 237228,
+      "name": "Mocatriz",
+      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 182373,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
-        "name": "Mocatriz",
-        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 237228,
-      "name": "Mocatriz",
-      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "Lunytunes",
-        "url": "https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v"
-      },
-      "artists": [
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        }
-      ],
-      "duration_ms": 155749,
-      "name": "Lunytunes",
-      "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "Top Hits, Ballads, etc...",
         "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 125106,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
+        "name": "Lunytunes",
+        "url": "https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v"
+      },
+      "artists": [
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "duration_ms": 155749,
+      "name": "Lunytunes",
+      "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "Cuando acabe el verano",
         "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 167928,
       "name": "Cuando acabe el verano",
       "url": "https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "MADRE",
-        "url": "https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy"
-      },
-      "artists": [
-        {
-          "name": "DeTeresa",
-          "url": "https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "MADRE",
-      "url": "https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "Dec\u00edrtelo",
         "url": "https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
+        "name": "MADRE",
+        "url": "https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy"
+      },
+      "artists": [
+        {
+          "name": "DeTeresa",
+          "url": "https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "MADRE",
+      "url": "https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
         "name": "TANTO POR HACER",
         "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "si nunca encuentro el amor",
-        "url": "https://open.spotify.com/album/1qUFBB5jVqv1iG1erTf7JI"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "si nunca encuentro el amor",
-      "url": "https://open.spotify.com/track/24eUFdj06jCU2dtUG2Cimx"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "qu\u00e9 bonito fue",
         "url": "https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 158537,
       "name": "qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
+        "name": "si nunca encuentro el amor",
+        "url": "https://open.spotify.com/album/1qUFBB5jVqv1iG1erTf7JI"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "si nunca encuentro el amor",
+      "url": "https://open.spotify.com/track/24eUFdj06jCU2dtUG2Cimx"
     },
     {
       "added_at": "2025-09-02 22:00:28",

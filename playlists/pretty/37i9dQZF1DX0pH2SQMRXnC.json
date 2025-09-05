@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1470487,
+  "num_followers": 1470960,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,30 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "FCK DAT!",
         "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 138000,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
-        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Leila K",
-          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
-      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "DON'T SLEEP",
         "url": "https://open.spotify.com/album/1d5RbutxubP725Rv34RP9X"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 116250,
       "name": "DON'T SLEEP",
       "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "Anadrol",
+        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "duration_ms": 139947,
+      "name": "Anadrol",
+      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "LEFT - RIGHT",
         "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 97680,
       "name": "LEFT - RIGHT",
       "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "Anadrol",
-        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
-      },
-      "artists": [
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        }
-      ],
-      "duration_ms": 139947,
-      "name": "Anadrol",
-      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 182852,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 216937,
       "name": "Everytime We Touch - Sound Rush Remix",
       "url": "https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1BiyT5wfHDKjgY4FNyllvS"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "Lose My Mind (Sub Zero Project Remix)",
         "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1BiyT5wfHDKjgY4FNyllvS"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "Weisse Nase",
         "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "Activation",
         "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
       },
@@ -1355,26 +1339,6 @@
       "duration_ms": 175874,
       "name": "Activation",
       "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        }
-      ],
-      "duration_ms": 242345,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -1403,6 +1367,22 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "Waste Your Youth",
         "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 164000,
       "name": "Waste Your Youth",
       "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Behind Enemy Lines",
-        "url": "https://open.spotify.com/album/3nYoZaPC9rUpuagx0JqSXz"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Behind Enemy Lines",
-      "url": "https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "FEELIN' HIGH",
         "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 211317,
       "name": "Voices",
       "url": "https://open.spotify.com/track/0HJ2kATf1sI79sLu4FNxd2"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "Behind Enemy Lines",
+        "url": "https://open.spotify.com/album/3nYoZaPC9rUpuagx0JqSXz"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Behind Enemy Lines",
+      "url": "https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -1743,6 +1743,30 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "YEAHBOIII",
+        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "YEAHBOIII",
+      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "Renaissance Of Rave",
         "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
       },
@@ -1755,22 +1779,6 @@
       "duration_ms": 182168,
       "name": "Trip To Mars (Astronauts)",
       "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -1815,26 +1823,18 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "YEAHBOIII",
-        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
       },
       "artists": [
         {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 204000,
-      "name": "YEAHBOIII",
-      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -1919,42 +1919,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        },
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "DAS IST KEIN TECHNO",
-        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "DAS IST KEIN TECHNO",
-      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1975,6 +1939,42 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "DAS IST KEIN TECHNO",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "DAS IST KEIN TECHNO",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2039,38 +2039,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "LASER",
-        "url": "https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 188885,
-      "name": "LASER",
-      "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "I LIKE THE NOISE VOL.1",
-        "url": "https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
-      "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "2 Be High",
         "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
       },
@@ -2087,26 +2055,6 @@
       "duration_ms": 253714,
       "name": "2 Be High",
       "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "FACE 2 FACE",
-        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "FACE 2 FACE",
-      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2131,6 +2079,58 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "I LIKE THE NOISE VOL.1",
+        "url": "https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
+      "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "FACE 2 FACE",
+        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "FACE 2 FACE",
+      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "LASER",
+        "url": "https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 188885,
+      "name": "LASER",
+      "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "You Made It",
-        "url": "https://open.spotify.com/album/39payfuEKg7ezKcE9CW6Yv"
-      },
-      "artists": [
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        }
-      ],
-      "duration_ms": 193521,
-      "name": "You Made It",
-      "url": "https://open.spotify.com/track/7DwyToaOKbMfiDUIKeY6sI"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/62ES2BliQ2zIPbEJxLJ7m4"
       },
@@ -2543,26 +2527,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Blow Up The Speakers (Again)",
-        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
-      },
-      "artists": [
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        },
-        {
-          "name": "The Moon",
-          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
-        }
-      ],
-      "duration_ms": 208657,
-      "name": "Blow Up The Speakers (Again)",
-      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "Oh Fortuna",
         "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
       },
@@ -2587,6 +2551,26 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "Blow Up The Speakers (Again)",
+        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        },
+        {
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
+        }
+      ],
+      "duration_ms": 208657,
+      "name": "Blow Up The Speakers (Again)",
+      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "You Made It",
+        "url": "https://open.spotify.com/album/39payfuEKg7ezKcE9CW6Yv"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "duration_ms": 193521,
+      "name": "You Made It",
+      "url": "https://open.spotify.com/track/7DwyToaOKbMfiDUIKeY6sI"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2639,26 +2639,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Cambodia",
-        "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        },
-        {
-          "name": "Regi",
-          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
-        }
-      ],
-      "duration_ms": 158940,
-      "name": "Cambodia",
-      "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -2675,6 +2655,26 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "Cambodia",
+        "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        },
+        {
+          "name": "Regi",
+          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
+        }
+      ],
+      "duration_ms": 158940,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2791,6 +2791,22 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
         "name": "Broken Dreams",
         "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
@@ -2807,22 +2823,6 @@
       "duration_ms": 222631,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2847,26 +2847,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Pirates",
-        "url": "https://open.spotify.com/album/4oTskP5dIwKiWXj1E9tCLM"
-      },
-      "artists": [
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        },
-        {
-          "name": "Bmberjck",
-          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
-        }
-      ],
-      "duration_ms": 178875,
-      "name": "Pirates",
-      "url": "https://open.spotify.com/track/2EjvWicbybvDByZkKOzbZk"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "HEAR THE NOISE",
         "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
@@ -2883,6 +2863,26 @@
       "duration_ms": 166988,
       "name": "HEAR THE NOISE",
       "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "Pirates",
+        "url": "https://open.spotify.com/album/4oTskP5dIwKiWXj1E9tCLM"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        },
+        {
+          "name": "Bmberjck",
+          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
+        }
+      ],
+      "duration_ms": 178875,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/2EjvWicbybvDByZkKOzbZk"
     },
     {
       "added_at": "2025-09-01 11:58:07",
@@ -2951,30 +2951,6 @@
     {
       "added_at": "2025-09-01 11:58:07",
       "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/59y5puJ5lKe23mXOGd5AbC"
-      },
-      "artists": [
-        {
-          "name": "Adjuzt",
-          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        },
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
-    },
-    {
-      "added_at": "2025-09-01 11:58:07",
-      "album": {
         "name": "Big City Life (BassWar & CaoX Remix)",
         "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
       },
@@ -2995,6 +2971,30 @@
       "duration_ms": 211764,
       "name": "Big City Life - BassWar & CaoX Remix",
       "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
+    },
+    {
+      "added_at": "2025-09-01 11:58:07",
+      "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/59y5puJ5lKe23mXOGd5AbC"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
     },
     {
       "added_at": "2025-09-01 11:58:07",

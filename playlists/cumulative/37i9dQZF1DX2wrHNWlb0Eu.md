@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-216 songs - 13 hr 15 min
+217 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2023-02-10 | 2024-11-25 |
 | [FOLLOWERS](https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แพ้ทุกที \(LOOPER\), FOLLOWERS](https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA) | 3:14 | 2024-12-31 |  |
 | [Hidden Track](https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : THE 1ST MINI ALBUM “THE ELEMENTS”](https://open.spotify.com/album/2PFKJTwY7Zqh2uTl5ZkDKz) | 4:04 | 2023-02-10 | 2023-10-07 |
+| [Hidden Track](https://open.spotify.com/track/5Kh1HU6V2jL3CZeMW3IDtW) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : THE 1ST MINI ALBUM “THE ELEMENTS”](https://open.spotify.com/album/3Pp9PZWGnJTcf5jmivBbjy) | 4:04 | 2025-08-17 |  |
 | [Honeymoon](https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8) | [Honeymoon](https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9) | 2:48 | 2024-01-09 | 2025-03-22 |
 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 | 2023-10-06 | 2023-11-28 |
 | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP) | 3:48 | 2023-02-10 | 2024-07-16 |
@@ -93,7 +94,7 @@
 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 | 2023-02-10 |  |
 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 | 2023-02-10 |  |
 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 | 2023-06-09 |  |
-| [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 | 2023-02-21 |  |
+| [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 | 2023-02-21 | 2025-09-05 |
 | [ทำไมต้องคนนี้?](https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee) | 2:50 | 2023-02-10 | 2024-04-19 |
 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 | 2023-02-10 | 2025-02-27 |
 | [นะครับ \(ได้ไหม\) \- Acoustic Version](https://open.spotify.com/track/51GuxG7BsdZ0MRR3CgbhFp) | [spsalola](https://open.spotify.com/artist/0KLp5ppsZerGbWrWnO7lXG) | [นะครับ \(ได้ไหม\) \[Acoustic Version\]](https://open.spotify.com/album/1i0J3VWxDAqpCaZcf5PJoM) | 4:09 | 2023-02-10 | 2024-05-21 |

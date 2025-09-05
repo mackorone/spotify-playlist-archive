@@ -1,18 +1,18 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18148,
+  "num_followers": 18152,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACVVAz/vpZwrpG3Q4O7/reA",
+  "snapshot_id": "aLeFAAAAAADaKJ3z0MgjSKMqGPo5cHh3",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 183242,
       "name": "All My Friends Are Nobodies",
-      "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
+      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "Lobotomy For Dummies",
+      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 200293,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "Lobotomy For Dummies",
-      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Nice!",
-        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 225340,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
+      "duration_ms": 192510,
+      "name": "Chasing the Sun",
+      "url": "https://open.spotify.com/track/6Wmhm5sTC0fpIBCvVH2uQF"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+        "name": "Get Nice!",
+        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 239505,
-      "name": "The Juggernauts",
-      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
+      "duration_ms": 225340,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
       "artists": [
         {
@@ -408,25 +408,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 192510,
-      "name": "Chasing the Sun",
-      "url": "https://open.spotify.com/track/6Wmhm5sTC0fpIBCvVH2uQF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
       "duration_ms": 191066,
       "name": "Into You",
       "url": "https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 135693,
       "name": "Alone",
       "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 193925,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 165640,
       "name": "Over the Edge",
       "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 193925,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waste Of Mind",
-        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doomsday on the Radio",
         "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+        "name": "Waste Of Mind",
+        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Save Your Breath",
-      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
+      "duration_ms": 211760,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 176344,
       "name": "I Have Mixed Drinks About Feelings",
       "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
     },
     {
       "added_at": null,

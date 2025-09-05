@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists from Africa. Cover:  Thakzin and FOLA",
+  "description": "Discover your new favourite artists from Africa. Cover:  FOLA",
   "name": "RADAR Africa ",
   "tracks": [
     {
@@ -1887,6 +1887,28 @@
     },
     {
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq"
+      },
+      "artists": [
+        {
+          "name": "Ozedikus",
+          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd"
+    },
+    {
+      "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
@@ -3667,6 +3689,28 @@
     },
     {
       "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+    },
+    {
+      "album": {
         "name": "Gone Back",
         "url": "https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo"
       },
@@ -3978,7 +4022,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 336657,
       "name": "Horns In The Sun (feat. Mo-T, Brenden Praise & M\u00f6rda) [Thakzin Remix]",
       "url": "https://open.spotify.com/track/3LfXImvXHkHzz0qqdFAol4"
@@ -5718,7 +5762,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 205949,
       "name": "Mad World - Spotify Singles",
       "url": "https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN"

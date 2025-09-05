@@ -4,7 +4,7 @@
 
 > New music from Yeat, Eminem and Key Glock.
 
-2,490 songs - 5 day 9 hr 8 min
+2,491 songs - 5 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1261,6 +1261,7 @@
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-12-15 | 2022-12-17 |
 | [Love Thru The Computer \(feat\. Justin Bieber\)](https://open.spotify.com/track/1VsqQEYObJsOPaeZwEXRPg) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Love Thru The Computer \(feat\. Justin Bieber\)](https://open.spotify.com/album/3c7u2IGWbZHoYA0nDWz9db) | 2:53 | 2019-05-31 | 2019-06-07 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-10 | 2024-03-30 |
+| [Lovin' It \(feat\. Joe Scudda\)](https://open.spotify.com/track/6piDHcH0vdPWzIg2uU2q3K) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [The Minstrel Show \(Explicit Version\)](https://open.spotify.com/album/4sk7zSzYdcIetF6t6vO8Rx) | 3:51 | 2025-09-04 |  |
 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 | 2023-04-07 | 2023-05-06 |
 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 | 2021-06-18 | 2021-06-26 |
 | [Lurkin \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/777evZve3OzCbGOVaVAGiU) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Lurkin \(feat\. Polo G\) \(Remix\)](https://open.spotify.com/album/1aEluL4QV9hP3smy9LdHHx) | 2:28 | 2021-07-17 | 2021-07-24 |

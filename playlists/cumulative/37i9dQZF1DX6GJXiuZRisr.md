@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-614 songs - 1 day 18 hr 32 min
+615 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ashes](https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Ashes](https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ) | 3:42 | 2021-05-07 | 2022-10-21 |
 | [Atlas \- Shall Ocin & Artbat Remix](https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Atlas \(Shall Ocin & Artbat Remix\)](https://open.spotify.com/album/2wonCAxmz7xKzCa5I5TlnA) | 6:20 | 2022-09-30 | 2023-02-12 |
 | [Audio](https://open.spotify.com/track/5bHV6UowNC1YVu8LYDkUjU) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Liam Hathaway](https://open.spotify.com/artist/49rrb310BsQ2pFHGm2rdZX) | [Illusion of Perfection](https://open.spotify.com/album/26medpL8stPGWfE0xRuJT2) | 6:08 | 2021-05-07 | 2022-04-21 |
+| [Audio Machina](https://open.spotify.com/track/1RmEvAkXPrasJZnTUKpzMJ) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Audio Machina](https://open.spotify.com/album/2sB9V3w4Lvj2bZBKBybSyJ) | 3:12 | 2025-08-29 |  |
 | [Aura](https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [U](https://open.spotify.com/album/01iKVCYJMpU65vZRIAQWu7) | 8:41 | 2021-05-07 | 2023-02-04 |
 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 | 2021-08-27 | 2022-07-24 |
 | [Be Strong](https://open.spotify.com/track/1rJCBWYDCZNIhk5eeDR4hg) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Be Strong](https://open.spotify.com/album/4ckg7FuJZLZqNgxNuZP4g5) | 3:59 | 2025-07-18 |  |
@@ -387,7 +388,7 @@
 | [One More Thing](https://open.spotify.com/track/0Mk1NKKRRpR4ZWRHJOmKu3) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Sara Davis](https://open.spotify.com/artist/2XYDrXOdwhRiGSgo8NWKFW) | [One More Thing](https://open.spotify.com/album/1GWjugkKrXYklmMaDpoWD7) | 3:30 | 2025-03-28 |  |
 | [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 | 2024-05-24 |  |
 | [Only For The Night](https://open.spotify.com/track/1UaBt4vluuMX0prcp6et4E) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Only For The Night](https://open.spotify.com/album/1Tb49CVypOagsQZqGsQHxz) | 3:04 | 2023-01-20 | 2023-02-18 |
-| [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-01 |  |
+| [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-01 | 2025-09-05 |
 | [Only Love \(LP Giobbi Remix\)](https://open.spotify.com/track/2cXbrpn30LnJyjO0BaO6rs) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Only Love \(LP Giobbi Remix\)](https://open.spotify.com/album/45T3b0b3GdAGrg0AKVCUFB) | 5:51 | 2021-11-05 | 2022-07-29 |
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-07-22 | 2024-04-13 |
 | [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 | 2021-05-07 | 2024-04-06 |

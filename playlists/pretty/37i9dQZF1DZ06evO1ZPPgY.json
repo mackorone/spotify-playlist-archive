@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 229638,
+  "num_followers": 229656,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABnHA24tAZH8/45p8qj3v84",
+  "snapshot_id": "aLeFAAAAAACLPELG57GXKlofl6ltoEnA",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wildest Dreams (Expanded Version)",
+        "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
+      "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back On The Block",
         "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 401066,
       "name": "The Secret Garden (Sweet Seduction Suite)",
       "url": "https://open.spotify.com/track/3PZW66625MiyEmZaat7tce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wildest Dreams (Expanded Version)",
-        "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
-      "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
     },
     {
       "added_at": null,

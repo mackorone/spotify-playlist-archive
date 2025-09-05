@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44991,
+  "num_followers": 45001,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADDfqB8o5o1SXhP9mgjRRz6",
+  "snapshot_id": "aLeFAAAAAAAtZw3MhKuR8n9NVtvClOTG",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 274146,
-      "name": "When You Cross Over",
-      "url": "https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 174120,
       "name": "Doylestown Girl",
       "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 274146,
+      "name": "When You Cross Over",
+      "url": "https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y"
     },
     {
       "added_at": null,

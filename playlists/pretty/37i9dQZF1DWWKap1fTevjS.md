@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,330 likes - 265 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,426 likes - 265 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 264 | [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 |
 | 265 | [Twine](https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Twine](https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX) | 3:05 |
 
-Snapshot ID: `AAAAAJ6wMMufypVdWi8clx5/2NN/1Wha`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

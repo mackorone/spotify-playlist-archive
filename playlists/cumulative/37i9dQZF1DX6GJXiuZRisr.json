@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Audio Machina",
+        "url": "https://open.spotify.com/album/2sB9V3w4Lvj2bZBKBybSyJ"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Audio Machina",
+      "url": "https://open.spotify.com/track/1RmEvAkXPrasJZnTUKpzMJ"
+    },
+    {
+      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/01iKVCYJMpU65vZRIAQWu7"
       },
@@ -8062,7 +8080,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 228028,
       "name": "Only I",
       "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"

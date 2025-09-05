@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: L\u00e9a Mendon\u00e7a, Nath\u00e1lia Braga",
-  "num_followers": 184497,
+  "num_followers": 184580,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 298143,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "Volte a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 395864,
       "name": "Volte a Orar - Ao Vivo",
       "url": "https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 298143,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Foi o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 412703,
-      "name": "Foi o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Foi o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 412703,
+      "name": "Foi o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Eu Prefiro Adorar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Tempo de Espera",
-        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
       },
       "artists": [
-        {
-          "name": "Ketelyn Amanda",
-          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
-        },
         {
           "name": "Sued Silva",
           "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Tempo de Espera",
-      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -607,6 +587,26 @@
       "duration_ms": 487456,
       "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
       "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Tempo de Espera",
+        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
+      },
+      "artists": [
+        {
+          "name": "Ketelyn Amanda",
+          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Tempo de Espera",
+      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Poder da Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3G1fEpSTuDrFITxPst8CB5"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 334175,
-      "name": "Poder da Adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ePUwilvbEoHaNlpuSi3P2"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Como N\u00e3o Te Adorar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3"
       },
@@ -975,6 +955,26 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Poder da Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3G1fEpSTuDrFITxPst8CB5"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 334175,
+      "name": "Poder da Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ePUwilvbEoHaNlpuSi3P2"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "Existe Um Deus",
         "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 282000,
       "name": "Existe Um Deus",
       "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Passar pela Moenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 321728,
-      "name": "Passar pela Moenda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1035,6 +1019,22 @@
       "duration_ms": 383466,
       "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
       "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Passar pela Moenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 321728,
+      "name": "Passar pela Moenda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Minha Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Minha Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -1227,6 +1211,42 @@
       "duration_ms": 294475,
       "name": "Profetiza",
       "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Minha Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Minha Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Prioridade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 255663,
+      "name": "Prioridade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1335,26 +1355,6 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Prioridade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 255663,
-      "name": "Prioridade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE"
     },
     {
       "added_at": "2025-08-29 03:01:05",

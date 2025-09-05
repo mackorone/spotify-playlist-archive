@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 猫は液体
 
-1,330 songs - 3 day 8 hr 15 min
+1,331 songs - 3 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [kirakirayou](https://open.spotify.com/track/1r6QqsG9RXtpemNUt7DY5R) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [kirakirayou](https://open.spotify.com/album/384GpFtH2AIVEienGR2CgF) | 3:08 | 2023-09-20 | 2023-09-27 |
 | [kit!](https://open.spotify.com/track/1o2bK85qJSopkUmPIq5B6T) | [Epifunnies](https://open.spotify.com/artist/740qWJg44PuvjiyaO5mhKA) | [kit!](https://open.spotify.com/album/1j2THTUy1e3Lnik0K8HGY5) | 5:33 | 2024-12-24 | 2025-01-12 |
 | [Kogare](https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:49 | 2024-01-31 | 2024-03-06 |
+| [KOI WAZURAI](https://open.spotify.com/track/1x5f61eJAYCWNJcynLCU0o) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [KOI WAZURAI](https://open.spotify.com/album/6XD1Q5w7vJnLQG526fK3Iz) | 3:17 | 2025-09-02 |  |
 | [Koiwamoumoku](https://open.spotify.com/track/01cPDnLoiWyCl0Sj9G5xjd) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Koiwamoumoku](https://open.spotify.com/album/14Ef8OVGMVRFNsBdeCmRxi) | 3:29 | 2024-01-23 | 2024-02-21 |
 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 | 2023-11-14 | 2023-12-20 |
 | [Kokkisin](https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Kokkisin](https://open.spotify.com/album/5cf61jQY5LOLwPpEPXgepe) | 3:06 | 2023-09-26 | 2023-10-17 |
@@ -752,7 +753,7 @@
 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2024-04-16 | 2024-12-18 |
 | [ゴールドマーチ](https://open.spotify.com/track/6nxpuybKnutwSXt8XhOTgt) | [プッシュプルポット](https://open.spotify.com/artist/1yMQBPXyIRvB9yiBaF5tJh) | [ゴールドマーチ](https://open.spotify.com/album/4QHiwuWyqg02OdzEERkFbM) | 2:37 | 2024-04-02 | 2024-05-01 |
 | [サイダー](https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [サイダー](https://open.spotify.com/album/0GM5iHC2vIGJ5lLT9aweY1) | 3:46 | 2023-07-27 | 2023-08-11 |
-| [サウンドトラック](https://open.spotify.com/track/4iasjFfC4fmzlHAlKRVoY3) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [サウンドトラック](https://open.spotify.com/album/0gk419c6CVFGcHPnSOmmOE) | 3:52 | 2025-06-03 |  |
+| [サウンドトラック](https://open.spotify.com/track/4iasjFfC4fmzlHAlKRVoY3) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [サウンドトラック](https://open.spotify.com/album/0gk419c6CVFGcHPnSOmmOE) | 3:52 | 2025-06-03 | 2025-09-05 |
 | [サクラダンス \- Kedarui ver.](https://open.spotify.com/track/3vg1vM6L1yfviuPC4M5Fnv) | [Kedarui](https://open.spotify.com/artist/7gHZpr2PBTuIMu3zf3KAiO) | [サクラダンス \(Kedarui ver.\)](https://open.spotify.com/album/74yz8wxo4kM9J7jgEx6q9J) | 3:52 | 2025-04-08 | 2025-04-16 |
 | [サマーエンズ](https://open.spotify.com/track/6NwOOCA6AKgFZt3pE5tIx1) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [Summer days](https://open.spotify.com/album/1yMv7V5IDYAVL6mVUeEIMS) | 3:48 | 2025-08-05 | 2025-08-13 |
 | [サラダボウル](https://open.spotify.com/track/4QHnIlkaPHu6vC0EbeLwtk) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [サラダボウル](https://open.spotify.com/album/42l75d6XCba07pKpFgyS3U) | 3:30 | 2024-09-17 | 2025-01-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 872438,
+  "num_followers": 872591,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
-      },
-      "artists": [
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "added_at": "2025-09-01 11:02:09",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
+        "name": "Ra Ma Da Sa Sa Say So Hung",
+        "url": "https://open.spotify.com/album/3wqKocxQkTgARJ4ORNdElH"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Ra Ma Da Sa Sa Say So Hung",
+      "url": "https://open.spotify.com/track/7glkw5pG5K8xS0xgaCVVPf"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
         "name": "Sentimental (Sombras)",
         "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 213442,
       "name": "Sentimental - Sombras",
       "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
-        "name": "Ra Ma Da Sa Sa Say So Hung",
-        "url": "https://open.spotify.com/album/3wqKocxQkTgARJ4ORNdElH"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Ra Ma Da Sa Sa Say So Hung",
-      "url": "https://open.spotify.com/track/7glkw5pG5K8xS0xgaCVVPf"
     },
     {
       "added_at": "2025-09-01 11:02:09",
@@ -723,30 +723,6 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5"
-      },
-      "artists": [
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        },
-        {
-          "name": "Eli Fola",
-          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
-        },
-        {
-          "name": "BL SUEDE",
-          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 290969,
       "name": "Objetos enterrados",
       "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "Eli Fola",
+          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
+        },
+        {
+          "name": "BL SUEDE",
+          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj"
     },
     {
       "added_at": "2025-09-01 11:02:09",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "Dennis Louvra",
+          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
         "name": "Mewo Fie",
         "url": "https://open.spotify.com/album/1pi1UPs8SNwOENkI7AVqhe"
       },
@@ -1091,42 +1111,6 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "Dennis Louvra",
-          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
         "name": "Nuabi",
         "url": "https://open.spotify.com/album/2LTFRCCHrAuJwGC4ZmbO2Y"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 426780,
       "name": "Nuabi",
       "url": "https://open.spotify.com/track/0jTImpSqZSeNjwogeh8tyo"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2025-09-01 11:02:09",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
         "name": "Chaak",
         "url": "https://open.spotify.com/album/0vY8kHv6gujFCWyUCnQ1Eq"
       },
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2025-09-01 11:02:09",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2025-09-01 11:02:09",
-      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 342853,
       "name": "Karanfilce Devojce - PACHIRA Remix",
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+    },
+    {
+      "added_at": "2025-09-01 11:02:09",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2025-09-01 11:02:09",

@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-354 songs - 18 hr 11 min
+355 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2 Phút Hơn \- KAIZ Remix](https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [KAIZ](https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj) | [2 Phút Hơn \(KAIZ Remix\)](https://open.spotify.com/album/1V8qSPtmixwUiyLheEazuc) | 3:03 | 2021-12-03 | 2022-04-19 |
 | [3 Strikes \(Terror's Version\)](https://open.spotify.com/track/4pUznRdmMgxkFfU8Std5W6) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [3 Strikes \(Terror's Version\)](https://open.spotify.com/album/3hPBz2bG48hgGmENQgSiP1) | 2:19 | 2024-03-15 | 2024-04-09 |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-07-12 | 2025-03-10 |
-| [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-04-19 |  |
+| [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-04-19 | 2025-09-05 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-12-03 | 2022-07-29 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2021-12-03 | 2024-04-19 |
 | [Ain't No Way 2024](https://open.spotify.com/track/4R2lfQVqaPgvqt3gwMcj6I) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [The Riddler](https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l) | [Ain't No Way 2024](https://open.spotify.com/album/0hnWRdRsayfrvFEKurtWJD) | 2:58 | 2024-01-12 | 2024-03-16 |
@@ -69,6 +69,7 @@
 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 | 2022-02-10 | 2022-07-23 |
 | [Come Check This](https://open.spotify.com/track/3ImnbJHoSy5uUhC0ydBVI9) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Come Check This](https://open.spotify.com/album/6YnEvQjRcWyAAxm7dXNEfs) | 3:11 | 2024-02-23 | 2024-06-22 |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-01-08 | 2022-07-29 |
+| [Confess Your Love](https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO) | 2:11 | 2025-08-29 |  |
 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2025-06-20 | 2025-07-16 |
 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2023-02-06 | 2024-06-01 |
 | [COUNTRY RIDDIM VIP](https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM VIP](https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV) | 2:57 | 2023-12-01 | 2023-12-30 |

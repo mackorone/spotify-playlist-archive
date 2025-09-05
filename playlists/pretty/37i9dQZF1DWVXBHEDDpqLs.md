@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 ### [Club Culture](https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs)
 
-> the best cuts from the underground 💎 💎 at the heart of club culture
+> the best cuts from the underground 💎 featuring QRTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,028 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,078 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

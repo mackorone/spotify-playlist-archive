@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,253 likes - 73 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,258 likes - 73 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 23 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 24 | [flashes](https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [flashes](https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h) | 3:05 |
 | 25 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
-| 26 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 27 | [6 DE FEBRERO](https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:55 |
+| 26 | [6 DE FEBRERO](https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:55 |
+| 27 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 28 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 |
 | 29 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 | 30 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 |
@@ -65,21 +65,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 55 | [Azrael](https://open.spotify.com/track/2xeNudarMjWk0szAYH7TQ8) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Trialog](https://open.spotify.com/album/25aj5x75VPuZ9NWz36ZT6v) | 7:34 |
 | 56 | [Sunvibes](https://open.spotify.com/track/5YLlLZJ8FXgssCMk5yftbS) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [Sunvibes](https://open.spotify.com/album/0tNVAYD5RBKmGo6cqHZTet) | 1:34 |
 | 57 | [Retrato & Son](https://open.spotify.com/track/4XQhhsiPQsnxLFHAWOXbZY) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Retrato & Son](https://open.spotify.com/album/6CqdWdsbdpe3Gba32qH9YM) | 3:01 |
-| 58 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
-| 59 | [El Túnel](https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Dios y La Mata de Lulo o ¿Qué hacer en caso de que haya perdido la luz?](https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A) | 3:57 |
-| 60 | [TEKETEKE](https://open.spotify.com/track/57DVPc2raEhdYqNmEHuClm) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 5:49 |
-| 61 | [La Oportunidad](https://open.spotify.com/track/1govqZeydQtqqJm1SLpX8l) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [La Oportunidad](https://open.spotify.com/album/0mkhgGt2bmsJta8uQ5WbMs) | 2:54 |
-| 62 | [NA ONDA DA BABYLON](https://open.spotify.com/track/7sdJOe7VarBOwUQOe11ulz) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [NA ONDA DA BABYLON](https://open.spotify.com/album/0LPBWWdLpEEMkkcZNEuLnE) | 2:31 |
-| 63 | [To\-k \- Radio Edit](https://open.spotify.com/track/01nmmlfOsNn7yNlk0FQarF) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [The Guetto \(Radio Edits\)](https://open.spotify.com/album/4jIc1KJaBOdIKNGPMH84Fr) | 1:47 |
-| 64 | [TV](https://open.spotify.com/track/4hus902o8ejJ2cEz60CEky) | [Entreco](https://open.spotify.com/artist/2EKPkGtwjq8mnpTHOr2NfT) | [T.V](https://open.spotify.com/album/38P7PZHv0YUOLcBgBR33QI) | 3:30 |
-| 65 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
-| 66 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
-| 67 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
+| 58 | [El Túnel](https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Dios y La Mata de Lulo o ¿Qué hacer en caso de que haya perdido la luz?](https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A) | 3:57 |
+| 59 | [TEKETEKE](https://open.spotify.com/track/57DVPc2raEhdYqNmEHuClm) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 5:49 |
+| 60 | [La Oportunidad](https://open.spotify.com/track/1govqZeydQtqqJm1SLpX8l) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [La Oportunidad](https://open.spotify.com/album/0mkhgGt2bmsJta8uQ5WbMs) | 2:54 |
+| 61 | [NA ONDA DA BABYLON](https://open.spotify.com/track/7sdJOe7VarBOwUQOe11ulz) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [NA ONDA DA BABYLON](https://open.spotify.com/album/0LPBWWdLpEEMkkcZNEuLnE) | 2:31 |
+| 62 | [To\-k \- Radio Edit](https://open.spotify.com/track/01nmmlfOsNn7yNlk0FQarF) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [The Guetto \(Radio Edits\)](https://open.spotify.com/album/4jIc1KJaBOdIKNGPMH84Fr) | 1:47 |
+| 63 | [TV](https://open.spotify.com/track/4hus902o8ejJ2cEz60CEky) | [Entreco](https://open.spotify.com/artist/2EKPkGtwjq8mnpTHOr2NfT) | [T.V](https://open.spotify.com/album/38P7PZHv0YUOLcBgBR33QI) | 3:30 |
+| 64 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
+| 65 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
+| 66 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
+| 67 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
 | 68 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
 | 69 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
-| 70 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
-| 71 | [Ay de Mí](https://open.spotify.com/track/65bu8UhDJamcrDNaqOFri1) | [Zarigüeya](https://open.spotify.com/artist/0ez7ZBFnBaAeiKeimAyZtl) | [Verso Marsupial](https://open.spotify.com/album/7f4kK0Lk82lhEC6bp02Mmj) | 2:47 |
+| 70 | [Ay de Mí](https://open.spotify.com/track/65bu8UhDJamcrDNaqOFri1) | [Zarigüeya](https://open.spotify.com/artist/0ez7ZBFnBaAeiKeimAyZtl) | [Verso Marsupial](https://open.spotify.com/album/7f4kK0Lk82lhEC6bp02Mmj) | 2:47 |
+| 71 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
 | 72 | [fuga](https://open.spotify.com/track/0LKqLPLiE8ZdSy5k3IJW33) | [innexen](https://open.spotify.com/artist/4ifKGift7hUW8xG85qZjwK) | [hot steel: round 3](https://open.spotify.com/album/1K2ox3o0sOrs4SIzyKQ3XS) | 5:49 |
 | 73 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
 
-Snapshot ID: `AAAAADWKSXscXmAocMHyNkybIkNP7kKL`
+Snapshot ID: `AAAAANh43zhN8VEW8P/ZUwjq5yqTWoNe`

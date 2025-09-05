@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 886748,
+  "num_followers": 886892,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAB6uBH0bJi5gyU7gjkNn19k",
+  "snapshot_id": "aLeFAAAAAABPSZpcCgFONLq9thasOnbl",
   "tracks": [
     {
       "added_at": null,
@@ -783,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "Beyond (feat. Luke Combs) [Live]",
+        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
       },
       "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 210920,
-      "name": "Beer Can",
-      "url": "https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8"
+      "duration_ms": 246946,
+      "name": "Beyond (feat. Luke Combs) - Live",
+      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
     },
     {
       "added_at": null,
@@ -835,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond (feat. Luke Combs) [Live]",
-        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 246946,
-      "name": "Beyond (feat. Luke Combs) - Live",
-      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
+      "duration_ms": 210920,
+      "name": "Beer Can",
+      "url": "https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8"
     },
     {
       "added_at": null,

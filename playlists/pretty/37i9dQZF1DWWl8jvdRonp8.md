@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,785 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,866 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 118 | [Entre Tu Y Yo](https://open.spotify.com/track/65JGuD8F150BaaF6j5LKVo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 4:40 |
 | 119 | [Para Que Seas Feliz](https://open.spotify.com/track/67v0HTNTkJmbhxOipBunXe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:49 |
 | 120 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
-| 121 | [Así Como Te Conocí](https://open.spotify.com/track/6xQGFNUwaPUsdIfmmzzRcr) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:19 |
-| 122 | [Si Te Pudiera Mentir](https://open.spotify.com/track/7ILswjhqdnwT4MiKBZH4yS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:21 |
-| 123 | [Recuerdos, Tristeza Y Soledad](https://open.spotify.com/track/2KFmDh82VngNDLjk5HUMVu) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:25 |
+| 121 | [Si Te Pudiera Mentir](https://open.spotify.com/track/7ILswjhqdnwT4MiKBZH4yS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:21 |
+| 122 | [Recuerdos, Tristeza Y Soledad](https://open.spotify.com/track/2KFmDh82VngNDLjk5HUMVu) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:25 |
+| 123 | [Así Como Te Conocí](https://open.spotify.com/track/6xQGFNUwaPUsdIfmmzzRcr) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:19 |
 | 124 | [Cuando Te Acuerdes De Mi](https://open.spotify.com/track/45eKmLp6uFaMQAY2oHihIt) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Marco Antonio Solís](https://open.spotify.com/album/3SmxMoLAhe29pR4LNsVkcA) | 4:31 |
 | 125 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
 

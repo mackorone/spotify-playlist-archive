@@ -50211,6 +50211,24 @@
     },
     {
       "album": {
+        "name": "Please let me try again!",
+        "url": "https://open.spotify.com/album/2ExixEoQUrV9vfHs9PAjGz"
+      },
+      "artists": [
+        {
+          "name": "Ella Papo",
+          "url": "https://open.spotify.com/artist/4m0UmGRRPVnPGNSd78U7eY"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298446,
+      "name": "Fishbowl",
+      "url": "https://open.spotify.com/track/0YyGLNX0qeQMjz0VdJOi1c"
+    },
+    {
+      "album": {
         "name": "Fisherrr",
         "url": "https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI"
       },
@@ -106458,7 +106476,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 137728,
       "name": "One of Them Ones",
       "url": "https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY"
@@ -143829,6 +143847,24 @@
     },
     {
       "album": {
+        "name": "The Most Dear and The Future",
+        "url": "https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "The Most Dear and The Future",
+      "url": "https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU"
+    },
+    {
+      "album": {
         "name": "the mould",
         "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
       },
@@ -154448,7 +154484,7 @@
           "url": "https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ"
         },
         {
-          "name": "sickoftheinternet",
+          "name": "SICKOFTHEINTERNET",
           "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
         }
       ],

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-10-26",
   "description": "Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.",
-  "name": "Cozy Christmas Covers 2024\ud83c\udf84\ud83c\udf81",
+  "name": "Cozy Christmas Covers 2025\ud83c\udf84\ud83c\udf81",
   "tracks": [
     {
       "album": {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 186000,
       "name": "Christmas For Cowboys",
       "url": "https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 216562,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9"
@@ -142,10 +142,28 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 153350,
       "name": "Christmas Night in Harlem",
       "url": "https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw"
+    },
+    {
+      "album": {
+        "name": "Christmas Quiet",
+        "url": "https://open.spotify.com/album/4e5pVhI621lKlUNSr9bPPn"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "Christmas Quiet",
+      "url": "https://open.spotify.com/track/46wRMshoe8TYgAIxHhwrnw"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 344571,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 297300,
       "name": "Father Christmas",
       "url": "https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 167110,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m"
@@ -369,6 +387,24 @@
     },
     {
       "album": {
+        "name": "have yourself a merry little christmas",
+        "url": "https://open.spotify.com/album/4sdZfDb229xiMDU4oLlqTl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234659,
+      "name": "have yourself a merry little christmas",
+      "url": "https://open.spotify.com/track/6Ivm9TotXcJtAsSbTTU2RZ"
+    },
+    {
+      "album": {
         "name": "I Wish It Could Be Christmas Everyday",
         "url": "https://open.spotify.com/album/736loCTNKkVeuHQRR99UEG"
       },
@@ -380,7 +416,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 221500,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/4kQtpTnpnQzhlJ9u1vkjL8"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 206400,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/21Zz628YJ9Si5AJMfX7Glm"
@@ -445,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1fvTKUXus2Arl9o7lQDZEU"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0aijIRae74jztKui03amME"
+    },
+    {
+      "album": {
         "name": "It's the Holiday Season",
         "url": "https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC"
       },
@@ -456,7 +510,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 166938,
       "name": "It's the Holiday Season",
       "url": "https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO"
@@ -474,7 +528,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 175874,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo"
@@ -528,7 +582,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 223220,
       "name": "Let It Be Christmas",
       "url": "https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1"
@@ -550,6 +604,24 @@
       "duration_ms": 171318,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2"
+    },
+    {
+      "album": {
+        "name": "Acoustic Christmas",
+        "url": "https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN"
+      },
+      "artists": [
+        {
+          "name": "November Lights",
+          "url": "https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191912,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7"
     },
     {
       "album": {
@@ -600,10 +672,28 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 149200,
       "name": "Maybe Next Christmas",
       "url": "https://open.spotify.com/track/4JYewrsUG5zpV0gTQ2DqJp"
+    },
+    {
+      "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/1HbufX8DCL5dNm7aZ2B1fl"
+      },
+      "artists": [
+        {
+          "name": "Nightjewels",
+          "url": "https://open.spotify.com/artist/6KVQ8BAUSzjs1hobrOPsbf"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123691,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/2IVAb8cpiiv4CSSdfyWITW"
     },
     {
       "album": {
@@ -726,7 +816,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 201030,
       "name": "Old Time Christmas",
       "url": "https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp"
@@ -744,7 +834,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 165769,
       "name": "Old Toy Trains",
       "url": "https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7"
@@ -780,7 +870,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 147323,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs"
@@ -816,7 +906,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 231230,
       "name": "Snowin' On Raton",
       "url": "https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak"
@@ -852,7 +942,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 324315,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH"
@@ -870,7 +960,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 183466,
       "name": "Step Into Christmas - Acoustic",
       "url": "https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK"
@@ -910,7 +1000,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 173538,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/0QSELmravjW44FAonYCWV5"
@@ -932,6 +1022,24 @@
       "duration_ms": 203679,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk"
+    },
+    {
+      "album": {
+        "name": "the holly & the ivy / auld lang syne",
+        "url": "https://open.spotify.com/album/3BIX6o5wrs2QaslFp8mMJv"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174354,
+      "name": "the holly & the ivy / auld lang syne",
+      "url": "https://open.spotify.com/track/4HhjADXiJjP3514TU1jJ5r"
     },
     {
       "album": {
@@ -989,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/0xEZWNEhKaDHa9zE5L6FGw"
+      },
+      "artists": [
+        {
+          "name": "Cinema Sessions",
+          "url": "https://open.spotify.com/artist/7lhCySmCIsq2J7JeNm7RWO"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176264,
+      "name": "Where Are You Christmas",
+      "url": "https://open.spotify.com/track/4Scdu8OfiVukJrULMZkuzZ"
+    },
+    {
+      "album": {
         "name": "white christmas",
         "url": "https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O"
       },
@@ -1018,7 +1144,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 195157,
       "name": "You Make It Feel Like Christmas",
       "url": "https://open.spotify.com/track/45xw5Qmu7RS3EP8yDAT3Cn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec THÉA \(du titre \#1 au \#20\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,694 likes - 46 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,739 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,20 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 29 | [En Bandit](https://open.spotify.com/track/69XPSWFuqAQFB8FtwWepZZ) | [Nita](https://open.spotify.com/artist/4Sl41H6JFN7VHECEvHZcdC) | [En Bandit](https://open.spotify.com/album/1CknZrxqILAO8iyDD4aVRa) | 2:55 |
 | 30 | [J'encaisse](https://open.spotify.com/track/5iL1GFxwPF5UMSCj0OSlHd) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [J'encaisse](https://open.spotify.com/album/4MW8blg8duuU9CYqjechMH) | 2:47 |
 | 31 | [Connerie](https://open.spotify.com/track/2mtaQLkqvYa0d5llgFSpBn) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [What if I break up with u ?](https://open.spotify.com/album/4qO5fm0w1kFxaRAEGXFFjF) | 2:35 |
-| 32 | [Marche ou rêve](https://open.spotify.com/track/3m2VVaBylHoKBngpUflwUM) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Marche ou rêve](https://open.spotify.com/album/7kS5ShCz4QHayBwumXSdUO) | 3:17 |
-| 33 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
-| 34 | [PEE](https://open.spotify.com/track/06QQ4ha6SaSWCKCBXx5sVd) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [PEE](https://open.spotify.com/album/3wtEGJVzhRZoDFLy8MF7jm) | 2:12 |
-| 35 | [Black Goose](https://open.spotify.com/track/6Ydo60E3ytE8llXNrPJk6t) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:33 |
-| 36 | [Nadre](https://open.spotify.com/track/2KSKKAyF5Cpy0eOmdmTWC5) | [Illa](https://open.spotify.com/artist/0aRBiwxscsF4yfu14Hs55O) | [Nadre](https://open.spotify.com/album/7AE6UZzGmiPg7NsAc513Ii) | 2:31 |
-| 37 | [adieu les cons](https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Paris, capitale de la solitude](https://open.spotify.com/album/4cXanu6IEgB9OMEs6olnLP) | 2:34 |
-| 38 | [Elephant Walk](https://open.spotify.com/track/6zZBlOFKH6EBEs99krClmE) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [Elephant Walk](https://open.spotify.com/album/7dT0658MI1uUT8Q01LFH4F) | 4:46 |
-| 39 | [STAY](https://open.spotify.com/track/5Qs61nif5K5xYObKp2FjG9) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [STAY](https://open.spotify.com/album/3wmyh7rKz53bv4N6yRqCNw) | 2:19 |
-| 40 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 |
-| 41 | [Into My World](https://open.spotify.com/track/6QU8Y1xG7qqZqRwVGmmVI3) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 2:52 |
-| 42 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
-| 43 | [Rolie Polie Olie](https://open.spotify.com/track/3sIcRBB1jO2zsWomld9ILy) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq), [Carla Genus](https://open.spotify.com/artist/2o7RrZDvas49cCUKDkC56r) | [Rolie Polie Olie](https://open.spotify.com/album/30aDJV3yq5FjDA2G1DrrNH) | 2:31 |
-| 44 | [Save Me](https://open.spotify.com/track/15ExPgkiC9SZ7p8A9oRX0B) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [ONZE](https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K) | 2:34 |
-| 45 | [Métamorphose](https://open.spotify.com/track/4e944pl9iuhnclBGxn2Fve) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Métamorphose](https://open.spotify.com/album/1qxF9yvJjQWy5n5q8ogzTf) | 2:41 |
-| 46 | [Ordinary](https://open.spotify.com/track/3qC1nrl8bL6hbScTwjMBuS) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:09 |
+| 32 | [Dsl](https://open.spotify.com/track/0bHtlYaLNtjBH6dTcm5HzN) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Dsl](https://open.spotify.com/album/77VCAQjsTkxYFUAvNdaV8X) | 2:36 |
+| 33 | [Dancing with my monsters](https://open.spotify.com/track/4vVHUMwyDhZvpr1yQp2wlo) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Sweet Thérapie](https://open.spotify.com/album/0FmlJdxV7Zuoy4hkHn4d8u) | 3:07 |
+| 34 | [Marche ou rêve](https://open.spotify.com/track/3m2VVaBylHoKBngpUflwUM) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Marche ou rêve](https://open.spotify.com/album/7kS5ShCz4QHayBwumXSdUO) | 3:17 |
+| 35 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
+| 36 | [PEE](https://open.spotify.com/track/06QQ4ha6SaSWCKCBXx5sVd) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [PEE](https://open.spotify.com/album/3wtEGJVzhRZoDFLy8MF7jm) | 2:12 |
+| 37 | [Black Goose](https://open.spotify.com/track/6Ydo60E3ytE8llXNrPJk6t) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:33 |
+| 38 | [Motel](https://open.spotify.com/track/4PX5l2OtNm1kxB9fbvijck) | [PAM](https://open.spotify.com/artist/2E71EAN2kOObJw76RVw8Ga) | [Motel](https://open.spotify.com/album/56gFje9D7SUe3jF9EbkJSi) | 2:40 |
+| 39 | [Nadre](https://open.spotify.com/track/2KSKKAyF5Cpy0eOmdmTWC5) | [Illa](https://open.spotify.com/artist/0aRBiwxscsF4yfu14Hs55O) | [Nadre](https://open.spotify.com/album/7AE6UZzGmiPg7NsAc513Ii) | 2:31 |
+| 40 | [adieu les cons](https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Paris, capitale de la solitude](https://open.spotify.com/album/4cXanu6IEgB9OMEs6olnLP) | 2:34 |
+| 41 | [Elephant Walk](https://open.spotify.com/track/6zZBlOFKH6EBEs99krClmE) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [Elephant Walk](https://open.spotify.com/album/7dT0658MI1uUT8Q01LFH4F) | 4:46 |
+| 42 | [STAY](https://open.spotify.com/track/5Qs61nif5K5xYObKp2FjG9) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [STAY](https://open.spotify.com/album/3wmyh7rKz53bv4N6yRqCNw) | 2:19 |
+| 43 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 |
+| 44 | [martyre : melancholia](https://open.spotify.com/track/3RKtppzI6iI8XU3L4UFKC4) | [Mathilde](https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO) | [martyre : melancholia](https://open.spotify.com/album/4w9tUgOZ2MOqeFuKHU7aZ3) | 4:14 |
+| 45 | [Into My World](https://open.spotify.com/track/6QU8Y1xG7qqZqRwVGmmVI3) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 2:52 |
+| 46 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
+| 47 | [Rolie Polie Olie](https://open.spotify.com/track/3sIcRBB1jO2zsWomld9ILy) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq), [Carla Genus](https://open.spotify.com/artist/2o7RrZDvas49cCUKDkC56r) | [Rolie Polie Olie](https://open.spotify.com/album/30aDJV3yq5FjDA2G1DrrNH) | 2:31 |
+| 48 | [Save Me](https://open.spotify.com/track/15ExPgkiC9SZ7p8A9oRX0B) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [ONZE](https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K) | 2:34 |
+| 49 | [Métamorphose](https://open.spotify.com/track/4e944pl9iuhnclBGxn2Fve) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Métamorphose](https://open.spotify.com/album/1qxF9yvJjQWy5n5q8ogzTf) | 2:41 |
+| 50 | [Ordinary](https://open.spotify.com/track/3qC1nrl8bL6hbScTwjMBuS) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:09 |
 
 Snapshot ID: `AAAAAJir/2KWV9N4kknP5C5iBlFNZNAQ`

@@ -314,10 +314,28 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 166153,
       "name": "Beamer",
       "url": "https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152135,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR"
     },
     {
       "album": {
@@ -580,6 +598,24 @@
       "duration_ms": 162711,
       "name": "Dupe",
       "url": "https://open.spotify.com/track/4iCUs97QSPyYaFmzDa25Tb"
+    },
+    {
+      "album": {
+        "name": "eko",
+        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "eko",
+      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
     },
     {
       "album": {
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 150863,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"

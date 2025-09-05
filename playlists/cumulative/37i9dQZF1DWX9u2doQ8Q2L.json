@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
@@ -11211,6 +11211,28 @@
     },
     {
       "album": {
+        "name": "OWARI DIARY",
+        "url": "https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "KIRA KIRA",
+      "url": "https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X"
+    },
+    {
+      "album": {
         "name": "Kiss Me, Winter",
         "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
       },
@@ -11382,7 +11404,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 220816,
       "name": "lapis lazuli feat. luvis",
       "url": "https://open.spotify.com/track/1ldtIYXr0WSaXRzolhzPsW"
@@ -12904,7 +12926,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 294141,
       "name": "masshiro (pure white)",
       "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
@@ -14360,6 +14382,24 @@
       "duration_ms": 199679,
       "name": "Move On Up - DJ JIN Re-edit",
       "url": "https://open.spotify.com/track/1WHD4ExyejJcQXkZse7tSQ"
+    },
+    {
+      "album": {
+        "name": "Moving Still Life",
+        "url": "https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170199,
+      "name": "Moving Still Life",
+      "url": "https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz"
     },
     {
       "album": {
@@ -16920,6 +16960,24 @@
       "duration_ms": 266860,
       "name": "Possible",
       "url": "https://open.spotify.com/track/6Nd8Tlw3PQC7B5hGho4Hqw"
+    },
+    {
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "album": {
@@ -20430,7 +20488,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 235053,
       "name": "Stand up",
       "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
@@ -32282,7 +32340,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 189666,
       "name": "\u8133\u306b\u304a\u307e\u3058\u306a\u3044\u306ame",
       "url": "https://open.spotify.com/track/7uo4AIWgnfSxrUBC0EO6u8"

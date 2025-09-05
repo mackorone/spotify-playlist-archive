@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-255 songs - 16 hr 26 min
+256 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Quando nasce un amore](https://open.spotify.com/track/42QwfNehRxZzLhQCh7Jfkr) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 3:59 | 2021-09-26 | 2022-07-29 |
 | [Quel posto che non c'è](https://open.spotify.com/track/2k2EIHQn1xrJU85BLNqnBC) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [Quel sorriso in volto](https://open.spotify.com/track/6oDAlwyZAHxi47aAJ6Kvw7) | [Modà](https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu) | [Quel sorriso in volto](https://open.spotify.com/album/0QCJbFcLkD9QgyNfivDkQX) | 4:01 | 2021-09-26 | 2022-07-27 |
+| [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 | 2025-09-04 |  |
 | [Questa nostra stupida canzone d'amore](https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 4:09 | 2021-09-26 |  |
 | [Questo piccolo grande amore](https://open.spotify.com/track/5dfhwsPg90wDcNqY4H8FFC) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Baglioni](https://open.spotify.com/album/5OV7JvsELBeRKrLbirZt5X) | 5:36 | 2021-09-26 | 2022-07-05 |
 | [Rapide](https://open.spotify.com/track/2cf1g08CvDuhwXFqxjetQi) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Rapide](https://open.spotify.com/album/40tgSHlPNeumzdzLxaN9xC) | 4:03 | 2021-09-26 | 2024-02-24 |
@@ -212,7 +213,7 @@
 | [Sei Un Pensiero Speciale](https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Perfetto](https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2) | 3:48 | 2021-09-26 | 2022-07-27 |
 | [Sempre e per sempre](https://open.spotify.com/track/5K8tLt1YQiLALZGwcErrjH) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Amore nel pomeriggio](https://open.spotify.com/album/7cHl1TaO6qOvyrfoqCofUT) | 3:23 | 2021-09-26 | 2025-04-20 |
 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 | 2021-09-26 |  |
-| [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 |  |
+| [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 | 2025-09-05 |
 | [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 | 2023-02-20 | 2024-04-19 |
 | [Sfiorivano le viole](https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Mio Fratello E' Figlio Unico](https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i) | 5:01 | 2025-01-23 |  |
 | [Siamo](https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:38 | 2021-09-26 | 2022-07-21 |

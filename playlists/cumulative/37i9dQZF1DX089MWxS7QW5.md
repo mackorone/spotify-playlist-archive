@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SHIRT\)
 
-565 songs - 1 day 6 hr 27 min
+566 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-28 | 2022-08-19 |
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-14 | 2023-04-28 |
 | [UoU](https://open.spotify.com/track/1Er4Us9efoj7yyAZQ7CNd4) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [UoU](https://open.spotify.com/album/5OuzEfhlKMTT2gAXJZqyGp) | 2:36 | 2024-09-02 | 2025-01-25 |
+| [UP ALL NITE \(Feat\. SUMIN\)](https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [FANG](https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq) | 3:06 | 2025-09-04 |  |
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-11-29 |
 | [Upside Down](https://open.spotify.com/track/1qUHvpyJHIf6c34nmGFZCD) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [Upside Down](https://open.spotify.com/album/58c2r9nwDcKaBIFILWchdA) | 2:34 | 2023-11-02 | 2024-03-16 |
 | [UUU](https://open.spotify.com/track/5c4c8g4QFDaNv3NHogfokl) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [The Drive](https://open.spotify.com/album/40yZ2AKA4dGdLavr5x7H8S) | 3:17 | 2023-11-17 | 2024-04-05 |

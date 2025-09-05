@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-665 songs - 1 day 10 hr 11 min
+667 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,13 +52,13 @@
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2023-01-12 | 2023-05-13 |
 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 | 2023-01-19 | 2023-12-19 |
 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 | 2024-11-21 | 2025-08-29 |
-| [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 | 2024-11-21 |  |
+| [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 | 2024-11-21 | 2025-09-05 |
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Small Town Boy](https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ) | 3:07 | 2021-12-16 | 2022-03-26 |
 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/album/1RtGE6VCkSEwd5jm0v1Wfp) | 2:49 | 2021-12-16 | 2023-02-17 |
 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 | 2023-11-09 | 2024-03-22 |
 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 | 2025-02-13 | 2025-08-09 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-27 |  |
-| [BACK ON MY FEET](https://open.spotify.com/track/7cM96RpP6SZ7Vm5TLUEsRP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [BACK ON MY FEET](https://open.spotify.com/album/0xYw6xQVrBXEVQ3Hg0HqWC) | 2:19 | 2025-02-13 |  |
+| [BACK ON MY FEET](https://open.spotify.com/track/7cM96RpP6SZ7Vm5TLUEsRP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [BACK ON MY FEET](https://open.spotify.com/album/0xYw6xQVrBXEVQ3Hg0HqWC) | 2:19 | 2025-02-13 | 2025-09-05 |
 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
 | [Bad](https://open.spotify.com/track/0Bfs2jt51qWNeF5iC8OEjd) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Bad](https://open.spotify.com/album/6sjhG7TWY4MgtwReg1zAMN) | 3:08 | 2021-12-16 | 2022-06-10 |
 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2025-02-05 | 2025-03-13 |
@@ -143,6 +143,7 @@
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-02-10 | 2023-09-01 |
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-02-10 | 2023-09-01 |
 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 | 2025-05-08 |  |
+| [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 | 2025-09-04 |  |
 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 | 2023-03-30 | 2024-05-16 |
 | [Decide](https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Decide](https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD) | 2:38 | 2023-01-27 | 2023-03-16 |
 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 | 2024-08-02 |
@@ -583,6 +584,7 @@
 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 | 2024-11-21 |  |
 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 | 2024-03-13 | 2025-02-06 |
 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 | 2024-11-21 |  |
+| [Track 7](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 0:00 | 2025-09-04 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-21 | 2025-03-08 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2023-01-12 | 2023-06-16 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-01 | 2023-07-08 |

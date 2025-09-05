@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 174063,
+  "num_followers": 174095,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 170755,
       "name": "Buy Dirt - Alternate Version",
       "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "One Percent (Acoustic)",
         "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Gonna Love You (Alternate Versions)",
         "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 174863,
       "name": "Gonna Love You - Acoustic",
       "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "She Had Me at Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "She Had Me at Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Never Wanted To Be That Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Almost Maybes (Acoustic)",
-        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "Almost Maybes - Acoustic",
-      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Weekends Look A Little Acoustic These Days",
         "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Almost Maybes (Acoustic)",
+        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "Almost Maybes - Acoustic",
+      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Creek Will Rise (Acoustic)",
         "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2025-08-22 04:00:28",

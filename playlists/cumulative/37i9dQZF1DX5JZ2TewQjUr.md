@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Dessy
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  不平靜水域
 
-1,504 songs - 3 day 12 hr 52 min
+1,506 songs - 3 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [red shifted](https://open.spotify.com/track/3TXJruEwtCuWj6aJJZgfs5) | [Jennifer Tee](https://open.spotify.com/artist/7gVbYtrrCyYLzj48No9W9S) | [red shifted](https://open.spotify.com/album/5oni8uE3HQJUvur7ws0jjH) | 3:48 | 2023-06-22 | 2023-11-03 |
 | [Reminiscence](https://open.spotify.com/track/5b5P58X55JixnY0YONpaNM) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Reminiscence](https://open.spotify.com/album/5PaL3ZJhh5sddKh5qPhVtG) | 3:28 | 2023-08-24 | 2023-12-01 |
 | [reply cc](https://open.spotify.com/track/4Q6jzi0urw3BrAaPfJ31as) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [reply cc](https://open.spotify.com/album/7c8OlzoXo2bvAtQDsGu9sZ) | 3:21 | 2024-04-18 | 2024-11-15 |
+| [RESTART](https://open.spotify.com/track/4I7u2RdWLqNmxHomVegl9O) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [RESTART](https://open.spotify.com/album/42aMnaPjwHIEy8o4SQ9vPX) | 3:03 | 2025-09-04 |  |
 | [Reunion Song](https://open.spotify.com/track/0vfSaylAxEZV172XA5RfdV) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Reunion Song](https://open.spotify.com/album/2M2r0MC6PNElnzIjq8GINA) | 3:50 | 2024-10-17 | 2025-02-14 |
 | [RI$iNG](https://open.spotify.com/track/5n9TmOPEAgi0bLsvEPx30d) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [RI$iNG](https://open.spotify.com/album/1WNfV4ZephfNUJNtQw7lGB) | 2:21 | 2023-11-30 | 2024-02-16 |
 | [RIDE](https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [RIDE](https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV) | 3:11 | 2024-10-17 | 2025-02-14 |
@@ -1083,6 +1084,7 @@
 | [光 \(Light\)](https://open.spotify.com/track/3mr0cK1G4Y2Fc22nFKfh9o) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [光 \(Light\)](https://open.spotify.com/album/0J4CPHtaqgrEEHpoMkVJVL) | 3:22 | 2023-03-24 | 2023-07-14 |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-08 | 2023-02-03 |
 | [兜圈圈](https://open.spotify.com/track/6sGefs5VLUwdWGEoIynhl4) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [兜圈圈](https://open.spotify.com/album/3bByRiBS1GAOIxQ14ZeCHK) | 3:15 | 2024-06-20 | 2024-11-15 |
+| [內在天使控訴](https://open.spotify.com/track/006Q5N3fTBZIZxZtORiyF5) | [不平靜水域](https://open.spotify.com/artist/4EMRISVCxzXmNZUnbqKDD2) | [內在天使控訴](https://open.spotify.com/album/1IWRHyBdMlDR0Ajiu52T63) | 3:38 | 2025-09-04 |  |
 | [全世界最後一次為你下的雪 The Last Snow For You](https://open.spotify.com/track/7IVaqrMty9Q5GXMSzTXpnO) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [全世界最後一次為你下的雪 The Last Snow For You](https://open.spotify.com/album/2KtvrhCys8h5Idfb6YoHAZ) | 3:26 | 2024-01-18 | 2024-02-16 |
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2023-03-24 | 2023-07-14 |
 | [公主來電 Princess Calling](https://open.spotify.com/track/1e0yVNQMqO8PNoGazgKGL0) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [Cnzero](https://open.spotify.com/artist/7x9jzblzZFMabUGLRbCZ3g) | [公主來電 Princess Calling](https://open.spotify.com/album/59midOMPCnrrgIBXQDjK56) | 3:22 | 2024-07-04 | 2024-11-15 |

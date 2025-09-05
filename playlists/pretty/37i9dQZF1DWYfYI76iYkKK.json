@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130083,
+  "num_followers": 130085,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "\u4e0d\u5c6c\u65bc",
-        "url": "https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf"
+        "name": "\u5de6\u908a\u7684\u4eba",
+        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
       "artists": [
         {
-          "name": "\u674e\u4f73\u6b61",
-          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
         }
       ],
-      "duration_ms": 241071,
-      "name": "\u4e0d\u5c6c\u65bc",
-      "url": "https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF"
+      "duration_ms": 216585,
+      "name": "\u5de6\u908a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
     },
     {
       "added_at": "2025-08-28 16:00:25",
@@ -451,18 +451,34 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "\u5de6\u908a\u7684\u4eba",
-        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
+        "name": "\u4e0d\u5c6c\u65bc",
+        "url": "https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf"
       },
       "artists": [
         {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
         }
       ],
-      "duration_ms": 216585,
-      "name": "\u5de6\u908a\u7684\u4eba",
-      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
+      "duration_ms": 241071,
+      "name": "\u4e0d\u5c6c\u65bc",
+      "url": "https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF"
+    },
+    {
+      "added_at": "2025-08-28 16:00:25",
+      "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
     },
     {
       "added_at": "2025-08-28 16:00:25",
@@ -483,22 +499,6 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
-    },
-    {
-      "added_at": "2025-08-28 16:00:25",
-      "album": {
-        "name": "Sent",
-        "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
-      },
-      "artists": [
-        {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
     },
     {
       "added_at": "2025-08-28 16:00:25",

@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Cover: Jordan Patterson
 
-8,877 songs - 20 day 0 hr 58 min
+8,879 songs - 20 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2713,6 +2713,7 @@
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-01-26 | 2022-02-03 |
 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 | 2023-06-14 | 2023-06-29 |
 | [Fish in a Pond](https://open.spotify.com/track/5ruregBwvhzlgYHFpmkH6t) | [Tiberius](https://open.spotify.com/artist/0q9oSteVaQ1lK7LvYMJCdq) | [Fish in a Pond](https://open.spotify.com/album/2ySFHe0Upxjb0YBJzi8AKN) | 3:19 | 2023-04-12 | 2023-04-27 |
+| [Fishbowl](https://open.spotify.com/track/0YyGLNX0qeQMjz0VdJOi1c) | [Ella Papo](https://open.spotify.com/artist/4m0UmGRRPVnPGNSd78U7eY) | [Please let me try again!](https://open.spotify.com/album/2ExixEoQUrV9vfHs9PAjGz) | 4:58 | 2025-09-04 |  |
 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 | 2024-03-20 | 2024-04-11 |
 | [FIST](https://open.spotify.com/track/1Us2NxqNSrUC9go9QcjQQ3) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [FIST](https://open.spotify.com/album/3YFf5jiHCuEIawmbEhzSNB) | 1:25 | 2022-09-21 | 2022-09-29 |
 | [Fit In Here](https://open.spotify.com/track/5hQ2gA6BF0NcUwmFKTXTuK) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Fit In Here](https://open.spotify.com/album/6DHfxMPoiO6mz6eTLNnqhU) | 3:27 | 2022-05-04 | 2022-05-12 |
@@ -5737,7 +5738,7 @@
 | [One Night](https://open.spotify.com/track/0cLyNZklTnzV2NFJyjf93Q) | [Tungz](https://open.spotify.com/artist/2U8Spt8w0ylEP8NA9CkUh7) | [A Good Dream](https://open.spotify.com/album/1T3H6rBDVaho3ue7Tyf2VQ) | 3:18 | 2023-02-22 | 2023-03-02 |
 | [One Night in North Glasgow](https://open.spotify.com/track/495G6HU8agMEPjNKycw9AD) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Met Her at Bäreneck](https://open.spotify.com/album/5rkxbByPKYXQjHPF2wpCTs) | 5:37 | 2022-04-27 | 2022-05-05 |
 | [One of One](https://open.spotify.com/track/3DGlxdIzyQP6BiLHVqdmqP) | [Kaleel Carpè](https://open.spotify.com/artist/6cWSalngEl22NOtkTh3FuK), [Marc Spano](https://open.spotify.com/artist/7a0fWz1BBranhBTJ91X1is), [Fari](https://open.spotify.com/artist/6jnLfjQV1TY6jei2k4r5Gg) | [Game Related](https://open.spotify.com/album/1EFbrRDm9qFSF2zdHsBmgp) | 3:24 | 2022-05-11 | 2022-05-19 |
-| [One of Them Ones](https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [One of Them Ones](https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5) | 2:17 | 2025-08-06 |  |
+| [One of Them Ones](https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [One of Them Ones](https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5) | 2:17 | 2025-08-06 | 2025-09-05 |
 | [One Plus One](https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [One Plus One](https://open.spotify.com/album/10gGLGbjwOaOwGnDPN6RV2) | 3:09 | 2022-03-23 | 2022-03-31 |
 | [One Step at a Time](https://open.spotify.com/track/6N5mvQmipHnahnQCF3eqF8) | [Attention Bird Utopia](https://open.spotify.com/artist/6WQmjqmXZdwjIb1Tpctt4o), [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8), [Eli Hirsch](https://open.spotify.com/artist/3TnGwgpdm4ySLrbjzd38OW) | [Best of Kings](https://open.spotify.com/album/5oCjXdfKyrccegnfxKF5Yb) | 4:11 | 2025-06-11 | 2025-07-17 |
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-07-27 | 2022-08-04 |
@@ -7754,6 +7755,7 @@
 | [The Middle](https://open.spotify.com/track/1x4nrClmOL8lRjyLOxS4Nz) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [The Middle](https://open.spotify.com/album/48elz9pV14vbIj2wQM7C1g) | 2:28 | 2023-08-02 | 2023-08-10 |
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-10 | 2024-01-25 |
 | [The Moon A Balloon](https://open.spotify.com/track/1vmMLQhGBn5UxFJowWAlBT) | [Josef Lamercier](https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc) | [The Moon A Balloon](https://open.spotify.com/album/1ao2LLRmUOdgls07PQ6ERh) | 2:56 | 2025-04-30 | 2025-05-29 |
+| [The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 1:50 | 2025-09-03 |  |
 | [the mould](https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 2:21 | 2024-05-08 | 2024-06-01 |
 | [The need to avoid](https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Projections](https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ) | 3:08 | 2022-02-02 | 2022-02-10 |
 | [The Night Has Missed Me](https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [From Heaven](https://open.spotify.com/album/260smJl1zubR2fxh8OD0rz) | 3:49 | 2022-05-04 | 2022-05-12 |
@@ -8327,7 +8329,7 @@
 | [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-01-18 | 2023-01-26 |
 | [Walking Away](https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Walking Away](https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn) | 2:58 | 2025-03-05 | 2025-05-01 |
 | [Walking in a Vacuum](https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [Walking in a Vacuum](https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93) | 4:27 | 2024-04-17 | 2024-04-25 |
-| [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 | 2025-08-06 |  |
+| [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [SICKOFTHEINTERNET](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 | 2025-08-06 |  |
 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-11-29 | 2024-01-11 |
 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 | 2025-01-15 | 2025-02-06 |
 | [Wanna Wou](https://open.spotify.com/track/7CIlustqP30AQsM2Guy6o7) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Wanna Wou](https://open.spotify.com/album/7nbpWFhcFh3OON70jPubHD) | 4:23 | 2025-07-09 | 2025-08-14 |

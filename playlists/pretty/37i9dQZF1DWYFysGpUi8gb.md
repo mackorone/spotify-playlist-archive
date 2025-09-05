@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting\. greetings from chartreuse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,628 likes - 109 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,605 likes - 109 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,310 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,304 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 32 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 33 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 |
 | 34 | [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 |
-| 35 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 |
-| 36 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 |
+| 35 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 |
+| 36 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 |
 | 37 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 |
 | 38 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 |
 | 39 | [Hot Potato \- The Wiggles Sound System Remix](https://open.spotify.com/track/3Az7KofEhlRCdlWm3H7BKk) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [The Wiggles Sound System: Rave of Innocence](https://open.spotify.com/album/1ZZnrkjq3sKWHwEkvtHLdp) | 1:21 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 47 | [Show Me Your Pony Moves](https://open.spotify.com/track/0WQwpn59mnW2KQ6tZWsNNA) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Bridlewoodstock](https://open.spotify.com/album/6eTEvCZHwiMXMpLgVcU8zs) | 1:40 |
 | 48 | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/track/3fI2VcjM78ZzEDe96SVKfR) | [L.L.A.M.A](https://open.spotify.com/artist/1XwXEE2TWmPt01haVFok2N), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/album/3jO5b1PrRk1i9Yb8kiQszZ) | 2:43 |
 | 49 | [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Funkytown \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb) | 4:23 |
-| 50 | [Treasure Dance](https://open.spotify.com/track/02Ng5tD1jeHq8JOqMWJunA) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Fred Armisen](https://open.spotify.com/artist/0kiisaxpTLv4c9MdeKgNL6), [Lo Mutuc](https://open.spotify.com/artist/3hvInKrSltVn4VaMQPt8pJ) | [Yo Gabba Gabba! Music Is Awesome! Vol\. 3 \(Deluxe Edition\)](https://open.spotify.com/album/1a2drc2oGsmGpg4JvudDmu) | 2:14 |
+| 50 | [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 |
 
 Snapshot ID: `AAAAAJ2koonq3+5riwzGR6OlNZX3FTMN`

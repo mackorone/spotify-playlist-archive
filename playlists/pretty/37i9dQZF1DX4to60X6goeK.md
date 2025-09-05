@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,229 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,248 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 45 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
 | 46 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
 | 47 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
-| 48 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
-| 49 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
+| 48 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
+| 49 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
 | 50 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
 | 51 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 52 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |
 | 55 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
 
-Snapshot ID: `AAAAAACPXlC3ugXUkdyJbv8+Z8tAsWcT`
+Snapshot ID: `AAAAAMRlkXWluI02fvc4z983jaqZvXn8`

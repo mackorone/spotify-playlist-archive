@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAo0qoGEfarKpNZV3Rjqjs8",
+  "snapshot_id": "aLeFAAAAAAD7+aCRK1dmUoV1Hptw1IpQ",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "U Ain't No Hustla",
+      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 204605,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "U Ain't No Hustla",
-      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 248926,
       "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
       "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -827,30 +827,6 @@
       "duration_ms": 197244,
       "name": "Trap It Out",
       "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Vl Deck",
-          "url": "https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1"
-        }
-      ],
-      "duration_ms": 250965,
-      "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
-      "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
     },
     {
       "added_at": null,
@@ -895,6 +871,30 @@
       "duration_ms": 264946,
       "name": "Birds Take a Bath",
       "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Vl Deck",
+          "url": "https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1"
+        }
+      ],
+      "duration_ms": 250965,
+      "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
+      "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
     },
     {
       "added_at": null,
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Married to the Streets",
+        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "77 Birds (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Married to the Streets",
-        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "77 Birds (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj"
     },
     {
       "added_at": null,

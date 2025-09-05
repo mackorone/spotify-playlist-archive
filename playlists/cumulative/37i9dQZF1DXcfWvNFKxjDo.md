@@ -2,7 +2,7 @@
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Fireboy DML, Topic, Nico Santos
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BUNT., The Chainsmokers
 
 4,494 songs - 8 day 21 hr 20 min
 

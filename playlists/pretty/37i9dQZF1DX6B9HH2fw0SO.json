@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 78927,
+  "num_followers": 78952,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 234526,
+      "name": "Ship To Wreck",
+      "url": "https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 234526,
-      "name": "Ship To Wreck",
-      "url": "https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/13zkonwiXREYVk0vqubjGi"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "Sedona",
-      "url": "https://open.spotify.com/track/65T1aY3I9qfNUDVAnaM9bq"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "iii",
         "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 212146,
       "name": "Genghis Khan",
       "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/13zkonwiXREYVk0vqubjGi"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/65T1aY3I9qfNUDVAnaM9bq"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Our Own House",
-        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Treasure - EP",
-        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Tired of Talking",
-      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Inanimate Objects",
         "url": "https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 191640,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Treasure - EP",
+        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Tired of Talking",
+      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "JR JR",
-        "url": "https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK"
-      },
-      "artists": [
-        {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 237546,
       "name": "Leave A Trace",
       "url": "https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "JR JR",
+        "url": "https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5"
     },
     {
       "added_at": "2024-03-18 13:24:52",

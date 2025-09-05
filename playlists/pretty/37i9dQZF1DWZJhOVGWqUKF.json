@@ -1,12 +1,12 @@
 {
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: The Hives",
-  "num_followers": 344867,
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Amy Lee, Poppy, Spiritbox",
+  "num_followers": 344822,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALez8vLKju8bgfv09yhLb2D/p4pl",
+  "snapshot_id": "AAAAAPrZ+xxgNn0tl7XW44mPTAPhUoCs",
   "tracks": [
     {
       "added_at": "2025-08-29 06:59:44",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "bad luck",
-        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 245767,
-      "name": "bad luck",
-      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "Hand That Feeds (From the Film Ballerina)",
         "url": "https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "Motel Du Cap",
-        "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
         }
       ],
-      "duration_ms": 221037,
-      "name": "I Don\u2019t Work Here Anymore",
-      "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
+      "duration_ms": 245767,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -987,6 +971,22 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "Motel Du Cap",
+        "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 221037,
+      "name": "I Don\u2019t Work Here Anymore",
+      "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 546385,
       "name": "Hello Heaven, Hello",
       "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
-        "name": "Hate This Song",
-        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Hate This Song",
-      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 193552,
       "name": "Closure",
       "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 187958,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "Make Me A Martyr",
         "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 235000,
       "name": "Make Me A Martyr",
       "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 187958,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "THE BOTTOM",
-        "url": "https://open.spotify.com/album/46AUWrJnzx6ZFw3Bbjz8OZ"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 232172,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/49Syz20A5meY1lBkkaoKN4"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 194959,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "THE BOTTOM",
+        "url": "https://open.spotify.com/album/46AUWrJnzx6ZFw3Bbjz8OZ"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 232172,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/49Syz20A5meY1lBkkaoKN4"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "Rejects",
-        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 174634,
-      "name": "Rejects",
-      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+        "name": "Rejects",
+        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "Heroes Are Calling",
         "url": "https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 179976,
       "name": "Heroes Are Calling",
       "url": "https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 198042,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 198042,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L"
     },
     {
       "added_at": "2025-08-29 06:59:44",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-08-29 06:59:44",
       "album": {
-        "name": "Stepper",
-        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 196748,
-      "name": "Stepper",
-      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2025-08-29 06:59:44",
-      "album": {
         "name": "SELF IMMOLATION",
         "url": "https://open.spotify.com/album/1qw8qRxpoEr7zNvzBzXB7X"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 138666,
       "name": "SELF IMMOLATION",
       "url": "https://open.spotify.com/track/0YGX5dJImOOEy8zXYLMMIE"
+    },
+    {
+      "added_at": "2025-08-29 06:59:44",
+      "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     }
   ],
   "unique_name": "Rock Rotation",

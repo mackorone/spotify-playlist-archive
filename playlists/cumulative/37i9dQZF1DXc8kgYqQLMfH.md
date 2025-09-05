@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,259 songs - 2 day 0 hr 5 min
+1,261 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 |  |
 | [Behind The Clouds](https://open.spotify.com/track/49JMDxOAInoWDdBTgA8DyQ) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Behind The Clouds](https://open.spotify.com/album/1DWaUM467ivFKwNqaRozjv) | 2:28 | 2022-10-28 | 2023-04-28 |
 | [Besaid](https://open.spotify.com/track/7wQMIeoDBRvCFfKX2a7ruz) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Besaid](https://open.spotify.com/album/0bD1udBhFNA9vVUBfI0J3x) | 3:08 | 2022-11-11 | 2023-08-04 |
-| [best friend](https://open.spotify.com/track/2LInrKUW2wKbcSybdChB93) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [best friend](https://open.spotify.com/album/3moQBGVpto8XjCzyMTCPTc) | 1:58 | 2022-07-22 |  |
+| [best friend](https://open.spotify.com/track/2LInrKUW2wKbcSybdChB93) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [best friend](https://open.spotify.com/album/3moQBGVpto8XjCzyMTCPTc) | 1:58 | 2022-07-22 | 2025-09-05 |
 | [between the trees](https://open.spotify.com/track/1jAziLFQqnz5804pr0agi3) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [between the trees](https://open.spotify.com/album/3YVyZ9daxnsJpNY8EJtylR) | 2:56 | 2022-04-22 | 2023-09-16 |
 | [Beyond Time](https://open.spotify.com/track/3566wS2UxVE4CbkYtpOI3G) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Beyond Time](https://open.spotify.com/album/1jeIe6JO6DDj7ReUDFfeX0) | 2:19 | 2021-11-10 | 2022-04-08 |
 | [Bittersweet Moments](https://open.spotify.com/track/6W8RzJJWPExPADFu65cGx4) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW) | [Bittersweet Moments](https://open.spotify.com/album/2NROeDLwpdJg5DQmWiUfdb) | 2:30 | 2023-01-13 | 2025-07-16 |
@@ -158,6 +158,7 @@
 | [butterfly effect](https://open.spotify.com/track/5bWVPe2OZZgiQqAll0BFgy) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [butterfly effect](https://open.spotify.com/album/0STUtnZFnwhRNoFU6ucR2v) | 2:31 | 2025-08-01 | 2025-08-22 |
 | [By The Creek](https://open.spotify.com/track/2jDDwJobulNfNZxOJTNjEz) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [By The Creek](https://open.spotify.com/album/34OHpo2d3Xjqyv0mN2zyKz) | 2:39 | 2022-09-02 | 2023-10-06 |
 | [C'est La Vie](https://open.spotify.com/track/7D0PbgrpVfUVASPPxn7TRz) | [Caicey](https://open.spotify.com/artist/23NNLBrSC7178qCz3ISpxt) | [C'est La Vie](https://open.spotify.com/album/6F8C5YZ6hamcOshnDsrhNV) | 1:57 | 2021-11-10 | 2022-10-15 |
+| [Cabin](https://open.spotify.com/track/6xqMwiObEyVRL06sGbkH79) | [Heather Home](https://open.spotify.com/artist/5QMDpXpZo7ZBshqP4v7sI6) | [Cabin](https://open.spotify.com/album/3ScBriWooI4ILcS5cBQKkp) | 2:05 | 2025-09-04 |  |
 | [Calico Citrus](https://open.spotify.com/track/4lmekINZ116MuKS8lmxwCC) | [Kid Gnasher](https://open.spotify.com/artist/3Qyo0y91QA458PKIuWso2j) | [Calico Citrus](https://open.spotify.com/album/2ctF0am26hNhUGvHjGKsOa) | 2:54 | 2021-11-10 | 2022-06-10 |
 | [Caligo](https://open.spotify.com/track/3tXBdxbIq8aqrB70q5KMTJ) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Caligo](https://open.spotify.com/album/24og9ExkwGCk37GUJ3Sodd) | 2:23 | 2023-04-11 | 2023-09-29 |
 | [Calm](https://open.spotify.com/track/7b8typZKTFHbGA1jivtORb) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Calm](https://open.spotify.com/album/4PdgJJokVcXVGf8xahnZy8) | 1:58 | 2022-09-16 | 2023-10-06 |
@@ -495,6 +496,7 @@
 | [Hoot](https://open.spotify.com/track/5a9FIXaP7vA1k00fxsHRuH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Light of Dawn](https://open.spotify.com/album/5oqNd0jD06nuviPzb0fOFE) | 1:49 | 2022-05-13 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/440V3Kb6STWjXVYkGiph2d) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Hope](https://open.spotify.com/album/57vqKi8jLGQjrr7fRkT6lN) | 1:30 | 2023-03-16 | 2025-07-25 |
 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 | 2022-07-01 |  |
+| [Hopeful](https://open.spotify.com/track/2qPns3m7FxOgrFBPxLT1PG) | [another night](https://open.spotify.com/artist/4jnXjSSUawBRoBGYAFYyGH) | [Hopeful](https://open.spotify.com/album/4D0C2VTgpwJxJs0X1THJde) | 2:32 | 2025-09-04 |  |
 | [Hopeful Lullaby](https://open.spotify.com/track/3IQJOIoRIRte0umcKHCFjQ) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Hopeful Lullaby](https://open.spotify.com/album/2EvMIbvNjPoQkH7uxKVcGm) | 2:08 | 2025-07-15 | 2025-08-29 |
 | [Horizons](https://open.spotify.com/track/3xDyvJ4bLvJuyjncFeg8iB) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Horizons](https://open.spotify.com/album/6EhaOcENiKT6Mp2krYnHyp) | 2:31 | 2022-09-16 | 2023-10-06 |
 | [horizontal](https://open.spotify.com/track/0i7cHpLYTCpXHPTdtNpjor) | [ilsey john](https://open.spotify.com/artist/2klDNbRLOvnZT8mMB7Nmqu) | [horizontal](https://open.spotify.com/album/7aaCy91PkXVdd7duqACrOv) | 1:15 | 2021-11-10 | 2022-05-27 |
@@ -512,7 +514,7 @@
 | [I will remember, mom](https://open.spotify.com/track/0HB0eI8I0XfrJzWZbx187T) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [I will remember, mom](https://open.spotify.com/album/6ydRlhwca8eHiqGnxXQEQ2) | 3:22 | 2023-01-13 | 2025-07-16 |
 | [i'm sorry](https://open.spotify.com/track/5axCWfV76SnK8XZzuMrAYr) | [Miyuki Kuzuoka](https://open.spotify.com/artist/4QP6hpplFH8kQZ0AKo0c1Z) | [i'm sorry](https://open.spotify.com/album/3YYrHBFzq2SEJ0at3JUHtT) | 1:43 | 2022-11-11 | 2025-07-16 |
 | [Iced Latte](https://open.spotify.com/track/6iDTfeImqkfTYncTbO5x9i) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Iced Latte](https://open.spotify.com/album/1VOOyVqNDBRRnzX3IiWzJO) | 1:54 | 2022-04-08 | 2022-07-22 |
-| [Idle](https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Idle](https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE) | 2:13 | 2025-02-19 |  |
+| [Idle](https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Idle](https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE) | 2:13 | 2025-02-19 | 2025-09-05 |
 | [if you could fly](https://open.spotify.com/track/360jCzboMk6N7JRW2IyuIo) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/6zI0uFVK438QHn7eXtC11i) | 2:18 | 2022-11-25 | 2022-12-08 |
 | [if you could fly](https://open.spotify.com/track/4vLb7pSrQ4JNDr6ax3mw1y) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/5dCqU7kxTJ4IdMdXcbep15) | 2:18 | 2022-11-25 | 2023-11-11 |
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2021-11-10 | 2022-04-08 |
@@ -797,7 +799,7 @@
 | [Norway](https://open.spotify.com/track/06Co3dkZW9abpw0feyJWl5) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Starcrossed](https://open.spotify.com/album/628FcjCPi9j1F27RG47lHs) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Nostalgia](https://open.spotify.com/track/12zINLpjdMmXVesmTDP63h) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nostalgia](https://open.spotify.com/album/5GJo1YoJaHfV19pQF3Pn21) | 2:20 | 2022-08-05 | 2022-10-01 |
 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2024-08-08 | 2025-07-16 |
-| [Not Your Fault](https://open.spotify.com/track/0TS96G5W7gGGGgj9bnllhR) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Not Your Fault](https://open.spotify.com/album/2XR9LVtLFAoUecxJX256wa) | 2:27 | 2023-01-06 |  |
+| [Not Your Fault](https://open.spotify.com/track/0TS96G5W7gGGGgj9bnllhR) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Not Your Fault](https://open.spotify.com/album/2XR9LVtLFAoUecxJX256wa) | 2:27 | 2023-01-06 | 2025-09-05 |
 | [November Jam](https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo) | [Bauke Top](https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX) | [222](https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN) | 1:58 | 2022-03-21 | 2025-07-16 |
 | [NS\-10M](https://open.spotify.com/track/4PQmzve7LIaJ5IVr64bemX) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [NS\-10M](https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx) | 2:21 | 2021-11-10 | 2022-05-27 |
 | [nubes](https://open.spotify.com/track/5ekYOmFPM44ltEgnJqcGcM) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [nubes](https://open.spotify.com/album/2RUGz3g25tIFe3pIxEQArr) | 2:42 | 2022-06-24 | 2022-07-29 |

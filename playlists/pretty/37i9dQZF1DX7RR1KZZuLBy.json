@@ -1,29 +1,13 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 62899,
+  "num_followers": 62922,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALU5qIFof9So8/Qw7AIwAImpHoav",
+  "snapshot_id": "AAAAALpGLhC5JPWDM9P6UHaiPzk5gKxy",
   "tracks": [
-    {
-      "added_at": "2025-07-25 00:01:16",
-      "album": {
-        "name": "Unusual (Live / Deluxe)",
-        "url": "https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 325013,
-      "name": "Igama Lakho - Live At Carnival City / 2024",
-      "url": "https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT"
-    },
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
@@ -51,46 +35,6 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
-    },
-    {
-      "added_at": "2025-08-08 00:01:25",
-      "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 198774,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"
-    },
-    {
-      "added_at": "2025-08-22 00:01:30",
-      "album": {
-        "name": "Live At Kalahari Waterfront",
-        "url": "https://open.spotify.com/album/5e29gpFU8qp5oRj0r3DuF6"
-      },
-      "artists": [
-        {
-          "name": "Takie & Rofhiwa",
-          "url": "https://open.spotify.com/artist/4Lucgup4VnHrtYPfAvBIRS"
-        },
-        {
-          "name": "Takie Ndou",
-          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
-        },
-        {
-          "name": "ROFHIWA MANYAGA",
-          "url": "https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5"
-        }
-      ],
-      "duration_ms": 308929,
-      "name": "Lufuno Lwau",
-      "url": "https://open.spotify.com/track/1UYX1SPwh56nkZd2D85KWX"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -125,6 +69,30 @@
       "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
     },
     {
+      "added_at": "2025-08-22 00:01:30",
+      "album": {
+        "name": "Live At Kalahari Waterfront",
+        "url": "https://open.spotify.com/album/5e29gpFU8qp5oRj0r3DuF6"
+      },
+      "artists": [
+        {
+          "name": "Takie & Rofhiwa",
+          "url": "https://open.spotify.com/artist/4Lucgup4VnHrtYPfAvBIRS"
+        },
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        },
+        {
+          "name": "ROFHIWA MANYAGA",
+          "url": "https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5"
+        }
+      ],
+      "duration_ms": 308929,
+      "name": "Lufuno Lwau",
+      "url": "https://open.spotify.com/track/1UYX1SPwh56nkZd2D85KWX"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "What A Beautiful Name",
@@ -145,22 +113,6 @@
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
     },
     {
-      "added_at": "2025-04-18 00:01:30",
-      "album": {
-        "name": "Praise Medley 2.0",
-        "url": "https://open.spotify.com/album/57HwaO1HGu40UtFLTUHqs6"
-      },
-      "artists": [
-        {
-          "name": "Eternal Glory Worship",
-          "url": "https://open.spotify.com/artist/6voEVpE79uGDjCM1j7qLJg"
-        }
-      ],
-      "duration_ms": 473771,
-      "name": "Praise Medley 2.0",
-      "url": "https://open.spotify.com/track/1OCyrtQVxOCRHSGTxPAo27"
-    },
-    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "Counting My Blessings",
@@ -175,22 +127,6 @@
       "duration_ms": 209595,
       "name": "Counting My Blessings",
       "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
-    },
-    {
-      "added_at": "2025-07-25 00:01:16",
-      "album": {
-        "name": "Hi Wena Ntsena (Live)",
-        "url": "https://open.spotify.com/album/7BzVCQqpPr3mdC2k9lUZMP"
-      },
-      "artists": [
-        {
-          "name": "Mabongi",
-          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
-        }
-      ],
-      "duration_ms": 733374,
-      "name": "Hi Wena Ntsena - Live",
-      "url": "https://open.spotify.com/track/7JFCP55mIxZn4NfJO1pUoE"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -957,6 +893,54 @@
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "THIS YEAR (Blessings) [Remix]",
+        "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "THIS YEAR (Blessings) - Remix",
+      "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+        }
+      ],
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
       "added_at": "2025-05-23 00:01:36",
       "album": {
         "name": "Amen",
@@ -975,6 +959,42 @@
       "duration_ms": 198929,
       "name": "Amen",
       "url": "https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     }
   ],
   "unique_name": "Gospel Greatness",

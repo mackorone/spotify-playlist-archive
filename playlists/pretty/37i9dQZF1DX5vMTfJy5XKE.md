@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,062 likes - 256 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,051 likes - 256 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 104 | [O Come All Ye Faithful](https://open.spotify.com/track/2EDdWfBwIQPR94gbGIDHeE) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [O Come All Ye Faithful](https://open.spotify.com/album/2Tb5yS61H1XeS8BNqG9VSq) | 3:33 |
 | 105 | [This Christmas Eve](https://open.spotify.com/track/6NTvl2bXgEHamsU2oWGbVL) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [This Christmas Eve](https://open.spotify.com/album/1YQ708IFUolAz4eb3JXFDk) | 3:45 |
 | 106 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/53ask76GUbpe7E9kKSBcoA) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [How Daði Stole Christmas](https://open.spotify.com/album/3UMzBvOcONkrAdPDJ9L03l) | 2:34 |
-| 107 | [Christmas Once Again](https://open.spotify.com/track/1YdxNiZocph3SNkG6NcML1) | [ROE](https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw) | [Christmas Once Again](https://open.spotify.com/album/1aZciIRVzR6cw3b3pTGwin) | 3:34 |
+| 107 | [Christmas Once Again](https://open.spotify.com/track/1YdxNiZocph3SNkG6NcML1) | [roe](https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw) | [Christmas Once Again](https://open.spotify.com/album/1aZciIRVzR6cw3b3pTGwin) | 3:34 |
 | 108 | [Christmas In Dixie](https://open.spotify.com/track/2HUqqFjgoqUgkfckEQo7RX) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Christmas In Dixie](https://open.spotify.com/album/0HGDbKzBdcSBA2feW9A2bG) | 3:36 |
 | 109 | [Hero is Born](https://open.spotify.com/track/3VAE2YiVcelxBYPhDvYFzN) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Sunny Days](https://open.spotify.com/album/5FTFl9FxKsvNGzvPGHWbtC) | 4:02 |
 | 110 | [Small Christmas Tree](https://open.spotify.com/track/2BoISPwCr9uctrPU3xaVFD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Small Christmas Tree](https://open.spotify.com/album/0q61jEAyFN5Prpd4L7Kdzu) | 2:58 |

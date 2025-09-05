@@ -4,7 +4,7 @@
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>!
 
-98 songs - 3 hr 45 min
+99 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [kick ass!](https://open.spotify.com/track/3a6ldH3xzv2vuhJQ3NCBHF) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 1:35 | 2023-01-24 |  |
 | [kick ass!](https://open.spotify.com/track/5rwUKgoWvAuUT8nnVvwhYM) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:36 | 2022-11-22 | 2023-01-26 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 |  |
+| [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/track/4FI5XZ9paE4Lliaacra77p) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/album/3osCW6kofsU9dIlILmL46l) | 4:12 | 2025-09-04 |  |
 | [livingroom](https://open.spotify.com/track/1C8sLnhckOv6cU29nwDXxQ) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 2:42 | 2023-01-24 |  |
 | [livingroom](https://open.spotify.com/track/6XAEEforyl2ntmg6ZIeePj) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 2:42 | 2022-11-22 | 2023-01-26 |
 | [looking for something](https://open.spotify.com/track/38V47jETTx8rt4RKagECBR) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 1:23 | 2023-01-24 |  |

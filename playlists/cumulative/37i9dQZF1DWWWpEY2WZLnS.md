@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-390 songs - 18 hr 47 min
+391 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [RULAY & PICA POLLO](https://open.spotify.com/track/5Ri7Ijy3CmlItHWusfl1Aw) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [EL REY DEL DEMBOW](https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko) | 4:23 | 2023-10-13 | 2024-04-19 |
 | [Rulay & Pica Pollo](https://open.spotify.com/track/5SoD0boUrXxx7YBYF2TA5P) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [Rulay & Pica Pollo](https://open.spotify.com/album/3IX8Yc0qPOtLKxlL9wFdiH) | 4:23 | 2023-05-26 | 2024-01-12 |
 | [RULAY & PICA POLLO](https://open.spotify.com/track/7pgLXub9tIvfXMT7MpJRQM) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 4:23 | 2023-10-13 | 2024-01-06 |
+| [Rulay y Pico](https://open.spotify.com/track/22hHcBsrTT43c3rZUBKFZF) | [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX), [Megadivo Produce](https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN) | [Rulay y Pico](https://open.spotify.com/album/45OhNC88b4cu2bbGWAHc4b) | 1:41 | 2025-09-04 |  |
 | [Ruleta](https://open.spotify.com/track/1TmaUCaKqjWmd1JAsU4jo3) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 2:49 | 2022-06-10 | 2023-03-11 |
 | [Ruleteo](https://open.spotify.com/track/5lmddNNeMNBkPQlYtfnz6p) | [Geezly](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Ruleteo](https://open.spotify.com/album/5bu1OiPYRGb1gAsTWkY334) | 3:27 | 2023-02-09 | 2023-08-04 |
 | [Rumba](https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Rumba](https://open.spotify.com/album/0YrHyGolRAyrQ508sh4Yw4) | 3:15 | 2021-11-19 | 2023-03-11 |
@@ -335,7 +336,7 @@
 | [Subelo a Toa](https://open.spotify.com/track/5o094hEVHpIRLDs2m7poou) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Subelo a Toa](https://open.spotify.com/album/3VXAwrFop6NLtixXBVvg41) | 3:34 | 2023-02-09 | 2023-08-04 |
 | [Subete](https://open.spotify.com/track/7IKPzIshm586JYCchDyfAc) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Subete](https://open.spotify.com/album/7goblZdJaGWwVHICaveWJm) | 3:44 | 2023-02-09 | 2023-08-04 |
 | [Suenala](https://open.spotify.com/track/0ZQFdcp6FPpMSaMv6VC8HL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:07 | 2023-02-09 | 2023-03-11 |
-| [Ta De Pinga](https://open.spotify.com/track/6ZquSdL7KYhvO9F3RzuVmI) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Ta De Pinga](https://open.spotify.com/album/1PUje53LXjfJdaElDXPIHO) | 3:09 | 2025-05-29 |  |
+| [Ta De Pinga](https://open.spotify.com/track/6ZquSdL7KYhvO9F3RzuVmI) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Ta De Pinga](https://open.spotify.com/album/1PUje53LXjfJdaElDXPIHO) | 3:09 | 2025-05-29 | 2025-09-05 |
 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 | 2023-05-26 | 2023-08-04 |
 | [Talco](https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Talco](https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO) | 2:16 | 2023-06-27 | 2024-07-16 |
 | [Tamo Alante](https://open.spotify.com/track/0qSrSbS1zimVtOzfLCswp9) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tamo Alante](https://open.spotify.com/album/2QE1c3W38za9tSbcYkIBlT) | 2:52 | 2023-02-09 | 2023-06-28 |

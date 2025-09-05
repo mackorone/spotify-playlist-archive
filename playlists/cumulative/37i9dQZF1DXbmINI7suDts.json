@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Agenda",
+        "url": "https://open.spotify.com/album/79P9lpJeCfUvRW2FJDTJCx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234768,
+      "name": "AGENDA",
+      "url": "https://open.spotify.com/track/40D9TE1bStQ10lNDnhlbMP"
+    },
+    {
+      "album": {
         "name": "Akaffekye (Acoustic Version)",
         "url": "https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED"
       },
@@ -516,7 +534,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 269386,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2"
@@ -1110,6 +1128,24 @@
       "duration_ms": 187686,
       "name": "I'M FINE",
       "url": "https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU"
+    },
+    {
+      "album": {
+        "name": "Kibunomu",
+        "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Mugabi",
+          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278388,
+      "name": "Ileng",
+      "url": "https://open.spotify.com/track/3Y9uzR8D44o11xqB4Pw6ev"
     },
     {
       "album": {

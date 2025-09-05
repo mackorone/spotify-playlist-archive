@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3088,
+  "num_followers": 3093,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACKS5O+BipVVuqwDIt38ihW",
+  "snapshot_id": "aLeFAAAAAABr8qQnxuO5TTHCCaT9qrA8",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 214292,
+      "name": "jap\u00f3n",
+      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "jap\u00f3n",
-      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 233656,
-      "name": "Al Fondo de M\u00ed",
-      "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
+      "duration_ms": 219449,
+      "name": "Hbls Mucho",
+      "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 219449,
-      "name": "Hbls Mucho",
-      "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
+      "duration_ms": 233656,
+      "name": "Al Fondo de M\u00ed",
+      "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
     },
     {
       "added_at": null,

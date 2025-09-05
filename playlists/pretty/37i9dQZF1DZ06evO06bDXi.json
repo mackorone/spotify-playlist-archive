@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACkpc8GqAAfeRilz0xtGuQS",
+  "snapshot_id": "aLeFAAAAAACvZ6zJ+IYcMHcFb+GhCD4L",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Liebesleid",
-      "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
+      "duration_ms": 872840,
+      "name": "The Devil's Trill",
+      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 872840,
-      "name": "The Devil's Trill",
-      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
+      "duration_ms": 194000,
+      "name": "Liebesleid",
+      "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
     },
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
+      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bach: Solo Violin Sonatas",
         "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
@@ -615,22 +635,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
-      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
+      "duration_ms": 222853,
+      "name": "Confluence",
+      "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
     },
     {
       "added_at": null,
@@ -691,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 86106,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
+      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -708,29 +752,9 @@
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Confluence",
-      "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 86106,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
-      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
+      "duration_ms": 216626,
+      "name": "Chiyo's Prayer",
+      "url": "https://open.spotify.com/track/0GVKpQYmaaFcm2plMqmRSG"
     },
     {
       "added_at": null,
@@ -791,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
+      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -808,29 +852,9 @@
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Chiyo's Prayer",
-      "url": "https://open.spotify.com/track/0GVKpQYmaaFcm2plMqmRSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 144133,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
-      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
+      "duration_ms": 292133,
+      "name": "Becoming a Geisha",
+      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
     },
     {
       "added_at": null,
@@ -887,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 164013,
-      "name": "The Garden Meeting",
-      "url": "https://open.spotify.com/track/1gyZVY9EM1DWwGg89tbHcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
         "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
       },
@@ -935,6 +935,30 @@
       "duration_ms": 250000,
       "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
       "url": "https://open.spotify.com/track/08kjFJ0LhWKmICdkYChBou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 164013,
+      "name": "The Garden Meeting",
+      "url": "https://open.spotify.com/track/1gyZVY9EM1DWwGg89tbHcS"
     },
     {
       "added_at": null,
@@ -983,30 +1007,6 @@
       "duration_ms": 212573,
       "name": "Tara's Theme (From \"Gone with the Wind\" 1939)",
       "url": "https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Becoming a Geisha",
-      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
     },
     {
       "added_at": null,
@@ -1172,16 +1172,8 @@
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Rod Temperton",
-          "url": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
-        },
-        {
-          "name": "Jeremy Lubbock",
-          "url": "https://open.spotify.com/artist/6baj3i3ryWLqnpgot0XKT8"
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
         },
         {
           "name": "Itzhak Perlman",
@@ -1196,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
         }
       ],
-      "duration_ms": 269026,
-      "name": "The Color Purple: Main Title",
-      "url": "https://open.spotify.com/track/3MsOo0SIZYib9mfalJvKSc"
+      "duration_ms": 250066,
+      "name": "The Age of Innocence: Theme",
+      "url": "https://open.spotify.com/track/43wyMgvDfI5FZ9RHvpP5pF"
     },
     {
       "added_at": null,

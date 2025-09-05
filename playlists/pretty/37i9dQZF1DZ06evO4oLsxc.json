@@ -1,13 +1,33 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 813,
+  "num_followers": 822,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACfqvySsiQyHyhym9K1p3MN",
+  "snapshot_id": "aLeFAAAAAADGt0Uc/zT51TfrQUbyUcUh",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
+    },
     {
       "added_at": null,
       "album": {

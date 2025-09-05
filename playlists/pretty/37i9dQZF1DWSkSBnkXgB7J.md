@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nasser
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,520 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,521 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LAMA TROU2](https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LAMA TROU2](https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31) | 3:16 |
-| 2 | [Mali](https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Mali](https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT) | 2:57 |
-| 3 | [7OB BAS EH](https://open.spotify.com/track/0vBOuyqWiVpARtV1Nh1w36) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [7OB BAS EH](https://open.spotify.com/album/2bN1FzC6pFqTayMEKJmszE) | 2:55 |
+| 1 | [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 |
+| 2 | [LAMA TROU2](https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LAMA TROU2](https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31) | 3:16 |
+| 3 | [Mali](https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Mali](https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT) | 2:57 |
 | 4 | ['BOUT U](https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:59 |
 | 5 | [تعانديني](https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [تعانديني](https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs) | 3:09 |
 | 6 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 |
 | 50 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 |
 
-Snapshot ID: `AAAAABGvdb2CFuhrAWs7amilRHZ6Ims+`
+Snapshot ID: `AAAAANPTRTb96WVJ07QOXsxuYetOgmhe`

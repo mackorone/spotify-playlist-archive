@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 977121,
+  "num_followers": 977272,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACeRlZsWtxTiJ2BDmMPEFMZ",
+  "snapshot_id": "aLeFAAAAAADjIdYZaU5JjQZeyO3EIfWU",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alza El Vuelo",
         "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 172361,
       "name": "Tiernas Mentiras",
       "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Me La Escondieron Sus Padres",
+      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13 Celebrando El 13",
         "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 197266,
       "name": "T\u00fa Sabes Quien",
       "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Hoy Empieza Mi Tristeza",
-      "url": "https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK"
     }
   ],
   "unique_name": "This Is Joan Sebastian",

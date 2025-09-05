@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-313 songs - 21 hr 23 min
+314 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Fauna](https://open.spotify.com/track/3LQ23jIekEzoP1BG0BMOv2) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Fauna](https://open.spotify.com/album/4PnKCCuzXvDg1QQobNfPD7) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 | 2022-01-14 | 2024-02-24 |
 | [Feel It Still](https://open.spotify.com/track/7MKVZqTTMCwuJevnFX8rtu) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr), [Warren](https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY) | [Feel It Still](https://open.spotify.com/album/2mw8ukho8umDiLim1lKQ0E) | 3:03 | 2024-05-10 | 2024-06-19 |
+| [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 | 2025-08-28 |  |
 | [Feels Like Home](https://open.spotify.com/track/6RMu6i69byAclapnUHdyFZ) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Feels Like Home](https://open.spotify.com/album/7kGKwjJjYg3y4vXZGRPgj1) | 4:44 | 2024-07-18 | 2024-08-16 |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-05-10 | 2025-06-27 |
 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 | 2025-06-26 |  |
@@ -108,7 +109,7 @@
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-02-16 | 2025-05-04 |
 | [Haven](https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Haven](https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp) | 3:44 | 2024-08-15 | 2024-11-22 |
 | [Healing](https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Healing](https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp) | 3:47 | 2024-09-13 | 2025-07-10 |
-| [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 | 2025-03-14 |  |
+| [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 | 2025-03-14 | 2025-09-05 |
 | [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-09-27 | 2024-10-29 |
 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 | 2024-07-05 | 2024-09-13 |
 | [Hero](https://open.spotify.com/track/42j9s3ezCCR9wC1fJ4X3iz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Emery Taylor](https://open.spotify.com/artist/73xTk3QtMXI3Hd5PBVkNwx) | [Hero](https://open.spotify.com/album/3YwNWS7OPQHEp1wBorm5T0) | 3:52 | 2024-07-05 | 2024-08-16 |

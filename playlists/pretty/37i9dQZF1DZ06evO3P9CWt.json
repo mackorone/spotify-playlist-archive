@@ -1,37 +1,13 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280577,
+  "num_followers": 280571,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACx42inWaaxQEqI5tywdEO0",
+  "snapshot_id": "aLeFAAAAAAC9wLg03YJvnTrQY39IoW5z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "place of my own (maffalda remix)",
-        "url": "https://open.spotify.com/album/1qfdAMPjDbIEmN36zVIWV1"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 109891,
-      "name": "place of my own (maffalda remix)",
-      "url": "https://open.spotify.com/track/01NMdI3OGMs5xP31JAU8h3"
-    },
     {
       "added_at": null,
       "album": {
@@ -479,6 +455,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "name": "Jup do Bairro",
+          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "duration_ms": 247037,
+      "name": "Descontrolada - Cyberkills Remix",
+      "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -507,34 +511,6 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        },
-        {
-          "name": "Jup do Bairro",
-          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
-        },
-        {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
-        }
-      ],
-      "duration_ms": 247037,
-      "name": "Descontrolada - Cyberkills Remix",
-      "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
     },
     {
       "added_at": null,
@@ -791,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -839,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 155597,
       "name": "A Lua",
       "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "place of my own (maffalda remix)",
+        "url": "https://open.spotify.com/album/1qfdAMPjDbIEmN36zVIWV1"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 109891,
+      "name": "place of my own (maffalda remix)",
+      "url": "https://open.spotify.com/track/01NMdI3OGMs5xP31JAU8h3"
     },
     {
       "added_at": null,

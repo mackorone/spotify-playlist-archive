@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-976 songs - 2 day 0 hr 58 min
+978 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Lemonade](https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lemonade](https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH) | 2:26 | 2024-01-25 | 2024-04-30 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-15 | 2023-04-14 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 | 2025-07-30 |
-| [Level Up](https://open.spotify.com/track/1oJJQpxFMz0A0h4MngHQi1) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Level Up](https://open.spotify.com/album/60Kb7iVoNXoC84HnTMcqzj) | 3:22 | 2025-06-19 |  |
+| [Level Up](https://open.spotify.com/track/1oJJQpxFMz0A0h4MngHQi1) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Level Up](https://open.spotify.com/album/60Kb7iVoNXoC84HnTMcqzj) | 3:22 | 2025-06-19 | 2025-09-05 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-27 | 2023-02-21 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-20 | 2022-03-04 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-26 | 2024-04-05 |
@@ -753,7 +753,7 @@
 | [Skavlan](https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Skavlan](https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b) | 1:55 | 2022-11-17 | 2022-12-16 |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-18 | 2024-02-16 |
 | [Skriker mitt namn](https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Skriker mitt namn](https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr) | 3:01 | 2025-01-17 | 2025-05-30 |
-| [Skyddar mig från dig](https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Skyddar mig från dig](https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9) | 3:05 | 2025-06-27 |  |
+| [Skyddar mig från dig](https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Skyddar mig från dig](https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9) | 3:05 | 2025-06-27 | 2025-09-05 |
 | [Skål](https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Skål](https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W) | 2:55 | 2022-05-26 | 2022-06-24 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 | 2023-05-05 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 | 2023-10-20 |
@@ -822,6 +822,7 @@
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-04 | 2024-04-09 |
 | [Svart Ferrari](https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Svart Ferrari](https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb) | 3:15 | 2024-01-12 | 2024-02-09 |
 | [Svett](https://open.spotify.com/track/4uXlhWXPnysM9HQMFqzU3f) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Svett](https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg) | 3:06 | 2024-04-04 | 2024-05-10 |
+| [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 | 2025-09-04 |  |
 | [Sweet Propane](https://open.spotify.com/track/4qltoD1gaii37oKvSxEen8) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Sweet Propane](https://open.spotify.com/album/44v4ygwjuv7BdyPgHueDyH) | 2:38 | 2025-07-14 | 2025-08-29 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-16 | 2021-12-29 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-11 | 2022-04-06 |
@@ -851,6 +852,7 @@
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-13 | 2024-06-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-03 | 2022-06-10 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-24 | 2025-03-07 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-02-08 | 2024-04-12 |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-05-03 | 2022-05-14 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-12 | 2024-11-08 |

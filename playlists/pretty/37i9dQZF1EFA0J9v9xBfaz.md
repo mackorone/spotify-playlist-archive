@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089 likes - 174 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090 likes - 174 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 93 | [Ojalá](https://open.spotify.com/track/3d2JQX7krunAaZ07gtQhCG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:35 |
 | 94 | [Qué Me Contás](https://open.spotify.com/track/3tyl9sCGLh17nDtZo73Lrz) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:29 |
 | 95 | [Te Acuerdas](https://open.spotify.com/track/7g3ezLhEW38T80iydvEyQz) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:47 |
-| 96 | [Miradas Raras](https://open.spotify.com/track/090hDgrCGBBnex7ojpX9Fi) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:15 |
-| 97 | [Feliz de Mentira](https://open.spotify.com/track/5Yxlmh4fmu16ivEabEbD9l) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:11 |
-| 98 | [Tus Labios \- Remix](https://open.spotify.com/track/6beUeiXO8rabGQ6Qv9vWsD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:15 |
+| 96 | [Tus Labios \- Remix](https://open.spotify.com/track/6beUeiXO8rabGQ6Qv9vWsD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:15 |
+| 97 | [Miradas Raras](https://open.spotify.com/track/090hDgrCGBBnex7ojpX9Fi) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:15 |
+| 98 | [Feliz de Mentira](https://open.spotify.com/track/5Yxlmh4fmu16ivEabEbD9l) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:11 |
 | 99 | [Lo Malo](https://open.spotify.com/track/4kIuPsijmLzK11RTCseKh7) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:08 |
 | 100 | [Duvibes](https://open.spotify.com/track/5CiWKzBkTveHezqY3TQmCW) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:00 |
 | 101 | [FLOWHOT \(feat\. Arcángel, De La Ghetto, Randy\)](https://open.spotify.com/track/617mNvfkXLMu1NisQfvYF2) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/1Qote9MpqMZluWzYGifZUg) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 3:53 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 173 | [Interludio](https://open.spotify.com/track/1BnmnbRmsZ6fG1qxlLJlZc) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 0:48 |
 | 174 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Ab7RCgAAAACmY9dYnBxkwrTzcw24jckW`
+Snapshot ID: `Ab7WyAAAAADaNoLhSlR0A9NGMbPNboIJ`

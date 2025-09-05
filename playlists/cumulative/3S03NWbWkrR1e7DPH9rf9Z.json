@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/6THQHorcC4l999ZOSRNMKY"
+      },
+      "artists": [
+        {
+          "name": "Samlight",
+          "url": "https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8"
+        },
+        {
+          "name": "Robin Vane",
+          "url": "https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185052,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/51JxU3SCvmkPCkMDXYw4hB"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb"
       },

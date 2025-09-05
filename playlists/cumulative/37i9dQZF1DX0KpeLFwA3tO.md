@@ -2,7 +2,7 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Pinkshift
+> The best new music from the wide world of punk\. Cover: State Champs
 
 2,701 songs - 5 day 14 hr 56 min
 

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-690 songs - 1 day 16 hr 37 min
+693 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Fin de Año](https://open.spotify.com/track/0Rfu3GCteqD7TUBi3E2N4X) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Fin de Año](https://open.spotify.com/album/62gcadq4Av5tnPUngu4c0K) | 3:21 | 2022-06-03 | 2022-07-29 |
 | [Flama](https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC) | [ASTOR](https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC) | [Flama](https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt) | 4:51 | 2022-07-01 | 2023-04-30 |
 | [FLASH/TRASH](https://open.spotify.com/track/1AB2VzsMPHdGZqnOFNrXBr) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [FLASH/TRASH](https://open.spotify.com/album/5VcMoARL6Cb8OW6fX2cjUI) | 7:43 | 2023-08-11 | 2023-10-10 |
+| [Flores celestes](https://open.spotify.com/track/4atvQXe4PizdTZqziPVPl9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Flores celestes](https://open.spotify.com/album/4wSwAYqxfBPb1G6lP67yPa) | 3:10 | 2025-09-05 |  |
 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 | 2022-06-03 | 2022-07-29 |
 | [Flotante](https://open.spotify.com/track/6UuoM5OOo4cCsUrscUdEsc) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Flotante](https://open.spotify.com/album/7wTKcW7WTTZiIuxTvIQw8s) | 3:56 | 2024-10-01 |  |
 | [Fluir](https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Clásico](https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G) | 3:52 | 2022-06-03 | 2023-06-10 |
@@ -259,6 +260,7 @@
 | [Funeral de la planta](https://open.spotify.com/track/73GWGyo979e4uK0HLTYfJa) | [Isla De Encanta](https://open.spotify.com/artist/1svCUR9EYGxi1WJyojzSeu), [Pedro Dalton](https://open.spotify.com/artist/0sqVUoBycukC8qHLfWFFwI), [Pau O'Bianchi](https://open.spotify.com/artist/5IrM3Od3zegOvSvaonotxU) | [Vol.2](https://open.spotify.com/album/0oDPMeUqQHLdWyp9nLq9jQ) | 3:54 | 2022-07-01 | 2023-02-02 |
 | [Galaxica 20](https://open.spotify.com/track/7d1niBlaLfqXOJvj9WTecr) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Galaxica 20](https://open.spotify.com/album/2uFge9s98FA1u8Ah6OmzWT) | 3:13 | 2022-07-01 | 2022-07-12 |
 | [Garantizame](https://open.spotify.com/track/090s13Cs50MXLpg0ZTKjxY) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Guerrera/Soldado](https://open.spotify.com/album/6DpYoyH9mPlgvhc8BNhRvC) | 2:57 | 2022-07-01 | 2022-07-27 |
+| [Gauchito](https://open.spotify.com/track/6oX7qoA3Hfv3PrpypeSlx7) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Único y Nuestro](https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH) | 3:43 | 2025-09-05 |  |
 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [general paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 | 2024-10-11 |  |
 | [GLEEMONEX](https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [GLEEMONEX](https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv) | 3:46 | 2024-11-15 |  |
 | [Golpe de Suerte](https://open.spotify.com/track/7dfDXDGJCLzpIuVzMLSmnP) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe De \(M\)suerte](https://open.spotify.com/album/1InbGrgp8Ibrb3TU8BwHAu) | 1:37 | 2022-07-01 | 2022-07-17 |
@@ -659,6 +661,7 @@
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-16 | 2024-11-15 |
 | [Universos Paralelos](https://open.spotify.com/track/4QLokwnp4RMWpofhjj1zH6) | [Los Lilas](https://open.spotify.com/artist/3u5ZEm7fgzf13JlHwmVhKB) | [Contracorriente](https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN) | 3:22 | 2023-03-03 | 2023-05-11 |
 | [Usted y Su Ambición](https://open.spotify.com/track/78INCh0IZzEjubLUTYBWjs) | [Los Santos Dumont](https://open.spotify.com/artist/3PTY4xpIpcilnbUlLc5hgm), [LÓPEZ](https://open.spotify.com/artist/0lerZBHTvu6BVzAcUhktr0), [LA JULIA SMITH](https://open.spotify.com/artist/30FpmUWpZbOg1DpzD3jmiD), [Pancho Molina](https://open.spotify.com/artist/7EWVeEhwdpM3R7Qzya6srB), [Joaquín Cárcamo](https://open.spotify.com/artist/0FKNFHFtF1fRYowzCNh71D) | [Usted y Su Ambición](https://open.spotify.com/album/09WR2P2s1aFG1C6F1Vp5Fr) | 5:52 | 2024-10-25 | 2024-11-15 |
+| [V.L.T](https://open.spotify.com/track/0d5Yw5qKfRhQ2CmCatlT8J) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6), [Expulsados](https://open.spotify.com/artist/17SdOua747pMkSrZFYlr2L) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:02 | 2025-09-05 |  |
 | [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 | 2023-11-17 | 2024-05-11 |
 | [Vamos a Romper las Cosas](https://open.spotify.com/track/25PwbSvRM1wKz4D78L2cBn) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Vamos a Romper las Cosas](https://open.spotify.com/album/6XHW43TnMufjYqHrtiy7Ju) | 2:27 | 2022-06-03 | 2022-07-23 |
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-07-07 | 2023-10-06 |

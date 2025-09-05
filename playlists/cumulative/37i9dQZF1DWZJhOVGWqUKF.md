@@ -2,7 +2,7 @@
 
 ### [Rock Rotation](https://open.spotify.com/playlist/37i9dQZF1DWZJhOVGWqUKF)
 
-> Sechs Saiten für ein Halleluja\. Cover: The Hives
+> Sechs Saiten für ein Halleluja\. Cover: Amy Lee, Poppy, Spiritbox
 
 630 songs - 1 day 11 hr 56 min
 

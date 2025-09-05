@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>  and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=HAnDya9QRIGtTDBfG7ORiw>Gaise Baba</a>
+> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=Cq4RsTB2RXKpw8OiTj804A>Tkeyz</a>
 
 458 songs - 1 day 16 hr 8 min
 

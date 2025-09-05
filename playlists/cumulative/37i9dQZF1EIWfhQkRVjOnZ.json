@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIWb74gZ4my53>I The Breather</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 244680,
       "name": "1984",
       "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 211146,
       "name": "A Constant Reminder",
       "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "An Ocean Between Us",
       "url": "https://open.spotify.com/track/2wVY3XAbaIK0Kw2fzpuTSN"
@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Blueprints For Future Homes",
+      "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
+    },
+    {
+      "album": {
         "name": "Dead Throne",
         "url": "https://open.spotify.com/album/4aJCOyKPoo44BNCMbA5bP2"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 191173,
       "name": "Collision",
       "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
@@ -934,7 +952,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 252666,
       "name": "Convalescence",
       "url": "https://open.spotify.com/track/49ujOeGn9ErIbGIMNJZDsf"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 268880,
       "name": "Hush Yael",
       "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 204213,
       "name": "In Regards To Myself",
       "url": "https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj"
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 189560,
       "name": "In The Wake Of Pigs",
       "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 236066,
       "name": "Morning Waits",
       "url": "https://open.spotify.com/track/6AqQkZOAE8uhOWdZlyWzrX"
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 191625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 270026,
       "name": "Subverse",
       "url": "https://open.spotify.com/track/0TCO8TeKZIwNE5RVxO44BH"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -3764,7 +3782,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"

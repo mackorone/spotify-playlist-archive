@@ -4,7 +4,7 @@
 
 > Put your speakers to the test with this eclectic collection of legendary tracks.
 
-400 songs - 1 day 8 hr 30 min
+401 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chan Chan](https://open.spotify.com/track/7DqTaelFf846rl1CHmyfOW) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw) | 4:17 | 2021-10-15 |  |
 | [Chan Chan](https://open.spotify.com/track/3bxZhauuIU4ubctdRZwPYW) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 4:18 | 2023-07-13 | 2024-04-19 |
 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 | 2023-04-24 |  |
+| [Cherry](https://open.spotify.com/track/48vCCkJSI77MljkxuC8bfq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Cherry](https://open.spotify.com/album/0iEbDlBevCgw93m7dCgZpe) | 4:32 | 2025-07-18 |  |
 | [Clap Hands](https://open.spotify.com/track/4j6J4FK0fbAAnsUmKJFSTs) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/4PVqDVjitmZwRx8JIs3HJP) | 3:46 | 2021-10-15 | 2025-05-13 |
 | [Clap Hands](https://open.spotify.com/track/5TeoCsHbzWo9UgMW3rv7JL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:46 | 2022-07-20 | 2023-07-15 |
 | [Clap Hands \- 2023 Remaster](https://open.spotify.com/track/08kU4RDOriTDHzxNL90fLU) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs \(2023 Remaster\)](https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx) | 3:47 | 2023-07-13 | 2024-04-19 |
@@ -77,7 +78,7 @@
 | [Default](https://open.spotify.com/track/4SuCydRvxN5EgnC9jvJlQN) | [Atoms For Peace](https://open.spotify.com/artist/7tA9Eeeb68kkiG9Nrvuzmi) | [AMOK](https://open.spotify.com/album/77Ie9frENeQwYUGHrrS0pk) | 5:15 | 2022-07-20 | 2024-04-19 |
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-06-12 |  |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-07-20 | 2024-04-19 |
-| [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 5:45 | 2021-10-15 |  |
+| [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 5:45 | 2021-10-15 | 2025-09-05 |
 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 5:49 | 2021-10-15 |  |
 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 | 2023-02-02 |  |
 | [Don's Kora Song](https://open.spotify.com/track/192H1mOwT6TqfvNjUw4Vcf) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Cantando](https://open.spotify.com/album/0zBUX9ay58kwAfAhZDNGic) | 5:08 | 2023-01-19 | 2023-02-17 |

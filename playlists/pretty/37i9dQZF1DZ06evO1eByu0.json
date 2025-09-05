@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162372,
+  "num_followers": 162375,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAABrSkWBAvYIXRc1gQHQd3j2",
+  "snapshot_id": "aLeFAAAAAAB/paC+hoQw24zPrvTdB7dr",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminho de Milagres",
         "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 275295,
       "name": "Caminho de Milagres",
       "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros 20 Anos Ao Vivo",
         "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 236840,
       "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
       "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,

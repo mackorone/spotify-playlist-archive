@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
+> The most intense local drill music firing up the continent\. Cover:  G4 Boyz
 
-256 songs - 12 hr 52 min
+257 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Asuoden](https://open.spotify.com/track/7Jhg0wUE87NsCY21UdVfu2) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Asuoden](https://open.spotify.com/album/4WANfxrP1zuuX4oxBSek38) | 3:35 | 2024-04-05 | 2024-06-28 |
 | [Atoro \(Lies\)](https://open.spotify.com/track/1mTj0jGPxr9Eh8FvX156nr) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Atoro \(Lies\)](https://open.spotify.com/album/2lLsSwoch7R5PscH95ZG1J) | 3:18 | 2024-06-28 | 2024-07-27 |
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-02-23 | 2025-02-28 |
+| [Azul](https://open.spotify.com/track/138IntrM8hYCGqejrMNOGU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS) | [Azul](https://open.spotify.com/album/6o55lkrss6NOhwpLb0oMNi) | 1:37 | 2025-09-05 |  |
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-29 | 2024-01-05 |
 | [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-06-01 |
 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 | 2022-11-04 | 2022-12-09 |
@@ -250,7 +251,7 @@
 | [WE OK!](https://open.spotify.com/track/1eVQcOvxIAtMPPahZzHMqj) | [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF), [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Keedz](https://open.spotify.com/artist/3fuikpr1GudV4flXd3IbTj), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP), [Nagyi](https://open.spotify.com/artist/3knN0DUMqiJ56FxTyJrPnj) | [WE OK](https://open.spotify.com/album/7AM87tDmLtyQbiBZpqnC57) | 3:09 | 2024-11-22 | 2025-01-31 |
 | [We Outside](https://open.spotify.com/track/2dpRceExYaJlY1kiWJazgm) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [We Outside](https://open.spotify.com/album/0bUBa3JTaOIJvjBWLbrzCT) | 3:45 | 2023-05-11 | 2023-06-10 |
 | [We Paid](https://open.spotify.com/track/0O3WLUlUFXFHaGBE95Phwo) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [We Paid](https://open.spotify.com/album/1mP5v4CE6UHQmNltPnhgA7) | 3:12 | 2024-03-08 | 2025-02-28 |
-| [Wiase Yɛ Spooky](https://open.spotify.com/track/4SUvMydkbVAjnaAhxzju1L) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Wiase Yɛ Spooky](https://open.spotify.com/album/5rQBXQ7cMG6Lz9oeNiAwS7) | 2:37 | 2025-08-29 |  |
+| [Wiase Yɛ Spooky](https://open.spotify.com/track/4SUvMydkbVAjnaAhxzju1L) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Wiase Yɛ Spooky](https://open.spotify.com/album/5rQBXQ7cMG6Lz9oeNiAwS7) | 2:37 | 2025-08-29 | 2025-09-05 |
 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 | 2022-11-18 | 2023-01-28 |
 | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/track/07bE9klPJH5xfXyj5hNlq8) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/album/3onPRPaXRaC4d7y2sqXgX4) | 4:23 | 2022-06-09 |  |
 | [Yaa Baby](https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Yaa Baby](https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb) | 3:27 | 2023-03-29 |  |

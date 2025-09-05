@@ -4,7 +4,7 @@
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 32 min
+47 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,11 @@
 | [No One Knows \(with Laufey\)](https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:59 | 2025-03-04 |  |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2025-03-04 |  |
 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 | 2025-03-04 |  |
+| [Seems Like Old Times \- Bonus Track](https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG) | 2:59 | 2025-09-05 |  |
 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-06 | 2025-09-03 |
 | [Silver Lining](https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 3:17 | 2025-09-03 |  |
 | [Slow Down](https://open.spotify.com/track/4KLZOU5V5XuEkvytSgyW6u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 2:25 | 2025-03-04 |  |
-| [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-10 |  |
+| [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-10 | 2025-09-05 |
 | [Someone New](https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Someone New](https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii) | 3:18 | 2025-03-04 |  |
 | [Street by Street](https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Street by Street](https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw) | 3:44 | 2025-03-04 |  |
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-07-11 |  |

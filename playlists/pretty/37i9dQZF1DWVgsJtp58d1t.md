@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/p/DOJdzu7Dits/?igsh=NTc4MTIwNjQ2YQ==">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,695 likes - 155 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,619 likes - 155 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 89 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
 | 90 | [Burning Up](https://open.spotify.com/track/0jFf0E5IwXuoa9VvfMGezJ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Burning Up](https://open.spotify.com/album/2ree99pgw7rfKASXNnx08q) | 2:06 |
 | 91 | [Took A Turn](https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Took A Turn](https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3) | 4:52 |
-| 92 | [my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
+| 92 | [act xiii: my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act xiii: my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 |
 | 93 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 |
 | 94 | [DYNAMITE](https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [DYNAMITE](https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ) | 2:57 |
 | 95 | [Do It Again](https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do It Again](https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe) | 2:28 |

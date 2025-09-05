@@ -1,12 +1,12 @@
 {
   "description": "Best of  the female era! The biggest hits wrapped in one playlist, with Sabrina Carpenter, Gracie Abrams, Billie Eilish, Chappell Roan and more",
-  "num_followers": 43959,
+  "num_followers": 43951,
   "original_name": "The Female Era ",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAAQyyRiIUUBXTSphYgz1rDK55rkfHdT",
+  "snapshot_id": "AAAQ0z6T7st7iEI7+KHOZRzISHWIpf8O",
   "tracks": [
     {
       "added_at": "2025-08-29 10:07:22",
@@ -23,6 +23,22 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-09-04 07:43:00",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "added_at": "2025-08-29 10:07:22",
@@ -57,20 +73,36 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-08-29 10:07:22",
+      "added_at": "2025-08-29 14:40:14",
       "album": {
-        "name": "d\u00a3aler",
-        "url": "https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI"
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 160337,
-      "name": "d\u00a3aler",
-      "url": "https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6"
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
+    },
+    {
+      "added_at": "2025-08-29 10:07:22",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "added_at": "2025-08-29 10:07:22",
@@ -91,38 +123,6 @@
     {
       "added_at": "2025-08-29 10:07:22",
       "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-08-29 10:22:23",
-      "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 212281,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs"
-    },
-    {
-      "added_at": "2025-08-29 10:07:22",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2025-08-29 10:07:22",
+      "album": {
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6"
     },
     {
       "added_at": "2025-08-29 10:07:22",
@@ -171,6 +187,38 @@
     {
       "added_at": "2025-08-29 10:07:22",
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-08-29 10:22:23",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 212281,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs"
+    },
+    {
+      "added_at": "2025-08-29 10:07:22",
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -201,22 +249,6 @@
       "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
     },
     {
-      "added_at": "2025-08-29 14:40:14",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
       "added_at": "2025-08-29 10:07:22",
       "album": {
         "name": "Manchild",
@@ -231,22 +263,6 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2025-08-29 10:07:22",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "added_at": "2025-08-29 10:07:22",

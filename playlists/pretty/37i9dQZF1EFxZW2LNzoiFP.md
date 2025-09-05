@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 155 | [Dawn](https://open.spotify.com/track/3CdLGLS43fjWVGjZhipOz7) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:42 |
 | 156 | [Joni](https://open.spotify.com/track/6sSRt2THpkn3DdwsmStmd9) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 2:32 |
 | 157 | [For You](https://open.spotify.com/track/1cSUTpCUfxCfC8edMtGfPw) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:38 |
-| 158 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
-| 159 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
+| 158 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
+| 159 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
 | 160 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 |
 | 161 | [Vines](https://open.spotify.com/track/6HjzcRvJrPCPb9Sm4EhKwk) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Vines](https://open.spotify.com/album/7zjWTxQoonrrKIpls4TFaS) | 3:51 |
 | 162 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 185 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 |
 | 186 | [For Life](https://open.spotify.com/track/5S1x9p5NtD9lbEs76eSwog) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
 | 187 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
-| 188 | [Shake](https://open.spotify.com/track/0vMUSEc4Te8dJIwKfwM4ud) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:23 |
-| 189 | [Let me down easy](https://open.spotify.com/track/3cpblYc6m7XTXPjvXiEUkt) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:17 |
+| 188 | [Let me down easy](https://open.spotify.com/track/3cpblYc6m7XTXPjvXiEUkt) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:17 |
+| 189 | [Shake](https://open.spotify.com/track/0vMUSEc4Te8dJIwKfwM4ud) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:23 |
 | 190 | [wraith](https://open.spotify.com/track/6AqOu3JIw2gbA3YPb0QFRY) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:45 |
 | 191 | [fine](https://open.spotify.com/track/0XLmGgWdu0bA9hmBFMhh6b) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 2:03 |
 | 192 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 260 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 261 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `Ab7RFAAAAAD6zp5+ZXqXZdzEndWpKN2k`
+Snapshot ID: `Ab7WyAAAAAAUXNwfiy7nD5wyYNsMSs0o`

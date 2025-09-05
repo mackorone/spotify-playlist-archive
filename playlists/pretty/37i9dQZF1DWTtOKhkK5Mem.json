@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 802904,
+  "num_followers": 802957,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 329800,
       "name": "On Bended Knee",
       "url": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 289906,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 258720,
       "name": "She Believes In Me",
       "url": "https://open.spotify.com/track/5ggOAMsJCAYDHnyoqJ0xAD"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Take It All Away (U.S. Version)",
         "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 204173,
       "name": "True",
       "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "One In A Million You",
-        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham",
-          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "One in a Million You",
-      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Ultimate Manilow",
         "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 197733,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "One In A Million You",
+        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham",
+          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "One in a Million You",
+      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 257133,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2131,6 +2115,22 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 393640,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
+        "name": "The Essential",
+        "url": "https://open.spotify.com/album/21xc2PMrHv2PyMtLR610Jk"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
         }
       ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
+      "duration_ms": 267880,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/6rZLTGM5UEpjL8Beebg1Vo"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
       },
@@ -2375,18 +2391,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Essential",
-        "url": "https://open.spotify.com/album/21xc2PMrHv2PyMtLR610Jk"
+        "name": "Rhino Hi-Five: All-4-One",
+        "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
       },
       "artists": [
         {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
         }
       ],
-      "duration_ms": 267880,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/6rZLTGM5UEpjL8Beebg1Vo"
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2403,22 +2419,6 @@
       "duration_ms": 258226,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Rhino Hi-Five: All-4-One",
-        "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF"
     }
   ],
   "unique_name": "In the Arms of a Woman",

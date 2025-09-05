@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,106 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,118 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Unidos Pelo Amor](https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV) | [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB), [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Brother Simion](https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Banda & Voz](https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E), [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Marina de Oliveira \- Gospel Collection Ao Vivo](https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n) | 3:02 |
 | 50 | [A Alma Abatida](https://open.spotify.com/track/512xriilWCODMzkyhFaR4O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:07 |
 
-Snapshot ID: `aLYzgAAAAABjI2s9cReuy/GkxnT+UR4K`
+Snapshot ID: `aLeFAAAAAAD4Wq10PXFcaCxNR/Q8cRJY`

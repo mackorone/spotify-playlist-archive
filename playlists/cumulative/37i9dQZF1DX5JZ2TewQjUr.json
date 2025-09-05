@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  Dessy",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  \u4e0d\u5e73\u975c\u6c34\u57df",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -13641,6 +13641,24 @@
     },
     {
       "album": {
+        "name": "RESTART",
+        "url": "https://open.spotify.com/album/42aMnaPjwHIEy8o4SQ9vPX"
+      },
+      "artists": [
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "RESTART",
+      "url": "https://open.spotify.com/track/4I7u2RdWLqNmxHomVegl9O"
+    },
+    {
+      "album": {
         "name": "Reunion Song",
         "url": "https://open.spotify.com/album/2M2r0MC6PNElnzIjq8GINA"
       },
@@ -20560,6 +20578,24 @@
       "duration_ms": 195874,
       "name": "\u515c\u5708\u5708",
       "url": "https://open.spotify.com/track/6sGefs5VLUwdWGEoIynhl4"
+    },
+    {
+      "album": {
+        "name": "\u5167\u5728\u5929\u4f7f\u63a7\u8a34",
+        "url": "https://open.spotify.com/album/1IWRHyBdMlDR0Ajiu52T63"
+      },
+      "artists": [
+        {
+          "name": "\u4e0d\u5e73\u975c\u6c34\u57df",
+          "url": "https://open.spotify.com/artist/4EMRISVCxzXmNZUnbqKDD2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "\u5167\u5728\u5929\u4f7f\u63a7\u8a34",
+      "url": "https://open.spotify.com/track/006Q5N3fTBZIZxZtORiyF5"
     },
     {
       "album": {

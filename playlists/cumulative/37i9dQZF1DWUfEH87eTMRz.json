@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186183,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb"
+    },
+    {
+      "album": {
         "name": "Jard\u00edn Phantom",
         "url": "https://open.spotify.com/album/2pd1kVBQvwAecDy4Glqwkr"
       },
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"

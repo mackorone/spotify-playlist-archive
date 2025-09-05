@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Kim x Kany
+> Les hits zouk du moment\. Photo : Lisandro Cuxi
 
-297 songs - 15 hr 50 min
+299 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cadence](https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cadence](https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4) | 3:07 | 2023-09-28 | 2024-09-27 |
 | [CALAPA](https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [CALAPA](https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT) | 2:31 | 2024-08-29 | 2024-10-18 |
 | [Call me](https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Call me](https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP) | 2:37 | 2024-07-04 | 2024-09-13 |
+| [CARDIO](https://open.spotify.com/track/4jGQosmehonskWfrEEzxN4) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs) | [CARDIO](https://open.spotify.com/album/2qCx00xTA23BEgRujR9Qng) | 2:44 | 2025-09-04 |  |
 | [Caresse](https://open.spotify.com/track/7t7sDVNiFNVdmULGJ8HB1A) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Caresse](https://open.spotify.com/album/1hy3yEUGl5nXixgIiQnjJu) | 3:05 | 2025-02-13 | 2025-03-28 |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-04-17 |  |
@@ -100,6 +101,7 @@
 | [Honey](https://open.spotify.com/track/0qQmc7PbruJQ0zQN535nqL) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:56 | 2024-12-19 | 2025-02-14 |
 | [HORS DE PRIX](https://open.spotify.com/track/7BR3hRozwXq5T3YKRi9CUO) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [HORS DE PRIX](https://open.spotify.com/album/7hUX3kp7X8mpeoCHzcGg3I) | 4:21 | 2025-05-22 | 2025-07-11 |
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 | 2025-02-07 |
+| [Il est temps](https://open.spotify.com/track/6FRwVx9fXOArc1UhYWJynk) | [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Il est temps](https://open.spotify.com/album/4SAaZZTo2cl82ZGuaMq1xx) | 2:28 | 2025-09-04 |  |
 | [Il y a moyen](https://open.spotify.com/track/2pS3ttRSUouiYQm7yD66oz) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60) | [Il y a moyen](https://open.spotify.com/album/75TOa84pPwYEsNNabUSNPs) | 2:42 | 2025-07-03 | 2025-07-25 |
 | [Impossible](https://open.spotify.com/track/5967UOGUyajvhOuHJOoGul) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN), [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Impossible](https://open.spotify.com/album/71olblFzyjTlMc31fGdVLo) | 2:58 | 2025-07-10 |  |
 | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/track/6e5pkeDJe4kfJgKuqP3xQH) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/album/7gz1BW4xlM8NHMslH42IEv) | 3:10 | 2024-08-01 | 2025-03-07 |
@@ -149,7 +151,7 @@
 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 | 2023-11-23 | 2024-06-07 |
 | [Magic](https://open.spotify.com/track/7irKeE5J5mE58a0V6aqmNg) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Magic](https://open.spotify.com/album/4FHQhZ4GDfheOaOv7e9DD6) | 2:58 | 2025-06-05 |  |
 | [Maladie](https://open.spotify.com/track/6tcZNDUISmZgUG1nu843mc) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Tamillia](https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:54 | 2025-03-20 | 2025-08-08 |
-| [Malin](https://open.spotify.com/track/1K2GYTdC5izc5ccZ1joDM2) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Malin](https://open.spotify.com/album/18HpPvMadrNskTcePF4ZVY) | 2:27 | 2025-07-03 |  |
+| [Malin](https://open.spotify.com/track/1K2GYTdC5izc5ccZ1joDM2) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Malin](https://open.spotify.com/album/18HpPvMadrNskTcePF4ZVY) | 2:27 | 2025-07-03 | 2025-09-05 |
 | [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 | 2024-02-01 | 2024-03-29 |
 | [Mayday](https://open.spotify.com/track/6NyjNLMgKnPpH3DskxJriG) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Mayday](https://open.spotify.com/album/0b45cVfN3y7J2IWaeDNgL1) | 2:57 | 2024-10-24 | 2024-12-06 |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 | 2024-02-09 |
@@ -171,7 +173,7 @@
 | [Nina](https://open.spotify.com/track/06Gk0XFtdWi0IgZ62nKfoH) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Nina](https://open.spotify.com/album/5Ye2dfGe6z4oS68YRjneZP) | 3:24 | 2025-06-12 |  |
 | [No love](https://open.spotify.com/track/6ZmjgI33WcnLm5xOCFXQy7) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:14 | 2024-06-20 | 2024-09-13 |
 | [Non Non](https://open.spotify.com/track/2mQ3BNPDrrdkpbMXrpzhQU) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Non Non](https://open.spotify.com/album/4S1JZS0GRDYoB9aCkvosjd) | 3:05 | 2024-05-30 | 2024-08-02 |
-| [Nos images](https://open.spotify.com/track/7mNB65WvhACTs98QpTZvtC) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Nos images](https://open.spotify.com/album/5QgpmlgoY5MrxB5oV2M8Ge) | 3:04 | 2025-05-08 |  |
+| [Nos images](https://open.spotify.com/track/7mNB65WvhACTs98QpTZvtC) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Nos images](https://open.spotify.com/album/5QgpmlgoY5MrxB5oV2M8Ge) | 3:04 | 2025-05-08 | 2025-09-05 |
 | [Nous 2](https://open.spotify.com/track/5kf1Bp0L9FZQteJfawmiSa) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Nous 2](https://open.spotify.com/album/2uqvP6OytqOTl3O6r11XO8) | 2:54 | 2023-09-28 | 2023-11-10 |
 | [Nous deux](https://open.spotify.com/track/0szzlgPOFtP4zkT0PwCYhm) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Nous deux](https://open.spotify.com/album/71F50RsJ4zLG8TgmYRVppT) | 3:19 | 2023-10-26 | 2023-12-01 |
 | [Nouvo Mood](https://open.spotify.com/track/0yHyEuO6sXnuJghlnro7Fl) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Nouvo Mood](https://open.spotify.com/album/10fFzO2zWNOQZ8YFSu5jtK) | 2:01 | 2023-11-16 | 2024-01-19 |

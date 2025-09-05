@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3050304,
+  "num_followers": 3050112,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -55,22 +71,6 @@
       "duration_ms": 201160,
       "name": "\u00bfPorqu\u00e9 te vas?",
       "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 234320,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 203753,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Y... sigo mi camino",
         "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 279160,
       "name": "Como yo te amo",
       "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 203753,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "El Angel Del Rock Vol. 2",
         "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 254826,
       "name": "Sue\u00f1os Compartidos",
       "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
       "artists": [
         {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 156306,
-      "name": "D\u00edmelo Delante de Ella",
-      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
+      "duration_ms": 257773,
+      "name": "La Cima del Cielo",
+      "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
         }
       ],
-      "duration_ms": 257773,
-      "name": "La Cima del Cielo",
-      "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
+      "duration_ms": 156306,
+      "name": "D\u00edmelo Delante de Ella",
+      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 2",
-        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 417533,
-      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
-      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 186400,
       "name": "Espejismo",
       "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 2",
+        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 417533,
+      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
+      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
         }
       ],
-      "duration_ms": 213680,
-      "name": "Heridas",
-      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
       },
       "artists": [
         {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
         }
       ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+      "duration_ms": 213680,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Orgullosa Nena",
-      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Si Yo Fuera El...",
         "url": "https://open.spotify.com/album/329Lx0XCFTFb57GUvRXeu7"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 226893,
       "name": "El primer beso",
       "url": "https://open.spotify.com/track/017rrPyzoyI9ALuFW3Eh1t"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Orgullosa Nena",
+      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Cachetada",
-      "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Lo Mejor De Bos\u00e9",
         "url": "https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Cachetada",
+      "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Mi tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 225533,
       "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
       "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Las Ma\u00f1anitas con Pedro Infante",
-        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 239506,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Las Ma\u00f1anitas con Pedro Infante",
+        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "12 Grandes exitos Vol. 2",
-        "url": "https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Las #1 De Ricardo Montaner",
         "url": "https://open.spotify.com/album/6kTJuY3ncsTIMPcgl4bWzP"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 312333,
       "name": "Dejame Llorar",
       "url": "https://open.spotify.com/track/3Bknh2l0uHRTpgTh4iRP96"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

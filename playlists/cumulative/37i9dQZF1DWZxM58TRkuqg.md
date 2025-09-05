@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Tiara Andini
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Ebiet G\. Ade, Iwan Fals
 
-469 songs - 1 day 6 hr 37 min
+470 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 | 2024-01-26 | 2024-04-12 |
 | [Tidak Banyak \- Banyak](https://open.spotify.com/track/5KoC6YdabgtcxPeBVJSQ9J) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Tidak Banyak \- Banyak](https://open.spotify.com/album/4fYVJrm2ngaGcqYw9O4llT) | 4:22 | 2025-08-21 |  |
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
+| [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-04 |  |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-06-07 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |

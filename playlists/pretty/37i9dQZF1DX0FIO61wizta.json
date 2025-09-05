@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 85048,
+  "num_followers": 85068,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -443,38 +443,6 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
-        "name": "Pavarotti Sings Verdi",
-        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Philharmonia Chorus",
-          "url": "https://open.spotify.com/artist/4bXvXL4mlRJP41vVBeVkrp"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 822706,
-      "name": "Hymn of the Nations (Inno delle nazione)",
-      "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -511,8 +479,8 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
-        "name": "Villaz\u00f3n - Verdi",
-        "url": "https://open.spotify.com/album/1P18XYJ3aHkRgV5COTFF8I"
+        "name": "Pavarotti Sings Verdi",
+        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
       },
       "artists": [
         {
@@ -520,21 +488,25 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Rolando Villaz\u00f3n",
-          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         },
         {
-          "name": "Orchestra del Teatro Regio di Torino",
-          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+          "name": "Philharmonia Chorus",
+          "url": "https://open.spotify.com/artist/4bXvXL4mlRJP41vVBeVkrp"
         },
         {
-          "name": "Gianandrea Noseda",
-          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         }
       ],
-      "duration_ms": 115920,
-      "name": "La traviata / Act II: \"O mio rimorso!\"",
-      "url": "https://open.spotify.com/track/25p6BUZVPaMmRxR2N5Knik"
+      "duration_ms": 822706,
+      "name": "Hymn of the Nations (Inno delle nazione)",
+      "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
     },
     {
       "added_at": "2025-07-02 10:06:13",
@@ -599,6 +571,58 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
+        "name": "Villaz\u00f3n - Verdi",
+        "url": "https://open.spotify.com/album/1P18XYJ3aHkRgV5COTFF8I"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Rolando Villaz\u00f3n",
+          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "duration_ms": 115920,
+      "name": "La traviata / Act II: \"O mio rimorso!\"",
+      "url": "https://open.spotify.com/track/25p6BUZVPaMmRxR2N5Knik"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
+        "name": "The Verdi Album",
+        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 641253,
+      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
+      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
         "name": "Celeste Aida - The Verdi Album",
         "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 275626,
       "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
       "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
-        "name": "The Verdi Album",
-        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 641253,
-      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
-      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
     },
     {
       "added_at": "2025-07-02 10:06:13",

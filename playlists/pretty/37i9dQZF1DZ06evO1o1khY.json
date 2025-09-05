@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 40982,
+  "num_followers": 41004,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADqeKzgpJIzn/pZ05fsiLRS",
+  "snapshot_id": "aLeFAAAAAACqHPT8nS+O2Gxo1Wqau1N9",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ILBB2 (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
-      },
-      "artists": [
-        {
-          "name": "Jorjiana",
-          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 133589,
-      "name": "ILBB2 (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dlow Curry",
         "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 229745,
       "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ILBB2 (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
+      },
+      "artists": [
+        {
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 133589,
+      "name": "ILBB2 (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS (BONUS TRACK EDITION)",
-        "url": "https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "K Carbon",
-          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "NEVER FIND (feat. K Carbon)",
-      "url": "https://open.spotify.com/track/059ND5uzljir164IZK7yHa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS (BONUS TRACK EDITION)",
+        "url": "https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "NEVER FIND (feat. K Carbon)",
+      "url": "https://open.spotify.com/track/059ND5uzljir164IZK7yHa"
     },
     {
       "added_at": null,

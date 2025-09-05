@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533 likes - 279 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 279 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 64 | [Avalanche](https://open.spotify.com/track/4E2Spia8iCpVqoVUnjavWe) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 4:18 |
 | 65 | [I Wish I Wanted To](https://open.spotify.com/track/4Q8ycVIJQ48jNX5wzLKmho) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:35 |
 | 66 | [Sleep Machine](https://open.spotify.com/track/6V9muGP1cihb3S7IMePQYc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 4:32 |
-| 67 | [Start + Stop](https://open.spotify.com/track/5ozWJgj7c1kfRUbox5yI8h) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 2:59 |
-| 68 | [KFM](https://open.spotify.com/track/720q9u9LhvPgK9HIeUDCBj) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 2:55 |
+| 67 | [KFM](https://open.spotify.com/track/720q9u9LhvPgK9HIeUDCBj) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 2:55 |
+| 68 | [Start + Stop](https://open.spotify.com/track/5ozWJgj7c1kfRUbox5yI8h) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 2:59 |
 | 69 | [Don't Make up Your Mind](https://open.spotify.com/track/3thlN19wkDEcWLVagWN0lO) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [You're Not Alone](https://open.spotify.com/album/1oi5xjtlkmPXiETr0qp67Y) | 2:53 |
 | 70 | [Secrets](https://open.spotify.com/track/2yCmXmtL8dwzn5R1ULHWDP) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:05 |
 | 71 | [Love Bomb](https://open.spotify.com/track/2xAfukY5A9CDNQpytRsOki) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Bomb](https://open.spotify.com/album/5FG6rO0YX0Xi4bgSM4B7Vf) | 2:46 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 132 | [Amends](https://open.spotify.com/track/1rX0Eg5DdVzrwmgeXr4p4I) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:06 |
 | 133 | [Fool for Love](https://open.spotify.com/track/6Va2JOFQLTBAESZmipm4Wr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Cory Branan](https://open.spotify.com/artist/0uzmoK3E1j2Cvl9XkFs1JR) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:59 |
 | 134 | [dove island](https://open.spotify.com/track/2Lt4ZoL035ZuNEmJB1c11E) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 2:42 |
-| 135 | [The Wish](https://open.spotify.com/track/1vJuuTx0d9D7wNwx7aQGW0) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:58 |
-| 136 | [West Keys](https://open.spotify.com/track/26guTcSX6dBbsYDdSR9LBf) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 3:04 |
+| 135 | [West Keys](https://open.spotify.com/track/26guTcSX6dBbsYDdSR9LBf) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 3:04 |
+| 136 | [The Wish](https://open.spotify.com/track/1vJuuTx0d9D7wNwx7aQGW0) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:58 |
 | 137 | [The Dark Age](https://open.spotify.com/track/1GQX77LeKKgbf9x8WpgeO3) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:14 |
 | 138 | [Phases](https://open.spotify.com/track/1BgftfXFND4zCyLiqZvDxf) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:51 |
 | 139 | [Goldenrod](https://open.spotify.com/track/6zZXMsaXU3DtpFaRrmCRyV) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 4:25 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 278 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 279 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Ab7RFAAAAABQ7uw31fn7iIdCYAhbczso`
+Snapshot ID: `Ab7WvgAAAADHnI+BAtFJEZjIsEXHMk10`

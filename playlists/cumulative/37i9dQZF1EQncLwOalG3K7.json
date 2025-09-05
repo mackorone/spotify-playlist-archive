@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIVUfx6SAqyJz>Agnes Monica</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a>, <a href=spotify:playlist:37i9dQZF1EIXuMtkMegNfR>Andy Grammer</a>, <a href=spotify:playlist:37i9dQZF1EIZAFAJb8SmrK>PinkPantheress</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 223680,
       "name": "Cuando me siento bien",
       "url": "https://open.spotify.com/track/2xUl8Bp6eLddk5mdv8I2Wo"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 249426,
       "name": "Fuimos Amor",
       "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Agnes Is My Name",
+        "url": "https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW"
+      },
+      "artists": [
+        {
+          "name": "Agnes Monica",
+          "url": "https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285960,
+      "name": "Karena Ku Sanggup",
+      "url": "https://open.spotify.com/track/0YRkfp6SGt3Pd0cEtIOABg"
+    },
+    {
+      "album": {
         "name": "Karna Su Sayang",
         "url": "https://open.spotify.com/album/21BdMjk11B9dfhgSErIJFs"
       },
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
@@ -3107,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159068,
+      "name": "She Loves the Rain",
+      "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
+    },
+    {
+      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
@@ -3264,6 +3300,24 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180853,
+      "name": "Step On Up",
+      "url": "https://open.spotify.com/track/3K1y89UHuAEZbpiSPbtAae"
     },
     {
       "album": {
@@ -3534,7 +3588,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 242253,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
@@ -3660,7 +3714,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -4056,7 +4110,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"

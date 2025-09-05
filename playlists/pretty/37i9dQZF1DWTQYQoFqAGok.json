@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63858,
+  "num_followers": 63870,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "No Corro, No Grito, No Empujo",
@@ -71,6 +55,22 @@
       "duration_ms": 156960,
       "name": "Excusez-Moi",
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -207,6 +207,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Dilo! Homenaje a P\u00e9rez Prado",
         "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 214300,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
-        }
-      ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2021-07-28 16:44:28",

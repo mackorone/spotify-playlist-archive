@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Les étoiles" de Léman est le Grand Hit de la semaine.
+> "Coeur maladroit" de Marine est le Grand Hit de la semaine.
 
-274 songs - 14 hr 4 min
+275 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dis le moi quand même](https://open.spotify.com/track/06OsS6q8FfbctG1WhbDQDO) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Osmose](https://open.spotify.com/album/1438Nj1KVGJuLJdsSYNa0t) | 3:33 | 2023-09-28 | 2023-12-09 |
 | [Dis Moi Tout](https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [EQUATEUR](https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR) | 2:52 | 2023-09-28 | 2023-11-11 |
 | [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 | 2024-03-28 | 2024-08-02 |
+| [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-09-04 |  |
 | [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 | 2025-03-20 | 2025-06-06 |
 | [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 | 2023-12-14 | 2024-04-19 |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-09-28 | 2024-01-26 |
@@ -200,7 +201,7 @@
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-16 | 2024-07-19 |
 | [Monstre](https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Monstre](https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu) | 2:41 | 2025-04-03 | 2025-08-08 |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-05-16 | 2024-09-06 |
-| [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-05-22 |  |
+| [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-05-22 | 2025-09-05 |
 | [Ne saute pas](https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:56 | 2024-06-13 | 2024-10-25 |
 | [Nous](https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Nous](https://open.spotify.com/album/1is67cSsBtCg203117l5QH) | 2:35 | 2025-06-26 |  |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-23 | 2025-03-07 |

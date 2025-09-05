@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1897440,
+  "num_followers": 1897560,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADNtB9MJDUNvxhWpPnE82PA",
+  "snapshot_id": "aLeFAAAAAABVibxjJrZ7dSJpkPJNxCZM",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "untitled unmastered.",
-        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "untitled 08 | 09.06.2014.",
-      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 310720,
       "name": "Bitch, Don\u2019t Kill My Vibe",
       "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "untitled unmastered.",
+        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "untitled 08 | 09.06.2014.",
+      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 266080,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "added_at": null,

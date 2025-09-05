@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-244 songs - 14 hr 29 min
+245 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Flowers in the Fields](https://open.spotify.com/track/5FLPIPTV1R8g4gcQEcFcGB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Flowers in the Fields](https://open.spotify.com/album/0PRGDUzgoxuwujJqD57qLB) | 3:06 | 2024-08-01 | 2025-01-17 |
 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 | 2025-08-28 |  |
 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2024-08-30 |
-| [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 | 2025-05-15 |  |
+| [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 | 2025-05-15 | 2025-09-05 |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 | 2023-10-06 |
 | [Frozen \- Live from Best of Pop](https://open.spotify.com/track/2ALhSY3Su4JB7vXJUORY34) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Frozen \(Live from Best of Pop\)](https://open.spotify.com/album/3akNEfhr26BayeUYvZHhnk) | 2:57 | 2025-06-26 |  |
 | [Frozen In Time](https://open.spotify.com/track/7qoc1IZ1k6FXlF5KrPqAXe) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Frozen In Time](https://open.spotify.com/album/2Xd0nXYllq7usaXQ99UXlA) | 2:58 | 2023-10-05 | 2023-10-31 |
@@ -179,6 +179,7 @@
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-11-14 |  |
 | [Ring Them Bells](https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Kingdom of Mine](https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI) | 4:17 | 2024-04-25 | 2025-01-17 |
 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 | 2023-04-27 | 2024-08-30 |
+| [Rolling on a Dime](https://open.spotify.com/track/6PomA1h11dVqihNpfNigIE) | [Quinty's](https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl) | [Rolling on a Dime](https://open.spotify.com/album/19kvlZcYGKC7AieVWT6HtI) | 3:07 | 2025-09-04 |  |
 | [Russell County Line](https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Russell County Line](https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h) | 4:09 | 2023-02-23 | 2024-05-24 |
 | [Russell County Line](https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 4:09 | 2024-04-11 | 2024-04-19 |
 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 | 2025-02-07 | 2025-03-14 |
@@ -248,7 +249,7 @@
 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 | 2025-04-17 |  |
 | [Will I Ever Love Again \(feat\. Christina Barrett\)](https://open.spotify.com/track/6sKBBcC2A2LHQmu818UPdB) | [Blue Hue](https://open.spotify.com/artist/06Hn5bMvONssasZlSCJ7fU), [Christina Barrett](https://open.spotify.com/artist/0wCF391GJXKDyaKZcrvrEM) | [Birdsongs \(feat\. Christina Barrett\)](https://open.spotify.com/album/4ukEFrB5vzdV7UTnytGUgq) | 3:06 | 2025-08-09 |  |
 | [Win My Heart](https://open.spotify.com/track/04vYVXnigtNtKDfHtjLwS4) | [Mycah](https://open.spotify.com/artist/11LEf5PXavWVHgzSLXcaeV) | [Win My Heart](https://open.spotify.com/album/5rtIZDLfrJ5k2mtnvcaPu1) | 3:50 | 2024-09-19 | 2024-11-09 |
-| [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 | 2025-04-17 |  |
+| [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 | 2025-04-17 | 2025-09-05 |
 | [Won't Let 'Em Get Along](https://open.spotify.com/track/1QbrlKumzE3OHPOLDogetM) | [JOASH](https://open.spotify.com/artist/0lyPU5DtC3T67GiEtJ2SJX) | [Won't Let 'Em Get Along](https://open.spotify.com/album/2tr18iimucQdn3ptjsZRaz) | 3:53 | 2025-08-14 | 2025-08-29 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-02-23 | 2023-09-22 |
 | [Young At Heart](https://open.spotify.com/track/1EmCT6WLXdn6WMagoOtsXy) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS) | [Young At Heart](https://open.spotify.com/album/5wnk5LWQOATrZmAz0x1VUX) | 5:23 | 2024-11-08 | 2025-02-05 |

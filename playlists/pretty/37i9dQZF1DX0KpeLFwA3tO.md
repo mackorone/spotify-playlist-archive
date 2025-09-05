@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Pinkshift
+> The best new music from the wide world of punk\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,872 likes - 151 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,876 likes - 151 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 150 | [DUD](https://open.spotify.com/track/3TDYyOyKMZqGlk2OOZ1nvh) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [DUD](https://open.spotify.com/album/2i2ZDjUHLMDMtYWrazDaFr) | 3:31 |
 | 151 | [BITE MY TONGUE](https://open.spotify.com/track/2L1pwAyA9lRfgaalqofUqt) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [BITE MY TONGUE](https://open.spotify.com/album/6shUVZFALrsOBywT2JxL0Y) | 2:39 |
 
-Snapshot ID: `AAAAADDKZVglnT1vdb5lFkoAcHulDzjj`
+Snapshot ID: `AAAAAEGBZBVaOluLzuzxvj9jEP9Sd+6L`

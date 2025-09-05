@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-465 songs - 1 day 3 hr 23 min
+466 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Pela Janela](https://open.spotify.com/track/3vxM6AQVRD2Hsw8YrRDQb3) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Pela Janela](https://open.spotify.com/album/0VyG9Rk3cWAjpymKbj1seg) | 2:21 | 2021-12-24 | 2022-07-20 |
 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 | 2021-12-24 | 2025-03-22 |
 | [Perde Tudo](https://open.spotify.com/track/5Gk06ewtT8rdy8Qt5tzBXE) | [Cassiano Andrade](https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl), [Lua Blanco](https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY) | [Perde Tudo](https://open.spotify.com/album/1WUCXHpLMl9fMMIwk8bLvd) | 3:13 | 2021-12-24 | 2022-07-22 |
-| [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-09-02 |  |
+| [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-09-02 | 2025-09-05 |
 | [Plano A](https://open.spotify.com/track/6iQx2epCU2bcMk3tNZZLlx) | [Mateus Noel](https://open.spotify.com/artist/7kQWbAUpx1ch0ZskOPeKec) | [Plano A](https://open.spotify.com/album/1cAWcSDlWgAhCaQrqRtSBI) | 4:35 | 2022-03-25 | 2022-04-20 |
 | [Pneu](https://open.spotify.com/track/4xKTwUPc3ga5w23a9o2WgJ) | [Gelpi](https://open.spotify.com/artist/4Tl6p9xrmtzx5fLIiSKPtb) | [Pneu](https://open.spotify.com/album/5ntUGInu5pSXgInjX4Dn9G) | 3:22 | 2022-03-25 | 2022-07-25 |
 | [Pode \(Ukulele\)](https://open.spotify.com/track/3NUZ7NfdHILDXkRMe6e67e) | [Fabrízio Rubinstein](https://open.spotify.com/artist/2jwQOo6a4B29ezjM7FATPA) | [Pode \(Ukulele\)](https://open.spotify.com/album/5y91n2TjchWyRrKNnRwxvn) | 3:33 | 2021-12-24 | 2022-04-14 |
@@ -398,6 +398,7 @@
 | [Some Lazy Days](https://open.spotify.com/track/6IzIxuegLDSdebVCsHIciW) | [Cícero](https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB) | [Cosmo](https://open.spotify.com/album/5WAzHbc9I1cM61IC6ORoHv) | 2:58 | 2021-12-24 | 2022-04-19 |
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-05-30 | 2024-07-03 |
 | [Something to Believe In \- Live Acoustic](https://open.spotify.com/track/6j0OqIhUxvOgGPTXxNj124) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Something to Believe In \(Live Acoustic\)](https://open.spotify.com/album/7jVFivHz6EeB2Ywx9wUG6j) | 3:44 | 2022-03-25 | 2022-04-21 |
+| [SONHO BOM](https://open.spotify.com/track/6vo62fcxc5fdPduKAsIsLj) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Androla](https://open.spotify.com/artist/0W04RXb1c74K1h1edeplMJ) | [SONHO BOM](https://open.spotify.com/album/5tOnASOYXTSWDPQyO1mFLS) | 3:35 | 2025-09-01 |  |
 | [Space & Time](https://open.spotify.com/track/0UF2tfwzIgYT1nw8EEoPkd) | [Rafael Witt](https://open.spotify.com/artist/3MKdDfOZF0Simyf5JWXpg3) | [Space & Time](https://open.spotify.com/album/6A8cfnHoYihiXnPNdheurz) | 4:16 | 2021-12-24 | 2022-07-27 |
 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-03-08 | 2025-02-22 |
 | [Stars](https://open.spotify.com/track/0IR7vgkswrIXuFNEyinMoH) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC), [Clara Gurjão](https://open.spotify.com/artist/2crvpY41nDEZIQp3Po3j4H) | [Stars](https://open.spotify.com/album/42wFYqAd8stbXgHy388s8t) | 4:02 | 2022-03-25 | 2022-04-19 |

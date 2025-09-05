@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: Nina Suárez
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,675 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,674 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 99 | [Pasti](https://open.spotify.com/track/6EOVJcUvPBtrgNWtUuBrnb) | [Bicicletas](https://open.spotify.com/artist/1JwKBAe8O6J3z8knUBBIM1) | [Pasti](https://open.spotify.com/album/1tYRBD0qTk4XWApdPFAT3Z) | 4:00 |
 | 100 | [La Ranchera](https://open.spotify.com/track/57ghtDy5WJewLL0ggGG8E4) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK), [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [La Ranchera](https://open.spotify.com/album/50hZdC9tlwFWeHMLVqI1ue) | 2:46 |
 
-Snapshot ID: `AAAAAHVXGHpO42FuawTxwaU6QrfwlJLQ`
+Snapshot ID: `AAAAADp2tymWtIgFkvUTtMLkk2/Ej8kh`

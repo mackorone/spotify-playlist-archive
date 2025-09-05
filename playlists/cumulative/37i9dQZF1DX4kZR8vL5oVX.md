@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec THÉA \(du titre \#1 au \#20\).
 
-1,656 songs - 3 day 14 hr 7 min
+1,660 songs - 3 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [C’est l'amour](https://open.spotify.com/track/7rN6ZfNI2NLO4rDIXU4Gey) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [C'est l'amour](https://open.spotify.com/album/7c3GhsG5ByopG3M8ZlGanx) | 3:23 | 2023-01-03 | 2023-02-01 |
 | [Daddy](https://open.spotify.com/track/6Do4bqBjIN6ZlAXsBY5050) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Daddy](https://open.spotify.com/album/1jysTp8hYT1f8wb4Mbf45P) | 2:05 | 2025-03-04 | 2025-04-02 |
 | [Dame un Beso](https://open.spotify.com/track/2ALbKqUuWRDwB61bgfxsOq) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Dame un Beso](https://open.spotify.com/album/1Blvg1TCxOSpHjWyLRmmcp) | 2:52 | 2022-07-05 | 2022-08-03 |
+| [Dancing with my monsters](https://open.spotify.com/track/4vVHUMwyDhZvpr1yQp2wlo) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Sweet Thérapie](https://open.spotify.com/album/0FmlJdxV7Zuoy4hkHn4d8u) | 3:07 | 2025-09-02 |  |
 | [Dans la Chaleur](https://open.spotify.com/track/027KMnt9OZofLLFvJeGTWZ) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Dans la Chaleur](https://open.spotify.com/album/2tYY9qw3JkrNrlEfUToQ2U) | 3:48 | 2022-10-05 | 2022-11-09 |
 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 | 2023-09-05 | 2023-10-04 |
 | [Dans La Neige](https://open.spotify.com/track/2Q72FAtGOzphNpdY2bmaLn) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Dans La Neige](https://open.spotify.com/album/2YTcYREKouFNyEhhYVGmyR) | 2:56 | 2022-02-01 | 2022-03-08 |
@@ -415,6 +416,7 @@
 | [Drama Drama](https://open.spotify.com/track/6a8AfFmpVuA5wkiFMTep6G) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Adieu les monstres](https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA) | 3:13 | 2023-05-02 | 2023-06-07 |
 | [dramatique](https://open.spotify.com/track/78neFQZWJzjsyhh7A36GlU) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [dramatique](https://open.spotify.com/album/40OwdbxhOAxwT0cD60SG1Q) | 2:01 | 2025-07-01 | 2025-09-03 |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2022-01-05 | 2022-02-02 |
+| [Dsl](https://open.spotify.com/track/0bHtlYaLNtjBH6dTcm5HzN) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Dsl](https://open.spotify.com/album/77VCAQjsTkxYFUAvNdaV8X) | 2:36 | 2025-09-02 |  |
 | [Du love et de l'eau](https://open.spotify.com/track/7Kw007ZdpJK64xwI5GHDsa) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Du love et de l'eau](https://open.spotify.com/album/2TobEk26m7VGC1MVMUMBSk) | 3:28 | 2022-10-04 | 2022-11-09 |
 | [DUI](https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [DUI](https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1) | 4:07 | 2024-01-09 | 2024-03-06 |
 | [Décharge Mentale](https://open.spotify.com/track/75Jy6UKUHA9PZBTPhHxI6a) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:05 | 2025-06-03 | 2025-07-02 |
@@ -961,6 +963,7 @@
 | [Maria](https://open.spotify.com/track/42Cqkj0z5q1SfxBs2Pvo31) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Maria](https://open.spotify.com/album/0rSEWeNYKndBPAjwG9yvSE) | 2:47 | 2023-01-03 | 2023-02-01 |
 | [Marianne](https://open.spotify.com/track/7kAA7NbINuaJ6TM89lwaLz) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Golshifteh Farahani](https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB) | [Marianne](https://open.spotify.com/album/40osV1BSzFWp11y4jZLCMq) | 3:41 | 2024-03-05 | 2024-04-03 |
 | [Marine \- Version 2006](https://open.spotify.com/track/4m8WJ3qra5m7WlBYaEqqxB) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 5:40 | 2024-07-02 | 2024-08-07 |
+| [martyre : melancholia](https://open.spotify.com/track/3RKtppzI6iI8XU3L4UFKC4) | [Mathilde](https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO) | [martyre : melancholia](https://open.spotify.com/album/4w9tUgOZ2MOqeFuKHU7aZ3) | 4:14 | 2025-09-02 |  |
 | [Matcha Queen](https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Matcha Queen](https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5) | 3:10 | 2024-04-02 | 2024-06-05 |
 | [Mathématiques](https://open.spotify.com/track/4vnLY3Kte7w8EhLoviMDlq) | [MUS4](https://open.spotify.com/artist/28fbKmZcU706c0zqRvUpXm) | [Mathématiques](https://open.spotify.com/album/1OQWEDEzqFiDv5Gkws7kV3) | 2:18 | 2023-01-31 | 2023-03-01 |
 | [MATTER OF TIME](https://open.spotify.com/track/1BiQ2jfH5Etm1jwmlSEeHZ) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [MATTER OF TIME](https://open.spotify.com/album/6qqsKkM05X5NISYoXNS9gk) | 4:13 | 2022-02-01 | 2022-03-08 |
@@ -1014,6 +1017,7 @@
 | [Morning Routine](https://open.spotify.com/track/2NkaoVNbCdy61p8OZwSKj6) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Morning Routine](https://open.spotify.com/album/6ANSi4Fg2BMTmbpurZxMPs) | 2:47 | 2022-10-04 | 2022-11-09 |
 | [MOROSE](https://open.spotify.com/track/3bvarcfwqxlrB4xq0l59nH) | [Youena](https://open.spotify.com/artist/3DHRU0hg5vsZMizNysGJdg) | [MOROSE](https://open.spotify.com/album/7JUycA3jYjkNkIadJpeVEV) | 2:37 | 2022-01-05 | 2022-02-02 |
 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 | 2024-04-30 | 2024-06-05 |
+| [Motel](https://open.spotify.com/track/4PX5l2OtNm1kxB9fbvijck) | [PAM](https://open.spotify.com/artist/2E71EAN2kOObJw76RVw8Ga) | [Motel](https://open.spotify.com/album/56gFje9D7SUe3jF9EbkJSi) | 2:40 | 2025-09-02 |  |
 | [Mots](https://open.spotify.com/track/5Y045iOWRvJHatv3Xn628s) | [Sirine Jne](https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA) | [Mots](https://open.spotify.com/album/5BXsKColcRALX017nQmfjw) | 2:37 | 2023-01-03 | 2023-02-01 |
 | [Mots justes](https://open.spotify.com/track/5bWBWldobvg6GabTk5sJw4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 3:10 | 2024-03-05 | 2024-04-03 |
 | [Mourir sur scène](https://open.spotify.com/track/2bOZ0Yv5J2CXTSMS03U3kS) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [Mourir sur scène](https://open.spotify.com/album/02ktnKt3SeRQwpvIniN9ZR) | 3:29 | 2023-09-05 | 2023-10-04 |

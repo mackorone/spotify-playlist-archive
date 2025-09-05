@@ -4,7 +4,7 @@
 
 > 
 
-7,666 songs - 19 day 18 hr 55 min
+7,667 songs - 19 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5441,6 +5441,7 @@
 | [Statue of The Seven](https://open.spotify.com/track/6Dv4L5oSBUomHLes9RiLyi) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:24 | 2025-03-23 |  |
 | [STAY](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:50 | 2024-12-10 |  |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2025-04-19 |  |
+| [Stay](https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:26 | 2025-09-04 |  |
 | [Stay](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:00 | 2025-01-15 |  |
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2025-03-31 |  |
 | [Stay Alive](https://open.spotify.com/track/3iRYyU6LhuBD2uXsDjEsRw) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Coexistence](https://open.spotify.com/album/2yupj6Bwjo1m6Jew5uscif) | 3:41 | 2025-01-15 |  |
@@ -6691,7 +6692,7 @@
 | [You \(Vocal Version\)](https://open.spotify.com/track/5yW5kRh4vEFucLL3kbaVSU) | [Dai](https://open.spotify.com/artist/5kjhjobRqKH7jgi9kvHhU6) | [Thanks You](https://open.spotify.com/album/14VvbU7BsxOAKJHafeQkDb) | 3:36 | 2024-12-14 |  |
 | [You Ain't Got Nuthin](https://open.spotify.com/track/7fxzl4qyZBDnLkcsfire2j) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 5:27 | 2025-03-07 |  |
 | [You Ain't Gotta Lie \(Momma Said\)](https://open.spotify.com/track/7A3ETuOrieyx9KSF0sn0Zf) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:01 | 2025-01-03 |  |
-| [You and I](https://open.spotify.com/track/67irOqNx8b9wsGxUKCtqHb) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Royal: Original Soundtrack](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) | 1:49 | 2025-04-20 |  |
+| [You and I](https://open.spotify.com/track/67irOqNx8b9wsGxUKCtqHb) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Royal: Original Soundtrack](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) | 1:49 | 2025-04-20 | 2025-09-05 |
 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2025-01-03 |  |
 | [You Are My Music](https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [Sushi \(4004\)](https://open.spotify.com/album/4hpBGLRgpvJhGO3mzpKsAY) | 5:16 | 2025-01-23 |  |
 | [You are raining all day long \(with sunwoojunga\)](https://open.spotify.com/track/2qnNJ5KMpxIYbZ52HBFeWS) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ), [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Leesangsoon](https://open.spotify.com/album/6nRdBwsz8934Nkz8SaF8zf) | 4:58 | 2025-01-19 |  |

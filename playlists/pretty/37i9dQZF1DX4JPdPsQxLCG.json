@@ -1,28 +1,28 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 103635,
+  "num_followers": 103641,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmwJ/7NwFzRk6FNjp4ubETwU0Xj",
+  "snapshot_id": "AAAAAEtOeeRCslKTC+0kpmKxTGd75lOl",
   "tracks": [
     {
-      "added_at": "2025-08-28 22:19:23",
+      "added_at": "2025-09-05 02:24:40",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
+        "name": "Wild One",
+        "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 277580,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
+      "duration_ms": 142489,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
     },
     {
       "added_at": "2025-07-31 21:25:56",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
+      "added_at": "2025-09-05 02:24:40",
+      "album": {
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
+    },
+    {
       "added_at": "2025-08-07 17:42:47",
       "album": {
         "name": "The Sofa",
@@ -55,22 +71,6 @@
       "duration_ms": 269826,
       "name": "White Horses",
       "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"
-    },
-    {
-      "added_at": "2025-08-21 18:07:16",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 169294,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 211680,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -243,6 +243,22 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "added_at": "2025-08-21 18:07:16",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 169294,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
     },
     {
       "added_at": "2025-08-21 18:07:16",
@@ -341,6 +357,22 @@
       "url": "https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL"
     },
     {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "We Were Born In A Flame",
+        "url": "https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts Band",
+          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "Where Have All The Good People Gone?",
+      "url": "https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb"
+    },
+    {
       "added_at": "2025-07-24 18:02:42",
       "album": {
         "name": "The Cosmic Selector Vol. 1",
@@ -359,18 +391,18 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "We Were Born In A Flame",
-        "url": "https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9"
+        "name": "Make A Little Noise EP",
+        "url": "https://open.spotify.com/album/14mVaClWSmMct9XwQahGb0"
       },
       "artists": [
         {
-          "name": "Sam Roberts Band",
-          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+          "name": "Joel Plaskett Emergency",
+          "url": "https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3"
         }
       ],
-      "duration_ms": 262026,
-      "name": "Where Have All The Good People Gone?",
-      "url": "https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb"
+      "duration_ms": 181640,
+      "name": "Nowhere With You",
+      "url": "https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL"
     },
     {
       "added_at": "2025-08-22 01:53:39",
@@ -387,22 +419,6 @@
       "duration_ms": 173426,
       "name": "who\u2019s your boyfriend",
       "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Make A Little Noise EP",
-        "url": "https://open.spotify.com/album/14mVaClWSmMct9XwQahGb0"
-      },
-      "artists": [
-        {
-          "name": "Joel Plaskett Emergency",
-          "url": "https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Nowhere With You",
-      "url": "https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -507,22 +523,6 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
         "name": "Sounding a Mosaic",
         "url": "https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 187786,
       "name": "When the Night Feels My Song",
       "url": "https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -557,6 +573,22 @@
       "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
     },
     {
+      "added_at": "2025-08-28 22:19:23",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 277580,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
+    },
+    {
       "added_at": "2025-01-22 20:21:19",
       "album": {
         "name": "I Love You So F***ing Much",
@@ -573,22 +605,6 @@
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB"
-    },
-    {
       "added_at": "2025-08-28 22:19:23",
       "album": {
         "name": "Can I Call You in the Morning?",
@@ -603,6 +619,22 @@
       "duration_ms": 172402,
       "name": "Can I Call You in the Morning?",
       "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB"
     },
     {
       "added_at": "2025-08-07 17:42:47",
@@ -769,22 +801,6 @@
       "url": "https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H"
     },
     {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Deadpan Love",
-        "url": "https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
-    },
-    {
       "added_at": "2025-07-24 18:02:42",
       "album": {
         "name": "Goldie Montana",
@@ -799,6 +815,22 @@
       "duration_ms": 245076,
       "name": "Goldie Montana",
       "url": "https://open.spotify.com/track/5vKml30abCjY2IAlborIm2"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Deadpan Love",
+        "url": "https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -1017,22 +1049,6 @@
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
       "added_at": "2025-07-31 21:25:56",
       "album": {
         "name": "Church of Better Daze",
@@ -1063,6 +1079,22 @@
       "duration_ms": 285653,
       "name": "Stay Wild",
       "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
         "name": "When a Thought Grows Wings",
         "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
       },
@@ -1179,6 +1195,22 @@
       "duration_ms": 223929,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -1211,38 +1243,6 @@
       "duration_ms": 169266,
       "name": "90 to 99",
       "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "When You Know Someone",
-        "url": "https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "When You Know Someone",
-      "url": "https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Big Feelings",
-        "url": "https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Big Feelings",
-      "url": "https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi"
     }
   ],
   "unique_name": "Long Drives",

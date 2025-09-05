@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAADeu9xWFdpOLC33dgeWYw3G",
+  "snapshot_id": "aLeFAAAAAABHXbpyRyP2eS0w4E/veRjm",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165333,
-      "name": "(So Glad I'm) Yours",
-      "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
+      "duration_ms": 208760,
+      "name": "A Nice Girl Like You",
+      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 208760,
-      "name": "A Nice Girl Like You",
-      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
+      "duration_ms": 165333,
+      "name": "(So Glad I'm) Yours",
+      "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 395093,
-      "name": "Rainy Days and Mondays",
-      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
+      "duration_ms": 340866,
+      "name": "Everyone's a Star",
+      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 340866,
-      "name": "Everyone's a Star",
-      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
+      "duration_ms": 395093,
+      "name": "Rainy Days and Mondays",
+      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 116050,
-      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
-      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
+      "duration_ms": 312830,
+      "name": "The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
+        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
+        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Tommy Brown",
-          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
+      "duration_ms": 238240,
+      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
+      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
     },
     {
       "added_at": null,
@@ -792,9 +788,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 312830,
-      "name": "The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
+      "duration_ms": 116050,
+      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
+      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
-        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Tommy Brown",
+          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 238240,
-      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
-      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
+      "duration_ms": 257333,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
     },
     {
       "added_at": null,

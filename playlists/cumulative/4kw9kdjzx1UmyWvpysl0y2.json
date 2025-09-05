@@ -7353,6 +7353,36 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "LOCKBOX",
+          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        },
+        {
+          "name": "Gabriel Eli",
+          "url": "https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167403,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2fI8duj2PRrFtBjuZ56Ukz"
+    },
+    {
+      "album": {
         "name": "Frequency Fusion",
         "url": "https://open.spotify.com/album/4gKmRkOzbynrohmMZQOkwl"
       },

@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 盧廣仲 Crowd Lu
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 姜濤 Keung To
 
-233 songs - 15 hr 11 min
+235 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A.I.N.Y\. \(愛你\)](https://open.spotify.com/track/13l9dTRexqjXmzPESkaHU9) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [Neway Music Live X 林欣彤音樂會](https://open.spotify.com/album/5ppZ6CAbt2jAf4HgH3Ov7K) | 2:50 | 2023-02-02 | 2025-04-04 |
 | [A.I.N.Y\. 愛你 \(G.E.M.重生版\)](https://open.spotify.com/track/4uGve3vqfumnGsUMtnGumr) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I AM GLORIA](https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ) | 3:47 | 2025-06-12 |  |
 | [BAD SIGN](https://open.spotify.com/track/2QZfiES4z1qGLWREmTqUKu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [BAD SIGN](https://open.spotify.com/album/6JcbSMJhx8O29eKxgwDeUi) | 3:07 | 2025-04-03 |  |
+| [Colourbration](https://open.spotify.com/track/6rOtcm4d8TjbZf66CLwLtt) | [Straw 林水草](https://open.spotify.com/artist/4J9NMdvmSkuuD8ZgoBcTdv) | [Colourbration](https://open.spotify.com/album/3VYoCAmw16y857qOukiITb) | 3:01 | 2025-09-04 |  |
 | [Crazy for you](https://open.spotify.com/track/4PKWGR4LoNll7GXII66Cjn) | [sino R fine](https://open.spotify.com/artist/7sMfrVvoWbVIeLKkn9cxoO) | [Crazy for you](https://open.spotify.com/album/4ZwDbtFEE7G6zcowuWTBzx) | 3:50 | 2022-03-10 | 2023-02-03 |
 | [Destiny](https://open.spotify.com/track/4JB289q4SM1ZypASnGvg75) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Jirisan \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2y71iGGq3MxDcshtswRaWY) | 3:37 | 2022-03-10 | 2022-07-29 |
 | [Destiny](https://open.spotify.com/track/5kX6Y5BBThQoqN3P0eLPlR) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Jirisan \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4L4zlnoYjdovofJDu8oRSE) | 3:37 | 2022-03-10 | 2023-02-03 |
@@ -174,6 +175,7 @@
 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 | 2025-04-03 | 2025-08-15 |
 | [活得比你好](https://open.spotify.com/track/3H0sbSeSHB7lbvknxiHhL4) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Dahlia II](https://open.spotify.com/album/4oyUjiSeeBwEfKvsASvMwy) | 4:23 | 2024-04-04 | 2025-04-04 |
 | [活著](https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7) | [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [Blooming](https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL) | 3:32 | 2023-02-02 | 2025-04-04 |
+| [流浪星球](https://open.spotify.com/track/488VGW7rB8QDomlqoMlpbo) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [流浪星球](https://open.spotify.com/album/3Fkk9e7uOLt4ZkRg7K5ABl) | 3:48 | 2025-09-04 |  |
 | [消散对白](https://open.spotify.com/track/2u6IWBiX4p0Pl9N7gZ8iRn) | [丁禹兮](https://open.spotify.com/artist/3QsYgWFpxcaXgZLFWReamy) | [消散对白](https://open.spotify.com/album/1GCFufyEbtdsIXs84tf5Wd) | 3:31 | 2025-04-03 | 2025-08-15 |
 | [漣漪 \(音樂永續作品\)](https://open.spotify.com/track/5agxyN0XnlsRNJXXk2xDYN) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Timeless \(音樂永續作品\)](https://open.spotify.com/album/2mWGL5GwVUhIs7UADr4dQS) | 3:08 | 2023-02-02 | 2025-04-04 |
 | [烂片剧情](https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [烂片剧情](https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh) | 3:26 | 2025-04-03 |  |

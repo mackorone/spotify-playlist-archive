@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,326 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,344 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Angel in my plane \- Raw Version](https://open.spotify.com/track/5iEEe8pDgMIpZN40d0vNMD) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Angel in my plane \(Raw Version\)](https://open.spotify.com/album/5wBS1QTqhRSl22YQy1UGTM) | 1:27 |
 | 60 | [Maovu](https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 3:48 |
 
-Snapshot ID: `AAAAABv0L1YJGdGDat/anU14AuqTfLeL`
+Snapshot ID: `AAAAAA6iDVzZ2N1tpo4VGdLIHzp/vdt2`

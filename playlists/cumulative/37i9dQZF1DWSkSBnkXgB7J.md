@@ -4,7 +4,7 @@
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nasser
 
-164 songs - 8 hr 40 min
+165 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [7 PM](https://open.spotify.com/track/4OfifSqm1D9waYSR9dNMbu) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/4qqCIN75XNap1XsJEuMdEH) | 2:36 | 2023-10-05 | 2023-11-25 |
 | [7 PM](https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB) | 2:36 | 2023-10-05 | 2024-04-19 |
 | [7azeen Elwat \(Saudi\)](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\)](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 | 2025-01-29 |  |
-| [7OB BAS EH](https://open.spotify.com/track/0vBOuyqWiVpARtV1Nh1w36) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [7OB BAS EH](https://open.spotify.com/album/2bN1FzC6pFqTayMEKJmszE) | 2:55 | 2025-01-29 |  |
+| [7OB BAS EH](https://open.spotify.com/track/0vBOuyqWiVpARtV1Nh1w36) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [7OB BAS EH](https://open.spotify.com/album/2bN1FzC6pFqTayMEKJmszE) | 2:55 | 2025-01-29 | 2025-09-05 |
 | [966](https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [966](https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0) | 3:29 | 2022-06-24 | 2022-11-09 |
 | [A'yshtiny](https://open.spotify.com/track/4zfHwTLD44LYbz7HH1Lysg) | [Momen Rihan](https://open.spotify.com/artist/0CyOshhqVfUfmaBviztIeU) | [A'yshtiny](https://open.spotify.com/album/3tdL688raITLMsbWZ8tZxG) | 3:53 | 2022-10-10 | 2025-01-30 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2025-01-29 |  |
@@ -130,6 +130,7 @@
 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 | 2023-03-01 | 2024-04-19 |
 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2022-06-24 | 2025-01-30 |
 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 | 2024-05-14 | 2025-01-30 |
+| [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 | 2025-09-04 |  |
 | [Yeshbah lak Aljaw](https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeshbah lak Aljaw](https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy) | 3:16 | 2025-01-29 |  |
 | [Yjeek Youm](https://open.spotify.com/track/0na0JDk8c1wQhUjnotuJRu) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2udasZn8HgsRRuvL4A4mYy) | 3:36 | 2022-06-24 | 2022-07-29 |
 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 | 2022-07-21 | 2022-11-09 |

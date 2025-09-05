@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K"
       },
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -7370,6 +7388,24 @@
       "duration_ms": 259663,
       "name": "Wait - Chromeo Remix",
       "url": "https://open.spotify.com/track/0eayB5jay6m21D816D7jF4"
+    },
+    {
+      "album": {
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/72eW4GfBdULIVENa700Fah"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s"
     },
     {
       "album": {

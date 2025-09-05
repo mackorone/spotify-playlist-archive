@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,222 songs - 4 day 23 hr 6 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,223 songs - 4 day 23 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1097,7 +1097,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1087 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 1088 | [Anaesthetic](https://open.spotify.com/track/6lRdovH3VyWlCgOTTShr3A) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [&&&&&](https://open.spotify.com/album/0KcW8BN4ogk6Rx8QjiCQk6) | 2:13 |
 | 1089 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
-| 1090 | [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [Pathetic](https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 |
+| 1090 | [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [pathetic240px](https://open.spotify.com/artist/6s6HhNePAkax0mfTK1O57K) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 |
 | 1091 | [Rakata](https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:31 |
 | 1092 | [Luna Llena](https://open.spotify.com/track/4I4p4iwxzFzdiz1WOZdZk7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 3:19 |
 | 1093 | [Sail](https://open.spotify.com/track/57Nez0yOaE9h7HuPObxDJP) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Decade](https://open.spotify.com/album/5nVWi9N2LrOLIZ1aKBmqwe) | 2:42 |
@@ -2230,5 +2230,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2220 | [Wonderwall](https://open.spotify.com/track/0UkThDG1AWTyAAKjBjLWuW) | [DJ Warlord](https://open.spotify.com/artist/4DecnizgPMOFv9O949zNov) | [Mystery Leopard Spins Tracks At Local Nightclub](https://open.spotify.com/album/11zlSqz72GCeEZicj2LRID) | 4:03 |
 | 2221 | [Time](https://open.spotify.com/track/4KfZSdlJ2YYZA4Q1p9WzUK) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/443fOM9A1XN8A0HImpYKVT) | 2:01 |
 | 2222 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 |
+| 2223 | [Sunday 2pm](https://open.spotify.com/track/3IxDu6hvBJMHRICPYAonxT) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Planet Piano](https://open.spotify.com/album/2N35clwJXKNPPtuchtssJZ) | 2:59 |
 
-Snapshot ID: `AAAEnkJUC1yQr++uC5nH5+iNQ37rrgLb`
+Snapshot ID: `AAAEn5MotnQ3tYK/A5DylcbPDTVFvCIz`

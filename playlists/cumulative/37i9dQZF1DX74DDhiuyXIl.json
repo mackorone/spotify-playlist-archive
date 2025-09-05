@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 210000,
       "name": "What Am I Fighting For\uff08\u96fb\u5f71\u300a96\u5206\u9418\u300b\u5ba3\u50b3\u66f2\uff09",
       "url": "https://open.spotify.com/track/3sOI1WueGlYX2IrLUccbzi"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 225405,
       "name": "\u4e92\u60e0",
       "url": "https://open.spotify.com/track/3JMfpMiSRcmK7ZF4Oj3myo"
@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 216480,
       "name": "\u5199\u4e86\u53c8\u5220",
       "url": "https://open.spotify.com/track/0nsRHf3LgD2zU23T7cgSbn"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 266342,
       "name": "\u540d\u5b57",
       "url": "https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 218522,
       "name": "\u5982\u679c\u4f60\u4e0d\u611b\u6211",
       "url": "https://open.spotify.com/track/2rFZWJdK3IBSdniJq65cny"
@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 292133,
       "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
       "url": "https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf"
@@ -6889,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u53d7\u5920\u4e86",
+        "url": "https://open.spotify.com/album/46cBSMzcyPoMcK26REi3ip"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u7dad\u82b3",
+          "url": "https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231562,
+      "name": "\u6211\u53d7\u5920\u4e86",
+      "url": "https://open.spotify.com/track/7lFYoq9qxU9OhT90vVH4DB"
+    },
+    {
+      "album": {
         "name": "\u6211\u53ea\u662f\u525b\u597d I Was Only Passing By",
         "url": "https://open.spotify.com/album/5alsrWoXNNVr7H6SydGW6l"
       },
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 240000,
       "name": "\u6362\u6211\u7231\u4f60\uff08\u300a\u660e\u6708\u5165\u537f\u6000\u300b\u5f71\u89c6\u5267\u63d2\u66f2\uff09",
       "url": "https://open.spotify.com/track/4CJOZT77FuMUbpzLfjcUNU"
@@ -9354,7 +9372,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 262588,
       "name": "\u7121\u540d\u4e4b\u8f29 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv"
@@ -9794,7 +9812,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 268000,
       "name": "\u76f8\u5c0d\u975c\u6b62",
       "url": "https://open.spotify.com/track/4k0PAr9OXz2HeovpvizZwc"
@@ -11634,7 +11652,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 273818,
       "name": "\u8def\u908a\u7684\u91ce\u82b1",
       "url": "https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348"
@@ -12672,7 +12690,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 220934,
       "name": "\u96e8\u5929",
       "url": "https://open.spotify.com/track/4HfjKPmWKQtMJedOAqVoTr"

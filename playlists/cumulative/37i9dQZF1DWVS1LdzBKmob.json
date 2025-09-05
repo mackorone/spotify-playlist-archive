@@ -2123,6 +2123,28 @@
     },
     {
       "album": {
+        "name": "Between the now and next",
+        "url": "https://open.spotify.com/album/3Sjg2gjbFBjyvO4qfKBHhd"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        },
+        {
+          "name": "Eera Sidorina",
+          "url": "https://open.spotify.com/artist/6QF5U4s6rjFywHsLpfHDNZ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Power of a Flame",
+      "url": "https://open.spotify.com/track/0TS7lA9wY0JKRHjsW3cYrU"
+    },
+    {
+      "album": {
         "name": "Healing Bells",
         "url": "https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu"
       },

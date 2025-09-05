@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 61981,
+  "num_followers": 61985,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-09-01 08:07:52",
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2025-09-01 08:07:52",
+      "album": {
         "name": "Al Pr\u00edncipe Bossa",
         "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 339893,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
-    },
-    {
-      "added_at": "2025-09-01 08:07:52",
-      "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
     },
     {
       "added_at": "2025-09-01 08:07:52",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-09-01 08:07:52",
       "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
       },
       "artists": [
         {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
         }
       ],
-      "duration_ms": 231013,
-      "name": "To Have & To Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2025-09-01 08:07:52",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-09-01 08:07:52",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
       },
       "artists": [
         {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
         }
       ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+      "duration_ms": 231013,
+      "name": "To Have & To Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2025-09-01 08:07:52",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-09-01 08:07:52",
       "album": {
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "All About Ronnie",
+      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+    },
+    {
+      "added_at": "2025-09-01 08:07:52",
+      "album": {
         "name": "Marshall (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2025-09-01 08:07:52",
       "album": {
-        "name": "All About Chris",
-        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
         }
       ],
-      "duration_ms": 180146,
-      "name": "All About Ronnie",
-      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2025-09-01 08:07:52",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2025-09-01 08:07:52",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+        "name": "But I Don't Mind",
+        "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
       },
       "artists": [
         {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+          "name": "Kyl Aries",
+          "url": "https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S"
         }
       ],
-      "duration_ms": 310275,
-      "name": "May I Come In",
-      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
+      "duration_ms": 255726,
+      "name": "But I Don't Mind",
+      "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
     },
     {
       "added_at": "2025-09-01 08:07:52",
@@ -1207,22 +1223,6 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
-    },
-    {
-      "added_at": "2025-09-01 08:07:52",
-      "album": {
-        "name": "But I Don't Mind",
-        "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
-      },
-      "artists": [
-        {
-          "name": "Kyl Aries",
-          "url": "https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S"
-        }
-      ],
-      "duration_ms": 255726,
-      "name": "But I Don't Mind",
-      "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
     },
     {
       "added_at": "2025-09-01 08:07:52",

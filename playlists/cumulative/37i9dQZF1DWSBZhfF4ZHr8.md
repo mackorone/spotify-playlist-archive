@@ -2,7 +2,7 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec marguerite
+> Les meilleures nouveautés de la variété française avec Charlotte Cardin
 
 311 songs - 15 hr 17 min
 

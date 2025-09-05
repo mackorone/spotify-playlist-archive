@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-235 songs - 16 hr 18 min
+236 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Summer](https://open.spotify.com/track/6KfBtlxnO1lwrvySAoynQD) | [feelslikeyou](https://open.spotify.com/artist/7lemqCn2A256qHn0D4YX0A) | [Haze / Summer](https://open.spotify.com/album/7bK4irNUSn6AwdmuVsPMkd) | 2:46 | 2024-06-27 | 2024-10-11 |
 | [Summer Rain](https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Same Old/Same New](https://open.spotify.com/album/2J74cXqTgYBd2aqTFmD4ji) | 4:27 | 2025-07-31 |  |
 | [Summertime Has Come](https://open.spotify.com/track/5mUmvuw7jUcSYwa7NiGcxT) | [Lucys Meet Dopamine](https://open.spotify.com/artist/5MLCXwFSeVrl4A1aE1Z9F5) | [25​\-​35​°​C](https://open.spotify.com/album/1jo7RgR3mTETN56hjaFW9B) | 6:15 | 2024-06-27 | 2024-10-11 |
+| [SUNSET \- feat\. Yvette Young](https://open.spotify.com/track/0O6OWDBSCvVS3MHOYAfujL) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [SUNSET \(feat\. Yvette Young\)](https://open.spotify.com/album/0VIdKN62Kw7V0o7FdKK07p) | 4:13 | 2025-09-04 |  |
 | [Tawdry Clip](https://open.spotify.com/track/2JV2ut3HQ7y03WKSZQpqnN) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI) | [Morning Fragment](https://open.spotify.com/album/5kojgQgmj165AIeqoJb1ow) | 3:13 | 2024-06-27 | 2024-08-31 |
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-12-04 | 2025-02-08 |
 | [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 | 2024-11-22 |

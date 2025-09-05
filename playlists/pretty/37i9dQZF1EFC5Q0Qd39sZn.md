@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,247 likes - 571 songs - 1 day 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,249 likes - 571 songs - 1 day 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 122 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
 | 123 | [Rocket](https://open.spotify.com/track/36dvcjzeono5E1n2hqRJpZ) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:15 |
 | 124 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
-| 125 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 |
-| 126 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
+| 125 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
+| 126 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 |
 | 127 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 128 | [Prayers For This World](https://open.spotify.com/track/1vJk4EVtz7EKzO8nIh1to4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:42 |
 | 129 | [Sarai qui](https://open.spotify.com/track/3p0tUvqwfaypMhK6wVcjKl) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/7F6JXUZ6PEaz53NbFrVMDv) | 3:57 |
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 161 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
 | 162 | [Takin' Back My Heart](https://open.spotify.com/track/2ROJCBdOLQNp01eRXjsPG8) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 4:32 |
 | 163 | [Every Time You Walk Away](https://open.spotify.com/track/0tUYkDafsrHR12unxfFQ5D) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 3:13 |
-| 164 | [You Will \(The OWN Song\)](https://open.spotify.com/track/769uYIA20wOeEA9Bi6C4jB) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [You Will \(The OWN Song\)](https://open.spotify.com/album/0oC849A1AhYbiZw1TKRTsY) | 3:32 |
-| 165 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
+| 164 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
+| 165 | [You Will \(The OWN Song\)](https://open.spotify.com/track/769uYIA20wOeEA9Bi6C4jB) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [You Will \(The OWN Song\)](https://open.spotify.com/album/0oC849A1AhYbiZw1TKRTsY) | 3:32 |
 | 166 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
 | 167 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
 | 168 | [I Am](https://open.spotify.com/track/25Pvx66yRLQ6mfwQAEzY2D) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/3PkUFix54f7aKr6Jbqnsom) | 3:43 |
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 225 | [If There Really Is A God](https://open.spotify.com/track/0AGXwKZOAHFlGZ5krgZ78U) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 4:11 |
 | 226 | [All My Tomorrows](https://open.spotify.com/track/5XZtY0wYBt5Hi5fY9I00Dy) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:46 |
 | 227 | [You Stay With Me](https://open.spotify.com/track/6xo6MNE2aUY6Pc7jRgq39I) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:12 |
-| 228 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
-| 229 | [We Can](https://open.spotify.com/track/6pAIFLWUshFBKQhaxwlJ9J) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 3:40 |
+| 228 | [We Can](https://open.spotify.com/track/6pAIFLWUshFBKQhaxwlJ9J) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 3:40 |
+| 229 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
 | 230 | [The Closest Thing To Heaven](https://open.spotify.com/track/0drFx5desDPkH3emUDPIW5) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 3:59 |
 | 231 | [Still Here](https://open.spotify.com/track/5hyHIDjxCGP0efNx6qwmu0) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:41 |
 | 232 | [If You Could See You \(Through My Eyes\)](https://open.spotify.com/track/6VcWyiv7ILCFkJ4QW061P4) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:57 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 571 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab7RHgAAAAB6JdaKVgStFsheJ35DqryB`
+Snapshot ID: `Ab7WtAAAAACcvWG3opUnDl4fGQPCwdKX`

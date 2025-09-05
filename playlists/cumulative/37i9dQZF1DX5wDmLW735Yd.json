@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, Mila Falls",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Wilkinson",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2215,6 +2215,32 @@
     },
     {
       "album": {
+        "name": "Bitter End",
+        "url": "https://open.spotify.com/album/5IjGfD7D3Few3sL0ju0OGo"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196114,
+      "name": "Bitter End",
+      "url": "https://open.spotify.com/track/5A9VxBaFVTDmISLZVmWwWT"
+    },
+    {
+      "album": {
         "name": "Bittersweet Goodbye (Lens Remix)",
         "url": "https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY"
       },
@@ -3420,6 +3446,32 @@
       "duration_ms": 224775,
       "name": "Chant",
       "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
+    },
+    {
+      "album": {
+        "name": "Charades",
+        "url": "https://open.spotify.com/album/1VqVzwwfxEkk0dNuA7FF94"
+      },
+      "artists": [
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        },
+        {
+          "name": "Mantra",
+          "url": "https://open.spotify.com/artist/0pURdJtqEp2EZz5L1LIYhy"
+        },
+        {
+          "name": "Decibella",
+          "url": "https://open.spotify.com/artist/7dgq4diTXTqfB2DhGsO69L"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339559,
+      "name": "Charades",
+      "url": "https://open.spotify.com/track/58709eulwjKY4avAd6zDBH"
     },
     {
       "album": {
@@ -4907,6 +4959,28 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5WL2Q5ZKzLrgeuA3N2PWyz"
+      },
+      "artists": [
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        },
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0DrPkTStOF5ruLZdV4vWeV"
+    },
+    {
+      "album": {
         "name": "Do It To It (Sub Focus Remix)",
         "url": "https://open.spotify.com/album/2nHx69FlthuA68GBIjjXuP"
       },
@@ -5173,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146742,
+      "name": "Double Vision",
+      "url": "https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N"
+    },
+    {
+      "album": {
         "name": "Down 4",
         "url": "https://open.spotify.com/album/2FTh5EtCIuyrXX3pjzCOcd"
       },
@@ -5414,7 +5506,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 271000,
       "name": "Echo Habit",
       "url": "https://open.spotify.com/track/4Qmxx2ptWlAgoQsWnsD5bn"
@@ -7328,7 +7420,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 156000,
       "name": "Get Loose",
       "url": "https://open.spotify.com/track/16DBKyIHIPdKnQbQZkNdKG"
@@ -7680,7 +7772,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 276803,
       "name": "Goldikus (feat. Cleveland Watkiss)",
       "url": "https://open.spotify.com/track/15leC0Ucnyx3DbUmywlzgk"
@@ -9230,7 +9322,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 205617,
       "name": "If We Left This Earth",
       "url": "https://open.spotify.com/track/6BTJGi9INUVneKz9JVey4T"
@@ -11224,7 +11316,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 222069,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
@@ -12312,6 +12404,28 @@
       "duration_ms": 250500,
       "name": "Mosh Pit (feat. Haribo)",
       "url": "https://open.spotify.com/track/2g3NNzNps6fCjsbcA91yH6"
+    },
+    {
+      "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/7k58zw7EpgXsDjfBgcOhvh"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135242,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/3VyBTq1tYid256OXLAcyuX"
     },
     {
       "album": {
@@ -16045,6 +16159,32 @@
     },
     {
       "album": {
+        "name": "Same Cycle",
+        "url": "https://open.spotify.com/album/75bM9yASmcpwYuICBXrtLq"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148824,
+      "name": "Same Cycle",
+      "url": "https://open.spotify.com/track/4OGeb1ej8lF8kZAyLN76If"
+    },
+    {
+      "album": {
         "name": "Same Old Song",
         "url": "https://open.spotify.com/album/5iqxmTQSlUKzkU5SKRidQa"
       },
@@ -18620,7 +18760,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 214042,
       "name": "Tekkers",
       "url": "https://open.spotify.com/track/5va189D6Hmr9tedHXfiXBJ"
@@ -19633,6 +19773,32 @@
     },
     {
       "album": {
+        "name": "Here & Now",
+        "url": "https://open.spotify.com/album/0lDIBy47OJXdxRuGTdDBQc"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Paige Eliza",
+          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4kbsoEGsXIYl0Ewms2c1W5"
+    },
+    {
+      "album": {
         "name": "Transformations",
         "url": "https://open.spotify.com/album/63v8Gd7zZLeSVwrwI8rh0s"
       },
@@ -19808,7 +19974,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 205116,
       "name": "Under The Water",
       "url": "https://open.spotify.com/track/6K5ji9gF2mbt8YptTLd8ob"
@@ -21098,7 +21264,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 184799,
       "name": "What You Gave Me",
       "url": "https://open.spotify.com/track/0uwF4mgVfEd95APuF0TA9Y"
@@ -21458,6 +21624,32 @@
       "duration_ms": 228965,
       "name": "Wings - Nu:Logic Remix; Edit",
       "url": "https://open.spotify.com/track/4h0hgZmhlN3tE1GGLhYnVI"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0PVnBDGb7pbEuvLG6mu0Qv"
+      },
+      "artists": [
+        {
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        },
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Sophie-Grace",
+          "url": "https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190003,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0miroBtlqKiIC4ueLsu2zS"
     },
     {
       "album": {

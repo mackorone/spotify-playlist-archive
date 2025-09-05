@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 96598,
+  "num_followers": 96627,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAUJyGMFBOUjO6wRgbH+ih1",
+  "snapshot_id": "aLeFAAAAAABNrO3FDOK0JrlQ/iAkbyPG",
   "tracks": [
     {
       "added_at": null,
@@ -330,11 +330,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
     },
     {
       "added_at": null,
@@ -402,15 +406,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
     },
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+        "name": "Deal With It",
+        "url": "https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS"
       },
       "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+      "duration_ms": 217216,
+      "name": "Ride For You",
+      "url": "https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deal With It",
-        "url": "https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS"
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
       },
       "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 217216,
-      "name": "Ride For You",
-      "url": "https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02"
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still The Mayor",
-        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+        "name": "Doe",
+        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
-      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+      "duration_ms": 242886,
+      "name": "Doe",
+      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doe",
-        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
       },
       "artists": [
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 242886,
-      "name": "Doe",
-      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+      "duration_ms": 194754,
+      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
+      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
     },
     {
       "added_at": null,

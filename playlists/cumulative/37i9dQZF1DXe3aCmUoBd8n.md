@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Fouad Jned, Bessan Ismail, Amjad Jomaa
 
-207 songs - 11 hr 56 min
+208 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Habibi W Bass](https://open.spotify.com/track/3MlkSBkCiEQ9TpRFnxywba) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 4:08 | 2023-06-28 |  |
 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 | 2022-05-04 | 2022-07-17 |
 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 | 2022-05-04 | 2022-05-18 |
-| [Halef 3al Hob](https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Halef 3al Hob](https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb) | 2:49 | 2023-06-18 |  |
+| [Halef 3al Hob](https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Halef 3al Hob](https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb) | 2:49 | 2023-06-18 | 2025-09-05 |
 | [Hallah Hallah Ya Deni](https://open.spotify.com/track/0KtWEni97FG5JETFy9QXa9) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Hallah Hallah Ya Deni](https://open.spotify.com/album/2U7JsJfzGnx5preXhVRG6F) | 3:00 | 2023-01-05 | 2023-06-28 |
 | [Haydi Habibit Albi](https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Haydi Habibit Albi](https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ) | 3:42 | 2022-05-04 | 2024-02-10 |
 | [Helmi W Helmik](https://open.spotify.com/track/0zy5G68FFZVEGJR6Gh888k) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [حلمي وحلمك](https://open.spotify.com/album/0IilzA29e7JXxDMDTqqsGT) | 4:16 | 2022-06-20 | 2024-02-10 |
@@ -137,6 +137,7 @@
 | [Sabb Farhety](https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sabb Farhety](https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq) | 5:02 | 2024-10-30 | 2025-07-25 |
 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 | 2024-02-19 |  |
 | [Saet Ramel](https://open.spotify.com/track/1w7gIItudYNNhP6Aq07oPA) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Saet Ramel](https://open.spotify.com/album/4SNrpzI2euaUL34MKkkohJ) | 3:39 | 2022-06-20 | 2023-07-28 |
+| [Sahak Isho2](https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahak Isho2](https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD) | 3:24 | 2025-09-04 |  |
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2022-05-04 | 2022-07-17 |
 | [Sandooq](https://open.spotify.com/track/4ttOChaYzhFiqncZzARrgg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sandooq](https://open.spotify.com/album/64jn4SURcFj7jaySPuN7cm) | 5:44 | 2024-02-09 | 2024-10-24 |
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-07-25 | 2024-10-14 |

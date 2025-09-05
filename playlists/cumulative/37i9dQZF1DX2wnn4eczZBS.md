@@ -2,9 +2,9 @@
 
 ### [indie.nl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: Pip Lieke Lucas
+> indie & indiepop in het Nederlands\. Cover: Elias Mazian
 
-233 songs - 12 hr 10 min
+235 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Have Fun](https://open.spotify.com/track/0TMRAlLGfejAdDUZKtA3n6) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Have Fun](https://open.spotify.com/album/550zId70EEaGEsnQirUO11) | 2:41 | 2025-01-10 | 2025-02-28 |
 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 | 2025-01-10 | 2025-03-14 |
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 | 2025-05-27 |
+| [Het Is Nog Niet Te Laat](https://open.spotify.com/track/6NHoHofU4Hj5o0YscjmZk1) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [Het Is Nog Niet Te Laat](https://open.spotify.com/album/2JS9zAvexCRsygky4eo46n) | 3:59 | 2025-09-04 |  |
 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 | 2024-11-07 | 2025-05-27 |
 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 | 2025-03-07 | 2025-04-07 |
 | [Hete Plaat](https://open.spotify.com/track/7gjLOSH4deTDoXDxWaZoaE) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Hete Plaat](https://open.spotify.com/album/21bS7BvqWf6mwZX2bYKOO0) | 4:34 | 2025-07-17 |  |
@@ -98,7 +99,7 @@
 | [IJsberen](https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [IJsberen](https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5) | 3:02 | 2025-03-20 | 2025-04-18 |
 | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/track/5RydxLGNvlzrHfhxUQUoI9) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR) | 2:45 | 2025-05-08 |  |
 | [IK GELOOF HET NIET](https://open.spotify.com/track/3zYMY5Bgtm0GSxhSv0ri9n) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [IK GELOOF HET NIET](https://open.spotify.com/album/20gE1bwQ29W2vxSs6rHeC2) | 2:44 | 2024-11-07 | 2025-01-11 |
-| [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 | 2025-01-10 |  |
+| [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 | 2025-01-10 | 2025-09-05 |
 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 | 2025-02-03 |  |
 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2024-07-05 | 2024-11-15 |
 | [IK LACH MAAR IK HUIL](https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [ER IS HOOP\*](https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe) | 2:58 | 2024-10-22 | 2025-05-27 |
@@ -132,10 +133,11 @@
 | [Liefdesliedjes](https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw), [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Liefdesliedjes](https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz) | 2:13 | 2025-06-06 |  |
 | [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 | 2024-11-15 |
 | [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 | 2025-01-11 |
-| [Mannenbaby](https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mannenbaby](https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe) | 2:24 | 2025-03-28 |  |
+| [Mannenbaby](https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mannenbaby](https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe) | 2:24 | 2025-03-28 | 2025-09-05 |
 | [Marlboro Rood](https://open.spotify.com/track/4AkQUl0cEU858gwomf7PNg) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Marlboro Rood](https://open.spotify.com/album/5wgh4F5UvFecOsjLGXXuxd) | 3:11 | 2025-02-20 | 2025-02-27 |
 | [masker](https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ik ben soms bang in het donker](https://open.spotify.com/album/2lWHBuyE13th6358dardao) | 3:09 | 2024-06-26 | 2024-09-14 |
 | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG) | [Blue Flamingo](https://open.spotify.com/artist/3jZ97YHIMgSBV09PRJjobi), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/album/3KI6JN7J0BR1IBUHw4WAT8) | 4:05 | 2024-08-29 | 2025-02-14 |
+| [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 | 2025-09-04 |  |
 | [MASQUERADE](https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MASQUERADE](https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr) | 2:48 | 2024-07-05 | 2024-10-25 |
 | [Meisje](https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Meisje](https://open.spotify.com/album/0Ol64rdLJ5hRI6nmdT0GG7) | 2:19 | 2025-01-10 | 2025-01-14 |
 | [Meneer de Tijd](https://open.spotify.com/track/0TccteiGTooJVCSwuD0t6x) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Meneer de Tijd](https://open.spotify.com/album/4xmBBbbst60Q106LfQvKMS) | 2:21 | 2024-06-26 | 2024-07-06 |

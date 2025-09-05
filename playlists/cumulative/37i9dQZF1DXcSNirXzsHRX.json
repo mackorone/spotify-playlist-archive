@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 187958,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 202073,
       "name": "Annihilate Me",
       "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Could Have Been Me (Feat. Brian May)",
+        "url": "https://open.spotify.com/album/7sc2qxzrUhrPF3OdOyaswk"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        },
+        {
+          "name": "Brian May",
+          "url": "https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272684,
+      "name": "Could Have Been Me (Feat. Brian May)",
+      "url": "https://open.spotify.com/track/5hKHL9CRXlYoIs1hIw5010"
+    },
+    {
+      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -680,6 +702,24 @@
       "duration_ms": 238813,
       "name": "Demonic Depression",
       "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
+    },
+    {
+      "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "album": {
@@ -842,6 +882,32 @@
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "album": {
+        "name": "End of You",
+        "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "End of You",
+      "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
     },
     {
       "album": {
@@ -1768,7 +1834,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw"
@@ -2093,6 +2159,28 @@
     },
     {
       "album": {
+        "name": "Raveyard",
+        "url": "https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        },
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225307,
+      "name": "Raveyard",
+      "url": "https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO"
+    },
+    {
+      "album": {
         "name": "Red, White and Jersey / Hollow Man (with Bruce Springsteen)",
         "url": "https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0"
       },
@@ -2345,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Silent Divide",
+        "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303832,
+      "name": "Silent Divide",
+      "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
+    },
+    {
+      "album": {
         "name": "Skin From Bones",
         "url": "https://open.spotify.com/album/5sOEmkQ0IoI8cQATzsi6yj"
       },
@@ -2494,7 +2600,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 160312,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt"
@@ -2588,6 +2694,28 @@
       "duration_ms": 213010,
       "name": "The End",
       "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
+    },
+    {
+      "album": {
+        "name": "The End (feat. BABYMETAL) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "The End (feat. BABYMETAL) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
     },
     {
       "album": {
@@ -2793,6 +2921,42 @@
     },
     {
       "album": {
+        "name": "November Boys",
+        "url": "https://open.spotify.com/album/6dxYyfu8w2zyqLjkFEjt1C"
+      },
+      "artists": [
+        {
+          "name": "The Good The Bad and The Zugly",
+          "url": "https://open.spotify.com/artist/3YQf0KGXHQ5dSaSPPmUGxT"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j"
+    },
+    {
+      "album": {
+        "name": "True Believer",
+        "url": "https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "True Believer",
+      "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
+    },
+    {
+      "album": {
         "name": "Two Faced",
         "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
       },
@@ -2916,7 +3080,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 315120,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
@@ -3024,7 +3188,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
@@ -3078,7 +3242,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 206773,
       "name": "Would? (2022 Remaster)",
       "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"

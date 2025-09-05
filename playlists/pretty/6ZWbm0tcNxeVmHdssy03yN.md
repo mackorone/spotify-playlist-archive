@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,656 likes - 119 songs - 6 hr 18 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,663 likes - 119 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 14 | [Handstand](https://open.spotify.com/track/7d8JbC6QfJouRyVUXzt5mg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Handstand](https://open.spotify.com/album/2Fz1ONkQVqZg081Xk9ORwK) | 0:57 |
 | 15 | [Father Time](https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Father Time](https://open.spotify.com/album/1YC0JBMSbLwt2d62Vw1C3D) | 3:03 |
 | 16 | [GAGATRON](https://open.spotify.com/track/1ZdXNI5ikXs83y0eFKWJAc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [GAGATRON](https://open.spotify.com/album/67HLY3Hzw9VaI0HpnIc4it) | 2:32 |
-| 17 | [War Amapiano](https://open.spotify.com/track/7xVTsUKF3BtJKXQtfgOMNM) | [Bluenax](https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id), [Bako Beatz](https://open.spotify.com/artist/3b0N2Aywrmy6xujpXUWEgD) | [King Of Amapiano](https://open.spotify.com/album/6ZzRnAR7o3ThMyKCBy21Dh) | 4:48 |
+| 17 | [War Amapiano \(Revisit\)](https://open.spotify.com/track/7xVTsUKF3BtJKXQtfgOMNM) | [Bluenax](https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id), [Bako Beatz](https://open.spotify.com/artist/3b0N2Aywrmy6xujpXUWEgD) | [King Of Amapiano](https://open.spotify.com/album/6ZzRnAR7o3ThMyKCBy21Dh) | 4:48 |
 | 18 | [St\. Joe Sunset](https://open.spotify.com/track/2WXlKiLK56eeLv0E14j8Fw) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [Emotions](https://open.spotify.com/album/7EUBjNrNbU4cuqIFqhWeqc) | 3:08 |
 | 19 | [Long Weekend](https://open.spotify.com/track/4qjxj1oJHkNBXfXFqV8seE) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Long Weekend](https://open.spotify.com/album/5NMargSAdTH14iMnEi47vL) | 2:22 |
 | 20 | [Emotional](https://open.spotify.com/track/2tDYu64ZvvrKhkbIPUaz1w) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Emotional](https://open.spotify.com/album/7Fotsa6opC9g2cIQwK5FVw) | 2:28 |

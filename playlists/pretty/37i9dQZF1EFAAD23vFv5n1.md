@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015 likes - 153 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 153 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 69 | [Meme](https://open.spotify.com/track/0HDd2Dr0EgG4OTscPj0j8b) | [Pit](https://open.spotify.com/artist/1XYLhPfCgCrK5pwlWw0yv5) | [Meme](https://open.spotify.com/album/3rMPypJTVchGYNBUdu7kJM) | 2:27 |
 | 70 | [Paradiso](https://open.spotify.com/track/3xoTmAPceMAHGRFe9HKV4m) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Paradiso](https://open.spotify.com/album/7E4Wy23cEvWIrJZOjjX5h0) | 3:35 |
 | 71 | [BILLY CARTER](https://open.spotify.com/track/43qoTN79aYYpeMWL1f461l) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:29 |
-| 72 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
-| 73 | [Danza](https://open.spotify.com/track/52KXGLUNnKoFFbV13lezFZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:44 |
+| 72 | [Danza](https://open.spotify.com/track/52KXGLUNnKoFFbV13lezFZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:44 |
+| 73 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
 | 74 | [martedì](https://open.spotify.com/track/2f1LyxVZISl8aXB6qUuhHb) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:42 |
 | 75 | [okokokok](https://open.spotify.com/track/5sEgA18Ex9pmqLPyf3ooTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 2:04 |
 | 76 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 152 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 153 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `Ab7Q9gAAAABFypr0aofl7BwlDNZlm4SU`
+Snapshot ID: `Ab7WyAAAAAD59F6eMX6TfITIs4eNk+9+`

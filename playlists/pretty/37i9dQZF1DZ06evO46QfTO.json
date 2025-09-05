@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAA1sRRCM70fYlJouPbNRkJs",
+  "snapshot_id": "aLeFAAAAAADdSw2MaZ7UAXRbvs/djeaZ",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 185280,
       "name": "Seeing Blind",
       "url": "https://open.spotify.com/track/65wnZsZLKJimfK1cTFOfa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211767,
+      "name": "80s Mercedes",
+      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211767,
-      "name": "80s Mercedes",
-      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 168080,
-      "name": "dreamsicle",
-      "url": "https://open.spotify.com/track/6CMO1hdKWGZx7AolQQK8cG"
+      "duration_ms": 167253,
+      "name": "because, of course",
+      "url": "https://open.spotify.com/track/32D40ahBsZPCaGkkQcUWv7"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 146226,
-      "name": "bed no breakfast",
-      "url": "https://open.spotify.com/track/1wHAAwqjVw447oe30N8yIY"
+      "duration_ms": 168080,
+      "name": "dreamsicle",
+      "url": "https://open.spotify.com/track/6CMO1hdKWGZx7AolQQK8cG"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
       "duration_ms": 186560,
       "name": "Bummin' Cigarettes",
       "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway Queen (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Highway Queen (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway Queen (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211485,
+      "name": "Highway Queen (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
     },
     {
       "added_at": null,

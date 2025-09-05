@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 24 min
+106 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Kaini Industries](https://open.spotify.com/track/3aqXL0g0eeZrS4Qlf7dV8O) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 0:59 | 2022-10-12 | 2023-02-17 |
 | [Kid For Today](https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:23 | 2022-05-29 | 2023-02-17 |
 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 | 2023-02-16 |  |
+| [Last Walk Around Mirror Lake \- Boards of Canada Remix](https://open.spotify.com/track/4agMFZlZVMPvXcpLewP2tS) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Corymb](https://open.spotify.com/album/2W1DcMSpmpTt8KF3zjKyqd) | 4:30 | 2025-09-05 |  |
 | [Left Side Drive](https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 5:20 | 2023-02-15 |  |
 | [Left Side Drive](https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:20 | 2022-05-29 | 2023-02-16 |
 | [Melissa Juice](https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 1:32 | 2023-02-15 |  |

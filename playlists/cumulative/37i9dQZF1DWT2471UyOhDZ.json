@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "A hand-picked selection for an extraordinary palette. Cover: The Charlatans",
+  "description": "A hand-picked selection for an extraordinary palette. Cover: Big Thief",
   "name": "The Listening Post",
   "tracks": [
+    {
+      "album": {
+        "name": "(I Wanna) Be Your Girl",
+        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "(I Wanna) Be Your Girl",
+      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
+    },
     {
       "album": {
         "name": "SAYA",
@@ -20,6 +38,24 @@
       "duration_ms": 209100,
       "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
       "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
+    },
+    {
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
     },
     {
       "album": {
@@ -648,10 +684,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 216757,
       "name": "Besties",
       "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
+    },
+    {
+      "album": {
+        "name": "Bitter Everyday",
+        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Bitter Everyday",
+      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
     },
     {
       "album": {
@@ -966,7 +1020,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
@@ -1342,7 +1396,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 263537,
       "name": "Cowbella",
       "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
@@ -1498,7 +1552,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 280968,
       "name": "Dialing In",
       "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
@@ -1888,7 +1942,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 247940,
       "name": "Every Dawn's a Mountain",
       "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
@@ -1914,6 +1968,24 @@
       "duration_ms": 228253,
       "name": "Everybody Laughs",
       "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
+    },
+    {
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "album": {
@@ -2292,7 +2364,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 254742,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi"
@@ -2335,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
+    },
+    {
+      "album": {
         "name": "Gangsters",
         "url": "https://open.spotify.com/album/7ub8U3jx4kVYV623RqF5bO"
       },
@@ -2368,7 +2458,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 243280,
       "name": "Garden",
       "url": "https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d"
@@ -3009,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257400,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
+    },
+    {
+      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -3326,7 +3434,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
@@ -4649,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Rock And Roll",
+      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
+    },
+    {
+      "album": {
         "name": "ROCKMAN",
         "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
       },
@@ -5685,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "Antidepressants",
+        "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222031,
+      "name": "The Sound And The Summer",
+      "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
+    },
+    {
+      "album": {
         "name": "Tall Tales",
         "url": "https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2"
       },
@@ -5754,7 +5898,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 242878,
       "name": "There\u2019s Always Gonna Be Something",
       "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
@@ -6374,6 +6518,24 @@
       "duration_ms": 249259,
       "name": "Will Anybody Ever Love Me?",
       "url": "https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu"
+    },
+    {
+      "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
       "album": {

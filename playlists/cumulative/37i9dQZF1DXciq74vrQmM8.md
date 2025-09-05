@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. chalk
+> welcome to our universe ft\. PRESIDENT
 
 1,187 songs - 2 day 10 hr 17 min
 

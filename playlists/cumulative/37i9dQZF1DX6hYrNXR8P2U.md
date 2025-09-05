@@ -4,7 +4,7 @@
 
 > porque sí.<br/>📷 tatool y Trueno
 
-541 songs - 1 day 4 hr 19 min
+542 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-19 | 2024-09-14 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-30 |  |
 | [Bailar](https://open.spotify.com/track/1c7mns2I81sJ4QWYcvHvec) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailar](https://open.spotify.com/album/0amD7KdCrcQDorc6Ljd58H) | 3:11 | 2025-01-10 | 2025-03-08 |
+| [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 | 2025-09-01 |  |
 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 | 2024-08-30 | 2024-11-09 |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-10-13 | 2024-04-06 |
 | [Bar de Playa](https://open.spotify.com/track/1CFZZSdo35zhs2uZ9sFoXv) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Vandalismo Comparado](https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM) | 2:09 | 2024-06-08 | 2024-10-26 |

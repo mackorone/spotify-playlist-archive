@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,387 likes - 110 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,402 likes - 110 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 109 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 |
 | 110 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
 
-Snapshot ID: `AAAAAJtgr9zGk29XnePwHXZ5PKUS9fa7`
+Snapshot ID: `AAAAAIYjLMPZzY57xVs1HiOOy8JBB5lz`

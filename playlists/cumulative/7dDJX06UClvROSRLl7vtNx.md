@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-994 songs - 1 day 19 hr 10 min
+995 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 | 2024-12-06 | 2025-05-17 |
 | [New Day](https://open.spotify.com/track/7EBjMwD8WF9309zbBPVCWU) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [New Day](https://open.spotify.com/album/00AtYpOMugrzxaUfPKTXG7) | 2:38 | 2025-07-11 |  |
 | [New Light](https://open.spotify.com/track/1EEW8moUPpF7POgp6ZQTmL) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [New Light](https://open.spotify.com/album/6I1Lr576NkgZNlulnoN8dm) | 2:50 | 2025-07-06 | 2025-08-25 |
+| [New York In The Rain](https://open.spotify.com/track/7HNkl6Fr1gnknlIppusVnH) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [Portugal Sunset](https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF), [Juli Mala](https://open.spotify.com/artist/0VcXNI2SfCf0RDBNsKDkcU) | [New York In The Rain](https://open.spotify.com/album/5DChsqa6A6uH7rsRfcXNHT) | 2:27 | 2025-09-04 |  |
 | [Next To You](https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Next To You](https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER) | 2:18 | 2024-04-05 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 | 2024-11-24 | 2025-03-31 |
 | [Nice To Meet You](https://open.spotify.com/track/05JEV3o9x1nzp4juozegom) | [YOTCHAKID](https://open.spotify.com/artist/5NpZmQyt3SvdSwPv0lJQaV), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Nice To Meet You](https://open.spotify.com/album/0ApHzaMDVir1kVYMXLw5Ct) | 2:38 | 2025-04-06 | 2025-08-30 |

@@ -13889,6 +13889,32 @@
     },
     {
       "album": {
+        "name": "New York In The Rain",
+        "url": "https://open.spotify.com/album/5DChsqa6A6uH7rsRfcXNHT"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        },
+        {
+          "name": "Portugal Sunset",
+          "url": "https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF"
+        },
+        {
+          "name": "Juli Mala",
+          "url": "https://open.spotify.com/artist/0VcXNI2SfCf0RDBNsKDkcU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "New York In The Rain",
+      "url": "https://open.spotify.com/track/7HNkl6Fr1gnknlIppusVnH"
+    },
+    {
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,294 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,313 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

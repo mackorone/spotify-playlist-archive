@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > just got chilly 🥶🥶🥶🥶🥶🥶🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,935 likes - 200 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,038 likes - 200 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 135 | [Lamb who screams](https://open.spotify.com/track/58yOLUdlwYI0gfnlsi07fX) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Lamb who screams](https://open.spotify.com/album/4aTBp6pfeZeSqQ2VBJq3yh) | 2:18 |
 | 136 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 |
 | 137 | [I'm So Hot](https://open.spotify.com/track/2MMLmdgX2f2EYHxDhVYUzb) | [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [I'm So Hot](https://open.spotify.com/album/2vujTBYPwHzUFenskppcxL) | 4:05 |
-| 138 | [take me by the hand](https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand](https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr) | 2:51 |
+| 138 | [take me by the hand](https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand \(feat\. Bladee\)](https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr) | 2:51 |
 | 139 | [en lo oscuro contigo](https://open.spotify.com/track/4MadLqibQsloR1K9e7zTeb) | [Ratchet Racer](https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [en lo oscuro contigo](https://open.spotify.com/album/0bTk9Kla13oR6v9vWaY5fr) | 1:52 |
 | 140 | [chlorine](https://open.spotify.com/track/4ogzOiqfVfJoA24TNPkP9T) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [chlorine](https://open.spotify.com/album/3WYBPhuOqpAVHlCDK30SNc) | 1:45 |
 | 141 | [Putita Boutique](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAA4DLWjKP00upw6CC7wymtS",
+  "snapshot_id": "aLeFAAAAAACezv0zFa8yq8ZVOYB2Aazj",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RZR Rojo",
+        "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 112981,
+      "name": "RZR Rojo",
+      "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prendo Un Gallo",
         "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 142138,
       "name": "Prendo Un Gallo",
       "url": "https://open.spotify.com/track/272dYrwFE76Io6riUpLugS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RZR Rojo",
-        "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 112981,
-      "name": "RZR Rojo",
-      "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
     },
     {
       "added_at": null,
@@ -643,6 +643,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 174704,
+      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
         "url": "https://open.spotify.com/album/1O3ptaojQeRH0YrSZm6R14"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
       "url": "https://open.spotify.com/track/5DpXwDeOTcMyGE5GZBW9SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 174704,
-      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 431634,
+  "num_followers": 431656,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
         "name": "L.O.V.E.U (feat. hannah bahng)",
         "url": "https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 199923,
       "name": "L.O.V.E.U (feat. hannah bahng)",
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "Padiante",
-        "url": "https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Padiante",
-      "url": "https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Padiante",
+        "url": "https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Padiante",
+      "url": "https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
+        "name": "Acoustic Hits",
+        "url": "https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q"
+      },
+      "artists": [
+        {
+          "name": "Softband",
+          "url": "https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Livin\u00b4 On a Prayer",
+      "url": "https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "Acoustic Hits",
-        "url": "https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q"
-      },
-      "artists": [
-        {
-          "name": "Softband",
-          "url": "https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Livin\u00b4 On a Prayer",
-      "url": "https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "La Belleza",
-        "url": "https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 190754,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "La Belleza",
+        "url": "https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
+        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Hotel",
+          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
+        }
+      ],
+      "duration_ms": 177854,
+      "name": "Renegades - Acoustic Version",
+      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
         "name": "La Pena Vuela (VMG)",
         "url": "https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 154842,
       "name": "La Pena Vuela (VMG)",
       "url": "https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Hotel",
-          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "Renegades - Acoustic Version",
-      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "C\u00f3gelo fuerte (antes de que cambie)",
-        "url": "https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 207439,
-      "name": "C\u00f3gelo fuerte (antes de que cambie)",
-      "url": "https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
         "name": "Todo Lo Que No Est\u00e1",
         "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     }
   ],
   "unique_name": "Relax en casa",

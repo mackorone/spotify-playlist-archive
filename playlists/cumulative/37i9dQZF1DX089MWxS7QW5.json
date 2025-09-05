@@ -9871,6 +9871,28 @@
     },
     {
       "album": {
+        "name": "FANG",
+        "url": "https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "UP ALL NITE (Feat. SUMIN)",
+      "url": "https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw"
+    },
+    {
+      "album": {
         "name": "Up Late",
         "url": "https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf"
       },

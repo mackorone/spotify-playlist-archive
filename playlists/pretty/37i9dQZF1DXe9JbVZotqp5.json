@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 669580,
+  "num_followers": 669881,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 226680,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -527,18 +511,34 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Misguided Roses",
-        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
       "artists": [
         {
-          "name": "Edwin McCain",
-          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
         }
       ],
-      "duration_ms": 266533,
-      "name": "I'll Be",
-      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+        "name": "Misguided Roses",
+        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "Edwin McCain",
+          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
         }
       ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+      "duration_ms": 266533,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Chicago 16 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
-      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Chicago 16 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Science & Faith",
-        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 231666,
       "name": "Again",
       "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Science & Faith",
+        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Everlong - Acoustic Version",
+      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Collective Soul",
         "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 329400,
       "name": "She Talks To Angels",
       "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Everlong - Acoustic Version",
-      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "I Can't Tell You Why - 2013 Remaster",
-      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 278973,
       "name": "'74-'75",
       "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 277386,
-      "name": "Handbags And Gladrags",
-      "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 277386,
+      "name": "Handbags And Gladrags",
+      "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Bringing Down The Horse",
         "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 337400,
       "name": "6th Avenue Heartache",
       "url": "https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "God Shuffled His Feet",
-        "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "Mmm Mmm Mmm Mmm",
-      "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1547,6 +1531,22 @@
       "duration_ms": 320266,
       "name": "Simple Man - Acoustic",
       "url": "https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "God Shuffled His Feet",
+        "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
+      },
+      "artists": [
+        {
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "Mmm Mmm Mmm Mmm",
+      "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
     },
     {
       "added_at": "2023-04-11 13:31:58",

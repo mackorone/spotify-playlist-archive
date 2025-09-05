@@ -4,7 +4,7 @@
 
 > 
 
-2,248 songs - 5 day 0 hr 45 min
+2,249 songs - 5 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [envy](https://open.spotify.com/track/2qSKseevVOjxtOU1uT1ZkM) | [3LI](https://open.spotify.com/artist/4T0pY3JMTszcEPmNfLYYMY) | [envy](https://open.spotify.com/album/4mTJlYjuefjFfRLzNtr7Bu) | 1:21 | 2022-12-14 |  |
 | [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [envy](https://open.spotify.com/album/3bUJmOyMZ1Ow5X181T3UIg) | 2:08 | 2025-05-02 | 2025-05-04 |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-11 |  |
-| [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [Pathetic](https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 | 2021-12-30 |  |
+| [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [pathetic240px](https://open.spotify.com/artist/6s6HhNePAkax0mfTK1O57K) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 | 2021-12-30 |  |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-11-14 |  |
 | [ESTE](https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [ESTE](https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU) | 2:42 | 2024-10-24 |  |
 | [Eulogy](https://open.spotify.com/track/5yshqP8Dvk7JmHeJ5BiLyP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:47 | 2023-04-17 |  |
@@ -1873,6 +1873,7 @@
 | [Summerlove \(feat\. Anabelle\) \- Scorccio Edit](https://open.spotify.com/track/3Nsh3VnzkjXmeO9Do18tq3) | [S\-Connection](https://open.spotify.com/artist/4PqQtYv1WdvwcN44mZupjL) | [Disconnected](https://open.spotify.com/album/7KQuHTUTRPVvKi9LRQp9pg) | 4:19 | 2022-11-20 |  |
 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2022-07-10 |  |
 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \[Cedric Gervais Remix\]](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 | 2021-08-05 |  |
+| [Sunday 2pm](https://open.spotify.com/track/3IxDu6hvBJMHRICPYAonxT) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Planet Piano](https://open.spotify.com/album/2N35clwJXKNPPtuchtssJZ) | 2:59 | 2025-09-04 |  |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2021-08-05 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2021-08-05 |  |
 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 | 2024-08-26 |  |

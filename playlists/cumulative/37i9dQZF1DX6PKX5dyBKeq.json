@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fredo",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: EsDeeKid, fakemink, Rico Ace",
   "name": "Rap UK",
   "tracks": [
     {
@@ -5847,6 +5847,32 @@
     },
     {
       "album": {
+        "name": "Block Tales",
+        "url": "https://open.spotify.com/album/20DqljJ63hpAAv5HCMYca0"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        },
+        {
+          "name": "Catch",
+          "url": "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Block Tales",
+      "url": "https://open.spotify.com/track/6u1eEbXzBtEFxrSPOW90V5"
+    },
+    {
+      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb"
       },
@@ -8770,7 +8796,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 107409,
       "name": "Close Protection",
       "url": "https://open.spotify.com/track/697OqmZMVY2PElSp3cg3bk"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : DJ Kawest",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 106890,
       "name": "#patachou",
       "url": "https://open.spotify.com/track/3eWN9SplW6aFqVQRcaVyA8"
@@ -6979,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "L'or",
+        "url": "https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT"
+      },
+      "artists": [
+        {
+          "name": "Chani Man",
+          "url": "https://open.spotify.com/artist/3c06xbau4OgBytTvM6bXXg"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177153,
+      "name": "L'or",
+      "url": "https://open.spotify.com/track/0EZ1oWS6NsjHqIjfXdALw2"
+    },
+    {
+      "album": {
         "name": "La Belette",
         "url": "https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO"
       },
@@ -12460,6 +12478,32 @@
       "duration_ms": 142000,
       "name": "Talk Truth",
       "url": "https://open.spotify.com/track/2CrlQkUnyKFkY3SrsybnDS"
+    },
+    {
+      "album": {
+        "name": "TAMBOU",
+        "url": "https://open.spotify.com/album/1rfmcQhSMXujxmIPNKspxz"
+      },
+      "artists": [
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        },
+        {
+          "name": "Ayewai",
+          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
+        },
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "TAMBOU",
+      "url": "https://open.spotify.com/track/1c7i0QliKMH9SSpgPSTHDo"
     },
     {
       "album": {

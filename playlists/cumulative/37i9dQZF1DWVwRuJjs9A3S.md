@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie, med Genom Natten.
+> Det senaste och bästa från världen av indie, med The Last Dinner Party.
 
-891 songs - 2 day 3 hr 15 min
+897 songs - 2 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 | 2025-05-22 |  |
 | [Ghost Stories](https://open.spotify.com/track/2tLEcN5x0dsXfvsI0qbPAf) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Ghost Stories](https://open.spotify.com/album/4bUHlsF6wKCFL4Q2PTSxS2) | 3:42 | 2025-02-27 | 2025-04-25 |
 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 | 2024-12-05 | 2025-01-24 |
+| [GIMMIE LOVE](https://open.spotify.com/track/7oTAH4150NQEc7N4fSidJt) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 5:27 | 2025-09-04 |  |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-27 | 2024-08-16 |
 | [Girls on motorbikes](https://open.spotify.com/track/3vtM02NzpHNcrMhHEQL1et) | [Moto Boy](https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL) | [Drown out the noise](https://open.spotify.com/album/7IYpGTvPGWqAhpyk0cjB9N) | 3:20 | 2024-09-19 | 2024-11-15 |
 | [Give Me A Reason](https://open.spotify.com/track/43IjXQrUGt6vrftWLbseaH) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Give Me A Reason](https://open.spotify.com/album/3mnpICMVWR6zlyTfO3ILRm) | 2:53 | 2025-07-24 |  |
@@ -300,6 +301,7 @@
 | [Greyhound Station](https://open.spotify.com/track/28KVSnRg5u802o3e6Aji5p) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Love You / Greyhound Station](https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7) | 2:49 | 2025-02-13 | 2025-04-04 |
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 | 2025-02-28 |
 | [Gråt](https://open.spotify.com/track/1XnsiujsuEfUIMCvLCE6Hw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Gråt](https://open.spotify.com/album/5H8HWRcfxJNQhyYTx9bszp) | 3:53 | 2024-09-26 | 2024-12-06 |
+| [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 | 2025-09-04 |  |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-16 | 2025-04-18 |
 | [Gå för glory](https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Gå för glory](https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a) | 3:26 | 2025-01-16 | 2025-04-18 |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 |  |
@@ -342,6 +344,7 @@
 | [Hum Hum](https://open.spotify.com/track/7ykt0KVowBOoMEesXLGGzQ) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW) | [VII](https://open.spotify.com/album/4ZTeNzwwljEbisqTq5zZlQ) | 4:18 | 2024-08-08 | 2024-09-13 |
 | [Hurricane](https://open.spotify.com/track/0gM3NjVrHk8IfhOXnKvJnR) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/1pfCalC7U1clnlIbuafOyB) | 3:39 | 2024-12-10 | 2024-12-13 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-12 | 2024-11-15 |
+| [Huvet i ett moln](https://open.spotify.com/track/60Fj3KuAxjV88jHYwDesYE) | [Slowgold](https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX) | [Huvet i ett moln](https://open.spotify.com/album/1Uf0MTzYLkpkppVFa6SJRF) | 3:17 | 2025-09-04 |  |
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 | 2025-02-07 |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-04-18 |
 | [Håll ihop](https://open.spotify.com/track/5a0VLC6tX0g45CZXU74dNK) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Håll ihop](https://open.spotify.com/album/4us1p9C9X5cldRFgwiU5Y7) | 2:46 | 2025-03-27 | 2025-06-20 |
@@ -435,6 +438,7 @@
 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 | 2024-07-25 | 2024-10-11 |
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-15 | 2024-10-11 |
 | [Knivhjärta](https://open.spotify.com/track/1tn6kFlK0sVNWJNu52THfH) | [Dödskällan](https://open.spotify.com/artist/6ubVra3DC7sDD6KjSuVjbA) | [Knivhjärta](https://open.spotify.com/album/6EUQZtQHAruBPqWQXOSsRf) | 3:15 | 2024-08-15 | 2024-09-27 |
+| [know no love](https://open.spotify.com/track/5jziLoMTqLYV1shUXkOqch) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [know no love](https://open.spotify.com/album/1MfAvxgc9XlVf4cCPIBks7) | 3:47 | 2025-09-04 |  |
 | [Komma ner](https://open.spotify.com/track/2IjVBIfT7V9U2fq2o5DM1S) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Komma ner](https://open.spotify.com/album/5V7Qlr9LxudwzDv6jCM3CQ) | 3:22 | 2025-05-01 | 2025-07-25 |
 | [Kraut](https://open.spotify.com/track/29pzCVABjlBFfMLlgg3AKd) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Kraut](https://open.spotify.com/album/1JAoPZrG9rUe9o55VpjNaa) | 2:53 | 2025-02-06 | 2025-04-18 |
 | [Ladies Of The Fight](https://open.spotify.com/track/1JtafYgKoyS7ifGy0IGIdi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Ladies Of The Fight](https://open.spotify.com/album/0OKOwnbNf6hEy7e6Nozm3L) | 2:39 | 2024-06-27 | 2024-08-09 |
@@ -782,6 +786,7 @@
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-07 | 2025-05-16 |
 | [The Rising Sun](https://open.spotify.com/track/4Eaod8laRIyWsayir0AC9t) | [Will Prime](https://open.spotify.com/artist/1itZtM80Mzo63p5IvBEXKR), [Willy Wallace](https://open.spotify.com/artist/5ousoxggLWuVHxHKDumXEw) | [The Rising Sun](https://open.spotify.com/album/3zxeZZK4XeUuVrdlnQli4E) | 3:09 | 2025-01-30 | 2025-03-08 |
 | [The Score](https://open.spotify.com/track/09PUCdX5AD1mz2L2dHF97O) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [The Score](https://open.spotify.com/album/5XpuqF76xAXxatocivuAh3) | 3:14 | 2024-08-15 | 2024-09-06 |
+| [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |
 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-17 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-09-13 |
 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 | 2024-06-27 | 2024-08-23 |
@@ -806,6 +811,7 @@
 | [Tjuven](https://open.spotify.com/track/1SRJYK2h7ITaLFYuRQYhmC) | [CIVIL POLIS](https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ), [Infinite Mass](https://open.spotify.com/artist/0vrtC9TrcdezrJZshpwLkg) | [Tjuven](https://open.spotify.com/album/0OAmCLkx2ISXJLMWHnl0vw) | 3:35 | 2024-10-25 | 2025-02-21 |
 | [To a New Day](https://open.spotify.com/track/68VxRbvBOxc1q3VQtzwur2) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Sønderjysk Pigekor](https://open.spotify.com/artist/0OYX2MQG7fkZ5eaSA9ZC09) | [To a New Day](https://open.spotify.com/album/4PAlZMe3jbqDfXkY08XLfn) | 3:44 | 2024-07-25 | 2024-08-23 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-08-02 |
+| [Today](https://open.spotify.com/track/4o2a6L5thxAs8qg82M7kOW) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Today](https://open.spotify.com/album/3o6YvXZItpJmL7wUWSA6uy) | 4:56 | 2025-09-04 |  |
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |

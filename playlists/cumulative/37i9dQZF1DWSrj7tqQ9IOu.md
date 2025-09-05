@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Emma Hoet
+> The best French indie tracks right now\. Cover : BLOWSOM
 
-687 songs - 1 day 13 hr 4 min
+689 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-06 | 2025-01-17 |
 | [Appetizers](https://open.spotify.com/track/3L5C901twUu9wlv3J0yhO8) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Appetizers](https://open.spotify.com/album/5J6A3C8tve2lfP0k7JqEYy) | 3:10 | 2025-01-16 | 2025-04-25 |
 | [Apportez\-moi un thé](https://open.spotify.com/track/4jF75m5oNgToVIuaD8Y1OA) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [t.](https://open.spotify.com/album/1VaVsd2DSaXP5oZW80qoQH) | 2:15 | 2023-04-06 | 2023-10-13 |
+| [Arms Open Wide](https://open.spotify.com/track/2Tt9Wz0Xhj46L5GhDO6vXD) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Arms Open Wide](https://open.spotify.com/album/3AjdEETJJahqRcTLRRWkqS) | 2:43 | 2025-09-04 |  |
 | [Arrivera](https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Arrivera](https://open.spotify.com/album/2mJxHIrImmrJOi9tYvTuku) | 3:03 | 2022-01-20 | 2022-01-28 |
 | [Asking for More](https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Asking for More](https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn) | 2:52 | 2024-11-21 | 2025-02-07 |
 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 | 2025-04-03 | 2025-04-11 |
@@ -103,7 +104,7 @@
 | [Can't Get You Out Of My Mind](https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Can't Get You Out Of My Mind](https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca) | 4:16 | 2023-11-16 | 2024-08-30 |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-02 | 2024-04-05 |
 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 | 2024-06-13 | 2025-06-06 |
-| [cartoon sex](https://open.spotify.com/track/0cdoHBZN43i8Hji84Lay6g) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/028aLcnQeNLytRE8lcFvpO) | 2:17 | 2024-11-07 |  |
+| [cartoon sex](https://open.spotify.com/track/0cdoHBZN43i8Hji84Lay6g) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/028aLcnQeNLytRE8lcFvpO) | 2:17 | 2024-11-07 | 2025-09-05 |
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 | 2022-05-20 |
 | [Ce n'est que de l'eau](https://open.spotify.com/track/7kUAwcMP0qMCdzRCWl1A02) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Ce n'est que de l'eau](https://open.spotify.com/album/234ZI9sb9oKPH5MCR1p58S) | 2:50 | 2025-05-15 | 2025-06-13 |
 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 | 2023-10-05 | 2024-04-26 |
@@ -575,7 +576,7 @@
 | [Sucré Salé](https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:42 | 2024-07-04 | 2025-05-09 |
 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 | 2023-10-19 | 2024-01-26 |
 | [Summer Song](https://open.spotify.com/track/7mJeABldzfdo4aBmTLYqPq) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Summer Song](https://open.spotify.com/album/0bfoUIARISlCk2tGnJFRhd) | 2:53 | 2023-06-22 | 2023-10-06 |
-| [summer1](https://open.spotify.com/track/0rJtuVlhDkwgyddZpkChKe) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [summer1](https://open.spotify.com/album/7G7sc7S8H489o4Mth2Rzdw) | 2:28 | 2025-05-22 |  |
+| [summer1](https://open.spotify.com/track/0rJtuVlhDkwgyddZpkChKe) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [summer1](https://open.spotify.com/album/7G7sc7S8H489o4Mth2Rzdw) | 2:28 | 2025-05-22 | 2025-09-05 |
 | [Sun](https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Sun](https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr) | 3:16 | 2022-02-17 | 2022-05-20 |
 | [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 | 2024-11-21 | 2025-05-23 |
 | [Sunlight](https://open.spotify.com/track/6kkBXPMpoQPFQ6SrgSQ7IK) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Sunlight](https://open.spotify.com/album/0J4ZjIpLALO2xXcyUBxI6G) | 2:51 | 2025-04-10 | 2025-07-11 |
@@ -661,6 +662,7 @@
 | [Vous !](https://open.spotify.com/track/2nHe5UGcgaKpNue5w9ddXa) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Vous !](https://open.spotify.com/album/1R6fcOqHQGp02MpUY4DSBN) | 2:16 | 2025-04-17 | 2025-05-16 |
 | [Voyeurisme](https://open.spotify.com/track/4wkoMRbuxd07GbA7ZDy3fi) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Voyeurisme](https://open.spotify.com/album/13cOuw1n2MIymW6G8Fvnrt) | 2:44 | 2025-02-06 | 2025-06-27 |
 | [Végétal](https://open.spotify.com/track/2xTXlI2LSQSVmXD7NjKG7i) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Végétal](https://open.spotify.com/album/6iJIfQv03arV8wBZYFDKtQ) | 3:53 | 2024-06-06 | 2024-10-11 |
+| [Wait For Me](https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Wait For Me](https://open.spotify.com/album/72eW4GfBdULIVENa700Fah) | 2:39 | 2025-09-04 |  |
 | [Walking On the Line](https://open.spotify.com/track/11TRPmEZ4xhgwPpBOb19bu) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line](https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4) | 4:38 | 2023-03-16 | 2023-04-07 |
 | [Wasting Time](https://open.spotify.com/track/3WpHDeAOuLc8J2vnnnwvey) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Wasting Time](https://open.spotify.com/album/5ThfqHk4kjrciX3uGZNods) | 3:08 | 2024-01-18 | 2024-02-24 |
 | [Way Home](https://open.spotify.com/track/5vBavF0DZKDeCEM1gZXTgW) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Way Home](https://open.spotify.com/album/50IewgySvPgiUeVvEJjHJs) | 2:52 | 2023-03-23 | 2023-04-14 |
@@ -691,7 +693,7 @@
 | [État Second](https://open.spotify.com/track/3vfyPt0SKeXtMihNyCWkro) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [État Second](https://open.spotify.com/album/00OalELdQ0354UGLibwlZn) | 3:06 | 2024-03-07 | 2024-03-29 |
 | [Éternel](https://open.spotify.com/track/0CGMRBUggHCveV09rurvlL) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 3:14 | 2022-07-28 | 2022-09-02 |
 | [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 | 2022-07-29 |
-| [ÉTINCELLE](https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [ÉTINCELLE](https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI) | 3:35 | 2024-09-19 |  |
+| [ÉTINCELLE](https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [ÉTINCELLE](https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI) | 3:35 | 2024-09-19 | 2025-09-05 |
 | [Étrange \(feat\. Nikola\)](https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Étrange \(feat\. Nikola\)](https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H) | 3:04 | 2022-06-16 | 2022-09-02 |
 | [Été Amer](https://open.spotify.com/track/3fTPbjj12M5Ih0130yR8VH) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Été Amer](https://open.spotify.com/album/0kzoSiPvtQnu93fR3gr0K3) | 3:19 | 2023-06-15 | 2023-09-29 |
 | [Ô ma belle](https://open.spotify.com/track/3gqGa4qbSoYVHDfaTUdkEA) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Voyage I](https://open.spotify.com/album/2lKQPMov6YiNbdI5xmpbiP) | 3:07 | 2022-07-21 | 2022-12-24 |

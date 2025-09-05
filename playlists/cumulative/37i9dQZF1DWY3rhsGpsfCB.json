@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 210051,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 173419,
       "name": "Beg For It",
       "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 146719,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 132246,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 239216,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/6gP8rtbgAweJelfHeGDCzC"
@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 152195,
       "name": "FEEL SOMETHING",
       "url": "https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j"
@@ -4700,7 +4700,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 196426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
@@ -5086,6 +5086,28 @@
       "duration_ms": 220013,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
+    },
+    {
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "album": {
@@ -5540,7 +5562,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 168554,
       "name": "Hesitation (with Karri)",
       "url": "https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG"
@@ -5674,7 +5696,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -6010,10 +6032,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 166954,
       "name": "I Do (feat. Muni Long)",
       "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
+      "album": {
+        "name": "Master of Ballads",
+        "url": "https://open.spotify.com/album/5E9K9Om1ctsEyuI3kPFG6X"
+      },
+      "artists": [
+        {
+          "name": "Dwin, The Stoic",
+          "url": "https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "I Go Nowhere",
+      "url": "https://open.spotify.com/track/4e6F0OgG46Fh3mkLBrxoK6"
     },
     {
       "album": {
@@ -6608,7 +6648,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
@@ -6980,6 +7020,32 @@
       "duration_ms": 218571,
       "name": "JUDAH LION",
       "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
+    },
+    {
+      "album": {
+        "name": "JULY",
+        "url": "https://open.spotify.com/album/0rwWIdruplKKSu4RpQ7cMs"
+      },
+      "artists": [
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/5aqI6maLb5AUJLQRfGudhN"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218345,
+      "name": "JULY",
+      "url": "https://open.spotify.com/track/3rQEMJGx2f2W5q2MlhS5F9"
     },
     {
       "album": {
@@ -7870,7 +7936,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Looking for God",
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
@@ -8000,7 +8066,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
@@ -8478,7 +8544,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 189000,
       "name": "Made For Me (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
@@ -9174,7 +9240,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 219346,
       "name": "Most Beautiful Design (feat. London On Da Track & Future)",
       "url": "https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX"
@@ -9614,7 +9680,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -9902,7 +9968,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 189523,
       "name": "Nobody - Bloody Civilian Remix",
       "url": "https://open.spotify.com/track/7eecj1HXy8EbnkknaQiaRC"
@@ -10281,6 +10347,24 @@
     },
     {
       "album": {
+        "name": "Memorabilia",
+        "url": "https://open.spotify.com/album/1tBDtbV0NJAyJYYCAnoAho"
+      },
+      "artists": [
+        {
+          "name": "Efue",
+          "url": "https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148472,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/6MbMMNklHBxZhUmlBQMXDs"
+    },
+    {
+      "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
@@ -10300,6 +10384,24 @@
       "duration_ms": 150783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
+    },
+    {
+      "album": {
+        "name": "On Time",
+        "url": "https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229282,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1"
     },
     {
       "album": {
@@ -10508,7 +10610,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 192852,
       "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
       "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
@@ -10552,7 +10654,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 183952,
       "name": "OUT OF MY HANDS",
       "url": "https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI"
@@ -10628,7 +10730,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
@@ -10736,7 +10838,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
@@ -11955,6 +12057,28 @@
     },
     {
       "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164599,
+      "name": "robbery",
+      "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
+    },
+    {
+      "album": {
         "name": "GOLD II",
         "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
       },
@@ -11974,7 +12098,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 191658,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
@@ -13282,7 +13406,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 180023,
       "name": "Songs About U",
       "url": "https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5"
@@ -13304,7 +13428,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
@@ -13540,7 +13664,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 157021,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ"
@@ -14066,7 +14190,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 159760,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
@@ -14150,7 +14274,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Taste Like (Hmmm)",
       "url": "https://open.spotify.com/track/39J6YT9FcihukeIhxpnxzY"
@@ -14238,7 +14362,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
@@ -14664,7 +14788,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 172081,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
@@ -15702,7 +15826,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,443 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,417 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 25 | [Shootouts With Choppas Look Like Light Shows](https://open.spotify.com/track/2pbKoXl1dX92MTa3t6Qn9d) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch), [Chris Crack](https://open.spotify.com/artist/3wws8s15DuuQWiG2xct414) | [Shootouts With Choppas Look Like Light Shows](https://open.spotify.com/album/6wVy3EXmz0m3NguIoGHq2U) | 3:20 |
 | 26 | [For Keeps](https://open.spotify.com/track/2XXyUvdXTomMQleoui097l) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 3:45 |
 | 27 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 |
-| 28 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
-| 29 | [BK'S FINEST \(feat\. Rome Streetz, Kai Ca$h & CJ Fly\)](https://open.spotify.com/track/0BwvLKnnzUr7ymJPMzDoWs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 4:34 |
+| 28 | [BK'S FINEST \(feat\. Rome Streetz, Kai Ca$h & CJ Fly\)](https://open.spotify.com/track/0BwvLKnnzUr7ymJPMzDoWs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 4:34 |
+| 29 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
 | 30 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
 | 31 | [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 |
 | 32 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 |
 | 47 | [EINSTEIN KITCHEN](https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 1:22 |
 | 48 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
-| 49 | [Glory Hole](https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [The Coldest Profession](https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP) | 2:37 |
-| 50 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
+| 49 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
+| 50 | [Glory Hole](https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [The Coldest Profession](https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP) | 2:37 |
 
 Snapshot ID: `AAAAALBgmdjIMgd+9jUSI4E9IW55ooF6`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 50705,
+  "num_followers": 50718,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
       },
       "artists": [
         {
           "name": "Buena Vista Social Club",
           "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 327866,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
+      "duration_ms": 197888,
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "url": "https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
       "artists": [
         {
           "name": "Buena Vista Social Club",
           "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 197888,
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
-      "url": "https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28"
+      "duration_ms": 327866,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
     }
   ],
   "unique_name": "Cocina con Salsa",

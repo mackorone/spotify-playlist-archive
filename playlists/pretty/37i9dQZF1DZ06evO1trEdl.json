@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAACcRpbN+43R/qd373fQCcE5",
+  "snapshot_id": "aLeFAAAAAADlXwTSawq9qUqjwQzshi68",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 481640,
-      "name": "When Will I See You Again / Love Train - Live Medley",
-      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+      "duration_ms": 337946,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
     },
     {
       "added_at": null,
@@ -207,18 +199,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 337946,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
+      "duration_ms": 481640,
+      "name": "When Will I See You Again / Love Train - Live Medley",
+      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Look in My Eyes",
+      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees Live",
         "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
       },
@@ -567,6 +583,54 @@
       "duration_ms": 163626,
       "name": "Free Ride - Live at Bailey's, London, England - 1975",
       "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "La chanson poupulaire",
+      "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "I Do Take You",
+      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -599,70 +663,6 @@
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "I Do Take You",
-      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look in My Eyes",
-        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Look in My Eyes",
-      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "La chanson poupulaire",
-      "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
+      "duration_ms": 202026,
+      "name": "The Grass (Will Sing for You) [Mono Version]",
+      "url": "https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+        "name": "This Is the House",
+        "url": "https://open.spotify.com/album/44FJsWUUCB3iP7ENd5LDTs"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Caught Between Two Fires",
-      "url": "https://open.spotify.com/track/2BmlYNJN4MTjm0VJQFkGpH"
+      "duration_ms": 221056,
+      "name": "This Is the House",
+      "url": "https://open.spotify.com/track/4vYn3EMWvMEafjNbcsikbG"
     }
   ],
   "unique_name": "This Is The Three Degrees",

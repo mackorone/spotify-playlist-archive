@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,308 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,307 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 12 | [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:37 |
 | 13 | [Kind Words \- Demo Version](https://open.spotify.com/track/3qatnoAJZkX7G1PUSqoWCH) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [Kind Words \(Demo Version\)](https://open.spotify.com/album/6HXHicGEUwfMh5oJZIAw2u) | 2:37 |
 | 14 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
-| 15 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
-| 16 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 |
+| 15 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 |
+| 16 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 17 | [LE LARGE...](https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r), [INDYDONO](https://open.spotify.com/artist/2He3ipMij2mqkHINE9M4f9) | [L'INVERSE](https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ) | 2:34 |
 | 18 | [Shatta Des Menteuses](https://open.spotify.com/track/4uFefjrV1tIY7ejYAuGIZz) | [Scorpio Qveen](https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF), [Maraboutage](https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK), [Cardozo](https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH) | [Disquette \#1 Roots](https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5) | 2:38 |
 | 19 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
-| 20 | [Temps volé](https://open.spotify.com/track/1x26yUbCxLWuUNMj4h3k6w) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr), [Uzi Freyja](https://open.spotify.com/artist/1RK65n6t13UmpsWLmTQWGz) | [Temps volé](https://open.spotify.com/album/0uYTlqOtTOW5HJ5jh1hpdJ) | 3:14 |
-| 21 | [Bouge de là](https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Désillusion](https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3) | 2:41 |
+| 20 | [Bouge de là](https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Désillusion](https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3) | 2:41 |
+| 21 | [Temps volé](https://open.spotify.com/track/1x26yUbCxLWuUNMj4h3k6w) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr), [Uzi Freyja](https://open.spotify.com/artist/1RK65n6t13UmpsWLmTQWGz) | [Temps volé](https://open.spotify.com/album/0uYTlqOtTOW5HJ5jh1hpdJ) | 3:14 |
 | 22 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
 | 23 | [Massage Gun](https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq) | [Scorpio Qveen](https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF), [Maraboutage](https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK), [Cardozo](https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH) | [Disquette \#1 Roots](https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5) | 2:23 |
 | 24 | [Alex](https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:16 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 28 | [HYPNOSE](https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [HYPNOSE](https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB) | 2:57 |
 | 29 | [BRAT](https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [BRAT](https://open.spotify.com/album/392u2T0ZoleRLFuzBg7FZo) | 3:14 |
 | 30 | [De bois et de fumée](https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [De bois et de fumée](https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj) | 2:31 |
-| 31 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
-| 32 | [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 |
-| 33 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
-| 34 | [ENFANT SUICIDE](https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ENFANT SUICIDE](https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn) | 3:20 |
+| 31 | [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 |
+| 32 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
+| 33 | [ENFANT SUICIDE](https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ENFANT SUICIDE](https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn) | 3:20 |
+| 34 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
 | 35 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
 | 36 | [Folie](https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Folie](https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc) | 2:51 |
 | 37 | [Haunted House](https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:24 |

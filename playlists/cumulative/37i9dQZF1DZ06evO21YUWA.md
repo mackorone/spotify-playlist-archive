@@ -4,12 +4,12 @@
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-139 songs - 10 hr 47 min
+140 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Change in the Weather](https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 2:41 | 2024-08-06 | 2025-06-08 |
-| [A Child In A Sylvan Field](https://open.spotify.com/track/1G3j8I8FUIG3TeQ7edEvCA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:36 | 2025-06-30 |  |
+| [A Child In A Sylvan Field](https://open.spotify.com/track/1G3j8I8FUIG3TeQ7edEvCA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:36 | 2025-06-30 | 2025-09-05 |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2022-05-29 | 2022-11-03 |
 | [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 | 2022-11-02 |  |
 | [A Formless Path](https://open.spotify.com/track/2WdSMNXQIX2X9CJ8GZcTyW) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:23 | 2022-05-29 | 2022-10-13 |
@@ -128,6 +128,7 @@
 | [The Panther of Small Favors](https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 2:17 | 2023-11-10 | 2024-06-03 |
 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 | 2022-05-30 | 2025-03-25 |
 | [The Plateaux Of Mirror \- Remastered 2004](https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:13 | 2022-05-29 |  |
+| [The Room](https://open.spotify.com/track/7qK6wX5vILGXb4iGUJ9hym) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:07 | 2025-09-05 |  |
 | [The Room Obscured](https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Room](https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq) | 1:03 | 2023-01-18 | 2024-08-19 |
 | [The Room of Ancillary Dreams](https://open.spotify.com/track/3sE6rfo580MA1BLabp4tQz) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Room](https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq) | 6:08 | 2022-05-30 | 2022-09-13 |
 | [The Silver Ball \- 2005 Digital Remaster](https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:31 | 2022-05-31 | 2024-08-13 |

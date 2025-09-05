@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-502 songs - 1 day 5 hr 54 min
+503 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Acoustic\)](https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82) | 3:19 | 2022-12-16 | 2023-05-24 |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
 | [Cent pas](https://open.spotify.com/track/3UET3oVThA6MgDpjEgjyLq) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Cent pas](https://open.spotify.com/album/6KixBRmSppz0wrNwOd1lJS) | 3:59 | 2021-01-03\* | 2021-12-08 |
+| [Champagne rubis](https://open.spotify.com/track/4lTNJ3Zd7ehGiJahvam4Wj) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Champagne rubis / Pitstop](https://open.spotify.com/album/200qsTRZQHWpt8JaR2ckqf) | 2:47 | 2025-09-05 |  |
 | [Changer le cours \(Radio Edit\)](https://open.spotify.com/track/01IFtv24MpJjlPjgLe3bjn) | [Sophie Pelletier](https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8) | [Changer le cours \(Radio Edit\) \- Single](https://open.spotify.com/album/7M4wgxxGmAIngUxNLN6O0Q) | 2:52 | 2021-01-16 | 2021-10-16 |
 | [Chanson d'automne](https://open.spotify.com/track/6TnV9y0Rt6f0U4nGqDwhC4) | [Mauvais Amis](https://open.spotify.com/artist/0fQ1GquXLsW7jOodJZHwn3) | [Chanson d'automne](https://open.spotify.com/album/3U9WFrewtJlnallEoNuAq9) | 1:42 | 2021-01-03\* | 2022-07-26 |
 | [chanson for my depressed love](https://open.spotify.com/track/3aAWTPlsmWS8ICCiy0poc2) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles cachées \(halloween version\)](https://open.spotify.com/album/2sCZfWDfMNrIfaew3V3u9a) | 3:09 | 2021-10-09 | 2021-10-16 |
@@ -282,7 +283,7 @@
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 | 2024-04-19 |
 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 | 2024-11-29 |  |
 | [Los Peces](https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [First Recordings](https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U) | 3:38 | 2024-10-04 |  |
-| [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 |  |
+| [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2025-09-05 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2024-04-12 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 | 2024-08-13 |

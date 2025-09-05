@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 91498,
+  "num_followers": 91512,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Middle of Nowhere (feat. Chad Kroeger)",
-        "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
-      },
-      "artists": [
-        {
-          "name": "Big Wreck",
-          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
-        },
-        {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
-        }
-      ],
-      "duration_ms": 240014,
-      "name": "Middle of Nowhere (feat. Chad Kroeger)",
-      "url": "https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "The People's House (with The War And Treaty)",
         "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 265846,
       "name": "The People's House (with The War And Treaty)",
       "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Middle of Nowhere (feat. Chad Kroeger)",
+        "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        },
+        {
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        }
+      ],
+      "duration_ms": 240014,
+      "name": "Middle of Nowhere (feat. Chad Kroeger)",
+      "url": "https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "xoxo",
-        "url": "https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 247364,
-      "name": "xoxo",
-      "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 195583,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "xoxo",
+        "url": "https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "xoxo",
+      "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"
     },
     {
       "added_at": "2025-04-21 21:56:35",

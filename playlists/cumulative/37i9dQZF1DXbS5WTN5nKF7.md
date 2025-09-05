@@ -2,9 +2,9 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec DJ Snake & Bipolar Sunshine !
+> Le meilleur des hits avec Benson Boone !
 
-381 songs - 19 hr 45 min
+382 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [God Is A Girl](https://open.spotify.com/track/6orZ3ZsSlFvsgmXEAiGfWJ) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn), [Groove Coverage](https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [God Is A Girl](https://open.spotify.com/album/6SsqqKA7GXG1ZVch5S8YKX) | 2:41 | 2023-10-12 | 2023-12-15 |
 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 | 2023-07-27 | 2024-04-04 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-08-07 |  |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-09-04 |  |
 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2025-03-06 | 2025-05-30 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-08-08 | 2024-12-06 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-26 | 2024-05-24 |
@@ -227,7 +228,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-07-24 |  |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-28 | 2024-03-29 |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-04-11 | 2024-05-17 |
-| [M'envoler](https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [M'envoler](https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8) | 3:09 | 2025-03-13 |  |
+| [M'envoler](https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [M'envoler](https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8) | 3:09 | 2025-03-13 | 2025-09-05 |
 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-05-23 | 2024-09-27 |
 | [Ma faute](https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Ma faute](https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT) | 3:19 | 2025-02-27 | 2025-07-25 |
 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 | 2025-02-06 | 2025-02-28 |
@@ -236,10 +237,10 @@
 | [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 | 2025-04-10 | 2025-07-04 |
 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-07-27 | 2023-12-15 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-07-17 |  |
-| [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2024-12-05 |  |
+| [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2024-12-05 | 2025-09-05 |
 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-05-08 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-02-27 | 2025-06-13 |
-| [Melrose Place](https://open.spotify.com/track/0TYTQ9vAJM0q4qT1mzDeFq) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Melrose Place](https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP) | 2:36 | 2025-07-10 | 2025-08-01 |
+| [Melrose Place](https://open.spotify.com/track/0TYTQ9vAJM0q4qT1mzDeFq) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Melrose Place](https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP) | 2:36 | 2025-07-10 |  |
 | [Memento](https://open.spotify.com/track/5Cn6HUjq30KK6UBCryPMhn) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Memento](https://open.spotify.com/album/3Er5vnJ0cRHfX44Unh4FbQ) | 3:39 | 2024-02-29 | 2024-04-19 |
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2025-02-06 | 2025-05-23 |
 | [Mercredi](https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:51 | 2024-03-21 | 2024-03-29 |

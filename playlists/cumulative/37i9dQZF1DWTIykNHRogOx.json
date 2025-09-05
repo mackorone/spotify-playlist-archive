@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec ESTL",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 243746,
       "name": "30 ans",
       "url": "https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 169893,
       "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
       "url": "https://open.spotify.com/track/33574meZfftZQlc8ZPBrtk"
@@ -382,10 +382,28 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 197040,
       "name": "Cette guerre",
       "url": "https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ"
+    },
+    {
+      "album": {
+        "name": "Mon sang",
+        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Cette vie",
+      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
     },
     {
       "album": {
@@ -1489,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "La b\u00e9atitude",
+        "url": "https://open.spotify.com/album/4xap6Pd9mCEwTvtqCAe5s4"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227640,
+      "name": "La b\u00e9atitude",
+      "url": "https://open.spotify.com/track/5BlUOZzmAhdksyj5YOmGBU"
+    },
+    {
+      "album": {
         "name": "La fresque",
         "url": "https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh"
       },
@@ -1876,6 +1912,42 @@
       "duration_ms": 187390,
       "name": "Le mauvais gar\u00e7on",
       "url": "https://open.spotify.com/track/55RryZOqld0UynYHHVAiOP"
+    },
+    {
+      "album": {
+        "name": "Le nom des fleurs",
+        "url": "https://open.spotify.com/album/2HsikV99a1wKHnzWrObeSm"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "Le nom des fleurs",
+      "url": "https://open.spotify.com/track/3aTMleeOHwd89RFAJzkQsW"
+    },
+    {
+      "album": {
+        "name": "Le penseur",
+        "url": "https://open.spotify.com/album/5q90PSSaosWpyeeH0f6QM7"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "Le penseur",
+      "url": "https://open.spotify.com/track/1tv58Ak1QlECDQNAIl1xqz"
     },
     {
       "album": {
@@ -2648,7 +2720,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 262666,
       "name": "Oh la guitare",
       "url": "https://open.spotify.com/track/4SLSQ1QE7xOjmMS7bIgo1r"
@@ -2886,7 +2958,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 288640,
       "name": "Pluie de data",
       "url": "https://open.spotify.com/track/3F2zj7x4wGGpWmezFy07BF"
@@ -3590,7 +3662,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 166206,
       "name": "un coeur jamais venu",
       "url": "https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE"
@@ -3691,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Y en a encore",
+        "url": "https://open.spotify.com/album/17GF2d30VLO5Ssq1oshJDa"
+      },
+      "artists": [
+        {
+          "name": "Vincent Dedienne",
+          "url": "https://open.spotify.com/artist/219lkhP1xf6bR6M4UUtid7"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Y en a encore",
+      "url": "https://open.spotify.com/track/0RLh5Y3xC0A4k41EIukN7N"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'\u00e9vidence",
         "url": "https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb"
       },
@@ -3768,6 +3858,24 @@
       "duration_ms": 200984,
       "name": "\u00c0 quoi tu penses ?",
       "url": "https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU"
+    },
+    {
+      "album": {
+        "name": "\u00c7a ne saurait tarder",
+        "url": "https://open.spotify.com/album/5nMycdHbuXuCDaPzcq22Tc"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297888,
+      "name": "\u00c7a ne saurait tarder",
+      "url": "https://open.spotify.com/track/1aOR6tifyYNqMBFgOljtHv"
     },
     {
       "album": {

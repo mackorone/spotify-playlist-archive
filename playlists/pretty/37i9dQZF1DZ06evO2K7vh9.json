@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 98628,
+  "num_followers": 98654,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAAVi5K30cDlkqRZLuxcFlxs",
+  "snapshot_id": "aLeFAAAAAABHOcQ0ZQ2xrvTWvxH9/oby",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 165937,
-      "name": "Half The Plot",
-      "url": "https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb"
+      "duration_ms": 134308,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
     },
     {
       "added_at": null,
@@ -259,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/2BULAwmRpScmZE7YOF07e5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 134308,
-      "name": "On Your Own",
-      "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PLAN A",
         "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
       },
@@ -307,6 +275,38 @@
       "duration_ms": 150204,
       "name": "I CAN\u2019T LET GO",
       "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Half The Plot",
+      "url": "https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/2BULAwmRpScmZE7YOF07e5"
     },
     {
       "added_at": null,
@@ -331,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
     },
     {
       "added_at": null,
@@ -367,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAN A",
-        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 170447,
-      "name": "TASTE",
-      "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 109373,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"
+      "duration_ms": 141732,
+      "name": "NEVER LAST",
+      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAN A",
-        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 141732,
-      "name": "NEVER LAST",
-      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
+      "duration_ms": 109373,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 134520,
-      "name": "DUI",
-      "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
+      "duration_ms": 136874,
+      "name": "D1",
+      "url": "https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAN A",
-        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 136874,
-      "name": "D1",
-      "url": "https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u"
+      "duration_ms": 134520,
+      "name": "DUI",
+      "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
     },
     {
       "added_at": null,

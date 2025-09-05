@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-425 songs - 1 day 0 hr 55 min
+426 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [YOU SO PRETTY](https://open.spotify.com/track/7HgoxH8kyUWZZTS1o93XL6) | [溫璽揚](https://open.spotify.com/artist/2Fijvd4HSZroOdzEapceP1), [張婧](https://open.spotify.com/artist/5NPtjVTLt3DJmi5hOir6Gl) | [YOU SO PRETTY](https://open.spotify.com/album/6kqM8kHLwbqNytMzU8TuDN) | 3:23 | 2024-01-29 | 2024-01-30 |
 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 | 2024-01-12 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
+| [《右先生》Mr Right](https://open.spotify.com/track/6RtE4MSOGZgMyZFMjWrb47) | [Sheron Tan](https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph), [黄湘淋](https://open.spotify.com/artist/4aHnpdagCMoZKf8XgRxG5t) | [《右先生》Mr Right](https://open.spotify.com/album/6f0N4CejAj2OtC8oAoXLVf) | 3:59 | 2025-09-04 |  |
 | [一天 \- 電視劇《想見你》插曲](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2022-06-06 | 2022-07-25 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM) | 2:24 | 2022-06-13 | 2023-05-03 |
@@ -342,7 +343,7 @@
 | [爱你爱你](https://open.spotify.com/track/4X7IcvRn9cpbzTjsaxYlCF) | [TE3N](https://open.spotify.com/artist/6yGVKVuEqIkuiYQ6Gq75GK) | [爱你爱你](https://open.spotify.com/album/3Jaq92pcOgskZtR8NWNgle) | 3:18 | 2024-11-21 | 2024-11-29 |
 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 | 2022-06-27 |  |
 | [牽妳的手像妳牽著我\(信義房屋母親節合作主題曲\)](https://open.spotify.com/track/3Uz0ZMWL9iWY6HTrJZwkoJ) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI) | [牽妳的手像妳牽著我\(信義房屋母親節合作主題曲\)](https://open.spotify.com/album/2yHyMPwLu8OuQW68iJ80I0) | 2:48 | 2022-07-18 | 2022-07-29 |
-| [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 | 2024-04-15 |  |
+| [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 | 2024-04-15 | 2025-09-05 |
 | [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/track/58OKa3g5rRVpFer06Z1Ahw) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/album/5VWDiAI2suDaU34y5xnJsu) | 4:09 | 2024-03-04 | 2025-01-10 |
 | [猫狗日记](https://open.spotify.com/track/7Em0o6cBieVxu5tZDAl3BL) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI), [着色素描](https://open.spotify.com/artist/10DVAkKUvT6qYlo1hHfVAR) | [猫狗日记](https://open.spotify.com/album/7azMYxIqLcHEOFnMCFavCs) | 3:12 | 2025-06-26 | 2025-08-20 |
 | [环岛飞行](https://open.spotify.com/track/5ZuCZbdb0aK2RaHfY5ZTlc) | [朱主爱](https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6) | [环岛飞行](https://open.spotify.com/album/2iHZAFuUcZKXju9s0PpdaK) | 2:21 | 2023-05-08 | 2023-05-16 |

@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-999 songs - 2 day 3 hr 7 min
+1,002 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2021-10-06 | 2023-01-25 |
 | [Ethereal Meadows](https://open.spotify.com/track/0v6R1afLNw8t7ufW4BCiFx) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Ethereal Meadows](https://open.spotify.com/album/6whFzOOh14qZsC0hKXvFUT) | 3:12 | 2025-06-04 |  |
 | [Ethereal Void](https://open.spotify.com/track/5HlGObtwQkPz7Amhz9nkZq) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Ethereal Void](https://open.spotify.com/album/5JCN16SVH8uO1Dt3GfqecW) | 2:16 | 2025-02-28 |  |
+| [Etherways](https://open.spotify.com/track/0oKcpPfP2zE9DigVdunLN0) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Etherways](https://open.spotify.com/album/0U2xVfoKfVsTmuPxUEpMWl) | 2:24 | 2025-09-04 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2019-05-26\* | 2023-05-20 |
 | [Eunoia](https://open.spotify.com/track/7qpWLNqJUYQpoNtoZcTDaU) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Eunoia](https://open.spotify.com/album/3z0WSTyGVc6dBnnicvGOPI) | 4:33 | 2019-07-27 | 2021-07-23 |
 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 | 2019-12-07 | 2023-05-20 |
@@ -622,6 +623,7 @@
 | [Northern Skies](https://open.spotify.com/track/4Fvo7mI8FM8valAzylNV9t) | [Miraes Seyara](https://open.spotify.com/artist/0juHoHX14lVxCoaDjjUf7h) | [Northern Skies](https://open.spotify.com/album/6nWOtt0ioFrr1F6SHJ1HhJ) | 3:26 | 2022-11-22 | 2025-05-14 |
 | [Not Giving Up](https://open.spotify.com/track/5f3WC3rzG1MAZrxODeYrll) | [Agnes Sayjno](https://open.spotify.com/artist/345c5ThS55JjzQizl3l8pg) | [Not Giving Up](https://open.spotify.com/album/70IA8E1aebBcAevp3mjhX5) | 4:57 | 2021-09-14 | 2024-09-12 |
 | [Novela](https://open.spotify.com/track/5niLpTfr4mjTpRZZReAuSZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Novela](https://open.spotify.com/album/45XWRStH7Eg4CJc8GZQgNS) | 3:54 | 2025-03-26 |  |
+| [Numenoris](https://open.spotify.com/track/6wDKO249Uwv6OSv27oT04E) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Numenoris](https://open.spotify.com/album/6KHiiwkKRVOxwLDJReck3C) | 2:56 | 2025-09-04 |  |
 | [NYC/Night Time](https://open.spotify.com/track/1Y5TuZ4lGEeB4UKIvgieWC) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:47 | 2020-08-08 | 2023-03-18 |
 | [När natten faller](https://open.spotify.com/track/4LrzFAJhBvcvSUfFTmNfRZ) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [När natten faller](https://open.spotify.com/album/1kZTmJJLTqTzgCN6BhBiwi) | 2:09 | 2020-05-09 | 2023-05-03 |
 | [Oasis](https://open.spotify.com/track/3wSBG6keI8IMWvaqlEbugZ) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [For a Lifetime](https://open.spotify.com/album/4CIxHPyaHFbrbqh4k3QFPy) | 3:14 | 2019-05-26\* | 2022-12-10 |
@@ -683,6 +685,7 @@
 | [Positivism](https://open.spotify.com/track/7ovwhb6RLkFOYXKoQDW6RS) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Positivism](https://open.spotify.com/album/04BNSX153NEAwpVzNkF6ta) | 2:25 | 2024-12-19 |  |
 | [Prarie Whisper](https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Lost Without Thoughts](https://open.spotify.com/album/7eSQYxXrvCdp2AWDlKGlyc) | 3:48 | 2020-01-03 | 2023-01-07 |
 | [Precious Time](https://open.spotify.com/track/2xcKXBb8yAyRX37RkvaozM) | [Evah Linnet](https://open.spotify.com/artist/2BOqxhLZK8i0dICth5U9VH) | [Precious Time](https://open.spotify.com/album/2gvgYNTWQ0lMaaGt09aXcZ) | 2:52 | 2023-01-27 | 2025-06-18 |
+| [Prism](https://open.spotify.com/track/7kS8x1KOCzeMKqAbZhtY3q) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Prism](https://open.spotify.com/album/7sBo3qjn7xREQJqG8ncfP5) | 2:43 | 2025-09-04 |  |
 | [Prism](https://open.spotify.com/track/2xzB64zYaLphSDp6eNSUOl) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Prism](https://open.spotify.com/album/5xUGdopo67DQi2m7CBE5A9) | 3:11 | 2023-05-02 |  |
 | [Prism](https://open.spotify.com/track/3NUsEBwZcHuqi5QVJLJL4f) | [Milleah](https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze) | [Prism](https://open.spotify.com/album/2O6TdmXufmmB9nLJNAstMF) | 3:07 | 2025-01-29 |  |
 | [Probability](https://open.spotify.com/track/2pIXx5vgOv3hXfaelZCi2X) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Probability](https://open.spotify.com/album/4YOM1HkiAalYRnxGfV1PiR) | 2:36 | 2025-02-28 |  |

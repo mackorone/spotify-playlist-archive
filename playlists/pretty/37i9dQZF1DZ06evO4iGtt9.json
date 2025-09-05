@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8478,
+  "num_followers": 8482,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAApgONSJmIx0dql2wKwWw9i",
+  "snapshot_id": "aLeFAAAAAAC2MQBweCjR/iqagNY1WOLL",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u0219e",
+        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Ma\u0219e",
+      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Serious",
         "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 245626,
       "name": "Good Or Bad (Oway)",
       "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma\u0219e",
-        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Ma\u0219e",
-      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Than Them",
-        "url": "https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Better Than Them",
-      "url": "https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 212498,
       "name": "Abeg Abeg (feat. 2Baba & Timaya)",
       "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Than Them",
+        "url": "https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 213921,
+      "name": "Better Than Them",
+      "url": "https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA"
     },
     {
       "added_at": null,

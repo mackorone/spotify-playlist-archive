@@ -1,6 +1,6 @@
 {
   "description": "This week's best new <a href=\"spotify:genre:edm_dance\">dance and electronic releases</a> from KETTAMA, Skepta + Fred again.., NGHTMRE, & more!",
-  "num_followers": 540959,
+  "num_followers": 541040,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,22 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "SO DAMN GOOD",
-        "url": "https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF"
+        "name": "In the Jungle",
+        "url": "https://open.spotify.com/album/5iIr3puurvEK5PQnKsXvM8"
       },
       "artists": [
         {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         }
       ],
-      "duration_ms": 198400,
-      "name": "SO DAMN GOOD",
-      "url": "https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw"
+      "duration_ms": 240210,
+      "name": "In the Jungle",
+      "url": "https://open.spotify.com/track/62jZuB60iHHjaMJIf9584g"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -679,26 +683,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "In the Jungle",
-        "url": "https://open.spotify.com/album/5iIr3puurvEK5PQnKsXvM8"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 240210,
-      "name": "In the Jungle",
-      "url": "https://open.spotify.com/track/62jZuB60iHHjaMJIf9584g"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "LOOK4MYLOVE",
         "url": "https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 220108,
       "name": "LOOK4MYLOVE",
       "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "SO DAMN GOOD",
+        "url": "https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "SO DAMN GOOD",
+      "url": "https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -807,42 +807,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Truth Begins",
-        "url": "https://open.spotify.com/album/2B2SCRRyyvCTgVKyKCCk49"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "blazey",
-          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
-        }
-      ],
-      "duration_ms": 363548,
-      "name": "Truth Begins",
-      "url": "https://open.spotify.com/track/7MmFiel9hND17Ih3ZZkCSq"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "double luxury",
-        "url": "https://open.spotify.com/album/6DQicWAuEdhCIPhVxibnld"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 265300,
-      "name": "double luxury",
-      "url": "https://open.spotify.com/track/3mniWvZDbiXup6vp7ebPJi"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
       },
@@ -863,6 +827,46 @@
       "duration_ms": 185000,
       "name": "LOW",
       "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Truth Begins",
+        "url": "https://open.spotify.com/album/2B2SCRRyyvCTgVKyKCCk49"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "blazey",
+          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
+        }
+      ],
+      "duration_ms": 363548,
+      "name": "Truth Begins",
+      "url": "https://open.spotify.com/track/7MmFiel9hND17Ih3ZZkCSq"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "\u00c8K\u00d3 GROOVE",
+        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "EARLY",
+      "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -891,22 +895,18 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "\u00c8K\u00d3 GROOVE",
-        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
+        "name": "double luxury",
+        "url": "https://open.spotify.com/album/6DQicWAuEdhCIPhVxibnld"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
         }
       ],
-      "duration_ms": 167586,
-      "name": "EARLY",
-      "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
+      "duration_ms": 265300,
+      "name": "double luxury",
+      "url": "https://open.spotify.com/track/3mniWvZDbiXup6vp7ebPJi"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -973,20 +973,20 @@
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
-      "added_at": "2025-08-29 04:00:35",
+      "added_at": "2025-08-29 14:24:24",
       "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/1uYYQbt7lkRpXywsHYSl6i"
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
         }
       ],
-      "duration_ms": 185976,
-      "name": "Good To Go",
-      "url": "https://open.spotify.com/track/7Fvf4qA4B1OriJYJmDhs23"
+      "duration_ms": 147040,
+      "name": "Go Down",
+      "url": "https://open.spotify.com/track/27HtGX09GJwSC4nt2EazyU"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Sunshine (MoBlack Remix)",
-        "url": "https://open.spotify.com/album/1clI3E1YfdlYVrNvBcqZRJ"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Sunshine - MoBlack Remix",
-      "url": "https://open.spotify.com/track/5tSctmdVjV1IQRCXzt2gg3"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "Crashing Down",
         "url": "https://open.spotify.com/album/7KiXlo5ZH1O5fPCRyoWWXb"
       },
@@ -1067,6 +1047,22 @@
       "duration_ms": 186884,
       "name": "Crashing Down",
       "url": "https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1uYYQbt7lkRpXywsHYSl6i"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 185976,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/7Fvf4qA4B1OriJYJmDhs23"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1089,36 +1085,24 @@
       "url": "https://open.spotify.com/track/3yL50qyTQZGageZwjmxWhB"
     },
     {
-      "added_at": "2025-08-29 14:24:24",
-      "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Go Down",
-      "url": "https://open.spotify.com/track/27HtGX09GJwSC4nt2EazyU"
-    },
-    {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Rockin",
-        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
+        "name": "Sunshine (MoBlack Remix)",
+        "url": "https://open.spotify.com/album/1clI3E1YfdlYVrNvBcqZRJ"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         }
       ],
-      "duration_ms": 186857,
-      "name": "Rockin",
-      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
+      "duration_ms": 191612,
+      "name": "Sunshine - MoBlack Remix",
+      "url": "https://open.spotify.com/track/5tSctmdVjV1IQRCXzt2gg3"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1139,6 +1123,22 @@
       "duration_ms": 197142,
       "name": "Jack",
       "url": "https://open.spotify.com/track/0JvSCk4PtLNOcAXv0b9Ks1"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Rockin",
+        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Rockin",
+      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1183,62 +1183,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Lose It",
-        "url": "https://open.spotify.com/album/68REzpFEXBGfB4Py7mpDC0"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "Flozone",
-          "url": "https://open.spotify.com/artist/3SoFUkULAf5goHkXVeppoh"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/2cSou5hOjZB3S4lSUuxqq2"
-    },
-    {
-      "added_at": "2025-08-29 14:24:24",
-      "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/0A9qsdWpUkxRMXR6RlQjk9"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/2oqq6m2yhaocEOukbvwxur"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "I Got Soul (Super Bad)",
-        "url": "https://open.spotify.com/album/3H0ootot0DGXzvmq9tQ1EW"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        }
-      ],
-      "duration_ms": 142968,
-      "name": "I Got Soul (Super Bad)",
-      "url": "https://open.spotify.com/track/41LxUALaLM5fnPTEexCN9g"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "On and On",
         "url": "https://open.spotify.com/album/26aJH8CkhEBl7wcUQqD5Jt"
       },
@@ -1257,20 +1201,20 @@
       "url": "https://open.spotify.com/track/36p4ZdYx0S12JdAdTJSCDP"
     },
     {
-      "added_at": "2025-08-29 04:00:35",
+      "added_at": "2025-08-29 14:24:24",
       "album": {
-        "name": "ADRENOCHROME : ZERO",
-        "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/0A9qsdWpUkxRMXR6RlQjk9"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
         }
       ],
-      "duration_ms": 195310,
-      "name": "Sometimes / DOPAMINE++++",
-      "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
+      "duration_ms": 116000,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/2oqq6m2yhaocEOukbvwxur"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1299,6 +1243,62 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
+        "name": "Lose It",
+        "url": "https://open.spotify.com/album/68REzpFEXBGfB4Py7mpDC0"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "Flozone",
+          "url": "https://open.spotify.com/artist/3SoFUkULAf5goHkXVeppoh"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/2cSou5hOjZB3S4lSUuxqq2"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "I Got Soul (Super Bad)",
+        "url": "https://open.spotify.com/album/3H0ootot0DGXzvmq9tQ1EW"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "duration_ms": 142968,
+      "name": "I Got Soul (Super Bad)",
+      "url": "https://open.spotify.com/track/41LxUALaLM5fnPTEexCN9g"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "ADRENOCHROME : ZERO",
+        "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Sometimes / DOPAMINE++++",
+      "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
         "name": "SPEND IT",
         "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
       },
@@ -1319,6 +1319,42 @@
       "duration_ms": 144023,
       "name": "SPEND IT",
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/7Hy2xn3yv9oJc5SzE8W9iR"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Hey Baby",
+          "url": "https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/6EVf37T3IV97vSNsLGLfGj"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "ELECTRIC LOVE",
+        "url": "https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "ELECTRIC LOVE",
+      "url": "https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1363,42 +1399,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/7Hy2xn3yv9oJc5SzE8W9iR"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Hey Baby",
-          "url": "https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/6EVf37T3IV97vSNsLGLfGj"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "ELECTRIC LOVE",
-        "url": "https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "ELECTRIC LOVE",
-      "url": "https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/46U5yGeTP1Gl406GQLJ2dT"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 170057,
       "name": "Badman Talk",
       "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/4fF96ALIS1v38PxB1Zfc7f"
+      },
+      "artists": [
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        },
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 173709,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3jvljyWk3ST8Yg4JLZO1wN"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1479,46 +1499,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Whine It Up (feat. Warrior Queen)",
-        "url": "https://open.spotify.com/album/34tMmaCGi4X787pVxUQ5gr"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Warrior Queen",
-          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "Whine It Up (feat. Warrior Queen)",
-      "url": "https://open.spotify.com/track/3J2vWrIk9p2XAa6LaZxMVF"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/4fF96ALIS1v38PxB1Zfc7f"
-      },
-      "artists": [
-        {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        },
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 173709,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/3jvljyWk3ST8Yg4JLZO1wN"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "Amigood",
         "url": "https://open.spotify.com/album/3BmZLN7r2QrxF9PtD6quSQ"
       },
@@ -1555,58 +1535,22 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Fade To Black EP",
-        "url": "https://open.spotify.com/album/1CuBDDWPdzNolcPtYGAT8N"
+        "name": "Whine It Up (feat. Warrior Queen)",
+        "url": "https://open.spotify.com/album/34tMmaCGi4X787pVxUQ5gr"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 260437,
-      "name": "Fade To Black",
-      "url": "https://open.spotify.com/track/2VcK9l2rGaxUw6cI4u5zxy"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "Nemesis",
-        "url": "https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt"
-      },
-      "artists": [
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         },
         {
-          "name": "Careless Castle",
-          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "The House Of House",
-        "url": "https://open.spotify.com/album/1cYbdrQHQ6nFrf8f1OFdLn"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "The House Of House",
-      "url": "https://open.spotify.com/track/1rutEEOiyiNNi09jBJiOwH"
+      "duration_ms": 212565,
+      "name": "Whine It Up (feat. Warrior Queen)",
+      "url": "https://open.spotify.com/track/3J2vWrIk9p2XAa6LaZxMVF"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1631,18 +1575,38 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "World of Imagination",
-        "url": "https://open.spotify.com/album/5VLv1pqDtOkSIi8dh0qeIE"
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt"
       },
       "artists": [
         {
-          "name": "TMPLE",
-          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
         }
       ],
-      "duration_ms": 207749,
-      "name": "World of Imagination",
-      "url": "https://open.spotify.com/track/3hPmjsQR23X4BVAUbkkKP0"
+      "duration_ms": 165517,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Fade To Black EP",
+        "url": "https://open.spotify.com/album/1CuBDDWPdzNolcPtYGAT8N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 260437,
+      "name": "Fade To Black",
+      "url": "https://open.spotify.com/track/2VcK9l2rGaxUw6cI4u5zxy"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1663,6 +1627,26 @@
       "duration_ms": 211875,
       "name": "Drip Drop (Handle That)",
       "url": "https://open.spotify.com/track/70m2ktM5B0Rjj5rTSZm8gn"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "The House Of House",
+        "url": "https://open.spotify.com/album/1cYbdrQHQ6nFrf8f1OFdLn"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "The House Of House",
+      "url": "https://open.spotify.com/track/1rutEEOiyiNNi09jBJiOwH"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1691,22 +1675,42 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Pasion",
-        "url": "https://open.spotify.com/album/37se9dhddpEO6gIrzThG6q"
+        "name": "World of Imagination",
+        "url": "https://open.spotify.com/album/5VLv1pqDtOkSIi8dh0qeIE"
       },
       "artists": [
         {
-          "name": "Pianoman",
-          "url": "https://open.spotify.com/artist/7wmFgMKmwKthThqPpc9oGV"
-        },
-        {
-          "name": "Alex Kassian",
-          "url": "https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY"
+          "name": "TMPLE",
+          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
         }
       ],
-      "duration_ms": 465000,
-      "name": "Pasion - Alex Kassian's Mandarine Dance Mix",
-      "url": "https://open.spotify.com/track/379a9TfqCllPNpMN2x962M"
+      "duration_ms": 207749,
+      "name": "World of Imagination",
+      "url": "https://open.spotify.com/track/3hPmjsQR23X4BVAUbkkKP0"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/79u2PGSaf5daLBomIJsAYI"
+      },
+      "artists": [
+        {
+          "name": "KhoMha",
+          "url": "https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW"
+        },
+        {
+          "name": "Tavatli",
+          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/5DctWqRCrlKMEJIGf9qyPI"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1751,26 +1755,22 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/79u2PGSaf5daLBomIJsAYI"
+        "name": "Pasion",
+        "url": "https://open.spotify.com/album/37se9dhddpEO6gIrzThG6q"
       },
       "artists": [
         {
-          "name": "KhoMha",
-          "url": "https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW"
+          "name": "Pianoman",
+          "url": "https://open.spotify.com/artist/7wmFgMKmwKthThqPpc9oGV"
         },
         {
-          "name": "Tavatli",
-          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Alex Kassian",
+          "url": "https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/5DctWqRCrlKMEJIGf9qyPI"
+      "duration_ms": 465000,
+      "name": "Pasion - Alex Kassian's Mandarine Dance Mix",
+      "url": "https://open.spotify.com/track/379a9TfqCllPNpMN2x962M"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Bound2U",
-        "url": "https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 176612,
-      "name": "Bound2U",
-      "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "Remember EP",
         "url": "https://open.spotify.com/album/1cqv3d9Vr5IoSerR9sDMUz"
       },
@@ -1851,22 +1835,18 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Basement Trash",
-        "url": "https://open.spotify.com/album/1RDc7VDLEcFAB9gVSgl3RY"
+        "name": "Bound2U",
+        "url": "https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm"
       },
       "artists": [
         {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 227368,
-      "name": "Basement Trash",
-      "url": "https://open.spotify.com/track/14WFf0vKL18v64LzyoJwMU"
+      "duration_ms": 176612,
+      "name": "Bound2U",
+      "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1883,6 +1863,26 @@
       "duration_ms": 217140,
       "name": "I WANT YOU",
       "url": "https://open.spotify.com/track/3Dd1dRzU137EOi0jxvaWCw"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Basement Trash",
+        "url": "https://open.spotify.com/album/1RDc7VDLEcFAB9gVSgl3RY"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Basement Trash",
+      "url": "https://open.spotify.com/track/14WFf0vKL18v64LzyoJwMU"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "Rage EP",
-        "url": "https://open.spotify.com/album/6XzaEozbJcSAA8tPivklvO"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 310534,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/6374pbAgyFU4xde0wHC74D"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "My 45",
         "url": "https://open.spotify.com/album/61iDO0oM40jylw3fiVbcPE"
       },
@@ -1995,18 +1979,34 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "La Musica",
-        "url": "https://open.spotify.com/album/5V3bm4lt40YDuanpEO2HOR"
+        "name": "Rage EP",
+        "url": "https://open.spotify.com/album/6XzaEozbJcSAA8tPivklvO"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 196875,
-      "name": "La Musica",
-      "url": "https://open.spotify.com/track/6Pljn2mE2jMBlPe09uIV04"
+      "duration_ms": 310534,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/6374pbAgyFU4xde0wHC74D"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/0XCCqqwriW8mcWBJNFo1ig"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6cUX5QNP8x7tEZDDRWuwdH"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -2023,6 +2023,22 @@
       "duration_ms": 195234,
       "name": "Blaxland",
       "url": "https://open.spotify.com/track/5GQLlMBESzHRecWYhb0Feu"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "La Musica",
+        "url": "https://open.spotify.com/album/5V3bm4lt40YDuanpEO2HOR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/6Pljn2mE2jMBlPe09uIV04"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -2047,54 +2063,6 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
-        "name": "let it (w.i.p)",
-        "url": "https://open.spotify.com/album/0pQq4N9lDZrneNTxy1Perp"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 352727,
-      "name": "let it (w.i.p)",
-      "url": "https://open.spotify.com/track/0EbqZ0VIyIEKi6jfu6uDIC"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/0XCCqqwriW8mcWBJNFo1ig"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/6cUX5QNP8x7tEZDDRWuwdH"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "Alternate Paths",
-        "url": "https://open.spotify.com/album/4XWd6Vw4ArAlYFupfozIHs"
-      },
-      "artists": [
-        {
-          "name": "Things You Say",
-          "url": "https://open.spotify.com/artist/0e9yqjW5K4JROQzaq9n50N"
-        }
-      ],
-      "duration_ms": 244137,
-      "name": "Alternate Paths",
-      "url": "https://open.spotify.com/track/2JN7mYWAlrXdMTlQN0W2CR"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/7HDQ7zhDgexwMCmpLvHHDL"
       },
@@ -2107,6 +2075,22 @@
       "duration_ms": 181333,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/7mvAFXQOJhpxg2RqmgWKKL"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "let it (w.i.p)",
+        "url": "https://open.spotify.com/album/0pQq4N9lDZrneNTxy1Perp"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 352727,
+      "name": "let it (w.i.p)",
+      "url": "https://open.spotify.com/track/0EbqZ0VIyIEKi6jfu6uDIC"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -2167,6 +2151,22 @@
       "duration_ms": 147772,
       "name": "PUMPIN'",
       "url": "https://open.spotify.com/track/6Q8dcdGasWQbeyfqF9myfg"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Alternate Paths",
+        "url": "https://open.spotify.com/album/4XWd6Vw4ArAlYFupfozIHs"
+      },
+      "artists": [
+        {
+          "name": "Things You Say",
+          "url": "https://open.spotify.com/artist/0e9yqjW5K4JROQzaq9n50N"
+        }
+      ],
+      "duration_ms": 244137,
+      "name": "Alternate Paths",
+      "url": "https://open.spotify.com/track/2JN7mYWAlrXdMTlQN0W2CR"
     },
     {
       "added_at": "2025-08-29 04:00:35",
@@ -2325,6 +2325,22 @@
       "url": "https://open.spotify.com/track/5OC2Ta6xZ2Tw5awA3qHXz7"
     },
     {
+      "added_at": "2025-08-29 14:52:36",
+      "album": {
+        "name": "Never Say Goodbye",
+        "url": "https://open.spotify.com/album/7aP9GpfsYPQjUe0Ys5gvAB"
+      },
+      "artists": [
+        {
+          "name": "Pagan",
+          "url": "https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme"
+        }
+      ],
+      "duration_ms": 292965,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/0nvAL7YwkNxHR51eJnM5Hh"
+    },
+    {
       "added_at": "2025-08-29 14:24:24",
       "album": {
         "name": "My Lovin'",
@@ -2377,22 +2393,6 @@
       "url": "https://open.spotify.com/track/6HX13V1vxHzMDCDH15SIgv"
     },
     {
-      "added_at": "2025-08-29 14:52:36",
-      "album": {
-        "name": "Never Say Goodbye",
-        "url": "https://open.spotify.com/album/7aP9GpfsYPQjUe0Ys5gvAB"
-      },
-      "artists": [
-        {
-          "name": "Pagan",
-          "url": "https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme"
-        }
-      ],
-      "duration_ms": 292965,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/0nvAL7YwkNxHR51eJnM5Hh"
-    },
-    {
       "added_at": "2025-08-29 04:00:35",
       "album": {
         "name": "The Feeling",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/1DdVwg3zu9UyElgs9yjqsU"
+      },
+      "artists": [
+        {
+          "name": "Strobez",
+          "url": "https://open.spotify.com/artist/1af1aCeFBW4yyWUbGAC6mO"
+        }
+      ],
+      "duration_ms": 215153,
+      "name": "Can't Forget You",
+      "url": "https://open.spotify.com/track/42F7r6SiCnXHttsKb8LjtX"
+    },
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
         "name": "Transatlantic Kiki",
         "url": "https://open.spotify.com/album/7fmG8HmxmJdySuA33dK19I"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 203166,
       "name": "Transatlantic Kiki - Floorplan Remix",
       "url": "https://open.spotify.com/track/0czcn3jFVXO4A0b3xvrEZa"
-    },
-    {
-      "added_at": "2025-08-29 04:00:35",
-      "album": {
-        "name": "Somewhere in Between",
-        "url": "https://open.spotify.com/album/1DdVwg3zu9UyElgs9yjqsU"
-      },
-      "artists": [
-        {
-          "name": "Strobez",
-          "url": "https://open.spotify.com/artist/1af1aCeFBW4yyWUbGAC6mO"
-        }
-      ],
-      "duration_ms": 215153,
-      "name": "Can't Forget You",
-      "url": "https://open.spotify.com/track/42F7r6SiCnXHttsKb8LjtX"
     },
     {
       "added_at": "2025-08-29 04:00:35",

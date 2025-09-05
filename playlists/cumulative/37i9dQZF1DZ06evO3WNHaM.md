@@ -4,7 +4,7 @@
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 53 min
+72 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Kimdracula](https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:14 | 2022-07-10 |  |
 | [Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:49 | 2022-05-30 |  |
 | [Leathers](https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:08 | 2022-05-30 |  |
-| [Lhabia](https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:11 | 2022-05-30 | 2025-08-24 |
+| [Lhabia](https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:11 | 2022-05-30 |  |
 | [locked club](https://open.spotify.com/track/3ICYxVhwVsp8FYI3IT2dDV) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 2:52 | 2025-08-24 |  |
 | [Lotion](https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:57 | 2024-03-19 |  |
 | [Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:45 | 2022-05-30 |  |
@@ -53,7 +53,8 @@
 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-10 |  |
 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 | 2022-05-30 |  |
 | [Minus Blindfold](https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:04 | 2022-05-30 | 2025-07-13 |
-| [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-13 |  |
+| [my mind is a mountain](https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 2:50 | 2025-09-05 |  |
+| [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-13 | 2025-09-05 |
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2022-05-30 |  |
 | [Needles and Pins](https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:23 | 2022-05-30 |  |
 | [Ohms](https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:10 | 2022-05-30 |  |
@@ -78,6 +79,6 @@
 | [Urantia](https://open.spotify.com/track/33WXUh74RZ4CEfUkpJwHWE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:30 | 2022-05-30 | 2025-03-12 |
 | [Xerces](https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:41 | 2022-05-30 |  |
 | [You've Seen the Butcher](https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:31 | 2022-05-30 |  |
-| [\~metal dream](https://open.spotify.com/track/1HuuFLjgjIfzMFgGuZjv4Z) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:02 | 2025-08-25 |  |
+| [\~metal dream](https://open.spotify.com/track/1HuuFLjgjIfzMFgGuZjv4Z) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:02 | 2025-08-25 | 2025-09-05 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

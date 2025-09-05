@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 202916,
+  "num_followers": 202933,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAD3F3aKzALZCFUPypjqmsFk",
+  "snapshot_id": "aLeFAAAAAAA5arE3dn7kP+3X54dAwP3w",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 270573,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life On A Rock",
         "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 270573,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
     },
     {
       "added_at": null,
@@ -1115,22 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
@@ -1171,26 +1171,6 @@
       "duration_ms": 148293,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva Tu",
-        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 125379,
-      "name": "Heaven's Bad Day",
-      "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
     },
     {
       "added_at": null,
@@ -1211,6 +1191,26 @@
       "duration_ms": 211146,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 125379,
+      "name": "Heaven's Bad Day",
+      "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-209 songs - 10 hr 15 min
+210 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Call Me A Spaceman](https://open.spotify.com/track/5NYejXf1mwigePilCGLjdM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 3:09 | 2025-07-04 |  |
 | [Can You Hear Me](https://open.spotify.com/track/36sRkngMlQND4AhklENGzQ) | [Broken Frequency](https://open.spotify.com/artist/3gb38YdrsmCSEIQoDMnJqU), [MC Roga](https://open.spotify.com/artist/2ZghcB8YjDWv3KKQRB7pzy) | [Can You Hear Me](https://open.spotify.com/album/15U4ntA3zZQSfyjJT8EGbJ) | 2:51 | 2025-07-04 |  |
 | [Cannonball \- Radio Edit](https://open.spotify.com/track/2CYXttmf0SMgzJ0lODtnBT) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [Cannonball](https://open.spotify.com/album/4fabnyoFuUtoGFCtCqSKcb) | 3:22 | 2025-07-04 |  |
+| [Carry On](https://open.spotify.com/track/51JxU3SCvmkPCkMDXYw4hB) | [Samlight](https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Carry On](https://open.spotify.com/album/6THQHorcC4l999ZOSRNMKY) | 3:05 | 2025-09-04 |  |
 | [Champion](https://open.spotify.com/track/50GVy9jKhOOycBJ7gTI12I) | [Mike Bond](https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude), [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Champion](https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb) | 2:18 | 2025-07-04 |  |
 | [Chopped](https://open.spotify.com/track/3bFjFcIsAXgTSW1XlyzF2e) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Chopped](https://open.spotify.com/album/3RLhIBgNrp1esi0MlYBUm0) | 3:26 | 2025-07-04 |  |
 | [Close To You \- Dave Ruthwell & Mr\. Sid Remix](https://open.spotify.com/track/27WCfD4UmVunzEGDn1mwcc) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Jonas Schmidt](https://open.spotify.com/artist/2iVI5g77D4FT62vErTSfLX), [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Dave Ruthwell](https://open.spotify.com/artist/3QIUzh20rpzV5iWEdDbheN), [Mr\. Sid](https://open.spotify.com/artist/6RNKef9r8fl05a3yy0gjcu) | [Close To You](https://open.spotify.com/album/7xpNIZZ6Dzrh6MnTOALAYO) | 2:24 | 2025-07-04 |  |

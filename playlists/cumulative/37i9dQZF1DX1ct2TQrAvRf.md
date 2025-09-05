@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Shubh
 
-331 songs - 17 hr 50 min
+331 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Vedakk Chekka](https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO) | [Vedakk Chekka](https://open.spotify.com/album/6zMqolSY0IiUh6eRPcWOa6) | 2:21 | 2025-05-23 | 2025-08-30 |
 | [VETRIVEL](https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [VETRIVEL](https://open.spotify.com/album/6ZKcXGg8qUdA8oT9WaFixs) | 2:27 | 2025-08-29 |  |
 | [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 | 2024-11-20 |  |
-| [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 | 2025-07-18 |  |
+| [Victory Lap Five](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 5:44 | 2025-07-18 |  |
 | [Vidhi](https://open.spotify.com/track/6SQJSUTpV19eAvK5UHlVU6) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [Vidhi](https://open.spotify.com/album/4zouKNLpJL3ZdWg2TDTf7J) | 2:22 | 2025-06-27 | 2025-07-12 |
 | [Villainous Freestyle](https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Villainous Freestyle](https://open.spotify.com/album/48h2Tlyquz569oCnSVmbkq) | 2:34 | 2025-07-11 | 2025-08-02 |
 | [W](https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [W](https://open.spotify.com/album/4iqzfM6Evs8MZLUvXw0ixk) | 2:23 | 2024-01-02 | 2024-02-16 |

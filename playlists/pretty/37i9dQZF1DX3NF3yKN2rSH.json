@@ -635,22 +635,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
-      },
-      "artists": [
-        {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
-        }
-      ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 318666,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+      },
+      "artists": [
+        {
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+        }
+      ],
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Way Maker (Live)",
         "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
       },
@@ -1423,6 +1443,26 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1GVoAvmKWwKJUPCvPh3oC5"
       },
@@ -1447,26 +1487,6 @@
       "duration_ms": 603749,
       "name": "The Blood Is Still The Blood",
       "url": "https://open.spotify.com/track/65Jdm8GrXA8JuNYSgw3YQb"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1539,26 +1559,6 @@
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
-        }
-      ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
     },
     {
       "added_at": "2025-04-06 05:34:41",

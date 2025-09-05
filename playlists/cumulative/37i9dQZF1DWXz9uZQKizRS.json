@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Kacperczyk, Daria Zawia\u0142ow",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Dominika P\u0142onka, Kosma Kr\u00f3l",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 198113,
       "name": "126p",
       "url": "https://open.spotify.com/track/4yt6qDH2XAPTsL656J0bwE"
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "It's enough to say I tried",
+        "url": "https://open.spotify.com/album/45gJ5mFAn3RocUfGHfBOPm"
+      },
+      "artists": [
+        {
+          "name": "MUD/O",
+          "url": "https://open.spotify.com/artist/39BnGnKHfJNx4JXrSANdkf"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215565,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/2NHK219XZGLZfnP0pVYqV0"
+    },
+    {
+      "album": {
         "name": "BLUZA",
         "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
@@ -1965,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
+        "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
+      },
+      "artists": [
+        {
+          "name": "Jadwiga Zarzycka",
+          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
+        },
+        {
+          "name": "Maria Sadowska",
+          "url": "https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206300,
+      "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
+      "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
+    },
+    {
+      "album": {
         "name": "chc\u0119 z Tob\u0105 i\u015b\u0107 do \u0142\u00f3\u017cka",
         "url": "https://open.spotify.com/album/2V06R1qzoXoWW5iOPi3NZ0"
       },
@@ -2310,7 +2350,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 232409,
       "name": "Ciarki",
       "url": "https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk"
@@ -2364,7 +2404,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 219310,
       "name": "Cichy krok",
       "url": "https://open.spotify.com/track/6iTC0QnvA5PHplNfJY0lD7"
@@ -3972,7 +4012,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 169064,
       "name": "Du\u017ce dzieci ma\u0142o s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/4cjNqIXYYRIs3WPsOoC80K"
@@ -10073,6 +10113,28 @@
     },
     {
       "album": {
+        "name": "Nerwy na bok",
+        "url": "https://open.spotify.com/album/5rzD0h7tqcisv70yoZ2Tb7"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        },
+        {
+          "name": "Bubito",
+          "url": "https://open.spotify.com/artist/5tXbAvOKJtpBUoZxXHj6hz"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146313,
+      "name": "Nerwy na bok",
+      "url": "https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS"
+    },
+    {
+      "album": {
         "name": "Never Too Late",
         "url": "https://open.spotify.com/album/5tezPecrsoS6FsWD6ivfSp"
       },
@@ -11864,7 +11926,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 206726,
       "name": "Opium",
       "url": "https://open.spotify.com/track/0Nf4v1Ao68q3HkReKQAUY0"
@@ -13803,6 +13865,24 @@
     },
     {
       "album": {
+        "name": "RATUJ MNIE",
+        "url": "https://open.spotify.com/album/2l2T2dcSI8GdbOr470kRms"
+      },
+      "artists": [
+        {
+          "name": "levie",
+          "url": "https://open.spotify.com/artist/2f8SMIZ9FwAohqtDNKWwh2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "RATUJ MNIE",
+      "url": "https://open.spotify.com/track/7DnLhGu713bd0JOOosNp4S"
+    },
+    {
+      "album": {
         "name": "Razy 100",
         "url": "https://open.spotify.com/album/3R2sGL9CgX7gniIPV2aqG7"
       },
@@ -15186,7 +15266,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 134454,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t"
@@ -16402,7 +16482,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 153272,
       "name": "To tylko my",
       "url": "https://open.spotify.com/track/5o327LC76uA3zJro7v5a2c"
@@ -18050,6 +18130,28 @@
       "duration_ms": 193424,
       "name": "Wolne Ptaki Dwa",
       "url": "https://open.spotify.com/track/4lX6K8htU7fy8DNx26XWIt"
+    },
+    {
+      "album": {
+        "name": "wolniej!",
+        "url": "https://open.spotify.com/album/6sHUFDP92VgAXRF6hHkJqJ"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "wolniej!",
+      "url": "https://open.spotify.com/track/1DPShtZe2ocPeVX77GPC1f"
     },
     {
       "album": {
@@ -20021,6 +20123,28 @@
     },
     {
       "album": {
+        "name": "\u015blad",
+        "url": "https://open.spotify.com/album/69kc4sFg5UJX8iRMxOrw4x"
+      },
+      "artists": [
+        {
+          "name": "oda nova",
+          "url": "https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU"
+        },
+        {
+          "name": "Filip Solen",
+          "url": "https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "\u015blad",
+      "url": "https://open.spotify.com/track/4HiXJSftCBFKIhXY5UFQUN"
+    },
+    {
+      "album": {
         "name": "IV!II",
         "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
       },
@@ -20326,6 +20450,32 @@
       "duration_ms": 206134,
       "name": "\u0457 \u0439 \u0446 \u0435 \u043d \u0435 \u0442 \u0440 \u0435 \u0431 \u0430",
       "url": "https://open.spotify.com/track/2GvNV5Ltz43Z7IS41cw5LO"
+    },
+    {
+      "album": {
+        "name": "\u201eBlondynki, brunetki\" z serialu Breslau (Disney+, M\u0119skie Granie Orkiestra 2025)",
+        "url": "https://open.spotify.com/album/418EsGgNlNN2pDWxvCeT4w"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        },
+        {
+          "name": "Natalia Przybysz",
+          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
+        },
+        {
+          "name": "Kamil Pater",
+          "url": "https://open.spotify.com/artist/5QIAalcw2aenk67H0dv5pN"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178204,
+      "name": "\u201eBlondynki, brunetki\" z serialu Breslau - Disney+, M\u0119skie Granie Orkiestra 2025",
+      "url": "https://open.spotify.com/track/0qQbKIh2Sy8jLdYdGUGvSF"
     },
     {
       "album": {

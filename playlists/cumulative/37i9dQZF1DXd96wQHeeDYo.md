@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonito con Bruno Mars
 
-225 songs - 9 hr 54 min
+226 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,9 +161,10 @@
 | [Pensando en Ella](https://open.spotify.com/track/141z18D2hN8EjZ00CuFOXE) | [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Miche23](https://open.spotify.com/artist/1TdQ5X356X4kK2tIreWZrB), [Skorps](https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy), [TRATTO DE LA CALLE](https://open.spotify.com/artist/1fJmhlwwsRZfAgkahD5I73) | [Pensando en Ella](https://open.spotify.com/album/7wF9rCHXV0wkxoKHODkKHj) | 2:57 | 2025-06-20 |  |
 | [PERMANENTE](https://open.spotify.com/track/29VBUB6f8fQxF6xP3Bvcpz) | [Thompsn](https://open.spotify.com/artist/6g3QiAnU7JKT2L4l3Zam7O), [Lic Dabi](https://open.spotify.com/artist/48Tnk36WXARmEtQLVs0dEu) | [PERMANENTE](https://open.spotify.com/album/4Lez3G3O0bt3rnKJm7Sfl5) | 2:33 | 2023-11-29 | 2024-10-26 |
 | [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 | 2025-05-30 |  |
-| [Piloto de Fuga \- Remix](https://open.spotify.com/track/2E490MLouGY6Dz4nOlZN60) | [Saint LL](https://open.spotify.com/artist/3jXlA6AEpnqfqsR2DPaHIw), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mozart Muzik](https://open.spotify.com/artist/2wCROATzLTy6FpYVkE9OH8), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Piloto de Fuga \(Remix\)](https://open.spotify.com/album/001EmG5dDx0JXkByeiQAE3) | 3:26 | 2023-11-29 |  |
+| [Piloto de Fuga \- Remix](https://open.spotify.com/track/2E490MLouGY6Dz4nOlZN60) | [Saint LL](https://open.spotify.com/artist/3jXlA6AEpnqfqsR2DPaHIw), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mozart Muzik](https://open.spotify.com/artist/2wCROATzLTy6FpYVkE9OH8), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Piloto de Fuga \(Remix\)](https://open.spotify.com/album/001EmG5dDx0JXkByeiQAE3) | 3:26 | 2023-11-29 | 2025-09-05 |
 | [PISCIS](https://open.spotify.com/track/1UE0ml9PteZQJDhtV6mbb9) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [PISCIS](https://open.spotify.com/album/4u7ievdNvGacFKyTdW0eq5) | 1:52 | 2025-03-21 |  |
 | [PISTOLA <3](https://open.spotify.com/track/1Qi4CWLHDZKLlXCRrmRqU6) | [BABY G](https://open.spotify.com/artist/3qPlK6yG28alRixQoOrs97), [dgabanna](https://open.spotify.com/artist/5iId0Sj2rTgSCSLAsLUQ3e) | [PISTOLA <3](https://open.spotify.com/album/65syWW9nEfN29xYxUO5h9c) | 2:34 | 2025-05-02 |  |
+| [Por Amor](https://open.spotify.com/track/6OiLsc7FEiM9mLwW3W92cz) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Por Amor](https://open.spotify.com/album/1n64N2o7GxBsT700Zqvgor) | 2:16 | 2025-09-05 |  |
 | [POSEIDON](https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [POSEIDON](https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L) | 2:22 | 2025-05-02 |  |
 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-15 | 2024-04-27 |
 | [PRESIDENTE](https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [PRESIDENTE](https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8) | 2:26 | 2025-04-04 |  |

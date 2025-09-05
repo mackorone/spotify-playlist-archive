@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-356 songs - 17 hr 51 min
+359 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alpha Binaural Lucid Waves](https://open.spotify.com/track/40d0yZvwlmtPpickh7spI5) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Alpha Binaural Lucid Waves](https://open.spotify.com/album/2xfSOQ79YGAwGt13uZAceT) | 2:49 | 2025-06-17 |  |
 | [Alpha Binaural Quantum Harmonics](https://open.spotify.com/track/4QoD19hrhkNpJ78jvkUyvO) | [Lion Thin](https://open.spotify.com/artist/6ckx46cAYPJHRxDwYL2Cg6) | [Alpha Binaural Quantum Harmonics](https://open.spotify.com/album/1CHD9G4LGgkC9sE2NnOGeV) | 2:46 | 2025-06-17 |  |
 | [Alpha Binaural Waves 73\-80 Hz](https://open.spotify.com/track/2CvkLqkFrobSA22rGjhatt) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [Alpha Binaural Waves 73\-80 Hz](https://open.spotify.com/album/32M2RtwbmiD7YgOTtcdoHM) | 2:32 | 2024-06-11 | 2025-02-11 |
+| [Alpha Bliss 107 Hz \- 115 Hz](https://open.spotify.com/track/3887azHxJWxSAdNWynLKWy) | [Brainwave Harmony](https://open.spotify.com/artist/3VYg1JJn6gmvv9a667atxE) | [Alpha Bliss 107 Hz \- 115 Hz](https://open.spotify.com/album/5amGN5SSmPttGHfeJaA5Nb) | 3:07 | 2025-09-04 |  |
 | [Alpha Brain Waves](https://open.spotify.com/track/6K213XpWYPVKMLuPyfPhMV) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Brain Waves](https://open.spotify.com/album/2sU1EoTXZJbFBKADZpDl7T) | 2:42 | 2024-06-11 |  |
 | [Alpha Circles 90Hz \- 101Hz](https://open.spotify.com/track/1yJPgthQTuA2AnuzAykO8Z) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 3:33 | 2021-04-22 | 2025-02-11 |
 | [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 | 2021-09-02 | 2025-06-05 |
@@ -71,6 +72,7 @@
 | [Alpha Waves 136Hz \- 143Hz](https://open.spotify.com/track/4ijiUV9s3zXUASLVoTq42I) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:52 | 2020-09-29 | 2020-12-02 |
 | [Alpha Waves 150 Hz \- 158 Hz](https://open.spotify.com/track/27FiGK9QF0vCkJeXNhQZUr) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Alpha & Beta Wave States](https://open.spotify.com/album/3veIsz6h0EcYZZ0qhpRqEa) | 4:48 | 2023-01-24 | 2025-05-17 |
 | [Alpha Zone 12 Hz](https://open.spotify.com/track/5pvXmEJq200PuwgHxHJALZ) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Zones](https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba) | 3:14 | 2022-08-01 | 2024-08-31 |
+| [Alpha Zone 93Hz \- 104Hz](https://open.spotify.com/track/3WaFncESTtyYatvxabjpar) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Alpha Zone 93Hz \- 104Hz](https://open.spotify.com/album/3c4qsyN3ngIvI5osI5L3Z8) | 2:09 | 2025-09-04 |  |
 | [Angel Gamma Choir](https://open.spotify.com/track/3ecLObZD4KDhSTokl9HGOS) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:46 | 2020-06-03 |  |
 | [Astral Drift \(Theta 84.8Hz\-89.8Hz\)](https://open.spotify.com/track/2ZfZPgNyMchOyMtM6QOcmd) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Astral Drift \(Theta 84.8Hz\-89.8Hz\)](https://open.spotify.com/album/2CLJJoYPuWz7RA1tAsMQBr) | 2:32 | 2025-05-28 |  |
 | [Auditory Aura \(Alpha Binaural 67.8 Hz \- 77 Hz\)](https://open.spotify.com/track/42a5SqK0vcoDGxX4HJhlaY) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Echoic Elixir \(Alpha Binaural 122 Hz \- 110 Hz\)](https://open.spotify.com/album/69fzUDpLXS9UN3BkewmujN) | 3:12 | 2024-06-11 |  |
@@ -277,6 +279,7 @@
 | [Hillsmiota \(Binaural Alpha 73.6 Hz \- 81 Hz\)](https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Hillsmiota](https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i) | 2:50 | 2022-07-11 | 2024-12-19 |
 | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/track/13GX6c6q7LpqgZTrFMvwWp) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/album/3xRYNlsOMZf44sEm96SBqT) | 2:30 | 2024-07-12 |  |
 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 | 2021-09-02 |  |
+| [Inner Study 110Hz \- 115Hz](https://open.spotify.com/track/0PyiofNb4rNdW6ks6nrlDn) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Inner Study 110Hz \- 115Hz](https://open.spotify.com/album/1Hv7msekzlXAux7IewbSM6) | 2:05 | 2025-09-04 |  |
 | [Insight \(Binaural Alpha 87.4 Hz \- 97.6 Hz\)](https://open.spotify.com/track/5jR5ZB1sEGpsGGtJoe7MD5) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Insight \(Binaural Alpha 87.4 Hz \- 97.6 Hz\)](https://open.spotify.com/album/6JEqqVtUdD1TpeIi1aSnxA) | 3:10 | 2025-02-10 |  |
 | [Intuition \(Alpha Waves\)](https://open.spotify.com/track/0iFgGETi7Pk5dVxWhR05BJ) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Your Soul Knows](https://open.spotify.com/album/0y2XYw9JVyuSGmbOPhjXvt) | 2:55 | 2021-05-06 | 2025-02-11 |
 | [Kinetic Strides \- Alpha 14hz](https://open.spotify.com/track/7JcyHPbneZb5yy0yjdknWY) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Kinetic Strides Delta 3hz](https://open.spotify.com/album/21ATP0iLmM1HFfAYVJ0Can) | 2:32 | 2025-05-28 |  |

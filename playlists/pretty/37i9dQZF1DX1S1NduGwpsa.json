@@ -1,47 +1,167 @@
 {
-  "description": "The best jazz new releases. Cover: Laufey",
-  "num_followers": 155706,
+  "description": "The best jazz new releases. Cover: Lusaint",
+  "num_followers": 155724,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADc54UNNwJ75zdD2xmnQY9Noga5B",
+  "snapshot_id": "AAAAAN5j984MvNm/MCM4ZlhMO8ALE6EG",
   "tracks": [
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+        "name": "Apothecary (Pt. 1)",
+        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Mr. Eclectic",
-      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
+      "duration_ms": 152124,
+      "name": "Lie To Yourself",
+      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
-        "name": "George Coleman with Strings",
-        "url": "https://open.spotify.com/album/41wKiy9wqpTVTpeEG3i7V1"
+        "name": "Ride into the Sun",
+        "url": "https://open.spotify.com/album/2ulLCUuxrYYuHjOqnhBkx9"
       },
       "artists": [
         {
-          "name": "George Coleman",
-          "url": "https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
         }
       ],
-      "duration_ms": 324133,
-      "name": "Stella by Starlight",
-      "url": "https://open.spotify.com/track/7rUK6bTeusEoi2H3OBqonl"
+      "duration_ms": 232851,
+      "name": "Southern Belle (feat. Daniel Rossen)",
+      "url": "https://open.spotify.com/track/300QZVVkyXkZiHptlvO0qM"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "The night the lights went out in Georgia",
+        "url": "https://open.spotify.com/album/2DytODJIRjY7NfrwgZeArW"
+      },
+      "artists": [
+        {
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+        }
+      ],
+      "duration_ms": 281706,
+      "name": "The night the lights went out in Georgia",
+      "url": "https://open.spotify.com/track/1ek9Wq9r5OB46hHVjHwZxM"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "Chocolate Cake",
+        "url": "https://open.spotify.com/album/4mqzEHlMf6M57hLljYszhQ"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Chocolate Cake",
+      "url": "https://open.spotify.com/track/21JRlKHYNqMCFAqKz0jHw9"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "BIG MONEY",
+      "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "Dersen Cafe & Give Nothing",
+        "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Dersen Cafe",
+      "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "MARIA (BFFWSA)",
+        "url": "https://open.spotify.com/album/00PoSClcDp6AdNG3OJ05jW"
+      },
+      "artists": [
+        {
+          "name": "Eric Alexander",
+          "url": "https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu"
+        }
+      ],
+      "duration_ms": 239989,
+      "name": "MARIA (BFFWSA)",
+      "url": "https://open.spotify.com/track/7dP95WcTBwVJTGaV71VpYa"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "duration_ms": 416493,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Viva La Felicit\u00e0",
         "url": "https://open.spotify.com/album/3gQFlUzq9FUYhFEzIH12Xz"
@@ -57,7 +177,119 @@
       "url": "https://open.spotify.com/track/4BvoCfHFfjMSyRM173kZnA"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "Let's Pray",
+        "url": "https://open.spotify.com/album/33sClv6qAmmlkMqQRkIljM"
+      },
+      "artists": [
+        {
+          "name": "L'Equipe Lab",
+          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
+        }
+      ],
+      "duration_ms": 218069,
+      "name": "Let's Pray",
+      "url": "https://open.spotify.com/track/6rkvat57oepFyBCp75vDz5"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "I'll Be Long Gone",
+        "url": "https://open.spotify.com/album/50xsM3ZLj2cSluqqsmv65S"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 287746,
+      "name": "I'll Be Long Gone",
+      "url": "https://open.spotify.com/track/3emSSwg6s0Zx6jBln382CR"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "The Book of Isaiah: Modern Jazz Ministry",
+        "url": "https://open.spotify.com/album/3Ef6ZoiXdtfXxDrn9UGQyG"
+      },
+      "artists": [
+        {
+          "name": "Isaiah J. Thompson",
+          "url": "https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9"
+        }
+      ],
+      "duration_ms": 324888,
+      "name": "I. The Cakewalk Dilemma",
+      "url": "https://open.spotify.com/track/0lXpOJk3QrAIuDW0pUqRQM"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "88888888",
+        "url": "https://open.spotify.com/album/4WwttsAd1YugSde7LufoHO"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9mi Panossian Trio",
+          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
+        }
+      ],
+      "duration_ms": 247088,
+      "name": "Bibimbop",
+      "url": "https://open.spotify.com/track/0eRg65r2d4t5kNslt2MnJ0"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0gTKZUy948X2MFOTVxlWRq"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/1Mr8z0evbafjEIqH2RpESs"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "George Coleman with Strings",
+        "url": "https://open.spotify.com/album/41wKiy9wqpTVTpeEG3i7V1"
+      },
+      "artists": [
+        {
+          "name": "George Coleman",
+          "url": "https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Stella by Starlight",
+      "url": "https://open.spotify.com/track/7rUK6bTeusEoi2H3OBqonl"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Uno Mas",
         "url": "https://open.spotify.com/album/2RNQQzCON8BrrWffXVRMUy"
@@ -81,23 +313,7 @@
       "url": "https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "The night the lights went out in Georgia",
-        "url": "https://open.spotify.com/album/2DytODJIRjY7NfrwgZeArW"
-      },
-      "artists": [
-        {
-          "name": "Lady Linn",
-          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
-        }
-      ],
-      "duration_ms": 281706,
-      "name": "The night the lights went out in Georgia",
-      "url": "https://open.spotify.com/track/1ek9Wq9r5OB46hHVjHwZxM"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Tegucigalpa 72",
         "url": "https://open.spotify.com/album/6XwZdlGJn1M84r7uVQ7xXU"
@@ -113,7 +329,7 @@
       "url": "https://open.spotify.com/track/5Dsxl7aOX1Z2w4fWqfJkoV"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Sorhag (Le rossignol et le faucon)",
         "url": "https://open.spotify.com/album/5s4ikHxffsA8fjrpY3OOBC"
@@ -133,103 +349,7 @@
       "url": "https://open.spotify.com/track/4hrjQJGmh5LmyHPMYlfg8H"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "The Book of Isaiah: Modern Jazz Ministry",
-        "url": "https://open.spotify.com/album/3Ef6ZoiXdtfXxDrn9UGQyG"
-      },
-      "artists": [
-        {
-          "name": "Isaiah J. Thompson",
-          "url": "https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9"
-        }
-      ],
-      "duration_ms": 324888,
-      "name": "I. The Cakewalk Dilemma",
-      "url": "https://open.spotify.com/track/0lXpOJk3QrAIuDW0pUqRQM"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "L'Anguria",
-        "url": "https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211623,
-      "name": "L'Anguria",
-      "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "MARIA (BFFWSA)",
-        "url": "https://open.spotify.com/album/00PoSClcDp6AdNG3OJ05jW"
-      },
-      "artists": [
-        {
-          "name": "Eric Alexander",
-          "url": "https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu"
-        }
-      ],
-      "duration_ms": 239989,
-      "name": "MARIA (BFFWSA)",
-      "url": "https://open.spotify.com/track/7dP95WcTBwVJTGaV71VpYa"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Apothecary (Pt. 1)",
-        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 152124,
-      "name": "Lie To Yourself",
-      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0gTKZUy948X2MFOTVxlWRq"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/1Mr8z0evbafjEIqH2RpESs"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Chocolate Cake",
-        "url": "https://open.spotify.com/album/4mqzEHlMf6M57hLljYszhQ"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Chocolate Cake",
-      "url": "https://open.spotify.com/track/21JRlKHYNqMCFAqKz0jHw9"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Sou Kora (Ballak\u00e9 Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani)",
         "url": "https://open.spotify.com/album/3dXHtglO4eOzd9RI378mmV"
@@ -253,7 +373,23 @@
       "url": "https://open.spotify.com/track/2h7K0LBQKpytOWcSqidNPH"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
+      "album": {
+        "name": "L'Anguria",
+        "url": "https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 211623,
+      "name": "L'Anguria",
+      "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
+    },
+    {
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "LIVE-ACTION",
         "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
@@ -277,43 +413,7 @@
       "url": "https://open.spotify.com/track/3fszwNSupCHSzsDJZKeIEH"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "BIG MONEY",
-        "url": "https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 154174,
-      "name": "BIG MONEY",
-      "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 416493,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Necessary Fictions",
         "url": "https://open.spotify.com/album/5m268XSW8woGIbzi3bPpok"
@@ -337,7 +437,7 @@
       "url": "https://open.spotify.com/track/3vuqZI49ke1PTlVx6YYqRg"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Open Up Your Senses",
         "url": "https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako"
@@ -361,23 +461,23 @@
       "url": "https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
-        "name": "88888888",
-        "url": "https://open.spotify.com/album/4WwttsAd1YugSde7LufoHO"
+        "name": "I Feel Bad For You, Dave",
+        "url": "https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab"
       },
       "artists": [
         {
-          "name": "R\u00e9mi Panossian Trio",
-          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 247088,
-      "name": "Bibimbop",
-      "url": "https://open.spotify.com/track/0eRg65r2d4t5kNslt2MnJ0"
+      "duration_ms": 183035,
+      "name": "I Feel Bad For You, Dave",
+      "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "All Time (feat. Tawiah)",
         "url": "https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip"
@@ -397,7 +497,7 @@
       "url": "https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Would appear to be jazz.",
         "url": "https://open.spotify.com/album/5XjZB8V2VFP8yPaMsB1NSJ"
@@ -413,39 +513,23 @@
       "url": "https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
-        "name": "Let's Pray",
-        "url": "https://open.spotify.com/album/33sClv6qAmmlkMqQRkIljM"
+        "name": "MEDUSE",
+        "url": "https://open.spotify.com/album/1jEmh4Fmq6aSq0zkbPR2cg"
       },
       "artists": [
         {
-          "name": "L'Equipe Lab",
-          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 218069,
-      "name": "Let's Pray",
-      "url": "https://open.spotify.com/track/6rkvat57oepFyBCp75vDz5"
+      "duration_ms": 302230,
+      "name": "De doute et de joie",
+      "url": "https://open.spotify.com/track/2VE3l5h072ctrAJHvX6PCa"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "I Feel Bad For You, Dave",
-        "url": "https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 183035,
-      "name": "I Feel Bad For You, Dave",
-      "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Green eyes",
         "url": "https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez"
@@ -473,23 +557,7 @@
       "url": "https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "MEDUSE",
-        "url": "https://open.spotify.com/album/1jEmh4Fmq6aSq0zkbPR2cg"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 302230,
-      "name": "De doute et de joie",
-      "url": "https://open.spotify.com/track/2VE3l5h072ctrAJHvX6PCa"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "la fi\u00e8vre",
         "url": "https://open.spotify.com/album/6kk3IGZZgNRIclaNuOLctr"
@@ -509,7 +577,7 @@
       "url": "https://open.spotify.com/track/73euPNYFaNgWU75TZNRISm"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "These Simple Things",
         "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
@@ -525,7 +593,7 @@
       "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Le grand Michel [A Journey With Michel Legrand]",
         "url": "https://open.spotify.com/album/2za9EE6hGweMgMZQeJOToh"
@@ -549,7 +617,7 @@
       "url": "https://open.spotify.com/track/5VF1gPkmlpYuTAiworYLRF"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Trio [+]",
         "url": "https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP"
@@ -565,7 +633,7 @@
       "url": "https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Gadabout Season",
         "url": "https://open.spotify.com/album/372tUB50Rip4brrZdUELBQ"
@@ -581,7 +649,7 @@
       "url": "https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "JUKE JOINT",
         "url": "https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt"
@@ -609,7 +677,7 @@
       "url": "https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "The West Coasters",
         "url": "https://open.spotify.com/album/57yLNcOmYt09HSeQk5NxXj"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/1lk4FDgVD1UZ2DWlThzkj8"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Nach E Vlado",
         "url": "https://open.spotify.com/album/6JQF3mpBnaKLEnfIz6cqSA"
@@ -657,7 +725,7 @@
       "url": "https://open.spotify.com/track/5tOLgmDjvEvUFx8KBCoyeJ"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/51VqRSW356PJE17M8SnnkR"
@@ -677,7 +745,7 @@
       "url": "https://open.spotify.com/track/7pwk1KZxLz9GP007XDDtMW"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Summertime Blue",
         "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
@@ -697,7 +765,7 @@
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Just Can't Wait",
         "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
@@ -713,7 +781,7 @@
       "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "It's Magic",
         "url": "https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42"
@@ -729,7 +797,7 @@
       "url": "https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Taka",
         "url": "https://open.spotify.com/album/6MrMK600SB4lD8QL4j5H8Y"
@@ -749,7 +817,7 @@
       "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2"
@@ -765,7 +833,7 @@
       "url": "https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "le b\u00e2tard",
         "url": "https://open.spotify.com/album/5cfmnIVWEzaIn3tU2zaS4O"
@@ -785,7 +853,7 @@
       "url": "https://open.spotify.com/track/4oo5tOZ1u3rhGhQzBklrN9"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Cory Weeds Meets Jerry Weldon",
         "url": "https://open.spotify.com/album/1aSjY1jLHBPxIfCH1Q6Sxu"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Lover Girl",
         "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "Words Fall Short",
         "url": "https://open.spotify.com/album/2toluYLW38SlSkSYLHscpR"
@@ -853,7 +921,7 @@
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "SuperBlue: Guilty Pleasures Vol.2",
         "url": "https://open.spotify.com/album/61ZEyhZnDr3b9ATQR28K3b"
@@ -885,35 +953,7 @@
       "url": "https://open.spotify.com/track/3frUZT6MoR0Xn76FDnQev8"
     },
     {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Warrior Princess",
-        "url": "https://open.spotify.com/album/2HT5wyg1UfnaoGyX3LAB6N"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        },
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 273565,
-      "name": "Old Skool Funk",
-      "url": "https://open.spotify.com/track/7Bnq7r5Dx0zJqK6iJsMqkJ"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
+      "added_at": "2025-09-04 22:00:21",
       "album": {
         "name": "DON\u2019T LISTEN",
         "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
@@ -927,54 +967,6 @@
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda",
-          "url": "https://open.spotify.com/artist/4pJ0viHUYhSn2o4OhaFKii"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "What a Difference a Day Makes (Cuando vuelva a tu lado)",
-      "url": "https://open.spotify.com/track/3FM9BLbEOSQYBVIwt778yL"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "Ain't I Good For You",
-        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "Ain't I Good For You",
-      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
-    },
-    {
-      "added_at": "2025-08-28 22:00:03",
-      "album": {
-        "name": "cozy you",
-        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 210734,
-      "name": "cozy you",
-      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
     }
   ],
   "unique_name": "Jazz Club",

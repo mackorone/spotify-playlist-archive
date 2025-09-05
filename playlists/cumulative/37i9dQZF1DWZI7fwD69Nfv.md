@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZI7fwD69Nfv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZI7fwD69Nfv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZI7fwD69Nfv)
 
-### [Música de Fonda](https://open.spotify.com/playlist/37i9dQZF1DWZI7fwD69Nfv)
+### [La Pozoliza](https://open.spotify.com/playlist/37i9dQZF1DWZI7fwD69Nfv)
 
-> ¡Ya huele a sopita! Buen provecho.
+> surtido rico de rolitas para acompañar tu noche mexicana.
 
 309 songs - 17 hr 50 min
 

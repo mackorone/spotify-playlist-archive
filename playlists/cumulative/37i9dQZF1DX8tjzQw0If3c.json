@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Esok",
+        "url": "https://open.spotify.com/album/5ZEmVTXUbNG3ckTR63JWrX"
+      },
+      "artists": [
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        },
+        {
+          "name": "Firdaus Rahmat",
+          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176843,
+      "name": "Esok",
+      "url": "https://open.spotify.com/track/6BSIKwOKQsWW5bomKWGNWF"
+    },
+    {
+      "album": {
         "name": "EYEZ",
         "url": "https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN"
       },

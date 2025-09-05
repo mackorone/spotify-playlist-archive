@@ -262,6 +262,24 @@
     {
       "album": {
         "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q"
+    },
+    {
+      "album": {
+        "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
       "artists": [

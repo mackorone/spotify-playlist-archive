@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 166091,
       "name": "1000 vragen",
       "url": "https://open.spotify.com/track/1068pajBnU9TzDLktx4SVT"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 209600,
       "name": "Aan Alle Mooie Meiden",
       "url": "https://open.spotify.com/track/6x4A4DTWHBK2w7GSAiqVbD"
@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Heb Je Al Genoeg Genoten",
+        "url": "https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA"
+      },
+      "artists": [
+        {
+          "name": "Frans Bauer",
+          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139628,
+      "name": "Heb Je Al Genoeg Genoten",
+      "url": "https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7"
+    },
+    {
+      "album": {
         "name": "Heb Lak Aan Wat Ze Zeggen",
         "url": "https://open.spotify.com/album/4lAvmC6B24huS5BLvTGUKh"
       },
@@ -844,7 +866,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 248093,
       "name": "Ik Heb De Hele Nacht Liggen Dromen",
       "url": "https://open.spotify.com/track/424Blek9ClYC97FV3muHqV"
@@ -1086,7 +1108,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 161485,
       "name": "King Van De Camping - Ferry Bouman",
       "url": "https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI"
@@ -1108,6 +1130,24 @@
       "duration_ms": 184007,
       "name": "Kleine Vogel",
       "url": "https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3"
+    },
+    {
+      "album": {
+        "name": "Kroegtijger",
+        "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Kroegtijger",
+      "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
     },
     {
       "album": {
@@ -1206,7 +1246,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 166289,
       "name": "Lilluke Linda",
       "url": "https://open.spotify.com/track/7v0sXJDueMuTg86sP80sG4"
@@ -1508,6 +1548,36 @@
       "duration_ms": 165569,
       "name": "Ruud & Mieke",
       "url": "https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF"
+    },
+    {
+      "album": {
+        "name": "Snelle Jelle",
+        "url": "https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Snelle Jelle",
+      "url": "https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq"
     },
     {
       "album": {
@@ -1948,7 +2018,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 189782,
       "name": "Wat Zou Ik Daarvoor Moeten Doen",
       "url": "https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF"
@@ -2124,6 +2194,24 @@
       "duration_ms": 238167,
       "name": "Zin In Jou",
       "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "album": {
+        "name": "Zo Ben Ik Altijd Geweest",
+        "url": "https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192107,
+      "name": "Zo Ben Ik Altijd Geweest",
+      "url": "https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR"
     },
     {
       "album": {

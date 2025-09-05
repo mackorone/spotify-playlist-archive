@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : P.R2B
+> La scène française branchée sur courant alternatif\. Photo : James Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,541 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,547 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Vous !](https://open.spotify.com/track/2nHe5UGcgaKpNue5w9ddXa) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Vous !](https://open.spotify.com/album/1R6fcOqHQGp02MpUY4DSBN) | 2:16 |
 | 50 | [Tempelhof](https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempelhof](https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX) | 3:19 |
 
-Snapshot ID: `AAAAALTMExV43By1taW+jzAMp63JY4Em`
+Snapshot ID: `AAAAAIuPkRWujL4r5bg7sBDKs9mvAZJU`

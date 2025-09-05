@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 135819,
+  "num_followers": 135847,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -219,30 +219,6 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "T\u00c1 FELIZ?!",
-        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "SAMBA DE CRIA",
-      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
         "name": "Goela Abaixo",
         "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
+        "name": "T\u00c1 FELIZ?!",
+        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "SAMBA DE CRIA",
+      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -587,18 +587,22 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+        "name": "SalDoce",
+        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+      "duration_ms": 181992,
+      "name": "Bem ou Mal",
+      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -615,6 +619,22 @@
       "duration_ms": 212573,
       "name": "Pra Vida",
       "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -655,26 +675,6 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "SalDoce",
-        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 181992,
-      "name": "Bem ou Mal",
-      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
         "name": "ZAM ZAM",
         "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 212433,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
+        "name": "amores v\u00eam e v\u00e3o",
+        "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "amores v\u00eam e v\u00e3o",
+      "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -739,22 +755,6 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "amores v\u00eam e v\u00e3o",
-        "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
         }
       ],
-      "duration_ms": 236640,
-      "name": "amores v\u00eam e v\u00e3o",
-      "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
+        "name": "Desastre Solar",
+        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
+      },
+      "artists": [
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
-        "name": "Desastre Solar",
-        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
-      },
-      "artists": [
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
+        "name": "P\u00c9ROLAS",
+        "url": "https://open.spotify.com/album/2K4QpoVaFJ4Bmd3JxLDjo1"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "P\u00c9ROLAS",
+      "url": "https://open.spotify.com/track/6EFSiocntAianAv1fbFRQN"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 246533,
       "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
       "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
-        "name": "P\u00c9ROLAS",
-        "url": "https://open.spotify.com/album/2K4QpoVaFJ4Bmd3JxLDjo1"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "P\u00c9ROLAS",
-      "url": "https://open.spotify.com/track/6EFSiocntAianAv1fbFRQN"
     },
     {
       "added_at": "2025-09-01 18:37:01",

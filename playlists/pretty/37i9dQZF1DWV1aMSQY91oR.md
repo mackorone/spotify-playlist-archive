@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: Lithe
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,851 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,856 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 19 | [Tens](https://open.spotify.com/track/1govN8dvPTEETYYyBCmhKi) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Blueprint](https://open.spotify.com/album/2Uqg49lfLsQie7mrcJGR9O) | 2:19 |
 | 20 | [Pack U Up](https://open.spotify.com/track/4lr7DO7iqd5okdwPXCbOIt) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pack U Up](https://open.spotify.com/album/2erMfaqfOFB5jfn0kG2LnC) | 2:18 |
 | 21 | [Rich in Rome \(feat\. LAZER DIM 700 & Nino Paid\)](https://open.spotify.com/track/3lNhFNudb3UkGtyuNfOIr7) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Rich in Rome \(feat\. LAZER DIM 700 & Nino Paid\)](https://open.spotify.com/album/5oMucxeRl90JjyZbUgaDdn) | 2:30 |
-| 22 | [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 |
+| 22 | [Victory Lap Five](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 5:44 |
 | 23 | [Ten Hag](https://open.spotify.com/track/0DhFudPWfqlTA4olwQBaHs) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Ten Hag](https://open.spotify.com/album/1JAlftK2rH4aYZ1OdjJbLU) | 2:14 |
 | 24 | [Live This Life Again](https://open.spotify.com/track/64tLXJtVYZO6aucXfRXeCc) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Live This Life Again](https://open.spotify.com/album/605LC4Ylz4OI6v7lkaYWKy) | 2:40 |
 | 25 | [Party All Night](https://open.spotify.com/track/5X5aluniMpOpuFf06ZY6K2) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Party All Night](https://open.spotify.com/album/6ZHrqoyD0lyacbB7NlKofE) | 2:09 |

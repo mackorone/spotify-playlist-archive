@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Naira Marley",
+  "description": "From the trenches. Through the streets.\nCover: Shallipopi",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 159779,
       "name": "Blessings (Kura)",
       "url": "https://open.spotify.com/track/7L9MFfcZGJhANKgZ6s4cjw"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 178947,
       "name": "Buga Won",
       "url": "https://open.spotify.com/track/0YwXiAaMSFt9XN5a2T26ZM"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 164716,
       "name": "High 10",
       "url": "https://open.spotify.com/track/7n0sDtF4Q41QuI88iy2pZJ"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 173543,
       "name": "Juju Pro",
       "url": "https://open.spotify.com/track/0N7DEvhWW02wnppAzxNhF5"
@@ -5069,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "album": {
         "name": "New Born Fela",
         "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
       },
@@ -6021,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "Porsche",
+        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
+    },
+    {
+      "album": {
         "name": "Port-harcourt",
         "url": "https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw"
       },
@@ -6554,6 +6590,24 @@
       "duration_ms": 164684,
       "name": "Shaka",
       "url": "https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA"
+    },
+    {
+      "album": {
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "album": {
@@ -7610,7 +7664,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 160000,
       "name": "Wellsfargo (2.0)",
       "url": "https://open.spotify.com/track/0Bt4PgoeN5FRQ70Q1zczjN"

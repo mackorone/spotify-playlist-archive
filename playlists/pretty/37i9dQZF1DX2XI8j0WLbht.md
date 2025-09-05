@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Arath Herce en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,504 likes - 63 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,532 likes - 63 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 62 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 |
 | 63 | [La Canícula](https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:07 |
 
-Snapshot ID: `AAAAAE+vfxCByxwR+q9uPJebN6uWlzDW`
+Snapshot ID: `AAAAAKnnj9LEZFRzgEEQijLpUdyM81zp`

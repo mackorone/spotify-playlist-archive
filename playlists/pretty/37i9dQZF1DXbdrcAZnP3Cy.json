@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 200482,
+  "num_followers": 200539,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -171,22 +175,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "La Reuni\u00f3n",
         "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 167986,
       "name": "Me llamo Raquel",
       "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Los Locos Del Corrido",
         "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 236640,
       "name": "Agua De T\u00e9",
       "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Pisteando Con La Regida",
         "url": "https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Sshh!!",
-      "url": "https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF"
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -767,6 +751,22 @@
       "duration_ms": 220960,
       "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
       "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Sshh!!",
+      "url": "https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Arrempujala Arremangala",
-      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+      "duration_ms": 193306,
+      "name": "La Jaiba",
+      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Jaiba",
-      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
+      "duration_ms": 197982,
+      "name": "Arrempujala Arremangala",
+      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
       "added_at": "2024-08-30 08:25:49",

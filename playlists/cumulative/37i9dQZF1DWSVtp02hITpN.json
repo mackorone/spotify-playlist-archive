@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best pop music right now ft. Sabrina Carpenter",
+  "description": "The best pop music right now ft. Lady Gaga",
   "name": "The Pop List",
   "tracks": [
     {
@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211088,
+      "name": "Can\u2019t Stop the High",
+      "url": "https://open.spotify.com/track/1d9AAVXN2uohnH4Fe07Xxn"
+    },
+    {
+      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
       },
@@ -1774,6 +1792,24 @@
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
+    },
+    {
+      "album": {
+        "name": "Cute Aggression",
+        "url": "https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156926,
+      "name": "Cute Aggression",
+      "url": "https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL"
     },
     {
       "album": {
@@ -2839,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
         "name": "Follow Excitement!",
         "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
       },
@@ -3799,6 +3853,28 @@
     },
     {
       "album": {
+        "name": "Hell At Night (feat. Ella Langley)",
+        "url": "https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Hell At Night (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
+    },
+    {
+      "album": {
         "name": "Henry, come on",
         "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
@@ -3965,6 +4041,24 @@
     },
     {
       "album": {
+        "name": "Hot Goblin",
+        "url": "https://open.spotify.com/album/3ehPg84etRc980Up4eqY93"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "Hot Goblin",
+      "url": "https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -4020,6 +4114,24 @@
       "duration_ms": 182925,
       "name": "HOTBOX",
       "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
+    },
+    {
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169214,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
     },
     {
       "album": {
@@ -4142,7 +4254,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 171280,
       "name": "I Can Die Now",
       "url": "https://open.spotify.com/track/6uHFeKZwWzGyIXlLbKi9oz"
@@ -4283,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
+    },
+    {
+      "album": {
         "name": "I Wanna Thank Me (feat. Niecy Nash)",
         "url": "https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO"
       },
@@ -4356,6 +4486,24 @@
       "duration_ms": 164646,
       "name": "I'm Not Gonna Cry",
       "url": "https://open.spotify.com/track/01A1pyqiQN7eCt25ZVClKz"
+    },
+    {
+      "album": {
+        "name": "I'm your first",
+        "url": "https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174449,
+      "name": "I'm your first",
+      "url": "https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV"
     },
     {
       "album": {
@@ -5174,7 +5322,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 177273,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
@@ -7780,7 +7928,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 179272,
       "name": "Somewhere Only We Go",
       "url": "https://open.spotify.com/track/4EPeUXo9vWGnQHOZRUF2bx"
@@ -8776,6 +8924,24 @@
       "duration_ms": 213384,
       "name": "the boy is mine (with Brandy, Monica)",
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
+    },
+    {
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "album": {
@@ -9805,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "album": {
         "name": "When We Kiss",
         "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
       },
@@ -10120,7 +10304,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
@@ -10138,7 +10322,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"

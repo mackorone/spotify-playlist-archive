@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Dayo Bello
+> The best voices in R&B\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,013 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,095 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Pieces](https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Pieces](https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD) | 2:57 |
 | 80 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |
 
-Snapshot ID: `AAAAAC2Xs7YnZ+FphRSnrctltUeguLuA`
+Snapshot ID: `AAAAAD5boiF1wTx2pk8q+4u9nUKfYv8b`

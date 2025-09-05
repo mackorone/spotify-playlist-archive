@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 95053,
+  "num_followers": 95058,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLYzgAAAAAB9wtcgrhQEE57N5mPhWm+K",
+  "snapshot_id": "aLeFAAAAAABhwC3whMZ0pB3N15LYMJys",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dime x Que",
-        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 173854,
-      "name": "Dime x Que",
-      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 184751,
       "name": "Cuartitos De Libra",
       "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dime x Que",
+        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 173854,
+      "name": "Dime x Que",
+      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 186261,
-      "name": "Se Oyen Recio Los Disparos",
-      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 196500,
       "name": "Miran La Apariencia",
       "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
       "added_at": null,
@@ -623,34 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+        "name": "Como Una Pantera",
+        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
       },
       "artists": [
+        {
+          "name": "Hermanos Siqueiros",
+          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
+        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 192395,
-      "name": "Que Linda Se Le Ve",
-      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 148344,
-      "name": "La Fiesta Ya Empezo",
-      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+      "duration_ms": 170492,
+      "name": "Como Una Pantera",
+      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
     },
     {
       "added_at": null,
@@ -671,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 148344,
+      "name": "La Fiesta Ya Empezo",
+      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Exceso Me Encanto",
         "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
       },
@@ -683,6 +687,22 @@
       "duration_ms": 160153,
       "name": "El Exceso Me Encanto",
       "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 192395,
+      "name": "Que Linda Se Le Ve",
+      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
     },
     {
       "added_at": null,
@@ -703,26 +723,6 @@
       "duration_ms": 161693,
       "name": "Loco Malandro",
       "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Una Pantera",
-        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Siqueiros",
-          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170492,
-      "name": "Como Una Pantera",
-      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
     },
     {
       "added_at": null,

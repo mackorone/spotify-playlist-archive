@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/22DsxCKPqrUUOUG5E3x5Cm"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239580,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY"
+    },
+    {
+      "album": {
         "name": "Sektion 1",
         "url": "https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 187500,
       "name": "Flute (KNTRLVRLST Remix)",
       "url": "https://open.spotify.com/track/1ezQNsp5el8von7KkY99py"
@@ -2860,6 +2878,24 @@
       "duration_ms": 296160,
       "name": "Hold Ud, Skat!",
       "url": "https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8"
+    },
+    {
+      "album": {
+        "name": "Holi",
+        "url": "https://open.spotify.com/album/35JpE0clrbmSj6F4WZEP3s"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305165,
+      "name": "Holi",
+      "url": "https://open.spotify.com/track/4nCx7lGZicc4zQKvA9gu9r"
     },
     {
       "album": {
@@ -3970,6 +4006,24 @@
       "duration_ms": 120000,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/0OZcUuoM0InrwuH3UJoFoz"
+    },
+    {
+      "album": {
+        "name": "Nightcore",
+        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
+      },
+      "artists": [
+        {
+          "name": "Lady Maru",
+          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222650,
+      "name": "Nightcore",
+      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
     },
     {
       "album": {
@@ -5320,7 +5374,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 191200,
       "name": "Tell Me Why - Maddix Remix",
       "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
@@ -5914,7 +5968,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-05",
       "duration_ms": 320917,
       "name": "Welcome Back Devil",
       "url": "https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97"
