@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Franz Guico Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,933 likes - 272 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,985 likes - 272 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 30 | [SATAN](https://open.spotify.com/track/5noFljvZNvkbuuTlKtAfSU) | [Plvssage](https://open.spotify.com/artist/2HvZggceGgiH1QFpy4qn0i), [LYDE](https://open.spotify.com/artist/6j7BcutwvVrteP7C8LKn0B) | [SATAN](https://open.spotify.com/album/2mCPd6ZoAancfkTan12dcI) | 2:39 |
 | 31 | [Kawawa](https://open.spotify.com/track/4Xde1dTOJpstQh1yPBFQm2) | [MANIC SEASON](https://open.spotify.com/artist/2wXqsJqHE9GkvLFRoLXjwo) | [Kawawa](https://open.spotify.com/album/7AwxVqTCyAWraw5vYDp6ox) | 4:00 |
 | 32 | [Bloodied Letters](https://open.spotify.com/track/5itj0KKsYMvJgOKmKYqP3u) | [Fell The Mighty](https://open.spotify.com/artist/24U1D8Al6IoCuXXt61YSMU) | [Bloodied Letters](https://open.spotify.com/album/5dnCSOwkGgzbWD5QGJ8xxh) | 2:51 |
-| 33 | [Booty Work](https://open.spotify.com/track/0xweoAVY4fMVXxtwSR7b1n) | [Nayr Sivch](https://open.spotify.com/artist/6k1WLdf3kqzRLuaNKSWNlR), [Chevy](https://open.spotify.com/artist/3ELFgLrtj6hgW4WwNuhqgB), [HighDreamers](https://open.spotify.com/artist/76QwdgHvIvCMQTiW2V40Wr) | [Booty Work](https://open.spotify.com/album/4Iv0i7B9syp8OvHB86Ztzc) | 2:43 |
+| 33 | [Booty Work](https://open.spotify.com/track/0xweoAVY4fMVXxtwSR7b1n) | [Nayr Sivch](https://open.spotify.com/artist/6k1WLdf3kqzRLuaNKSWNlR), [Chevy](https://open.spotify.com/artist/3ELFgLrtj6hgW4WwNuhqgB), [High Dreamers](https://open.spotify.com/artist/7g1khkaY35KeezliqT7DZk) | [Booty Work](https://open.spotify.com/album/4Iv0i7B9syp8OvHB86Ztzc) | 2:43 |
 | 34 | [Lost In The Haze ft\. Marco Taniegra](https://open.spotify.com/track/24Q5XajuLfEjl9E74LZFqZ) | [Chest.in](https://open.spotify.com/artist/2qBg8PKEALICl7WNtrz8g7), [Marco Taniegra](https://open.spotify.com/artist/21Q1fqvf5bmwC61ou9tH6n) | [Lost In The Haze ft\. Marco Taniegra](https://open.spotify.com/album/2BUBY3HkgxxaROWICpPuDo) | 3:19 |
 | 35 | [Kung Meron Ako](https://open.spotify.com/track/5EopLU3pcF78vmouudTv6m) | [Mico Salazar](https://open.spotify.com/artist/6mCmXn1JClax9EN5blZzWE) | [Kung Meron Ako](https://open.spotify.com/album/7vhUIGc8yM1rjGlly7Ysup) | 4:12 |
 | 36 | [Ganon Ka Rin](https://open.spotify.com/track/4wUlW9EowYo3AsWEWC3ggH) | [RiNCO](https://open.spotify.com/artist/2rGkhP3biKlQPxW2rKaXlm) | [Ganon Ka Rin](https://open.spotify.com/album/6ASC37RdHEts9XBICT9FgF) | 2:34 |

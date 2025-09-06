@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-159 songs - 8 hr 47 min
+160 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Ragdoll Blues](https://open.spotify.com/track/4wHwlKV0LSM3UPF9OiiPZE) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ragdoll Blues](https://open.spotify.com/album/0VzUNANfJqr246jgfUrclU) | 3:36 | 2023-08-11 | 2023-09-26 |
 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 | 2021-02-12 | 2023-07-15 |
 | [Riot](https://open.spotify.com/track/0otlz1uuhtwVnKSUX8XToc) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 2:55 | 2021-02-12 | 2024-04-19 |
-| [Riot](https://open.spotify.com/track/2YeFuzgYgqj9b7IiUUmSbw) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Riot](https://open.spotify.com/album/08N7vPLcQL375FyuCRH8fm) | 2:55 | 2021-02-12 |  |
+| [Riot](https://open.spotify.com/track/2YeFuzgYgqj9b7IiUUmSbw) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Riot](https://open.spotify.com/album/08N7vPLcQL375FyuCRH8fm) | 2:55 | 2021-02-12 | 2025-09-06 |
 | [Satellite Man](https://open.spotify.com/track/2DLwzfDTaVFtoeKAbfflRm) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/19pcVPDCsO3S9O4qnxrV1n) | 3:00 | 2022-08-31 | 2024-04-19 |
 | [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 | 2021-02-12 |  |
 | [Saw That Light](https://open.spotify.com/track/2XTzB7SPPl4GZv6bYVJfiv) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Saw That Light](https://open.spotify.com/album/5MJJAv0hwgTn2hEL9oaMkO) | 1:51 | 2021-02-12 | 2024-04-19 |
@@ -138,6 +138,7 @@
 | [Storm Came](https://open.spotify.com/track/4p1v9sQlYc8WXeYNAK33iW) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Storm Came](https://open.spotify.com/album/0CkZRAEKBWKKTPbpsJpZzN) | 2:18 | 2021-02-12 |  |
 | [Surrender](https://open.spotify.com/track/4BfT2o6RDR3dOATt0e3XhR) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 3:36 | 2022-08-31 | 2023-11-18 |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-11-23 |
+| [Sweet Like](https://open.spotify.com/track/4ZKS8zDG5O77k2nC3eUjAX) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Man Of The North](https://open.spotify.com/album/6EHLh1oLNqEP0hY1doJoQB) | 3:18 | 2025-09-05 |  |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-18 |  |
 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 | 2021-02-12 |  |
 | [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 | 2021-02-12 | 2023-03-06 |

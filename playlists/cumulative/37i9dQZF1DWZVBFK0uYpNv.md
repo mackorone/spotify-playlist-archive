@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-148 songs - 7 hr 52 min
+149 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [I See the Light](https://open.spotify.com/track/1OAjOiIhR45RusDfNLsclD) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG) | [Disney Ambient: Sleep](https://open.spotify.com/album/65hRrFsdH4dexQcO4ffuOB) | 4:53 | 2025-05-21 |  |
 | [I Wan'na Be Like You \(The Monkey Song\)](https://open.spotify.com/track/7gGuEOC0N5n7rLBh85DHNY) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Everybody Loves Disney](https://open.spotify.com/album/3zs9B8XCB3G8wZ0KcHTPrs) | 2:29 | 2025-05-21 |  |
 | [I Wan'na Be Like You \(The Monkey Song\) \- From "The Jungle Book"](https://open.spotify.com/track/6zMNLIFrUss4qklFUdpzjp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 3:19 | 2025-05-21 |  |
+| [I'm Still Here \(Jim's Theme\)](https://open.spotify.com/track/78fiTK5Fzp2wvtesYpjkyM) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 4:29 | 2025-09-05 |  |
 | [I2I](https://open.spotify.com/track/1wY19Sir08u9TzlCVn0kjj) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [I2I](https://open.spotify.com/album/4OMSOVcSFovkqTLlDNTrS7) | 2:57 | 2025-05-21 |  |
 | [I2I](https://open.spotify.com/track/1ewyibRS1eUvdf7Dg1SK4N) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spring Songs](https://open.spotify.com/album/498qNLR5BlSmQEmoJBU2xD) | 4:09 | 2025-05-21 |  |
 | [I2I \- From "A Whole New Sound"](https://open.spotify.com/track/3hU1uChF4R0VygUNjcYOJb) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [I2I \(From "A Whole New Sound"\)](https://open.spotify.com/album/1DpOt4a2dQzFD7MfYIBMYk) | 3:00 | 2025-05-21 |  |

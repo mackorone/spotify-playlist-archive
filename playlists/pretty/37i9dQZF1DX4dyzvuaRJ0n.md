@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance & electronic hits\. Cover: Fred again.\. & Skepta
+> The world's biggest dance & electronic hits\. Cover: SG Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,679,447 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,679,523 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
 | 75 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
 
-Snapshot ID: `AAAAAJxo7L50HYlkc2x0TGosehxRbyUc`
+Snapshot ID: `AAAAAFlLOQLpCUqZZEK9wZQboKTyIVsc`

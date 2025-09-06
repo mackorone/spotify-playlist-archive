@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 604560,
+  "num_followers": 604860,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAD73cgWkTZGJSY0Wj3y3PFI",
+  "snapshot_id": "aLjWgAAAAACsqbu1+rw5LygiNBOZtA7Y",
   "tracks": [
     {
       "added_at": null,
@@ -487,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
       },
       "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 174673,
-      "name": "Condemned",
-      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
     },
     {
       "added_at": null,
@@ -519,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Onto Something (feat. Zach Bryan)",
-        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
       "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        },
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 222721,
-      "name": "We're Onto Something (feat. Zach Bryan)",
-      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+      "duration_ms": 174673,
+      "name": "Condemned",
+      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 217185,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 178573,
       "name": "Snow",
       "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 217185,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 253359,
       "name": "God Speed",
       "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
       "added_at": null,
@@ -762,15 +762,11 @@
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 216253,
-      "name": "Sandpaper (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/39jaMEXqY45at7te6OpskG"
+      "duration_ms": 185520,
+      "name": "The Way Back",
+      "url": "https://open.spotify.com/track/6aPY5G8JEQJtgpaIMyElNX"
     },
     {
       "added_at": null,
@@ -834,11 +830,15 @@
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 185520,
-      "name": "The Way Back",
-      "url": "https://open.spotify.com/track/6aPY5G8JEQJtgpaIMyElNX"
+      "duration_ms": 216253,
+      "name": "Sandpaper (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/39jaMEXqY45at7te6OpskG"
     },
     {
       "added_at": null,

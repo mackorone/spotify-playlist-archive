@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Drake, Offset, Gunna, Bryson Tiller, Lithe and Travis Scott.",
+  "description": "Today's Hip-Hop with Latto & Ice Spice, Drake, Don Toliver, Offset and Cardi B.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -11009,6 +11009,28 @@
     },
     {
       "album": {
+        "name": "Gyatt",
+        "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137733,
+      "name": "Gyatt",
+      "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
+    },
+    {
+      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -16864,7 +16886,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 121690,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
@@ -19226,6 +19248,28 @@
       "duration_ms": 132380,
       "name": "OWA OWA",
       "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
+    },
+    {
+      "album": {
+        "name": "Owe Me",
+        "url": "https://open.spotify.com/album/3qtwvgTjmEDPRHXYPSW3Nk"
+      },
+      "artists": [
+        {
+          "name": "Buddah Bless",
+          "url": "https://open.spotify.com/artist/6F6Kv1EpOjiXonTNYFdXWW"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Owe Me",
+      "url": "https://open.spotify.com/track/3SFWyVnGTGGvTH6iQmLAxL"
     },
     {
       "album": {
@@ -23256,7 +23300,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 234593,
       "name": "SORRY RACH!",
       "url": "https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn"
@@ -25893,6 +25937,24 @@
     },
     {
       "album": {
+        "name": "Tiramisu",
+        "url": "https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Tiramisu",
+      "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+    },
+    {
+      "album": {
         "name": "SICK!",
         "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
       },
@@ -26824,7 +26886,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -28850,6 +28912,24 @@
       "duration_ms": 142973,
       "name": "Work",
       "url": "https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w"
+    },
+    {
+      "album": {
+        "name": "World Boss",
+        "url": "https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "World Boss",
+      "url": "https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: SUNMI)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: aespa)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 140241,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN"
@@ -6026,7 +6026,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -7538,7 +7538,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -7650,6 +7650,24 @@
       "duration_ms": 152426,
       "name": "Retro Romance",
       "url": "https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF"
+    },
+    {
+      "album": {
+        "name": "Rich Man - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/7Frk59MgpJw7bDixiMCr49"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/53xn9j8QEj4RBJa1MlYqFy"
     },
     {
       "album": {
@@ -8094,6 +8112,24 @@
       "duration_ms": 194533,
       "name": "Shhh!",
       "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
+    },
+    {
+      "album": {
+        "name": "SHOTTY",
+        "url": "https://open.spotify.com/album/49d9iGpaczDesVlUC7jIxD"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "SHOTTY",
+      "url": "https://open.spotify.com/track/2gtCPs64x3zHmPN4oMCaVC"
     },
     {
       "album": {
@@ -9262,7 +9298,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"

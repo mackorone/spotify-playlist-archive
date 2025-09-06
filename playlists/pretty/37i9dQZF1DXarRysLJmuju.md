@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> The latest in pop\. Cover: Alexander Stewart
+> The latest in pop\. Cover: Faouzia
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,204 likes - 96 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,207 likes - 96 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 95 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
 | 96 | [Looking Up](https://open.spotify.com/track/2L255DSg5DJbmHlFrxp2Nq) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/0t6PMy3FcoonbnnSkxTRyf) | 2:25 |
 
-Snapshot ID: `AAAAAGUyHDRSRtyIBbLssJC1IGeMDt86`
+Snapshot ID: `AAAAAI8CFDEkxumpGugBO4ashwCFpGlh`

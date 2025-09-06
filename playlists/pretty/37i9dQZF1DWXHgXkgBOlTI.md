@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: CASIOPEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,985 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,991 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 |
 | 50 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 |
 
-Snapshot ID: `AAAAAMNjGk0kXkaDI9sqfm1w/TY7IbRr`
+Snapshot ID: `AAAAAHaD7c7qeAFQk9RpRf63kOXbL8Rn`

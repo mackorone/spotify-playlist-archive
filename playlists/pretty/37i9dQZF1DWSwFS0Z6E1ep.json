@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 290816,
+  "num_followers": 290932,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 321133,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Come On, Let's Go",
-      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "That'll Be The Day",
         "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "Come On, Let's Go",
+      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Oh! Carol",
-      "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The \"Chirping\" Crickets",
         "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 142773,
       "name": "Not Fade Away",
       "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Oh! Carol",
+      "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Shoobie Oobie / Cheese and Crackers",
+        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 174003,
+      "name": "Shoobie Oobie",
+      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Memories Never Grow Old / Good Lovin'",
         "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Shoobie Oobie / Cheese and Crackers",
-        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 174003,
-      "name": "Shoobie Oobie",
-      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
     },
     {
       "added_at": "2022-06-07 05:25:13",

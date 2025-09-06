@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Louis Ottley, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,972 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,974 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 2 | [dear abby](https://open.spotify.com/track/1oFvzpFDJOiHjtkcJVkQ3K) | [Acidfrank](https://open.spotify.com/artist/5oCxNqSSf0o5hBSiaOfm3V), [Dasco](https://open.spotify.com/artist/2NAAImPzFXVBqOEx8Ntzcd) | [dear abby](https://open.spotify.com/album/3Ih6UAZbbDkHSw7A0m4MQC) | 2:54 |
 | 3 | [Halfway Famous](https://open.spotify.com/track/19gWJsiVulKfzXFvP4LQS7) | [No Soul Society](https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS) | ["This Isn't Real" Mixtape](https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ) | 3:21 |
 | 4 | [Living Room Floor](https://open.spotify.com/track/4dONYet8tPykb5LzstwLrz) | [ruka](https://open.spotify.com/artist/7fwRGWZjMcgJXwtJqAjfDB) | [Living Room Floor](https://open.spotify.com/album/1ZWAjIZxNZuOQOFjX4il6t) | 3:14 |
-| 5 | [Monochromie](https://open.spotify.com/track/2N6UpcebLgEq1jdbYvJiyo) | [Elfi](https://open.spotify.com/artist/4eWDXF7bBpqkHdKtQ2grlg) | [Monochromie](https://open.spotify.com/album/6dLeIWmHGWL1JpJZcON7Iu) | 2:51 |
+| 5 | [Monochromie](https://open.spotify.com/track/2N6UpcebLgEq1jdbYvJiyo) | [ELFI](https://open.spotify.com/artist/4eWDXF7bBpqkHdKtQ2grlg) | [Monochromie](https://open.spotify.com/album/6dLeIWmHGWL1JpJZcON7Iu) | 2:51 |
 | 6 | [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/2OTccfUPi1r1TFAct5ifW5) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 |
 | 7 | [Running Away](https://open.spotify.com/track/2EcTIbGiPN2mfMhHNr1gw4) | [Die Störung](https://open.spotify.com/artist/3hqJcvEQEhRWvPWtJL8NBE) | [Running Away](https://open.spotify.com/album/2fhFMnHEKcW0MNuqtbw4YE) | 4:24 |
 | 8 | [hall of mirrors](https://open.spotify.com/track/5jW9V3sU1Zbp0nnWBIU9Ir) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [hall of mirrors](https://open.spotify.com/album/1B3bqzE1LDafJF10SLqq6Z) | 3:53 |

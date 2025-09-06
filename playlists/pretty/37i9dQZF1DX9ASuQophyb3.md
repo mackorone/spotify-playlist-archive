@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Melike Şahin x Hanao
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,610 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,967 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 2 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
 | 3 | [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 |
 | 4 | [Kal](https://open.spotify.com/track/3kSt07STpxkueWtyxpmNgn) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kal](https://open.spotify.com/album/3OKUF6esujR6iMQ1Yao2Nn) | 3:39 |
-| 5 | [Track 1](https://open.spotify.com/track/4no8tKeKhCWOCWwSW6slsk) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Perperişan](https://open.spotify.com/album/6iIZCVmLWyYRP8GWpmTRAJ) | 0:00 |
+| 5 | [Perperişan](https://open.spotify.com/track/4no8tKeKhCWOCWwSW6slsk) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Perperişan](https://open.spotify.com/album/6iIZCVmLWyYRP8GWpmTRAJ) | 3:32 |
 | 6 | [Rampapapam \- Arem Ozguc & Arman Aydin Remix](https://open.spotify.com/track/34qxgccEwlGGQpcjQu85nu) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 2:11 |
 | 7 | [Çaldın](https://open.spotify.com/track/67gXbYH1UYbUC70fK4tijz) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 2:51 |
 | 8 | [Şimdi O Gitti](https://open.spotify.com/track/6u0XU6T2Nm1tLfUpzGjHuN) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Şimdi O Gitti](https://open.spotify.com/album/5mpTolfGTag27ejG3AYESu) | 2:26 |

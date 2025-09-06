@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Ayra Starr
 
-168 songs - 7 hr 54 min
+168 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-11-29 |  |
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2024-11-29 | 2025-09-05 |
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 | 2025-07-05 |
+| [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 | 2025-09-05 |  |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-11-29 | 2025-07-05 |
 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 |  |
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 | 2025-07-18 |
@@ -159,7 +160,6 @@
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2024-12-17 |
 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 | 2024-11-29 | 2025-01-18 |
 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 | 2024-11-29 | 2025-05-30 |
-| [Track 6](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 0:00 | 2025-09-05 |  |
 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 | 2025-09-05 |  |
 | [Turn Off The Lights](https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Turn Off The Lights](https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR) | 8:24 | 2024-11-29 | 2025-05-30 |
 | [Uyazkhohlwa](https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Twenty Four](https://open.spotify.com/album/7r7hgemJYXUDU2ztBVVGMY) | 4:17 | 2024-11-29 | 2025-05-30 |

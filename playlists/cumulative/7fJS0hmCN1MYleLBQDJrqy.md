@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-79 songs - 3 hr 27 min
+80 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Barcelona](https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Barcelona](https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe) | 2:46 | 2025-07-18 | 2025-08-09 |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-18 |  |
 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-22 |  |
-| [Benauwd Door Jou](https://open.spotify.com/track/4xrPpK5uZxJxXDl3FbX4m7) | [Lustrum Philotes](https://open.spotify.com/artist/2clKstdUMkAZHVHSdklnr5), [Veroordeeld](https://open.spotify.com/artist/5uC7d5NCPiwcwK57KFkm4z) | [Benauwd Door Jou](https://open.spotify.com/album/2xgXhQvGfrRVeLiu4Gcl43) | 2:27 | 2025-07-18 |  |
+| [Benauwd Door Jou](https://open.spotify.com/track/4xrPpK5uZxJxXDl3FbX4m7) | [Lustrum Philotes](https://open.spotify.com/artist/2clKstdUMkAZHVHSdklnr5), [Veroordeeld](https://open.spotify.com/artist/5uC7d5NCPiwcwK57KFkm4z) | [Benauwd Door Jou](https://open.spotify.com/album/2xgXhQvGfrRVeLiu4Gcl43) | 2:27 | 2025-07-18 | 2025-09-06 |
 | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk) | 2:22 | 2025-07-18 |  |
 | [Blindelings](https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Blindelings](https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK) | 2:40 | 2025-07-18 |  |
 | [Boefie Energy](https://open.spotify.com/track/44F9SRrFGPoonfy6Qr3TBZ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Boefie Energy](https://open.spotify.com/album/3ztj0tlN2qqJn6VbZJkQ2P) | 2:30 | 2025-07-18 |  |
@@ -77,6 +77,7 @@
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-18 |  |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2025-07-18 |  |
 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 | 2025-07-18 |  |
+| [Uitstelgedrag](https://open.spotify.com/track/6c4OQkxuJkE7bOBIK6fRa0) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Uitstelgedrag](https://open.spotify.com/album/0gWvSIPNEYs1cv6R7aFAzT) | 2:32 | 2025-09-05 |  |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-18 |  |
 | [Van Niemand](https://open.spotify.com/track/1vr262SFQ3qXJi7ZkMAC3u) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Van Niemand](https://open.spotify.com/album/6sp13atziZPC4XqN61Z17o) | 2:29 | 2025-07-18 | 2025-08-30 |
 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 | 2025-07-18 |  |

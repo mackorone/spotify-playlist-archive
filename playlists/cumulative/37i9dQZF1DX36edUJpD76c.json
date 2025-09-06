@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "DANGEROUS",
+        "url": "https://open.spotify.com/album/7rkOYL5h8F7YwUxK3UR3Zk"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128960,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/4HW6FIovTu45BgiV4Ex9tG"
+    },
+    {
+      "album": {
         "name": "District",
         "url": "https://open.spotify.com/album/4nxzO65DR0aB8Fjba9Rhrb"
       },
@@ -612,7 +634,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 122834,
       "name": "DND",
       "url": "https://open.spotify.com/track/1gaYoY58vho96I7PKkoPhF"
@@ -731,6 +753,24 @@
     },
     {
       "album": {
+        "name": "FEFE",
+        "url": "https://open.spotify.com/album/4lTa4MJndJXtlwdxAZTT8C"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "FEFE",
+      "url": "https://open.spotify.com/track/51zs69oUGJThcj66YESf4f"
+    },
+    {
+      "album": {
         "name": "DAL\u00c9 / FUNKEL",
         "url": "https://open.spotify.com/album/3LEXlCtTNzNkfJINtmHRez"
       },
@@ -778,7 +818,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 194197,
       "name": "GANGSTAAA (GLS CLASS)",
       "url": "https://open.spotify.com/track/1G1YAHObtrsT8CwA8GyP9n"

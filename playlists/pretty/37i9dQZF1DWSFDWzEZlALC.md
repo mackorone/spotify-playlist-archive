@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: TOBIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,857 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,993 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wenn ich liebe](https://open.spotify.com/track/4JfN8G1QuLf2u6rTvuA4S1) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wenn ich liebe](https://open.spotify.com/album/5PHxeu5spcZ0OOUpkUyuVt) | 2:27 |
 | 75 | [brennnessel](https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [brennnessel](https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv) | 2:43 |
 
-Snapshot ID: `AAAAAK5kpPGcssvvuu5tdahJ4EcyKzwZ`
+Snapshot ID: `AAAAAJ/plrD+tXpn7Vrzpig1q5juOPai`

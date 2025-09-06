@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAO4cPjzIJRp9vYDhqNWFZ4",
+  "snapshot_id": "aLjWgAAAAAAIyF7XAkPR7+CCg2AnY64+",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 188888,
-      "name": "Si Decides (Baby)",
-      "url": "https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop"
+      "duration_ms": 222480,
+      "name": "Volverte a O\u00edr",
+      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 222480,
-      "name": "Volverte a O\u00edr",
-      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+      "duration_ms": 188888,
+      "name": "Si Decides (Baby)",
+      "url": "https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Se Me Ve Tan Mal (NSMVTM)",
+        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "No Se Me Ve Tan Mal (NSMVTM)",
+      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 195488,
       "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
       "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Se Me Ve Tan Mal (NSMVTM)",
-        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "No Se Me Ve Tan Mal (NSMVTM)",
-      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popurr\u00ed de Juan Gabriel",
         "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 294653,
       "name": "Popurr\u00ed de Juan Gabriel",
       "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": null,

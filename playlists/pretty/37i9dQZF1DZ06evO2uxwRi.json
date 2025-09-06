@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42598,
+  "num_followers": 42606,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAD8E1iDc1CfPzyQM1+4Pa+F",
+  "snapshot_id": "aLjWgAAAAADAlUTQF9agX6rPfkzc//ZJ",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Don't Let Her Pull You Down",
-      "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
+      "duration_ms": 37198,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3NFRQ6pyhVbTMY7KveXnD6"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 37198,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/3NFRQ6pyhVbTMY7KveXnD6"
+      "duration_ms": 208266,
+      "name": "Don't Let Her Pull You Down",
+      "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
       "duration_ms": 204972,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Listen To Your Friends",
-      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Listen To Your Friends",
+      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 183293,
       "name": "My Heart Will Go On",
       "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 134933,
-      "name": "Truck Stop Blues",
-      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "Truck Stop Blues",
+      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 122582,
       "name": "Blitzkrieg Bop",
       "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 164426,
-      "name": "Second To Last",
-      "url": "https://open.spotify.com/track/0MgztMkyVpMbgrlMfj5ToE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177461,
       "name": "Summer Fling, Don't Mean a Thing",
       "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 164426,
+      "name": "Second To Last",
+      "url": "https://open.spotify.com/track/0MgztMkyVpMbgrlMfj5ToE"
     },
     {
       "added_at": null,

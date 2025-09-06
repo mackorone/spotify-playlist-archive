@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Jon Batiste",
+  "description": "The soulful tunes to ease you into your day. Cover: threetwenty",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176888,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 311038,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
@@ -8991,6 +8991,24 @@
     },
     {
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201408,
+      "name": "Miss Hot July",
+      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
+    },
+    {
+      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/2IfIc3vsMoHYe6RjLoojia"
       },
@@ -9619,6 +9637,28 @@
     },
     {
       "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
+    },
+    {
+      "album": {
         "name": "Mystery ft. PJ Morton",
         "url": "https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI"
       },
@@ -9962,7 +10002,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 180000,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/2yGbrqOfY9taaNTOw30G0b"
@@ -10528,6 +10568,32 @@
       "duration_ms": 139458,
       "name": "OOTW",
       "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
+    },
+    {
+      "album": {
+        "name": "OOWEE (feat. Jill Scott & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5dIeX3fErA2VsA2qk5rIhi"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "OOWEE (feat. Jill Scott & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6TjFekEFWYJuU7PI9K6Dk9"
     },
     {
       "album": {
@@ -13010,7 +13076,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 189000,
       "name": "Stay Right There (feat. BIG BO)",
       "url": "https://open.spotify.com/track/5r76u1sDc9XDEF7I94kFKo"
@@ -13068,6 +13134,24 @@
       "duration_ms": 252809,
       "name": "Still",
       "url": "https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg"
+    },
+    {
+      "album": {
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/58BVCM9wm5p0XGDQ26UEqa"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/20qPYWhpCFufU2aTPK9ZSu"
     },
     {
       "album": {

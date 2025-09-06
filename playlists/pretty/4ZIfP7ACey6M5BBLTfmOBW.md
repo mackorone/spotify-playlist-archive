@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,092 likes - 74 songs - 3 hr 26 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,091 likes - 81 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,12 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 72 | [Shut It Down](https://open.spotify.com/track/33JNU1PMIMcUJtPGcVaoBa) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Shut It Down](https://open.spotify.com/album/4i8qLaY1VzOWCxd1nXv3ao) | 2:32 |
 | 73 | [White Noise](https://open.spotify.com/track/3IOoYGnPLIPlpRDAiQLf2v) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [White Noise](https://open.spotify.com/album/0ZQQxiHRvS6hy1N5EMn6RB) | 2:50 |
 | 74 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 |
+| 75 | [Ready Set Go](https://open.spotify.com/track/3mRavzksg8No54bZdX5jPm) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Ready Set Go](https://open.spotify.com/album/6PSALSJfCxz2NnskQciqY7) | 2:00 |
+| 76 | [Let Me Down](https://open.spotify.com/track/0VTUpouNTvMHh5A6A9r18n) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Let Me Down](https://open.spotify.com/album/0Zm1a6ySis28NQsh9TWak5) | 2:15 |
+| 77 | [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 |
+| 78 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
+| 79 | [GODS](https://open.spotify.com/track/3lxNk4bzyRcQT40jI8Imnn) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [GODS](https://open.spotify.com/album/2bFUqK9FOFIoLVTxZegamm) | 2:44 |
+| 80 | [Sexual Healing](https://open.spotify.com/track/63C6thcVKzVWu0Z2YoSJhq) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Sexual Healing](https://open.spotify.com/album/11wxcfpfcqow7Svjea59Mh) | 1:48 |
+| 81 | [The Message](https://open.spotify.com/track/1Z4MUPJF3cIFChWpsL225b) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [The Message](https://open.spotify.com/album/7qYumC5VEhsuYAJKInY7HD) | 2:36 |
 
-Snapshot ID: `AAAl5b9GvzgtjsL9kZw0eIx2QStbB9aA`
+Snapshot ID: `AAAl7Gl0M+ljrKfsBOOmKfVcuLDKXGei`

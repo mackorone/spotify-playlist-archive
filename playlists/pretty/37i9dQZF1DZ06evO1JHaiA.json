@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABHXbpyRyP2eS0w4E/veRjm",
+  "snapshot_id": "aLjWgAAAAAC5Nn54ilCSFA/OXXTdFhzH",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 145160,
-      "name": "Slow Drag",
-      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
+      "duration_ms": 166533,
+      "name": "Gonna Be Strong",
+      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166533,
-      "name": "Gonna Be Strong",
-      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
+      "duration_ms": 145160,
+      "name": "Slow Drag",
+      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Energy of Love",
         "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
@@ -388,25 +404,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 213146,
-      "name": "Energy of Love",
-      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 305600,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
+      "duration_ms": 340866,
+      "name": "Everyone's a Star",
+      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 305600,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
     },
     {
       "added_at": null,
@@ -460,25 +476,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 340866,
-      "name": "Everyone's a Star",
-      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "To Be Happy Is the Real Thing",
-      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
+      "duration_ms": 213146,
+      "name": "Energy of Love",
+      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
       "duration_ms": 225026,
       "name": "This Is My Love Song",
       "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "To Be Happy Is the Real Thing",
+      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
     },
     {
       "added_at": null,
@@ -531,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -556,25 +588,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166133,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Traveling Home",
-      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 130946,
+      "name": "Let Me In Your Mind",
+      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 130946,
-      "name": "Let Me In Your Mind",
-      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -739,34 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
-        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
-      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
+        },
         {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+          "name": "Tommy Brown",
+          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+      "duration_ms": 257333,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
     },
     {
       "added_at": null,
@@ -795,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -811,28 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Tommy Brown",
-          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
+        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
+      "duration_ms": 238240,
+      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
+      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
     },
     {
       "added_at": null,

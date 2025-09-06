@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,230 likes - 85 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,339 likes - 85 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fin De L'Affaire \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Hank Mobley Quintet \(Remastered\)](https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb) | 6:39 |
-| 2 | [Blue In Green \(Take 3\)](https://open.spotify.com/track/60p18YXhrzLNrAaUXL8Bu6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:25 |
+| 2 | [Blue In Green \(Take 3\)](https://open.spotify.com/track/60p18YXhrzLNrAaUXL8Bu6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:25 |
 | 3 | [The Last Time I Saw Paris](https://open.spotify.com/track/1CgkKs5fgX1BiYyYZ6ZzZE) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 2:54 |
 | 4 | [Guess I'll Hang Out My Tears To Dry](https://open.spotify.com/track/5g3O8EUyEr0nquFAUf3bPc) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [My Foolish Heart](https://open.spotify.com/album/2Ewzq4eFx2OHKG69SduRad) | 11:09 |
 | 5 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/3ixZoVgdUldtyTjMbaQKqt) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/79PzcQvhO8qJCNBA9KofG2) | 4:01 |

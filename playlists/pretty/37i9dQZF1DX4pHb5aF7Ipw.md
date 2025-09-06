@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Gurinder Gill, Iqbal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,937 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,963 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Zigana](https://open.spotify.com/track/2WUJZ1MxeBm5pSXBej6L2y) | [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Zigana](https://open.spotify.com/album/31W9PXaT4ZgtHCINhKoLhN) | 2:00 |
 | 75 | [HIGH EARNINGS](https://open.spotify.com/track/7o3bBa578WzjQJXJ4bpDDt) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [4 Shots](https://open.spotify.com/album/4vnsOWih1SSzGA2V4t7F2m) | 3:02 |
 
-Snapshot ID: `AAAAAM6PYlC4+mP1X4YjuBVpkKUjGIOC`
+Snapshot ID: `AAAAAPvJkoGxtLwwOH9KPDX4nznRjhXu`

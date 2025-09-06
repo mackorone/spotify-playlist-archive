@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover \- Diljit Dosanjh
+> Catch the hottest Punjabi tracks\. Cover \- Shubh
 
-174 songs - 8 hr 50 min
+175 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [AZUL](https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [AZUL](https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39) | 2:18 | 2025-08-15 |  |
 | [Bachke Bachke \(feat\. Yarah\)](https://open.spotify.com/track/2uWZ7EGddFlA1DJ3Rzzvs2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:30 | 2024-01-04 | 2024-12-14 |
 | [BACKLASH](https://open.spotify.com/track/0xc2yPEA9mijAN6T1Jq4Z3) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [BACKLASH](https://open.spotify.com/album/2RkPZfb697jIKJlwWXEiMM) | 3:13 | 2025-04-25 | 2025-08-30 |
+| [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 | 2025-09-05 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2024-01-04 | 2024-11-15 |
 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 | 2024-03-28 | 2025-07-26 |
 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 | 2025-03-21 |  |
@@ -50,7 +51,7 @@
 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2024-01-04 | 2025-05-03 |
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2024-01-04 | 2024-11-30 |
 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 | 2024-01-04 | 2024-11-15 |
-| [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 | 2025-06-13 |  |
+| [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 | 2025-06-13 | 2025-09-06 |
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-18 |  |
 | [Courtside](https://open.spotify.com/track/5wqMM6wOwXmX4rc1C3lUkd) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Courtside](https://open.spotify.com/album/5RC38LZqWgK6w9DmqIJJY9) | 2:48 | 2025-05-23 | 2025-08-30 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2024-01-04 | 2024-11-15 |

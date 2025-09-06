@@ -2,7 +2,7 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
 1,491 songs - 4 day 5 hr 16 min
 

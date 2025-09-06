@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Esoterica
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,927 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 9 | [Not A Love Song](https://open.spotify.com/track/09OdX4zFiExlOXFvYoO7tQ) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:08 |
 | 10 | [BMB \(Be My Baby\)](https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [BMB \(Be My Baby\)](https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f) | 3:04 |
 | 11 | [Don't Run](https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3) | [Kosi O](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [Don't Run](https://open.spotify.com/album/0F4QcV3VSrFtSN2v5IGYZF) | 3:34 |
-| 12 | [FAR AWAY](https://open.spotify.com/track/5uc6kM1l3mWJCPa42aIejd) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Njerae](https://open.spotify.com/artist/0DGXi1AjrdDa0WAqYHXjXu) | [FAR AWAY](https://open.spotify.com/album/28TIYImmUyJaFi75dxp6Ko) | 2:37 |
+| 12 | [FAR AWAY](https://open.spotify.com/track/5uc6kM1l3mWJCPa42aIejd) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [FAR AWAY](https://open.spotify.com/album/28TIYImmUyJaFi75dxp6Ko) | 2:37 |
 | 13 | [Could It Be](https://open.spotify.com/track/59tS6EHPftOqgOtiMBaegm) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Pepper Soup](https://open.spotify.com/album/2k97Xj77SKb2zsdnpMiZSW) | 2:22 |
 | 14 | [Taste Like \(Hmmm\)](https://open.spotify.com/track/39J6YT9FcihukeIhxpnxzY) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Taste Like \(Hmmm\)](https://open.spotify.com/album/74vvVg8zQbCtNG5BZZQVMy) | 3:05 |
 | 15 | [By You](https://open.spotify.com/track/7rFFzlTUZ4GR4osQmZuYXh) | [Nakel](https://open.spotify.com/artist/2O67DhvtbPjDEspr2j21q8), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [By You](https://open.spotify.com/album/3NSoRJYGaPJBgMUrflsrxv) | 2:42 |

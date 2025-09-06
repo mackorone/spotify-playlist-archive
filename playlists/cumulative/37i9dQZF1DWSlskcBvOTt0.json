@@ -6564,7 +6564,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 215040,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
@@ -11301,6 +11301,36 @@
     },
     {
       "album": {
+        "name": "Finding Home",
+        "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Astr\u00f8",
+          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+        },
+        {
+          "name": "Afnan Prince",
+          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
+    },
+    {
+      "album": {
         "name": "Magic Circus",
         "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
       },
@@ -13376,7 +13406,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 340512,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2"
@@ -20746,6 +20776,32 @@
       "duration_ms": 317884,
       "name": "Wale Wale",
       "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
+    },
+    {
+      "album": {
+        "name": "Wale Wale (feat. Sofiya Nzau) [WITH U Remix - Radio Edit]",
+        "url": "https://open.spotify.com/album/189nxvsd30cgk6lWXrtrXV"
+      },
+      "artists": [
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208166,
+      "name": "Wale Wale (feat. Sofiya Nzau)",
+      "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"
     },
     {
       "album": {

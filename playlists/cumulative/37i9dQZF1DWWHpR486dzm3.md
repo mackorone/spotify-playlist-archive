@@ -2,9 +2,9 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa Lyyti.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Asla Jo.
 
-933 songs - 2 day 8 hr 14 min
+934 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Fantasies](https://open.spotify.com/track/4mLr8WI3QGcHN9g4bnjgTr) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fantasies](https://open.spotify.com/album/5ZXmA40qxKsawQ36CDasQj) | 2:38 | 2025-01-23 | 2025-02-14 |
 | [Feeling Alive](https://open.spotify.com/track/1RSSkmBCzRtEUFFXW8rox7) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Feeling Alive](https://open.spotify.com/album/4XCHbwj74KnH5U5GV4tfOQ) | 2:48 | 2025-06-05 |  |
 | [Feet Back On The Ground](https://open.spotify.com/track/0DeKEIexCuLHPr2WwkUd57) | [Hobo Fires](https://open.spotify.com/artist/3tKtIE6phcNGI0GvLOKnb8) | [The Best Of Hobo Fires: Sunny Side](https://open.spotify.com/album/5SapuyUPri1c9z58WhAuak) | 4:27 | 2025-02-06 | 2025-02-28 |
-| [Festareilla](https://open.spotify.com/track/78k1hwSHJWbZjaH6QJNAz6) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx) | [Festareilla](https://open.spotify.com/album/2yymEa4jYSuqaRr17Ekz8a) | 3:17 | 2025-08-28 |  |
+| [Festareilla](https://open.spotify.com/track/78k1hwSHJWbZjaH6QJNAz6) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx), [Janne Laurila](https://open.spotify.com/artist/3ASfmUvEt4pae0FMEbJFcU) | [Festareilla](https://open.spotify.com/album/2yymEa4jYSuqaRr17Ekz8a) | 3:17 | 2025-08-28 |  |
 | [Fireflies](https://open.spotify.com/track/6jvKzA0VWGRyMc8F4OQbVd) | [VON KONOW](https://open.spotify.com/artist/22j1dLSC6MsQS2Fm0EhZTB) | [Plenty](https://open.spotify.com/album/1mK53QazuVzxpUoaqiJVfq) | 3:46 | 2024-11-14 | 2025-01-17 |
 | [Floods](https://open.spotify.com/track/0y4JIiK1gCvFz2QDbTabjB) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Chapters](https://open.spotify.com/album/4BKjWB20RRyTjBs4lLkaxb) | 4:57 | 2024-10-24 | 2024-12-06 |
 | [Flowers](https://open.spotify.com/track/1ynfqHKUJ1qu63xCA0tLbS) | [HP Siikasaari](https://open.spotify.com/artist/79bRjP6UlnCXziRUaeFeMp) | [Flowers](https://open.spotify.com/album/0SKTiWeqo95sVm2cFyC2y0) | 2:57 | 2025-03-13 | 2025-04-11 |
@@ -293,7 +293,7 @@
 | [Jos tää on unta](https://open.spotify.com/track/2uzW0yZiuqmQ8uSDKuT6yN) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Jos tää on unta](https://open.spotify.com/album/1g15gTR07JOQvmr4wfQxMR) | 3:29 | 2025-05-22 | 2025-06-20 |
 | [Jos vielä yhdet](https://open.spotify.com/track/4ltsv4aQqH5qtFTKNHh6qp) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Pimeä pää](https://open.spotify.com/album/0NmKCd0HS8X81QphML3zp4) | 3:37 | 2025-02-27 | 2025-04-18 |
 | [Jostain molekyyliarvosta](https://open.spotify.com/track/5qSZZW6A6TaTdI1NuoTOUT) | [Maija Kaunismaa](https://open.spotify.com/artist/1iKXGOXpXRvHllLzERAOiN) | [Jostain molekyyliarvosta](https://open.spotify.com/album/68kYpRlNUgY7Yj4z2nsQ7B) | 3:00 | 2025-03-06 | 2025-04-04 |
-| [Jouluksi kotiin](https://open.spotify.com/track/6zdqWh6Hz5qShs6v98JqgV) | [Onni Rajaniemi](https://open.spotify.com/artist/7aGFj7SRxHVunUab4E2nPf) | [Pois häviää kaikki](https://open.spotify.com/album/1v5RIqEwdiA7wHSKYeT8Yq) | 3:59 | 2025-06-05 |  |
+| [Jouluksi kotiin](https://open.spotify.com/track/6zdqWh6Hz5qShs6v98JqgV) | [Onni Rajaniemi](https://open.spotify.com/artist/7aGFj7SRxHVunUab4E2nPf) | [Pois häviää kaikki](https://open.spotify.com/album/1v5RIqEwdiA7wHSKYeT8Yq) | 3:59 | 2025-06-05 | 2025-09-06 |
 | [Jouni \(feat\. F\)](https://open.spotify.com/track/1jyDWNvlfxhBlVCnQHOiK8) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Jouni \(feat\. F\)](https://open.spotify.com/album/1AG99IhYCH29Q8sVh0qPmB) | 3:16 | 2024-07-02 | 2024-07-05 |
 | [Joutomaa](https://open.spotify.com/track/4pHwjqKOz8Qv7f6ogUJwIk) | [Samuli Myrsky](https://open.spotify.com/artist/0RlAoFsaFLLU02Wx8nIa6n) | [Joutomaa](https://open.spotify.com/album/764ryunQhKuJD0m0nz1LC9) | 4:12 | 2024-08-15 | 2024-09-20 |
 | [joutomaa](https://open.spotify.com/track/1F7MmmjWUWH0yKpiliE0hE) | [Serafiina](https://open.spotify.com/artist/0qrplqDpS7DEftldaZI234) | [joutomaa](https://open.spotify.com/album/3xa6gRCQsha5xVGonKmmrw) | 2:52 | 2025-08-14 |  |
@@ -541,6 +541,7 @@
 | [Mä pelkään sua](https://open.spotify.com/track/72A4PySM6hlnFi71X10ufJ) | [Alma Alanko](https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt) | [Vääränlainen \- EP](https://open.spotify.com/album/6kAN6Ow6QjqFO9ZdBuluXV) | 2:12 | 2024-09-26 | 2024-10-18 |
 | [Mä rokkaan](https://open.spotify.com/track/2tJAWHLpW6pAByBlgpXqDv) | [Joni Ekman & Koira](https://open.spotify.com/artist/1QbvirHCOsrRM5q09l2zOg) | [XL4](https://open.spotify.com/album/2NdIiUt5UHiMaPKl5R8deT) | 4:00 | 2025-05-01 | 2025-06-06 |
 | [mäki vihaan sua](https://open.spotify.com/track/6RY2tGsZTKkSpPXzi4tT6F) | [Serafiina](https://open.spotify.com/artist/0qrplqDpS7DEftldaZI234) | [mäki vihaan sua](https://open.spotify.com/album/4FYP0cSGRSiA4MWLwa02vG) | 2:57 | 2025-06-05 | 2025-09-05 |
+| [Mänty](https://open.spotify.com/track/7BZrAf03BHkGizOiMG8TjQ) | [Aili Järvelä](https://open.spotify.com/artist/6r1mVyGnnq60IThQV3Is8j), [Ostrobothnian Chamber Orchestra](https://open.spotify.com/artist/7A0u8NYeGO91iCE7xRs50j), [Samuli Kosminen](https://open.spotify.com/artist/4336HEyKCwnRI5JjGV8E00), [Laura Hynninen](https://open.spotify.com/artist/34TPmQUcZvfSgrpkW8Wj06) | [Mänty](https://open.spotify.com/album/3b8vgDObjBydE6bH9yU7Mz) | 3:33 | 2025-09-05 |  |
 | [Mökki keskellä pohjolaa](https://open.spotify.com/track/3XDYPmnr1XzOBaZTk5kx7r) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Mökki keskellä pohjolaa](https://open.spotify.com/album/1sjlYetkFq9K5ncQVinz18) | 2:38 | 2025-02-20 | 2025-04-18 |
 | [Mörkö pt 2](https://open.spotify.com/track/0sTgvLVOOgaZ2VgdBySd8q) | [Musta hanhi](https://open.spotify.com/artist/7hqTWrzRtJbctP8T7R6slG) | [Mörkö pt 2](https://open.spotify.com/album/66DSKsExq4wb75ljBPLSKo) | 2:52 | 2025-08-14 | 2025-08-30 |
 | [Naiivi rakkaus](https://open.spotify.com/track/6p5uK4S00hzc3OUqzE9FBq) | [Leeni](https://open.spotify.com/artist/4qFbzYlUZ5e7oeirpDdQ0z) | [Naiivi rakkaus](https://open.spotify.com/album/3N8nN42TGbS9tN09VBghbv) | 3:11 | 2024-09-12 | 2024-10-11 |

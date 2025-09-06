@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: G Flip
 
-2,146 songs - 4 day 14 hr 41 min
+2,147 songs - 4 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -913,7 +913,7 @@
 | [I <3 YOU](https://open.spotify.com/track/7DNTmEFMARpxeSFY82wZiw) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 3:36 | 2025-06-06 | 2025-07-25 |
 | [I AM \- From the Ava DuVernay feature film 'Origin'](https://open.spotify.com/track/1uNSDmdnCmOgMvAyfCnh2Q) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [I AM \(From the Ava DuVernay feature film 'Origin'\)](https://open.spotify.com/album/5xu60Zz8cb4j7Qnmy7oio7) | 4:29 | 2023-11-30 | 2024-02-02 |
 | [I Believed](https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Believed](https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe) | 2:59 | 2025-05-15 | 2025-07-04 |
-| [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 |  |
+| [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 | 2025-09-06 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-04-19 | 2024-06-14 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-06 | 2023-09-08 |
 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 | 2024-12-12 | 2025-02-07 |
@@ -1174,6 +1174,7 @@
 | [love on the run](https://open.spotify.com/track/7dND1r1krUdH6ahoiViAcr) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [love on the run](https://open.spotify.com/album/1dQ4nm7tCPb3NiP7YRWua7) | 2:57 | 2024-10-24 | 2024-11-22 |
 | [Love saves](https://open.spotify.com/track/1DhrgNiQeRjvmRcNo2psjo) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Love Saves](https://open.spotify.com/album/60TKUnY5yr1iUCMqYgTb4v) | 3:41 | 2023-07-13 | 2023-08-11 |
 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-02 | 2023-12-15 |
+| [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-05 |  |
 | [LOVE U ANYWAY](https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LOVE U ANYWAY](https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf) | 2:56 | 2024-05-09 | 2024-06-07 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-04 | 2023-09-15 |
 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 | 2025-02-13 | 2025-03-21 |

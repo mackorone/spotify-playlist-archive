@@ -1,13 +1,97 @@
 {
-  "description": "New songwriters on the horizon from around the world. Cover: UV Killin Em",
-  "num_followers": 15299,
+  "description": "New songwriters on the horizon from around the world. Cover: WATERBOUTUS",
+  "num_followers": 15310,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqRH4aqEmSLAhnrinp+PaKuKey6",
+  "snapshot_id": "AAAAAHBq0bzOJkgYEJxfmQkbos80wVFY",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:23",
+      "album": {
+        "name": "Bundeswehr",
+        "url": "https://open.spotify.com/album/0c664fPecFTRRD0uTdjJ8N"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "Bundeswehr",
+      "url": "https://open.spotify.com/track/2sUfEZZlQHI4dkFFG9Gy3H"
+    },
+    {
+      "added_at": "2025-09-05 04:00:23",
+      "album": {
+        "name": "GANGSIGNS",
+        "url": "https://open.spotify.com/album/1nOnATUcB6S7E6AHqQzFH8"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "duration_ms": 108493,
+      "name": "GANGSIGNS",
+      "url": "https://open.spotify.com/track/56RnsXj3ZH5VAElAo9H1ot"
+    },
+    {
+      "added_at": "2025-09-05 04:00:23",
+      "album": {
+        "name": "Maske weg",
+        "url": "https://open.spotify.com/album/0Nks51L3L4ap0JflRRaMGU"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Maske weg",
+      "url": "https://open.spotify.com/track/7Jt8ewtegbcwghGaQpoj5v"
+    },
+    {
+      "added_at": "2025-09-05 04:00:23",
+      "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "duration_ms": 125507,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/10wN7VGTQH6EyFTtc6Jquk"
+    },
+    {
+      "added_at": "2025-09-05 04:00:23",
+      "album": {
+        "name": "Regentage",
+        "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "Regentage",
+      "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
+    },
     {
       "added_at": "2025-06-04 18:15:42",
       "album": {
@@ -612,8 +696,8 @@
           "url": "https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A"
         },
         {
-          "name": "Joris",
-          "url": "https://open.spotify.com/artist/5wxPvs3rXJhBchoQMZYJia"
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
         },
         {
           "name": "Justin Jesso",
@@ -661,42 +745,6 @@
       "url": "https://open.spotify.com/track/5DhcEJWVdkPNkJUVnbiUKo"
     },
     {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "STAINS",
-        "url": "https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 346298,
-      "name": "STAINS",
-      "url": "https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Gela",
-        "url": "https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz"
-      },
-      "artists": [
-        {
-          "name": "Baker Boy",
-          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
-        },
-        {
-          "name": "Lara Andallo",
-          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH"
-    },
-    {
       "added_at": "2025-06-04 18:15:42",
       "album": {
         "name": "No Romeo EP",
@@ -727,22 +775,6 @@
       "duration_ms": 245933,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -855,22 +887,6 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Policeman",
-        "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
-      },
-      "artists": [
-        {
-          "name": "Natali Noor",
-          "url": "https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Policeman",
-      "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -1339,26 +1355,6 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2024-09-12 10:00:00",

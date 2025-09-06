@@ -2,9 +2,9 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ Danna  en portada.
+> las mujeres ya no lloran ✨ Emilia & Six Sex en portada.
 
-147 songs - 7 hr 0 min
+148 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [LINDA](https://open.spotify.com/track/3tiLsr8coKCWXIbqLLCyd4) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [LINDA](https://open.spotify.com/album/49gmcMb9dbeV9cpKLbhzst) | 2:03 | 2025-07-11 | 2025-08-23 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-11-29 | 2025-07-05 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-11-29 | 2024-02-16 |
-| [Loquito](https://open.spotify.com/track/710wTvC2Ret2NaGLyF88Kt) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [SEXOLANDIA 2](https://open.spotify.com/album/0dJgw5GP0SBxi2T92jgakd) | 2:46 | 2025-08-22 |  |
+| [Loquito](https://open.spotify.com/track/710wTvC2Ret2NaGLyF88Kt) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [SEXOLANDIA 2](https://open.spotify.com/album/0dJgw5GP0SBxi2T92jgakd) | 2:46 | 2025-08-22 | 2025-09-06 |
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-11-29 | 2024-04-13 |
 | [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 | 2025-04-25 |  |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-11-29 | 2024-05-04 |
@@ -114,6 +114,7 @@
 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 | 2025-06-20 |  |
 | [PISCIS](https://open.spotify.com/track/1UE0ml9PteZQJDhtV6mbb9) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [PISCIS](https://open.spotify.com/album/4u7ievdNvGacFKyTdW0eq5) | 1:52 | 2025-03-28 | 2025-05-17 |
 | [posta](https://open.spotify.com/track/60Mgo3LnlAMy7TzhvVZUHA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:01 | 2024-04-12 | 2025-01-25 |
+| [pRiiNcEza 100% OriiGiinaL](https://open.spotify.com/track/5coNu3jF2g4LEBOjJPu92f) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [pRiiNcEza 100% OriiGiinaL](https://open.spotify.com/album/7zkz38yX9siyoqEISdEVoI) | 2:25 | 2025-09-05 |  |
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-04-12 | 2025-03-08 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-22 | 2024-10-19 |
 | [QLONA](https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:52 | 2023-11-29 |  |

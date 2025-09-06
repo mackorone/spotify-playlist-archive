@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40325,
+  "num_followers": 40334,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAB3CEf1WvHh/M48Q0W7vDUe",
+  "snapshot_id": "aLjWgAAAAADMS6tREbzQ9xoS3EtBZH5R",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Reina Leona",
-      "url": "https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 206216,
       "name": "Bar de corazones rotos",
       "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "El Distractor",
-      "url": "https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 242365,
       "name": "No sabes amar",
       "url": "https://open.spotify.com/track/2yhwd5uElvQJaDquJ0Iexv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "El Distractor",
+      "url": "https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 196733,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 164151,
       "name": "Llorando en el avi\u00f3n",
       "url": "https://open.spotify.com/track/1io59pmyuTfVEnIsFjbL5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Si Volviera A Nacer",
-      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 187043,
       "name": "Cita compartida",
       "url": "https://open.spotify.com/track/52Cgt6hPWKyLmkBSJzedgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Si Volviera A Nacer",
+      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Juan Y Paul",
-      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 194154,
       "name": "Te va a doler",
       "url": "https://open.spotify.com/track/3E1iSNh6yovFIYJKhKMEqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "Juan Y Paul",
+      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRENE ALEJANDRA",
         "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 217096,
       "name": "Te Am\u00e9 Temprano",
       "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
     },
     {
       "added_at": null,

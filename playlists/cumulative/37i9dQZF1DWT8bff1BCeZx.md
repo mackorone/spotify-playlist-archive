@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-620 songs - 1 day 17 hr 2 min
+621 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Praise Medley \(Live\)](https://open.spotify.com/track/4YwXRiyHF5sXxFhrjKqXSb) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 9:09 | 2023-04-06 | 2025-02-28 |
 | [Praise Medley \- Live](https://open.spotify.com/track/5ODjEJsgZwotrwDEy7Vs0A) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Praise Medley \(Live\)](https://open.spotify.com/album/3MDKKx8tPJwDXHnGZzVtqt) | 6:25 | 2023-04-06 | 2023-04-15 |
 | [Praise The Lord](https://open.spotify.com/track/3UfoqCnnv3aj0wCKcvnipd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Praise The Lord](https://open.spotify.com/album/3fOLCuBWDwLKruyWFaG5Qu) | 4:53 | 2025-03-28 | 2025-05-09 |
+| [PRAISE THROUGH STORMS](https://open.spotify.com/track/6mSIQVXz4QuyTSGX8noDGd) | [Kevin Adams & Voices of Praise](https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV), [Dariodmusic](https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU) | [PRAISE THROUGH STORMS](https://open.spotify.com/album/66LyPFemNQwvmvBRrK4eU8) | 3:57 | 2025-09-05 |  |
 | [Praise You](https://open.spotify.com/track/0xn4Y3EXSLiN4mx65Oagkt) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [Praise You](https://open.spotify.com/album/2eNfBrha4wluwTcj43XI4p) | 2:04 | 2025-08-22 |  |
 | [PRAISE YOUR NAME](https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [PRAISE YOUR NAME](https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL) | 3:17 | 2023-06-30 | 2023-07-18 |
 | [Praises](https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Praises](https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0) | 4:04 | 2023-09-22 | 2023-12-10 |

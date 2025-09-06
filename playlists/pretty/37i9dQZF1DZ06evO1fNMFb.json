@@ -1,12 +1,12 @@
 {
   "description": "This is Natania. The essential tracks, all in one playlist.",
-  "num_followers": 97,
+  "num_followers": 98,
   "original_name": "This Is Natania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAvIGFOKIa3jyJQhBU+G7kH",
+  "snapshot_id": "aLjWgAAAAAALag5KBVU9Qxx8boaRCh1A",
   "tracks": [
     {
       "added_at": null,
@@ -542,11 +542,15 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Aniket Mangrulkar",
+          "url": "https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB"
         }
       ],
-      "duration_ms": 159200,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
+      "duration_ms": 148320,
+      "name": "Hell of A Ride",
+      "url": "https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB"
     },
     {
       "added_at": null,
@@ -567,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
       },
       "artists": [
         {
@@ -576,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
+      "duration_ms": 147822,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
     },
     {
       "added_at": null,
@@ -618,21 +622,17 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "Aniket Mangrulkar",
-          "url": "https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB"
         }
       ],
-      "duration_ms": 148320,
-      "name": "Hell of A Ride",
-      "url": "https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB"
+      "duration_ms": 159200,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
+        "name": "Us",
+        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 147822,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
+      "duration_ms": 137000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 133781,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm a Nykaa Everyday (feat. Dee MC)",
         "url": "https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
       },
       "artists": [
         {
@@ -820,25 +820,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 133781,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 156686,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
+      "duration_ms": 184080,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 154983,
       "name": "Jump To It",
       "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 156686,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
     },
     {
       "added_at": null,

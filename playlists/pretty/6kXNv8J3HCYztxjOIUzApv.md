@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,638 likes - 201 songs - 12 hr 31 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,637 likes - 201 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 200 | [Dead\_Alive](https://open.spotify.com/track/4WOCfO9F6eVwE5KGDt7T1Y) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Wish You The Worst](https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9) | 3:10 |
 | 201 | [Where Were You..?](https://open.spotify.com/track/1xzGXbSJDSAyd92Wwn3fkV) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Wish You The Worst](https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9) | 3:04 |
 
-Snapshot ID: `AAAI0viYfSTe8cxSiLeXH5ntAkFabx7t`
+Snapshot ID: `AAAI0/koRiwrK9FQDUoNsYxiid3X1wfE`

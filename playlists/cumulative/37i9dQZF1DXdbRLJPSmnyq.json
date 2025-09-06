@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: HANA",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: Fujii Kaze",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "FLY OUT",
+      "url": "https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF"
+    },
+    {
+      "album": {
         "name": "GOD_i",
         "url": "https://open.spotify.com/album/5H6luqWnHTkwrl30T8D8GD"
       },
@@ -1301,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "OWARI DIARY",
+        "url": "https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "KIRA KIRA",
+      "url": "https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss Kiss",
         "url": "https://open.spotify.com/album/09kDSsRW2LELBw2Pjk8tWf"
       },
@@ -1510,7 +1550,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 153770,
       "name": "Man on the Run",
       "url": "https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr"
@@ -2025,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j"
       },
@@ -2455,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "SO BAD",
+        "url": "https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239520,
+      "name": "SO BAD",
+      "url": "https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU"
+    },
+    {
+      "album": {
         "name": "Soranji",
         "url": "https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V"
       },
@@ -2777,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Toki Yo Tomare",
+        "url": "https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "Toki Yo Tomare",
+      "url": "https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg"
+    },
+    {
+      "album": {
         "name": "Traffic Jam",
         "url": "https://open.spotify.com/album/0UDGIB1kvgj59dqaPpv4Vf"
       },
@@ -2968,7 +3062,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 189444,
       "name": "WHEN YOUR OWN INITIALS ARE ENOUGH",
       "url": "https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5"
@@ -3076,7 +3170,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 147857,
       "name": "Young & Reckless",
       "url": "https://open.spotify.com/track/3YCK4neOrN9HxtSMbBDlmh"
@@ -3839,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327179,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
+    },
+    {
+      "album": {
         "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
         "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
       },
@@ -4276,7 +4388,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 173000,
       "name": "\u30ea\u30f3\u30b4\u8ffd\u5206",
       "url": "https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj"
@@ -5386,7 +5498,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 173413,
       "name": "\u672a\u78ba\u8a8d\u9818\u57df",
       "url": "https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N"
@@ -5548,7 +5660,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 199520,
       "name": "\u7149\u7344\u3068\u7317\u7aa9\u5ea7\u306e\u6226\u3044",
       "url": "https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx"

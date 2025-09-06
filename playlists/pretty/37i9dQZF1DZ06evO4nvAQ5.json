@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15816,
+  "num_followers": 15819,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAA6XQucfW/d2a2SiqgdFo5v",
+  "snapshot_id": "aLjWgAAAAADjDAPG3ULzubBfjDUGfwjC",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night (with Collie Buddz)",
-        "url": "https://open.spotify.com/album/2lXEEeHeRjDfzKgXwtFLcf"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 179222,
-      "name": "All Night (with Collie Buddz)",
-      "url": "https://open.spotify.com/track/5TAZ1X5HBcc54IGK2kVhle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night (with Collie Buddz)",
+        "url": "https://open.spotify.com/album/2lXEEeHeRjDfzKgXwtFLcf"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 179222,
+      "name": "All Night (with Collie Buddz)",
+      "url": "https://open.spotify.com/track/5TAZ1X5HBcc54IGK2kVhle"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 221666,
       "name": "Good Cry (feat. Chaka Demus)",
       "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 276586,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 248000,
       "name": "She Give Me Lovin'",
       "url": "https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -951,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
       "artists": [
         {
@@ -960,9 +976,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+      "duration_ms": 215423,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1FZcMIsN76Fo1X0j4GHiWv"
     },
     {
       "added_at": null,
@@ -987,22 +1003,6 @@
       "duration_ms": 241675,
       "name": "Fire (with J Boog)",
       "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 215423,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/1FZcMIsN76Fo1X0j4GHiWv"
     }
   ],
   "unique_name": "This Is J Boog",

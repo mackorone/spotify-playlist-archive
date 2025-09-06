@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 385273,
+  "num_followers": 385624,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Nineteen Hundred and Eighty Five",
-      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
-    },
-    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Clandestino",
@@ -439,6 +423,22 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Nineteen Hundred and Eighty Five",
+      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
       "added_at": "2024-04-05 15:58:26",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
+      "added_at": "2024-07-29 19:50:25",
+      "album": {
+        "name": "Live at KEXP!",
+        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 300480,
+      "name": "Move on Up - Live",
+      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
+    },
+    {
       "added_at": "2025-07-07 22:24:21",
       "album": {
         "name": "The Way That I Found You",
@@ -587,22 +603,6 @@
       "duration_ms": 170163,
       "name": "The Way That I Found You",
       "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
-    },
-    {
-      "added_at": "2024-07-29 19:50:25",
-      "album": {
-        "name": "Live at KEXP!",
-        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 300480,
-      "name": "Move on Up - Live",
-      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
     },
     {
       "added_at": "2024-07-20 14:57:35",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Aire",
@@ -695,6 +679,22 @@
       "duration_ms": 257333,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
+    },
+    {
       "added_at": "2023-03-31 18:14:20",
       "album": {
         "name": "Dubby Sunday",
@@ -1011,22 +1027,6 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2023-12-12 18:58:47",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
         }
       ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2022-06-15 04:26:09",

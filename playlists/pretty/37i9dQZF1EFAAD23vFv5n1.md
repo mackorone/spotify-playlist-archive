@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 153 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015 likes - 153 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 77 | [ILY](https://open.spotify.com/track/3xNSenRNckAgpYwgUmCraR) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 2:50 |
 | 78 | [mezzora](https://open.spotify.com/track/7CViHgIDWj7r1SdBoqhvYE) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 3:21 |
 | 79 | [Persi da un po’](https://open.spotify.com/track/4Gzp0NEQyFu41MmC2ig7EG) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 4:33 |
-| 80 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 |
-| 81 | [parquet](https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:31 |
+| 80 | [parquet](https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:31 |
+| 81 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 |
 | 82 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 |
 | 83 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 |
 | 84 | [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 152 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 153 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `Ab7WyAAAAAD59F6eMX6TfITIs4eNk+9+`
+Snapshot ID: `Ab7cXgAAAAClYtZuDN+BwH69fhGTmxnj`

@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Sean McConnell
 
-248 songs - 15 hr 9 min
+250 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Boomerang Town](https://open.spotify.com/track/0nNm9Zf8DK34PM4hi912QM) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [Boomerang Town](https://open.spotify.com/album/1sr75Z5hmmbiH62FLMfdwv) | 7:00 | 2023-02-17 |  |
 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 | 2022-01-28 | 2023-09-16 |
 | [Boy and a Bird Dog](https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Boy and a Bird Dog](https://open.spotify.com/album/0ZzYKjU7Iamiu2Y3kpCwPV) | 3:04 | 2023-06-09 |  |
+| [Brave the Weather](https://open.spotify.com/track/776QfJDeMP0o89mIioNAlU) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Brave the Weather](https://open.spotify.com/album/0l3G6BGVy83pvirPMbO10G) | 4:23 | 2025-09-05 |  |
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 |  |
 | [Chewing on Fire](https://open.spotify.com/track/7rm6fiURucekbrUD8FAv0C) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Chewing on Fire](https://open.spotify.com/album/6FcBsDf1ak4GlyADejPDgL) | 3:15 | 2022-01-28 | 2023-01-14 |
 | [Counting The Days](https://open.spotify.com/track/5WS5tU5fDBhSy3soud3bic) | [The Hanseroth Twins](https://open.spotify.com/artist/3WuWtZ0K4xLMVB2tuZswIZ) | [Vera](https://open.spotify.com/album/2bMv75cm4yqxRklbRe5Zj2) | 4:40 | 2024-07-26 |  |
@@ -242,6 +243,7 @@
 | [Way Down Yonder](https://open.spotify.com/track/39y7924mLMb0Jqv5Z1BWkN) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Way Down Yonder](https://open.spotify.com/album/2FdypF8Zv8d6g2MX8WgyXH) | 3:36 | 2024-01-12 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
 | [Weekend](https://open.spotify.com/track/11jpBiMgL6JzX8ixmrWK6T) | [Landon Smith](https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m) | [Weekend](https://open.spotify.com/album/75z7BsjM6xczGJ8GHEnsX7) | 2:58 | 2025-01-24 |  |
+| [What's Mine](https://open.spotify.com/track/4zYSaNGOSU7HOB5zZD7HSm) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj) | [What's Mine](https://open.spotify.com/album/1EnBb3Gy4rHLE5erfzGCP8) | 3:42 | 2025-09-05 |  |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
 | [Where Berries Grow](https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Where Berries Grow](https://open.spotify.com/album/30vFeCWrEiXEH1MR75ILfU) | 3:36 | 2024-03-08 |  |
 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 | 2023-06-16 | 2023-09-09 |

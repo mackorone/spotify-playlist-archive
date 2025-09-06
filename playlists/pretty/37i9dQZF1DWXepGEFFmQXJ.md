@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Casey Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,995 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,120 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Old Habits](https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Out Of The Blue](https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC) | 3:48 |
 | 50 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
 
-Snapshot ID: `AAAAAFeW7olq+Eb4wG/KDGv7K9UI7Xoe`
+Snapshot ID: `AAAAAJkw83NJJqUsX/CQzEpZDYnTCmBu`

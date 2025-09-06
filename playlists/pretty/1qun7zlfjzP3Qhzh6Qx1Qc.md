@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,509 likes - 71 songs - 3 hr 55 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,509 likes - 77 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,11 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 69 | [Best of all Time](https://open.spotify.com/track/2lQ4DhnocikyEhBJ5JJTKp) | [Dylan Ault](https://open.spotify.com/artist/11cNMNyPrGHQ1dlE7Bk4vR) | [The Thicket](https://open.spotify.com/album/3CWbB6PplDoTKaRG8JAXGp) | 2:37 |
 | 70 | [Hurt Like Hell](https://open.spotify.com/track/2xKhJEyaVHteQSvY2DC6LD) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Hurt Like Hell](https://open.spotify.com/album/7tYdOXQYqw7kcVU2WMl5Ab) | 3:37 |
 | 71 | [Space](https://open.spotify.com/track/3Y5JcHHwKF0G7Clh8Rptbp) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Space](https://open.spotify.com/album/4FnK8TM1LUx1XDN2ovElWM) | 2:43 |
+| 72 | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
+| 73 | [The Other Side](https://open.spotify.com/track/4zVk7LX3BIMnz2ybAParAq) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [The Other Side](https://open.spotify.com/album/1xztMV35hXfqn4JX9Yi727) | 4:32 |
+| 74 | [Jack & Jill Daniel's](https://open.spotify.com/track/30leMI4jjws5W5fEZi4xde) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Jack & Jill Daniel's](https://open.spotify.com/album/5nGxwyuhD6vuC5uPVzPtm5) | 2:43 |
+| 75 | [Call It Home \- A Song for North Dakota](https://open.spotify.com/track/589w3PSILCXwlyl3F5yVEw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Call It Home \(A Song for North Dakota\)](https://open.spotify.com/album/6dZWwVzCkOTvJFwi3KIxaX) | 2:26 |
+| 76 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |
+| 77 | [Savage](https://open.spotify.com/track/2RvHcuwjEda53bWXK4u94z) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [Nashville Canyon, Pt\. 2](https://open.spotify.com/album/4dVwt4sPjocI44fF0mI1bx) | 3:09 |
 
-Snapshot ID: `AAANGIyGyUI7JVDnFyWHxbbFbxduOxLa`
+Snapshot ID: `AAANHtLz8TsqjGzXSOhC9LSgYpYOKpIl`

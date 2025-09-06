@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 212553,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 245654,
       "name": "HDYK",
       "url": "https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s"
@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Long Gone",
+        "url": "https://open.spotify.com/album/50xsM3ZLj2cSluqqsmv65S"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287746,
+      "name": "I'll Be Long Gone",
+      "url": "https://open.spotify.com/track/3emSSwg6s0Zx6jBln382CR"
+    },
+    {
+      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
@@ -3624,6 +3642,28 @@
       "duration_ms": 268515,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
+    },
+    {
+      "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
     },
     {
       "album": {
@@ -4604,7 +4644,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 206609,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/239xpuCOL26d450VZvWFOa"
@@ -5015,6 +5055,24 @@
     },
     {
       "album": {
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/58BVCM9wm5p0XGDQ26UEqa"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/20qPYWhpCFufU2aTPK9ZSu"
+    },
+    {
+      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -5056,6 +5114,24 @@
       "duration_ms": 214493,
       "name": "Stronger Than Me",
       "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
+    },
+    {
+      "album": {
+        "name": "Stuck in the Past",
+        "url": "https://open.spotify.com/album/4Xpzgq0RUH3H6XwCPoGpWy"
+      },
+      "artists": [
+        {
+          "name": "Arman Ayva",
+          "url": "https://open.spotify.com/artist/1DukxxMpzFcNZx5iIJiSK4"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Stuck in the Past",
+      "url": "https://open.spotify.com/track/2a9zhYKxQM8ZArbAkjYzMG"
     },
     {
       "album": {
@@ -5160,7 +5236,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 146680,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A"
@@ -5914,6 +5990,24 @@
       "duration_ms": 264449,
       "name": "Wet",
       "url": "https://open.spotify.com/track/3Pto1BpcgaL0nrU5IdmvKf"
+    },
+    {
+      "album": {
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
     },
     {
       "album": {

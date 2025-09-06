@@ -2,9 +2,9 @@
 
 ### [Rockin' Vibes](https://open.spotify.com/playlist/37i9dQZF1DX2aneNMeYHQ8)
 
-> alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: My Morning Jacket
+> alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Goldie Boutilier
 
-578 songs - 1 day 11 hr 6 min
+580 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2021-11-05 | 2022-01-15 |
 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 | 2022-02-25 | 2024-09-21 |
 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-04-08 | 2024-07-13 |
+| [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-09-05 |  |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-09-16 |  |
 | [Feel Good](https://open.spotify.com/track/5BUPmSpZnwMOmdhmm2kqRC) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Feel Good](https://open.spotify.com/album/0SZQ6wLElyi6n2BbPkkV0z) | 2:47 | 2021-10-01 | 2022-01-22 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-28 | 2025-01-11 |
@@ -176,6 +177,7 @@
 | [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 | 2024-10-14 |  |
 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 | 2024-08-15 |  |
 | [Glory](https://open.spotify.com/track/3mtEW49yCwrQCpmmpJRSMe) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Glory](https://open.spotify.com/album/4nipWjYgC5U5OduxOHQt4s) | 5:42 | 2024-08-02 | 2024-09-21 |
+| [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt), [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 | 2025-09-05 |  |
 | [Golden](https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Golden](https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG) | 3:27 | 2023-05-12 | 2023-11-18 |
 | [Golden](https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:27 | 2023-09-22 | 2024-04-19 |
 | [Gonna Be Me \(the friendship song\)](https://open.spotify.com/track/4mQWiSFhxoo3hbllceNNTo) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y) | [Gonna Be Me \(the friendship song\)](https://open.spotify.com/album/1xN72g072AxdFeiWrIVJZs) | 3:23 | 2024-07-19 | 2024-09-21 |
@@ -330,7 +332,7 @@
 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-10-14 |  |
 | [My Anxiety](https://open.spotify.com/track/0q0Jgj7gvnMLSoCvZjpdSm) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [The Sun Wakes Up Earlier Now](https://open.spotify.com/album/4dbOSFoJRz1Gl4hFhcvVir) | 2:42 | 2021-09-03 | 2022-01-22 |
 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 | 2022-11-11 | 2023-08-27 |
-| [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 |  |
+| [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 | 2025-09-06 |
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2023-04-04 | 2024-10-05 |
 | [My Unveiling feat\. Caroline Kingsbury](https://open.spotify.com/track/5yevccpakm9zoN8Q1qVq1v) | [Big Mother Gig](https://open.spotify.com/artist/0idrDw8R9ZRWdLZxMN1YlE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [My Unveiling feat\. Caroline Kingsbury](https://open.spotify.com/album/0dfK1X3BU4YXlbOD06NQ5O) | 3:01 | 2021-09-17 | 2022-02-12 |
 | [Nasty](https://open.spotify.com/track/2MYnCTl6YBHtLmaExW0agG) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Nasty](https://open.spotify.com/album/3IIGyAcNTNXZ3r6w4cSJmq) | 2:37 | 2021-08-06 | 2022-02-26 |
@@ -512,7 +514,7 @@
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-06-09 | 2024-10-05 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-21 |  |
 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 | 2024-08-30 | 2024-10-15 |
-| [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 | 2024-12-13 |  |
+| [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 | 2024-12-13 | 2025-09-06 |
 | [The Ripple](https://open.spotify.com/track/0zWM14GHB53fJNUNJf5y3H) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [The Ripple](https://open.spotify.com/album/7FCAHU53l7CvZwFfHOEXrH) | 3:24 | 2021-04-02 | 2022-04-09 |
 | [The Rush](https://open.spotify.com/track/0GY2MWZBsPjHJetTPAacuG) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde Eyes, Steady Hands](https://open.spotify.com/album/4PNTQIrZzdj2FJEVzyrxTP) | 3:07 | 2021-01-29 | 2022-01-22 |
 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 | 2022-02-25 | 2023-08-27 |

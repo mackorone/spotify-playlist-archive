@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 62,894 likes - 51 songs - 3 hr 21 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 62,895 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 50 | [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Silverfish](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 |
 | 51 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 
-Snapshot ID: `AAAQ8EXjduzXKjs1D04lV7bdNmtO23CB`
+Snapshot ID: `AAAQ8T8eDjXLJ2Z+M5WAtVk2+3PxuiKF`

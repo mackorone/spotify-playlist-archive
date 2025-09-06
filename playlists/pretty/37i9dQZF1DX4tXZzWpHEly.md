@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,542 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,562 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 40 | [Where Country Is](https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Where Country Is](https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR) | 3:52 |
 | 41 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
 | 42 | [Bird On A Wire](https://open.spotify.com/track/0JeAfKpnBuiRVQdolUtRr7) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Double Happiness](https://open.spotify.com/album/3bU4pTLcfbfy3o61QcPDpn) | 4:28 |
-| 43 | [Down City Streets](https://open.spotify.com/track/4eY6lTOvMqWwy5IVk0A2lb) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 4:04 |
+| 43 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
 | 44 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
-| 45 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
+| 45 | [Down City Streets](https://open.spotify.com/track/4eY6lTOvMqWwy5IVk0A2lb) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 4:04 |
 | 46 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
 | 47 | [Cigarettes & Whiskey](https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 3:38 |
 | 48 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |

@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 277561,
       "name": "Love Will Save Me",
       "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Redbud",
+        "url": "https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5"
+      },
+      "artists": [
+        {
+          "name": "Mossera",
+          "url": "https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Redbud",
+      "url": "https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k"
+    },
+    {
+      "album": {
         "name": "Two Of A Kind",
         "url": "https://open.spotify.com/album/6r6pWY1zNKOqIYAKyqTK50"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 213531,
       "name": "Sat Nam",
       "url": "https://open.spotify.com/track/1jbqoD2ywyqikvk3qS1qWi"

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Laufey",
-  "num_followers": 37452,
+  "num_followers": 38501,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Forget-Me-Not",
-      "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 302408,
       "name": "canal street",
       "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Forget-Me-Not",
+      "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Imaginary Playerz",
-        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 207380,
-      "name": "Imaginary Playerz",
-      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -291,18 +291,34 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 229880,
-      "name": "Just Two Girls",
-      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -323,22 +339,6 @@
       "duration_ms": 211717,
       "name": "No Sharing (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+        "name": "Dancing2",
+        "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
         }
       ],
-      "duration_ms": 180117,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+      "duration_ms": 272803,
+      "name": "Dancing2",
+      "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -487,22 +503,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Dancing2",
-        "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
-      },
-      "artists": [
-        {
-          "name": "Keli Holiday",
-          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
-        }
-      ],
-      "duration_ms": 272803,
-      "name": "Dancing2",
-      "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Los Angeles / Grandmother",
         "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "SPACE INVADER",
-        "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 274302,
-      "name": "SPACE INVADER",
-      "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -555,6 +539,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "SPACE INVADER",
+        "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 274302,
+      "name": "SPACE INVADER",
+      "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "PIKI",
         "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 231365,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Sort It Out",
         "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
       "added_at": "2025-09-03 16:50:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "But, I loved",
-        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "But, I loved",
-      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "But, I loved",
+        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "But, I loved",
+      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 176668,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "Amaya Papaya (No Me Digas Beb\u00e9)",
         "url": "https://open.spotify.com/album/769CJdpfN03cloNudEloUh"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 166400,
       "name": "Amaya Papaya (No Me Digas Beb\u00e9)",
       "url": "https://open.spotify.com/track/1JYCqTzn5vXmTOAF0Ptg6D"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
     },
     {
       "added_at": "2025-08-29 18:25:24",

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "#LaVieDeLocks\u00e9",
+        "url": "https://open.spotify.com/album/7M9QXZCKZhfTNl7CnMoqhG"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140959,
+      "name": "#LaVieDeLocks\u00e9",
+      "url": "https://open.spotify.com/track/3rOAYKxHnLEdl03uouLEPy"
+    },
+    {
+      "album": {
         "name": "+44",
         "url": "https://open.spotify.com/album/4aYW78gBLVZgQsKNT5K194"
       },
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 152347,
       "name": "Chemise italienne",
       "url": "https://open.spotify.com/track/2FpuSJ0F3hBhKGTjCNQgbb"
@@ -8886,7 +8908,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 180053,
       "name": "Num\u00e9ro",
       "url": "https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa"

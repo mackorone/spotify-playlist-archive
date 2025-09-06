@@ -2,9 +2,9 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Anakin Larios & Omar Moreno
+> Lo que diga el corazón ❤️💔 Cover: Saul Villarreal
 
-187 songs - 9 hr 40 min
+189 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 | 2025-08-08 |  |
 | [Estás en Mi Mente](https://open.spotify.com/track/6xgfy6Iql45W8xRYPTRG3R) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Luis Quintana](https://open.spotify.com/artist/5I7pO3fg729nK0gNpG4031) | [Estás en Mi Mente](https://open.spotify.com/album/5aAjvfOZ6bT1wdSVucvEqs) | 3:52 | 2025-04-25 | 2025-07-05 |
 | [EVEREST](https://open.spotify.com/track/1kirDsHLiDcxD5ias9IXUB) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [EVEREST](https://open.spotify.com/album/3Nca2Jc2QeFUpQRUwrEYEe) | 3:06 | 2025-02-28 | 2025-04-26 |
+| [Fantasías](https://open.spotify.com/track/34jKw1BzBbkml9IKq3VRIs) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Fantasías](https://open.spotify.com/album/5DBaCRdrqYkhXIOVjKr4Br) | 3:02 | 2025-09-05 |  |
 | [Feliz Año Nuevo](https://open.spotify.com/track/2c7qukqmQVOn4qLcspoUcN) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Feliz Año Nuevo](https://open.spotify.com/album/195dzz0SiiPFv47u7cigxm) | 3:27 | 2025-01-31 | 2025-07-05 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 | 2024-03-15 |  |
 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 | 2024-03-15 | 2024-10-20 |
@@ -102,6 +103,7 @@
 | [Mamoncita](https://open.spotify.com/track/15Y3OVsWwsM4Gugw9FzRJm) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Mamoncita](https://open.spotify.com/album/6Qk5gPRsNyCTaFjLfdMCwk) | 3:22 | 2024-09-27 | 2025-04-26 |
 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 | 2024-03-15 |  |
 | [Me Dejaste Sin Saber](https://open.spotify.com/track/0OGNDibw65fpEaWaKE7lLv) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Me Dejaste Sin Saber](https://open.spotify.com/album/1uOq3hUUxrryq8vgUBIESQ) | 2:31 | 2024-03-15 |  |
+| [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/track/0UX4OC4mTZdFhmq0cnv7VX) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/album/69ECapQFcIbJLnusOe8Xje) | 2:30 | 2025-09-05 |  |
 | [Me Robaron](https://open.spotify.com/track/3Mvg1j86v0StZyT5zHQib8) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Me Robaron](https://open.spotify.com/album/5kta8yiRYAb1PUZB6dpmpa) | 3:02 | 2025-01-31 |  |
 | [ME TODO](https://open.spotify.com/track/3txgvzWrRcSBSp70btzMmG) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [ME TODO](https://open.spotify.com/album/56HJIyM6FmOn1xEEDoJzz6) | 2:33 | 2024-03-15 | 2024-12-14 |
 | [MERCEDES](https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MERCEDES](https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg) | 2:48 | 2024-04-12 |  |

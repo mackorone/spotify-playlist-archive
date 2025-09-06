@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 149043,
       "name": "DUMB (AATM) - Live",
       "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 212505,
       "name": "The Player",
       "url": "https://open.spotify.com/track/0L22an9RKBbFR3rT1yOS3W"
@@ -2152,10 +2152,6 @@
         {
           "name": "Aya Korem",
           "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
-        },
-        {
-          "name": "Adam Ben Amitai",
-          "url": "https://open.spotify.com/artist/3dF1KjiDK8PzrGlopbnCty"
         }
       ],
       "date_added": "2025-09-04",

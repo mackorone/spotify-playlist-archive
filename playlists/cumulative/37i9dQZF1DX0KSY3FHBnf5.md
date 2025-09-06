@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-275 songs - 12 hr 1 min
+278 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [i miss u](https://open.spotify.com/track/3D56JZdSpVr6fU68PGJjjb) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [i miss u](https://open.spotify.com/album/2tndH9k21LcIZO949Lgu4K) | 1:57 | 2023-09-08 | 2025-02-22 |
 | [i miss u](https://open.spotify.com/track/5bLEOjaCQJTGAoqEI4VJJH) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [i miss u](https://open.spotify.com/album/2t8KHOAzyob3lG6kvUp9sv) | 1:57 | 2023-12-01 | 2024-04-19 |
 | [i still see you](https://open.spotify.com/track/5CPDo29ApERmFG1ZV6Y7Zx) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [i still see you](https://open.spotify.com/album/2cRm93dJr6zS3y0ifPaeFK) | 1:39 | 2023-09-29 | 2025-02-22 |
+| [i was the mistake](https://open.spotify.com/track/1L0V6Tup8erOLfUhIVDidl) | [cinar](https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6) | [i was the mistake](https://open.spotify.com/album/6MDE55CpbD0jcStNt7rjzg) | 1:30 | 2025-09-05 |  |
 | [i'll be your reason](https://open.spotify.com/track/7oVUzvfAjQ632YRsR9J9xe) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [i'll be your reason](https://open.spotify.com/album/6GI2zJqoJD83iIwM65GtGm) | 2:18 | 2023-11-14 |  |
 | [i'm here](https://open.spotify.com/track/2D2lUMUhMZtmJVEBw6euYb) | [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [i'm here](https://open.spotify.com/album/58ftEkov7VSzCvFh03uJim) | 2:24 | 2025-01-31 |  |
 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [exhibit](https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 | 2025-02-21 |  |
@@ -183,6 +184,7 @@
 | [nightlights](https://open.spotify.com/track/6Y9mbCLJiTBKR5ZEtCWeZi) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7), [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk), [your home](https://open.spotify.com/artist/6q53f3ESKAu4uYmklhG2qV) | [nightlights](https://open.spotify.com/album/72BrOfbPQCwCXhMRXBKAJG) | 1:48 | 2023-09-22 | 2025-02-22 |
 | [no need to be alert](https://open.spotify.com/track/6Wp8A5CLtkzOzziugS4hZZ) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [life update, it won't go away](https://open.spotify.com/album/1DXp37nURD8B4VtpbP53om) | 4:00 | 2025-04-24 |  |
 | [non feelings](https://open.spotify.com/track/71EwDM2NV8FVGhsmp4rmUi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [non feelings](https://open.spotify.com/album/5qrLDx3SZlTqILarWrh6wk) | 2:46 | 2023-11-14 |  |
+| [nothing feels right](https://open.spotify.com/track/2ZZsS8evgdKVgN0HqMiArX) | [lost.exe](https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf), [Luke Muzzic](https://open.spotify.com/artist/2P4sIQzRSbTjwWLApeXamY) | [nothing feels right](https://open.spotify.com/album/55rdyukNPP93ysONdiDiSs) | 1:44 | 2025-09-05 |  |
 | [Nova](https://open.spotify.com/track/0exX2Z6w9fC0ET8w4n0iis) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH) | [Nova](https://open.spotify.com/album/0alk8zJzhETdnniJGQwOub) | 1:44 | 2025-01-31 | 2025-07-04 |
 | [Nova](https://open.spotify.com/track/6VczOdO8TqPFS82DxGaNMD) | [comet](https://open.spotify.com/artist/7hUqDEJnvDAU7TuYlC74cy) | [Nova](https://open.spotify.com/album/7uARZw0iN0XH2ioEgDhK7O) | 1:41 | 2023-08-14 | 2025-02-08 |
 | [novocaine](https://open.spotify.com/track/0LIPLcaQQiHe3OfFV8FI9n) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [novocaine](https://open.spotify.com/album/4gtW4XrOdKZBURTc2nqw5F) | 1:53 | 2023-08-25 | 2023-09-30 |
@@ -247,6 +249,7 @@
 | [that's life](https://open.spotify.com/track/15P3OdV6ksFaPuS3dQgflo) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD) | [that's life](https://open.spotify.com/album/67WXwfihTrossmDs4EbLLj) | 1:24 | 2023-09-01 | 2025-02-22 |
 | [The Decision](https://open.spotify.com/track/7xB0YYLRhwQmWgPCgylGFj) | [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX), [CADYY](https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB) | [The Decision](https://open.spotify.com/album/31IUwPsuxiH3NMpu4FPqY4) | 1:53 | 2025-07-17 |  |
 | [the end of story](https://open.spotify.com/track/3bKNDF26cGbibJI9K6ALL5) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [the end of story](https://open.spotify.com/album/64bQaGQbPTf8Hnan5SE0QY) | 1:31 | 2023-08-18 | 2024-10-05 |
+| [the light in your eyes](https://open.spotify.com/track/1ssdD9ZB1s0iGxRjCq67e7) | [Stilte](https://open.spotify.com/artist/6JoJfn9UgVJm4mIWMgMC1f), [mōro](https://open.spotify.com/artist/6NlEWnaqYdKOVUHjocjDSt) | [the light in your eyes](https://open.spotify.com/album/3OrVPqyuqLPUVnDVZdJrHV) | 2:12 | 2025-09-05 |  |
 | [the light will never leave](https://open.spotify.com/track/1vQsYNVBSnS5rlPjp37Xwt) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [the light will never leave](https://open.spotify.com/album/1iuFnNgfkmAPUJuRiDh2DI) | 1:56 | 2023-09-22 | 2025-02-22 |
 | [The Morning Star](https://open.spotify.com/track/12E6jng4MmOhp8hIFWplao) | [Sainte Terrer](https://open.spotify.com/artist/5RclbTDZlLn8jP2vV9WpCp) | [Without land, at Home.](https://open.spotify.com/album/5AtjOmAKuOna2nWNXaVULK) | 2:35 | 2024-12-12 | 2025-07-04 |
 | [therapy](https://open.spotify.com/track/7bVAzBRCZBp3LckH7XOwc8) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [therapy](https://open.spotify.com/album/2fWayccqwXJWqsSrufCJMi) | 1:43 | 2024-10-04 |  |

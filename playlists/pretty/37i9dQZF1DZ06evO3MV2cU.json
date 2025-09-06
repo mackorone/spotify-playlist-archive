@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 139335,
+  "num_followers": 139345,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACWNUw7UfJbtr/eokcRQDgS",
+  "snapshot_id": "aLjWgAAAAABgDF7mU6nucY3OWyE4ePy1",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doesn't He",
-        "url": "https://open.spotify.com/album/2bGNVHr3YSVvj3rUGowO3b"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 255398,
-      "name": "Doesn't He",
-      "url": "https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doesn't He",
+        "url": "https://open.spotify.com/album/2bGNVHr3YSVvj3rUGowO3b"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 255398,
+      "name": "Doesn't He",
+      "url": "https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chris Tomlin & Friends",
         "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "I Lift My Hands",
-      "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 264923,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "I Lift My Hands",
+      "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Your Grace Is Enough",
-      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 298000,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/7HB2ekhcwwsyZ9Vta4s7LP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Your Grace Is Enough",
+      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Nobody Loves Me Like You",
-      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 291410,
       "name": "10,000 Reasons (Bless The Lord)",
       "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Nobody Loves Me Like You",
+      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
     },
     {
       "added_at": null,

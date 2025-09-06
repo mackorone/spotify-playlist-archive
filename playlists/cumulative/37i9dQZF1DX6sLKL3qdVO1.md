@@ -2,9 +2,9 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Shawty lo que necesitas es darle flow\. Anuel AA y Blessd en portada
+> Shawty lo que necesitas es darle flow\. Sech en portada
 
-869 songs - 1 day 22 hr 33 min
+870 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Nostalgia .0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia .0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 | 2025-07-11 |  |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-12-17 | 2022-05-13 |
 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 | 2025-07-04 | 2025-08-23 |
+| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 | 2025-09-05 |  |
 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 | 2025-04-04 | 2025-08-02 |
 | [NUBES](https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [NUBES](https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ) | 2:58 | 2025-03-14 | 2025-05-17 |
 | [Nuestra Canción](https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Nuestra Canción](https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2) | 4:36 | 2023-07-07 | 2023-07-29 |
@@ -814,7 +815,7 @@
 | [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 | 2024-08-09 | 2024-10-12 |
 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 | 2025-07-11 | 2025-08-23 |
 | [Tuci y Perreo](https://open.spotify.com/track/2VClOmlW0HlgnRAVdwVmCC) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Tuci y Perreo](https://open.spotify.com/album/1zRFrvhxG6b38nddak0T3N) | 2:22 | 2023-06-23 | 2023-09-02 |
-| [TULUM](https://open.spotify.com/track/2V7elj6Cvr4CbPinmemkRT) | [Ana Simg](https://open.spotify.com/artist/7nXdrq8t22HH3fouDSBBla) | [TULUM](https://open.spotify.com/album/1yTaRj6e49wN32NHA8UeU8) | 3:10 | 2025-08-01 |  |
+| [TULUM](https://open.spotify.com/track/2V7elj6Cvr4CbPinmemkRT) | [Ana Simg](https://open.spotify.com/artist/7nXdrq8t22HH3fouDSBBla) | [TULUM](https://open.spotify.com/album/1yTaRj6e49wN32NHA8UeU8) | 3:10 | 2025-08-01 | 2025-09-06 |
 | [TURRA & BANDIDA](https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURRA & BANDIDA](https://open.spotify.com/album/7nr3Uu80UMSuJT8RAYbzWb) | 2:36 | 2024-06-21 | 2024-08-24 |
 | [Tus Labios](https://open.spotify.com/track/0EI0p6kX1Ds9bnSnEuUVb6) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Tus Labios](https://open.spotify.com/album/3rRg3xAbZrqoLQCIUBk0MR) | 3:38 | 2022-04-15 | 2023-03-04 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-28 | 2024-01-27 |

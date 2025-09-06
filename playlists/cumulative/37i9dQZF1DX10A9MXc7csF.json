@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Sangre X Sangre \ud83e\ude78",
+  "description": "The new school of M\u00fasica Mexicana. Cover: HERNAN TREJO",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3aTtfvqgxPLqRVdjCa7xIY"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153186,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7z5ZCEHWqTkMRwyVPPpWdC"
+    },
+    {
+      "album": {
         "name": "ANDAMOS GANANDO",
         "url": "https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 205365,
       "name": "AQU\u00cd",
       "url": "https://open.spotify.com/track/21kud6Ye97yEoYGc34Ed1S"
@@ -10747,6 +10765,24 @@
     },
     {
       "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5DBaCRdrqYkhXIOVjKr4Br"
+      },
+      "artists": [
+        {
+          "name": "Saul Villarreal",
+          "url": "https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/34jKw1BzBbkml9IKq3VRIs"
+    },
+    {
+      "album": {
         "name": "Fan\u00e1tico de Ti",
         "url": "https://open.spotify.com/album/6OxZGBGKp28hB02JtUrMl2"
       },
@@ -13024,6 +13060,28 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "album": {
+        "name": "KHALIFA",
+        "url": "https://open.spotify.com/album/1IzpYW7JPQWKu3rGkBfUFt"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244148,
+      "name": "KHALIFA",
+      "url": "https://open.spotify.com/track/0xhszCv5LzzlNWFUJlBky3"
     },
     {
       "album": {
@@ -16347,6 +16405,28 @@
     },
     {
       "album": {
+        "name": "ME OLVID\u00c9 DE LOS DOS",
+        "url": "https://open.spotify.com/album/69ECapQFcIbJLnusOe8Xje"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150168,
+      "name": "ME OLVID\u00c9 DE LOS DOS",
+      "url": "https://open.spotify.com/track/0UX4OC4mTZdFhmq0cnv7VX"
+    },
+    {
+      "album": {
         "name": "Palm Street Music, Vol. 1",
         "url": "https://open.spotify.com/album/7fwncJsgC0MNq75dIOb6Yg"
       },
@@ -19175,6 +19255,28 @@
     },
     {
       "album": {
+        "name": "Los Ultimos Son Los Primeros",
+        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153384,
+      "name": "No Me Preocupo Tanto",
+      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
+    },
+    {
+      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -20538,6 +20640,24 @@
       "duration_ms": 156000,
       "name": "Pal Amor Soy Malo - Remix",
       "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
+    },
+    {
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/0iI1hpOmkFLcLwMlFTNOho"
+      },
+      "artists": [
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293525,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/0HEZRVYA4WDvLHQpan1vFr"
     },
     {
       "album": {

@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
@@ -5266,7 +5266,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 199400,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1gmmAEHwxXEVqZWnG4bwh8"
@@ -7914,7 +7914,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 213870,
       "name": "Misery Eternal",
       "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
@@ -10659,6 +10659,24 @@
     },
     {
       "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/2RJttoIphditrfgq3FEq3j"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221325,
+      "name": "Snapped Neck",
+      "url": "https://open.spotify.com/track/5cex1G9SdIUJjSOWInsJnp"
+    },
+    {
+      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -11404,7 +11422,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 158365,
       "name": "The Cycle Of Violence : Chapter 1",
       "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
@@ -12030,6 +12048,24 @@
       "duration_ms": 254786,
       "name": "The War Within",
       "url": "https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh"
+    },
+    {
+      "album": {
+        "name": "Premonitions",
+        "url": "https://open.spotify.com/album/3AbL2Y4cGSi3ntGQUO4si4"
+      },
+      "artists": [
+        {
+          "name": "Synestia",
+          "url": "https://open.spotify.com/artist/5q6QQFwE4elu0q1HA10HTb"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235612,
+      "name": "The Wretched King and his Hollow Throne",
+      "url": "https://open.spotify.com/track/04fyBcct3BHl12xoctDxzH"
     },
     {
       "album": {
@@ -12914,6 +12950,24 @@
       "duration_ms": 165571,
       "name": "Waste Of Life",
       "url": "https://open.spotify.com/track/1pLnssQzsg2KAUDK9Hltru"
+    },
+    {
+      "album": {
+        "name": "Wasting Your Life",
+        "url": "https://open.spotify.com/album/0fNG3rDkFSEWzU20txdZF8"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Wasting Your Life",
+      "url": "https://open.spotify.com/track/7BY4D6WLMtaT7n4O7t7zPY"
     },
     {
       "album": {

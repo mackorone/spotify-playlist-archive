@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-482 songs - 1 day 0 hr 32 min
+483 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [BOL BALA](https://open.spotify.com/track/3iYVQU3jPzdlYhSggPFFry) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8), [Acent](https://open.spotify.com/artist/5KSpgQtLKE6u0U19xDRLQT) | [BOL BALA](https://open.spotify.com/album/6TkxhriwVqNeTEz93XSVSH) | 3:31 | 2025-07-29 | 2025-08-09 |
 | [Bombay Paar](https://open.spotify.com/track/4JMxy5WKvODimSkRGZOjpi) | [Kalakaar](https://open.spotify.com/artist/4zuIuj8j9aOWqSyxcUilnA), [Khotu Kharkhada](https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ) | [Bombay Paar](https://open.spotify.com/album/2rvUoYCxnec9MdpEj1Rno8) | 2:53 | 2025-08-01 | 2025-08-09 |
 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 | 2023-06-10 | 2023-11-23 |
+| [Boom Baby](https://open.spotify.com/track/0xnRvTeEMv5s8PyYdkRQz8) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Boom Baby](https://open.spotify.com/album/6Jo5d1NqJNVySJB5vV5noP) | 2:25 | 2025-09-05 |  |
 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-06 | 2024-08-20 |
 | [Brownie](https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Brownie](https://open.spotify.com/album/4wW8unHhh5oJsGkjKAm2RV) | 2:44 | 2023-03-28 | 2023-04-11 |
 | [Bum Bum](https://open.spotify.com/track/3iEFn2t4LQtZx52VO0FHJg) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Bum Bum](https://open.spotify.com/album/0M0GX1S7u34MG770aEfiVl) | 3:07 | 2025-01-31 | 2025-03-29 |
@@ -291,7 +292,7 @@
 | [Kundli](https://open.spotify.com/track/4RPl5HADTnGhg02pbURDac) | [Himanshh \(Bhiwani Aala\)](https://open.spotify.com/artist/4nuvEbEBnRXxvBukEdoOT8), [Meenakshi Rana](https://open.spotify.com/artist/2mBnZ5nNGP4oTemBJqFNK1), [Sumit Seedpuriya](https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS) | [Kundli](https://open.spotify.com/album/5Ij2VPdkxumBajruNJrXod) | 2:52 | 2024-09-30 | 2024-10-24 |
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 | 2023-07-07 |
 | [Kurti](https://open.spotify.com/track/6Kd9EZ4sTfSYEXmuzhkdNh) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [3rd Eye](https://open.spotify.com/artist/318a6U8piaVqh1qyTD5sqZ) | [F1](https://open.spotify.com/album/3AqhupPmnUNCvvNEx0F61s) | 2:14 | 2025-02-28 | 2025-05-10 |
-| [La La La](https://open.spotify.com/track/49KgyOphHcrubDxA3PaO55) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [La La La](https://open.spotify.com/album/0W7heKaA6nCObhSIouybei) | 3:08 | 2024-12-13 |  |
+| [La La La](https://open.spotify.com/track/49KgyOphHcrubDxA3PaO55) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [La La La](https://open.spotify.com/album/0W7heKaA6nCObhSIouybei) | 3:08 | 2024-12-13 | 2025-09-06 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-08-31 |  |
 | [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 | 2024-04-10 |
 | [Lal Dabbi](https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo) | [Lal Dabbi](https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM) | 3:04 | 2024-04-18 |  |

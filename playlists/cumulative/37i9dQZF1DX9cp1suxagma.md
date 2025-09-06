@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Nanpa Básico & DFZM
 
-284 songs - 15 hr 0 min
+285 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [No Hay Nadie Más](https://open.spotify.com/track/6wos8Ds5FKMe33GjBHRake) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Hay Nadie Más](https://open.spotify.com/album/2s4avhyZ6V7PbFVM6vPStc) | 3:17 | 2024-04-12 |  |
 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 | 2023-02-17 | 2024-04-19 |
 | [No soy yo](https://open.spotify.com/track/47Q1O0vKdL4QTC9FZdSwT1) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [No soy yo](https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9) | 2:26 | 2023-11-24 | 2024-02-03 |
+| [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 | 2025-09-05 |  |
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 | 2024-09-07 |
 | [No Sé Si Volverá](https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [X Revisitado](https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v) | 4:22 | 2023-04-28 | 2023-11-04 |
 | [Noche Eterna](https://open.spotify.com/track/3qaKKH1lf9vp3InT2wDBiS) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Noche Eterna](https://open.spotify.com/album/12XCMP9FULSvpLDBozulb6) | 2:48 | 2025-05-23 | 2025-05-31 |
@@ -212,7 +213,7 @@
 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 | 2023-07-25 | 2023-09-09 |
 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 | 2024-04-12 | 2024-07-27 |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 |  |
-| [Quédate Aquí](https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quédate Aquí](https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX) | 3:03 | 2023-02-17 |  |
+| [Quédate Aquí](https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quédate Aquí](https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX) | 3:03 | 2023-02-17 | 2025-09-06 |
 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 | 2025-05-16 |  |
 | [RD](https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:34 | 2025-05-16 |  |
 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2023-06-23 | 2023-09-16 |

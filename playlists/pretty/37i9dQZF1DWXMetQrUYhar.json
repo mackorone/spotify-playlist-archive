@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111158,
+  "num_followers": 111154,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "RBF: Part 1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "RBF: Part 1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 221115,
       "name": "Whole Wide World - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "RBF: Part 1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "RBF: Part 1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1120,33 +1120,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 311320,
-      "name": "This Life - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Ride - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+      "duration_ms": 314762,
+      "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1168,17 +1152,33 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
+        "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 314762,
-      "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg"
+      "duration_ms": 209542,
+      "name": "Ride - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "This Life - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1640,22 +1640,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
@@ -1667,6 +1651,22 @@
       "duration_ms": 155797,
       "name": "Go Away - Spotify Singles",
       "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1704,22 +1704,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 248743,
-      "name": "The walker \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
       },
       "artists": [
@@ -1731,6 +1715,22 @@
       "duration_ms": 208159,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 248743,
+      "name": "The walker \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 199575,
-      "name": "Genghis Khan - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 213995,
       "name": "Fire Escape - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 199575,
+      "name": "Genghis Khan - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
     },
     {
       "added_at": "2023-01-11 22:54:33",

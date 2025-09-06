@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Yana
 
-534 songs - 1 day 6 hr 16 min
+537 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 | 2024-03-15 | 2024-03-30 |
 | [Big Wide World](https://open.spotify.com/track/1RLlkQpO7tpHCW2O0Pv43s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Big Wide World](https://open.spotify.com/album/6G5WVhD7EsJIDEXnJ53rUC) | 4:14 | 2022-03-12 | 2022-07-29 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-29 |  |
+| [Black Lung](https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Sunflowers and Leather](https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59) | 3:30 | 2025-09-05 |  |
 | [Black Monday](https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Black Monday](https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz) | 3:19 | 2024-07-12 | 2025-08-16 |
 | [Blood Red](https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost](https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w) | 2:59 | 2023-11-10 | 2024-02-18 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-03-12 | 2024-04-19 |
@@ -309,6 +310,7 @@
 | [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 | 2025-03-21 |  |
 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 | 2021-11-12 | 2023-07-05 |
 | [Mansion](https://open.spotify.com/track/7ksg8Q9dVls297TACKj91s) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mansion](https://open.spotify.com/album/3AiBf52cAcDxVpFnfx8Xjr) | 3:31 | 2024-04-19 |  |
+| [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 | 2025-09-05 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-12-06 |  |
 | [Midnight Man](https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Midnight Man](https://open.spotify.com/album/5Xhlkgcl7indPnmlVpQR12) | 3:09 | 2022-03-12 | 2022-07-21 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-03-12 | 2024-03-30 |
@@ -431,6 +433,7 @@
 | [Summer Fling](https://open.spotify.com/track/6cMcohKXP6ot6mt7jWl8q8) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Summer Fling](https://open.spotify.com/album/31SpGWc5jnAID0YgOSj4Ei) | 3:40 | 2025-05-30 |  |
 | [Summer Wind](https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Summer Wind / All Summer \(Where You Gonna Be?\)](https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh) | 2:40 | 2023-06-16 | 2024-03-16 |
 | [Sweet Ever After \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:31 | 2021-11-12 | 2024-03-30 |
+| [Sweet Tooth](https://open.spotify.com/track/04FZ1kLHEr2YsHDQXWI9Zx) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Easy Street](https://open.spotify.com/album/2bKTADz2Vsmr6jvKzSsEFq) | 3:08 | 2025-09-05 |  |
 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 | 2021-11-12 | 2022-07-27 |
 | [Sword from the Stone](https://open.spotify.com/track/1EGqBPvJRNtBNTuwO3wT3S) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/47uaVUQDYHtEKt6zQpzulP) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-03-12 | 2024-03-30 |

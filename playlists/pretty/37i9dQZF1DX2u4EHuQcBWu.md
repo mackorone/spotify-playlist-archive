@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Recorriendo nuestra tierra a través de su acervo musical\. Omara Portuondo e Ibrahim Ferrer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,454 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,448 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [De Mar y Río](https://open.spotify.com/track/0muyQpbMz1yJkdO4O2hGt1) | [Canalón de Timbiquí](https://open.spotify.com/artist/49qnSNt8EO6ppsKVddyInS) | [De Mar y Río](https://open.spotify.com/album/3AjG16gUxVdNEIv09vKTZE) | 4:45 |
 | 100 | [Alma Latina \(Latin Soul\)](https://open.spotify.com/track/18SVuBSsB0Tku2T4lw4xtX) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Pelé](https://open.spotify.com/album/5pfjjipVUlzwVE2z5T0IdT) | 3:22 |
 
-Snapshot ID: `AAAAAB9qIwCLcUnBrfrvziYA3J4kKIon`
+Snapshot ID: `AAAAAPwruxG0SoJhfmtR12/7015oRjbE`

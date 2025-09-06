@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 845270,
+  "num_followers": 845395,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+      },
+      "artists": [
+        {
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+        }
+      ],
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
         "name": "Found A Light (Beale Street)",
         "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 436130,
       "name": "Found A Light (Beale Street)",
       "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
-      },
-      "artists": [
-        {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Soleil Kr\u00e9yol",
-        "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
       },
       "artists": [
         {
-          "name": "David Walters",
-          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 301653,
-      "name": "Kry\u00e9 Mwen",
-      "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+        "name": "Soleil Kr\u00e9yol",
+        "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "David Walters",
+          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
+      "duration_ms": 301653,
+      "name": "Kry\u00e9 Mwen",
+      "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "R\u00fczgar",
-        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 357558,
-      "name": "R\u00fczgar",
-      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 257019,
       "name": "Nisyan",
       "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "R\u00fczgar",
+        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 357558,
+      "name": "R\u00fczgar",
+      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Mais al\u00e9m (Beyond)",
-        "url": "https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb"
-      },
-      "artists": [
-        {
-          "name": "Zuco 103",
-          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
-        }
-      ],
-      "duration_ms": 208662,
-      "name": "Mais al\u00e9m (Beyond)",
-      "url": "https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Marvin",
         "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Mais al\u00e9m (Beyond)",
+        "url": "https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb"
+      },
+      "artists": [
+        {
+          "name": "Zuco 103",
+          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
+        }
+      ],
+      "duration_ms": 208662,
+      "name": "Mais al\u00e9m (Beyond)",
+      "url": "https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Mount Pleasant Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
         "name": "Keep Me On The Dancefloor",
         "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Kung-Fu Poly",
         "url": "https://open.spotify.com/album/6y8mqYxZf6dRGcL7DwGWxB"
       },
@@ -1903,6 +1903,22 @@
       "duration_ms": 284590,
       "name": "Kung-Fu Poly",
       "url": "https://open.spotify.com/track/5gmOhpIDlh0YslKrKuCcnI"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Rainfalls",
+        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+      },
+      "artists": [
+        {
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        }
+      ],
+      "duration_ms": 216379,
+      "name": "Rainfalls",
+      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1927,38 +1943,18 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Rainfalls",
-        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
       },
       "artists": [
         {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 216379,
-      "name": "Rainfalls",
-      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
-        "name": "No Me Quieres (feat. Fabi Reyna)",
-        "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
-      },
-      "artists": [
-        {
-          "name": "Sumohair",
-          "url": "https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5"
-        },
-        {
-          "name": "Fabi Reyna",
-          "url": "https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "No Me Quieres (feat. Fabi Reyna)",
-      "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
+      "duration_ms": 208444,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -1999,18 +1995,18 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+        "name": "Smiley Virus",
+        "url": "https://open.spotify.com/album/1qVxPJEMoM7g4ZNJup3iNZ"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
         }
       ],
-      "duration_ms": 208444,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+      "duration_ms": 244836,
+      "name": "Smiley Virus",
+      "url": "https://open.spotify.com/track/64NdtfJDKnhkpCik9ohh3U"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -2031,22 +2027,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Smiley Virus",
-        "url": "https://open.spotify.com/album/1qVxPJEMoM7g4ZNJup3iNZ"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 244836,
-      "name": "Smiley Virus",
-      "url": "https://open.spotify.com/track/64NdtfJDKnhkpCik9ohh3U"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Darker Than Blue",
         "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
       },
@@ -2063,18 +2043,22 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+        "name": "No Me Quieres (feat. Fabi Reyna)",
+        "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Sumohair",
+          "url": "https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5"
+        },
+        {
+          "name": "Fabi Reyna",
+          "url": "https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID"
         }
       ],
-      "duration_ms": 343841,
-      "name": "Silence is Golden",
-      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
+      "duration_ms": 203076,
+      "name": "No Me Quieres (feat. Fabi Reyna)",
+      "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -2095,6 +2079,22 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 343841,
+      "name": "Silence is Golden",
+      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/1NEsDdAfrCpJp8iHPrecXY"
-      },
-      "artists": [
-        {
-          "name": "Dumbo Gets Mad",
-          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
-        }
-      ],
-      "duration_ms": 202582,
-      "name": "Pariah",
-      "url": "https://open.spotify.com/track/36gmn5eccYudLIkMJYIret"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Tropical Man",
         "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 226653,
       "name": "Tropical Man",
       "url": "https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/1NEsDdAfrCpJp8iHPrecXY"
+      },
+      "artists": [
+        {
+          "name": "Dumbo Gets Mad",
+          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
+        }
+      ],
+      "duration_ms": 202582,
+      "name": "Pariah",
+      "url": "https://open.spotify.com/track/36gmn5eccYudLIkMJYIret"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -2415,38 +2415,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Basta Parlare",
-        "url": "https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN"
-      },
-      "artists": [
-        {
-          "name": "Siddha-Funk",
-          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
-        }
-      ],
-      "duration_ms": 194768,
-      "name": "Basta Parlare",
-      "url": "https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
-        "name": "Pieteron",
-        "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
-      },
-      "artists": [
-        {
-          "name": "Fulu Miziki",
-          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Pieteron",
-      "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
         "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
       },
@@ -2479,6 +2447,22 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
+        "name": "Basta Parlare",
+        "url": "https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN"
+      },
+      "artists": [
+        {
+          "name": "Siddha-Funk",
+          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+        }
+      ],
+      "duration_ms": 194768,
+      "name": "Basta Parlare",
+      "url": "https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
         "name": "The Age of Aquarius",
         "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
@@ -2491,22 +2475,6 @@
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 353109,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -2531,6 +2499,38 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
+        "name": "Pieteron",
+        "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
+      },
+      "artists": [
+        {
+          "name": "Fulu Miziki",
+          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Pieteron",
+      "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 353109,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
         "name": "Felony / Rile 'Em Up",
         "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
       },
@@ -2547,18 +2547,34 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+        "name": "Orb II",
+        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
       },
       "artists": [
         {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
         }
       ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+      "duration_ms": 201626,
+      "name": "Dantokpa",
+      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
+    },
+    {
+      "added_at": "2025-08-22 09:53:22",
+      "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
     },
     {
       "added_at": "2025-08-22 09:53:22",
@@ -2603,22 +2619,6 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Orb II",
-        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
-      },
-      "artists": [
-        {
-          "name": "Meister Lampe",
-          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Dantokpa",
-      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
-    },
-    {
-      "added_at": "2025-08-22 09:53:22",
-      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
       },
@@ -2635,18 +2635,18 @@
     {
       "added_at": "2025-08-22 09:53:22",
       "album": {
-        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
-        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
       },
       "artists": [
         {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
         }
       ],
-      "duration_ms": 357480,
-      "name": "Yabaal",
-      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     }
   ],
   "unique_name": "Global Groove",

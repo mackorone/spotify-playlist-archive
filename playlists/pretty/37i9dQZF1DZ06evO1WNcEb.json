@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66854,
+  "num_followers": 66855,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABddWud9WeebXndff2g6uzQ",
+  "snapshot_id": "aLjWgAAAAAAIUlh+rlz9ZL59Nz9Pwven",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Alma Abatida (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 276488,
       "name": "A Alma Abatida - Ao Vivo",
       "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 291646,
-      "name": "Deus no Controle",
-      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus, o Brasil Te Adora",
         "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 380760,
       "name": "Eu Quero Ser Santo",
       "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
     },
     {
       "added_at": null,
@@ -870,15 +870,11 @@
         {
           "name": "Central Gospel Music",
           "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO"
         }
       ],
-      "duration_ms": 294183,
-      "name": "Transformada",
-      "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
     },
     {
       "added_at": null,
@@ -994,11 +990,15 @@
         {
           "name": "Central Gospel Music",
           "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO"
         }
       ],
-      "duration_ms": 383490,
-      "name": "Simplesmente Te Adorar",
-      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
+      "duration_ms": 294183,
+      "name": "Transformada",
+      "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
     },
     {
       "added_at": null,

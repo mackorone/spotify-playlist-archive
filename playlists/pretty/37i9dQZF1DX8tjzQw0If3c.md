@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,157 likes - 87 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,158 likes - 87 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

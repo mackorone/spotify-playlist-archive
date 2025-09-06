@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto:Chinoy",
+  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: De Saloon",
   "name": "Rock Chileno",
   "tracks": [
     {
@@ -3849,6 +3849,24 @@
     },
     {
       "album": {
+        "name": "NUNCA NUNCA",
+        "url": "https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B"
+    },
+    {
+      "album": {
         "name": "Fuiste Bueno (Remaster 2022)",
         "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
       },
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 226776,
       "name": "Si Se Me Apaga El Sol",
       "url": "https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild"

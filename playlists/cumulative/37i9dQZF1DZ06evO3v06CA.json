@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
@@ -2744,6 +2744,24 @@
       "duration_ms": 247239,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "album": {
+        "name": "Workin' Man Blues",
+        "url": "https://open.spotify.com/album/0t9ceMJd6kciqcTwNDRWcc"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2025-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315773,
+      "name": "Workin' Man Blues",
+      "url": "https://open.spotify.com/track/2toNxoxpnIjDqHozpOpmm3"
     },
     {
       "album": {

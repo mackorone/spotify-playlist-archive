@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from The Beths
+> Explore all things indie rock right now\. Featuring music from The Last Dinner Party
 
-2,005 songs - 4 day 17 hr 9 min
+2,013 songs - 4 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 | 2023-03-29 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-17 | 2023-07-29 |
+| [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 | 2025-09-05 |  |
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-10-07 | 2023-04-29 |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 | 2022-11-25 |
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
@@ -283,6 +284,7 @@
 | [Brando](https://open.spotify.com/track/74W2WLhCxYJEmOs7fCu76j) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Brando](https://open.spotify.com/album/6VwfxDo0Rc9O4rtKYXxboo) | 3:00 | 2021-06-11 | 2022-06-11 |
 | [Bread Believer](https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Shirt](https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod) | 2:41 | 2024-09-13 | 2024-12-14 |
 | [Break Right](https://open.spotify.com/track/1orNLulzsRmGur5fwQuBfZ) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Break Right](https://open.spotify.com/album/2TPBBafXEdnyCPcU1Q9xGD) | 3:44 | 2025-05-23 | 2025-08-23 |
+| [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 | 2025-09-05 |  |
 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 | 2025-06-06 |  |
 | [Breaking By](https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:53 | 2024-06-14 | 2024-07-27 |
 | [Breaking the Waves](https://open.spotify.com/track/5XDf4vtvaNe0vyu8i447Ew) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Voyager](https://open.spotify.com/album/01U0pmE3UZfB9mSwUkE0m9) | 2:54 | 2021-06-07 | 2022-06-11 |
@@ -427,6 +429,7 @@
 | [coyote \(2015\-2021\)](https://open.spotify.com/track/6D0qeYwdqBBb2x6t2aondQ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [coyote \(2015\-2021\)](https://open.spotify.com/album/5QMTqu4M6I7aiF22lTRKAk) | 6:18 | 2022-04-29 | 2022-07-30 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-30 |  |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-03-03 | 2023-04-22 |
+| [Crashing Highs](https://open.spotify.com/track/0oEKrDeEMP99yUGu9WLSg8) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/0QnNFYZHAtyYCMi8vxl6Rh) | 3:01 | 2025-09-05 |  |
 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 | 2023-11-17 | 2024-01-20 |
 | [Crazed](https://open.spotify.com/track/5QytoiKwnIFaHuIqJWmer5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [Crazed](https://open.spotify.com/album/6lPvlL0riY5AOnFHV19lS1) | 2:01 | 2021-08-13 | 2022-02-01 |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-11-17 | 2024-01-27 |
@@ -531,6 +534,7 @@
 | [Don't Take It Personally](https://open.spotify.com/track/2KBCLxrGtUHGsbQTTabnft) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Don’t Take It Personally](https://open.spotify.com/album/0nPvJX8egjWzT7geR5y8Wc) | 3:40 | 2022-09-02 | 2022-11-19 |
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-02-22 |
 | [DONNIE DARKO](https://open.spotify.com/track/5a6Sd7VuMRuH6t2sYv3Gue) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [DONNIE DARKO](https://open.spotify.com/album/34NmkOQ5HylEjb8wSPoNXv) | 2:37 | 2022-08-26 | 2022-11-19 |
+| [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 | 2025-09-05 |  |
 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 | 2023-08-25 | 2024-02-17 |
 | [Doomsday](https://open.spotify.com/track/3cfgcCQd4wcOzVHpODQbEv) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Doomsday](https://open.spotify.com/album/02zEFZOxorMIOSEs1HIs19) | 2:30 | 2023-05-12 | 2023-07-29 |
 | [Doomsday \- Illuminati Hotties Version](https://open.spotify.com/track/4yb34YrXb9xJ5JLwll0276) | [Mini Trees](https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Doomsday \(Illuminati Hotties Version\)](https://open.spotify.com/album/2nfzbXwQ7h1d7dNFGNTwHy) | 3:30 | 2023-08-25 | 2023-10-14 |
@@ -634,6 +638,7 @@
 | [False Idols](https://open.spotify.com/track/6oofSlzxDnFothYfq2jfCi) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [False Idols](https://open.spotify.com/album/5Ee1l61ddtdGsVf9B7VcfE) | 2:53 | 2021-07-23 | 2022-01-31 |
 | [Family of Six](https://open.spotify.com/track/0a71EDvDZpjJosNHz1a15P) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 4:59 | 2023-09-22 | 2024-01-20 |
 | [Fantasy](https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Fantasy](https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ) | 4:47 | 2024-09-06 | 2025-01-11 |
+| [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-09-05 |  |
 | [Favorite Sin](https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Favorite Sin](https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK) | 3:42 | 2021-07-19 | 2022-01-29 |
 | [Favourite](https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:16 | 2025-07-04 |  |
 | [Feel a Change Coming](https://open.spotify.com/track/4RU0siwktXnmhIRhViHnXr) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Feel a Change Coming](https://open.spotify.com/album/1I7bzhXcBjUCzoqnlDprB5) | 3:18 | 2023-05-26 | 2023-07-15 |
@@ -1422,6 +1427,7 @@
 | [Read the Room](https://open.spotify.com/track/22w30WW0AzmGGwf8lpNB12) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Read the Room](https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw) | 2:33 | 2023-11-10 | 2023-12-16 |
 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-01-26 | 2024-05-03 |
 | [Ready For You](https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Ready For You](https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR) | 3:00 | 2023-08-18 | 2023-09-30 |
+| [Ready To Go](https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [77 \(Pt\. 1\)](https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk) | 3:05 | 2025-09-05 |  |
 | [Real Good Swimmer](https://open.spotify.com/track/1HmyIhCGcpRZX8KiBhNOwJ) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Real Good Swimmer](https://open.spotify.com/album/5pnOGPKxLLHFdwXduv24V0) | 2:22 | 2025-02-21 | 2025-05-17 |
 | [Real I’m Told](https://open.spotify.com/track/1ZT84SGqCu0So44tSJhG2l) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [One Night / Real I’m Told](https://open.spotify.com/album/7377ZR37x8x2qLVk5iHGcE) | 2:04 | 2023-12-01 | 2024-02-17 |
 | [Real Or Magic](https://open.spotify.com/track/2CRHRuOY2KW0gdr6g1VMxd) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Real Or Magic](https://open.spotify.com/album/0b6XUCiA0QGgHDQPVZQGfL) | 3:46 | 2024-03-22 | 2024-06-22 |
@@ -1750,6 +1756,7 @@
 | [The Other Way](https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [The Other Way](https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE) | 3:10 | 2022-08-26 | 2022-11-19 |
 | [The Power](https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [The Power](https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4) | 2:32 | 2023-06-02 | 2023-07-15 |
 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-20 | 2025-08-23 |
+| [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-05 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-04-01 | 2022-11-17 |
 | [The Sound of Music](https://open.spotify.com/track/6CMOvQKKSDoNeDtgolwZET) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Sound of Music](https://open.spotify.com/album/6C6WyEUddjLjNQEEh6Lr7C) | 3:12 | 2022-08-12 | 2022-08-17 |
 | [The Sound of Music](https://open.spotify.com/track/6PUzYXBwsvuP0Db074d9W4) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:12 | 2022-08-12 | 2022-10-15 |
@@ -1977,6 +1984,7 @@
 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 | 2022-08-16 | 2022-11-19 |
 | [Woolgathering](https://open.spotify.com/track/7Ft23DcwyyiTeuiNvXyrSf) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Woolgathering](https://open.spotify.com/album/23MLPEeA9PvusSP1iCdsEQ) | 3:07 | 2023-12-01 | 2024-03-02 |
 | [Words](https://open.spotify.com/track/6DjalgUwaxb7bSv88iMzxG) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Words](https://open.spotify.com/album/51idvHzj31cdleqV2kXpYJ) | 5:08 | 2023-03-10 | 2023-05-27 |
+| [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 |  |
 | [Words and Guitar](https://open.spotify.com/track/0Bcpp4FkZWscayqYaGVRxW) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Words and Guitar](https://open.spotify.com/album/65xHh3Xt6eB7NhIFeEHwLA) | 2:23 | 2022-09-23 | 2022-12-03 |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-07-19 | 2024-11-16 |
 | [Work Out](https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Work Out](https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt) | 3:43 | 2024-01-19 | 2024-04-06 |

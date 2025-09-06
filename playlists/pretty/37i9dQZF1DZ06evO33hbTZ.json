@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5664,
+  "num_followers": 5665,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAChfBEYXXEDkYyKlpmFHxIg",
+  "snapshot_id": "aLjWgAAAAACPPPY5pVr2bJGANdTx2KZw",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOOD and MORE",
         "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 371457,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTORI(The Name of Jesus)",
-        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
-      },
-      "artists": [
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "TOTORI(The Name of Jesus)",
-      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 318727,
       "name": "Dependable God",
       "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOTORI(The Name of Jesus)",
+        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "TOTORI(The Name of Jesus)",
+      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
         "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
@@ -595,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Back",
-        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
       },
       "artists": [
         {
@@ -604,9 +588,25 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 203860,
-      "name": "My Back",
-      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": null,

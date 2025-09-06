@@ -2,7 +2,7 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> The latest in pop\. Cover: Alexander Stewart
+> The latest in pop\. Cover: Faouzia
 
 2,399 songs - 5 day 1 hr 16 min
 

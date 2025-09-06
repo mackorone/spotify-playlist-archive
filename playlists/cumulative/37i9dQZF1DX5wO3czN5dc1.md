@@ -2,9 +2,9 @@
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=DReWExhvQseNOmg2QbauGA">MaWhoo</a>
+> The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4?si=WjYi6otfSNyrJv9kq4X4jg">Murumba Pitch</a>
 
-211 songs - 18 hr 10 min
+212 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Agitação De Chakra](https://open.spotify.com/track/47ooDylz4J30lKWQ8FNz84) | [Sterio T](https://open.spotify.com/artist/6Aj0fNu6zu06zFF90C0PsG), [NkOstA LED](https://open.spotify.com/artist/4DRC8ocg0EFvyngbuiizeO) | [Agitação De Chakra](https://open.spotify.com/album/2kKq6eZlMojv7dyMB0qbKP) | 7:12 | 2025-07-03 | 2025-07-11 |
 | [Almaza](https://open.spotify.com/track/19rX0UU1oRCZ5hbqiwW5ZT) | [Mt Axel](https://open.spotify.com/artist/7myK9BXxSmgYEGapapXZ3p), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h), [KAMUSHEZ](https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS) | [Almaza](https://open.spotify.com/album/5lL7GtdLO1yhQlby8APa7L) | 5:06 | 2025-06-26 | 2025-07-11 |
 | [Amazizi](https://open.spotify.com/track/3k7s1NCPB02rZsGyhhDr8y) | [Ben Scher](https://open.spotify.com/artist/00g9SKnGbLvwi368SCXF7W), [NuroGroove](https://open.spotify.com/artist/6x54M39fgFgXmXvlqWk1nv), [Thabiso Vocalist](https://open.spotify.com/artist/6UYtK5yl8Jw5YdpXytK8j3) | [Amazizi](https://open.spotify.com/album/6YGBnGKPRHxkhgnVx7vraO) | 6:56 | 2025-07-24 | 2025-08-01 |
+| [Angekho](https://open.spotify.com/track/3CPRkePlApKOZylFqehK21) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R) | [Emmanuel \(God Is With Us\)](https://open.spotify.com/album/3S9EfLwJmTrcICVxRHH9iG) | 5:32 | 2025-09-05 |  |
 | [Angels talking](https://open.spotify.com/track/7bfao9M7n6Jz2G6gMR6msg) | [Modisa](https://open.spotify.com/artist/2O0fopkATrQcBkRmYasrNW) | [God's Art](https://open.spotify.com/album/4emZDJ3ChJrmtTCHbMLnsr) | 6:55 | 2025-07-31 | 2025-08-19 |
 | [Angisabi Lutho](https://open.spotify.com/track/7iqJ7rDv8cMXVJvvLekF2p) | [Siziwe Ngema](https://open.spotify.com/artist/6CbhIIVkV02j2uZJzn2S1P), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Angisabi Lutho](https://open.spotify.com/album/0jI4OEttQiFTiqJizxUQry) | 5:09 | 2025-06-19 | 2025-07-04 |
 | [Arcana Dei](https://open.spotify.com/track/1lCA23ozFtmsi5kqVA29VY) | [LERØY](https://open.spotify.com/artist/5PcSFzvJdyE1hClGz9Q5rm), [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif) | [Arcana Dei](https://open.spotify.com/album/7JPitdgbw5eMJ96oAT6z6B) | 5:49 | 2025-08-29 |  |

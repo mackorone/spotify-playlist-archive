@@ -4,7 +4,7 @@
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-251 songs - 12 hr 58 min
+252 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-12-17 |  |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2021-12-17 |  |
 | [La Parranda](https://open.spotify.com/track/0pHebxvuTFdeM4zAM2vwou) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [La Parranda](https://open.spotify.com/album/3WJRbD4hC0Th90UPXhWAc7) | 2:48 | 2022-03-24 | 2022-04-21 |
+| [La Tierra del Olvido \- Versión Salsa](https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Tierra del Olvido \(Versión Salsa\)](https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx) | 4:22 | 2025-09-05 |  |
 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 | 2022-10-06 | 2022-10-25 |
 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-06-21 |  |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-07 |  |
@@ -223,7 +224,7 @@
 | [SORNEROS](https://open.spotify.com/track/72hoUXOjvxRLKjUPSfnYne) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j) | [SORNEROS](https://open.spotify.com/album/2O0jtoWrJwRQpO5Q8mPuiT) | 2:56 | 2025-06-27 | 2025-07-19 |
 | [SPANISH TETEO](https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SPANISH TETEO](https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0) | 3:01 | 2023-11-28 | 2025-02-28 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2025-01-16 | 2025-07-24 |
-| [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 | 2025-01-16 |  |
+| [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 | 2025-01-16 | 2025-09-06 |
 | [SÚBELE EL VOLUMEN](https://open.spotify.com/track/343HgC6SVFtTAgMPlGoNjn) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SÚBELE EL VOLUMEN](https://open.spotify.com/album/7ELT7p5cLIMel3mgOGNYay) | 3:43 | 2021-12-17 | 2023-05-07 |
 | [Ta De Pinga](https://open.spotify.com/track/6ZquSdL7KYhvO9F3RzuVmI) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Ta De Pinga](https://open.spotify.com/album/1PUje53LXjfJdaElDXPIHO) | 3:09 | 2025-06-27 |  |
 | [Te Mueves](https://open.spotify.com/track/23MEeQTkSmsDS6NjL8k6I8) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Te Mueves](https://open.spotify.com/album/7bXAW0bJlKegj77HgbRJm8) | 3:52 | 2022-01-24 | 2022-10-07 |

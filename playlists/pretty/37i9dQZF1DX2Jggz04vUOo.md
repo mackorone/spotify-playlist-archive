@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,935 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,965 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 28 | [La Penúltima](https://open.spotify.com/track/5kd433FVkLvvm6cUCyes2H) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK) | [Mutual Dreams](https://open.spotify.com/album/6dcmZtl735pWyYKXhIu6Zr) | 5:45 |
 | 29 | [I Hope the Goats Come Back \- "Ze\-Hood De\-Sham Lichdal"](https://open.spotify.com/track/7iH76XUlPCuWyERVnXtTih) | [Elijah Minnelli](https://open.spotify.com/artist/4Xq6oL4TFErO5QbPg298CG), [Lansied Nechdelani](https://open.spotify.com/artist/4MNjN1mekr6KyYS9nXc1vh) | [I Hope the Goats Come Back](https://open.spotify.com/album/7dDfsrQTNCpwVsPwaDDA1l) | 4:23 |
 | 30 | [Disappear](https://open.spotify.com/track/0atGiH8qFTQq4CLFSqUHKI) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [REVE D'ELLE](https://open.spotify.com/artist/60yY9zNxog4RS5b5qW0YmN) | [Disappear](https://open.spotify.com/album/3pkkdXxAEgStDQFMY2mrE8) | 4:43 |
-| 31 | [Sila](https://open.spotify.com/track/6kk9AJ4lhuBbCOgCfMygsq) | [Kareem Raihani](https://open.spotify.com/artist/0qyEyMZwiI3lt54j5RwB5h), [Famoudou Konate](https://open.spotify.com/artist/14nWaEMkEWZHty5HaSKKbI) | [Crystal Island Remixes](https://open.spotify.com/album/4QKvdUNjOXZl90Z8qPMcDC) | 5:11 |
+| 31 | [Sila](https://open.spotify.com/track/6kk9AJ4lhuBbCOgCfMygsq) | [Kareem Raihani](https://open.spotify.com/artist/0qyEyMZwiI3lt54j5RwB5h), [Famoudou Konate](https://open.spotify.com/artist/6rmbmPdgASAPRj1NqJc5RB) | [Crystal Island Remixes](https://open.spotify.com/album/4QKvdUNjOXZl90Z8qPMcDC) | 5:11 |
 | 32 | [All the Way](https://open.spotify.com/track/5Zk4iUcotUIcyPeanblxS3) | [ÜNAM](https://open.spotify.com/artist/4BHKv1X2ldBdklzqRfLDFj) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 7:44 |
 | 33 | [Circadia](https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Circadia](https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE) | 6:48 |
 | 34 | [Medicina](https://open.spotify.com/track/6PZcYzN1QWnjpl0NLVzuXY) | [Ohme](https://open.spotify.com/artist/5yAZ4pQw2jMnrEX5u4E3eI) | [Buddha Bar: Summer of Love \(by Ravin\)](https://open.spotify.com/album/1pMLt17BCldb0hTiGN5SLr) | 5:08 |

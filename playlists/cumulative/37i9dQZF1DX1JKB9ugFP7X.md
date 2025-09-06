@@ -2,9 +2,9 @@
 
 ### [Electropop](https://open.spotify.com/playlist/37i9dQZF1DX1JKB9ugFP7X)
 
-> Lo mejor del electropop latino\. Foto: CAMI
+> Lo mejor del electropop latino\. Foto: Vera Frod
 
-185 songs - 11 hr 38 min
+186 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [MULTIPASE](https://open.spotify.com/track/3IAe2szYfJDP7r8jrwnSi2) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW) | [MELANCOPOP](https://open.spotify.com/album/7Le10NIiJwK9hX9ScPOm1h) | 5:02 | 2025-08-15 |  |
 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 | 2023-09-08 | 2024-04-19 |
 | [Nada que ver](https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr) | [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [Solo Juan](https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI) | [Nada que ver](https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI) | 3:13 | 2024-04-26 |  |
+| [Nada seguro](https://open.spotify.com/track/2HlJH2N1edZyVpcggWskLf) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [Nada seguro](https://open.spotify.com/album/402ylanqlhPnpGoU5GjNwp) | 3:09 | 2025-09-05 |  |
 | [Nft](https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Nft](https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim) | 3:41 | 2023-09-08 | 2025-08-16 |
 | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Bernardita Sonzini](https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL) | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm) | 2:43 | 2024-02-02 | 2025-02-22 |
 | [NO ME PREGUNTES](https://open.spotify.com/track/6JKddTJyXbGga6mShraM58) | [Niki Rouge](https://open.spotify.com/artist/6YSEtGjENmA8GPYecg87dQ), [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [ahahahah!](https://open.spotify.com/album/56xzVV8S4I9dz9Wq95NgW1) | 3:36 | 2024-08-23 | 2024-10-19 |

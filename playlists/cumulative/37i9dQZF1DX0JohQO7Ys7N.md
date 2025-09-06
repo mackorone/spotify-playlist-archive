@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue & Toxic Lyrikali
 
-283 songs - 15 hr 55 min
+285 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 | 2024-05-17 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2025-02-13 | 2025-02-21 |
 | [Amua](https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc) | [Nuru](https://open.spotify.com/artist/5IMf5cDbiOoO8qWptlG6Z7) | [Amua](https://open.spotify.com/album/10NNo1CeChuHcDVz8V5kRA) | 3:05 | 2021-12-28 | 2023-07-14 |
-| [Angel in my plane \- Raw Version](https://open.spotify.com/track/5iEEe8pDgMIpZN40d0vNMD) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Angel in my plane \(Raw Version\)](https://open.spotify.com/album/5wBS1QTqhRSl22YQy1UGTM) | 1:27 | 2024-08-08 |  |
+| [Angel in my plane \- Raw Version](https://open.spotify.com/track/5iEEe8pDgMIpZN40d0vNMD) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Angel in my plane \(Raw Version\)](https://open.spotify.com/album/5wBS1QTqhRSl22YQy1UGTM) | 1:27 | 2024-08-08 | 2025-09-06 |
 | [Another](https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Another](https://open.spotify.com/album/6ixgKG1R32BOVDD4SWJPdf) | 3:34 | 2022-11-03 | 2023-10-07 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-27 | 2024-05-24 |
 | [ARUSHA](https://open.spotify.com/track/5wMu7s9qqZBAu6BEsrsklL) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [ARUSHA](https://open.spotify.com/album/3yCFjNsTx8v0dJa5RR9rcX) | 3:30 | 2022-06-23 | 2022-10-28 |
@@ -100,6 +100,7 @@
 | [How Do I Love You?](https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [How Do I Love You?](https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE) | 3:49 | 2025-08-14 |  |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2024-11-29 |
 | [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |
+| [Huyo](https://open.spotify.com/track/0RD4K03Z1EFKw1QzCETdTw) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:46 | 2025-09-04 |  |
 | [Hypnotize](https://open.spotify.com/track/5nOcqh0xXY6ckhXIqvnNyJ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 2:46 | 2025-02-13 | 2025-02-21 |
 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 | 2025-02-13 | 2025-02-21 |
 | [I Got You](https://open.spotify.com/track/5gsRgQ0dYdKhxjo2QGFNIV) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wendy Kay](https://open.spotify.com/artist/12iY7rpJm4nczAeo4kyw7u), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 3:35 | 2024-05-16 |  |
@@ -145,7 +146,7 @@
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-09-13 |  |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-24 | 2023-09-01 |
 | [Love on me](https://open.spotify.com/track/6Ry7RTz5becrzrhVL9ol79) | [Atemi Oyungu](https://open.spotify.com/artist/0dMogZzQ1xyJ6B7Oo5RJeY) | [Love on me](https://open.spotify.com/album/3WSH8cxyBbSpzjzhTo3ayA) | 4:56 | 2025-02-07 |  |
-| [Love Somebody](https://open.spotify.com/track/23Lpx06nI7zNXMQGfBc6fr) | [VISILA](https://open.spotify.com/artist/7KRQBvTwiUh0l5ylQsRttK) | [Love Somebody](https://open.spotify.com/album/7leuw9dFN1tJtTqWR24cwu) | 3:00 | 2024-09-19 |  |
+| [Love Somebody](https://open.spotify.com/track/23Lpx06nI7zNXMQGfBc6fr) | [VISILA](https://open.spotify.com/artist/7KRQBvTwiUh0l5ylQsRttK) | [Love Somebody](https://open.spotify.com/album/7leuw9dFN1tJtTqWR24cwu) | 3:00 | 2024-09-19 | 2025-09-06 |
 | [Love Song](https://open.spotify.com/track/0kYTjcTXayQcdUzohxfAqp) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/0xNOx0ypbNqtjYKKhs1Xza) | 3:11 | 2022-05-26 | 2023-08-25 |
 | [Love Song](https://open.spotify.com/track/6eUMsc38EqwN70ggjXnWBV) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/4ioUbWV9uoKVBGwSiqjrpC) | 3:11 | 2022-05-26 | 2022-08-25 |
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-08-31 | 2024-06-01 |
@@ -155,6 +156,7 @@
 | [Maisha](https://open.spotify.com/track/5ZkpQo8ETp8Vei3eiv3oM7) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Maisha](https://open.spotify.com/album/65o3bGR1inlQ6qqSQqu3c2) | 3:16 | 2024-09-26 | 2024-11-08 |
 | [Malaika](https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV) | 3:42 | 2021-12-28 | 2022-07-15 |
 | [Maovu](https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 3:48 | 2024-11-07 |  |
+| [Mapenzi](https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Mapenzi](https://open.spotify.com/album/6Qh6nUBfyw30o9ejaqv5ok) | 3:53 | 2025-09-04 |  |
 | [Marry U Twice](https://open.spotify.com/track/7Fct3aClhWyZjF600Hz7Kw) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [With Love, Charisma](https://open.spotify.com/album/4j0s1s8NsDwqvCNxBoZLVa) | 3:37 | 2025-02-13 | 2025-02-21 |
 | [Mbali \- Stripped Version](https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Mbali \(Stripped Version\)](https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8) | 3:20 | 2023-02-23 | 2023-03-25 |
 | [Mbuzi](https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Mbuzi](https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm) | 3:09 | 2025-04-25 |  |

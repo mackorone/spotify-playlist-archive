@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,725 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,771 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 2 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 3 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 |
 | 4 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 |
-| 5 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 |
+| 5 | [](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 0:00 |
 | 6 | [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 |
 | 7 | [Bexley .Road](https://open.spotify.com/track/53OSu8BTjuc61B6V9Go2nK) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [Bexley .Road](https://open.spotify.com/album/1AeMtYxe6KGqhivHtThFzC) | 2:50 |
 | 8 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 29 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
 | 30 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 |
 | 31 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
-| 32 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 |
+| 32 | [](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 0:00 |
 | 33 | [C.R.E.A.M POSSE](https://open.spotify.com/track/1upGq2z1JcGm2en01psP8y) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [SIDEWALK 2 STARDOM](https://open.spotify.com/album/0620zH84qFZSX8moLhPCuo) | 3:25 |
 | 34 | [Sit Down Son](https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1) | [Sit Down Son](https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7) | 3:24 |
 | 35 | [Life for Hip\-Hop](https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:53 |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-581 songs - 1 day 23 hr 0 min
+582 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 | 2025-05-16 |  |
 | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/track/18Fbap1b31YBSzvO46CDpb) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/album/3a0zNYcxVl69zNcZAx8zrG) | 7:08 | 2024-04-26 | 2024-05-13 |
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-06-27 |
+| [Ife](https://open.spotify.com/track/30SbSJ28UDIMrZcduXXMmy) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Ife](https://open.spotify.com/album/2oNJr6H7HUWerNcx4xH6HE) | 2:43 | 2025-08-22 |  |
 | [Ikenga](https://open.spotify.com/track/5ViVHmE5JQUyPFob6YQaz8) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Ikenga](https://open.spotify.com/album/3MDKcQW0afcWdDScjm3R4P) | 4:45 | 2023-11-10 | 2023-11-17 |
 | [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 |  |
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-20 |
@@ -580,7 +581,7 @@
 | [YOU ARE GOOD](https://open.spotify.com/track/6iXQadQ6uFvE4ylvl2975l) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE GOOD](https://open.spotify.com/album/1wzXjBVRF9zwhipLOvyViN) | 4:06 | 2024-05-10 | 2024-05-24 |
 | [You Are Good \(Ulungile\)](https://open.spotify.com/track/0xZUjAyA70MKOGSfmvpFJV) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [You Are Good \(Ulungile\)](https://open.spotify.com/album/4coB6IecMPaHUaVGfkNp2E) | 15:12 | 2025-05-30 | 2025-06-13 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-01-26 | 2025-06-27 |
-| [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 |  |
+| [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 | 2025-09-06 |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-09-15 | 2024-03-16 |
 | [You Do All](https://open.spotify.com/track/4W9LFXWcFmPUbSFaEMKIwE) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0) | [You Do All](https://open.spotify.com/album/5THGF7t8qOhlRhKX3MtPfl) | 3:21 | 2025-07-04 | 2025-07-25 |
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-10-27 | 2024-03-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34582,
+  "num_followers": 34586,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAC2rUtFu8YypjXnXDhF+1Us",
+  "snapshot_id": "aLjWgAAAAAAazc703Cq4BshlEstsG4Pu",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebellion Rises",
         "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
@@ -775,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
+        "name": "dellali",
+        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
         },
         {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
+      "duration_ms": 235306,
+      "name": "Madanite",
+      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
     },
     {
       "added_at": null,
@@ -815,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dellali",
-        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
-      },
-      "artists": [
-        {
-          "name": "Cheb Mami",
-          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 235306,
-      "name": "Madanite",
-      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lucky One",
         "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 219072,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Our Spirits Raise Our Voice",
+        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits Raise Our Voice",
+      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
       "duration_ms": 198066,
       "name": "Take Me To Jamaica (feat. Toots Hibbert)",
       "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lift Our Spirits Raise Our Voice",
-        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Lift Our Spirits Raise Our Voice",
-      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
     },
     {
       "added_at": null,

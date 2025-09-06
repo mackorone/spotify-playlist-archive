@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Eric Gales",
-  "num_followers": 140841,
+  "num_followers": 140845,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGhCU3HqD4sk5Z1P22l1WnrLiUs",
+  "snapshot_id": "AAAAAPo/wcLkp3gWlB28U3nJPDa6eg+D",
   "tracks": [
     {
       "added_at": "2025-08-29 04:00:27",
@@ -103,6 +103,26 @@
       "duration_ms": 235253,
       "name": "Pocket",
       "url": "https://open.spotify.com/track/7425NoOizrwarYeXxxUseQ"
+    },
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6yMn7EMp3ASkFC8K3n7RVP"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "duration_ms": 294874,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1J4MnbBNUcjI6XzgYQsSLd"
     },
     {
       "added_at": "2025-08-22 04:00:12",
@@ -1635,22 +1655,6 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Life Is Hard",
-        "url": "https://open.spotify.com/album/0XIyvQNasNYFvDv2CTNj40"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 309653,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/6xU6wKi1YZ8JSvFkWfEEHX"
     },
     {
       "added_at": "2024-02-16 05:01:00",

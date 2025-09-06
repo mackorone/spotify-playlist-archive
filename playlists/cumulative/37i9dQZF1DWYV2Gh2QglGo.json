@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141949,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF"
+    },
+    {
+      "album": {
         "name": "Bobcaygeon",
         "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
       },
@@ -4499,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "One Trick Pony",
+        "url": "https://open.spotify.com/album/2TenFyX2Skm5PiXvsrZuJz"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181085,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/74CYjbZ691m6B1EWX929uz"
+    },
+    {
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
       },
@@ -6148,24 +6184,6 @@
       "duration_ms": 164526,
       "name": "too hot to be sad",
       "url": "https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es"
-    },
-    {
-      "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "date_added": "2025-09-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF"
     },
     {
       "album": {

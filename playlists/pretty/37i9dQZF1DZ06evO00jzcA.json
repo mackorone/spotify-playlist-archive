@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 480106,
+  "num_followers": 480150,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAdkX+RrO+CNqBLR3jQJX0B",
+  "snapshot_id": "aLjWgAAAAABkr63Mea+CKbTrdr7H227V",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Shout It Out Loud",
-      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 224666,
       "name": "Calling Dr. Love",
       "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Shout It Out Loud",
+      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Deuce",
-      "url": "https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 259079,
       "name": "Rock 'N' Roll All Nite - Live",
       "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Deuce",
+      "url": "https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lick It Up",
-        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 274573,
-      "name": "All Hell's Breakin' Loose",
-      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 185333,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 274573,
+      "name": "All Hell's Breakin' Loose",
+      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
     },
     {
       "added_at": null,

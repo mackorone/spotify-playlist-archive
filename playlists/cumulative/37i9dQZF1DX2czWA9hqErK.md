@@ -4,7 +4,7 @@
 
 > Sunday morning whenever you like
 
-911 songs - 2 day 2 hr 57 min
+912 songs - 2 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-06 | 2023-11-08 |
 | [Ghost](https://open.spotify.com/track/3STrStLYHHbwSWopJ3yuj7) | [Hannah Evans](https://open.spotify.com/artist/3oXoiCGV7IVgCEBwHiJM1s) | [Ghost](https://open.spotify.com/album/71pmdc72U1xTn0LIvbp5c7) | 3:47 | 2022-03-29 | 2022-04-08 |
 | [Ghost Of Who](https://open.spotify.com/track/37xhyHXiXLVkYrCoLN0Uli) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Daydreaming \- EP](https://open.spotify.com/album/3cgKqMkYQ0Lknsj59jvy7r) | 3:24 | 2022-04-11 | 2022-04-20 |
+| [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-04 |  |
 | [Give You Love](https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Give You Love](https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0) | 3:38 | 2022-01-17 | 2022-12-03 |
 | [Giving Up](https://open.spotify.com/track/0oTz1tAimsacngMWagNdfB) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Giving Up](https://open.spotify.com/album/6YSG96DO3ly6aSALcvSVqL) | 3:04 | 2022-02-21 | 2022-04-19 |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2022-02-21 | 2022-04-21 |
@@ -766,7 +767,7 @@
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-25 |  |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 | 2025-02-28 |
 | [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2023-12-01 | 2024-07-13 |
-| [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-03-14 |  |
+| [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-03-14 | 2025-09-06 |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-19 | 2025-02-28 |
 | [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-01-10 | 2024-02-24 |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-04-04 |  |

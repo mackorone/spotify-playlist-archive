@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,468 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,527 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 42 | [Vivaldi 4 Seasons, Spring 3 \- Allegro](https://open.spotify.com/track/1PLX1wJD4qEC9s3GbOYMNX) | [Manuele Cid](https://open.spotify.com/artist/61r0gpyOLgDz7475HFaJop) | [Vivaldi's 4 Seasons \- Piano Transcription](https://open.spotify.com/album/3lWVrYODncw4IA2Jkdrwhx) | 3:44 |
 | 43 | [On the Nature of Daylight \- Piano Version](https://open.spotify.com/track/65gmwDiFrJhzKD2lJviFIb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [On the Nature of Daylight \(Piano Version\)](https://open.spotify.com/album/59iPxpMcIyBldU0R169koT) | 5:57 |
 
-Snapshot ID: `AAAAAFvhgMMeiabq5JSv4nYxWzhILhmt`
+Snapshot ID: `AAAAAAiez2k75DgIIQYYjMFM/MvUNqa0`

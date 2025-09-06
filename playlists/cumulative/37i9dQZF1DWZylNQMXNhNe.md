@@ -2,9 +2,9 @@
 
 ### [GLOW Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Pepita, Diego Martins
+> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-224 songs - 11 hr 32 min
+225 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 | 2024-06-26 |  |
 | [Chitãozinho e Xororó](https://open.spotify.com/track/2uU1zHbv6zDoMUfWJTKmkw) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Chitãozinho e Xororó](https://open.spotify.com/album/1TDbFtdiwxayPh9gFctxTO) | 2:52 | 2025-08-03 |  |
 | [coisas triviais](https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [coisas triviais](https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9) | 3:10 | 2025-08-03 |  |
-| [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 | 2024-06-26 |  |
+| [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 | 2024-06-26 | 2025-09-06 |
 | [Contra Corrente](https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [Contra Corrente](https://open.spotify.com/album/0RK21g7bYrnXDjDcTQ64GD) | 3:29 | 2022-12-02 | 2023-02-11 |
 | [CUBA Remix](https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CUBA Remix](https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY) | 2:42 | 2024-06-26 | 2024-07-11 |
 | [Cuntelectual](https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:11 | 2023-06-16 | 2024-06-27 |
@@ -100,6 +100,7 @@
 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 | 2025-07-04 |  |
 | [Fórmula](https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Fórmula](https://open.spotify.com/album/1ncmgUI98E7illDvzbQNt0) | 2:26 | 2023-09-02 | 2023-10-07 |
 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 | 2024-06-26 |  |
+| [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 | 2025-09-05 |  |
 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 | 2025-08-15 |  |
 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-04-29 | 2024-06-27 |
 | [Humano](https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Humano](https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9) | 3:56 | 2022-10-07 | 2023-01-21 |

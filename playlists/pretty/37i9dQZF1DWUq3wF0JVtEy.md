@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,706 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,731 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 |
 | 100 | [Oxygen](https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Oxygen](https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi) | 2:46 |
 
-Snapshot ID: `AAAAAEgz6wPTI7sTTpf0ENsGavVL/zBN`
+Snapshot ID: `AAAAAKg9q6pC6Vj46hl/yrbInGg7kQG7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,656 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,685 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 55 | [Time After Time](https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Time After Time](https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc) | 3:26 |
 | 56 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
 | 57 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 |
-| 58 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 59 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
+| 58 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
+| 59 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 60 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 61 | [Padiante](https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Padiante](https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE) | 2:49 |
 | 62 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 86 | [Amor del bueno](https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid) | [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [Amor del bueno](https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx) | 3:15 |
 | 87 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 |
 | 88 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 |
-| 89 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 |
-| 90 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
-| 91 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
+| 89 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
+| 90 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
+| 91 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 |
 | 92 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 |
 | 93 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
 | 94 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |

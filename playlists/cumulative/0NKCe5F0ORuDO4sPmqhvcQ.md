@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-681 songs - 1 day 14 hr 16 min
+682 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [SURFACING](https://open.spotify.com/track/5xFgju1KjoNX3UACChHNJM) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [CHALLENGER \(DELUXE\)](https://open.spotify.com/album/7G26mMpRGNpk0j8lpxXejl) | 3:46 | 2024-10-21 | 2025-06-07 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |
 | [Sweat](https://open.spotify.com/track/4ZvDs2Mv05yciUumPL2mf9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Sweat](https://open.spotify.com/album/65MmHL2BLe9SMiObhjvYen) | 2:06 | 2023-11-10 |  |
+| [System](https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [System](https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk) | 3:21 | 2025-09-05 |  |
 | [tacit](https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f), [Una Mey](https://open.spotify.com/artist/1XYC7U3Oqy30UdbliCXWNo) | [tacit](https://open.spotify.com/album/4FbPfRAnOxJJmHm1FhPkPn) | 3:08 | 2023-03-30 | 2023-04-01 |
 | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/track/22VszW8gqbHFZlxpvxwfAf) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [2livemafia](https://open.spotify.com/artist/2JQBQCsZW4fQ8gKnXfJfux) | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/album/5rTovmz7pIb8mT0w9zhg78) | 2:46 | 2023-06-18 | 2023-07-20 |
 | [take me far away](https://open.spotify.com/track/7zwBK6O9AXWSjqC4y7POIj) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [take me far away](https://open.spotify.com/album/7J3Y4DM5BkGJtG8FENL5ac) | 5:09 | 2021-11-22 | 2022-01-08 |

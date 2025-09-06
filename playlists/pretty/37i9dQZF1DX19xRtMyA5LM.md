@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: High Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,826 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,832 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oude Kicksen](https://open.spotify.com/track/0ngDRXmotZ8QABStdaHcPt) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Springplank 2 \(Deluxe\)](https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL) | 3:47 |
-| 2 | [Keuzes](https://open.spotify.com/track/2hzwrmcj0tpH8dDsPiqF93) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz), [Siggy](https://open.spotify.com/artist/4jS8SRzZU0jQOYWZ7OkiQr), [D1ns](https://open.spotify.com/artist/2VcimI5jwGX7meCwhrhbEc) | [Keuzes](https://open.spotify.com/album/2YGieQDyPnrxdjoAke6QBB) | 2:51 |
+| 2 | [Keuzes](https://open.spotify.com/track/2hzwrmcj0tpH8dDsPiqF93) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Keuzes](https://open.spotify.com/album/2YGieQDyPnrxdjoAke6QBB) | 2:51 |
 | 3 | [Jus d’Orange](https://open.spotify.com/track/0sNlD2ghk6jQX0vhhMSnIc) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Jus d’Orange](https://open.spotify.com/album/2eg03f8XRz79sEFoSrv44v) | 4:24 |
 | 4 | [Geldmaat](https://open.spotify.com/track/7c8jgMl2dwVBnC4RvBZHtm) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmaat](https://open.spotify.com/album/3ZbovTolXgET9q8sQkomEN) | 2:36 |
 | 5 | [Uomini d’Onore](https://open.spotify.com/track/6cpG23bMKBRor5ZPBTxIRS) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Heinek'n](https://open.spotify.com/artist/5ed6V9Y0zJ86tgeKvgDRKo) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Theezakjes](https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Theezakjes](https://open.spotify.com/album/7oQovlHX14Tuu4x8MGbxeJ) | 2:04 |
 | 60 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 |
 
-Snapshot ID: `AAAAAFA/CVHzF0gQ1/lhdgmiCwWDZxcZ`
+Snapshot ID: `AAAAABxmzOSyzO4/Veby1TMt8R7vbCxd`

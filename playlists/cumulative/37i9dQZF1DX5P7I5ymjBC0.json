@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Fusion music for the soul.  Cover- Kaushiki Chakraborty",
+  "description": "Fusion music for the soul.  Cover- Salim-Sulaiman and Shankar Mahadevan",
   "name": "Fusion Finds",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 471195,
       "name": "Baanware",
       "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 273394,
       "name": "Boondan Boondan (feat. Ankita Joshi)",
       "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
@@ -2012,6 +2012,40 @@
       "duration_ms": 387000,
       "name": "Mere Suron Mein",
       "url": "https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX"
+    },
+    {
+      "album": {
+        "name": "Only Love is Real",
+        "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        },
+        {
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+        },
+        {
+          "name": "Aleif Hamdan",
+          "url": "https://open.spotify.com/artist/0TmInNPGLSWyopwB9XNa2s"
+        },
+        {
+          "name": "Sunaad Anoor",
+          "url": "https://open.spotify.com/artist/44VNDWBX8w7e9WKR767AeC"
+        },
+        {
+          "name": "Bruthuva Caleb",
+          "url": "https://open.spotify.com/artist/07ABY32b4waim4zjiFgI0E"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Merging Parallels- Tribute to Dear Zakir Ji",
+      "url": "https://open.spotify.com/track/1xZa28cOrAorS3RKt6xfBU"
     },
     {
       "album": {
@@ -2992,10 +3026,32 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 368026,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
+    },
+    {
+      "album": {
+        "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ"
+      },
+      "artists": [
+        {
+          "name": "Taufiq Qureshi",
+          "url": "https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228062,
+      "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
+      "url": "https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3"
     },
     {
       "album": {
@@ -3076,6 +3132,24 @@
       "duration_ms": 278000,
       "name": "Roshan",
       "url": "https://open.spotify.com/track/1eWN6erAfKufEeyVy5pEWI"
+    },
+    {
+      "album": {
+        "name": "SAANJH BHAYI",
+        "url": "https://open.spotify.com/album/18W521Po5AvhnhO7hD7nim"
+      },
+      "artists": [
+        {
+          "name": "Nishtha Sharma",
+          "url": "https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207517,
+      "name": "SAANJH BHAYI",
+      "url": "https://open.spotify.com/track/5FuvUFQ72H7rQOclk5squE"
     },
     {
       "album": {
@@ -3756,6 +3830,28 @@
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
+    },
+    {
+      "album": {
+        "name": "Tum Chatur Sughar",
+        "url": "https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+        },
+        {
+          "name": "Sharayu Date",
+          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Tum Chatur Sughar",
+      "url": "https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1"
     },
     {
       "album": {

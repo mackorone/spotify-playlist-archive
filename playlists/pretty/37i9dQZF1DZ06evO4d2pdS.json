@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3587,
+  "num_followers": 3589,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAdTx+Oo8fLzaWLGXfl4CtF",
+  "snapshot_id": "aLjWgAAAAAC5lo84VXu67wyA6bVW3e7/",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have You",
-        "url": "https://open.spotify.com/album/0UTsWJ0n09oRKw56YVqjD3"
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
       "artists": [
         {
-          "name": "Tae The Don",
-          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
-        },
-        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
         }
       ],
-      "duration_ms": 192246,
-      "name": "Have You",
-      "url": "https://open.spotify.com/track/3l4MhzeGFbAYJGGgS9JEmq"
+      "duration_ms": 166730,
+      "name": "Brand New (feat. Layton Green)",
+      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
     },
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+        "name": "Have You",
+        "url": "https://open.spotify.com/album/0UTsWJ0n09oRKw56YVqjD3"
       },
       "artists": [
         {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+          "name": "Tae The Don",
+          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
         },
         {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 166730,
-      "name": "Brand New (feat. Layton Green)",
-      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
+      "duration_ms": 192246,
+      "name": "Have You",
+      "url": "https://open.spotify.com/track/3l4MhzeGFbAYJGGgS9JEmq"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir"
-      },
-      "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 176923,
-      "name": "ADD IT UP",
-      "url": "https://open.spotify.com/track/7uiPi84YedJClCxAxEflia"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INDECISIVE",
         "url": "https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 176744,
       "name": "INDECISIVE",
       "url": "https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 176923,
+      "name": "ADD IT UP",
+      "url": "https://open.spotify.com/track/7uiPi84YedJClCxAxEflia"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hesitation",
-        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
       "artists": [
         {
@@ -808,25 +808,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 133903,
-      "name": "No Hesitation",
-      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+      "duration_ms": 117600,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
     },
     {
       "added_at": null,
@@ -851,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
@@ -860,9 +844,45 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 117600,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hesitation",
+        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 133903,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "Worth The Wait (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
     },
     {
       "added_at": null,
@@ -891,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clock It",
-        "url": "https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P"
-      },
-      "artists": [
-        {
-          "name": "Tae The Don",
-          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Clock It",
-      "url": "https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Time (Gangsta Grillz: Special Edition)",
         "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+        "name": "Clock It",
+        "url": "https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P"
       },
       "artists": [
         {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+          "name": "Tae The Don",
+          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 238571,
-      "name": "Worth The Wait (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
+      "duration_ms": 212210,
+      "name": "Clock It",
+      "url": "https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d"
     },
     {
       "added_at": null,

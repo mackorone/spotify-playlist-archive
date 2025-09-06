@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: CMAT
 
-2,189 songs - 4 day 20 hr 4 min
+2,191 songs - 4 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2020-10-13\* | 2022-04-08 |
 | [Can I Leave Me Too?](https://open.spotify.com/track/0UXVzMwq0mLbV46EJf1naE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Can I Leave Me Too?](https://open.spotify.com/album/4peQzCxicZeoDDiieOkdUh) | 3:43 | 2021-10-04 | 2021-10-20 |
 | [Can I Leave Me Too?](https://open.spotify.com/track/7gJNP36MQMaE3HyyKkwgAO) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 3:43 | 2021-10-08 | 2022-07-29 |
-| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 |  |
+| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 | 2025-09-06 |
 | [Can't Sleep](https://open.spotify.com/track/35xowRCEDithOJLl0A1XcU) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/7CRBrLgKYp3sWbNO4T5zqv) | 3:20 | 2020-10-16 | 2021-01-15 |
 | [Can't Wait To Be Dead](https://open.spotify.com/track/0gqGNbqhZ0RLp3ypz51cHY) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/2pGFIqzeHkIzEdGlORMsTr) | 2:55 | 2020-11-10 | 2021-06-03 |
 | [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 | 2022-12-16 | 2023-02-25 |
@@ -1181,6 +1181,7 @@
 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 | 2022-11-07 | 2023-09-30 |
 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 | 2024-03-22 | 2024-05-02 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-02-25 | 2021-05-28 |
+| [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-05 |  |
 | [Losing You](https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Losing You](https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ) | 2:42 | 2024-02-16 | 2024-02-29 |
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-18 | 2023-09-30 |
 | [Lost Angeles](https://open.spotify.com/track/3AqGCyuUQuzcRqTMMetjqP) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Lost Angeles](https://open.spotify.com/album/47m4v1Gj5pvcylJlBkWLpJ) | 3:11 | 2020-10-20 | 2020-10-21 |
@@ -1244,6 +1245,7 @@
 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 | 2022-05-13 | 2022-07-24 |
 | [MARIE KONDO](https://open.spotify.com/track/58kKUyNFP4Bs6waYKJ9bYD) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [MARIE KONDO](https://open.spotify.com/album/3V8VJqQYCoHLMwqdI0EtbK) | 3:27 | 2021-03-07 | 2021-05-28 |
 | [Marigold](https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Hearth Room](https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO) | 3:22 | 2024-01-12 | 2024-02-08 |
+| [Marigolds](https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Marigolds](https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr) | 2:50 | 2025-09-05 |  |
 | [mario kart \(feat\. Travis Barker\)](https://open.spotify.com/track/30ymFh1FOJFYrxHNwP1NQU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [drinking under the streetlights](https://open.spotify.com/album/5U4bpnZJBgFxmkhLMDmXEz) | 3:15 | 2021-06-04 | 2022-04-15 |
 | [Mariposa](https://open.spotify.com/track/1DoTOLMkoBQBvwL03teDcX) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Mariposa](https://open.spotify.com/album/3odwLJIqls0IKMF5WlQg65) | 3:41 | 2020-10-13\* | 2021-01-21 |
 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-04-04 | 2025-05-10 |
@@ -2096,7 +2098,7 @@
 | [What If I Love You](https://open.spotify.com/track/26kVXR9aQXzDiKggPGnUQR) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/7cf0JlwRmn6rEcKlxhj4za) | 2:38 | 2021-05-04 | 2022-04-11 |
 | [What They'll Say About Us](https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [What They'll Say About Us](https://open.spotify.com/album/7AnQ4YEDYHaeirVTMx6jNp) | 3:07 | 2020-10-13\* | 2021-06-03 |
 | [What Was Mine](https://open.spotify.com/track/1zHmxDTalWGHuQfhabEYhM) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [What Was Mine](https://open.spotify.com/album/1ResES2PhMkD79iA0yAhB0) | 3:14 | 2022-05-13 | 2022-07-21 |
-| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 |  |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 | 2025-09-06 |
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2021-06-11 | 2022-04-15 |
 | [What You're Made Of](https://open.spotify.com/track/3yarLd7RGr79F1jUk5WLlX) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [What You're Made Of](https://open.spotify.com/album/3V1JAPu9uyL0n7DU1hdrzP) | 2:52 | 2021-06-03 | 2021-06-04 |
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |

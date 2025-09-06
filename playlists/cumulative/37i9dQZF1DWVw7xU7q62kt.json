@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 135903,
       "name": "Boketto",
       "url": "https://open.spotify.com/track/7xos61THl5pg88dpoV5mnZ"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 146034,
       "name": "Caresse",
       "url": "https://open.spotify.com/track/5vdXZnMr6JmyOhnEAdQGc9"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 124235,
       "name": "Convertible",
       "url": "https://open.spotify.com/track/68lIqGmFjrdPOrkxvRN01C"
@@ -2280,6 +2280,28 @@
       "duration_ms": 96505,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/536Yb4Zqm9EKCWMjGgLOjk"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/5S45wNLBea5lHy9hhMwjC2"
+      },
+      "artists": [
+        {
+          "name": "Pachakuti",
+          "url": "https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr"
+        },
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2iaBVvvaWxMEpc7aUzcsaw"
     },
     {
       "album": {
@@ -2842,7 +2864,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "El Palo",
       "url": "https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj"
@@ -3898,7 +3920,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 141176,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/7nNck2PhET9OK7epBKwhHz"
@@ -4172,7 +4194,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 170269,
       "name": "Hasta Siempre",
       "url": "https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2"
@@ -4208,7 +4230,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 126315,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/0E4XPubqUlPIihiYi4pgRb"
@@ -4362,7 +4384,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 114418,
       "name": "Hike",
       "url": "https://open.spotify.com/track/0P8ABxAkKJxySRHy1mr5bJ"
@@ -5064,7 +5086,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 135529,
       "name": "JazzRevelations",
       "url": "https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru"
@@ -6110,7 +6132,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 125463,
       "name": "Love",
       "url": "https://open.spotify.com/track/3KmawJyuKs4oQTOL7GsZex"
@@ -6576,7 +6598,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 112531,
       "name": "Milan",
       "url": "https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX"
@@ -8676,7 +8698,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 158136,
       "name": "Reality",
       "url": "https://open.spotify.com/track/4b9EngfGZovzQ8cSkOzrqp"
@@ -9204,7 +9226,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 121379,
       "name": "Show Me Your Style",
       "url": "https://open.spotify.com/track/0glLQ2TjhPQ1QEts10butk"
@@ -11516,7 +11538,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 163373,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/4qn6iJiMF1paNtu5FTVncc"
@@ -12424,7 +12446,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 134709,
       "name": "What's Good",
       "url": "https://open.spotify.com/track/3VDfWzstfrPQSnDirjhBsk"

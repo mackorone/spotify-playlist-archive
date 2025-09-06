@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: LOSTBOYJAY
 
-874 songs - 1 day 23 hr 23 min
+876 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 | 2024-02-16 | 2024-11-16 |
 | [Paradise](https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [OMEM](https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN) | [Paradise](https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb) | 2:54 | 2022-01-14 | 2022-01-22 |
 | [Paranoid](https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Paranoid](https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp) | 2:54 | 2024-03-08 | 2024-08-22 |
+| [Party After Party](https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [Tim Bell](https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY) | [Party After Party](https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd) | 2:39 | 2025-09-05 |  |
 | [Party All Night](https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Chi City](https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF) | [Supah Fly](https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0) | 2:25 | 2022-11-18 | 2023-09-24 |
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-01 | 2024-05-25 |
 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 | 2022-09-23 | 2022-10-29 |
@@ -825,6 +826,7 @@
 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 | 2024-12-06 | 2025-08-30 |
 | [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 | 2025-02-21 |  |
 | [Up All Night](https://open.spotify.com/track/3I7AY6lL2Z3ESLgHNqSdE7) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [BABA NO BABY](https://open.spotify.com/artist/1yqlkMf7u94JWTmUip5VM5) | [Up All Night](https://open.spotify.com/album/3AxNTKF8r1khG4EWKxbiQQ) | 3:47 | 2022-12-02 | 2023-02-11 |
+| [Up Down](https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Up Down](https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY) | 2:52 | 2025-09-05 |  |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-06-10 | 2022-11-19 |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-18 | 2022-06-25 |
 | [Utopia](https://open.spotify.com/track/0vpvhFx17wBN7HHkxUOQUM) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:54 | 2022-01-28 | 2022-06-25 |

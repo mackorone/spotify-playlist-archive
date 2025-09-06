@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,573 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,12 +319,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 309 | [Railway](https://open.spotify.com/track/7oRDB7sKDjs8BAVCMT5F5u) | [Shirakami Woods](https://open.spotify.com/artist/2u4Oz8xl7elEUcJBeEjHqJ) | [HAEILO](https://open.spotify.com/album/7h2FVpyn0jhV44LvfBQXF6) | 5:34 |
 | 310 | [追和等](https://open.spotify.com/track/4ck5ieYY9BBfR8jJ8QaHBp) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [她從廣場回來](https://open.spotify.com/album/1wZzjBuHEk2m8Ov4PvCrxD) | 4:40 |
 | 311 | [幕布 \- i18版](https://open.spotify.com/track/2LRzWE7SGPu6pIWSU7UrwJ) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [i18](https://open.spotify.com/album/0uxb7C98ISjoCXMAf6KpgV) | 1:27 |
-| 312 | [Daily March](https://open.spotify.com/track/5QUjQZNYNowXOwep0ifcpu) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [Bildungsroman](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 8:44 |
-| 313 | [I Am in a Period of Desperation](https://open.spotify.com/track/73ZEVG7qJ1zAZheBNs1moU) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [Bildungsroman](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 4:23 |
-| 314 | [Crashing into Daylight](https://open.spotify.com/track/5kd62GvhIWfkKDkF2LktK1) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [Bildungsroman](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 3:00 |
+| 312 | [每天的行軍](https://open.spotify.com/track/5QUjQZNYNowXOwep0ifcpu) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [成長小說](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 8:44 |
+| 313 | [我進入了絕望的時期](https://open.spotify.com/track/73ZEVG7qJ1zAZheBNs1moU) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [成長小說](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 4:23 |
+| 314 | [撞進白晝](https://open.spotify.com/track/5kd62GvhIWfkKDkF2LktK1) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [成長小說](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 3:00 |
 | 315 | [足球賽](https://open.spotify.com/track/3xClXCsGm0jwNQ8rVke9TX) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [她從廣場回來](https://open.spotify.com/album/1wZzjBuHEk2m8Ov4PvCrxD) | 4:16 |
 | 316 | [歷史](https://open.spotify.com/track/0aZc1A0UAEZB5EkbQPnlKp) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [她從廣場回來](https://open.spotify.com/album/1wZzjBuHEk2m8Ov4PvCrxD) | 5:21 |
-| 317 | [Spring Breeze](https://open.spotify.com/track/2TpOdLdJJ0YXQyVTMSuPmw) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [Bildungsroman](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 7:55 |
+| 317 | [春風](https://open.spotify.com/track/2TpOdLdJJ0YXQyVTMSuPmw) | [Hiperson](https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa) | [成長小說](https://open.spotify.com/album/0geoqHdXRHnEPOF3FXQ94n) | 7:55 |
 | 318 | [Nap](https://open.spotify.com/track/30iKUqKDBuTHFuoTKO6JnS) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Seoul Syntax: Daytime](https://open.spotify.com/album/6XaWgpNvTiMaHQ8kljKUzs) | 2:47 |
 | 319 | [If We](https://open.spotify.com/track/0B2gHPek1XpIoPz08a9kZF) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Seoul Syntax: Nighttime](https://open.spotify.com/album/537r0RArwKr98PU01nmUXF) | 7:53 |
 | 320 | [Time](https://open.spotify.com/track/3jRVqykkkLPk5LOpPoL9qf) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Seoul Syntax: Daytime](https://open.spotify.com/album/6XaWgpNvTiMaHQ8kljKUzs) | 6:41 |

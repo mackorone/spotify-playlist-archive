@@ -2,7 +2,7 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: SPINALL
+> Afrobeats' hottest singles\. Cover: Adekunle Gold, Shoday & Lojay
 
 552 songs - 1 day 2 hr 6 min
 

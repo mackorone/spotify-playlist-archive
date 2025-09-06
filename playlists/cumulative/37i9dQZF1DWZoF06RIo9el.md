@@ -2,7 +2,7 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de agosto 2025\. Cover: J Balvin
+> Lo mejor de septiembre 2025\. Cover: Hamilton
 
 1,289 songs - 2 day 20 hr 20 min
 

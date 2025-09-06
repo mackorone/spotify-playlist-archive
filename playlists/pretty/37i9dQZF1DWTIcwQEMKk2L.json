@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71704,
+  "num_followers": 71721,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Before last month",
-        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 124238,
-      "name": "Before last month",
-      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Intervention",
         "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Endymion",
-        "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
+        "name": "Before last month",
+        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
       },
       "artists": [
         {
-          "name": "R\u00e9ka Ioescu",
-          "url": "https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H"
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
         }
       ],
-      "duration_ms": 152230,
-      "name": "Endymion",
-      "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+      "duration_ms": 124238,
+      "name": "Before last month",
+      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -279,6 +263,22 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Endymion",
+        "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9ka Ioescu",
+          "url": "https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H"
+        }
+      ],
+      "duration_ms": 152230,
+      "name": "Endymion",
+      "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "Softly Spoken",
+        "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
+      },
+      "artists": [
+        {
+          "name": "Atticus Laines",
+          "url": "https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6"
+        }
+      ],
+      "duration_ms": 136691,
+      "name": "Softly Spoken",
+      "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "The last chance saloon",
         "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 167140,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
-        "name": "Softly Spoken",
-        "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
-      },
-      "artists": [
-        {
-          "name": "Atticus Laines",
-          "url": "https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6"
-        }
-      ],
-      "duration_ms": 136691,
-      "name": "Softly Spoken",
-      "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Soft Piano Tunes",
         "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 248350,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "I've Grown Accustomed to Her Face",
-        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
-      },
-      "artists": [
-        {
-          "name": "Graydon Poole",
-          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
-        }
-      ],
-      "duration_ms": 159107,
-      "name": "I've Grown Accustomed to Her Face",
-      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Dolce Far Niente",
         "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "I've Grown Accustomed to Her Face",
+        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "duration_ms": 159107,
+      "name": "I've Grown Accustomed to Her Face",
+      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
       },
       "artists": [
         {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Out of place",
-      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1063,6 +1047,22 @@
       "duration_ms": 150000,
       "name": "Schutter",
       "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Out of place",
+      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Quand vous souriez",
-        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
-      },
-      "artists": [
-        {
-          "name": "Libor Kolman",
-          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
-        }
-      ],
-      "duration_ms": 118250,
-      "name": "Quand vous souriez",
-      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "Quand vous souriez",
+        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
+      },
+      "artists": [
+        {
+          "name": "Libor Kolman",
+          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
+        }
+      ],
+      "duration_ms": 118250,
+      "name": "Quand vous souriez",
+      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "S\u00fcda",
-        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
       "artists": [
         {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
         }
       ],
-      "duration_ms": 202750,
-      "name": "S\u00fcda",
-      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "Clear Day",
         "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 165000,
       "name": "Clear Day",
       "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
+        "name": "S\u00fcda",
+        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "S\u00fcda",
+      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
     },
     {
       "added_at": "2025-09-01 08:08:20",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2025-09-01 08:08:20",
-      "album": {
         "name": "L\u2019herbe verte",
         "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2025-09-01 08:08:20",
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2025-09-01 08:08:20",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
       },
       "artists": [
         {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
         }
       ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2025-09-01 08:08:20",

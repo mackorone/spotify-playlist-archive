@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: CeeDee Lamb and Jalen Hurts",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Saquon Barkley\n and Jalen Hurts",
   "name": "Locked In",
   "tracks": [
     {
@@ -524,6 +524,24 @@
       "duration_ms": 182325,
       "name": "54321",
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/22S7RA5czmRS1cO2XYyzIC"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "5K",
+      "url": "https://open.spotify.com/track/03U9ef5UYs20yiIX4yBnoH"
     },
     {
       "album": {
@@ -7896,7 +7914,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 206985,
       "name": "Imma Shoot",
       "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
@@ -8656,6 +8674,24 @@
       "duration_ms": 148786,
       "name": "KU LO SA",
       "url": "https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO"
+    },
+    {
+      "album": {
+        "name": "L.O.A.T",
+        "url": "https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146266,
+      "name": "L.O.A.T",
+      "url": "https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2"
     },
     {
       "album": {
@@ -17490,7 +17526,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 134634,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb"

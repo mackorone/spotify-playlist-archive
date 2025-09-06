@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 96532,
+  "num_followers": 96544,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADWTs1ZrYStqn4xdyl2y41o",
+  "snapshot_id": "aLjWgAAAAABFAvb9WU2M/PnyGM1z0u6z",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 144032,
+      "name": "Just Say Det",
+      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Splash (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
       },
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
       },
       "artists": [
         {
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 144032,
-      "name": "Just Say Det",
-      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 205274,
       "name": "Word 4 Word",
       "url": "https://open.spotify.com/track/1z8QbRI9w0F4ny1ipjZv3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Federal 3X",
-        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 204073,
-      "name": "Side B!+$#es",
-      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,

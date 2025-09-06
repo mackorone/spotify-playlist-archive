@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-667 songs - 1 day 10 hr 13 min
+667 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-16 | 2022-03-26 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-11 | 2024-09-20 |
 | [L O V E L Y](https://open.spotify.com/track/7999Jc1VgYDhi9p5dZnIdQ) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [B L U N T](https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei) | 2:59 | 2023-11-09 | 2024-08-03 |
+| [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2025-09-04 |  |
 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 | 2024-10-10 | 2025-08-06 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2023-01-12 | 2023-10-13 |
 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 | 2022-03-25 | 2023-01-13 |
@@ -584,7 +585,6 @@
 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 | 2024-11-21 |  |
 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 | 2024-03-13 | 2025-02-06 |
 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 | 2024-11-21 |  |
-| [Track 7](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 0:00 | 2025-09-04 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-21 | 2025-03-08 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2023-01-12 | 2023-06-16 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-01 | 2023-07-08 |

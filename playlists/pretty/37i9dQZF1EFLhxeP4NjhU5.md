@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089 likes - 191 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090 likes - 191 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 139 | [Lamento Tu Perdida](https://open.spotify.com/track/1c47gRjNPik1Y9u9m4ZssL) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 2:41 |
 | 140 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 |
 | 141 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
-| 142 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 3:10 |
-| 143 | [TÚ ME CALIENTAS](https://open.spotify.com/track/2BJjvprQHjeFUVviLwK1a3) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 3:08 |
+| 142 | [TÚ ME CALIENTAS](https://open.spotify.com/track/2BJjvprQHjeFUVviLwK1a3) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 3:08 |
+| 143 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 3:10 |
 | 144 | [Corazón De Metal](https://open.spotify.com/track/0jpOYcaDlWUD1c4IlI2DJX) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:53 |
 | 145 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 | 146 | [ME VA KABRXXN](https://open.spotify.com/track/09pwpFDIkZ1FrvEHdmMg6F) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 4:16 |
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 166 | [Bebé](https://open.spotify.com/track/0XLmQ64LLRpUzsPjGVytZP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bebé](https://open.spotify.com/album/4DP0QyIrLQXIkhU7tXeAMP) | 3:24 |
 | 167 | [Quiero](https://open.spotify.com/track/0mD0bi4kxvKYJh8stjNN8G) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
 | 168 | [EL NIÑO](https://open.spotify.com/track/6inSd4dgpqoeXdPzP3B6ac) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:10 |
-| 169 | [Frozen](https://open.spotify.com/track/6qiPrJwiT5BHKeGPF11cTO) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:40 |
-| 170 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
+| 169 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
+| 170 | [Frozen](https://open.spotify.com/track/6qiPrJwiT5BHKeGPF11cTO) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:40 |
 | 171 | [LA MINI](https://open.spotify.com/track/0VgcHeHNVJlDN8U1BuoksG) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:09 |
 | 172 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
 | 173 | [DALE BANDA](https://open.spotify.com/track/3uvI3MwIB42qk0QEGtQpgT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:55 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 190 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 | 191 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 
-Snapshot ID: `Ab7WyAAAAAAMeUq/ux+kuuUiEyIS07ho`
+Snapshot ID: `Ab7cXgAAAABvnbBsIc7FGrORJaNj/+Z8`

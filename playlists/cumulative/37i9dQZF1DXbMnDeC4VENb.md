@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-407 songs - 23 hr 0 min
+410 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 |  |
 | [Contacto](https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Contacto](https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm) | 2:42 | 2025-01-03 |  |
 | [Corazón Frío](https://open.spotify.com/track/6xCltTC8YJC4JYQCfCbvuy) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Corazón Frío](https://open.spotify.com/album/4V2Qhhq5WnanWILWxP1Nic) | 3:21 | 2024-07-05 |  |
+| [Costumbre](https://open.spotify.com/track/2o7Ry05Ujg5TURr0AZSeGE) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Costumbre](https://open.spotify.com/album/5TB8hUF9gIlurfM8sguvhy) | 2:57 | 2025-09-05 |  |
 | [CRUZ](https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CRUZ](https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq) | 3:03 | 2025-01-31 |  |
 | [Cuando Piensas en Mí](https://open.spotify.com/track/166T5iL97Xaxb35mCV6abl) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Cuando Piensas en Mí](https://open.spotify.com/album/37lc9vW6VRCTxvVQ2wKQSs) | 4:18 | 2025-02-13 | 2025-03-08 |
 | [Cuanto Te Quiero](https://open.spotify.com/track/0jGb8pJxrEYSFlODVZ4k7D) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Cuanto Te Quiero](https://open.spotify.com/album/2pVZlqqcCf4Pk0JSPFIlsU) | 3:20 | 2024-09-20 |  |
@@ -305,6 +306,7 @@
 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 | 2022-05-25 |  |
 | [Se Necesitan 2](https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Se Necesitan 2](https://open.spotify.com/album/34SOXYIKwUMFnELZxO7fNF) | 3:47 | 2025-03-07 |  |
 | [Se Pausó](https://open.spotify.com/track/2HEbm1kXXirjYlB0f17uz7) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF), [Pobre Drums](https://open.spotify.com/artist/4j3S0DKZF3Lc8ccqMPdMsM) | [Tú](https://open.spotify.com/album/7JzSJSKExEK54ge8ttcb9Q) | 3:38 | 2025-02-13 | 2025-03-08 |
+| [Se Te Olvidó Que Te Gustaba](https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Se Te Olvidó Que Te Gustaba](https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3) | 2:56 | 2025-09-05 |  |
 | [Secreto de Dos](https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Secreto de Dos](https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu) | 2:29 | 2023-05-19 |  |
 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 | 2022-05-25 |  |
 | [Seres Nocturnos](https://open.spotify.com/track/2F4svAxDPSbQJdj2DpWRsg) | [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w), [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Mac xyx](https://open.spotify.com/artist/1Avj2E3QoYRHzsHqWgNrgz) | [Nocturno](https://open.spotify.com/album/2qMmsKkcDuAhHqwVd9u2JL) | 3:16 | 2025-02-13 | 2025-03-08 |
@@ -409,6 +411,7 @@
 | [Who Is You](https://open.spotify.com/track/6fPnZzvRSiKQkhykvHcig6) | [Lil Ziphe](https://open.spotify.com/artist/5gKNOrBwEkdK7jhGqnSYWW) | [iLoveUZiphe](https://open.spotify.com/album/0jIM2QicdRWn1TzsLxEWQQ) | 1:20 | 2025-02-13 | 2025-03-08 |
 | [Ya Sabes Como Soy](https://open.spotify.com/track/4cWIAA9Ua0eEEoZDq8T0Ti) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Ya Sabes Como Soy](https://open.spotify.com/album/524s7F2BKNuGcTVrUmSAe9) | 2:56 | 2024-05-10 |  |
 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 | 2022-05-25 |  |
+| [Yo No Falle](https://open.spotify.com/track/5RPfVviu5jQQrn70CB0Ega) | [Boxor One](https://open.spotify.com/artist/5VcJEsRA3xILLXS3qIl1F7), [Liriko Wan](https://open.spotify.com/artist/6khtPUv6tk5DBepyI3Urq6) | [Yo No Falle](https://open.spotify.com/album/28RbW0K3IVpyoqW6pcm3Sk) | 3:23 | 2025-09-05 |  |
 | [Yo No Soy](https://open.spotify.com/track/6OY8DC8OJN1qtZR6HGaMmC) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Yo No Soy](https://open.spotify.com/album/6LUFu6sJ1QVNVDpmy2yWOn) | 2:34 | 2025-04-25 |  |
 | [Yo No Te Saqué De Mi](https://open.spotify.com/track/6UAUGNt0hJPh7R0eSopJ9Z) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [QubaMV](https://open.spotify.com/artist/7uPZLuL1w4s4uIo1nHQecy) | [Yo No Te Saqué De Mi](https://open.spotify.com/album/43FuNl8WtXvVi9sh1jrSHV) | 3:39 | 2025-01-31 |  |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 |  |

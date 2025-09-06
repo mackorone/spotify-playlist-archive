@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49429,
+  "num_followers": 49428,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAqXdNdEY/MJgrHKLJdFn3z",
+  "snapshot_id": "aLjWgAAAAACcnGHI+so3B1p3RFKchiaX",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6nRu1dwPkZlk467QaV1Q0N"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/2XmcVGC8s33zjG2aeVTnFe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
         "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 167649,
       "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
       "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "demons",
-        "url": "https://open.spotify.com/album/6nRu1dwPkZlk467QaV1Q0N"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 214463,
-      "name": "found my friends",
-      "url": "https://open.spotify.com/track/2XmcVGC8s33zjG2aeVTnFe"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "somewhere between the sand and the stardust",
-        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 210918,
-      "name": "somewhere between the sand and the stardust",
-      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Missed Calls (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 154324,
       "name": "Missed Calls (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "somewhere between the sand and the stardust",
+        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 210918,
+      "name": "somewhere between the sand and the stardust",
+      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 181587,
-      "name": "Maple",
-      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
+      "duration_ms": 206618,
+      "name": "A Belle to Remember",
+      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 206618,
-      "name": "A Belle to Remember",
-      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
+      "duration_ms": 181587,
+      "name": "Maple",
+      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
     },
     {
       "added_at": null,

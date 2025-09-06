@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,725 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,731 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 66 | [I Love You \(Remix\)](https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [I Love You \(Remix\)](https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim) | 3:13 |
 | 67 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
 | 68 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 |
-| 69 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
-| 70 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
+| 69 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
+| 70 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
 | 71 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 |
 | 72 | [Fallin In Love](https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:11 |
 | 73 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 96 | [Capuchino de Amor](https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Capuchino de Amor](https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq) | 4:58 |
 | 97 | [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 |
 | 98 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
-| 99 | [Wait](https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 2:31 |
-| 100 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 |
+| 99 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 |
+| 100 | [Wait](https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 2:31 |
 
 Snapshot ID: `AAAAAKOrrBS7rR7ag82kjYeqsbuyAudM`

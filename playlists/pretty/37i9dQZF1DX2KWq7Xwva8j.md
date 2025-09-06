@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: LUSILLON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,760 likes - 43 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,762 likes - 43 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

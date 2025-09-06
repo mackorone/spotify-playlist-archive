@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,501 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 17 | [ENEMIES \(feat\. bludnymph & Shift K3Y\)](https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 2:26 |
 | 18 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
 | 19 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 |
-| 20 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/1GFec99STPgAqDBqiitcLt) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/6qewFXnzaboTiupNP8r6nn) | 2:43 |
-| 21 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:45 |
+| 20 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:45 |
+| 21 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/1GFec99STPgAqDBqiitcLt) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/6qewFXnzaboTiupNP8r6nn) | 2:43 |
 | 22 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 |
 | 23 | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/track/7zy9giuWVVJPCalGuWciBf) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/album/1sivAzc3StL99nZrQ89oTq) | 2:48 |
 | 24 | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q) | 2:03 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 28 | [Lavender](https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn) | [EZ Ice](https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lavender](https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA) | 2:43 |
 | 29 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `aLeFAAAAAAApa1M8vXGz5J2H1KdRTudW`
+Snapshot ID: `aLjWgAAAAACmeSugON9LEyXuUYFPzueP`

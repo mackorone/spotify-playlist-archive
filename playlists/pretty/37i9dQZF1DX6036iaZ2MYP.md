@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,239 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,592 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 9 | [Blessure](https://open.spotify.com/track/7heheu7pz2HHQE3vH6oQhM) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Blessure](https://open.spotify.com/album/3WI60B60Hhdfio82BdqTH6) | 2:40 |
 | 10 | [Jamming](https://open.spotify.com/track/6GD4Vt3dfa9vMbNkrOvzgS) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Jamming](https://open.spotify.com/album/7oJhbulsOpn1cGRIlFWouL) | 2:21 |
 | 11 | [Pardon](https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:53 |
-| 12 | [Track 3](https://open.spotify.com/track/5fQuG6aDMyfQ18iMMmJpLY) | [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [I, Became](https://open.spotify.com/album/2SgTeyciuLPYVjoub225zM) | 0:00 |
+| 12 | [Ji Jo Mi](https://open.spotify.com/track/5fQuG6aDMyfQ18iMMmJpLY) | [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [I, Became](https://open.spotify.com/album/2SgTeyciuLPYVjoub225zM) | 2:49 |
 | 13 | [EARLY](https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 2:47 |
 | 14 | [Dans la vie](https://open.spotify.com/track/7CbdySyInULCC4RCbQX4YW) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [En Attendant Pour Le Peuple...](https://open.spotify.com/album/4D43Fk8INWtQA8wCHEdr8i) | 2:49 |
 | 15 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |

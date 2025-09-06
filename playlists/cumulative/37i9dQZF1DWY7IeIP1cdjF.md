@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Blessd, Fuerza Regida, Ovy On The Drums, Bad Bunny, Feid and more\. 🔥🍑
+> Reggaeton hits from Feid, Blessd, Fuerza Regida, Ovy On The Drums, Bad Bunny, and more\. 🔥🍑
 
 659 songs - 1 day 12 hr 13 min
 

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-829 songs - 2 day 6 hr 31 min
+831 songs - 2 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Contact](https://open.spotify.com/track/1JYsB74OPOHzVcyPPnBZbb) | [Soap Dodgers](https://open.spotify.com/artist/6mbdzxwYn2azIvdjQ9uINq) | [Ill Minded / Contact](https://open.spotify.com/album/3I4FrmegOLTrEQXDBxr43q) | 5:58 | 2022-02-17 | 2022-04-08 |
 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-25 |  |
 | [Contra Theory](https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Allusions LP](https://open.spotify.com/album/6QxS88nXazeU2qITa5aKOX) | 5:21 | 2022-02-17 | 2023-04-23 |
-| [Control](https://open.spotify.com/track/4J6ZXhcKEy7Dsg8ERMN17e) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Control](https://open.spotify.com/album/7EE8YvysQ7SzedaQ3Izw5i) | 2:31 | 2024-09-30 |  |
+| [Control](https://open.spotify.com/track/4J6ZXhcKEy7Dsg8ERMN17e) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Control](https://open.spotify.com/album/7EE8YvysQ7SzedaQ3Izw5i) | 2:31 | 2024-09-30 | 2025-09-06 |
 | [Control](https://open.spotify.com/track/1aY7v8HDi8RbDzThPyt1xo) | [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI), [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [Control](https://open.spotify.com/album/3udTNWALNOp3aW7alYlk9M) | 2:23 | 2023-11-24 | 2024-02-06 |
 | [CONTROL](https://open.spotify.com/track/5qapnzaAfva9OaYEsgkfbs) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Salvador Breed](https://open.spotify.com/artist/3Fm7ghphFsZmeStY1gxcp2), [VIER](https://open.spotify.com/artist/4dU80Fb1kJfjhzcm7pdoTZ) | [CONTROL](https://open.spotify.com/album/7mMAtdKKnTLuAhqH5GSPPa) | 3:28 | 2025-02-16 | 2025-05-24 |
 | [Cool & Relax](https://open.spotify.com/track/3jntNZjyiC3Hszr5u1ZGnn) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV), [Nazamba](https://open.spotify.com/artist/4VqHq2AKycABRwXxTGVHSG) | [Cool & Relax](https://open.spotify.com/album/70SLEvGGpicx4iyfOzohvz) | 4:26 | 2023-03-17 | 2024-05-11 |
@@ -528,6 +528,7 @@
 | [Outsider](https://open.spotify.com/track/07y4T2wnzanwqOd1oKJ1Gl) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/2yrmCs1rJzdEJHAiaQY8lV) | 5:05 | 2022-07-08 | 2023-01-14 |
 | [Outsider](https://open.spotify.com/track/1oXyK54bcvrHNNtSOAgHDw) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/4AnGaGVFpOVLacdRqyGQ83) | 5:05 | 2022-02-17 | 2022-07-29 |
 | [Over Deh So](https://open.spotify.com/track/23RPCs2edmTWH0yJTCiz6m) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:09 | 2022-02-17 | 2022-05-08 |
+| [Overindulged](https://open.spotify.com/track/0c4cQQixZmZBoqdvd6RwmG) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Overindulged](https://open.spotify.com/album/1y3VjmGP3YHyT4WwkbGiKR) | 2:27 | 2025-09-05 |  |
 | [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-06-30 | 2024-12-04 |
 | [Oxygen Thief](https://open.spotify.com/track/4dKvLFYdo7n0zocw2V7k69) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Fade Away / Oxygen Thief](https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi) | 3:12 | 2025-01-04 | 2025-05-14 |
 | [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 | 2022-11-30 |
@@ -720,7 +721,7 @@
 | [Take it or Leave It](https://open.spotify.com/track/2W1ktdyrDicViPdd9swErb) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp), [Rakjay](https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ) | [Nintendo EP](https://open.spotify.com/album/0eKI9p9akhOoj35BlLtrrr) | 4:07 | 2022-02-17 | 2024-02-17 |
 | [Takedown](https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Takedown](https://open.spotify.com/album/62Nx27SgklKgnjIDB1A99T) | 2:51 | 2024-03-22 | 2024-05-04 |
 | [TAKEOVER](https://open.spotify.com/track/67WDY2hObxfRUiEv2DnPAd) | [CURE97](https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [TAKEOVER](https://open.spotify.com/album/0fqYS9tydJyWXGLx1aCQLu) | 2:56 | 2024-03-29 |  |
-| [Taksim](https://open.spotify.com/track/3ZO14P3VmBG9gcaQ4iGuMr) | [GUNS](https://open.spotify.com/artist/0aPLyRHBlZvPI3X8sEIQWi) | [Taksim](https://open.spotify.com/album/2lWq10z2VE1Bw65I6Va59Z) | 3:09 | 2025-02-07 |  |
+| [Taksim](https://open.spotify.com/track/3ZO14P3VmBG9gcaQ4iGuMr) | [GUNS](https://open.spotify.com/artist/0aPLyRHBlZvPI3X8sEIQWi) | [Taksim](https://open.spotify.com/album/2lWq10z2VE1Bw65I6Va59Z) | 3:09 | 2025-02-07 | 2025-09-06 |
 | [Tales from the Crypt](https://open.spotify.com/track/5UzDfhUtdORIjbIYvL0dxs) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Flutez](https://open.spotify.com/album/1106tOwKKH5kZnNB7O5mMh) | 4:13 | 2022-02-17 | 2025-08-30 |
 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 | 2025-05-30 |  |
 | [Target System](https://open.spotify.com/track/2Ey0imcbIgO4Thy6FhLIas) | [ION](https://open.spotify.com/artist/5GHZ1tSpSQid2oKqe2Yo9d) | [The Prophecy: Volume 9](https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42) | 3:07 | 2024-01-12 | 2024-05-26 |
@@ -794,6 +795,7 @@
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-22 | 2022-10-08 |
 | [Wake UP](https://open.spotify.com/track/5tiKz376uXROAzXTdDZi2a) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Wake UP](https://open.spotify.com/album/2WcBVDyY61Ma7KIWTftcQB) | 3:46 | 2025-01-10 | 2025-02-28 |
 | [Wanchai](https://open.spotify.com/track/5TOrZM4bLcvrJSRSeSGO4y) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Wanchai](https://open.spotify.com/album/0KxrYioG8RSZf2YK6ntuOb) | 3:46 | 2023-09-22 | 2024-08-20 |
+| [Want To Go](https://open.spotify.com/track/0g6N8pe0YwPd962Tckv2gn) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Want To Go](https://open.spotify.com/album/1stf6s1Nxxgy6WLPpxIOC9) | 2:49 | 2025-09-05 |  |
 | [WANTS/NEEDS](https://open.spotify.com/track/0gkwto0Jdn9lMPJV8gkgQA) | [Cozy Kev](https://open.spotify.com/artist/7e0CLdbVq8tdRGfh8Tf6JB) | [WANTS/NEEDS](https://open.spotify.com/album/6hxefNk8O1xC7caW0t7luK) | 2:37 | 2025-06-06 |  |
 | [War \- Truth Remix](https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek), [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [War \(Truth Remix\)](https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt) | 4:00 | 2024-04-19 | 2024-05-18 |
 | [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-08-18 |

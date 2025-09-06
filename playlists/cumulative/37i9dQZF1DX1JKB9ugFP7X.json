@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Lo mejor del electropop latino. Foto: CAMI",
+  "description": "Lo mejor del electropop latino. Foto: Vera Frod",
   "name": "Electropop",
   "tracks": [
     {
@@ -2118,6 +2118,24 @@
       "duration_ms": 193971,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
+    },
+    {
+      "album": {
+        "name": "Nada seguro",
+        "url": "https://open.spotify.com/album/402ylanqlhPnpGoU5GjNwp"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189755,
+      "name": "Nada seguro",
+      "url": "https://open.spotify.com/track/2HlJH2N1edZyVpcggWskLf"
     },
     {
       "album": {

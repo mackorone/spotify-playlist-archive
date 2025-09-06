@@ -1,6 +1,6 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3924497,
+  "num_followers": 3924452,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2024-07-05 22:41:32",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "All The Stars and Boulevards",
-        "url": "https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK"
-      },
-      "artists": [
-        {
-          "name": "Augustana",
-          "url": "https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "Once (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "All The Stars and Boulevards",
+        "url": "https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK"
+      },
+      "artists": [
+        {
+          "name": "Augustana",
+          "url": "https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW"
     },
     {
       "added_at": "2024-07-05 22:41:32",

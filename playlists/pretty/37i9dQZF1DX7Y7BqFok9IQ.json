@@ -1,13 +1,33 @@
 {
   "description": "The best of modern blues rock. Cover: Robert Randolph",
-  "num_followers": 243789,
+  "num_followers": 243865,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAALfPUW1mxsUE6TiHm7TvoZZFTT9l",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Burn It To The Ground",
+        "url": "https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l"
+      },
+      "artists": [
+        {
+          "name": "Hollow Souls",
+          "url": "https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4"
+        },
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Burn It To The Ground",
+      "url": "https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh"
+    },
     {
       "added_at": "2025-06-27 04:00:26",
       "album": {
@@ -2487,22 +2507,6 @@
       "duration_ms": 207003,
       "name": "Too Much Is Never Too Much",
       "url": "https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Every Hour Is A Dollar Gone",
-        "url": "https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP"
-      },
-      "artists": [
-        {
-          "name": "Patrick Sweany",
-          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
-        }
-      ],
-      "duration_ms": 348706,
-      "name": "Them Shoes",
-      "url": "https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt"
     }
   ],
   "unique_name": "Modern Blues Rock",

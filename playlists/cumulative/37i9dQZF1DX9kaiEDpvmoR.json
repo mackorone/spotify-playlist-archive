@@ -6391,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "\u00c4rligt misstag",
+        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "Stillhet",
+      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
+    },
+    {
+      "album": {
         "name": "Stj\u00e4rnorna",
         "url": "https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3"
       },
@@ -6954,24 +6972,6 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
-    },
-    {
-      "album": {
-        "name": "\u00c4rligt misstag",
-        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "date_added": "2025-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
     },
     {
       "album": {

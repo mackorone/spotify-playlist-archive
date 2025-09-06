@@ -4,7 +4,7 @@
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-559 songs - 1 day 5 hr 31 min
+561 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-30 | 2024-07-27 |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-11-06 | 2023-11-25 |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-11-06 | 2023-11-25 |
+| [american zombie](https://open.spotify.com/track/6wSIlfsrvrFkZGjxKDIB85) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [american zombie](https://open.spotify.com/album/6oeBR4Oh9dE0GiXDEGfmro) | 2:33 | 2025-09-05 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-11-06 | 2024-01-27 |
 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 | 2025-05-13 |  |
 | [Apocalypse Calypso](https://open.spotify.com/track/1KnLj7n3uEwwEOYeQc1gfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Apocalypse Calypso](https://open.spotify.com/album/6W0wlmuTLCE2K5OPMgwsLz) | 3:16 | 2023-11-06 | 2024-01-27 |
@@ -285,6 +286,7 @@
 | [Let It Happen](https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:20 | 2025-05-14 |  |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-19 | 2024-09-28 |
 | [like i do](https://open.spotify.com/track/0Pne4nLOyQogvPtjEShGnS) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [like i do](https://open.spotify.com/album/3ox7DQoeJJ8OxfG3xe2LfN) | 3:31 | 2024-11-29 | 2025-02-01 |
+| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-05 |  |
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-09 | 2025-03-22 |
 | [Look At My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-07-09 | 2024-09-28 |
 | [Look At That Woman](https://open.spotify.com/track/539vgAYhyXhLQdJpyIAc25) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 2:43 | 2025-05-14 |  |

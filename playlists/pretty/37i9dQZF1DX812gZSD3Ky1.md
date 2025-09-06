@@ -2,35 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: LUSS
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,138 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,144 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
-| 2 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
+| 1 | [Dream](https://open.spotify.com/track/78w38QMvXYulFfP6AKFVdk) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:43 |
+| 2 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
 | 3 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
-| 4 | [So Sticky](https://open.spotify.com/track/4amIo7OjJJfViAdcwhGXqt) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [dinosaur slayerr](https://open.spotify.com/album/4PxscicWtqzSU3OVNsKmtN) | 3:02 |
-| 5 | [Dream](https://open.spotify.com/track/78w38QMvXYulFfP6AKFVdk) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:43 |
-| 6 | [live with it](https://open.spotify.com/track/0NJBlOWxnGphq0fkCd3xIR) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [live with it](https://open.spotify.com/album/6jzlHvl2F5o3yjNID9GhXs) | 2:42 |
-| 7 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 |
-| 8 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 |
-| 9 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
-| 10 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
+| 4 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
+| 5 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
+| 6 | [Last Forever](https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Last Forever](https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg) | 3:43 |
+| 7 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
+| 8 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 |
+| 9 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 |
+| 10 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 |
 | 11 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 12 | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 |
+| 12 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
 | 13 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
-| 14 | [I Stopped Trying \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0KeS6KyWgySn91XyzMtKwe) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [I Stopped Trying](https://open.spotify.com/album/29BXkbVjefNs30DTQfRPeK) | 3:58 |
+| 14 | [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
 | 15 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
-| 16 | [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 |
-| 17 | [Cigarettes](https://open.spotify.com/track/512cDJ621OgORGlwXLKFZL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:23 |
-| 18 | [More](https://open.spotify.com/track/1dDBiFIjFlp3fbuAcC9dOT) | [Delilian](https://open.spotify.com/artist/4U51OykrJl1cJzbkF1ZLat) | [More](https://open.spotify.com/album/6wiGzEociCGOXrsBbrqvs2) | 3:06 |
-| 19 | [i don’t know you](https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Garden State](https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3) | 3:23 |
-| 20 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
-| 21 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
-| 22 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 |
-| 23 | [oh to be loved](https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be loved](https://open.spotify.com/album/5cF4Ayv8e7RDvHQXZVUmhj) | 3:45 |
+| 16 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 |
+| 17 | [So Sticky](https://open.spotify.com/track/4amIo7OjJJfViAdcwhGXqt) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [dinosaur slayerr](https://open.spotify.com/album/4PxscicWtqzSU3OVNsKmtN) | 3:02 |
+| 18 | [Gyatt](https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs) | 2:17 |
+| 19 | [Cigarettes](https://open.spotify.com/track/512cDJ621OgORGlwXLKFZL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:23 |
+| 20 | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 |
+| 21 | [I Stopped Trying \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0KeS6KyWgySn91XyzMtKwe) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [I Stopped Trying](https://open.spotify.com/album/29BXkbVjefNs30DTQfRPeK) | 3:58 |
+| 22 | [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 |
+| 23 | [More](https://open.spotify.com/track/1dDBiFIjFlp3fbuAcC9dOT) | [Delilian](https://open.spotify.com/artist/4U51OykrJl1cJzbkF1ZLat) | [More](https://open.spotify.com/album/6wiGzEociCGOXrsBbrqvs2) | 3:06 |
 | 24 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 25 | [The Suburbs](https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg) | 3:08 |
 | 26 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
 | 100 | [Until The Sunrise](https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Until The Sunrise](https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH) | 3:26 |
 
-Snapshot ID: `AAAAAPqwcD18ozoc/1vu+fHCUs//E/1T`
+Snapshot ID: `AAAAAGhY+e6ExuLgPioxt32rTgoA4QvD`

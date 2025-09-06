@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,477 likes - 400 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,522 likes - 400 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 399 | [Honeydew](https://open.spotify.com/track/6C1Ro7wWp2JZcj2ztJuNOk) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Honeydew](https://open.spotify.com/album/5ruLgAgpsEUHO42iquAc8R) | 1:57 |
 | 400 | [monica](https://open.spotify.com/track/70LVWyb9Z0oJrlPtYekQ48) | [Joongle](https://open.spotify.com/artist/5NChOzODHzPYNB4iho8Zcy) | [monica](https://open.spotify.com/album/4KOzxqeAafQ5lcJvrUMreY) | 2:00 |
 
-Snapshot ID: `AAAAAMas4aG3Voz5nrcCEkOQc9qqiItS`
+Snapshot ID: `AAAAALvEMsMScVx4pei2NijOsxwSqrWG`

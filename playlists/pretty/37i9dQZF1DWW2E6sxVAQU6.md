@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,980 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,982 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 2 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
+| 2 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
 | 3 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |
-| 4 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
+| 4 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
 | 5 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 |
 | 6 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
 | 7 | [Rolls Royce \(feat\. Boss Doms, Frenetik&Orang3\)](https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w) | [1969 \- Achille Idol Rebirth](https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU) | 2:53 |

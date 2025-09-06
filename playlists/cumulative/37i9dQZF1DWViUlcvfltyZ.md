@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Grandi Raga <s>in bicicletta </s> in cover
 
-1,601 songs - 3 day 16 hr 55 min
+1,602 songs - 3 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [La Terra Santa \(feat\. Mauro Ermanno Giovanardi\)](https://open.spotify.com/track/3I0Wpa13Dtcl434VFIA2Pb) | [Sequoia](https://open.spotify.com/artist/1mn4ts1dMQoCFfEUDnt4mc), [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [La Terra Santa \(feat\. Mauro Ermanno Giovanardi\)](https://open.spotify.com/album/1GthPHiP8rzBKFsGePe1YN) | 3:39 | 2024-05-09 | 2024-06-01 |
 | [La terza bici che mi hanno inculato](https://open.spotify.com/track/26sfrOOXw9UZOHYCxNYzVw) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [La terza bici che mi hanno inculato](https://open.spotify.com/album/1qEDlUGjxZMDus25tOVkan) | 3:18 | 2025-04-24 |  |
 | [La Timidezza Di Una Quercia](https://open.spotify.com/track/2RMZHXcs0oLUkj5z8YVwhW) | [Leita](https://open.spotify.com/artist/5uZSi8TsRkUiPOcBZyPXZO) | [La Timidezza Di Una Quercia](https://open.spotify.com/album/0zIavjoRaTWhXUla6j3mPz) | 4:06 | 2025-02-06 | 2025-03-14 |
+| [La Tristezza Non Esiste](https://open.spotify.com/track/2jqBsWK8YB0erB288d1QDD) | [Varlene](https://open.spotify.com/artist/0TpeHwXtEyIVUad0uOQ0nq) | [Stato D'Animo Letale](https://open.spotify.com/album/05HVpkARy6DMlqKvTKZayd) | 2:30 | 2025-09-05 |  |
 | [La vita fa schifo](https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [La vita fa schifo](https://open.spotify.com/album/0yzB3qbjWR5nybthxPp772) | 4:44 | 2022-07-21 | 2022-09-02 |
 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 | 2023-07-13 | 2023-10-06 |
 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 | 2024-03-21 | 2024-06-21 |

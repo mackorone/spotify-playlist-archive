@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/20dtIlr9uvhNd7X1Ltk8DN"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/7G6wkitbUYwifUNxWglmxR"
+    },
+    {
+      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 120827,
       "name": "Aka Rasta On The Radar Freestyle",
       "url": "https://open.spotify.com/track/4ymh7e0oiWwImtEd25a6ze"
@@ -17398,6 +17416,28 @@
       "duration_ms": 315000,
       "name": "F\u00c9RIAS EM NEW YORK",
       "url": "https://open.spotify.com/track/2Zb8gedNLYceHyvbXgOjJl"
+    },
+    {
+      "album": {
+        "name": "F\u00f3rmula do Sucesso",
+        "url": "https://open.spotify.com/album/1MqZUvwv3IVNVt9DMy5NWK"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "F\u00f3rmula do Sucesso",
+      "url": "https://open.spotify.com/track/4S54wwgItFWAHiMrNmjaTi"
     },
     {
       "album": {
@@ -43566,7 +43606,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 127769,
       "name": "Vulgo FK On the Radar Freestyle",
       "url": "https://open.spotify.com/track/5WTyRT29obNOzxaIrKn7AS"

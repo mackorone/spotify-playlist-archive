@@ -2,16 +2,16 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Moving and Cut
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: The White Hair Cut
 
-135 songs - 9 hr 24 min
+136 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [44°](https://open.spotify.com/track/0mD5TlcL7lW0RTKQZ96xQt) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [44°](https://open.spotify.com/album/3eonmP625PaZ1uQUAycanz) | 4:38 | 2025-05-01 |  |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-06-27 | 2025-03-15 |
 | [All I Know](https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [All I Know](https://open.spotify.com/album/4leadtIteS968V9L0Hn1g3) | 3:54 | 2024-12-20 | 2025-02-22 |
-| [Back Off !!!](https://open.spotify.com/track/5mULQOKHEFBgmC6cfFFqZz) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [Back Off !!!](https://open.spotify.com/album/6Ui4GRKdLp0CVT7SODjyHr) | 4:27 | 2025-08-08 |  |
+| [Back Off !!!](https://open.spotify.com/track/5mULQOKHEFBgmC6cfFFqZz) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [Back Off !!!](https://open.spotify.com/album/6Ui4GRKdLp0CVT7SODjyHr) | 4:27 | 2025-08-08 | 2025-09-06 |
 | [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 | 2024-07-19 | 2025-04-05 |
 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 |  |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 | 2025-05-31 |
@@ -126,6 +126,7 @@
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-06-27 | 2025-05-02 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-27 | 2024-07-27 |
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2024-06-27 | 2024-10-12 |
+| [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 | 2025-09-05 |  |
 | [โลก \(Missing\)](https://open.spotify.com/track/2mYDnxshyoh6TW2dkjHhh7) | [tinn](https://open.spotify.com/artist/1zDqtVjZrcKpg4xwaGdKlC) | [Bitter Sweet Things](https://open.spotify.com/album/0ZLJC25IXJetxllm9Z9tyO) | 2:58 | 2024-11-01 | 2025-01-24 |
 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 | 2025-02-21 |  |
 | [ใครสักคน \( SOMEBODY's ME \)](https://open.spotify.com/track/6hhiComLULoPZkEnFPI6Tf) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [MAI ME](https://open.spotify.com/album/44K6O0hh0sy64tJsVX9AN3) | 3:58 | 2025-06-27 | 2025-08-09 |

@@ -1,6 +1,6 @@
 {
   "description": "DJ Shocca \u00e8 tornato, 60 Hz II. Beat e rime, oggi come una volta.",
-  "num_followers": 47485,
+  "num_followers": 47492,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -567,8 +567,8 @@
     {
       "added_at": "2025-08-29 07:43:44",
       "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
       },
       "artists": [
         {
@@ -576,13 +576,13 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
         }
       ],
-      "duration_ms": 159095,
-      "name": "DOPE BOY",
-      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
+      "duration_ms": 220960,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -655,8 +655,8 @@
     {
       "added_at": "2025-08-29 07:43:44",
       "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
       "artists": [
         {
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
+      "duration_ms": 159095,
+      "name": "DOPE BOY",
+      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -687,26 +687,6 @@
       "duration_ms": 237960,
       "name": "La Soluzione",
       "url": "https://open.spotify.com/track/5pkNGtOsW7CpOUCrsBDZpa"
-    },
-    {
-      "added_at": "2025-08-29 07:43:44",
-      "album": {
-        "name": "URLAMI",
-        "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
-      },
-      "artists": [
-        {
-          "name": "genn butch",
-          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "URLAMI",
-      "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -731,6 +711,26 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys"
+    },
+    {
+      "added_at": "2025-08-29 07:43:44",
+      "album": {
+        "name": "URLAMI",
+        "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
+      },
+      "artists": [
+        {
+          "name": "genn butch",
+          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "URLAMI",
+      "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -1735,18 +1735,26 @@
     {
       "added_at": "2025-08-29 07:43:44",
       "album": {
-        "name": "A volte ritorno",
-        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
+        "name": "Beat Coin",
+        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
       "artists": [
         {
-          "name": "Lou X",
-          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
+          "name": "DJ Gengis",
+          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
         }
       ],
-      "duration_ms": 342933,
-      "name": "Cinque minuti di paura",
-      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
+      "duration_ms": 187415,
+      "name": "Sembra un film",
+      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -1771,26 +1779,18 @@
     {
       "added_at": "2025-08-29 07:43:44",
       "album": {
-        "name": "Beat Coin",
-        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
+        "name": "A volte ritorno",
+        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
       },
       "artists": [
         {
-          "name": "DJ Gengis",
-          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+          "name": "Lou X",
+          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
         }
       ],
-      "duration_ms": 187415,
-      "name": "Sembra un film",
-      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
+      "duration_ms": 342933,
+      "name": "Cinque minuti di paura",
+      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2025-08-29 07:43:44",
       "album": {
-        "name": "Flaneur",
-        "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Ivana LCX",
-          "url": "https://open.spotify.com/artist/5V089NPCa9rnQNz4t1gBG6"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Flaneur",
-      "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
-    },
-    {
-      "added_at": "2025-08-29 07:43:44",
-      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
+    },
+    {
+      "added_at": "2025-08-29 07:43:44",
+      "album": {
+        "name": "Flaneur",
+        "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Ivana LCX",
+          "url": "https://open.spotify.com/artist/5V089NPCa9rnQNz4t1gBG6"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Flaneur",
+      "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-08-29 07:43:44",
       "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
-    },
-    {
-      "added_at": "2025-08-29 07:43:44",
-      "album": {
         "name": "Malastrada",
         "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 191053,
       "name": "Malastrada",
       "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
+    },
+    {
+      "added_at": "2025-08-29 07:43:44",
+      "album": {
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -2235,34 +2235,6 @@
       "duration_ms": 108146,
       "name": "RISCHIO IL CULO - O.V.",
       "url": "https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN"
-    },
-    {
-      "added_at": "2025-08-29 07:43:44",
-      "album": {
-        "name": "IDDU 2",
-        "url": "https://open.spotify.com/album/6qzqyjeitKyuufjCHaWVvM"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
-        },
-        {
-          "name": "Tormento",
-          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
-        },
-        {
-          "name": "Madbuddy",
-          "url": "https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "La Lampara",
-      "url": "https://open.spotify.com/track/6AxsGoBi4QkufzRFacIBpW"
     },
     {
       "added_at": "2025-08-29 07:43:44",
@@ -2331,6 +2303,34 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+    },
+    {
+      "added_at": "2025-08-29 07:43:44",
+      "album": {
+        "name": "IDDU 2",
+        "url": "https://open.spotify.com/album/6qzqyjeitKyuufjCHaWVvM"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Madbuddy",
+          "url": "https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "La Lampara",
+      "url": "https://open.spotify.com/track/6AxsGoBi4QkufzRFacIBpW"
     },
     {
       "added_at": "2025-08-29 07:43:44",

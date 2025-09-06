@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Racing Mount Pleasant on the cover.
 
-58 songs - 4 hr 28 min
+59 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 |  |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2025-07-10 |  |
+| [Poke](https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Poke](https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn) | 3:46 | 2025-09-05 |  |
 | [Pushing Hands](https://open.spotify.com/track/3pWupodCGDYk9fH5onVEwt) | [something in the lake](https://open.spotify.com/artist/0QSN1JG6PjhBLCNnPSyUhI) | [Dogs](https://open.spotify.com/album/5fLKCgQ0kmovPnvsebJrfY) | 4:08 | 2025-07-10 |  |
 | [Racing Mount Pleasant](https://open.spotify.com/track/3fua3zsMYUgGBgnNlocxrU) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/6S3we3LnQcy47E2hhoamXV) | 5:15 | 2025-07-10 | 2025-08-16 |
 | [Ran Out of Time](https://open.spotify.com/track/2G4aLoVnpjWcyXgBRhnDI2) | [Aunt Katrina](https://open.spotify.com/artist/7sMEd7g4LPNijUP8eH2wyf) | [Ran Out of Time](https://open.spotify.com/album/4mLYTyjoHin9yZjSzUUeg6) | 2:53 | 2025-07-10 |  |

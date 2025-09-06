@@ -1,6 +1,6 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 554253,
+  "num_followers": 554332,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
@@ -295,26 +311,6 @@
       "duration_ms": 105293,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Rancheras",
-        "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
-      },
-      "artists": [
-        {
-          "name": "Fernando De La Mora",
-          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "Huapangos: La Noche y T\u00fa / Tres Consejos / La del Rebozo Blanco / La Verdolaga",
-      "url": "https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -351,18 +347,22 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Canto A Mi Tierra",
-        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+        "name": "Rancheras",
+        "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Fernando De La Mora",
+          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+      "duration_ms": 425600,
+      "name": "Huapangos: La Noche y T\u00fa / Tres Consejos / La del Rebozo Blanco / La Verdolaga",
+      "url": "https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R"
     },
     {
       "added_at": "2025-07-18 16:51:44",

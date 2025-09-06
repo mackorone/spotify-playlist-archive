@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Abdullah Maharvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,644 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,646 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

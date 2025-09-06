@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
-  "num_followers": 112769,
+  "num_followers": 112768,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNMF0WqpJdnEM/46Fg6HM336tSv",
+  "snapshot_id": "AAAAADxlj4CoQoxi+EydFRwC7eN3NCGc",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:02",
@@ -67,6 +67,26 @@
       "duration_ms": 256444,
       "name": "For The Gaze",
       "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+    },
+    {
+      "added_at": "2025-09-05 06:28:38",
+      "album": {
+        "name": "Rainbow High (From \"Evita\")",
+        "url": "https://open.spotify.com/album/4dIPDgEhEBkNJJLsR0MKwA"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 162891,
+      "name": "Rainbow High (From \"Evita\")",
+      "url": "https://open.spotify.com/track/1M2nwhG1C9MygUGocblmKu"
     },
     {
       "added_at": "2025-06-16 02:48:49",
@@ -1131,26 +1151,6 @@
       "duration_ms": 171160,
       "name": "Go",
       "url": "https://open.spotify.com/track/1qCTRPS71kuks85AAEBhrH"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Lempicka (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/17Jtzv1OPujNW4QgxdiSrd"
-      },
-      "artists": [
-        {
-          "name": "Eden Espinosa",
-          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
-        },
-        {
-          "name": "Original Broadway Cast of Lempicka",
-          "url": "https://open.spotify.com/artist/6DZeFg4IcWilAXZ0HVnw7I"
-        }
-      ],
-      "duration_ms": 217805,
-      "name": "I Will Paint Her",
-      "url": "https://open.spotify.com/track/0EV9DbnoW8kGtEVvdjm56w"
     },
     {
       "added_at": "2024-06-28 04:27:17",

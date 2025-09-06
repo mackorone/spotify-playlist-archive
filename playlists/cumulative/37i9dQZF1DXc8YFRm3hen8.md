@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 La Franela y Ciro y los Persas
 
-389 songs - 1 day 0 hr 57 min
+390 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [AUTOESTIMA](https://open.spotify.com/track/5eIMsg846G1fgvJR3tkJOK) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [AUTOESTIMA](https://open.spotify.com/album/2WIPTovvQmyBCVLBIouNOv) | 2:57 | 2025-04-11 | 2025-05-16 |
 | [Azúcar Impalpable](https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [2020](https://open.spotify.com/album/1gYS9ESTHondssy51aBUPK) | 4:26 | 2022-06-29 | 2024-05-19 |
 | [Bancate ese defecto](https://open.spotify.com/track/5VoeA0AKKnAvJBIRoOowDF) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [LUKIAN](https://open.spotify.com/artist/5zKwmTSKHIc2oul3glT8s8) | [Bancate ese defecto](https://open.spotify.com/album/6SpkP6BeW6jw22HQ8av0gg) | 5:19 | 2025-04-25 | 2025-05-02 |
+| [Barrio](https://open.spotify.com/track/1F5WjUN0J9CNI54Ub8aAOq) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Barrio](https://open.spotify.com/album/2rsjsL7IMM0L0pJPj941bQ) | 3:13 | 2025-09-05 |  |
 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 | 2023-08-25 | 2023-09-22 |
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-07-01 | 2024-11-07 |
 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 | 2022-06-29 |  |
@@ -326,7 +327,7 @@
 | [Suerte](https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 5:39 | 2024-01-04 | 2024-01-15 |
 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 | 2023-01-27 | 2023-10-07 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 | 2022-07-06 |
-| [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-06-29 |  |
+| [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-06-29 | 2025-09-06 |
 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 | 2022-06-29 |  |
 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 | 2022-06-29 | 2022-07-27 |
 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 | 2022-07-19 | 2024-04-19 |

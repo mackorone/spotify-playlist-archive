@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Avery Anna and Max McNown",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Lanie Gardner",
   "name": "New Boots",
   "tracks": [
     {
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "808s & 6 STRINGS",
+        "url": "https://open.spotify.com/album/2i8O2Rmi5Dz9Ft63l5Mw0a"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153674,
+      "name": "808s & 6 STRINGS",
+      "url": "https://open.spotify.com/track/7sYxnp5tnkwziJbOoQnwcb"
+    },
+    {
+      "album": {
         "name": "Burning Daylight",
         "url": "https://open.spotify.com/album/1mHx616eNbODxMf4vnBG1j"
       },
@@ -648,7 +666,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 201400,
       "name": "99",
       "url": "https://open.spotify.com/track/22CKFavEurPuJJsOFaobac"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 135215,
       "name": "A Little Birdie",
       "url": "https://open.spotify.com/track/2sMhZRs7eG1yhkE9CMWg3k"
@@ -2557,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Arrows (Die For That Man)",
+        "url": "https://open.spotify.com/album/7JNiCSkz7KUF87H43PoUqw"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "Arrows (Die For That Man)",
+      "url": "https://open.spotify.com/track/1jaC5Z1mhzVQVJkOgzcFIf"
+    },
+    {
+      "album": {
         "name": "As Far As I Know",
         "url": "https://open.spotify.com/album/4Nx8YyisXywDpNKBD3YySp"
       },
@@ -3142,7 +3178,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 161626,
       "name": "BAD NIGHT (KARMA)",
       "url": "https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt"
@@ -10668,7 +10704,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 204053,
       "name": "Dreams to Dream",
       "url": "https://open.spotify.com/track/1JgWKoJDSOzwYnEtBvHENv"
@@ -13332,6 +13368,28 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "album": {
+        "name": "Foolin' (with Chase Rice)",
+        "url": "https://open.spotify.com/album/15kcJlwHh71wPfl5x4P6TX"
+      },
+      "artists": [
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        },
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "Foolin' (with Chase Rice)",
+      "url": "https://open.spotify.com/track/1jusrVUHm4BTMepEIME55D"
     },
     {
       "album": {
@@ -17811,6 +17869,28 @@
     },
     {
       "album": {
+        "name": "Heartlands",
+        "url": "https://open.spotify.com/album/6tNL6yercbIdXOOUJEUMrw"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222461,
+      "name": "Heartlands",
+      "url": "https://open.spotify.com/track/4fsBCUcXnHZhWDBa2iiFfz"
+    },
+    {
+      "album": {
         "name": "Heartless (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh"
       },
@@ -18510,7 +18590,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176728,
       "name": "Here Today (feat. Jamey Johnson & Kaitlin Butts)",
       "url": "https://open.spotify.com/track/1ybGM7mWi2HE2mBlfTPaMb"
@@ -26454,7 +26534,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 203222,
       "name": "Luck Of The Draw",
       "url": "https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm"
@@ -26696,6 +26776,24 @@
       "duration_ms": 186160,
       "name": "Magic",
       "url": "https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw"
+    },
+    {
+      "album": {
+        "name": "Make A Liar",
+        "url": "https://open.spotify.com/album/550Nkv62JLHzZ91cWpkVYL"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186145,
+      "name": "Make A Liar",
+      "url": "https://open.spotify.com/track/2pZ1fFixYIRvtrJlP7uQz1"
     },
     {
       "album": {
@@ -30991,6 +31089,24 @@
     },
     {
       "album": {
+        "name": "Ocean Blue",
+        "url": "https://open.spotify.com/album/6WDXvuVjq5wNgmuSdaX5e1"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252698,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/4grEtMm9JQX92vKMAHR65o"
+    },
+    {
+      "album": {
         "name": "Of Course I Do",
         "url": "https://open.spotify.com/album/4nJTQmmGJXwKDz1zHX8iJH"
       },
@@ -31272,7 +31388,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 228247,
       "name": "Old Habits",
       "url": "https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5"
@@ -34808,7 +34924,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 151943,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3"
@@ -35982,7 +36098,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 217000,
       "name": "Sex, Drugs, & Country Music",
       "url": "https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5"
@@ -43413,6 +43529,28 @@
     },
     {
       "album": {
+        "name": "Took A Walk (from \"The Long Walk\")",
+        "url": "https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240277,
+      "name": "Took A Walk - from \"The Long Walk\"",
+      "url": "https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4"
+    },
+    {
+      "album": {
         "name": "Tough People",
         "url": "https://open.spotify.com/album/6lyQYMu3krcoLPaCJbQ35V"
       },
@@ -44886,6 +45024,24 @@
       "duration_ms": 193693,
       "name": "Want That Back",
       "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
+    },
+    {
+      "album": {
+        "name": "Want You Back",
+        "url": "https://open.spotify.com/album/1hQ5OgimW7hG7abUTGBLmy"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/4wxX7oFwPrzagtpzmTyyaX"
     },
     {
       "album": {
@@ -47075,6 +47231,28 @@
     },
     {
       "album": {
+        "name": "WHISKEY RAIN (feat. Tyler Hubbard)",
+        "url": "https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "WHISKEY RAIN (feat. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V"
+    },
+    {
+      "album": {
         "name": "Scooter & Friends",
         "url": "https://open.spotify.com/album/2i9WvnlqV4bG2vp0U1z4J3"
       },
@@ -47538,7 +47716,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 169313,
       "name": "WILD",
       "url": "https://open.spotify.com/track/3i8oDYGM4XsYc8Gyu0OVmq"
@@ -48170,6 +48348,24 @@
       "duration_ms": 175543,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/5znARZJckVRv7QwvQzYQG6"
+    },
+    {
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184881,
+      "name": "Wishbone",
+      "url": "https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8"
     },
     {
       "album": {

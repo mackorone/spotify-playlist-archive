@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38823,
+  "num_followers": 38830,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Gerhard Oppitz Plays Grieg",
+        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
+      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 381466,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: No. 2, Allegretto grazioso",
       "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Gerhard Oppitz Plays Grieg",
-        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
-      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -655,30 +655,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
-        "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "duration_ms": 406666,
-      "name": "Holberg Suite, Op. 40: 4. Air (Andante religioso)",
-      "url": "https://open.spotify.com/track/00shcLNgwxFoIWDCCiQB6i"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Grieg: Piano Concerto \u2013 Chopin: Piano Concerto No. 2",
         "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 754160,
       "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
       "url": "https://open.spotify.com/track/4HliprEFTBVNsf8spybkm2"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
+        "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 406666,
+      "name": "Holberg Suite, Op. 40: 4. Air (Andante religioso)",
+      "url": "https://open.spotify.com/track/00shcLNgwxFoIWDCCiQB6i"
     },
     {
       "added_at": "2025-07-04 11:59:56",

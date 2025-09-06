@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano\. Sergio Ramos en portada
 
-532 songs - 1 day 3 hr 5 min
+533 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [PA DONDE VAS?](https://open.spotify.com/track/49t9hK9Ym4Ph82jDcKpzX1) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [PA DONDE VAS?](https://open.spotify.com/album/0K9OXq0P9b3WIVMvPbDik8) | 2:51 | 2024-06-21 | 2024-07-13 |
 | [Pa' Ti](https://open.spotify.com/track/46oSw4YrcsqVrp9TgUARLT) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa' Ti](https://open.spotify.com/album/70RLHxwAd8SSOZN9f8dVEL) | 3:01 | 2022-05-25 | 2022-07-29 |
 | [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 | 2023-05-19 |  |
+| [Palo Santo](https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Palo Santo](https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO) | 3:04 | 2025-09-05 |  |
 | [pantera](https://open.spotify.com/track/3tMdgJnbbLcFBi0vEDkSxs) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:10 | 2022-06-03 | 2022-07-13 |
 | [Paraíso Tropical](https://open.spotify.com/track/70jWmpVTjEyB5sd4ZBpCDo) | [Rafa Parra](https://open.spotify.com/artist/5AuDNPVomwMxxDWbGt93Zg) | [Paraíso Tropical](https://open.spotify.com/album/1G8hiq6L57MiN6ywonuvqM) | 2:11 | 2025-08-29 |  |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-05-25 |  |
@@ -375,7 +376,7 @@
 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-29 | 2025-04-02 |
 | [PIDA LO QUE QUIERA MAMI \- A COLORS SHOW](https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PIDA LO QUE QUIERA MAMI \- A COLORS SHOW](https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK) | 3:27 | 2025-04-25 | 2025-08-12 |
 | [PIENSO](https://open.spotify.com/track/34himCq1kCORJXBQF2Su4W) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [PIENSO](https://open.spotify.com/album/7LcwnO0rEAo8rce7yVW1jK) | 2:06 | 2025-02-14 | 2025-04-26 |
-| [Pineapple](https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:00 | 2022-05-28 |  |
+| [Pineapple](https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:00 | 2022-05-28 | 2025-09-06 |
 | [Playboy](https://open.spotify.com/track/0VUaOTDrByVm4L8cSkk78k) | [Ochy](https://open.spotify.com/artist/1Ca0XeiVvKBPIhhWNq1Tp7) | [Playboy](https://open.spotify.com/album/5RKdaKchie4SyomPkemIJG) | 2:26 | 2023-06-02 | 2023-07-01 |
 | [PLO PLO](https://open.spotify.com/track/7or0qmnGnqQR9fdBeTzF9m) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PLO PLO](https://open.spotify.com/album/2HGt6SEhs9IkBgg1dSeQgi) | 3:38 | 2024-05-17 | 2024-06-01 |
 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-05-25 | 2023-09-16 |

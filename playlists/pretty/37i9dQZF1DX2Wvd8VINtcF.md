@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Boko Yout✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,058 likes - 182 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,125 likes - 182 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

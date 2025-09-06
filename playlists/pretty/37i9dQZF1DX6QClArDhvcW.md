@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,080 likes - 200 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,137 likes - 200 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 199 | [Soft Sights](https://open.spotify.com/track/7iz3CPREu5KoeFoklLBAyv) | [Sam Cisco](https://open.spotify.com/artist/40hwwlUIcI1l1q3D61gHjC), [OKO](https://open.spotify.com/artist/3OhUF302MItZZi3UsCr2Nd) | [Soft Sights](https://open.spotify.com/album/2p16PaXCf92ZNR4uC5tZTH) | 3:06 |
 | 200 | [Underwater](https://open.spotify.com/track/78lEAnMeOms1c1FXioIeeu) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Underwater](https://open.spotify.com/album/12UhzmLUAd5IF165Hl3jSv) | 2:22 |
 
-Snapshot ID: `AAAAAKQ0OipebGmpWUVY7sVGcAimCVmD`
+Snapshot ID: `AAAAAC5ydW+qQN0WXqJHtNKDZb5CTZtg`

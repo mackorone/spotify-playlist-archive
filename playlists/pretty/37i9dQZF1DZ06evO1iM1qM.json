@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 216765,
+  "num_followers": 216789,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADOk+X3mwv4EwQ4TynmVNxQ",
+  "snapshot_id": "aLjWgAAAAAD7EfFMhQU1bcjS0aRw8PW0",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 643127,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 329986,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 643127,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 461626,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenor Conclave",
         "url": "https://open.spotify.com/album/6jiJtqQZ1fKpxf7IhQ9ZGK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 904493,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 461626,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN"
     },
     {
       "added_at": null,
@@ -991,22 +991,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
       "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
         {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 190573,
-      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
-      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
+      "duration_ms": 437840,
+      "name": "A Love Supreme, Pt. II - Resolution",
+      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
     },
     {
       "added_at": null,
@@ -1031,18 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
       "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
         {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 437840,
-      "name": "A Love Supreme, Pt. II - Resolution",
-      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
+      "duration_ms": 190573,
+      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
+      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
     },
     {
       "added_at": null,
@@ -1063,8 +1063,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ol\u00e9 Coltrane (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5BGkenbuo3xY3CRblRPj8K"
+        "name": "Coltrane Plays the Blues",
+        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 465200,
-      "name": "Aisha",
-      "url": "https://open.spotify.com/track/0Haa5GeQyJJ9SjSqbqcXsT"
+      "duration_ms": 319679,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5"
     }
   ],
   "unique_name": "This Is John Coltrane",

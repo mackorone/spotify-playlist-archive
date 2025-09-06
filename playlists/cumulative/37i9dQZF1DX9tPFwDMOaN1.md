@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: Saja Boys\(K\-Pop Demon Hunters\)\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: aespa\)
 
-718 songs - 1 day 13 hr 17 min
+719 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Catch \(Feat\. Hwa Sa\)](https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:44 | 2023-02-02 | 2023-04-22 |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-08 | 2025-04-22 |
 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-22 |  |
-| [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 | 2025-09-01 |  |
+| [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 | 2025-09-01 | 2025-09-06 |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-08 | 2023-02-07 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-13 | 2024-02-24 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-01 | 2024-08-31 |
@@ -506,6 +506,7 @@
 | [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-07 | 2024-06-18 |
 | [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 | 2025-08-18 | 2025-08-28 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-16 | 2022-04-09 |
+| [Rich Man](https://open.spotify.com/track/53xn9j8QEj4RBJa1MlYqFy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7Frk59MgpJw7bDixiMCr49) | 3:17 | 2025-09-05 |  |
 | [Ridin′ \(Prod\. THE HUB\)](https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [JIWOO](https://open.spotify.com/artist/1AqG0h7s7G7UOeEOAWKCF7), [KYUJIN](https://open.spotify.com/artist/5ml2UIgNVH6l7i4vm3aaRw) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:47 | 2025-06-13 | 2025-08-07 |
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-08 | 2022-10-29 |
 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-27 | 2022-09-17 |

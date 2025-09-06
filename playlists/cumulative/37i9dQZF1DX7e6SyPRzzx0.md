@@ -4,11 +4,11 @@
 
 > The home of rage rap\. Cover: Homixide Gang
 
-170 songs - 7 hr 15 min
+172 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 | 2024-03-15 |  |
+| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 | 2024-03-15 | 2025-09-06 |
 | [\#scrimjustwannahavefun](https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy \(deluxe edition\)](https://open.spotify.com/album/436V8ojzFS3ZadTeK3GPVZ) | 2:28 | 2024-02-16 | 2024-06-15 |
 | [007](https://open.spotify.com/track/5kmdTJ6YvAtqk13nMYnfck) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [ATLANTA](https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD) | 1:49 | 2025-05-23 | 2025-08-16 |
 | [5BRAZY \(FEAT\. QUAVO\)](https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [5BRAZY \(FEAT\. QUAVO\)](https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS) | 2:58 | 2024-12-06 |  |
@@ -81,6 +81,7 @@
 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 | 2023-12-01 |  |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2023-12-01 | 2024-03-16 |
 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 | 2025-07-18 |  |
+| [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 | 2025-09-05 |  |
 | [inthej](https://open.spotify.com/track/0AJTkZVEpSVmn6Yf5rsx8l) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [WE LOVE D\. SAVAGE](https://open.spotify.com/album/2fJeIpfjtSy0D1ZMpsYZfn) | 1:49 | 2025-02-22 | 2025-05-24 |
 | [ISMMMM](https://open.spotify.com/track/0tyfJeorG8tvBm6goLjbuU) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ISMMMM](https://open.spotify.com/album/3rpVls7KU7nNG8qOBD2KHM) | 3:14 | 2025-08-22 |  |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-12-01 | 2024-08-01 |
@@ -159,7 +160,7 @@
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-10 |  |
 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 | 2025-06-13 |  |
 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 | 2024-08-04 |  |
-| [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 | 2024-08-04 |  |
+| [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 | 2024-08-04 | 2025-09-06 |
 | [Troops](https://open.spotify.com/track/6EDsyZJdzrS1G3aX3VoH9i) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9) | 2:19 | 2023-12-01 | 2024-03-16 |
 | [Tweakin' Together](https://open.spotify.com/track/6r639TM0j9JWM4jWJB1cVR) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Tweakin' Together](https://open.spotify.com/album/3ib7Nuviot6Wm2PJ13f2da) | 2:06 | 2023-12-01 | 2024-03-16 |
 | [Tyla](https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO) | 2:03 | 2024-12-06 | 2025-04-12 |
@@ -176,6 +177,7 @@
 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 | 2023-12-01 | 2024-03-16 |
 | [WISH I COULD TELL YOU](https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:56 | 2023-12-01 | 2024-06-01 |
 | [Wokeup](https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/3hi8gSzAJT4KGaJrylnccp) | 1:55 | 2024-03-15 | 2024-08-21 |
+| [World Boss](https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [World Boss](https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa) | 3:04 | 2025-09-05 |  |
 | [X & Sex](https://open.spotify.com/track/4EwwfFCckvI9uM0nEVVDa0) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 0:57 | 2023-12-01 | 2024-03-16 |
 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 | 2024-03-15 |  |
 

@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 184239,
       "name": "ENAMORARSE PARA QUE",
       "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
@@ -12306,7 +12324,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -16804,7 +16822,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Loco Enamorado I Variet\u00e9 #4",
       "url": "https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF"
@@ -27164,7 +27182,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 128623,
       "name": "Session Guaratech #1 Kid Wazi",
       "url": "https://open.spotify.com/track/5tpAZ8fZGlFTFBZ4cUuzGB"
@@ -27182,7 +27200,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 137012,
       "name": "SETEADORA",
       "url": "https://open.spotify.com/track/33YJrpYKyng8yWSdsrRF7L"

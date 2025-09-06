@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. ",
-  "num_followers": 874954,
+  "num_followers": 875041,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,18 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -195,18 +191,22 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -859,38 +859,6 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
-        "name": "The Question",
-        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Question",
-      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
         "name": "Talk 2 Me",
         "url": "https://open.spotify.com/album/61AvsZppCaX3N1mM7xbZHP"
       },
@@ -907,6 +875,22 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -951,6 +951,22 @@
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1017,20 +1033,20 @@
       "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
     },
     {
-      "added_at": "2025-08-29 04:28:37",
+      "added_at": "2025-09-03 17:00:47",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF"
+      "duration_ms": 251281,
+      "name": "Apollo Eighteen",
+      "url": "https://open.spotify.com/track/6iFDEchx7A9uPI7n6yBSN8"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "Vanisher, Horizon Scraper",
-        "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 199403,
-      "name": "DANCING WITHOUT MOVING",
-      "url": "https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
         "name": "Sonido C\u00f3smico",
         "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+        "name": "Vanisher, Horizon Scraper",
+        "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u"
       },
       "artists": [
         {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
         }
       ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+      "duration_ms": 199403,
+      "name": "DANCING WITHOUT MOVING",
+      "url": "https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1151,6 +1151,38 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "Wish I Didn't Love You",
+        "url": "https://open.spotify.com/album/34vTtupIaQm34PykFukGsh"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Wish I Didn't Love You",
+      "url": "https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
         "name": "Wah!!!",
         "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
       },
@@ -1179,38 +1211,6 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
-        "name": "Wish I Didn't Love You",
-        "url": "https://open.spotify.com/album/34vTtupIaQm34PykFukGsh"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Wish I Didn't Love You",
-      "url": "https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH"
-    },
-    {
-      "added_at": "2025-09-03 17:00:47",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 251281,
-      "name": "Apollo Eighteen",
-      "url": "https://open.spotify.com/track/6iFDEchx7A9uPI7n6yBSN8"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "SAYA",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
-      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 225726,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
+      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "still love you (todav\u00eda)",
-        "url": "https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 152234,
-      "name": "still love you (todav\u00eda)",
-      "url": "https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 216426,
       "name": "You Don't Know The Shape I'm In",
       "url": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "still love you (todav\u00eda)",
+        "url": "https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 152234,
+      "name": "still love you (todav\u00eda)",
+      "url": "https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
+        "name": "Straight Line Was A Lie",
+        "url": "https://open.spotify.com/album/5XbVk30ifqaiI6EiVVjA1p"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Straight Line Was A Lie",
+      "url": "https://open.spotify.com/track/1KpAjuTO2M9eYnaGz6uoTc"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM"
       },
@@ -1475,6 +1491,26 @@
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1519,6 +1555,22 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
+        "name": "In Russia. A is a 9",
+        "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "duration_ms": 209534,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
       },
@@ -1531,42 +1583,6 @@
       "duration_ms": 153697,
       "name": "2AM",
       "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
-        "name": "Straight Line Was A Lie",
-        "url": "https://open.spotify.com/album/5XbVk30ifqaiI6EiVVjA1p"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Straight Line Was A Lie",
-      "url": "https://open.spotify.com/track/1KpAjuTO2M9eYnaGz6uoTc"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2025-08-29 04:28:37",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "In Russia. A is a 9",
-        "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
-      },
-      "artists": [
-        {
-          "name": "EXUM",
-          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
-        }
-      ],
-      "duration_ms": 209534,
-      "name": "Losing Focus",
-      "url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-08-29 04:28:37",
       "album": {
-        "name": "I'd Be Lost",
-        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "I'd Be Lost",
-      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
-    },
-    {
-      "added_at": "2025-08-29 04:28:37",
-      "album": {
         "name": "Vampire Empire / Born For Loving You",
         "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2025-08-29 04:28:37",
+      "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2025-08-29 04:28:37",

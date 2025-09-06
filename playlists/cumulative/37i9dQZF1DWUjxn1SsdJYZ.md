@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Scribe
 
-1,297 songs - 2 day 12 hr 23 min
+1,297 songs - 2 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 | 2023-05-25 | 2023-11-24 |
 | [Blackfellas](https://open.spotify.com/track/5fMsXmTH3E4SmwyQlaSSkO) | [Mitch Tambo](https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W), [Street Warriors](https://open.spotify.com/artist/10G7CzjtWKel5Ita5mur6v), [Jamahl Yami](https://open.spotify.com/artist/3Itv2bIVJFOjkW4UtMfclN) | [Blackfellas](https://open.spotify.com/album/08vYVJLZRXKkAcsawinKPE) | 3:33 | 2025-06-26 |  |
 | [BLACKSTONE BARS](https://open.spotify.com/track/3NGn8xvx51N1MjYWD2yTrZ) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B), [Blackstone Ipswich Cambrian Choir](https://open.spotify.com/artist/5s7Hm9qcQ3YBtTOSTxEvpc) | [BLACKSTONE BARS](https://open.spotify.com/album/5fMB5Leg2KCAkbEwInXIt0) | 1:42 | 2025-01-09 | 2025-03-07 |
+| [BLAK](https://open.spotify.com/track/2liTiTaaNaWC2XmNU7fo7d) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Niwa](https://open.spotify.com/artist/5soKNltN8UsPRYg2rdvkad) | [BLAK](https://open.spotify.com/album/6eHjrAfJdgKNHijzOxG8db) | 3:49 | 2025-09-04 |  |
 | [BLAKFELLA](https://open.spotify.com/track/3TaRKU7jQq7BNmJwMgwLAK) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx) | [THANKS FOR HAVING ME](https://open.spotify.com/album/14i4Pr3BIUBL4Zh1LEtVwO) | 1:48 | 2023-08-31 | 2024-02-16 |
 | [BLAKT OUT](https://open.spotify.com/track/5gPo3PN9qnOmFU7A8S7Bw8) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J) | [BLAKT OUT](https://open.spotify.com/album/5IMHm1KXhWS0KREd2STvKV) | 3:06 | 2024-10-17 | 2025-03-21 |
 | [Blatant](https://open.spotify.com/track/3GVJ2HWPsJKmS2heQNlVKl) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Kenzi](https://open.spotify.com/artist/1k9u7JugmvWXhT8AFk5MgS) | [Blatant](https://open.spotify.com/album/1oygzNCX0Q42cyNAwu3SJ7) | 2:57 | 2025-06-12 | 2025-08-01 |
@@ -1056,6 +1057,7 @@
 | [STARGAZING](https://open.spotify.com/track/3j9p8mytLdqHSYcGIkGYuq) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [STARGAZING](https://open.spotify.com/album/4DzFlutgVcuBtfHrY66Ieb) | 2:58 | 2023-08-17 | 2024-02-16 |
 | [STARZ](https://open.spotify.com/track/1CqoOUplAH5sRdTNfPhFLz) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [STARZ](https://open.spotify.com/album/3TXRE2cXcgKG8J9FL4pcaZ) | 2:29 | 2024-03-28 | 2024-06-14 |
 | [Steady](https://open.spotify.com/track/2x87Aklz120dbM31TrH4Kd) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Steady](https://open.spotify.com/album/71E26CGhROyl6RCXpathME) | 2:45 | 2022-03-21 | 2022-08-26 |
+| [Stellar](https://open.spotify.com/track/6SfghhgS2Ve90oVxUqkyQD) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw), [PBS Records](https://open.spotify.com/artist/0f2yScu3ov98xUKke2czf4) | [Stellar](https://open.spotify.com/album/6TsKGXNaD8akGWp30Xn2DL) | 2:04 | 2025-09-04 |  |
 | [STFU](https://open.spotify.com/track/0t0EfeuKC7KxM81YFG0TlX) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [STFU](https://open.spotify.com/album/23gd5mHihvt3OfxcCVXRAp) | 2:18 | 2024-10-17 | 2024-12-20 |
 | [STICK EM UP!](https://open.spotify.com/track/62lIUtkIg8JQiaY8A5ysFq) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [STICK EM UP!](https://open.spotify.com/album/4kcXtoSn13sxeQH5mAJdIX) | 2:00 | 2024-06-20 | 2024-08-31 |
 | [Sticky Bandit](https://open.spotify.com/track/2C7AFscuAFuUQUYhJE3lq4) | [Seth Sentry](https://open.spotify.com/artist/3N9qpKjXarCt5AIZRCeqr8) | [Sticky Bandit](https://open.spotify.com/album/1PbQNMLvO9BhqsFq1YQXwH) | 3:12 | 2025-08-07 |  |
@@ -1156,8 +1158,6 @@
 | [Tough Love](https://open.spotify.com/track/580M6DAWUqbm8Xen9hFzen) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [BBGB](https://open.spotify.com/artist/24WPoEQFxZRu8ITQ7QPxpW), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Tough Love](https://open.spotify.com/album/2oDAt5ppCdmPxX2FgDEO2Y) | 2:02 | 2022-07-14 | 2022-08-26 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 1](https://open.spotify.com/track/6SfghhgS2Ve90oVxUqkyQD) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw), [PBS Records](https://open.spotify.com/artist/0f2yScu3ov98xUKke2czf4) | [Stellar](https://open.spotify.com/album/6TsKGXNaD8akGWp30Xn2DL) | 0:00 | 2025-09-04 |  |
-| [Track 7](https://open.spotify.com/track/2liTiTaaNaWC2XmNU7fo7d) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [BLAK](https://open.spotify.com/album/6eHjrAfJdgKNHijzOxG8db) | 0:00 | 2025-09-04 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

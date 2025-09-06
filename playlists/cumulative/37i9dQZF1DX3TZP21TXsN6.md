@@ -4,7 +4,7 @@
 
 > Nieuw: Rz, Nafas, Def en meer...
 
-96 songs - 4 hr 3 min
+97 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Geen Rem](https://open.spotify.com/track/6HpbcKkSEN025utQb7Z8iH) | [Lavinnio](https://open.spotify.com/artist/4iJcUwlYdqkwZNVEiCJAYt), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy) | [Geen Rem](https://open.spotify.com/album/1gbDx70roNVXz41OZGzbV9) | 2:27 | 2025-07-17 | 2025-08-15 |
 | [GEEN TOE TOE](https://open.spotify.com/track/6OeYtYPUSwkbBnIZQoqVVW) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [Ramzi](https://open.spotify.com/artist/0b1QRmllg4XbtsIsos2haR) | [FRE & RAMZ](https://open.spotify.com/album/4ukR5ishPTF69q0AtKprOt) | 1:44 | 2025-07-17 | 2025-08-15 |
 | [Go](https://open.spotify.com/track/3fLESjsC71zz2QiABvWOtC) | [Dreamteam](https://open.spotify.com/artist/6ZnwZN3qKP8co3zW6O2gX3), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE) | [Go](https://open.spotify.com/album/72EV9hQ7zMoYnqAvyBL6dO) | 3:02 | 2025-07-17 | 2025-08-15 |
+| [GOED GENOEG](https://open.spotify.com/track/3eZyMDYsGHRgq5Tvtzt1Lq) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [HAUTE CULTURE](https://open.spotify.com/album/4FqHZ3hUSont4Kvj4qGA17) | 3:49 | 2025-09-05 |  |
 | [GTI](https://open.spotify.com/track/7soxmrETzoaFU4tTUbh2Uc) | [Appie Ovb](https://open.spotify.com/artist/70xzeX7n4xKVugUwpUWstN) | [GTI](https://open.spotify.com/album/6NvoGeoEzGLnbW0woRqG9X) | 1:35 | 2025-07-17 | 2025-08-15 |
 | [GUCCI TAS](https://open.spotify.com/track/7MVUH7OApPNjZI4rbuSeAO) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [GUCCI TAS](https://open.spotify.com/album/2G3bjDMjIW3yLRP7piQWIW) | 3:30 | 2025-08-07 |  |
 | [HAKIMI](https://open.spotify.com/track/19UkD9gQsKyFGNIdW1SwVF) | [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [HAKIMI](https://open.spotify.com/album/532Xd7ZKo2gXyBYxU2y7U2) | 2:13 | 2025-08-07 | 2025-09-05 |

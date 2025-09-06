@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-595 songs - 1 day 9 hr 54 min
+596 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Wings](https://open.spotify.com/track/64g07AL2XWZfXEcfEgMzaI) | [Maharani](https://open.spotify.com/artist/3eierPHdYDKLc9SmZh70MW), [ItsyaboiKay](https://open.spotify.com/artist/2B6HF8XA5T6hG0DmSG42q5) | [Wings](https://open.spotify.com/album/5wHoa5TTBvI4qhElruVqnq) | 4:16 | 2024-11-08 | 2025-01-18 |
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 | 2024-01-24 |
 | [Written By Holy Cow!](https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Written By Holy Cow!](https://open.spotify.com/album/3Ubf6xEUMzT0HqKsGy3Q6B) | 3:23 | 2024-08-01 | 2024-09-21 |
+| [YAAR AVAL](https://open.spotify.com/track/1o1eqqm0tqsiJuqeXvo8Y6) | [Akash Justin](https://open.spotify.com/artist/5w4yb5ve75X4sQmDYDRp4r) | [Yaar Aval](https://open.spotify.com/album/6voNv1UOmW6GskONazRKJM) | 2:28 | 2025-09-05 |  |
 | [Yaar Aval](https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme) | [Elan Hits](https://open.spotify.com/artist/13dpvM6NpIToJA4LIkBUx3) | [Yaar Aval](https://open.spotify.com/album/5Vz3Eju82OgxEmotHRcOJ7) | 4:45 | 2024-01-02 | 2024-07-30 |
 | [Yaaradiyo](https://open.spotify.com/track/53FD6AvDk6GhbWbtLWbm7D) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Samyuktha V](https://open.spotify.com/artist/0jhMaJGxY3zGdHpS6xJYFv), [Thirunavukarasu](https://open.spotify.com/artist/5UW43m1UMyl1eOeztikqoH) | [Yaaradiyo](https://open.spotify.com/album/1H6VBTuuhR3ih6Uy5kLUVb) | 3:33 | 2025-07-18 | 2025-08-26 |
 | [Yaarivalo](https://open.spotify.com/track/2dI2cj3XRES5nsWz0hyLf6) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn), [Kavya S Chandra](https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj) | [Yaarivalo](https://open.spotify.com/album/1fYNpp6rZy6KsyZhOalgOf) | 5:05 | 2025-06-25 |  |

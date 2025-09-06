@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-471 songs - 1 day 2 hr 35 min
+472 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-09-15 | 2025-03-14 |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2023-09-15 | 2025-03-14 |
 | [Starlings](https://open.spotify.com/track/2ZKy6cbPuG91WWWA47ipw1) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Starlings](https://open.spotify.com/album/00vGuFOKVjrBSWhdqt4sK9) | 4:17 | 2023-09-15 | 2025-03-14 |
+| [Stay](https://open.spotify.com/track/7dkLiX1LPbQC5B9Ez1lRyv) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Stay + Happy Ever After](https://open.spotify.com/album/0Cw5dNHIOJR5XCqcUgeT1D) | 2:46 | 2025-09-05 |  |
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-01 | 2025-03-14 |
 | [Strangers](https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 3:05 | 2025-08-08 |  |
 | [Stuck On You](https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Stuck On You](https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX) | 3:25 | 2025-03-26 | 2025-07-25 |

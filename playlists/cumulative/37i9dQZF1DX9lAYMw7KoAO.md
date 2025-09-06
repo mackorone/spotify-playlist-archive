@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=Cq4RsTB2RXKpw8OiTj804A>Tkeyz</a>
 
-458 songs - 1 day 16 hr 8 min
+459 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 | 2023-06-23 | 2023-07-28 |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-07-28 | 2025-04-01 |
 | [JUBA](https://open.spotify.com/track/3y8fl4vQjkHjOaHc0nHmXU) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 3:01 | 2024-11-22 |  |
+| [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 | 2025-09-05 |  |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-03-11 | 2023-05-05 |
 | [Kadosh](https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 6:04 | 2023-12-31 | 2024-01-04 |
 | [KAZI YA MIKONO YAKO](https://open.spotify.com/track/1nDx1zxdIOAV5FcX1FqFAv) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [ALBUM 17](https://open.spotify.com/album/4WoahTaBd4IJWTWcpW0bNw) | 4:23 | 2023-03-31 | 2023-04-28 |
@@ -462,7 +463,7 @@
 | [Your Majesty](https://open.spotify.com/track/1cNwtKvurBgKUzO4fqJRBR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 3:27 | 2023-12-31 | 2024-01-04 |
 | [Your Majesty](https://open.spotify.com/track/03X6MyoC2RWPKlQLF6cAZ9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Your Majesty](https://open.spotify.com/album/1Kum4XMRzZbeh9aLyv6EuD) | 3:39 | 2023-03-31 | 2023-04-28 |
 | [Your Mind \- Special Version](https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Your Mind \(Special Version\)](https://open.spotify.com/album/2xaT3sv1yzdowOog413zn0) | 2:54 | 2023-04-28 | 2023-06-09 |
-| [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 | 2025-05-23 |  |
+| [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 | 2025-05-23 | 2025-09-06 |
 | [Zion \(Gbe\)](https://open.spotify.com/track/57p3KH8I42tHFBVrQwtjlw) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Zion \(Gbe\)](https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ) | 2:44 | 2023-05-05 | 2023-06-02 |
 | [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 | 2023-06-23 |
 | [Zundithwale](https://open.spotify.com/track/6HbOtnuHEmiw4LamzldGO5) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Kuphelele](https://open.spotify.com/album/0vdSnIOGJImM0JdL2m7C94) | 4:35 | 2023-12-31 | 2024-01-04 |

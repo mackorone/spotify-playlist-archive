@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,713 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,723 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 6 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 |
 | 7 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 |
 | 8 | [Shake That](https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90) | 2:59 |
-| 9 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 |
+| 9 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
 | 10 | [SAY IT RIGHT](https://open.spotify.com/track/0OqwQgw65uPda8vhAwC6Dj) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [SAY IT RIGHT](https://open.spotify.com/album/0JAVn7KQVTjlnoO8nOBhHu) | 3:33 |
-| 11 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
+| 11 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 |
 | 12 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
 | 13 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 |
 | 14 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |

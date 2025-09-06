@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 628391,
+  "num_followers": 628534,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
+        "name": "From Me",
+        "url": "https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 170157,
+      "name": "Back in the Bottle",
+      "url": "https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
         "name": "I Met This Girl",
         "url": "https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 199615,
       "name": "I Met This Girl",
       "url": "https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
-        "name": "Burnpile",
-        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "Burnpile",
-      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
+        "name": "Burnpile",
+        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "Burnpile",
+      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
         "name": "Whiskey Lullaby",
         "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 269594,
       "name": "Whiskey Lullaby",
       "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
-        "name": "From Me",
-        "url": "https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 170157,
-      "name": "Back in the Bottle",
-      "url": "https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "With or Without Me",
-        "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
-      },
-      "artists": [
-        {
-          "name": "Gannon Fremin & CCREV",
-          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
-        }
-      ],
-      "duration_ms": 222294,
-      "name": "With or Without Me",
-      "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "Alexis Texas",
         "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 164441,
       "name": "Alexis Texas",
       "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "With or Without Me",
+        "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
+      },
+      "artists": [
+        {
+          "name": "Gannon Fremin & CCREV",
+          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
+        }
+      ],
+      "duration_ms": 222294,
+      "name": "With or Without Me",
+      "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "If I Know You",
+        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 163637,
+      "name": "Midnight Dancer",
+      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1415,6 +1411,26 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
         "name": "Off The Rails",
         "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "If I Know You",
-        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
-      },
-      "artists": [
-        {
-          "name": "Aaron McBee",
-          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
-        }
-      ],
-      "duration_ms": 163637,
-      "name": "Midnight Dancer",
-      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -1459,38 +1459,6 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
-        "name": "Dirt Road When I Die - EP",
-        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "Dirt Road When I Die",
-      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
-        "name": "Made For This",
-        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 223693,
-      "name": "Made For This",
-      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1515,6 +1483,38 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 223693,
+      "name": "Made For This",
+      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "Dirt Road When I Die - EP",
+        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "duration_ms": 174280,
+      "name": "Dirt Road When I Die",
+      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "VICES",
-        "url": "https://open.spotify.com/album/0nK0xwQwzO1Har2LoMuXSy"
-      },
-      "artists": [
-        {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
-        }
-      ],
-      "duration_ms": 152441,
-      "name": "VICES",
-      "url": "https://open.spotify.com/track/50otBPum6Ok3S5zIxtV0rc"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "VICES",
+        "url": "https://open.spotify.com/album/0nK0xwQwzO1Har2LoMuXSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 152441,
+      "name": "VICES",
+      "url": "https://open.spotify.com/track/50otBPum6Ok3S5zIxtV0rc"
     },
     {
       "added_at": "2025-09-05 01:52:34",

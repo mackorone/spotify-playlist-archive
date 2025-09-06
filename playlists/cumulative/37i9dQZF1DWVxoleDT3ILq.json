@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Spiral Vortex",
+  "description": "Todo el sonido indie de Chile. Foto: Vicente Cifuentes",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -4102,6 +4102,28 @@
       "duration_ms": 187554,
       "name": "Herida",
       "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
+    },
+    {
+      "album": {
+        "name": "Hola Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/4Vm948eV7Cl64hm222UI0x"
+      },
+      "artists": [
+        {
+          "name": "Sabina Odone",
+          "url": "https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj"
+        },
+        {
+          "name": "Barbie Williams",
+          "url": "https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Hola Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/58e7WaBoTfncrNn9AAoXTi"
     },
     {
       "album": {
@@ -8261,6 +8283,24 @@
     },
     {
       "album": {
+        "name": "Se Vienen Cosas Pronto",
+        "url": "https://open.spotify.com/album/60SIHaSvtNa9GAE2zPHgCT"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174420,
+      "name": "Se Vienen Cosas Pronto",
+      "url": "https://open.spotify.com/track/66lfQAOmlh653RETZfhjmc"
+    },
+    {
+      "album": {
         "name": "Secreto de cuatro paredes (Acoustic)",
         "url": "https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3"
       },
@@ -10328,6 +10368,24 @@
       "duration_ms": 160533,
       "name": "Volver a Llorar",
       "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "album": {
+        "name": "Voy Creciendo",
+        "url": "https://open.spotify.com/album/1JurxSBNmixlIYvpVltsbE"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186440,
+      "name": "Voy Creciendo",
+      "url": "https://open.spotify.com/track/0fQ9xQq5xbUKXLMzYeKJw2"
     },
     {
       "album": {

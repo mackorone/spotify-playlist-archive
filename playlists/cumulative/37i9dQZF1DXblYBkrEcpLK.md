@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-784 songs - 2 day 3 hr 50 min
+785 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 | 2025-03-12 |
 | [ブルースター](https://open.spotify.com/track/63Inh89k5OmQRLaQlMdDgw) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [ブルースター](https://open.spotify.com/album/7dm61RWHQFUhP1Lyqv8Bul) | 3:54 | 2024-03-26 | 2024-04-17 |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |
+| [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2025-08-21 |  |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2022-06-24 | 2022-06-29 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |
 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 | 2025-07-22 |  |
@@ -613,7 +614,7 @@
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-09 | 2024-02-14 |
 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-21 | 2025-07-25 |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-09 | 2022-07-29 |
-| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
+| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 | 2025-09-06 |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-12 | 2022-09-21 |
 | [制服](https://open.spotify.com/track/17NRaW1lyJdj359L5zk7DL) | [Ayane Sakura](https://open.spotify.com/artist/17uMaak4xTNl5roQnxUVvw) | [VOICE\~声優たちが歌う松田聖子ソング\~ \(Female Edition\)](https://open.spotify.com/album/6fUH571p2INdf32SFdpBQ2) | 3:53 | 2022-07-07 | 2022-07-15 |
 | [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-04-16 | 2024-07-14 |

@@ -1,13 +1,33 @@
 {
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: MB, Souldia, White-B, Lost",
-  "num_followers": 89000,
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Die-On, Tel Kel",
+  "num_followers": 89005,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4eMMnvQeulDwk0k2ET64YQTWsn",
+  "snapshot_id": "AAAAAI7fZ+J48IRsX7nrEHuYBHHR+dKt",
   "tracks": [
+    {
+      "added_at": "2025-09-05 14:56:16",
+      "album": {
+        "name": "L\u00e0-Haut",
+        "url": "https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        }
+      ],
+      "duration_ms": 162833,
+      "name": "L\u00e0-Haut",
+      "url": "https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN"
+    },
     {
       "added_at": "2025-08-22 00:01:27",
       "album": {

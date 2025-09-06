@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-734 songs - 1 day 15 hr 23 min
+735 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-12-26 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2021-10-01 | 2024-04-19 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-01 |  |
+| [Fig Tree](https://open.spotify.com/track/7Lckkp7PfiPSfwX1TULfY9) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Fig Tree](https://open.spotify.com/album/4ZvwHeUBPjL82SU5QONcha) | 2:44 | 2025-09-05 |  |
 | [Fine Apple](https://open.spotify.com/track/1ts8KebAIm5xCiGInoWiqp) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Fine Apple](https://open.spotify.com/album/3nxwixOHCqSre8Ycbuypqv) | 2:33 | 2021-06-14 | 2023-04-04 |
 | [Flower in the Dark](https://open.spotify.com/track/3hJLnSftUXXFXZFg03w0Gu) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Flower in the Dark](https://open.spotify.com/album/0ZkzYgmAzJ0jWSUHNAjJyt) | 3:44 | 2021-10-22 | 2022-04-20 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 |  |

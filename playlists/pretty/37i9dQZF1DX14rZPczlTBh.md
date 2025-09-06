@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,332 likes - 50 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,360 likes - 50 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 12 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 |
 | 13 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
 | 14 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
-| 15 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
-| 16 | [Theme of Gharshanaa](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshanaa](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 |
+| 15 | [Theme of Gharshanaa](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshanaa](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 |
+| 16 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
 | 17 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |
 | 18 | [Train Station Scene](https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:52 |
 | 19 | [And the Saturdays Continue](https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:28 |

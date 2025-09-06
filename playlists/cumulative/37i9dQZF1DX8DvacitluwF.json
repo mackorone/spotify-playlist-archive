@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: lordkez",
+  "description": "The best in South African and international R&B. Cover: Siinaye",
   "name": "R&Beats",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 216223,
       "name": "10AM",
       "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 152195,
       "name": "FEEL SOMETHING",
       "url": "https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j"
@@ -5585,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+    },
+    {
+      "album": {
         "name": "Lag\u00f4",
         "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
       },
@@ -7076,6 +7094,24 @@
       "duration_ms": 175552,
       "name": "near you",
       "url": "https://open.spotify.com/track/2xdRUmNXUnvLcBR000790v"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "NEED IT",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL"
     },
     {
       "album": {
@@ -9341,6 +9377,28 @@
     },
     {
       "album": {
+        "name": "Sonini",
+        "url": "https://open.spotify.com/album/0nTT2okOPit3hf14FwSGtl"
+      },
+      "artists": [
+        {
+          "name": "siinaye",
+          "url": "https://open.spotify.com/artist/4iCyRYyLMg9tzqpWRFbQhm"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185583,
+      "name": "Sonini",
+      "url": "https://open.spotify.com/track/6Dy6xKYYOyEjI2iXFS5lri"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
       },
@@ -11042,7 +11100,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 206524,
       "name": "Venting",
       "url": "https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4"

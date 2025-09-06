@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 154353,
+  "num_followers": 154414,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
+      },
+      "artists": [
+        {
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Justin Warfield",
+          "url": "https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Bug Powder Dust",
+      "url": "https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Journey Man",
         "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 366387,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
-      },
-      "artists": [
-        {
-          "name": "Bomb The Bass",
-          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
-        },
-        {
-          "name": "Justin Warfield",
-          "url": "https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Bug Powder Dust",
-      "url": "https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "9 PM (Till I Come)",
-        "url": "https://open.spotify.com/album/428Ab5xsfGFbb1wnxofCHz"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "9 PM (Till I Come) - Radio Edit",
-      "url": "https://open.spotify.com/track/0pGJlSKAbf80ZCjP0X4hWJ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 379160,
       "name": "We Have Explosive",
       "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "9 PM (Till I Come)",
+        "url": "https://open.spotify.com/album/428Ab5xsfGFbb1wnxofCHz"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "9 PM (Till I Come) - Radio Edit",
+      "url": "https://open.spotify.com/track/0pGJlSKAbf80ZCjP0X4hWJ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Spin Spin Sugar",
-        "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "Spin Spin Sugar - Armands Dark Garage Mix",
-      "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 347106,
       "name": "My Kingdom",
       "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Spin Spin Sugar",
+        "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
+      },
+      "artists": [
+        {
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "Spin Spin Sugar - Armands Dark Garage Mix",
+      "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+      "duration_ms": 218026,
+      "name": "Red Alert (Jaxx Radio Mix)",
+      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Red Alert (Jaxx Radio Mix)",
-      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Since I Left You",
         "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 288346,
       "name": "Frontier Psychiatrist",
       "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Decksandrumsandrockandroll 20th anniversary",
         "url": "https://open.spotify.com/album/0FJ4Yv9u3PSc1Fg5KnBzNz"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/4CiWchFxrlhqLxrkNFzd3p"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
     },
     {
       "added_at": "2021-07-14 17:36:34",

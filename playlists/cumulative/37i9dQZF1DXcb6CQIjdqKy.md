@@ -2,7 +2,7 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: Naomi Raine
+> The best mix of today's Christian music, all genres, worldwide\. Cover: The Gray Havens
 
 1,193 songs - 3 day 9 hr 16 min
 

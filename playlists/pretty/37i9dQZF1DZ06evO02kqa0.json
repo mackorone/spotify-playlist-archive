@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39609,
+  "num_followers": 39613,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAB8URDHLtb2KZ6Nj7yLXbFI",
+  "snapshot_id": "aLjWgAAAAAAKpav0QURQ/6NY1DvFOJF1",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 242905,
-      "name": "Vissi d'arte",
-      "url": "https://open.spotify.com/track/0NGd3IBIIedJteP0c4fzNn"
+      "duration_ms": 121282,
+      "name": "Piangete voi",
+      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 121282,
-      "name": "Piangete voi",
-      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
+      "duration_ms": 242905,
+      "name": "Vissi d'arte",
+      "url": "https://open.spotify.com/track/0NGd3IBIIedJteP0c4fzNn"
     },
     {
       "added_at": null,
@@ -475,6 +475,34 @@
       "duration_ms": 182120,
       "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
       "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
+        "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Arturo Basile",
+          "url": "https://open.spotify.com/artist/1J0Clrl4D0cAbGmRKn9X5q"
+        },
+        {
+          "name": "Orchestra Sinfonica Di Torino Della Rai",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+        }
+      ],
+      "duration_ms": 71506,
+      "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
+      "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
     },
     {
       "added_at": null,
@@ -523,34 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas sings Great Arias from French Operas - Callas Remastered",
-        "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
-      },
-      "artists": [
-        {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "French National Radio Orchestra",
-          "url": "https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ"
-        }
-      ],
-      "duration_ms": 266853,
-      "name": "Gluck: Alceste, Wq. 44, Act 1: \"Divinit\u00e9s du Styx\" (Alceste)",
-      "url": "https://open.spotify.com/track/3byUSMrEejPJkMv9MfjUqe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maria (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
       },
@@ -595,30 +595,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
-        "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
+        "name": "Callas sings Great Arias from French Operas - Callas Remastered",
+        "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
       },
       "artists": [
         {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Arturo Basile",
-          "url": "https://open.spotify.com/artist/1J0Clrl4D0cAbGmRKn9X5q"
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
         },
         {
-          "name": "Orchestra Sinfonica Di Torino Della Rai",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+          "name": "French National Radio Orchestra",
+          "url": "https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ"
         }
       ],
-      "duration_ms": 71506,
-      "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
-      "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
+      "duration_ms": 266853,
+      "name": "Gluck: Alceste, Wq. 44, Act 1: \"Divinit\u00e9s du Styx\" (Alceste)",
+      "url": "https://open.spotify.com/track/3byUSMrEejPJkMv9MfjUqe"
     },
     {
       "added_at": null,
@@ -759,6 +759,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
+        "url": "https://open.spotify.com/album/7l9aRLHFrTictdjkTbtpQs"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 149413,
+      "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
+      "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -787,34 +815,6 @@
       "duration_ms": 242586,
       "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
-        "url": "https://open.spotify.com/album/7l9aRLHFrTictdjkTbtpQs"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 149413,
-      "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
-      "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
     },
     {
       "added_at": null,
@@ -915,34 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas Legendary Recordings",
-        "url": "https://open.spotify.com/album/7fXhJix9RarIVr9Mu9Y6dg"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        }
-      ],
-      "duration_ms": 151613,
-      "name": "La sonnambula, Act I: Come per me sereno",
-      "url": "https://open.spotify.com/track/7vaOkwJbNRs4xXc3xaTivD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Callas sings Verdi Arias - Callas Remastered",
         "url": "https://open.spotify.com/album/43Oj8WPSXSp20lwk2DqPrx"
       },
@@ -967,6 +939,34 @@
       "duration_ms": 289173,
       "name": "Verdi: Otello, Act 4: \"Ave Maria piena di grazia\" (Desdemona)",
       "url": "https://open.spotify.com/track/6DU2Ydz1UPU2zpgc6f930A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria Callas Legendary Recordings",
+        "url": "https://open.spotify.com/album/7fXhJix9RarIVr9Mu9Y6dg"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        }
+      ],
+      "duration_ms": 151613,
+      "name": "La sonnambula, Act I: Come per me sereno",
+      "url": "https://open.spotify.com/track/7vaOkwJbNRs4xXc3xaTivD"
     },
     {
       "added_at": null,

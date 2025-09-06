@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-129 songs - 9 hr 8 min
+130 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Nuestra señal](https://open.spotify.com/track/0ivCfQOgLtBZayOHludHzD) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:11 | 2025-04-14 | 2025-05-15 |
 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 | 2022-09-16 | 2025-04-14 |
 | [Nuestra señal](https://open.spotify.com/track/5YSm9SGD4e1MPgsmsQfSdf) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:11 | 2025-05-15 |  |
+| [Nunca Nunca](https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [NUNCA NUNCA](https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1) | 4:41 | 2025-09-06 |  |
 | [Para siempre](https://open.spotify.com/track/0fRF5Gqh8rlFmPsYCQDOJW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:18 | 2022-09-16 | 2025-04-13 |
 | [Para siempre](https://open.spotify.com/track/5YJUuNUWVD5UYg0S7WPuHr) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 4:18 | 2025-04-13 |  |
 | [Para Ti](https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:51 | 2022-09-16 | 2025-04-13 |

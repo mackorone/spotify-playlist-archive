@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Mudvayne.",
-  "num_followers": 9031,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
+  "num_followers": 9032,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAOqN64nlfCR+2ak4eGfkOz0SfpSFbB",
+  "snapshot_id": "AAAOsqglManuh8mCvSATxf10ue0aCmlB",
   "tracks": [
+    {
+      "added_at": "2025-09-05 19:54:46",
+      "album": {
+        "name": "End of You",
+        "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "End of You",
+      "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
+    },
+    {
+      "added_at": "2025-09-05 19:54:33",
+      "album": {
+        "name": "The Clock Behind All Other Clocks",
+        "url": "https://open.spotify.com/album/1GCFvNKZHAONrInVx2jjYJ"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "The Clock Behind All Other Clocks",
+      "url": "https://open.spotify.com/track/43Umu6ltSRIbhUyYiEOog6"
+    },
+    {
+      "added_at": "2025-09-05 19:54:22",
+      "album": {
+        "name": "deadwired",
+        "url": "https://open.spotify.com/album/73RthiLmt6ZapCWA2QKdwY"
+      },
+      "artists": [
+        {
+          "name": "Bodyweb",
+          "url": "https://open.spotify.com/artist/3huApecbypmvQJVccpEoxj"
+        }
+      ],
+      "duration_ms": 148721,
+      "name": "no faith",
+      "url": "https://open.spotify.com/track/6O6NyA4HXvkWkMsACy0ifP"
+    },
+    {
+      "added_at": "2025-09-05 19:55:36",
+      "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
+    },
+    {
+      "added_at": "2025-09-05 19:55:46",
+      "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
+    },
+    {
+      "added_at": "2025-09-05 19:55:59",
+      "album": {
+        "name": "Cause and Effect",
+        "url": "https://open.spotify.com/album/6CQtBCHTEO5B55CeS2ozek"
+      },
+      "artists": [
+        {
+          "name": "SPACED",
+          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
+        }
+      ],
+      "duration_ms": 134309,
+      "name": "Cause and Effect",
+      "url": "https://open.spotify.com/track/7GFgKhMWaQO94MZH6owNnN"
+    },
     {
       "added_at": "2025-08-29 18:47:21",
       "album": {
@@ -892,7 +996,7 @@
           "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
         }
       ],
-      "duration_ms": 249676,
+      "duration_ms": 248718,
       "name": "Uh Yaya",
       "url": "https://open.spotify.com/track/7rvPUq1aEiKrPJckEwWwAm"
     },

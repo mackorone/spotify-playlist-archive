@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36615,
+  "num_followers": 36614,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAOGZo5TohZ2zoiWY2x3K8V",
+  "snapshot_id": "aLjWgAAAAACTEhgspb3dGN5nx5Fv3F9c",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hand That Keeps Holding Me",
-        "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
+        "name": "Already Good (Tasha Slide)",
+        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 291722,
-      "name": "The Hand That Keeps Holding Me",
-      "url": "https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7"
+      "duration_ms": 222082,
+      "name": "Already Good (Tasha Slide)",
+      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Already Good (Tasha Slide)",
-        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
+        "name": "The Hand That Keeps Holding Me",
+        "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 222082,
-      "name": "Already Good (Tasha Slide)",
-      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+      "duration_ms": 291722,
+      "name": "The Hand That Keeps Holding Me",
+      "url": "https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7"
     },
     {
       "added_at": null,
@@ -391,30 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Water (Church Sessions)",
-        "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 464809,
-      "name": "Holy Water - Church Sessions",
-      "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 177201,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Water (Church Sessions)",
+        "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 464809,
+      "name": "Holy Water - Church Sessions",
+      "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome Home (Live)",
+        "url": "https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 461772,
+      "name": "Rain - Live",
+      "url": "https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chandler Moore: Live in Los Angeles",
         "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
       },
@@ -735,6 +755,46 @@
       "duration_ms": 552401,
       "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In The South",
+        "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 242362,
+      "name": "Big Heart (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 292860,
+      "name": "God In The Valley",
+      "url": "https://open.spotify.com/track/2hb6mXABA5exLn0aX5OdEm"
     },
     {
       "added_at": null,
@@ -771,62 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 292860,
-      "name": "God In The Valley",
-      "url": "https://open.spotify.com/track/2hb6mXABA5exLn0aX5OdEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In The South",
-        "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 242362,
-      "name": "Big Heart (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home (Live)",
-        "url": "https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 461772,
-      "name": "Rain - Live",
-      "url": "https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg"
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,

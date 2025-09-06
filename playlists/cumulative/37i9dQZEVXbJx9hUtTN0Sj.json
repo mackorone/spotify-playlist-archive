@@ -5671,6 +5671,40 @@
     },
     {
       "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Alexiane Broque",
+          "url": "https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD"
+        },
+        {
+          "name": "Jeanne J\u00e9rosme",
+          "url": "https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK"
+        },
+        {
+          "name": "Clotilde Verry",
+          "url": "https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Briller - Golden - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R"
+    },
+    {
+      "album": {
         "name": "Broken English",
         "url": "https://open.spotify.com/album/3H0cWLh4X4x5TB8TTkE3LE"
       },
@@ -9476,7 +9510,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 104431,
       "name": "Devil in Disguise",
       "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
@@ -22502,7 +22536,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 185000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5iH81hIpxAYJKrominvxST"
@@ -32433,14 +32467,10 @@
     },
     {
       "album": {
-        "name": "Sippin",
+        "name": "Sippin (Milco Remix)",
         "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
       },
       "artists": [
-        {
-          "name": "Milco",
-          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
-        },
         {
           "name": "DEJA",
           "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
@@ -32450,7 +32480,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158075,
-      "name": "Sippin",
+      "name": "Sippin (Milco Remix)",
       "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
     },
     {
@@ -38530,7 +38560,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 178577,
       "name": "Voorbestemd",
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"

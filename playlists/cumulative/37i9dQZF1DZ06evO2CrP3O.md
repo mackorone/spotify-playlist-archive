@@ -4,7 +4,7 @@
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 27 min
+59 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Heart Of Glass \- Remix](https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines: Deluxe Collector's Edition](https://open.spotify.com/album/6raionWfBxaJphE3mc8Y4h) | 4:09 | 2025-03-08 |  |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2025-03-08 |  |
 | [Here's Looking At You \- Remastered 2001](https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 2:58 | 2025-03-08 |  |
+| [Hot Shot \- David Wrench 2025 Mix](https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Hot Shot \(David Wrench 2025 Mix\)](https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ) | 3:37 | 2025-09-06 |  |
 | [In The Flesh \- Remastered 2001](https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:33 | 2025-03-08 |  |
 | [In The Sun \- Remastered 2001](https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:39 | 2025-03-08 |  |
 | [Island Of Lost Souls](https://open.spotify.com/track/5xDOndGOZHlfO8U0avumDy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:50 | 2025-03-08 | 2025-05-24 |
@@ -55,7 +56,7 @@
 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 | 2025-03-08 |  |
 | [Rip Her To Shreds \- Remastered 2001](https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 | 2025-03-08 |  |
 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 | 2025-03-08 |  |
-| [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 | 2025-03-08 |  |
+| [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 | 2025-03-08 | 2025-09-06 |
 | [Sunday Girl \- French Version](https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Sunday Girl](https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw) | 3:14 | 2025-03-08 |  |
 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 | 2025-03-08 |  |
 | [The Hardest Part](https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:42 | 2025-03-08 |  |

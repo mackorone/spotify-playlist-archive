@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,622 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,757 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
 | 60 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 |
 
-Snapshot ID: `AAAAAMHFm0h5IaKiLw65/kNhU1Kh33K+`
+Snapshot ID: `AAAAAMIiogLIyHf0ftEFjdvmwGA2ZcbA`

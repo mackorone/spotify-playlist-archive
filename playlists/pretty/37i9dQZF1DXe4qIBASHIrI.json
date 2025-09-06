@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 172492,
+  "num_followers": 172532,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Recuerdos del Futuro",
-        "url": "https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe"
-      },
-      "artists": [
-        {
-          "name": "Abominables",
-          "url": "https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
         "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 277626,
       "name": "Minutos de Aire (feat. Jorge Gonzalez)",
       "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Recuerdos del Futuro",
+        "url": "https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe"
+      },
+      "artists": [
+        {
+          "name": "Abominables",
+          "url": "https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "T\u00fa Est\u00e1s M\u00e1s",
-      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Los Super Elegantes Ep",
         "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 225026,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "T\u00fa Est\u00e1s M\u00e1s",
+      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sentado Aqu\u00ed",
-        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 260949,
-      "name": "Sentado Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 254889,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sentado Aqu\u00ed",
+        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 260949,
+      "name": "Sentado Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Bella \u00c9poca",
+        "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "duration_ms": 174120,
+      "name": "Dej\u00e9 de Ser Yo",
+      "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Fumemos un cigarrillo (Soundtrack Original de la Pel\u00edcula)",
         "url": "https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 241813,
       "name": "Fumemos un cigarrillo - Soundtrack Original de la Pel\u00edcula",
       "url": "https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Bella \u00c9poca",
-        "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "Dej\u00e9 de Ser Yo",
-      "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
     },
     {
       "added_at": "2023-09-01 16:42:45",

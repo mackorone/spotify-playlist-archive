@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174,891 likes - 200 songs - 17 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175,038 likes - 200 songs - 17 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,10 +197,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 187 | [Parole Parole](https://open.spotify.com/track/1vN6YNWnQcZ2K6YxZruYZ2) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Parole Parole](https://open.spotify.com/album/10glt1hIgdPws9IDxVqeC3) | 4:36 |
 | 188 | [Gnostic](https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Gnostic](https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis) | 3:36 |
 | 189 | [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 |
-| 190 | [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 |
-| 191 | [Nancy \(with the Laughing Face\)](https://open.spotify.com/track/6TKM3SZVfwS7G0qsqyWfzk) | [CLC TRIO](https://open.spotify.com/artist/55Nzzm5voEkVZ1rzKq10Rr) | [Nancy \(with the Laughing Face\)](https://open.spotify.com/album/2Lj7miVFzrkyI0d3dbc1aO) | 6:18 |
-| 192 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
-| 193 | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/3Iv8dZWyTMHi1H1JLFxGZs) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/album/563ZBKglhaIJp95YykQcm6) | 3:48 |
+| 190 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
+| 191 | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/3Iv8dZWyTMHi1H1JLFxGZs) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/album/563ZBKglhaIJp95YykQcm6) | 3:48 |
+| 192 | [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 |
+| 193 | [Nancy \(with the Laughing Face\)](https://open.spotify.com/track/6TKM3SZVfwS7G0qsqyWfzk) | [CLC TRIO](https://open.spotify.com/artist/55Nzzm5voEkVZ1rzKq10Rr) | [Nancy \(with the Laughing Face\)](https://open.spotify.com/album/2Lj7miVFzrkyI0d3dbc1aO) | 6:18 |
 | 194 | [In A Sentimental Mood](https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In A Sentimental Mood](https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s) | 5:06 |
 | 195 | [Wall](https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy), [Matthias Hemstock](https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU) | [Wall](https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9) | 4:59 |
 | 196 | [Cycles](https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Cycles](https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ) | 4:19 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 199 | [Solitude](https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8) | [Ari Bragi Kárason](https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Solitude](https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3) | 3:18 |
 | 200 | [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 |
 
-Snapshot ID: `AAAAANQCo96PQguk0vFtPSvAE1r7fFKb`
+Snapshot ID: `AAAAAIdRgBvJVFNJgZSRcBoVEc/9lkpt`

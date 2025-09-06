@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,301 likes - 217 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,401 likes - 218 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,8 +222,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 | 212 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/4tw2MGyKR4FW8vIShly7T9) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 2:55 |
 | 213 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 |
 | 214 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/337NNxsOqWueShlE1lozpQ) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 |
-| 215 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
-| 216 | [Winnie the Pooh](https://open.spotify.com/track/7gKHQy915DlMWd1xuF11BO) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:54 |
-| 217 | [Can You Feel the Love Tonight](https://open.spotify.com/track/3rKHQbK0pKqy0KUjamgHBc) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 3:19 |
+| 215 | [Hera's Theme](https://open.spotify.com/track/4NljQvHzcAIMzrQ7Hno57U) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 3:36 |
+| 216 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
+| 217 | [Winnie the Pooh](https://open.spotify.com/track/7gKHQy915DlMWd1xuF11BO) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:54 |
+| 218 | [Can You Feel the Love Tonight](https://open.spotify.com/track/3rKHQbK0pKqy0KUjamgHBc) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 3:19 |
 
-Snapshot ID: `AAAAAPMp/XCKLSo+z3WDMjEIlo1hufm3`
+Snapshot ID: `AAAAAPU17/aNb7KEY1VniBvJq89yZBNX`

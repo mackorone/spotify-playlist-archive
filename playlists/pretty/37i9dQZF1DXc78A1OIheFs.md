@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,152 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,154 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 23 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 |
 | 24 | [No Joy](https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [No Joy](https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7) | 3:17 |
 | 25 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 |
-| 26 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
-| 27 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
+| 26 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
+| 27 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
 | 28 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 29 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
 | 30 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 61 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 |
 | 62 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 |
 | 63 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 |
-| 64 | [Candy](https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Candy](https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO) | 2:51 |
-| 65 | [Live It Up \(with The Green\)](https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Caleb Keolanui](https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk) | [Live It Up \(with The Green\)](https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA) | 4:00 |
+| 64 | [Live It Up \(with The Green\)](https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Caleb Keolanui](https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk) | [Live It Up \(with The Green\)](https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA) | 4:00 |
+| 65 | [Candy](https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Candy](https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO) | 2:51 |
 | 66 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |
 | 67 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 |
 | 68 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 69 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
 | 70 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 |
-| 71 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
+| 71 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 72 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
 | 73 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
-| 74 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
-| 75 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 |
+| 74 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 |
+| 75 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
 
 Snapshot ID: `AAAAAIXQtGSbtKWrkmq5z7rpcoyYYx3P`

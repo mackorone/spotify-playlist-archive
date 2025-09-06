@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,855 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,858 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 43 | [선문답](https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Yangdonggeun a.k.a Madman](https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R) | 4:03 |
 | 44 | [Movement 4](https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13) | [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41) | [Bizzionary](https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM) | 7:57 |
 | 45 | [compass](https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 4:20 |
-| 46 | [Stars \(feat\. Verbal Jint & Swings\)](https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 3:38 |
-| 47 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 |
+| 46 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 |
+| 47 | [Stars \(feat\. Verbal Jint & Swings\)](https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 3:38 |
 | 48 | [Handalas](https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Handalas](https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8) | 3:36 |
 | 49 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |
 | 50 | [Again](https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp) | [Onesun](https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU), [T'ache](https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r), [Mithra Jin](https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:42 |

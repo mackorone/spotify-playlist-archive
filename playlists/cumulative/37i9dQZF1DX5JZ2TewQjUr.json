@@ -6881,6 +6881,28 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0hz9xSkSqkUQvj2goTmySx"
+      },
+      "artists": [
+        {
+          "name": "KENI",
+          "url": "https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS"
+        },
+        {
+          "name": "Novel Friday",
+          "url": "https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/3MMQti3NMAQDe9voFoALZ1"
+    },
+    {
+      "album": {
         "name": "ODDESSY",
         "url": "https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK"
       },

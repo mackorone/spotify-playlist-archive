@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "808s & 6 STRINGS",
+        "url": "https://open.spotify.com/album/2i8O2Rmi5Dz9Ft63l5Mw0a"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153674,
+      "name": "808s & 6 STRINGS",
+      "url": "https://open.spotify.com/track/7sYxnp5tnkwziJbOoQnwcb"
+    },
+    {
+      "album": {
         "name": "All I Ever Asked (with sombr)",
         "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
       },
@@ -467,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Dying",
+        "url": "https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh"
       },
@@ -482,6 +518,24 @@
       "duration_ms": 184615,
       "name": "Echo",
       "url": "https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i"
+    },
+    {
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "album": {
@@ -568,7 +622,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 192333,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG"
@@ -658,7 +712,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 211589,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/18U6jWNo6xI9lqPA7qKNmf"
@@ -712,7 +766,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 219840,
       "name": "Harder To Love",
       "url": "https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r"
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 160636,
       "name": "Love You 'Til Death",
       "url": "https://open.spotify.com/track/7sqnVoTweuQofjz32gmDQl"
@@ -1029,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Matches & Gasoline",
+        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287063,
+      "name": "Matches & Gasoline",
+      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+    },
+    {
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
       },
@@ -1062,6 +1134,24 @@
       "duration_ms": 183929,
       "name": "Medusa (Acoustic)",
       "url": "https://open.spotify.com/track/4MnYLHydHtkAF9CrIIcjHU"
+    },
+    {
+      "album": {
+        "name": "Wayfindr",
+        "url": "https://open.spotify.com/album/1NE21Tiitf0unIlXMnSJXf"
+      },
+      "artists": [
+        {
+          "name": "Mufaro",
+          "url": "https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169148,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1BxvWP9iODgryOG53TojYS"
     },
     {
       "album": {
@@ -1639,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "The Knife In My Back",
+        "url": "https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "The Knife In My Back",
+      "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ"
       },
@@ -1820,7 +1928,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/0fzCczqLzsWvvMobo1dUmy"
@@ -1856,7 +1964,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 187666,
       "name": "Your New Favorite Song",
       "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"

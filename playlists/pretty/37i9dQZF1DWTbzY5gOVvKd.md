@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,747 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,888 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Unforgettable](https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp) | [Unforgettable](https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX) | 2:56 |
 | 100 | [The Very Thought Of You](https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O) | 6:01 |
 
-Snapshot ID: `AAAAALobwuGrGvAkhDcC0tnW+6wyylkH`
+Snapshot ID: `AAAAAEr4Mfr+0RoUTAKDGdDpvy2W0E3X`

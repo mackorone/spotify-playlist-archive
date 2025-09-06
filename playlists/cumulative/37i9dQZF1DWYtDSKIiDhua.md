@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Karencici
 
-1,358 songs - 3 day 0 hr 29 min
+1,358 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Know U Like I Do](https://open.spotify.com/track/6bZhtPzWbXLEsGDZFg5seY) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Know U Like I Do](https://open.spotify.com/album/7M6YHqwcphyxyGSWdJ5jep) | 2:59 | 2024-09-19 | 2024-11-01 |
 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-11-16 | 2025-01-17 |
 | [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-16 | 2024-07-27 |
+| [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2025-09-04 |  |
 | [Lady](https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lady](https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS) | 3:06 | 2024-05-16 | 2024-10-04 |
 | [LaLaLa](https://open.spotify.com/track/3fCtwx5lKzuAFY6nwE2gEN) | [汪定中 DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [LaLaLa](https://open.spotify.com/album/6G9D2BOpiHgWKm6LinbJHS) | 4:25 | 2025-04-03 | 2025-08-09 |
 | [Last Bite](https://open.spotify.com/track/0b6OaKlmNGqPH1LElAFOAx) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Sleepless Mentality](https://open.spotify.com/album/4QuBFVJDDVkYweqV4SIUue) | 2:48 | 2023-08-10 | 2023-11-03 |
@@ -1212,7 +1213,6 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 7](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 0:00 | 2025-09-04 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-01 | 2025-08-15 |

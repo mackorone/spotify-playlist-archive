@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-428 songs - 1 day 0 hr 48 min
+428 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-30 |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-01 | 2025-08-08 |
 | [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
+| [Stillhet](https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW) | 4:23 | 2025-09-04 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-08-23 |
 | [Stockholm](https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV) | [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Stockholm](https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH) | 2:52 | 2025-02-27 |  |
@@ -374,7 +375,6 @@
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-13 |  |
 | [Tiden försvinner](https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Tiden försvinner](https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM) | 3:26 | 2024-09-12 | 2024-10-05 |
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 |  |
-| [Track 7](https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW) | 0:00 | 2025-09-04 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 | 2025-04-25 |
 | [True Romantic](https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [True Romantic](https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM) | 3:28 | 2024-06-27 | 2024-08-09 |

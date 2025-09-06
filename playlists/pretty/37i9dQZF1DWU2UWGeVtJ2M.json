@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 167697,
+  "num_followers": 167714,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-08-24 15:56:13",
       "album": {
+        "name": "Viva! La Woman",
+        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
+      },
+      "artists": [
+        {
+          "name": "Cibo Matto",
+          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
+    },
+    {
+      "added_at": "2025-08-24 15:56:13",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
-    },
-    {
-      "added_at": "2025-08-24 15:56:13",
-      "album": {
-        "name": "Viva! La Woman",
-        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
-      },
-      "artists": [
-        {
-          "name": "Cibo Matto",
-          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
     },
     {
       "added_at": "2025-08-24 15:56:13",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-08-24 15:56:13",
       "album": {
-        "name": "Quixotic",
-        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
-      },
-      "artists": [
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Sandpaper Kisses",
-      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
-    },
-    {
-      "added_at": "2025-08-24 15:56:13",
-      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2025-08-24 15:56:13",
       "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+        "name": "Quixotic",
+        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
         }
       ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
+      "duration_ms": 232093,
+      "name": "Sandpaper Kisses",
+      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
     },
     {
       "added_at": "2025-08-24 15:56:13",
@@ -1071,6 +1055,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2025-08-24 15:56:13",
+      "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2025-08-24 15:56:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-08-24 15:56:13",
       "album": {
-        "name": "Baby Cakes",
-        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
-      },
-      "artists": [
-        {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Baby Cakes",
-      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
-    },
-    {
-      "added_at": "2025-08-24 15:56:13",
-      "album": {
         "name": "ELEVATED LOVE",
         "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 208391,
       "name": "ELEVATED LOVE",
       "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
+    },
+    {
+      "added_at": "2025-08-24 15:56:13",
+      "album": {
+        "name": "Baby Cakes",
+        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Baby Cakes",
+      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
     },
     {
       "added_at": "2025-08-24 15:56:13",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-08-24 15:56:13",
       "album": {
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
+    },
+    {
+      "added_at": "2025-08-24 15:56:13",
+      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
-    },
-    {
-      "added_at": "2025-08-24 15:56:13",
-      "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2025-08-24 15:56:13",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2025-08-24 15:56:13",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+        "name": "Hello, I said",
+        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
       "artists": [
         {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+          "name": "Diana Wang",
+          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
         }
       ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
+      "duration_ms": 156729,
+      "name": "Hello, I said",
+      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

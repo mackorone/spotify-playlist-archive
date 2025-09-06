@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 정우\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: DAY6\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,024 songs - 2 day 14 hr 39 min
+1,025 songs - 2 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Bonvoyage](https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY), [1of1](https://open.spotify.com/artist/1sGk6wUBzohfkATUg1wDIt) | [Lost in Starlight \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6q4sOzWDO7LuVIm3UkraRn) | 4:55 | 2025-06-02 | 2025-06-21 |
 | [bow\-wow](https://open.spotify.com/track/6Dk2MbaVTSQZPj2ZIN5ZyS) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [bow\-wow](https://open.spotify.com/album/1tq9UiuOW8kT9h2fOSPMPA) | 3:17 | 2024-03-21 | 2024-05-10 |
 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-04 | 2024-08-11 |
-| [boyhood](https://open.spotify.com/track/2qwuV26irr0fQwgvsSsdQM) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 3:08 | 2025-09-01 |  |
+| [boyhood](https://open.spotify.com/track/2qwuV26irr0fQwgvsSsdQM) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 3:08 | 2025-09-01 | 2025-09-06 |
 | [Brand New Day](https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3) | 3:26 | 2025-06-23 | 2025-07-08 |
 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-11 | 2024-03-22 |
 | [Break the Darkness](https://open.spotify.com/track/2QudD76AkV0lDbByzTMt85) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7EZ037QS2kd1q1hX0smKHh) | 4:49 | 2025-07-23 | 2025-07-31 |
@@ -181,7 +181,7 @@
 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 | 2024-04-09 | 2024-05-10 |
 | [Creaminal \(feat\. Nah\)](https://open.spotify.com/track/258Np0aWF4TzwHRgh3y5Ki) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2), [Nah](https://open.spotify.com/artist/7e5LW1fZXdujOwwKLIwn9Q) | [FRUTO](https://open.spotify.com/album/0Nm70H9uLXdftq0aqXZ2t3) | 3:00 | 2025-02-18 | 2025-03-18 |
 | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp), [PARK BYEONG HOON](https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2) | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe) | 4:07 | 2024-04-09 | 2024-11-07 |
-| [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-30 | 2025-09-05 |
+| [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-30 |  |
 | [daisy.](https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou) | 3:38 | 2022-04-22 | 2022-07-28 |
 | [daisy.](https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS) | 3:38 | 2023-02-10 | 2023-11-05 |
 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 | 2023-11-10 | 2024-03-22 |
@@ -428,6 +428,7 @@
 | [In the end we’re just](https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [In the end we’re just](https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl) | 2:58 | 2024-07-09 | 2024-07-31 |
 | [In your time](https://open.spotify.com/track/2ZhVUSHsj08XhWsPmewal1) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [In your time](https://open.spotify.com/album/28zyPz1P8dJhPh7PdjefnS) | 3:05 | 2022-12-22 | 2023-01-11 |
 | [INFP](https://open.spotify.com/track/53TbTPtP4Dw0zkTevQC4pZ) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [INFP](https://open.spotify.com/album/6VvIurbhKuSuhOVVFY4iXd) | 4:36 | 2023-06-13 | 2023-06-23 |
+| [INSIDE OUT](https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv) | 3:00 | 2025-09-05 |  |
 | [Inside Your World](https://open.spotify.com/track/4l0OhKIugkCqWUxT5Xr9NE) | [Viral Affair](https://open.spotify.com/artist/2RLXrZ2IUAB9EnN6dTuGcH) | [Inside Your World](https://open.spotify.com/album/1jWwTcfYZDs6KvBiNX6a50) | 3:47 | 2022-07-08 | 2022-07-23 |
 | [Insomnia](https://open.spotify.com/track/2h69ukqcoEmD5096aO2kPZ) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Insomnia](https://open.spotify.com/album/4tGby7crVp9Kof4DeU3vy7) | 3:27 | 2024-11-29 | 2025-01-31 |
 | [Insomnia](https://open.spotify.com/track/5ednWrrbj9ViPQUq86jaIF) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Let Me Off The Earth Part.1](https://open.spotify.com/album/4YxcZOA3BiBUbJV44M7P9n) | 3:05 | 2022-04-22 | 2022-07-28 |
@@ -640,7 +641,7 @@
 | [PARTY](https://open.spotify.com/track/2jtWXVlL3KBa174BjXJi3s) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [PARTY](https://open.spotify.com/album/0kDkTW1381ddDzzjq181Eo) | 3:20 | 2023-06-22 | 2023-07-25 |
 | [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 | 2022-09-01 | 2022-10-01 |
 | [PDSG](https://open.spotify.com/track/7h64srBKgw9bmocbk3EmGQ) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [PDSG](https://open.spotify.com/album/1Owmn3lrAQzRTMtnlNfhCd) | 4:03 | 2022-05-11 | 2022-06-26 |
-| [Peachy](https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Peachy](https://open.spotify.com/album/5yu53vfvfv6IE6lZ98xViM) | 3:29 | 2025-08-21 |  |
+| [Peachy](https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Peachy](https://open.spotify.com/album/5yu53vfvfv6IE6lZ98xViM) | 3:29 | 2025-08-21 | 2025-09-06 |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2024-06-05 | 2024-11-07 |
 | [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 | 2024-11-12 | 2025-01-31 |
 | [Perhaps Maybe Returns](https://open.spotify.com/track/7LueEdOMcCfcCGbxDtvw1O) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [OOHYO Returns](https://open.spotify.com/album/5iPXqgnaZVmXwIv9acle9Q) | 4:03 | 2023-10-27 | 2023-11-04 |
@@ -734,7 +735,7 @@
 | [Ryudejakeiru](https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 4:09 | 2024-04-09 | 2024-05-10 |
 | [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 | 2025-03-07 |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
-| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 | 2025-08-15 |
+| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 |  |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 | 2024-11-07 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2024-05-09 | 2024-11-07 |
@@ -857,7 +858,7 @@
 | [The boy of June](https://open.spotify.com/track/3ayELZnkl36t100LdVnF20) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb) | [The boy of June](https://open.spotify.com/album/2nU6gOokfzK3iXpJm7m4Ny) | 3:35 | 2022-07-04 | 2022-07-09 |
 | [The Clockwork Whirl](https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [The Clockwork Whirl](https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE) | 3:15 | 2025-05-15 | 2025-05-21 |
 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2024-10-31 | 2024-12-24 |
-| [The Embers](https://open.spotify.com/track/6RP8NjOpVkB0JWltpuHscW) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [The Embers](https://open.spotify.com/album/1ifCmm3RfH37qtwA2VrgT3) | 4:15 | 2025-08-21 |  |
+| [The Embers](https://open.spotify.com/track/6RP8NjOpVkB0JWltpuHscW) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [The Embers](https://open.spotify.com/album/1ifCmm3RfH37qtwA2VrgT3) | 4:15 | 2025-08-21 | 2025-09-06 |
 | [The forgotten memories](https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The forgotten memories \(Hear Me: Our Summer X Shin Ye\-Young\)](https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB) | 3:45 | 2024-11-06 | 2025-01-02 |
 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-21 | 2024-05-10 |
 | [The Last Flower](https://open.spotify.com/track/2R4szKHlna6ZcCcA3jXLfv) | [AIRI KANNA](https://open.spotify.com/artist/5RKYutk9PvyLwOXqIk191K) | [The Last Flower](https://open.spotify.com/album/20Q9uuWH4JFdMfXNpH2ZMh) | 4:06 | 2023-11-10 | 2024-05-10 |

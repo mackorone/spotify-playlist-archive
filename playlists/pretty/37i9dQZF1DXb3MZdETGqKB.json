@@ -1,18 +1,18 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 156476,
+  "num_followers": 156483,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfp83R5m+AtWIFCrE8fua7o0kfI",
+  "snapshot_id": "AAAAAO6Wowz2VyaHjRkc5ef+TQCnWPXh",
   "tracks": [
     {
-      "added_at": "2025-08-08 04:00:55",
+      "added_at": "2025-09-05 04:00:01",
       "album": {
-        "name": "Feel Me Better",
-        "url": "https://open.spotify.com/album/4lTVlayjCELtBp3s1WeQYf"
+        "name": "Weekends Are for Making Love",
+        "url": "https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc"
       },
       "artists": [
         {
@@ -24,13 +24,29 @@
           "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
         },
         {
-          "name": "Evan Nicole Bell",
-          "url": "https://open.spotify.com/artist/6BiieDgERZLl3B8NErd25h"
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
         }
       ],
-      "duration_ms": 214426,
-      "name": "Feel Me Better",
-      "url": "https://open.spotify.com/track/4AMkyOvco3opy20OWfBLNs"
+      "duration_ms": 169971,
+      "name": "Weekends Are for Making Love",
+      "url": "https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl"
+    },
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/3TiwYNTikmOyGs0l2Z1oSW"
+      },
+      "artists": [
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "duration_ms": 356060,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/2mtZmxWnLHGog8UvLanaFk"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -751,22 +767,6 @@
       "duration_ms": 281842,
       "name": "Soul Brother No. 1",
       "url": "https://open.spotify.com/track/6J2WmEc61g4OG4yBfO89kp"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/6BvARv37XBzBaZB848IREa"
-      },
-      "artists": [
-        {
-          "name": "TORA DAA",
-          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/0iDxRzwE0EeV24jWkxg2Kx"
     },
     {
       "added_at": "2024-04-26 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C?si=Ir\-jxYolQAa\_kEyVh8eDuQ">D'banj</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=MQIy0hxGSWSE56AjAIzpEg">DJ Maphorisa</a>, <a href="https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe?si=ddoaKh86SCanWqMsvMzAVg">DJ OBI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,418 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,432 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [NEXT OF KIN \- iberibe](https://open.spotify.com/track/2f7mw3DfVvqbdmKJP2rQ1C) | [DennyB](https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU) | [NEXT OF KIN \(iberibe\)](https://open.spotify.com/album/4kFdja44tCEFyDUF7kh2AA) | 2:34 |
 | 50 | [Loyal](https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Loyal](https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish) | 2:40 |
 
-Snapshot ID: `AAAAABPTH6nGkcGsxtTDi3yQvEXv/p8D`
+Snapshot ID: `AAAAAC4NGIaaRQcnvo1daLLWj1Uf/BZS`

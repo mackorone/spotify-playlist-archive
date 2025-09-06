@@ -4,7 +4,7 @@
 
 > Geniet van de zon met hits van KAROL G, Chappell Roan, Sabrina Carpenter en meer...
 
-117 songs - 6 hr 2 min
+119 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-07-17 |  |
 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-08-22 |  |
 | [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-22 |  |
+| [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-09-05 |  |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-07-17 |  |
 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 | 2025-07-17 | 2025-08-30 |
 | [Girls Like You](https://open.spotify.com/track/6BfN2z3FfrqT8poo78l5hY) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Girls Like You](https://open.spotify.com/album/1TO1Ccdu03e0E3vGWHLZnc) | 3:35 | 2025-07-17 |  |
@@ -95,6 +96,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2025-07-17 |  |
 | [So Good To Me \- Radio Edit](https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me](https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD) | 2:38 | 2025-07-17 |  |
 | [Sonnentanz \- Sun Don't Shine](https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk](https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2) | 3:58 | 2025-07-17 |  |
+| [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 | 2025-09-05 |  |
 | [Starlight \(The Fame\)](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Starlight \(The Fame\)](https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4) | 3:02 | 2025-07-17 |  |
 | [Status Ingewikkeld](https://open.spotify.com/track/4XWYJokfPXcvribLZuD31Q) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Status Ingewikkeld](https://open.spotify.com/album/15Ip2WAPxDBqydFkhf6xtU) | 2:16 | 2025-07-17 | 2025-09-02 |
 | [Stay](https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Stay](https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag) | 3:45 | 2025-08-29 |  |

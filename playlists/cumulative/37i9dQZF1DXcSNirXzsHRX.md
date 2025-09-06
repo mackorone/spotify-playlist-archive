@@ -4,7 +4,7 @@
 
 > Den bedste rock playliste i Danmark!
 
-177 songs - 11 hr 47 min
+177 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 | 2024-09-06 | 2025-08-29 |
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2024-11-07 |  |
 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 | 2025-05-15 | 2025-05-23 |
+| [November Boys](https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j) | [The Good The Bad and The Zugly](https://open.spotify.com/artist/3YQf0KGXHQ5dSaSPPmUGxT) | [November Boys](https://open.spotify.com/album/6dxYyfu8w2zyqLjkFEjt1C) | 3:16 | 2025-09-04 |  |
 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2024-09-06 | 2025-08-23 |
 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 | 2024-10-24 | 2024-11-08 |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 | 2024-11-15 |
@@ -125,7 +126,7 @@
 | [Peacefield \- Single Version](https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 4:46 | 2025-04-24 | 2025-05-16 |
 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 | 2024-09-06 |  |
 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 | 2024-09-06 |  |
-| [Raveyard](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 | 2025-09-04 |  |
+| [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 | 2025-09-04 |  |
 | [Red, White and Jersey](https://open.spotify.com/track/3ailGBMR9j635tXSADNwV6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Red, White and Jersey / Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0) | 3:36 | 2025-08-28 |  |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-22 | 2025-06-06 |
 | [Rock You Like a Hurricane \- 2015 \- Remaster](https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(Deluxe Edition\)](https://open.spotify.com/album/14kTyafNZvlbn586zryGww) | 4:13 | 2024-09-06 |  |
@@ -166,7 +167,6 @@
 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 | 2025-05-15 | 2025-06-27 |
 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 | 2024-12-19 | 2025-04-18 |
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-15 |
-| [Track 1](https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j) | [The Good The Bad and The Zugly](https://open.spotify.com/artist/3YQf0KGXHQ5dSaSPPmUGxT) | [November Boys](https://open.spotify.com/album/6dxYyfu8w2zyqLjkFEjt1C) | 0:00 | 2025-09-04 |  |
 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 | 2025-09-04 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-12-30 |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 | 2024-09-06 |  |

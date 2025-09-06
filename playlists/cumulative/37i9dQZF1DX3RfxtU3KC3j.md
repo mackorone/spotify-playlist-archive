@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Belki Biraz
 
-436 songs - 1 day 1 hr 10 min
+437 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ben Neyi Beceremedim](https://open.spotify.com/track/5aREWSNHBbM9FWkhpTnuoD) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Ben Neyi Beceremedim](https://open.spotify.com/album/3GrlM7Ksn2jCneSc8By0mb) | 2:55 | 2025-05-15 |  |
 | [Beni Affet](https://open.spotify.com/track/7crC0yrn33WswLAOpccCVV) | [Odak](https://open.spotify.com/artist/2ATbp7pcNszIzMJDNi8UaC) | [Beni Affet](https://open.spotify.com/album/1x1p8Rqns9jbrIvuzfWUGN) | 4:53 | 2024-11-28 | 2024-12-20 |
 | [Beni Anla](https://open.spotify.com/track/0dTusB8JKDynGkqGkgvLPS) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Beni Anla](https://open.spotify.com/album/3lG4KrGHKQ0RmZ25Zdo60C) | 4:31 | 2024-06-28 | 2024-12-13 |
+| [Beni Uslandıran](https://open.spotify.com/track/6ilybSvuvQcCQCo5QwOfuG) | [Furkan Usta](https://open.spotify.com/artist/5P0tauk5zPVxRoay1mvQVg) | [Beni Uslandıran](https://open.spotify.com/album/5mUYo7lBAGQeCH9cNRBvS9) | 3:07 | 2025-09-04 |  |
 | [Benim Annem Cumartesi](https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Benim Annem Cumartesi](https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz) | 5:10 | 2024-08-29 | 2024-09-20 |
 | [Benim Yüzümden](https://open.spotify.com/track/46icd6gWZBK3An3iBAaTsr) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Benim Yüzümden](https://open.spotify.com/album/16fBicRraO3A1j4nJq110s) | 3:22 | 2025-04-10 | 2025-08-22 |
 | [Benimsin](https://open.spotify.com/track/3sc0nBBYQRPMUXdmPRAry5) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Benimsin](https://open.spotify.com/album/1InJ2mXgyAnxGJUk1NWQpX) | 2:51 | 2024-12-19 | 2025-03-14 |

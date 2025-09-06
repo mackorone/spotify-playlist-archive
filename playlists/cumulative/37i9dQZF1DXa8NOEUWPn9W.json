@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Sammy Virji & Chris Lake",
+  "description": "House music lives here. United under one roof, featuring Odd Mob & OMNOM (HYPERBEAM)",
   "name": "Housewerk",
   "tracks": [
     {
@@ -4672,6 +4672,24 @@
       "duration_ms": 208544,
       "name": "Coma Cat - Purple Disco Machine Re-Work",
       "url": "https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ"
+    },
+    {
+      "album": {
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/4dd1PM2auq7wGx5KDV0IJc"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/5i38KlxVGVijoKWFCIcspq"
     },
     {
       "album": {
@@ -19890,7 +19908,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 189197,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy"
@@ -22372,6 +22390,32 @@
       "duration_ms": 131707,
       "name": "SXY",
       "url": "https://open.spotify.com/track/6R9q4xKSivpaLsXY23u99N"
+    },
+    {
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "System",
+      "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"
     },
     {
       "album": {
@@ -26800,7 +26844,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 199680,
       "name": "Your River",
       "url": "https://open.spotify.com/track/3cNZ8hIsqbFYbkcKQPQK5R"

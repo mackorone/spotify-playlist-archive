@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-167 songs - 8 hr 52 min
+168 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2023-03-17 |  |
 | [Dragging Me Down](https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Kendall Tucker](https://open.spotify.com/artist/37FPXnVFHhkzmJPfym2ZOK), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dragging Me Down](https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr) | 3:18 | 2023-08-25 |  |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-03-17 |  |
+| [Dyin' Flame \(feat\. T\-Pain\)](https://open.spotify.com/track/0yqN2CDeCl3SkzruR1vGAe) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Dyin' Flame \(feat\. T\-Pain\)](https://open.spotify.com/album/0F8TVZK66vn9icqOMQBtM9) | 2:54 | 2025-09-05 |  |
 | [Escape](https://open.spotify.com/track/3dqB7rcjQOck6MbWfV4Nhd) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [Since Birth](https://open.spotify.com/album/00TQLFYMVs0VjBsHLiASzh) | 2:30 | 2023-03-17 | 2023-05-27 |
 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 | 2023-03-17 |  |
 | [Firewood](https://open.spotify.com/track/4jkp3lwbbXDbqiaRib0Irt) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Firewood](https://open.spotify.com/album/4Uqf1mfIBwljmWI03YjsUC) | 3:09 | 2024-08-23 |  |

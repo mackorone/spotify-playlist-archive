@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring ZULAN.
+> Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-659 songs - 1 day 17 hr 27 min
+662 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 | 2025-06-28 |  |
 | [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 | 2025-05-30 |  |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 | 2024-07-13 |
+| [Alegria](https://open.spotify.com/track/2PxOi5rX7nNBxbtycmxhum) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Alegria](https://open.spotify.com/album/2IHSFSLJI4QDvvsZONGMWl) | 3:20 | 2025-09-05 |  |
 | [All Away](https://open.spotify.com/track/5NuCPZenjbGUFoU1VaxGLr) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Away](https://open.spotify.com/album/2rHpVUUXgtzSLs3c71qYAQ) | 3:40 | 2024-03-01 | 2024-04-27 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-07 | 2024-03-02 |
 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 | 2025-04-07 |  |
@@ -87,7 +88,7 @@
 | [Bubble Up](https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1TVK04bZsCf3xZfBhw4CJa) | 6:08 | 2023-03-07 | 2024-03-02 |
 | [Bubblegum](https://open.spotify.com/track/3urkR8tFH6Q1wJD0BePeRk) | [honeygirl](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [Bubblegum](https://open.spotify.com/album/6MQHTQgSlUAmcqfFhmPKoJ) | 2:16 | 2025-05-02 | 2025-05-24 |
 | [BURN IT DOWN](https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [BURN IT DOWN](https://open.spotify.com/album/4SMYoMTin6mYgT7sDnebMt) | 2:47 | 2024-08-16 | 2025-04-02 |
-| [Burning Inside](https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Burning Inside](https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3) | 3:38 | 2025-08-22 |  |
+| [Burning Inside](https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Burning Inside](https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3) | 3:38 | 2025-08-22 | 2025-09-06 |
 | [Busy](https://open.spotify.com/track/00dV6gjuXDt6WcSSuC3kmY) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/6l3EtJ9vXokq3dNY7dP3iL) | 2:23 | 2021-03-01 | 2022-07-29 |
 | [Busy](https://open.spotify.com/track/5aT1vzCTNvn9nbo82vMC8P) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/3CGdkbZ0dOfCL06NDv7zGY) | 2:23 | 2022-03-08 | 2024-03-02 |
 | [Butterflies](https://open.spotify.com/track/6pUPgFJ0Acgb30JlVL7g4k) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Butterflies](https://open.spotify.com/album/2lgyMYvZdJrQrPoBOzTSpt) | 2:40 | 2025-08-22 |  |
@@ -104,6 +105,7 @@
 | [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 | 2024-03-01 | 2024-04-27 |
 | [Catch The Beat](https://open.spotify.com/track/5xJ6K23ELhgOd6YHeFam9m) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Catch The Beat](https://open.spotify.com/album/0rstS3E9siJrxqATOMR2Wu) | 4:04 | 2024-05-17 | 2024-07-27 |
 | [Chagrin](https://open.spotify.com/track/0DbIkZdysB4bShdvkTgnl3) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Motherland](https://open.spotify.com/album/2OytyuooCewNSqWSGfgydy) | 3:39 | 2024-10-25 | 2025-03-08 |
+| [Champagne](https://open.spotify.com/track/0GvCFasUqd63QhmvMUiWqN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Champagne](https://open.spotify.com/album/4TKxmz7JRy8QKPxO7dWDTo) | 3:32 | 2025-09-05 |  |
 | [Change](https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 3:09 | 2021-03-01 | 2023-03-08 |
 | [chasing highs](https://open.spotify.com/track/4TGQC8Yscxh6f9KJLlwktA) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [chasing highs](https://open.spotify.com/album/6UioWnaMVfNNgeSXYsRM49) | 2:26 | 2024-05-03 | 2024-07-13 |
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-24 | 2025-07-19 |
@@ -134,7 +136,7 @@
 | [Crystallize](https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W) | 4:05 | 2024-06-24 | 2024-09-21 |
 | [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-15 | 2024-05-11 |
 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 | 2023-03-07 | 2024-03-02 |
-| [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-28 |  |
+| [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-28 | 2025-09-06 |
 | [Dance Of The Desert](https://open.spotify.com/track/3gizZUKArzqyQs5MhghCbW) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Dance Of The Desert](https://open.spotify.com/album/2dI4CM2NWgI2sbe63rndYX) | 4:04 | 2025-04-04 |  |
 | [Dancing With My Boyz](https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Dancing With My Boyz](https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig) | 2:24 | 2024-03-22 | 2024-06-08 |
 | [dark place](https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [dark place](https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg) | 2:47 | 2024-11-22 | 2025-05-03 |
@@ -587,7 +589,7 @@
 | [The Life](https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [The Life](https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk) | 2:48 | 2024-07-05 | 2024-11-23 |
 | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/track/4mCr3lxi33KfNkGsdcX8lM) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [SAÍGO](https://open.spotify.com/artist/2Gu2iejmc6pUo0ZR7thZCO) | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/album/6N7WsWfTXGn6RyoSTMc4ci) | 3:25 | 2025-01-24 | 2025-03-29 |
 | [The Oracle](https://open.spotify.com/track/2QsY0f0WhXwZJNnZpVDArN) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Prince Of Flowers EP](https://open.spotify.com/album/7tAFeC1V1AlOdE2OUYhPGd) | 4:35 | 2023-03-07 | 2024-03-02 |
-| [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 | 2025-04-11 |  |
+| [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 | 2025-04-11 | 2025-09-06 |
 | [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 | 2024-10-25 | 2025-02-08 |
 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 | 2025-07-11 |  |
 | [The Sky is Blue](https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Sky is Blue](https://open.spotify.com/album/2PGkJ5hUGcqI6VWs4YOkdW) | 3:45 | 2024-08-31 | 2024-10-26 |
@@ -639,6 +641,7 @@
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 | 2024-03-23 |
 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 | 2022-03-08 | 2023-03-08 |
 | [WAKING UP DOWN](https://open.spotify.com/track/6qFbd0y93wtnLFQM0d4v96) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 3:21 | 2021-03-01 | 2022-07-29 |
+| [Wanna See U Again](https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Pure Motion](https://open.spotify.com/album/3OBeNrJXWPdq8HP7VzyIev) | 2:53 | 2025-09-05 |  |
 | [Wasting Time \(til the end of the world\)](https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wasting Time \(til the end of the world\)](https://open.spotify.com/album/6sboIBpmkpAi63ZuZxHDAB) | 3:00 | 2024-05-10 | 2024-08-10 |
 | [Watch Me \(feat\. Linney\)](https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Watch Me \(feat\. Linney\)](https://open.spotify.com/album/3Pn7ZkzU2fwfgCIFRhcm3E) | 2:35 | 2024-03-01 | 2024-05-25 |
 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 | 2025-07-25 |  |

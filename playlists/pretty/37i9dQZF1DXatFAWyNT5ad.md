@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,276 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,278 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 149 | [Sonder](https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU) | 3:20 |
 | 150 | [Death Grip](https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM), [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Death Grip](https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI) | 3:11 |
 
-Snapshot ID: `AAAAAD8f93IcndWmcQ/QasUD/sDU397n`
+Snapshot ID: `AAAAAPs77sqtaeZVN6yCGyi89sNfGckO`

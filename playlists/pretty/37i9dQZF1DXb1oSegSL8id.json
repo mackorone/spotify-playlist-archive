@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 853409,
+  "num_followers": 853499,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "A Voz Do Meu Samba - Ao Vivo",
+        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Por Mais Beijos Ao Vivo",
         "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 154661,
       "name": "Todo Mundo Vai Sofrer - Ao Vivo",
       "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "A Voz Do Meu Samba - Ao Vivo",
-        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 166198,
-      "name": "Bye Bye - Ao Vivo",
-      "url": "https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Atitude 67 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 178373,
       "name": "Saideira - Ao Vivo",
       "url": "https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 166198,
+      "name": "Bye Bye - Ao Vivo",
+      "url": "https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Contatinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 173229,
       "name": "Contatinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
         "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 170197,
       "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
       "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Manifesto Musical (Ao Vivo)",
-        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 148151,
-      "name": "Ficamento - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GnJbKg09MLvUtf85SCevB"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 172750,
       "name": "T\u00f4 de Boa - Ao vivo",
       "url": "https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Manifesto Musical (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 148151,
+      "name": "Ficamento - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GnJbKg09MLvUtf85SCevB"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Infinito 2021, Vol.2",
-        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 382050,
-      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
-      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Clube Do Ara\u00fajo (Vol. 1)",
         "url": "https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 155504,
       "name": "Chave C\u00f3pia",
       "url": "https://open.spotify.com/track/2AjPFi6CcjGXlvt1rkrDRD"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Infinito 2021, Vol.2",
+        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 382050,
+      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
+      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
     },
     {
       "added_at": "2024-07-09 12:43:17",

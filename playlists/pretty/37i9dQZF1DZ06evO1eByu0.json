@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162375,
+  "num_followers": 162387,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAB/paC+hoQw24zPrvTdB7dr",
+  "snapshot_id": "aLjWgAAAAACxuGsHSRabpNaUq5qx/Cx1",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Vit\u00f3ria no Deserto",
-      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminho de Milagres",
         "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 355265,
       "name": "Diante da Cruz (At the Cross)",
       "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Vit\u00f3ria no Deserto",
+      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
     },
     {
       "added_at": null,
@@ -355,26 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 329586,
-      "name": "Ele Vem / A Cidade Santa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+      "duration_ms": 272721,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM"
     },
     {
       "added_at": null,
@@ -411,18 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+        "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
       "artists": [
         {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 272721,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM"
+      "duration_ms": 329586,
+      "name": "Ele Vem / A Cidade Santa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
       "duration_ms": 359166,
       "name": "Poder Pra Salvar (Mighty to Save)",
       "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250662,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250662,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 275295,
+      "name": "Caminho de Milagres",
+      "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 275295,
-      "name": "Caminho de Milagres",
-      "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
     },
     {
       "added_at": null,

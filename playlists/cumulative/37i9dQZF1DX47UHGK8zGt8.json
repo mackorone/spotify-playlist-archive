@@ -1205,6 +1205,36 @@
     },
     {
       "album": {
+        "name": "Os Garotin Session 2",
+        "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142396,
+      "name": "Calor e Arrepio",
+      "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
+    },
+    {
+      "album": {
         "name": "Cantinho",
         "url": "https://open.spotify.com/album/5TRpUlnfHTbzN6O0cWIo1g"
       },
@@ -4678,7 +4708,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"

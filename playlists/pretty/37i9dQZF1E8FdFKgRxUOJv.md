@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Ray LaMontagne, Wild Rivers and more
+> With John Mayer, Ray LaMontagne, Leon Bridges and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 722 likes - 50 songs - 3 hr 4 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 | 49 | [Tonight](https://open.spotify.com/track/2NfLgvpXpGKAcOAQwMPzez) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Undergrad Romance and the Moses in Me](https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb) | 3:51 |
 | 50 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
 
-Snapshot ID: `aLpW9AAAAAC8GE4yjCguim6b3rLrpAzH`
+Snapshot ID: `aLupngAAAADmO8ww2XwCo8n2o0Nfw99t`

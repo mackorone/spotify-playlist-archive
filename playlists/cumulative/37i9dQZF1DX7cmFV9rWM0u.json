@@ -2315,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262641,
+      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "album": {
         "name": "La Torta",
         "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
       },
@@ -4830,7 +4852,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 142000,
       "name": "SUAVEMENTE",
       "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"

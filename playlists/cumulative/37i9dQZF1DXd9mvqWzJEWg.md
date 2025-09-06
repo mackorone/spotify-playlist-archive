@@ -2,7 +2,7 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt?si=exvkccV6TkG5\_Gx2ucLnIA">Djknator </a>
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=irKY8BeDQDuBPttjatD\_Qg">Surreal Sessions</a>
 
 496 songs - 1 day 20 hr 2 min
 

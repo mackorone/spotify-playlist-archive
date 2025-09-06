@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,550 likes - 200 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,707 likes - 200 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 199 | [Into My Heart](https://open.spotify.com/track/1dYblj5sTrynVl2HQiuQJJ) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Gyatso](https://open.spotify.com/artist/6qUpXEPXKjsXpaBnCVhlwY) | [Into My Heart](https://open.spotify.com/album/3UTyb96XNvciutIDeXOOcm) | 2:14 |
 | 200 | [Nautica](https://open.spotify.com/track/5AJzzWNatcCUqTVFWf5nbu) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Stories Of The Night](https://open.spotify.com/album/5CUhyxdz9Vuld9kukeLB5Q) | 1:39 |
 
-Snapshot ID: `AAAAAJCXEgCHXjDCmi3kcKFhSwfX9nZx`
+Snapshot ID: `AAAAAHiyjUVa3/7vfYqC3WuIMb7R5n9C`

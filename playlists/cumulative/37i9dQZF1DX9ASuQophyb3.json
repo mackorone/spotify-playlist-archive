@@ -4267,6 +4267,28 @@
     },
     {
       "album": {
+        "name": "Perperi\u015fan",
+        "url": "https://open.spotify.com/album/6iIZCVmLWyYRP8GWpmTRAJ"
+      },
+      "artists": [
+        {
+          "name": "Ko Shin Moon",
+          "url": "https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3"
+        },
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212138,
+      "name": "Perperi\u015fan",
+      "url": "https://open.spotify.com/track/4no8tKeKhCWOCWwSW6slsk"
+    },
+    {
+      "album": {
         "name": "Psikolojik Sorunlar",
         "url": "https://open.spotify.com/album/3TucPk7dSH17j8aiHYDY7P"
       },
@@ -5352,28 +5374,6 @@
       "duration_ms": 220483,
       "name": "Toydum",
       "url": "https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40"
-    },
-    {
-      "album": {
-        "name": "Perperi\u015fan",
-        "url": "https://open.spotify.com/album/6iIZCVmLWyYRP8GWpmTRAJ"
-      },
-      "artists": [
-        {
-          "name": "Ko Shin Moon",
-          "url": "https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3"
-        },
-        {
-          "name": "Mabel Matiz",
-          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
-        }
-      ],
-      "date_added": "2025-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4no8tKeKhCWOCWwSW6slsk"
     },
     {
       "album": {

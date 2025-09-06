@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 16 min
+111 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [It Always Will Be](https://open.spotify.com/track/70ljq7OO3qsucCcPspO3vI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 3:55 | 2025-07-30 | 2025-08-03 |
 | [Juanita](https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 3:40 | 2023-04-28 |  |
 | [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2023-04-28 |  |
-| [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 | 2023-04-28 |  |
+| [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 | 2023-04-28 | 2025-09-06 |
 | [Keep Me In Your Heart](https://open.spotify.com/track/5L7Va6Ld0wb2giv6PznMwG) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf On The Tree](https://open.spotify.com/album/6eMDYYqusiE28W797x0ArK) | 3:35 | 2024-11-03 | 2024-12-25 |
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-06-02 | 2024-09-14 |
 | [Last Leaf](https://open.spotify.com/track/3xZbfaTKjT7AxOEWKqOEMW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf](https://open.spotify.com/album/4BxExZd0956GZcl9HotNfj) | 3:14 | 2024-08-17 | 2024-09-20 |
@@ -117,6 +117,7 @@
 | [Welcome To Hazeville](https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 3:01 | 2023-04-28 |  |
 | [What If I'm Out Of My Mind](https://open.spotify.com/track/44YzCXsGhUaN82i8EAyO0C) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:57 | 2024-06-07 | 2024-06-24 |
 | [Whiskey River](https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:07 | 2023-04-28 |  |
+| [Workin' Man Blues](https://open.spotify.com/track/2toNxoxpnIjDqHozpOpmm3) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Workin' Man Blues](https://open.spotify.com/album/0t9ceMJd6kciqcTwNDRWcc) | 5:15 | 2025-09-06 |  |
 | [You Left Me A Long, Long Time Ago](https://open.spotify.com/track/2zMuGPbl3pgxbbO3ayqoQE) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [You Left Me A Long, Long Time Ago](https://open.spotify.com/album/10pIXX2E1ZNIWFBGQDlMXt) | 4:18 | 2023-06-23 | 2023-08-05 |
 
 \*This playlist was first scraped on 2023-04-29. Prior content cannot be recovered.

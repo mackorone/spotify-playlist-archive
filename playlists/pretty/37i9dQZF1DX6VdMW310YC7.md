@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,921,295 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,921,412 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 |
 | 100 | [Everything All At Once](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR) | [Jack Willard](https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7), [Coastlines](https://open.spotify.com/artist/561yODCc2ueVijuuVw6kUK), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Everything All At Once](https://open.spotify.com/album/79qIARkVmChtiG0yTcs9Zv) | 4:05 |
 
-Snapshot ID: `AAAAAH7ZFuHzaU1KbimeXz8IISb9D47K`
+Snapshot ID: `AAAAABCNJGBykZWkffmuNamBqM6B2366`

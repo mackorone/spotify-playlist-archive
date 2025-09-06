@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 490016,
+  "num_followers": 490057,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Sorri, Sou Rei (KVSH Remix)",
-        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 217678,
-      "name": "Sorri, Sou Rei (KVSH Remix)",
-      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Sorri, Sou Rei (KVSH Remix)",
+        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Sorri, Sou Rei (KVSH Remix)",
+      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -615,26 +615,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
       "artists": [
         {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
           "name": "Double MZK",
           "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
         }
       ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -659,22 +655,26 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
           "name": "Double MZK",
           "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 195483,
       "name": "Back to Beginning",
       "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Youngr",
         "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 175204,
       "name": "Youngr",
       "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Carla (Remix)",
         "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
       },
@@ -1143,22 +1163,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
       "artists": [
         {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1179,26 +1199,6 @@
       "duration_ms": 300432,
       "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
       "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Olhos Coloridos (Rap Singulares)",
         "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
       },
@@ -1315,22 +1295,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "O Cajado",
-        "url": "https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9"
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "Aycond",
-          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
         }
       ],
-      "duration_ms": 193562,
-      "name": "O Cajado",
-      "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1355,6 +1335,26 @@
       "duration_ms": 155393,
       "name": "La Belle De Jour (Remix)",
       "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "O Cajado",
+        "url": "https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Aycond",
+          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "O Cajado",
+      "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Rio Amazing",
-        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 142267,
-      "name": "Rio Amazing",
-      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 175546,
       "name": "Que Dia",
       "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Rio Amazing",
+        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 142267,
+      "name": "Rio Amazing",
+      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
     },
     {
       "added_at": "2025-08-29 03:01:04",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps?si=aoZumjWIReWaYeXSPw\_s6w">Itaré</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=UbaOpY1rTUuGQs\-5DoJ4hw">Halo Yagami</a>\. Artwork: Isu Kim.
 
-1,362 songs - 2 day 20 hr 12 min
+1,365 songs - 2 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Egomania](https://open.spotify.com/track/6iEdNGb2vl8IMy7OUcPhEg) | [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Egomania](https://open.spotify.com/album/66C8dZd7FQzC2RTE8GY1Pi) | 3:46 | 2024-06-04 | 2024-07-03 |
 | [Either Way](https://open.spotify.com/track/6IovOmZN4eR3ZfDTaTcz7s) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [Either Way](https://open.spotify.com/album/1bXgOHrHAJ9PwCWenjXtti) | 3:21 | 2024-12-04 | 2025-01-24 |
 | [Ekhoneni](https://open.spotify.com/track/1kaz9V1xMm7TB4LtOTxmIq) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [So Much Love](https://open.spotify.com/album/7u102rYCYvzq06KbWGF2oh) | 4:41 | 2024-11-20 | 2024-12-05 |
+| [Ekhweni](https://open.spotify.com/track/1Wl1Se2aG6yTplWeZMS4RG) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Umsoco](https://open.spotify.com/album/3jgYcBo6qNi2GM4sNEwZ7a) | 2:39 | 2025-09-05 |  |
 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2023-03-05 | 2023-03-10 |
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4EtGe6B8EF4QeSK3m8nNNg), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-22 | 2023-03-30 |
 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 | 2023-06-27 | 2024-02-07 |
@@ -1002,6 +1003,7 @@
 | [quiet face](https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [FEELING BODY](https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj) | 3:10 | 2023-06-05 | 2023-06-28 |
 | [Qul \(Say\)](https://open.spotify.com/track/76zudB8JWvLYxIsxMOV4MC) | [Tekunbi](https://open.spotify.com/artist/6WHUUUrDpFfo2ru3WN7p2g) | [Qul \(Say\)](https://open.spotify.com/album/52XLdfmkLaBpgYlw07bqQ1) | 2:35 | 2022-09-30 | 2022-10-29 |
 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 | 2023-06-27 | 2023-07-27 |
+| [Radioactive](https://open.spotify.com/track/0jNUcAH6gXUYhRfnaxe9jt) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Radioactive](https://open.spotify.com/album/5Aufy1EiNfNgWkPZ1dlGhP) | 2:57 | 2025-09-05 |  |
 | [raindrops](https://open.spotify.com/track/3Z7rF416fvZeDiJHbYDRzb) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [Terrianne Iraki](https://open.spotify.com/artist/2IQSH6zp92t5AaGMx2PltM) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:29 | 2025-04-02 | 2025-06-25 |
 | [Ready](https://open.spotify.com/track/4ymW2EhwtZiVTZiadMC0uW) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX), [Killah Keys](https://open.spotify.com/artist/0twRdNvSsfwr8m8SKVgr9s) | [Ready](https://open.spotify.com/album/3XgMMmxbWm2ZxaiuuBGWpW) | 3:51 | 2023-09-27 | 2023-10-26 |
 | [Ready 4 Ya](https://open.spotify.com/track/3bcTkS4knT6qBGRVqPnOW9) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Majessty](https://open.spotify.com/artist/0y91S0mvM0OnHcvAuL7mMr) | [Ready 4 Ya](https://open.spotify.com/album/7BffRev7gyTHbzrgEnd8sO) | 3:24 | 2025-03-11 | 2025-04-03 |
@@ -1201,6 +1203,7 @@
 | [That Boy Is Mine](https://open.spotify.com/track/28IryWQ8fri3ga1jgHAZwC) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [That Boy Is Mine](https://open.spotify.com/album/4wASMJGyUVyfb3Jr0ppXoq) | 2:47 | 2024-05-01 | 2024-06-05 |
 | [That One](https://open.spotify.com/track/3flwdJy9C7xiOreVvmTnno) | [Chaise Williams](https://open.spotify.com/artist/668KBQvDxcLtxXqpEtdD3z), [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER) | [That One](https://open.spotify.com/album/1bPZxC6rdltRUSqTZOg950) | 2:06 | 2024-08-07 | 2024-09-05 |
 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 | 2025-03-05 | 2025-04-03 |
+| [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 | 2025-09-05 |  |
 | [The Best Part \- Remix](https://open.spotify.com/track/5bjDy4hqNIyGYttuxzvGjT) | [Savy Henry](https://open.spotify.com/artist/6Wf1QL4mEnFckePmc4nPjT), [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI) | [The Best Part \(Remix\)](https://open.spotify.com/album/1OIaoXhy5EmtP0hV8IgZ6o) | 2:27 | 2024-08-07 | 2024-09-05 |
 | [The Girl Wants a Big Boy](https://open.spotify.com/track/49Gw7CR2UNL9oX55XecN7d) | [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [The Girl Wants a Big Boy](https://open.spotify.com/album/2QyNrFYzDIEIl78Boyk9KR) | 2:28 | 2023-07-26 | 2023-09-27 |
 | [The Girl who once lived](https://open.spotify.com/track/2zy11KP2dVLxV183xwDYxy) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [The Girl who once lived](https://open.spotify.com/album/0MNkmk2HeY0COtibdKe3Q6) | 3:25 | 2025-03-11 | 2025-04-03 |

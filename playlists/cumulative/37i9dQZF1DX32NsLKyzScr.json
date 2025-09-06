@@ -2785,6 +2785,28 @@
     },
     {
       "album": {
+        "name": "Black Out Days (Stay Away)",
+        "url": "https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172661,
+      "name": "Black Out Days (Stay Away)",
+      "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
+    },
+    {
+      "album": {
         "name": "Blah Blah Blah (Lilly Palmer Remix)",
         "url": "https://open.spotify.com/album/2jNzuqo3EuqJl95swKdEZ8"
       },
@@ -23244,7 +23266,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"

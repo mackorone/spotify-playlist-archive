@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc815\uc6b0) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: DAY6) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188000,
       "name": "boyhood",
       "url": "https://open.spotify.com/track/2qwuV26irr0fQwgvsSsdQM"
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "D-DAY",
       "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
@@ -7797,6 +7797,24 @@
     },
     {
       "album": {
+        "name": "The DECADE",
+        "url": "https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "INSIDE OUT",
+      "url": "https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1"
+    },
+    {
+      "album": {
         "name": "Inside Your World",
         "url": "https://open.spotify.com/album/1jWwTcfYZDs6KvBiNX6a50"
       },
@@ -11724,7 +11742,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 209223,
       "name": "Peachy",
       "url": "https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s"
@@ -13452,7 +13470,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 220094,
       "name": "Save me",
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
@@ -15714,7 +15732,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 255562,
       "name": "The Embers",
       "url": "https://open.spotify.com/track/6RP8NjOpVkB0JWltpuHscW"

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 46911,
+  "num_followers": 46945,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABrE3abZuXeRB0+/9UdRV+H",
+  "snapshot_id": "aLjWgAAAAACdKbQReC9wClhDUBEEy9tR",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 122583,
-      "name": "Que Chulada - En Vivo",
-      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 122583,
+      "name": "Que Chulada - En Vivo",
+      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
       },
@@ -415,6 +415,26 @@
       "duration_ms": 142357,
       "name": "En Los Puritos Huesos - En Vivo",
       "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
     },
     {
       "added_at": null,
@@ -459,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba Guasave (Chapito Isidro)",
         "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171200,
       "name": "Arriba Guasave (Chapito Isidro)",
       "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO DE AMIRI (En Vivo desde Los \u00c1ngeles)",
-        "url": "https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
       "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 125631,
-      "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+        "name": "TODO DE AMIRI (En Vivo desde Los \u00c1ngeles)",
+        "url": "https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT"
       },
       "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+      "duration_ms": 125631,
+      "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
     },
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Compre Casa A Mi Ama",
-        "url": "https://open.spotify.com/album/07FJaS98fuH5mX2AwPbscW"
+        "name": "Me Cambio la Suerte",
+        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 204437,
-      "name": "Le Compre Casa A Mi Ama",
-      "url": "https://open.spotify.com/track/2Lp3OUsQwNg5mzaeTANTjJ"
+      "duration_ms": 171430,
+      "name": "Me Cambio la Suerte",
+      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
     },
     {
       "added_at": null,
@@ -819,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Cambio la Suerte",
-        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+        "name": "Le Compre Casa A Mi Ama",
+        "url": "https://open.spotify.com/album/07FJaS98fuH5mX2AwPbscW"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 171430,
-      "name": "Me Cambio la Suerte",
-      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
+      "duration_ms": 204437,
+      "name": "Le Compre Casa A Mi Ama",
+      "url": "https://open.spotify.com/track/2Lp3OUsQwNg5mzaeTANTjJ"
     },
     {
       "added_at": null,

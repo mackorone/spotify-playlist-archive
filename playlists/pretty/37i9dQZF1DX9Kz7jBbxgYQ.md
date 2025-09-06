@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Osho Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,476 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,531 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 74 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 |
 | 75 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 |
 
-Snapshot ID: `AAAAAHzvtVpjuSC3OVncmY0NcgCZ8u76`
+Snapshot ID: `AAAAAGJZwJeD3DFv1UVgjlN3TOfLZFua`

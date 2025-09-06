@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 紙鳶 \(Seizer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,449 likes - 82 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,452 likes - 82 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,6 +89,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 79 | [相對靜止](https://open.spotify.com/track/4k0PAr9OXz2HeovpvizZwc) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ), [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [距。離](https://open.spotify.com/album/055dlF1w94FTtS9Svcddgj) | 4:28 |
 | 80 | [你會等我嗎 ?](https://open.spotify.com/track/23WAiJqVHO8PrCWA6xs43S) | [AKB48 Team TP](https://open.spotify.com/artist/5EJySPaACof5q6mh88d3gb) | [你會等我嗎?](https://open.spotify.com/album/0Zhwc9f6e0SWTAzJW3n732) | 3:42 |
 | 81 | [留給年輕](https://open.spotify.com/track/1F165BrDcvzM1kPIuqV94d) | [Reversing into Garage](https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78) | [未履莫勸](https://open.spotify.com/album/1oX9Lnn28b5BpFekKzbg8F) | 4:23 |
-| 82 | [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼](https://open.spotify.com/artist/3D44Aw6V7zooi9fRHwkP61) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:52 |
+| 82 | [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:52 |
 
 Snapshot ID: `AAAAAEoZBMzaURsT0OnFOY2Jv20c8wDI`

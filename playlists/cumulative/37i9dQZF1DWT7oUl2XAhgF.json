@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: KIRBY",
+  "description": "A new take on a classic sound. Cover: GoldFord",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 210000,
       "name": "Be With Me",
       "url": "https://open.spotify.com/track/6VavOiyoO5yXe31rzQQidB"
@@ -1064,6 +1064,24 @@
       "duration_ms": 180996,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl"
+    },
+    {
+      "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195624,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU"
     },
     {
       "album": {
@@ -2217,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/4ZvwHeUBPjL82SU5QONcha"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164188,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/7Lckkp7PfiPSfwX1TULfY9"
+    },
+    {
+      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -2800,7 +2836,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 205025,
       "name": "Got You Right",
       "url": "https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2"
@@ -4706,6 +4742,28 @@
       "duration_ms": 311300,
       "name": "Let's Be Alone Together",
       "url": "https://open.spotify.com/track/4svMoWeX1xfkJw4NiRJL6N"
+    },
+    {
+      "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/3Bp75oph7dSe9bEcdZPn97"
+      },
+      "artists": [
+        {
+          "name": "Jr. Thomas",
+          "url": "https://open.spotify.com/artist/4rlASrO81ZjHrd70G6swdV"
+        },
+        {
+          "name": "Eraserhood Sound",
+          "url": "https://open.spotify.com/artist/3GJ1qWWMdMQNXMmwTnyqtZ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210482,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/3sjgUdqEep6XgJFfVRqllt"
     },
     {
       "album": {
@@ -8228,7 +8286,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 246149,
       "name": "Strawberry Hill",
       "url": "https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg"

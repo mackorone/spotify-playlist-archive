@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: grandson
 
-1,363 songs - 3 day 4 hr 40 min
+1,364 songs - 3 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,6 +1330,7 @@
 | [Willy Wishbone](https://open.spotify.com/track/3VTjeMfcUNLYHyjhVFjbn2) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt) | [Willy Wishbone](https://open.spotify.com/album/7LLYQHo8ysR1ENekeLvNvr) | 2:49 | 2024-10-25 | 2025-04-12 |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-07-29 | 2023-05-20 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-01-06 | 2023-02-25 |
+| [Wishing Well](https://open.spotify.com/track/7oB8E7opKPjknipuTubm8X) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Wishing Well](https://open.spotify.com/album/1bbARbzPDfrtBtkjXvySjC) | 2:29 | 2025-09-05 |  |
 | [witches in the street](https://open.spotify.com/track/5kk5nQcXJdXyP2IeYSH3Kh) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN) | [witches in the street](https://open.spotify.com/album/02lOUJsNVavV9729X3VzQw) | 1:47 | 2024-05-03 | 2024-06-15 |
 | [Witness](https://open.spotify.com/track/4xpXKkEIQaXFYKcTrw78NC) | [The Post War](https://open.spotify.com/artist/4ofDiFRQz0rN8FPm6T0ozM) | [Anecdoche](https://open.spotify.com/album/4BfRtkSpfeGE1XAeIpx578) | 4:42 | 2022-02-25 | 2022-10-01 |
 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2022-09-30 | 2022-12-24 |

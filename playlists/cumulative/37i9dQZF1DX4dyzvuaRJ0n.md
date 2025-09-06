@@ -2,7 +2,7 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance & electronic hits\. Cover: Fred again.\. & Skepta
+> The world's biggest dance & electronic hits\. Cover: SG Lewis
 
 1,321 songs - 3 day 1 hr 7 min
 

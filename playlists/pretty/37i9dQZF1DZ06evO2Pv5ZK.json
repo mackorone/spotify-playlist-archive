@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 109657,
+  "num_followers": 109661,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAqdb8jAIuxRvgSdwEHOzaK",
+  "snapshot_id": "aLjWgAAAAABU7vg6V66eFHb1WjhDzdq6",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
+      "duration_ms": 352386,
+      "name": "Antarctica Echoes - Remastered",
+      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 352386,
-      "name": "Antarctica Echoes - Remastered",
-      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 126093,
-      "name": "P.S.",
-      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Choreography",
         "url": "https://open.spotify.com/album/245UqtLnzoMh8Kt4riYb66"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 282893,
       "name": "Roxane's Veil",
       "url": "https://open.spotify.com/track/6uIvMism0EU8RxOZyj8XcY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 126093,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 351133,
-      "name": "Nocturnal Promenade",
-      "url": "https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the magic of Cosmos",
         "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 351133,
+      "name": "Nocturnal Promenade",
+      "url": "https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb"
     },
     {
       "added_at": null,

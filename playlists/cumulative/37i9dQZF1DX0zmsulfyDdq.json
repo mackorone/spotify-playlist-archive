@@ -1523,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "Star Wars Lofi: Vol. 1",
+        "url": "https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216335,
+      "name": "Hera's Theme",
+      "url": "https://open.spotify.com/track/4NljQvHzcAIMzrQ7Hno57U"
+    },
+    {
+      "album": {
         "name": "Disney Lullaby Album",
         "url": "https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i"
       },

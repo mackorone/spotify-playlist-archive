@@ -4,7 +4,7 @@
 
 > clocking in for elderberry wine summer 🍇
 
-303 songs - 19 hr 33 min
+306 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cowgirl Giving](https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Cowgirl Giving](https://open.spotify.com/album/3f62q827UrlNTwvJS8v6oq) | 5:05 | 2023-07-28 |  |
 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 | 2024-04-14 | 2025-05-24 |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-23 | 2024-04-19 |
+| [Curtain](https://open.spotify.com/track/66yo9SvT59QyxWe1Of6VhX) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 6:39 | 2025-09-05 |  |
 | [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 | 2023-10-13 | 2024-05-04 |
 | [Daisy](https://open.spotify.com/track/50qVPaum8Ggach5KclAujQ) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Imaginary People](https://open.spotify.com/album/0YtV6XAjLphsqF6UxxQHD1) | 4:34 | 2024-04-14 | 2024-05-04 |
 | [Daisy](https://open.spotify.com/track/5R27EWWvm93ihBXaIebEqr) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Imaginary People \(Deluxe Edition\)](https://open.spotify.com/album/5xLq48DQQuDbvcdM9ofNwv) | 4:34 | 2023-02-23 | 2024-04-19 |
@@ -253,6 +254,7 @@
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2023-02-23 | 2023-12-09 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-02-23 | 2023-11-11 |
 | [Somewhere In The Middle](https://open.spotify.com/track/2E4JCuZ0tMWeRTTSiaTvBT) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Somewhere In The Middle](https://open.spotify.com/album/73Rso0TopoEw4xGJppcHki) | 3:27 | 2023-06-28 | 2023-07-15 |
+| [SPANISH ARMADA VAR\. XV](https://open.spotify.com/track/4s5xjrNtmAKKv1A66rfHVR) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/album/6WSRJN51d3S5OmWNi6Bv13) | 2:27 | 2025-09-05 |  |
 | [Splash](https://open.spotify.com/track/1XZw7J3QerIqF253V4zQgf) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Splash](https://open.spotify.com/album/46C8dnY1oEzXsDg7qrlkaE) | 4:20 | 2023-06-30 | 2023-12-09 |
 | [Sprinkler Song](https://open.spotify.com/track/5AjnU8UASsUymoryckJ8Ak) | [Charlie Havenick](https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi) | [Sprinkler Song](https://open.spotify.com/album/2uzdT65t9cTJeekpeI3nHy) | 3:58 | 2023-02-23 | 2023-07-15 |
 | [Stay](https://open.spotify.com/track/5wTnei9CxGTNVn8vgH1Yhj) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Stay](https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW) | 3:17 | 2024-03-08 |  |
@@ -304,6 +306,7 @@
 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 | 2023-02-23 | 2023-09-02 |
 | [Wide Open Spaces](https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Wide Open Spaces](https://open.spotify.com/album/77ETBs8gKb44SezIbEMOp9) | 5:01 | 2023-09-12 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-09-06 |  |
+| [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 |  |
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-11-15 |  |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 | 2023-12-09 |

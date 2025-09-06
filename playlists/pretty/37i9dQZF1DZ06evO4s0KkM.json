@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 123748,
+  "num_followers": 123769,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACJd33AMhRqRJen1IwdACGm",
+  "snapshot_id": "aLjWgAAAAAC6HIuNyMxdM7Y5Q2u6+kCJ",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 173897,
-      "name": "The Big Man",
-      "url": "https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC"
+      "duration_ms": 181843,
+      "name": "Kids Games",
+      "url": "https://open.spotify.com/track/2C6jvd2NOW1asMrn4nmZW9"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 181843,
-      "name": "Kids Games",
-      "url": "https://open.spotify.com/track/2C6jvd2NOW1asMrn4nmZW9"
+      "duration_ms": 173897,
+      "name": "The Big Man",
+      "url": "https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 219280,
-      "name": "(F)lannigan's Ball",
-      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 140693,
       "name": "Peg O' My Heart (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
     },
     {
       "added_at": null,

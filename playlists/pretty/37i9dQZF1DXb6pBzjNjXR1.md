@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=IDV6FFKHTZqZY6esFdH2\-A">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,057 likes - 61 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,062 likes - 61 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 60 | [African Vibe PT 2 \- Ka Valungu \- 3 Step Remix](https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek) | [Peta Teanet](https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d), [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts) | [African Vibe PT 2 \- Ka Valungu \(3 Step Remix\)](https://open.spotify.com/album/5JvzmgfOX9gzhwcXUt2NrI) | 5:58 |
 | 61 | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/album/7kvszdC2oRoR9eQzlKT8DM) | 4:22 |
 
-Snapshot ID: `AAAAAKQj2j3pYICWsS8i1MmqJJOR8ZmI`
+Snapshot ID: `AAAAAK+FYl8vIEI6ryTEHWKg1FgPG4lf`

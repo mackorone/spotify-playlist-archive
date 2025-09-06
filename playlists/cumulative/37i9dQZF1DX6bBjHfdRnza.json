@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance music by independent artists and labels, featuring Nokta Servo. Artwork by Rewina Beshue.",
+  "description": "The best new dance music by independent artists and labels, featuring Noah Baine. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/4gA6nwPTt9kkPPugPCntEs"
+      },
+      "artists": [
+        {
+          "name": "White Pepper",
+          "url": "https://open.spotify.com/artist/5xI6IJZ7JY3kbapLmwUR1O"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202633,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/5U9ja4wixV4ba7PIWaRqeu"
+    },
+    {
+      "album": {
         "name": "5 Year Plan",
         "url": "https://open.spotify.com/album/4U2Hpv3GJIy3oikftBQCDy"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 182325,
       "name": "925 (2 THE LATE NIGHT)",
       "url": "https://open.spotify.com/track/1koeOKDcCpkuvQUTeAtoDi"
@@ -5912,7 +5930,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188588,
       "name": "BITTER SWEET",
       "url": "https://open.spotify.com/track/01crsZPZjBBMJv7EEGB7P9"
@@ -6680,7 +6698,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 150288,
       "name": "Bonfire",
       "url": "https://open.spotify.com/track/5nCW0qfLAhLaLXJmOSmr4Y"
@@ -6980,6 +6998,24 @@
       "duration_ms": 169354,
       "name": "Boy, Empty",
       "url": "https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW"
+    },
+    {
+      "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201796,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk"
     },
     {
       "album": {
@@ -11244,7 +11280,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 256587,
       "name": "Crash Baby",
       "url": "https://open.spotify.com/track/35kp0WgbOUa2rhEA2pw9Kr"
@@ -15515,6 +15551,28 @@
     },
     {
       "album": {
+        "name": "Easy Love (feat. AYLA)",
+        "url": "https://open.spotify.com/album/4t9sqhb5mV78VxHlRaubzN"
+      },
+      "artists": [
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        },
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/2bhXhHd607n9Ax6GhaNbPD"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Easy Love (feat. AYLA)",
+      "url": "https://open.spotify.com/track/15towfV7OvKpcuBQyNv2Cc"
+    },
+    {
+      "album": {
         "name": "Easy To Love You",
         "url": "https://open.spotify.com/album/1AqaIwbBjAhXwgWw2KnYUK"
       },
@@ -15704,6 +15762,24 @@
       "duration_ms": 253803,
       "name": "efyo - Funky Loffe Remix",
       "url": "https://open.spotify.com/track/20bLRshzgd7HR05BzBwEsS"
+    },
+    {
+      "album": {
+        "name": "Eight",
+        "url": "https://open.spotify.com/album/6CruJdW2btceHzuLYdfDpg"
+      },
+      "artists": [
+        {
+          "name": "Mollotone",
+          "url": "https://open.spotify.com/artist/1I3CbBnMahqQ93eiQdfDcP"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156295,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/0DdK0TFMgRDRBCScAtpHhJ"
     },
     {
       "album": {
@@ -17716,6 +17792,24 @@
       "duration_ms": 187195,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1xxqbpKesgEeBj9Hmzyu9t"
+    },
+    {
+      "album": {
+        "name": "Feel Like It",
+        "url": "https://open.spotify.com/album/2RazS9uWovLM3Po8UBuhJk"
+      },
+      "artists": [
+        {
+          "name": "MLE",
+          "url": "https://open.spotify.com/artist/4kwSji6cyVJyawitcYNC4S"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129991,
+      "name": "Feel Like It",
+      "url": "https://open.spotify.com/track/30GoSzDS6yWzsVMudpCHFo"
     },
     {
       "album": {
@@ -24050,7 +24144,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 267856,
       "name": "Holding Me",
       "url": "https://open.spotify.com/track/0C322Be854wSym6X9BiM31"
@@ -28123,6 +28217,24 @@
     },
     {
       "album": {
+        "name": "Just a Thing",
+        "url": "https://open.spotify.com/album/4yKsVQ4Yk9Sy3GvqwxYtlA"
+      },
+      "artists": [
+        {
+          "name": "INTERPOL",
+          "url": "https://open.spotify.com/artist/0ShxwiirUZhl326ZTiddHb"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276363,
+      "name": "Just a Thing - Radio Edit",
+      "url": "https://open.spotify.com/track/4CdfRun1xVV11nkhCGmEac"
+    },
+    {
+      "album": {
         "name": "just alone",
         "url": "https://open.spotify.com/album/7gODujaTUC04p5AxjEkyM8"
       },
@@ -28734,7 +28846,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 141015,
       "name": "Knock Me Off",
       "url": "https://open.spotify.com/track/2GDSZG7Uhnd6PuTzPPVNB0"
@@ -29220,6 +29332,28 @@
       "duration_ms": 190613,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/2zFmInJW8nn2O8hJRpgt0O"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/10ezbUgN8PYEP2dohg1gGW"
+      },
+      "artists": [
+        {
+          "name": "Nicche",
+          "url": "https://open.spotify.com/artist/7FCu24EoM4fwOTxQ2I13h8"
+        },
+        {
+          "name": "Tayla",
+          "url": "https://open.spotify.com/artist/0khWD7xNpAO9OF87xsNPVS"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268732,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/42wdSSIA5f7Ta3Xvp1uk7Z"
     },
     {
       "album": {
@@ -32236,7 +32370,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 258320,
       "name": "Mainframe",
       "url": "https://open.spotify.com/track/4GpRdW1ljkq1xoo0S94cOc"
@@ -35842,7 +35976,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 212045,
       "name": "Never Wanted It To End",
       "url": "https://open.spotify.com/track/4QOVuL0aWA1FNKG85kRjpw"
@@ -36366,7 +36500,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 211555,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/47KzjXL3xegnl1ReKk7uqv"
@@ -41230,7 +41364,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 216940,
       "name": "Pull Me Into You",
       "url": "https://open.spotify.com/track/37P4yZrleSbiQwYWNrSpaM"
@@ -42379,6 +42513,24 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7dso7Eg34ImE04H2GEijH2"
+      },
+      "artists": [
+        {
+          "name": "Tiefgang",
+          "url": "https://open.spotify.com/artist/5fNwBkhAoCfeu0xyzwfXMu"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213899,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/39u6K0grPUphdWeBbXz0u5"
+    },
+    {
+      "album": {
         "name": "Remembr (Skylark Remix)",
         "url": "https://open.spotify.com/album/4y9Ge62AvtUTYj0WaNtavd"
       },
@@ -43224,7 +43376,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 226590,
       "name": "RUFFEST",
       "url": "https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE"
@@ -44401,6 +44553,24 @@
     },
     {
       "album": {
+        "name": "Selective",
+        "url": "https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Selective",
+      "url": "https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV"
+    },
+    {
+      "album": {
         "name": "SELF CONTROL",
         "url": "https://open.spotify.com/album/36JkMmgl3GehX21TQO5BcK"
       },
@@ -44762,7 +44932,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 179571,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/76ZbsiT5eXrGVMTpSJkIDL"
@@ -45050,7 +45220,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 190285,
       "name": "SHY",
       "url": "https://open.spotify.com/track/0LRnFkB6uBmDA7pPPMhCMk"
@@ -46767,6 +46937,24 @@
     },
     {
       "album": {
+        "name": "Something About You (Radio Edit)",
+        "url": "https://open.spotify.com/album/5l8rVqXXhyKVMj0QFN9P8z"
+      },
+      "artists": [
+        {
+          "name": "Dan White (UK)",
+          "url": "https://open.spotify.com/artist/04k1d6syTQmCbhTKGic27c"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210117,
+      "name": "Something About You - Radio Edit",
+      "url": "https://open.spotify.com/track/6xSAmQZOq9XKps4wXYL12n"
+    },
+    {
+      "album": {
         "name": "Something To Give",
         "url": "https://open.spotify.com/album/2l8TYvZ91Vn9rb2KqtaV4L"
       },
@@ -47390,7 +47578,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 208912,
       "name": "STAR CANNON",
       "url": "https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH"
@@ -48480,6 +48668,24 @@
       "duration_ms": 176346,
       "name": "summer high",
       "url": "https://open.spotify.com/track/0SRnhXZQJnWe5LpXmALHxA"
+    },
+    {
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/6tHlqMpLU2nGPGuWUdRBvg"
+      },
+      "artists": [
+        {
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198157,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/0irCvaGzA3rfbGbBwVuJnF"
     },
     {
       "album": {
@@ -49768,7 +49974,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 210461,
       "name": "Taking My Time",
       "url": "https://open.spotify.com/track/1IPMQ44rGvmsW669en627l"
@@ -49898,6 +50104,24 @@
       "duration_ms": 217500,
       "name": "Talkin 2 Ya",
       "url": "https://open.spotify.com/track/32ftOColLc6HKx6tl6JdO2"
+    },
+    {
+      "album": {
+        "name": "Talkin Bout",
+        "url": "https://open.spotify.com/album/0vVXZYWjMZCCFzX6Dd0JHU"
+      },
+      "artists": [
+        {
+          "name": "Vylow",
+          "url": "https://open.spotify.com/artist/2aBKB3yaWqkQui4pLuoggI"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Talkin Bout",
+      "url": "https://open.spotify.com/track/2gOOxL929JS2Yw7CBiCzTc"
     },
     {
       "album": {
@@ -50450,6 +50674,24 @@
       "duration_ms": 260571,
       "name": "That look in your eyes",
       "url": "https://open.spotify.com/track/65X6KiZLP20fTSyYFkYjSB"
+    },
+    {
+      "album": {
+        "name": "That That",
+        "url": "https://open.spotify.com/album/3WYY8RCEGDU4S3YiOWpdxg"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "That That",
+      "url": "https://open.spotify.com/track/28YIH5gv7UGQL8zL6PpL9w"
     },
     {
       "album": {
@@ -52250,6 +52492,24 @@
       "duration_ms": 267338,
       "name": "Th\u0113 Way",
       "url": "https://open.spotify.com/track/2NIKJDoVbB9k7UI4CD7k7P"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228918,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5"
     },
     {
       "album": {
@@ -58576,6 +58836,24 @@
       "duration_ms": 325289,
       "name": "You Just Hall",
       "url": "https://open.spotify.com/track/7MXcri2wvAKY5KNkCxqm8n"
+    },
+    {
+      "album": {
+        "name": "You Know I\u2019ve Had Enough",
+        "url": "https://open.spotify.com/album/7i1zMaAeqSlphZAnBlPMbk"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6rgen",
+          "url": "https://open.spotify.com/artist/5VyeEMMtjmwHLmbXj0T3uM"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "You Know I\u2019ve Had Enough",
+      "url": "https://open.spotify.com/track/6RNYokOya8AXyqVZ3lgr9D"
     },
     {
       "album": {

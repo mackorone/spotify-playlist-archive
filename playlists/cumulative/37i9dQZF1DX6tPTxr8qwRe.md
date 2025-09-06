@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ashnikko
+> Dark, hard hitting pop\. Cover: LØLØ
 
-974 songs - 1 day 20 hr 56 min
+977 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [American Dream](https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [American Dream](https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ) | 3:03 | 2023-09-01 | 2024-01-05 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-06-30 | 2024-04-27 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 | 2024-08-10 |
+| [american zombie](https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [american zombie](https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh) | 2:33 | 2025-09-05 |  |
 | [angel boy](https://open.spotify.com/track/5UrpuVlEd2W69QMZQg0hZR) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [EDEN](https://open.spotify.com/album/06jsjVmCYGPnkTHE81zwrc) | 3:18 | 2024-10-04 | 2025-01-25 |
 | [Angry Woman](https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Angry Woman](https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ) | 2:33 | 2022-06-24 | 2022-10-22 |
 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 | 2022-09-16 | 2022-11-19 |
@@ -132,6 +133,7 @@
 | [Brainstorm](https://open.spotify.com/track/4e7WbwDCNmk06f8fB4IxiA) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Brainstorm](https://open.spotify.com/album/2QadK4dlAtpqIIIYQyp475) | 2:59 | 2025-01-24 | 2025-05-03 |
 | [Breadcrumbs](https://open.spotify.com/track/5QiWXgX8ANHg5v8jE1eaQh) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Breadcrumbs](https://open.spotify.com/album/4aOr6Lkc0jJBTppl95v2xS) | 2:51 | 2023-09-29 | 2024-03-23 |
 | [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 | 2024-04-12 | 2024-06-08 |
+| [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 | 2025-09-05 |  |
 | [BREAKDOWN](https://open.spotify.com/track/5ab5TaUCeTXEyEopmq4pjM) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [BREAKDOWN](https://open.spotify.com/album/43TWpeulOdWVBsL8vpMdZi) | 3:38 | 2022-05-27 | 2022-07-23 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2022-10-29 |
 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-31 | 2024-08-10 |
@@ -460,6 +462,7 @@
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-21 | 2025-06-28 |
 | [if u wanna](https://open.spotify.com/track/6mEK3cHEpff9eFfdoWMzns) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [if u wanna](https://open.spotify.com/album/3WUiDmWbTdzTqHTzS0u0Q9) | 2:23 | 2022-01-14 | 2022-03-18 |
 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 | 2023-07-14 | 2023-08-05 |
+| [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 | 2025-09-05 |  |
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-09-17 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-09-10 | 2022-04-09 |
@@ -712,7 +715,7 @@
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-24 | 2024-06-29 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-21 | 2024-08-10 |
-| [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 | 2025-07-11 |  |
+| [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 | 2025-07-11 | 2025-09-06 |
 | [ROCKSTAR](https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [ROCKSTAR](https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA) | 2:38 | 2024-12-06 | 2025-04-05 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2024-10-05 |
 | [Romeo Dies](https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Romeo Dies](https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15) | 2:48 | 2022-05-20 | 2022-08-13 |
@@ -836,7 +839,7 @@
 | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk) | 2:12 | 2024-02-23 | 2024-04-27 |
 | [the AUDACITY](https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [the AUDACITY](https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA) | 3:13 | 2022-04-29 | 2022-09-24 |
 | [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 | 2025-08-08 |  |
-| [the devil wears converse](https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the devil wears converse](https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO) | 2:39 | 2025-07-25 |  |
+| [the devil wears converse](https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the devil wears converse](https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO) | 2:39 | 2025-07-25 | 2025-09-06 |
 | [The Dirt](https://open.spotify.com/track/6SvsfUdB6LE9NAYCOIZAu8) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [The Dirt](https://open.spotify.com/album/6aSdpWAAZDayXUI96vPp8G) | 2:44 | 2025-06-27 |  |
 | [The Effect](https://open.spotify.com/track/6uaP5kz6aWbiKIi76LktX0) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [The Effect](https://open.spotify.com/album/22AvgFCDKVyEw7clejTJcT) | 3:23 | 2024-10-04 | 2025-01-25 |
 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 | 2022-06-03 | 2022-08-06 |
@@ -882,7 +885,7 @@
 | [Trust Me](https://open.spotify.com/track/6Tr21jU9bkvMInMemDrsB9) | [Lola Blanc](https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy) | [Trust Me](https://open.spotify.com/album/2cZr0zvYEZDQS7TJauEMHZ) | 4:38 | 2023-08-11 | 2023-12-09 |
 | [TRUST!](https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [TRUST!](https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep) | 2:51 | 2024-10-18 | 2025-04-12 |
 | [trying to forget](https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy) | [Ally Bakst](https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11) | [in my head](https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP) | 3:00 | 2025-05-30 | 2025-08-23 |
-| [Turn Me On](https://open.spotify.com/track/5UCxUTkbkfayryv1awEuTD) | [Cheska Moore](https://open.spotify.com/artist/4zMP0yVET0EuGE9SynLoSM) | [Turn Me On](https://open.spotify.com/album/6Z1ucMn66DJFPGfkBSUd4M) | 2:37 | 2025-06-06 |  |
+| [Turn Me On](https://open.spotify.com/track/5UCxUTkbkfayryv1awEuTD) | [Cheska Moore](https://open.spotify.com/artist/4zMP0yVET0EuGE9SynLoSM) | [Turn Me On](https://open.spotify.com/album/6Z1ucMn66DJFPGfkBSUd4M) | 2:37 | 2025-06-06 | 2025-09-06 |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-24 | 2022-07-30 |
 | [Twisted](https://open.spotify.com/track/1m1DJcA1MNiadetY9tFZzD) | [Laura Davidson](https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf) | [Twisted](https://open.spotify.com/album/0csthgfGKnJIar7TlqRGKE) | 2:21 | 2023-12-15 | 2024-02-17 |
 | [Two Sides](https://open.spotify.com/track/5FnspVG6iriNNFuBKKoQbB) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [It's Not That Deep: Chapter 1](https://open.spotify.com/album/62DB8pQf35nmgO8Cq1HZH6) | 2:25 | 2022-08-12 | 2022-09-17 |

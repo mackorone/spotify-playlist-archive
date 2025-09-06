@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 소수빈\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,077 songs - 2 day 17 hr 24 min
+1,079 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [fall apart](https://open.spotify.com/track/4jAVpxfvPYN09k2uzax9DS) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [on and on](https://open.spotify.com/album/1zaYXYzPbFzUrQHl7APGZY) | 2:15 | 2024-11-20 | 2025-01-31 |
 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 | 2025-06-05 | 2025-07-11 |
 | [Fallin'](https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Modern, Mild](https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9) | 3:11 | 2021-12-12 | 2022-07-27 |
-| [Falling](https://open.spotify.com/track/67mNsloLtulun2pLmuh42B) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Falling](https://open.spotify.com/album/4JyOtpXsV3MX5eBLGjAE68) | 3:38 | 2025-08-07 |  |
+| [Falling](https://open.spotify.com/track/67mNsloLtulun2pLmuh42B) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Falling](https://open.spotify.com/album/4JyOtpXsV3MX5eBLGjAE68) | 3:38 | 2025-08-07 | 2025-09-06 |
 | [Falling Star](https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56) | [Up\-Dawn](https://open.spotify.com/artist/2iuvwj3RhVBo3OM1WTSlZu) | [Falling Star](https://open.spotify.com/album/163ztGWzGI1Wk6sB9QAPHG) | 4:03 | 2021-12-21 | 2022-07-21 |
 | [Far 멀리](https://open.spotify.com/track/7y4ye2TL1fT2WUTes5Q921) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Between 사이](https://open.spotify.com/album/6H8uxH4wbBRchrN1O6lgOh) | 3:34 | 2022-03-31 | 2022-04-16 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2021-12-21 | 2022-07-28 |
@@ -368,6 +368,7 @@
 | [Hangkio](https://open.spotify.com/track/0hUYYFoOPCuSsb6stdqR0h) | [Shin Onyu](https://open.spotify.com/artist/3dSchlsDeFd5mEw4RoAMOx) | [Happy Orange](https://open.spotify.com/album/76TnC7yj8OkyDIsTBpCak5) | 3:57 | 2021-12-21 | 2022-07-01 |
 | [Happy Ending](https://open.spotify.com/track/3BgEBMpkiYoWQtWT9AAdft) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Happy Ending](https://open.spotify.com/album/0SgKOEUQhYZXOkiRDRnmCZ) | 3:36 | 2024-01-22 | 2024-05-10 |
 | [HAPPY IPARK](https://open.spotify.com/track/6JPOfa2RLi0AQAgIr9VNfV) | [a pretty day 예쁜하루](https://open.spotify.com/artist/3qflgxvWuvqXL0EtDzBWOq) | [HAPPY IPARK](https://open.spotify.com/album/1JgZjUurQfkgMrdh21zQNd) | 1:48 | 2022-03-31 | 2022-04-21 |
+| [Happyhappyhappylife](https://open.spotify.com/track/34Bb5sXf8VljzfnJgnP1t2) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Happyhappyhappylife](https://open.spotify.com/album/0tap4cMvC12zOACDSgjdNl) | 4:02 | 2025-09-05 |  |
 | [Hard to Say](https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Hard to Say](https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2) | 3:14 | 2025-06-27 | 2025-07-09 |
 | [Hard to say goodbye](https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Secret](https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa) | 3:19 | 2024-03-28 | 2024-05-10 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-07-27 | 2024-04-19 |
@@ -534,7 +535,7 @@
 | [Lost](https://open.spotify.com/track/6DryqX1P8pkEHwnS3tj1lU) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Lost](https://open.spotify.com/album/6SEhLhrm67sQZHcgVT7PWH) | 2:59 | 2024-11-06 | 2025-01-23 |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
 | [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 | 2024-05-10 |
-| [Lotus](https://open.spotify.com/track/5o4b92ELtQ33pKyCyrtTaE) | [Noa Coast](https://open.spotify.com/artist/0XTepDq5q7tQj6Xg7UPWys) | [Lotus](https://open.spotify.com/album/0Vf2Lxm3zQ0EEDUZAh1lY8) | 3:50 | 2025-08-01 |  |
+| [Lotus](https://open.spotify.com/track/5o4b92ELtQ33pKyCyrtTaE) | [Noa Coast](https://open.spotify.com/artist/0XTepDq5q7tQj6Xg7UPWys) | [Lotus](https://open.spotify.com/album/0Vf2Lxm3zQ0EEDUZAh1lY8) | 3:50 | 2025-08-01 | 2025-09-06 |
 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 | 2024-11-06 | 2025-01-23 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2024-05-16 |
@@ -1028,6 +1029,7 @@
 | [WYA](https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [MOIM](https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR) | 3:22 | 2023-01-25 | 2023-02-15 |
 | [YA,YA 야,야](https://open.spotify.com/track/3BwKReqxpaS1CCsLkydw5a) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YA,YA 야,야](https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu) | 4:42 | 2022-01-27 | 2022-04-15 |
 | [YAYA](https://open.spotify.com/track/1eLt1qqQQdhSNomFZ7FqhD) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP), [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [YAYA](https://open.spotify.com/album/3b7Gkime029zOsf82qmqvI) | 4:17 | 2025-02-12 | 2025-04-11 |
+| [Yesterday, Today and Tomorrow](https://open.spotify.com/track/0Dk3leCGdbez4KTGdcCWnc) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Yesterday, Today and Tomorrow](https://open.spotify.com/album/64csJuZL1aPB8IVWNFEEa5) | 3:12 | 2025-09-05 |  |
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2022-06-18 | 2022-07-05 |
 | [Yongcheon Cave](https://open.spotify.com/track/3wWn5kGPSElAhNjj04n11z) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Yongcheon Cave](https://open.spotify.com/album/6aXYvIbs7JOuppcd7mOsPn) | 2:50 | 2022-03-31 | 2022-04-20 |
 | [You](https://open.spotify.com/track/4QWehEg5WW9PVyEW70GwXa) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [The](https://open.spotify.com/album/2F55LJ7r0rNmiRwAt5Jm0a) | 3:28 | 2024-07-01 | 2024-07-16 |

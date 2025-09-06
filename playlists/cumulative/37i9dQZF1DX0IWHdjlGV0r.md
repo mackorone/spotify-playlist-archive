@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-226 songs - 11 hr 34 min
+227 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 | 2025-07-13 |  |
 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 | 2022-05-03 | 2025-05-27 |
 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 | 2022-05-03 |  |
+| [NON IN VENDITA \(feat\. nayt & Rose Villain\)](https://open.spotify.com/track/2BJtI3TpvvMmyPcsTowu3S) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:31 | 2025-09-04 |  |
 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 | 2022-12-19 |  |
 | [Non mi basta mai \(feat\. Frah Quintale, Capo Plaza\)](https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:34 | 2024-12-18 |  |
 | [Non mi chiami mai](https://open.spotify.com/track/5EpObrDHnggPuYUVl7IiJ0) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [Lacrime](https://open.spotify.com/album/15c6QehX6DCG353ITVkqTn) | 4:07 | 2022-05-03 | 2022-06-20 |
@@ -163,7 +164,7 @@
 | [Parole di ghiaccio](https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [L'erba cattiva](https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH) | 3:51 | 2022-05-03 |  |
 | [Parole di ghiaccio](https://open.spotify.com/track/5crrldk7i32Sa80pSJMpnr) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [L'erba cattiva \(Gold Edition\)](https://open.spotify.com/album/4Ol0xyGSCkq7Zv1JNcX7Rg) | 3:51 | 2025-07-02 | 2025-07-14 |
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |
-| [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 |  |
+| [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 | 2025-09-06 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-03 | 2025-07-14 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 | 2024-04-19 |

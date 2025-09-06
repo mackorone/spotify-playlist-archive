@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 132004,
+  "num_followers": 132035,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Tra, Tra",
+      "url": "https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 192757,
       "name": "Si Pudiera Estar Con Ella",
       "url": "https://open.spotify.com/track/560COmYKZ7Jt9fq9X2GRgi"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Mi Trayectoria",
-        "url": "https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Tra, Tra",
-      "url": "https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Xplosion",
-      "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 98666,
       "name": "Interlude - Don Che Tra Mix",
       "url": "https://open.spotify.com/track/6CBjYv25BAXI0cyPuHwnRI"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "Xplosion",
+      "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "DJ Joe presenta: A Mover...",
-        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
-      },
-      "artists": [
-        {
-          "name": "Dj Gian",
-          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Callate",
-      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 116986,
       "name": "Tira Un Ritmo Sandunguero",
       "url": "https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "DJ Joe presenta: A Mover...",
+        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
+      },
+      "artists": [
+        {
+          "name": "Dj Gian",
+          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Callate",
+      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
     },
     {
       "added_at": "2024-03-25 13:06:06",

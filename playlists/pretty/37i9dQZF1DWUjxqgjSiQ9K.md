@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Funky
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,997 likes - 90 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,133 likes - 90 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 89 | [Toda lengua y toda nación](https://open.spotify.com/track/7peTmtAnLDHaraSDxe2tS4) | [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Toda lengua y toda nación](https://open.spotify.com/album/7lD9VJb44DRilryE9jY0ys) | 7:06 |
 | 90 | [El Gozo de Dios \- Live At The Belonging Co, Nashville, TN / 2024](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \(Live\)](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
 
-Snapshot ID: `AAAAABb/GiAuO6eVKJSSQ9YXIeujAPye`
+Snapshot ID: `AAAAAB46q3WbRlAzMTebMBa1L+9oMEXw`

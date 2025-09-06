@@ -836,7 +836,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6JCdIHw675Lc0u2vXzERqU"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 258901,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176805,
       "name": "Down Swinging",
       "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/2rDMtmPctM67hICAZTKAjx"
@@ -2061,6 +2061,24 @@
     },
     {
       "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384358,
+      "name": "FREEDOM.",
+      "url": "https://open.spotify.com/track/36SgNqcnxwjb0gYsGslJF8"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 148781,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/6RJBrG3VHz2hPITjv88chh"
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 244586,
       "name": "I Almost Do (Taylor's Version)",
       "url": "https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 156642,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
@@ -3244,6 +3262,24 @@
       "duration_ms": 156642,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/6gBZsUc90myWngMU5VRYp5"
+    },
+    {
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "album": {
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/2eyWFRvT7lOQmqfXI25oR1"
@@ -5052,7 +5088,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 192799,
       "name": "Physical (feat. Troye Sivan)",
       "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
@@ -5374,7 +5410,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 214755,
       "name": "RED FLAG.",
       "url": "https://open.spotify.com/track/0M7hOuDqqbrkdJXelxoSW6"
@@ -5392,7 +5428,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 214755,
       "name": "RED FLAG.",
       "url": "https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8"
@@ -5490,6 +5526,24 @@
       "duration_ms": 191586,
       "name": "Risk",
       "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+    },
+    {
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154213,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK"
     },
     {
       "album": {
@@ -5630,7 +5684,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 194400,
       "name": "SCP",
       "url": "https://open.spotify.com/track/3aaWkQBV5D0e8Nw0crBN7I"
@@ -6457,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204667,
+      "name": "The Worst Thing I Would Ever Do",
+      "url": "https://open.spotify.com/track/0BWWAzjwP6KEvrFYGbHav0"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -7038,7 +7110,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"

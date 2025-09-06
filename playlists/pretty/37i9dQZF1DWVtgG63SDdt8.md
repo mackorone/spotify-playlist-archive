@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 ### [All New Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DWVtgG63SDdt8)
 
-> The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Abbie Gamboa & Aodhán King
+> The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,004 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,134 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Hold Me Down](https://open.spotify.com/track/5eoVeDyedYjN2sWshZmZ5a) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Hold Me Down](https://open.spotify.com/album/2S9ghjHqQwd6JdpsbkWhkB) | 2:15 |
 | 99 | [In Real Life](https://open.spotify.com/track/53JcBJVPLxNl9MLEe8ypo3) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [In Real Life](https://open.spotify.com/album/4AshcV2Z2S9tWs9Ln7GiZb) | 1:57 |
 
-Snapshot ID: `AAAAADzjVv0wPvZd3CZmNo8SuhfVyyci`
+Snapshot ID: `AAAAAFw2+bW7NdK1BX+t8OB+t4HnhvOk`

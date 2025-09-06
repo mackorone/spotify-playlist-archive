@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,393 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,392 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 21 | [Baptize \(with JID & EARTHGANG feat\. Ant Clemons\)](https://open.spotify.com/track/5zWOqc9si4XnemdxZH4WGG) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:53 |
 | 22 | [Act Up](https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:18 |
 | 23 | [GLIMMER.](https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [SNAKEGANG](https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ) | [SNAKEGANG EP Volume 1](https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu) | 2:38 |
-| 24 | [LIE TO ME](https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:07 |
-| 25 | [Missed Calls](https://open.spotify.com/track/3Z7dieIRSquTYqLVR15mov) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:30 |
+| 24 | [Missed Calls](https://open.spotify.com/track/3Z7dieIRSquTYqLVR15mov) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:30 |
+| 25 | [LIE TO ME](https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:07 |
 | 26 | [OSMOSIS](https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:54 |
 | 27 | [Opium \(feat\. EARTHGANG\)](https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 6:50 |
 | 28 | [Shiva \(with JID & EARTHGANG feat\. Benji\. & Jurdan Bryant\)](https://open.spotify.com/track/6NszDAUWi40uiQhXRT9p09) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 49 | [Monday](https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Torba](https://open.spotify.com/album/1bfSnW4xc5x4T49TRrDelF) | 5:36 |
 | 50 | [Up Up Away \(with JID & EARTHGANG feat\. Vince Staples\)](https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Revenge Of The Dreamers III: Director's Cut](https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V) | 3:19 |
 
-Snapshot ID: `aLeFAAAAAABSSPDpjLQozlD9iQLnR4Gm`
+Snapshot ID: `aLjWgAAAAADhnkQSGTY8e8hwNIOZELfj`

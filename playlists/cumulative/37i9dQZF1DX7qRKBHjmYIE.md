@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Motherflowers.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Monsieur Periné.
 
-914 songs - 2 day 1 hr 15 min
+915 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 | 2021-12-02 | 2022-01-25 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-06 | 2023-02-17 |
 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-01 | 2024-07-27 |
+| [Aguaráchate](https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Aguaráchate](https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv) | 2:36 | 2025-09-05 |  |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2021-12-02 | 2022-03-22 |
 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 | 2024-04-26 | 2024-12-04 |
 | [Aiwo](https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Aiwo](https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz) | 2:20 | 2024-02-23 | 2024-07-13 |
@@ -160,7 +161,7 @@
 | [COCO PEBBLES](https://open.spotify.com/track/7dxb2v1b5WLv9F7aYCRoUS) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [Character Development](https://open.spotify.com/album/0lh15vEIo21lDplL39rHmF) | 2:26 | 2022-02-09 | 2022-07-28 |
 | [Colchones, Tambores y Refrigeradores](https://open.spotify.com/track/3k8Gioy06fQRnP6FlJXMfD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:19 | 2023-09-29 | 2023-12-09 |
 | [cold feet](https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN), [ELLIE](https://open.spotify.com/artist/0niZWQWN4icezT9adyLj4w) | [cold feet](https://open.spotify.com/album/4vx4AhMfe8CoH4jdzxorCw) | 2:59 | 2021-12-02 | 2022-01-29 |
-| [ColdS3x](https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [ColdS3x](https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA) | 3:10 | 2025-08-15 |  |
+| [ColdS3x](https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [ColdS3x](https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA) | 3:10 | 2025-08-15 | 2025-09-06 |
 | [Come With Me](https://open.spotify.com/track/6ikobz37HSj8vspHvQRt23) | [Tania Maria](https://open.spotify.com/artist/26DN8VRVU1IRg0AFgUfMZO) | [The Concord Jazz Heritage Series](https://open.spotify.com/album/4KFx9dwUnGpuYgY3JO7gug) | 5:41 | 2023-09-29 | 2023-10-14 |
 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 | 2023-12-08 | 2024-02-24 |
 | [Communication](https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Communication](https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU) | 3:36 | 2022-02-09 | 2023-02-17 |

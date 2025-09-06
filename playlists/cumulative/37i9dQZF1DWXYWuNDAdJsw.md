@@ -4,7 +4,7 @@
 
 > el nombre lo dice todo.
 
-243 songs - 14 hr 11 min
+244 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 | 2022-03-22 |  |
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-05-12 |  |
 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 | 2022-03-22 | 2022-05-13 |
-| [Esclavo de Tus Besos](https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Esclavo de Tus Besos](https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai) | 3:39 | 2023-05-12 |  |
+| [Esclavo de Tus Besos](https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Esclavo de Tus Besos](https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai) | 3:39 | 2023-05-12 | 2025-09-06 |
 | [Espacio](https://open.spotify.com/track/0YxgSlPYmfiecHg8sqTfI4) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Espacio](https://open.spotify.com/album/1o8K6yE29vPz6MEHSCL1Zk) | 2:37 | 2025-03-28 | 2025-06-20 |
 | [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2022-03-22 | 2025-02-25 |
 | [EX ASS](https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [EX ASS](https://open.spotify.com/album/3rFQBtfLRISVN50QeNwWFq) | 2:37 | 2025-06-19 |  |
@@ -158,6 +158,7 @@
 | [No Te Vayas](https://open.spotify.com/track/0vRPGvIiFaRwohogbqmzKx) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [La Escuela](https://open.spotify.com/album/7jcuqVDIb9BYElfLRxjy3h) | 3:58 | 2022-03-22 | 2022-05-13 |
 | [No Te Veo \- Remix](https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Te Veo](https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP) | 4:12 | 2022-03-22 | 2025-03-08 |
 | [Noche De Entierro](https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Hector](https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 4:23 | 2023-05-12 | 2023-05-26 |
+| [Noche Soltera](https://open.spotify.com/track/6kMIR5MmC9Z6e5X1upcOzK) | [Sebas R](https://open.spotify.com/artist/4cPU16HmYdEqsnrhZ06UjU) | [Noche Soltera](https://open.spotify.com/album/4Tnd8GxUWU1EwnC0CBzrwi) | 2:10 | 2025-09-05 |  |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2023-05-12 |  |
 | [Nos Entendemos](https://open.spotify.com/track/2WNPC43XdiYmOsCp9qxmUp) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Gaviria](https://open.spotify.com/artist/6oub1Q2hC7ZILcOWWn3Eo9), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Nos Entendemos](https://open.spotify.com/album/4dB5Xsylj0T1dfT6A83L2U) | 3:01 | 2022-03-22 | 2022-05-13 |
 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 | 2025-06-19 |  |

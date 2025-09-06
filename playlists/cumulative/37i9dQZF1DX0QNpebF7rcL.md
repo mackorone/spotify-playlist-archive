@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Eric Gales
 
-505 songs - 1 day 9 hr 57 min
+506 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ain't No Cure Like The Blues](https://open.spotify.com/track/2i1EsHwA5GhttL6GPQUCje) | [Justine Blazer](https://open.spotify.com/artist/1yLt8nmhDz17SVp6yWrsDq), [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Ain't No Cure Like The Blues](https://open.spotify.com/album/2FyBb2zYjEMfpYbKxhCCg5) | 3:32 | 2024-05-24 |  |
 | [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 | 2024-03-15 | 2024-04-27 |
 | [Ain't That Lovin' You](https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Ain't That Lovin' You](https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A) | 2:19 | 2022-03-11 | 2022-04-23 |
+| [Alive](https://open.spotify.com/track/1J4MnbBNUcjI6XzgYQsSLd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Alive](https://open.spotify.com/album/6yMn7EMp3ASkFC8K3n7RVP) | 4:54 | 2025-09-05 |  |
 | [All My Dues Are Paid](https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD) | [Frank Bey](https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE) | [All My Dues Are Paid](https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [All My Life](https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Invisible Man](https://open.spotify.com/album/75jZ7YB5g4bwiA5XAFSMX0) | 3:09 | 2024-11-08 |  |
 | [All Out Of Tears](https://open.spotify.com/track/5UAWb4S8wXDLaoowdYs6ln) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [All Out Of Tears](https://open.spotify.com/album/6KqkVRVyCAaNmou8aqYkzj) | 6:31 | 2020-12-14 | 2022-02-26 |
@@ -430,7 +431,7 @@
 | [The Weight of the World](https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [The Weight of the World](https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9) | 4:25 | 2022-10-21 | 2023-02-11 |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-12-14 | 2022-02-26 |
 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 | 2024-02-23 | 2024-04-19 |
-| [These Eyes](https://open.spotify.com/track/6xU6wKi1YZ8JSvFkWfEEHX) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/0XIyvQNasNYFvDv2CTNj40) | 5:09 | 2024-02-23 |  |
+| [These Eyes](https://open.spotify.com/track/6xU6wKi1YZ8JSvFkWfEEHX) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/0XIyvQNasNYFvDv2CTNj40) | 5:09 | 2024-02-23 | 2025-09-06 |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-10-15 | 2023-07-22 |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2020-12-14 | 2022-02-26 |
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2020-12-14 | 2022-02-26 |

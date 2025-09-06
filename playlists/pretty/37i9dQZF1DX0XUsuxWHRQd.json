@@ -1,51 +1,51 @@
 {
-  "description": "New music from Yeat, Eminem and Key Glock. ",
-  "num_followers": 15927173,
+  "description": "New music from Don Toliver, Trippie Redd and Latto. ",
+  "num_followers": 15927470,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJRfPoxYqCw9hUzRw+ONdwhp39nV",
+  "snapshot_id": "AAAAALnxB43bXe2bCOqmm5mgxl4LIkTv",
   "tracks": [
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "FWU",
-        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+        "name": "Tiramisu",
+        "url": "https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3"
       },
       "artists": [
         {
           "name": "Don Toliver",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         }
       ],
-      "duration_ms": 171000,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+      "duration_ms": 138947,
+      "name": "Tiramisu",
+      "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "wgft (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "wgft (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "KIARI",
         "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
@@ -81,55 +97,63 @@
       "url": "https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
-        "name": "STANS (The Official Soundtrack)",
-        "url": "https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b"
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 294357,
-      "name": "Everybody\u2019s Looking At Me",
-      "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+        "name": "Gyatt",
+        "url": "https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
+      "duration_ms": 137733,
+      "name": "Gyatt",
+      "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
@@ -145,63 +169,7 @@
       "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Different Species (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
-    },
-    {
-      "added_at": "2025-09-04 04:00:02",
-      "album": {
-        "name": "The Minstrel Show (Explicit Version)",
-        "url": "https://open.spotify.com/album/4sk7zSzYdcIetF6t6vO8Rx"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Lovin' It (feat. Joe Scudda)",
-      "url": "https://open.spotify.com/track/6piDHcH0vdPWzIg2uU2q3K"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Something Wrong (with Don Toliver)",
-        "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 142451,
-      "name": "Something Wrong (with Don Toliver)",
-      "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
@@ -225,59 +193,27 @@
       "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
-        "name": "Trunks (From \"Highest 2 Lowest\")",
-        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
       },
       "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Trunks (From \"Highest 2 Lowest\")",
-      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "at my purest (feat. Offset)",
-      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Glockaveli: All Eyez On Key",
-        "url": "https://open.spotify.com/album/1xilmbBVUsZj9oXCLHS81F"
-      },
-      "artists": [
+        },
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 153127,
-      "name": "Daddy\u2019s Little Girl",
-      "url": "https://open.spotify.com/track/2sBVHAVBUrfeeLkDLMWobS"
+      "duration_ms": 184320,
+      "name": "Different Species (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -293,39 +229,23 @@
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+        "name": "STANS (The Official Soundtrack)",
+        "url": "https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 192184,
-      "name": "Checkmate (Smooth)",
-      "url": "https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi"
+      "duration_ms": 294357,
+      "name": "Everybody\u2019s Looking At Me",
+      "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 127152,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "ROCKIN",
         "url": "https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB"
@@ -349,43 +269,91 @@
       "url": "https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
-        "name": "Lonely At The Top",
-        "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
+        "name": "Glockaveli: All Eyez On Key",
+        "url": "https://open.spotify.com/album/1xilmbBVUsZj9oXCLHS81F"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 153127,
+      "name": "Daddy\u2019s Little Girl",
+      "url": "https://open.spotify.com/track/2sBVHAVBUrfeeLkDLMWobS"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Trunks (From \"Highest 2 Lowest\")",
+        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Trunks (From \"Highest 2 Lowest\")",
+      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "World Boss",
+        "url": "https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "World Boss",
+      "url": "https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Something Wrong (with Don Toliver)",
+        "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Bri Steves",
-          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 192475,
-      "name": "SUPAFLEE (feat. Bri Steves)",
-      "url": "https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr"
+      "duration_ms": 142451,
+      "name": "Something Wrong (with Don Toliver)",
+      "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Calm 3",
-        "url": "https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 110386,
-      "name": "Calm 3",
-      "url": "https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -409,7 +377,155 @@
       "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "at my purest (feat. Offset)",
+      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Breskii",
+          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
+        },
+        {
+          "name": "YK Niece",
+          "url": "https://open.spotify.com/artist/20LHcYW9rmkpatv2aHzxCE"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Take Me Thru Dere",
+      "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Focus More On Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg"
+      },
+      "artists": [
+        {
+          "name": "Dee Mula",
+          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "Blow My High",
+      "url": "https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 127152,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Migo In America",
+        "url": "https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 103186,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 192184,
+      "name": "Checkmate (Smooth)",
+      "url": "https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Calm 3",
+        "url": "https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 110386,
+      "name": "Calm 3",
+      "url": "https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
+      "album": {
+        "name": "Lonely At The Top",
+        "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Bri Steves",
+          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "SUPAFLEE (feat. Bri Steves)",
+      "url": "https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr"
+    },
+    {
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "WENT WEST",
         "url": "https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx"
@@ -425,7 +541,7 @@
       "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
@@ -453,7 +569,7 @@
       "url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
         "url": "https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl"
@@ -481,47 +597,7 @@
       "url": "https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 184789,
-      "name": "CHAMPAIN & VACAY",
-      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "wgft (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "wgft (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "No Sharing (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
@@ -541,23 +617,7 @@
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Migo In America",
-        "url": "https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw"
-      },
-      "artists": [
-        {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
-        }
-      ],
-      "duration_ms": 103186,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -577,7 +637,7 @@
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Which One",
         "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
@@ -597,7 +657,7 @@
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Bodies (with JID)",
         "url": "https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3"
@@ -617,7 +677,7 @@
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
@@ -641,23 +701,7 @@
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Focus More On Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg"
-      },
-      "artists": [
-        {
-          "name": "Dee Mula",
-          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "Blow My High",
-      "url": "https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
         "url": "https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB"
@@ -677,7 +721,7 @@
       "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
@@ -693,7 +737,7 @@
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Imaginary Playerz",
         "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
@@ -709,7 +753,7 @@
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
@@ -741,7 +785,7 @@
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Cant Go Broke (Remix)",
         "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
@@ -757,7 +801,7 @@
       "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Money On Money (feat. Future)",
         "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
@@ -777,7 +821,7 @@
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "i need meds",
         "url": "https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL"
@@ -793,7 +837,7 @@
       "url": "https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -809,7 +853,7 @@
       "url": "https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Bunna Summa (Ice Cream Summer Deluxe)",
         "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
@@ -825,7 +869,7 @@
       "url": "https://open.spotify.com/track/43FkWr8JNh12rKfXNBFR1H"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
@@ -845,7 +889,7 @@
       "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Move Wrong (feat. VonOff1700)",
         "url": "https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd"
@@ -865,7 +909,7 @@
       "url": "https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "MASA",
         "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
@@ -885,7 +929,7 @@
       "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -901,7 +945,7 @@
       "url": "https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:19",
       "album": {
         "name": "Typa",
         "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
@@ -915,94 +959,6 @@
       "duration_ms": 124137,
       "name": "Typa",
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "OWA OWA",
-        "url": "https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 132380,
-      "name": "OWA OWA",
-      "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 289426,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "J Money",
-          "url": "https://open.spotify.com/artist/6ma7eBrKihYrXcvdMNpnc5"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "Drip BBQ",
-      "url": "https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "Life Is Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
     }
   ],
   "unique_name": "RapCaviar",

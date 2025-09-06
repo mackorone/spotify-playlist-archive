@@ -4,10 +4,11 @@
 
 > viral, trend ve yükselenler\.  Kapak: Murat Boz x Poizi
 
-209 songs - 10 hr 46 min
+210 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 | 2025-08-28 |  |
 | [Acıtır gibi severek](https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Acıtır gibi severek](https://open.spotify.com/album/4CiPRmoqI7UVRc4EfBqozH) | 3:45 | 2024-12-16 | 2025-04-08 |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-30 | 2025-07-23 |
 | [Ait Hissetmiyorum](https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 1:50 | 2024-10-17 | 2024-12-05 |
@@ -129,7 +130,7 @@
 | [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 | 2025-05-27 | 2025-08-16 |
 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 | 2025-01-14 | 2025-03-20 |
 | [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:18 | 2025-03-12 | 2025-03-20 |
-| [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-30 |  |
+| [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-30 | 2025-09-06 |
 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 | 2025-02-20 |  |
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-07-03 | 2025-05-13 |
 | [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 | 2025-06-18 |  |

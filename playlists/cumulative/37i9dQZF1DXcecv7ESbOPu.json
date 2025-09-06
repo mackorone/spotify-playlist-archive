@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u00c4ntligen fredag och ny musik fr\u00e5n H\u00e5kan Hellstr\u00f6m, Lady Gaga, Lov1  med flera. Happy New Music Friday! ",
+  "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Justin Bieber, H\u00e5kan Hellstr\u00f6m, Lady Gaga, Lov1 med flera. Happy New Music Friday! ",
   "name": "New Music Friday Sweden",
   "tracks": [
     {
@@ -59083,20 +59083,24 @@
     },
     {
       "album": {
-        "name": "Candy Shop",
+        "name": "Candy Shop (feat. EEVA)",
         "url": "https://open.spotify.com/album/3DQwx46G6VwE14VzlVO6ZJ"
       },
       "artists": [
         {
           "name": "Besomorph",
           "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "EEVA",
+          "url": "https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG"
         }
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164800,
-      "name": "Candy Shop",
+      "name": "Candy Shop (feat. EEVA)",
       "url": "https://open.spotify.com/track/35nZUt2vV3337XJBKNokqf"
     },
     {
@@ -91936,6 +91940,28 @@
       "duration_ms": 262008,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "DON'T WANNA",
+      "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
     },
     {
       "album": {
@@ -219779,6 +219805,24 @@
     },
     {
       "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+    },
+    {
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB"
       },
@@ -322261,6 +322305,32 @@
     },
     {
       "album": {
+        "name": "SOMEBODY LOVES ME PT. 2",
+        "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "SOMEBODY LOVES ME PT. 2",
+      "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+    },
+    {
+      "album": {
         "name": "Somebody New",
         "url": "https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK"
       },
@@ -326698,6 +326768,24 @@
       "duration_ms": 162704,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3oi0dxF0yy5MrHLN8ZbEok"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "SPEED DEMON",
+      "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
     },
     {
       "album": {
@@ -332630,6 +332718,24 @@
       "duration_ms": 167803,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj"
+    },
+    {
+      "album": {
+        "name": "\u00c4rligt misstag",
+        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "Stillhet",
+      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
     },
     {
       "album": {
@@ -362665,6 +362771,24 @@
     },
     {
       "album": {
+        "name": "Tiramisu",
+        "url": "https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Tiramisu",
+      "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+    },
+    {
+      "album": {
         "name": "All Our Worries Are Poems",
         "url": "https://open.spotify.com/album/4AoWEyko02wPQohQj0Vthu"
       },
@@ -365515,6 +365639,28 @@
     },
     {
       "album": {
+        "name": "Took A Walk (from \"The Long Walk\")",
+        "url": "https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240277,
+      "name": "Took A Walk - from \"The Long Walk\"",
+      "url": "https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4"
+    },
+    {
+      "album": {
         "name": "Toot It Up",
         "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
       },
@@ -367074,24 +367220,6 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
-    },
-    {
-      "album": {
-        "name": "\u00c4rligt misstag",
-        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "date_added": "2025-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
     },
     {
       "album": {

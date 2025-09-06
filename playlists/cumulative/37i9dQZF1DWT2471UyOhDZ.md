@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Big Thief
 
-363 songs - 23 hr 35 min
+364 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cinnamon Temple](https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 3:20 | 2024-07-18 | 2025-05-09 |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 |  |
 | [City Lights](https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA) | 4:20 | 2024-06-14 | 2024-07-20 |
+| [Claritin](https://open.spotify.com/track/0deV9lMzallKEKFbJ6qiRs) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Claritin](https://open.spotify.com/album/1Vd7kYCE0nXoZbRfBDl28H) | 3:25 | 2025-09-04 |  |
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-28 | 2025-05-30 |
 | [Cleopatras](https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Cleopatras](https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N) | 3:38 | 2024-10-17 | 2024-12-02 |
 | [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 | 2025-01-17 | 2025-04-15 |
@@ -295,7 +296,7 @@
 | [Stop The Music](https://open.spotify.com/track/4b5OF1J2hs6o6VsgccJgwB) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Stop The Music](https://open.spotify.com/album/0rEQQdNkMixaXRqYCe4kaX) | 2:40 | 2024-06-14 | 2024-10-07 |
 | [Strange Little Consequence](https://open.spotify.com/track/5cRO8vypa1jd8UCiL1Nsbo) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Strange Little Consequence](https://open.spotify.com/album/2k376V4vbueVKx1YQDtuOd) | 3:44 | 2025-02-28 | 2025-03-28 |
 | [Suddenly](https://open.spotify.com/track/6q69wsnTERf5URBpPDP9eD) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Suddenly/Big Empty Country \(Edit\)](https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5) | 3:34 | 2025-05-08 | 2025-06-20 |
-| [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 | 2025-07-03 |  |
+| [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 | 2025-07-03 | 2025-09-06 |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 | 2025-04-01 |
 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 | 2025-09-03 |
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-06-14 | 2024-07-12 |

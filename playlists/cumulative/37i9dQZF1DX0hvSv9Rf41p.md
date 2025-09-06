@@ -2,7 +2,7 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with NGHTMRE
+> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with INFEKT
 
 1,460 songs - 3 day 8 hr 34 min
 

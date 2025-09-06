@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Lithe
+> Your shortcut to the best new Hip Hop\. Cover: Don Toliver
 
-656 songs - 1 day 8 hr 6 min
+659 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [GR4VEY4RD SHIFT \(feat\. Headie One\)](https://open.spotify.com/track/0JSOw4gBnM8KIdj2BoYyks) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [4 \(Deluxe\)](https://open.spotify.com/album/1Hfzke6hFhtGPKITLiOLFk) | 3:36 | 2025-07-10 |  |
 | [GRAMMY PARTY](https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GRAMMY PARTY](https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi) | 1:50 | 2024-02-29 | 2024-07-12 |
 | [Gutta](https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Gutta](https://open.spotify.com/album/19UpTFofaeJWpgprRhLPOG) | 3:53 | 2023-11-30 | 2024-03-01 |
-| [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 | 2025-09-04 |  |
+| [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 | 2025-09-04 | 2025-09-06 |
+| [Gyatt](https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs) | 2:17 | 2025-09-05 |  |
 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 | 2024-10-18 |
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-05 | 2024-08-02 |
 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 | 2025-06-12 | 2025-08-22 |
@@ -331,6 +332,7 @@
 | [KMART/TARGET](https://open.spotify.com/track/0q955SSYkWa42Uy12e2Cdl) | [Juiceboxx](https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33) | [KMART/TARGET](https://open.spotify.com/album/2ZMCbEHHzZ5NUI5tywJ8Hc) | 2:04 | 2024-06-21 | 2024-07-19 |
 | [KNOCKA](https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [KNOCKA](https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda) | 2:30 | 2024-05-02 | 2024-07-12 |
 | [Kyrie & Luka](https://open.spotify.com/track/6AgMzkvClobScVCFOyxGDD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 4:12 | 2024-09-13 | 2024-10-11 |
+| [L.O.A.T](https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [L.O.A.T](https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg) | 2:26 | 2025-09-04 |  |
 | [LA](https://open.spotify.com/track/2MKGbK10kT2hySS40U7gAD) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [LA](https://open.spotify.com/album/0be7Q2AKCFClTDm7BgIoaP) | 2:27 | 2025-09-04 |  |
 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2023-12-21 | 2024-02-09 |
 | [Laho](https://open.spotify.com/track/0lhLSwvRKGHfIcVEz3uQK6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/65SUCKOvwWityHzXuDGWTl) | 2:24 | 2025-05-22 | 2025-06-13 |
@@ -585,6 +587,7 @@
 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-05-08 |  |
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-10 | 2025-04-04 |
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-21 | 2024-09-14 |
+| [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-09-04 |  |
 | [TLC](https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [TLC](https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p) | 2:29 | 2023-10-05 | 2023-12-15 |
 | [To the Fullest](https://open.spotify.com/track/5FWl28FQk0TTZTH0JCGXX8) | [JOELZ](https://open.spotify.com/artist/0fPnhLXlekNG7O3xanuvci), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Shrimp](https://open.spotify.com/artist/1FquXtV7ZjW6AnAxD3bWGq) | [To the Fullest](https://open.spotify.com/album/5ovl308eaiQdsH6uY6z6y7) | 2:21 | 2024-04-02 | 2024-06-14 |
 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 | 2024-07-04 | 2024-08-23 |

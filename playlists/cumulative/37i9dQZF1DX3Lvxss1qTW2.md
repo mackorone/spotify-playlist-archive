@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover: Taves
 
-499 songs - 23 hr 0 min
+499 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [iDey](https://open.spotify.com/track/0gqLCoeOQh7ItaLTZtdojy) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [iDey](https://open.spotify.com/album/67Hc4et6UWnbKKAIw5FqbQ) | 2:54 | 2025-04-11 | 2025-05-24 |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-06-28 | 2024-07-09 |
 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 | 2024-11-15 | 2024-11-22 |
+| [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 | 2025-09-05 |  |
 | [Ifeoma](https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Ifeoma](https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD) | 2:04 | 2025-02-21 | 2025-06-14 |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-10-14 | 2025-03-07 |
 | [Imagination](https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [In The Beginning](https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K) | 2:32 | 2024-08-25 | 2024-11-16 |
@@ -448,7 +449,6 @@
 | [TOWN BOY.](https://open.spotify.com/track/68Uypk76czvoUelZtBJipr) | [ajofé.](https://open.spotify.com/artist/2xDBC3wszVDoVcCZTiW2iE) | [TOWN BOY.](https://open.spotify.com/album/1uPZXWLWuVafYWv1pOAOnk) | 2:54 | 2025-08-01 | 2025-08-09 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-04 | 2025-08-23 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
-| [Track 6](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 0:00 | 2025-09-05 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

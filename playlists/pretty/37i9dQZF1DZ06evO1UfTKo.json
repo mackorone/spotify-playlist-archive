@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 754620,
+  "num_followers": 754736,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACMPxMI92EcRQNuThcIHDet",
+  "snapshot_id": "aLjWgAAAAACVhVNlJYNhaZFKRgCgtUBV",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "El Ejemplo",
+      "url": "https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Garra De...",
         "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
@@ -271,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
       "artists": [
         {
@@ -280,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 175053,
-      "name": "El Ejemplo",
-      "url": "https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T"
+      "duration_ms": 242026,
+      "name": "El Avi\u00f3n De La Muerte",
+      "url": "https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA"
     },
     {
       "added_at": null,
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "El Avi\u00f3n De La Muerte",
-      "url": "https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Idolos Del Pueblo",
         "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "La Jaula De Oro",
-      "url": "https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Reina Del Sur",
         "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 229133,
       "name": "En Qu\u00e9 Fall\u00e9",
       "url": "https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "La Jaula De Oro",
+      "url": "https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 210853,
-      "name": "Los Dos Plebes",
-      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+      "duration_ms": 206600,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Agua Salada",
-      "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
+      "duration_ms": 210853,
+      "name": "Los Dos Plebes",
+      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
     },
     {
       "added_at": null,

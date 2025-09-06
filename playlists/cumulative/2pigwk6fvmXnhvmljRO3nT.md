@@ -4,10 +4,11 @@
 
 > 
 
-7,667 songs - 19 day 19 hr 1 min
+7,667 songs - 19 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 0:00 | 2025-01-15 |  |
 | [\#longlivesteelo](https://open.spotify.com/track/2CNRu6NMtlCTNlrZ1NL6Hz) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [T'nah Apex](https://open.spotify.com/artist/5Y0eBjypjKL7Ahms0NaXVp) | [Summer Knights](https://open.spotify.com/album/16KdSB0v7RqYwRjylZCpfn) | 2:51 | 2025-01-03 |  |
 | [\#PROUDCATOWNERREMIX](https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 2:37 | 2025-01-15 |  |
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2025-01-15 |  |
@@ -3782,7 +3783,6 @@
 | [Mental \- Cold Blooded Soul Version](https://open.spotify.com/track/0LdCOtpdCqgcEYuzNy1VS6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future \(The Extended Edition\)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI) | 2:07 | 2025-01-03 |  |
 | [Mental \[Feat\. Saul Williams & Bridget Perez\]](https://open.spotify.com/track/3rMQe2is2UAxuhtFjRyYyz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Bridget Perez](https://open.spotify.com/artist/5ZO14S0SgrvkUtV2GJ1buo) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:26 | 2025-01-03 |  |
 | [Mental \[Feat\. Saul Williams & Bridget Perez\]](https://open.spotify.com/track/3syCWrLg2xtVqnxzDZOi85) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Bridget Perez](https://open.spotify.com/artist/5ZO14S0SgrvkUtV2GJ1buo) | [Melt My Eyez See Your Future \(The Extended Edition\)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI) | 2:26 | 2025-01-03 |  |
-| [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 | 2025-01-15 |  |
 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 | 2025-01-15 |  |
 | [Mercury](https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:55 | 2025-04-19 |  |
 | [Mercy](https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mercy](https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv) | 5:29 | 2025-01-03 |  |

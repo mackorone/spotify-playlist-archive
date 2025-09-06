@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-128 songs - 5 hr 53 min
+130 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baby Mine \- From "Dumbo"/Soundtrack Version](https://open.spotify.com/track/2ufkOFn5LKYNoAdss0GUKR) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Baby Mine \(From "Dumbo"\)](https://open.spotify.com/album/6e9I7W5LrZ512paeUY7hS4) | 2:56 | 2024-03-01 |  |
 | [Baby's First Morning/What Is a Baby/La La Lu \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/4gkyJAmyBDjC0DBBihvUEn) | [Oliver Wallace](https://open.spotify.com/artist/497FibW7265st1H0UfpGb2), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 3:11 | 2024-03-01 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/2xS0Aybg4e8cQ8xiv3DeoH) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/36UFyDENKnCucYx2zwcaea) | 2:46 | 2024-03-01 |  |
+| [Best of Friends](https://open.spotify.com/track/1t5aiAaQncdO7IY64ZQfDs) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 2:04 | 2025-09-05 |  |
 | [Bringing This Baby Home](https://open.spotify.com/track/3iYjMwH7KXoVU2gFVUC5kz) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:21 | 2024-03-01 |  |
 | [Bundle of Joy](https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 2:48 | 2024-03-01 |  |
 | [Can You Feel the Love Tonight \- End Title](https://open.spotify.com/track/5joPSVJVSia57UIt9Orymt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King Reo Māori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hHY5pxU9pAkDrFtVFCkwa) | 4:01 | 2024-03-01 | 2025-06-21 |
@@ -124,6 +125,7 @@
 | [When You Wish Upon a Star](https://open.spotify.com/track/3VQJw4p7H4Zt0lFBMaWV8h) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 2:58 | 2024-03-01 |  |
 | [When You're Smiling](https://open.spotify.com/track/1FRoy9oqy9qH1ZKkCNQrxo) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [The MousePack – Mickey and Friends Singing Classic Standards](https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw) | 2:48 | 2024-03-01 |  |
 | [Where You Are](https://open.spotify.com/track/1Z7f4SaBnd10XMpzgJ69Tr) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 3:03 | 2024-03-01 |  |
+| [Winnie the Pooh](https://open.spotify.com/track/2zTgMGTCnBXF4HX9Jktb6x) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 2:24 | 2025-09-05 |  |
 | [Winnie the Pooh](https://open.spotify.com/track/1uuriNS8acIQLFGy5k92x6) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 2:19 | 2024-03-01 |  |
 | [You Can Fly! You Can Fly! You Can Fly!](https://open.spotify.com/track/2NAwrDfkkSF2wmth8yrn2c) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Dream](https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR) | 2:48 | 2024-03-01 |  |
 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 | 2025-06-13 |  |

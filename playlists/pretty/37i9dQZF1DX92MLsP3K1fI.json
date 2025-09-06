@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Torreblanca en portada.",
-  "num_followers": 93256,
+  "num_followers": 93268,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
+        "name": "Nunca Volvieron",
+        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Nunca Volvieron",
+      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
+    },
+    {
+      "added_at": "2025-08-29 17:03:49",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 157021,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
-    },
-    {
-      "added_at": "2025-08-29 17:03:49",
-      "album": {
-        "name": "Nunca Volvieron",
-        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Nunca Volvieron",
-      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
     },
     {
       "added_at": "2025-08-29 17:03:49",
@@ -687,26 +687,6 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
-        "name": "Amantes",
-        "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 153610,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
-    },
-    {
-      "added_at": "2025-08-29 17:03:49",
-      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
+    },
+    {
+      "added_at": "2025-08-29 17:03:49",
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 153610,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
     },
     {
       "added_at": "2025-08-29 17:03:49",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
+        "name": "calma",
+        "url": "https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3"
+    },
+    {
+      "added_at": "2025-08-29 17:03:49",
+      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
-        "name": "calma",
-        "url": "https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "calma",
-      "url": "https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3"
-    },
-    {
-      "added_at": "2025-08-29 17:03:49",
-      "album": {
         "name": "\u00bfEs En Serio?",
         "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
-    },
-    {
-      "added_at": "2025-08-29 17:03:49",
-      "album": {
-        "name": "Pel\u00edcula (Intervenida por Ximena Sari\u00f1ana)",
-        "url": "https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 243797,
-      "name": "Pel\u00edcula - Intervenida por Ximena Sari\u00f1ana",
-      "url": "https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF"
     },
     {
       "added_at": "2025-08-29 17:03:49",
@@ -879,6 +859,26 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
+        "name": "Pel\u00edcula (Intervenida por Ximena Sari\u00f1ana)",
+        "url": "https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 243797,
+      "name": "Pel\u00edcula - Intervenida por Ximena Sari\u00f1ana",
+      "url": "https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF"
+    },
+    {
+      "added_at": "2025-08-29 17:03:49",
+      "album": {
         "name": "Bella Nostalgia",
         "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
       "artists": [
         {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+      "duration_ms": 212466,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
     },
     {
       "added_at": "2025-08-29 17:03:49",

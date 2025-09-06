@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -21850,7 +21850,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188571,
       "name": "KSN - PINTLICH REMIX",
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
@@ -23818,7 +23818,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -27266,7 +27266,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 153230,
       "name": "M\u011b Nedostanou",
       "url": "https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7"
@@ -35990,7 +35990,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 211891,
       "name": "Rozd\u011blen\u00fd sv\u011bty",
       "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
@@ -37636,6 +37636,24 @@
       "duration_ms": 193183,
       "name": "SHYNE",
       "url": "https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny"
+    },
+    {
+      "album": {
+        "name": "SI JE*LA",
+        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "SI JE*LA",
+      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
     },
     {
       "album": {
@@ -41080,7 +41098,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -41268,6 +41286,24 @@
       "duration_ms": 124126,
       "name": "SYPEJ SYPEJ",
       "url": "https://open.spotify.com/track/0KHo3DLFUrP2Etm91ICkiq"
+    },
+    {
+      "album": {
+        "name": "S\u00e1m",
+        "url": "https://open.spotify.com/album/4PTzsxAEPx9ON4D60rPpq0"
+      },
+      "artists": [
+        {
+          "name": "Nerie\u0161",
+          "url": "https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "S\u00e1m",
+      "url": "https://open.spotify.com/track/6mgjiKLRIUYfCzB7oLfHFp"
     },
     {
       "album": {

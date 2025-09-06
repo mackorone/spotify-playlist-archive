@@ -2,7 +2,7 @@
 
 ### [All New Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DWVtgG63SDdt8)
 
-> The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Abbie Gamboa & Aodhán King
+> The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: bodie
 
 10,123 songs - 27 day 15 hr 58 min
 

@@ -4,7 +4,7 @@
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-128 songs - 5 hr 30 min
+129 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [God Only Knows \- Live At Carnegie Hall](https://open.spotify.com/track/05lzeSb3W1KJtZ2Xm6aDXB) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sail On Sailor – 1972 \(Super Deluxe\)](https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k) | 2:55 | 2022-12-04 | 2023-03-29 |
 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2022-09-17 |  |
 | [God Only Knows \- Mono Mix / Live / 1967](https://open.spotify.com/track/4LRHUoyKiMj5pbULQZZ4ga) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 2:45 | 2023-06-04 | 2023-06-06 |
+| [Good Vibrations](https://open.spotify.com/track/6aU6a9tdn2vHhnPGlboFZX) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 4:15 | 2025-09-06 |  |
 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-09-17 |  |
 | [Hawaii \- Remastered 2001](https://open.spotify.com/track/2coG8jl7JVo7hg0XNAay4a) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:02 | 2022-10-16 | 2024-07-18 |
 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 | 2022-09-17 |  |
@@ -111,7 +112,7 @@
 | [Sloop John B](https://open.spotify.com/track/2ULL3VZf4WwBKO4vjwT7Bg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 3:00 | 2022-09-17 | 2024-09-12 |
 | [Stoked \- Remastered 2001](https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:01 | 2022-09-20 | 2024-04-13 |
 | [Summer's Gone](https://open.spotify.com/track/3YIqde59YXSVDog3HUP9el) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [That's Why God Made the Radio](https://open.spotify.com/album/1XtjXmGBlpgUm5OWFqarj4) | 4:41 | 2022-09-17 | 2022-10-13 |
-| [Surf's Up \- Remastered 2009](https://open.spotify.com/track/5YniFjdw9nU8jCzvWlVVQC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:13 | 2022-09-17 |  |
+| [Surf's Up \- Remastered 2009](https://open.spotify.com/track/5YniFjdw9nU8jCzvWlVVQC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:13 | 2022-09-17 | 2025-09-06 |
 | [Surfer Girl \- Remastered 2001](https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:28 | 2022-09-17 |  |
 | [Surfin' \- Mono/Remastered 2001](https://open.spotify.com/track/1KP6UI6NPuynMSXaZlFbz9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:12 | 2023-06-08 | 2024-07-08 |
 | [Surfin' Safari \- Mono/Remastered 2001](https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:06 | 2022-09-18 |  |

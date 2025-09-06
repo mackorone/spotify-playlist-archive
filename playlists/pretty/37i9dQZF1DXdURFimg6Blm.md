@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Boost your energy with these dance tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465,031 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,465,148 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 99 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
 | 100 | [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 |
 
-Snapshot ID: `AAAAANhp+v91/TPIF2kyHFYoGN0MORv8`
+Snapshot ID: `AAAAAI181FYEaBwCVNEVl5Guv+UQcj1+`

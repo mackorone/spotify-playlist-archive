@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Lady Gaga
 
-1,090 songs - 2 day 7 hr 28 min
+1,092 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 | 2023-11-09 | 2024-01-26 |
 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 | 2025-04-01 | 2025-04-25 |
 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-24 | 2024-07-09 |
+| [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 | 2025-09-05 |  |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-11 | 2023-11-14 |
 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-03-28 | 2024-06-25 |
@@ -203,7 +204,7 @@
 | [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 | 2025-09-04 |  |
 | [CVNTY](https://open.spotify.com/track/6Z9DLcPnRFLupsw5WJ5sLw) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [CVNTY](https://open.spotify.com/album/3YaMAbTM3kQxy5Ke6q7jVt) | 2:20 | 2024-06-24 | 2024-07-27 |
 | [Daddy Fever](https://open.spotify.com/track/1tljYqOLCvSmR311hO5al2) | [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY) | [Daddy Fever](https://open.spotify.com/album/5KqVLVd0aPjpQUnuFtbjUZ) | 2:31 | 2023-07-14 | 2023-10-06 |
-| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2025-09-06 |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2023-12-08 | 2024-03-15 |
 | [Dance Away](https://open.spotify.com/track/1xQrhYFD4RzsOch0DVZC39) | [Francisco](https://open.spotify.com/artist/2aEjpOGMZzdt3HB4Fahw6j) | [Dance Away](https://open.spotify.com/album/6IQhyVhCXBn5IlA7TAjdmY) | 3:19 | 2025-05-29 | 2025-08-08 |
 | [Dance Dance \(Don't Go\)](https://open.spotify.com/track/0Bjb6ooycRufxEEroOmYuB) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/0isvwHsmToFvaEV4Lr4t5c) | 2:10 | 2023-03-30 | 2023-06-23 |
@@ -896,6 +897,7 @@
 | [Sorry For The Drama](https://open.spotify.com/track/5WhP5twAAdHUo3CxKcwMa2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Sorry For The Drama](https://open.spotify.com/album/5BzuEBSDMfwBhUobVPyQCh) | 3:11 | 2023-10-05 | 2024-01-05 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 | 2025-05-09 |
 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 | 2023-02-24 | 2023-03-03 |
+| [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 | 2025-09-05 |  |
 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 | 2024-06-20 | 2024-09-13 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-23 | 2025-02-19 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2024-12-04 |

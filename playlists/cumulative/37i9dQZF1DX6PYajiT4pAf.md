@@ -2,9 +2,9 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Sabrina Carpenter, Pablo Alborán, Tiago PZK, Yapi con JC Reyes y más novedades de la semana.
+> Manuel Turizo, Lady Gaga, Dei V, Arcangel con Yan Block y más novedades de la semana.
 
-3,141 songs - 6 day 15 hr 6 min
+3,142 songs - 6 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1465,6 +1465,7 @@
 | [Laberinto](https://open.spotify.com/track/7da2ZbtUGjHhK7lVtshII8) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Laberinto](https://open.spotify.com/album/3cPEDaovaiTeT1xgjn0S4e) | 3:22 | 2025-05-22 | 2025-05-30 |
 | [LaBlackie \- Fugitivo Vol\. 33](https://open.spotify.com/track/629r2uHAUpsGxLpxjDgxm7) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [LaBlackie](https://open.spotify.com/artist/7Mnggi1j35OsqH4Gkf3AZG) | [LaBlackie \- Fugitivo Vol\. 33](https://open.spotify.com/album/1tsxTYqyOLMqBjAiup80qh) | 2:12 | 2025-05-15 | 2025-05-23 |
 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 | 2024-12-19 | 2025-01-03 |
+| [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2025-09-05 |  |
 | [Lalala](https://open.spotify.com/track/4vtIzbuGPJap419X869GDz) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Lalala](https://open.spotify.com/album/2B1D0XyRpjNls2EAYKj1Yo) | 3:10 | 2025-08-01 | 2025-08-09 |
 | [LALALALALALA ♡♡♡](https://open.spotify.com/track/0BPxucg9g8St3U2lqsLuqC) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [LALALALALALA ♡♡♡](https://open.spotify.com/album/0vI2zKPQsZ5Trx1FBmLJjm) | 2:11 | 2025-07-10 | 2025-07-18 |
 | [Larissa \- From Larissa: The Other Side Of Anitta](https://open.spotify.com/track/4eN4QEyIMKQasrQiUUQgq4) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Larissa \(From Larissa: The Other Side Of Anitta\)](https://open.spotify.com/album/2SdPpzdOr4yv0HuvNNWFPc) | 2:15 | 2025-03-13 | 2025-03-21 |
@@ -1578,6 +1579,7 @@
 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 | 2025-08-15 | 2025-08-22 |
 | [Love is Love](https://open.spotify.com/track/6BDM0Zf2lVqhAPVXQOHV7O) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Richie Rasheed](https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI) | [Love is Love](https://open.spotify.com/album/6zk4TEvQeFDoaN4zsFhaWJ) | 2:40 | 2025-05-15 | 2025-05-23 |
 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 | 2025-03-20 | 2025-03-28 |
+| [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-05 |  |
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-07 | 2025-08-15 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-06-06 |
 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 | 2024-11-08 | 2024-11-15 |
@@ -2837,7 +2839,6 @@
 | [TOY PERDIO](https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [TOY PERDIO](https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t) | 2:55 | 2024-10-24 | 2024-11-01 |
 | [Toy Story](https://open.spotify.com/track/6sECmHwUS9n548OI13gbuz) | [Oktoba](https://open.spotify.com/artist/7iF9N7YIpnJGJ5aPfeWO7n), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Malice](https://open.spotify.com/album/6HLImqUBoibcVAjMxHoQyn) | 2:36 | 2025-07-10 | 2025-07-18 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-15 |
-| [Track 7](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 0:00 | 2025-09-05 |  |
 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 | 2025-02-28 | 2025-03-07 |
 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-15 | 2025-08-22 |
 | [Traicionera](https://open.spotify.com/track/1YQ1VvsYe94amaBUnRjqTf) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Traicionera](https://open.spotify.com/album/6FvuXJJtxBbQqFyq0vaZaL) | 4:17 | 2024-10-17 | 2024-10-25 |

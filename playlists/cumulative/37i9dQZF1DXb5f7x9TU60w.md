@@ -4,7 +4,7 @@
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-132 songs - 6 hr 33 min
+133 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Happy Working Song](https://open.spotify.com/track/1hexIk0p8vamt9hoCh4Bcn) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spring Songs](https://open.spotify.com/album/498qNLR5BlSmQEmoJBU2xD) | 2:21 | 2025-03-21 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/4PVbQBDGoaSjjq88ai5Crw) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Summer Songs](https://open.spotify.com/album/5iLT78O1EodaJ4nAeltiZy) | 2:53 | 2025-06-27 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1RDQoUE3pE44TOKKKP8FQC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 2:13 | 2024-04-19 |  |
+| [He Lives In You](https://open.spotify.com/track/2Mr96Pf8bwjIBagbTMidlT) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 3:20 | 2025-09-05 |  |
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2024-04-19 |  |
 | [Home](https://open.spotify.com/track/7zkUZV3hrq8ulIgw3ChjqT) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:53 | 2024-04-19 |  |
 | [How Does a Moment Last Forever](https://open.spotify.com/track/6MGFt4zPZjhlus6mU1lmYB) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 3:40 | 2024-04-19 |  |

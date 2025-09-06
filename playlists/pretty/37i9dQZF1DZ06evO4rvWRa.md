@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,641,319 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641,340 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 43 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
 | 44 | [Sorry](https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:45 |
 | 45 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
-| 46 | [World of Walker: Rise of the Drones](https://open.spotify.com/track/1TKw1hYnvbe2i55er8Oc9X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [World of Walker: Rise of the Drones](https://open.spotify.com/album/0PHq0BdCCbKN12Ps1JGzK8) | 3:31 |
-| 47 | [Force](https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:00 |
-| 48 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
+| 46 | [Force](https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:00 |
+| 47 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
+| 48 | [World of Walker: Rise of the Drones](https://open.spotify.com/track/1TKw1hYnvbe2i55er8Oc9X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [World of Walker: Rise of the Drones](https://open.spotify.com/album/0PHq0BdCCbKN12Ps1JGzK8) | 3:31 |
 | 49 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
 | 50 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 |
 
-Snapshot ID: `aLeFAAAAAACWYIMbb5oDl5TYlq0xQbNU`
+Snapshot ID: `aLjWgAAAAAA9sd/2vNrwkn4uuls3/cu0`

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: MONSTA X
 
-700 songs - 1 day 14 hr 36 min
+701 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,5 +708,6 @@
 | [青い太陽](https://open.spotify.com/track/0A1OyoslP1a4zTbsrvazw4) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/5U8zjppA4A8pSzokUpK9tk) | 2:51 | 2025-06-02 | 2025-06-04 |
 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 | 2024-08-06 | 2025-03-03 |
 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 | 2023-12-19 | 2024-01-03 |
+| [꿈의 버스 Dream Bus](https://open.spotify.com/track/5cE6bNjhhuJnrrDdkcZmv0) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/7MGEb2kSPjn7izDAul5bAh) | 2:41 | 2025-09-05 |  |
 
 \*This playlist was first scraped on 2023-11-24. Prior content cannot be recovered.

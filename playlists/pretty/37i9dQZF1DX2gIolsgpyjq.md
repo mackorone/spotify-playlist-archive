@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: louii lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,098 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,169 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 10 | [I've Been Thinking About You](https://open.spotify.com/track/7jidG7EsgO1nwpXBVatRD3) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Midnight Reflections](https://open.spotify.com/album/6TSH7pcJk1k3T9jtzIkVa6) | 2:57 |
 | 11 | [PLAY](https://open.spotify.com/track/5Pxbw1DWiigFraaQtwnfhj) | [LIA KIN](https://open.spotify.com/artist/7vQriBlZ4qkhUcRkz8aqiT) | [PLAY](https://open.spotify.com/album/2BSmBEt7hvoKF2bEAm1T9Y) | 2:53 |
 | 12 | [Haircuts](https://open.spotify.com/track/5pXrgtPk7YQOIwGvakglnk) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Haircuts](https://open.spotify.com/album/1EtG8S1NEVLTUrx3G8teB7) | 3:38 |
-| 13 | [paperplane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 |
+| 13 | [paper plane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 |
 | 14 | [FIRST LIFE](https://open.spotify.com/track/0ISQvLUSmLaX77cIzRsW6y) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [FIRST LIFE](https://open.spotify.com/album/4qLBGsy92hEJan8sbUe0OF) | 3:04 |
 | 15 | [glow](https://open.spotify.com/track/6PGuYbXReIzKQey5SLqSak) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [glow](https://open.spotify.com/album/1b1ZhSNdJfhkOitccEfJYV) | 3:52 |
 | 16 | [Deep Waters](https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Deep Waters](https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V) | 2:36 |

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2075664,
+  "num_followers": 2076228,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsKYiXextnNAldlkkrD70oXGeEZ",
+  "snapshot_id": "AAAAAKFtHdNfGJkJW9uCUsUL+LpsxFYW",
   "tracks": [
     {
       "added_at": "2025-04-18 17:03:04",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
+      "added_at": "2025-09-05 04:00:04",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "SOS",
@@ -225,22 +241,6 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Shut up My Moms Calling",
-        "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Shut up My Moms Calling",
-      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
-    },
-    {
       "added_at": "2025-08-29 04:00:27",
       "album": {
         "name": "kill for me?",
@@ -255,6 +255,22 @@
       "duration_ms": 160417,
       "name": "kill for me?",
       "url": "https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Shut up My Moms Calling",
+        "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Shut up My Moms Calling",
+      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -303,6 +319,22 @@
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "added_at": "2025-09-05 04:00:04",
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/54CZ2YvV6NV89B1o3XBQyt"
+      },
+      "artists": [
+        {
+          "name": "Ramsey",
+          "url": "https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8"
+        }
+      ],
+      "duration_ms": 284307,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/6S6yK5tpvx4NagGyaawlY7"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -503,22 +535,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Teenage Fever",
-      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
@@ -539,6 +555,22 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Teenage Fever",
+      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -653,22 +685,6 @@
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Often",
-      "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
-    },
-    {
       "added_at": "2025-07-03 03:36:52",
       "album": {
         "name": "Mezzanine",
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Kiss It Better",
-      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "God Needs The Devil",
         "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
@@ -719,6 +719,38 @@
       "duration_ms": 192133,
       "name": "God Needs The Devil",
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 249040,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -739,22 +771,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 407315,
-      "name": "House Of Balloons / Glass Table Girls",
-      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 137778,
-      "name": "older",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137778,
+      "name": "older",
+      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "PARTYNEXTDOOR TWO",
         "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
       },
@@ -847,6 +863,22 @@
       "duration_ms": 216630,
       "name": "Her Way",
       "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 407315,
+      "name": "House Of Balloons / Glass Table Girls",
+      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -935,22 +967,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 212992,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -963,6 +979,22 @@
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 212992,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1085,6 +1117,22 @@
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
+      "added_at": "2025-03-14 04:00:01",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
+    },
+    {
       "added_at": "2025-03-21 04:00:37",
       "album": {
         "name": "southbound / test drive",
@@ -1131,22 +1179,6 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
-    },
-    {
-      "added_at": "2025-03-14 04:00:01",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1679,42 +1711,6 @@
       "duration_ms": 129698,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz"
-    },
-    {
-      "added_at": "2025-08-08 04:00:34",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2FmZoNP9JBB0fmzbNw4VSo"
-      },
-      "artists": [
-        {
-          "name": "KUN",
-          "url": "https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior"
-        }
-      ],
-      "duration_ms": 237183,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/2SmWEmmOmI8K5DnkmJHXUr"
-    },
-    {
-      "added_at": "2024-12-20 05:00:28",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/1JOiaBVcySVw3HOcXogdew"
-      },
-      "artists": [
-        {
-          "name": "BURY",
-          "url": "https://open.spotify.com/artist/56tAdT5WT6Mi288cBRDjnt"
-        },
-        {
-          "name": "Beneld",
-          "url": "https://open.spotify.com/artist/1zjvbn4a4qxKIilf7v8irb"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/2CQdlpK88QxuUyVKKXAxBF"
     }
   ],
   "unique_name": "goosebumps",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Monolink
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,060 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,482 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Sigani Meomchun](https://open.spotify.com/track/5EdvEZWMft84HxiSaFDCkz) | [John Digweed](https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Nick Muir](https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp) | [Sigani Meomchun](https://open.spotify.com/album/3bYKo2K08oyp88fL4yb0Mz) | 3:12 |
 | 90 | [Your Eyes](https://open.spotify.com/track/4XtZxUoTAqUSkNi5v27K7p) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [shel·ly](https://open.spotify.com/artist/3SIRUdFx4iJQ4aj81r2f39) | [Your Eyes](https://open.spotify.com/album/57QGEaD9OdNYJlyHa6beiH) | 4:13 |
 
-Snapshot ID: `AAAAAP8HPSbRbXeab6LExgRPXxm1dyv6`
+Snapshot ID: `AAAAAFWpeB5uEA1XWEzKwu3ToV5exy5f`

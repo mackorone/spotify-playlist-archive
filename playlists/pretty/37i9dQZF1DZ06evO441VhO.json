@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18152,
+  "num_followers": 18157,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADaKJ3z0MgjSKMqGPo5cHh3",
+  "snapshot_id": "aLjWgAAAAAAfPqXpocCzHLq3b9iUvHbu",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "Lobotomy For Dummies",
-      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 200293,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "Lobotomy For Dummies",
+      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
       "artists": [
         {
@@ -185,8 +185,8 @@
         }
       ],
       "duration_ms": 175272,
-      "name": "We\u2019re Not Alright",
-      "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
+      "name": "We're Not Alright",
+      "url": "https://open.spotify.com/track/5RhtBPx2JcJ3iy1KNpVDwN"
     },
     {
       "added_at": null,
@@ -328,41 +328,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Postcards From Hell",
-      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 192510,
-      "name": "Chasing the Sun",
-      "url": "https://open.spotify.com/track/6Wmhm5sTC0fpIBCvVH2uQF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+      "duration_ms": 181933,
+      "name": "Rated \"U\" For Ugly",
+      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
     },
     {
       "added_at": null,
@@ -383,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 192510,
+      "name": "Chasing the Sun",
+      "url": "https://open.spotify.com/track/1K1VCU0M0n4WXsAxBGp9Fr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Rated \"U\" For Ugly",
-      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
+      "duration_ms": 165386,
+      "name": "Postcards From Hell",
+      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206178,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+      "duration_ms": 164782,
+      "name": "You Don\u2019t Know Anything About Me",
+      "url": "https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm"
     },
     {
       "added_at": null,
@@ -511,38 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176803,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 164782,
-      "name": "You Don\u2019t Know Anything About Me",
-      "url": "https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -552,25 +520,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 165640,
-      "name": "Over the Edge",
-      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 193925,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+      "duration_ms": 135693,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
     },
     {
       "added_at": null,
@@ -591,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 193925,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playmate Of The Year",
         "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
       },
@@ -607,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
       "artists": [
         {
@@ -616,9 +584,25 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176803,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 163767,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 198892,
-      "name": "A Long Way Down",
-      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
+      "duration_ms": 163767,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 170029,
       "name": "Doomsday on the Radio",
       "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 198892,
+      "name": "A Long Way Down",
+      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
     },
     {
       "added_at": null,

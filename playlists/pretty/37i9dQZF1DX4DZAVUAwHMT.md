@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Biffy Clyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,794 likes - 86 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,776 likes - 86 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

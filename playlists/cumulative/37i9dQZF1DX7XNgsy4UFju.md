@@ -2,9 +2,9 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The best indie tracks of the moment\. Cover: Sophia Stel
+> The best indie tracks of the moment\. Cover: Tame Impala
 
-2,459 songs - 6 day 0 hr 55 min
+2,460 songs - 6 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [All Of Me](https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Where To Find Me](https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn) | 2:25 | 2023-06-23 | 2023-08-05 |
 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 |  |
 | [All Roads](https://open.spotify.com/track/2bbkQoF99vgiXdkKQo0mHA) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [All Roads](https://open.spotify.com/album/1wlb3EzPVN4A7h6bx2gyWL) | 3:37 | 2022-10-07 | 2022-10-29 |
+| [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 |  |
 | [All That's Left Of Me Is You](https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [All That's Left Of Me Is You](https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9) | 2:52 | 2022-12-16 | 2023-01-01 |
 | [All That’s Left of Me Is You](https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:52 | 2022-12-16 | 2023-03-11 |
 | [All the Life](https://open.spotify.com/track/6Q0vYEjUIZ9WHNwQPeyy9U) | [Sam Lynch](https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL) | [All the Life](https://open.spotify.com/album/4gBDI51Hz8pHfsEPK8xNum) | 3:45 | 2024-09-20 | 2024-10-12 |
@@ -636,6 +637,7 @@
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-02-02 | 2024-06-01 |
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-11-29 | 2025-03-29 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-20 | 2023-02-11 |
+| [Emptiness](https://open.spotify.com/track/3OAG78OqCzfS6JpEeYquAN) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Emptiness](https://open.spotify.com/album/7GVUQX0koyq6iu1qu4RmnO) | 4:06 | 2025-09-05 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2022-10-07 | 2024-05-03 |
 | [End of Beginning](https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:39 | 2022-09-16 | 2022-10-13 |
 | [End of Beginning \- triple j Like A Version](https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [End of Beginning \(triple j Like A Version\)](https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD) | 2:38 | 2024-05-31 | 2024-08-24 |
@@ -2219,7 +2221,6 @@
 | [Touch Back Down](https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Touch Back Down](https://open.spotify.com/album/5LfsDu8m8AKyIljMVTu0BZ) | 4:16 | 2021-12-31 | 2022-01-29 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-30 |  |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-10-21 |
-| [Track 3](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 0:00 | 2025-09-05 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-05-17 |
 | [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 | 2024-01-05 | 2024-02-03 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-08-22 |

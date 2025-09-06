@@ -1,12 +1,12 @@
 {
   "description": "Something cute for baddies doing their hair and make-up.",
-  "num_followers": 415127,
+  "num_followers": 415326,
   "original_name": "Getting Ready \ud83d\udc8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7J9wgXBFbe8gqMxWLUVmR5rRhX",
+  "snapshot_id": "AAAAAPRrH592H3qJRFN1gXTYiYu8gRkZ",
   "tracks": [
     {
       "added_at": "2025-05-17 02:54:01",
@@ -207,6 +207,26 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Gyatt",
+        "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 137733,
+      "name": "Gyatt",
+      "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
     },
     {
       "added_at": "2024-08-26 15:10:57",
@@ -1327,26 +1347,6 @@
       "duration_ms": 319466,
       "name": "Partition",
       "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
-    },
-    {
-      "added_at": "2025-02-21 05:00:25",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "bloodonmyhands (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1"
     }
   ],
   "unique_name": "Getting Ready \ud83d\udc8b",

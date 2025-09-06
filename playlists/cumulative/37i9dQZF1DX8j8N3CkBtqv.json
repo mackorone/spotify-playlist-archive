@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Dream Note, Tsumyoki, gini and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Zaeden, Twin Strings other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1102,6 +1102,28 @@
       "duration_ms": 234683,
       "name": "Adhoora",
       "url": "https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk"
+    },
+    {
+      "album": {
+        "name": "Adhoora",
+        "url": "https://open.spotify.com/album/6KIDpkkH6CT3bNNYwbAD0G"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184875,
+      "name": "Adhoora",
+      "url": "https://open.spotify.com/track/2WCVskDkODHmUpvYG8xdzl"
     },
     {
       "album": {
@@ -2524,7 +2546,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 183913,
       "name": "Barbaadi",
       "url": "https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k"
@@ -13713,6 +13735,24 @@
     },
     {
       "album": {
+        "name": "Manmarziyaan",
+        "url": "https://open.spotify.com/album/3w5CUX5d46167fkjxLrJOD"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Manmarziyaan",
+      "url": "https://open.spotify.com/track/6p6uc8Y7NiWolmbbxxJDNM"
+    },
+    {
+      "album": {
         "name": "Mann",
         "url": "https://open.spotify.com/album/05JCEd68U0G4WM2UOwEIOV"
       },
@@ -16774,7 +16814,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 168421,
       "name": "Piya Ji",
       "url": "https://open.spotify.com/track/020y6Y5I0VaZUqUIYcm8oF"
@@ -17212,6 +17252,24 @@
       "duration_ms": 231882,
       "name": "Raaton Mein",
       "url": "https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ"
+    },
+    {
+      "album": {
+        "name": "Raaz",
+        "url": "https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "Raaz",
+      "url": "https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag"
     },
     {
       "album": {
@@ -18330,7 +18388,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188115,
       "name": "Sab Bhul Jate Hai",
       "url": "https://open.spotify.com/track/0jQ4wzZDRpqvksx9kDJbXK"

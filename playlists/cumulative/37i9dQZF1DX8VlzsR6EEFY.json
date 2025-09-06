@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Grupo Firme & Carolina Ross en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Marcos Villalobos en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/1Fa5QSbxfTYsn5wXUhFpiJ"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173006,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/5oNsLQSQZllwUkJJm1hjwq"
+    },
+    {
+      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -348,7 +370,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 174853,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/30rJOT2ceu7Fz3RnRWAukU"
@@ -868,7 +890,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
@@ -1014,6 +1036,28 @@
       "duration_ms": 150724,
       "name": "Chula",
       "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1rvFfbADXP6nLy8aHpi9jV"
+      },
+      "artists": [
+        {
+          "name": "Los Madafakers",
+          "url": "https://open.spotify.com/artist/1SAld8ktXze42eYj6oN4xt"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/4BGgqkMOe9PF255sGNYAjJ"
     },
     {
       "album": {
@@ -1432,7 +1476,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 223442,
       "name": "Cu\u00eddamela Bien",
       "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
@@ -1880,7 +1924,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 150740,
       "name": "El Inter\u00e9s Se Destap\u00f3",
       "url": "https://open.spotify.com/track/4eyp2tuPsQsUru7oywxAAL"
@@ -1974,6 +2018,32 @@
       "duration_ms": 156818,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q"
+    },
+    {
+      "album": {
+        "name": "El Rollie",
+        "url": "https://open.spotify.com/album/7ChHR6uYXSkl0IaFmBsClp"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149293,
+      "name": "El Rollie",
+      "url": "https://open.spotify.com/track/70IXZTwu84yRt1UB5GLvUX"
     },
     {
       "album": {
@@ -2086,7 +2156,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 196000,
       "name": "EN DONDE ESTAS",
       "url": "https://open.spotify.com/track/6m4wCZvfc9QKiXmyTRmlNc"
@@ -2192,6 +2262,24 @@
       "duration_ms": 162978,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/4TxBVBN97TOdItPaCvfcWf"
+    },
+    {
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/32ZKCZmJhdMhdkWugnVqyE"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234126,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6ysO7v8pmH6MzNwDTjeR65"
     },
     {
       "album": {
@@ -3023,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "La Noche en Que Nos Conocimos",
+        "url": "https://open.spotify.com/album/57Z15MO5SFE58fkwK76sBK"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "La Noche en Que Nos Conocimos",
+      "url": "https://open.spotify.com/track/302jNlIGeAvA7C47fZsSta"
+    },
+    {
+      "album": {
         "name": "Te Llevo En La Sangre",
         "url": "https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU"
       },
@@ -3752,7 +3858,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 208900,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l"
@@ -4370,7 +4476,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188500,
       "name": "Noche De Enciclopedia",
       "url": "https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ"
@@ -4954,7 +5060,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 189000,
       "name": "Porqu\u00e9 Cortamos?",
       "url": "https://open.spotify.com/track/7M1GTeB6b9SqNmo1dVOxIG"
@@ -5026,7 +5132,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 170000,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
@@ -5342,7 +5448,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 161599,
       "name": "Se Que Promet\u00ed",
       "url": "https://open.spotify.com/track/4OEzEI9intsqEEwYbEyznH"
@@ -5462,7 +5568,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 190847,
       "name": "Si Volvemos a Empezar",
       "url": "https://open.spotify.com/track/4713nUJDGyvpp2BirmoYxm"
@@ -5742,7 +5848,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq"
@@ -5896,7 +6002,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 187536,
       "name": "Te Vi Con \u00c9l",
       "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
@@ -5918,7 +6024,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 191681,
       "name": "Tengo Claro",
       "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
@@ -6384,7 +6490,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 159581,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"

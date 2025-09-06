@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Blessd, Fuera Regida, Ovy On The Drums
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Farruko, Louis BPM
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,071 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,247 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 65 | [TU MIRADA \- con Olivia Wald](https://open.spotify.com/track/2UhAeqcTKocBn6QrZN615a) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [TU MIRADA \- con Olivia Wald](https://open.spotify.com/album/79OOiCHJKDj3DPEmXHHvQz) | 2:35 |
 | 66 | [la sirena](https://open.spotify.com/track/6IX2ikSsry9qnulGw6zr86) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [la sirena](https://open.spotify.com/album/2Ho4ibRaJZdY1We5rj13gf) | 2:59 |
 
-Snapshot ID: `AAAAAELpLzqxq5eCVmZkZqpFxPOKluqm`
+Snapshot ID: `AAAAAHkfdvI2qaIionQUaeDT2icwaucz`

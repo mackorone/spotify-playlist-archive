@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1062670,
+  "num_followers": 1062898,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACpZCFNKpRSI1pU5qm2LQ5P",
+  "snapshot_id": "aLjWgAAAAABVL27KZT0Y3nw2NWgJ+7RL",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        },
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
       },
@@ -475,34 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba La Moyombiza (En Vivo)",
-        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
-      },
-      "artists": [
-        {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        },
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Coraz\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suspiros (En Vivo)",
-        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Suspiros (En Vivo)",
-      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 280250,
       "name": "Tus Mentiras (En Vivo)",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suspiros (En Vivo)",
+        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Canse de Amarte",
         "url": "https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 198294,
       "name": "Me Canse de Amarte",
       "url": "https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH"
     },
     {
       "added_at": null,

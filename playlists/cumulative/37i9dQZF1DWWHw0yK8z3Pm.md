@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: Martin Kerr
+> Fearless sounds at the crossroads of country and folk\. Cover: Goldie Boutilier
 
-567 songs - 1 day 10 hr 34 min
+570 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Across the Hall](https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Across the Hall](https://open.spotify.com/album/5V6tHoSetmPXIrTTPjdsHs) | 3:19 | 2023-03-10 | 2023-06-12 |
 | [Aeroplane Song](https://open.spotify.com/track/3Hhd2mInho0mukNF4qbowP) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Aeroplane Song / The King of Western Swing](https://open.spotify.com/album/6BDhoOf3oIOMKYrf0H4Pnl) | 3:02 | 2023-11-10 | 2024-01-06 |
 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 | 2024-09-13 | 2025-06-07 |
-| [Ain't Dead Yet](https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:02 | 2023-12-08 |  |
+| [Ain't Dead Yet](https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:02 | 2023-12-08 | 2025-09-06 |
 | [Ain't Life Strange](https://open.spotify.com/track/3aqAPFEFmLcFJ0sPzs8OXf) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Ain't Life Strange](https://open.spotify.com/album/0mtkE0Q76YJMSckRGOYYsd) | 4:04 | 2024-07-12 | 2024-08-10 |
 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 | 2022-09-09 | 2022-10-08 |
 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/5rBffoltonsi8O6T9TSUuU) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/1dEnfzdDz54PS5d001smcu) | 2:32 | 2022-09-09 | 2022-09-16 |
@@ -132,7 +132,7 @@
 | [Coyote](https://open.spotify.com/track/4iTU8a7xlebcunaTSBLwEs) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Coyote](https://open.spotify.com/album/1BO7uyUvn0Lur0fkPDK1Mr) | 5:06 | 2025-06-06 | 2025-08-06 |
 | [Coyote](https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k) | 4:16 | 2024-01-26 | 2024-02-24 |
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-15 |  |
-| [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-03-22 |  |
+| [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-03-22 | 2025-09-06 |
 | [Crucified](https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Crucified](https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se) | 3:03 | 2022-05-13 | 2022-06-04 |
 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 | 2024-01-05 | 2024-07-27 |
 | [Cypress Hills and the Big Country](https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:10 | 2022-09-23 | 2023-06-03 |
@@ -188,6 +188,7 @@
 | [Faded Colours](https://open.spotify.com/track/2bWoBPVyrYrE2AfXR28iub) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Faded Colours](https://open.spotify.com/album/3aoCQdRhed8aGD1JaYaWlP) | 3:32 | 2022-05-13 | 2022-07-29 |
 | [Faded Colours](https://open.spotify.com/track/4LK6156G0S7g0bRPG1p6v4) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Cedar](https://open.spotify.com/album/6pdIsLgqpOzCdGxYTv3TbO) | 3:32 | 2022-10-28 | 2022-11-14 |
 | [Fall](https://open.spotify.com/track/0V6Z6nEvYq7IG1ar1zm5gT) | [The Johans](https://open.spotify.com/artist/12TKtByDRm3d7Ul1NEfHyQ) | [Fall](https://open.spotify.com/album/4gHC7esmw5dlHinSIJljAM) | 3:06 | 2022-05-13 | 2022-07-02 |
+| [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-09-05 |  |
 | [Felled](https://open.spotify.com/track/4DAQr8fZceW6ia4M1noVvU) | [Hollow Twin](https://open.spotify.com/artist/1K7OgXdlCvZ0Ype0vP54v2) | [Soft Hearts](https://open.spotify.com/album/2yHVgEiQl2UqwtdNwSda47) | 3:21 | 2022-05-13 | 2022-06-18 |
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-24 |  |
@@ -196,6 +197,7 @@
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 | 2023-08-12 |
 | [Foolish Heart](https://open.spotify.com/track/7xWGG4VbEoB9VKZDLpS95u) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Foolish Heart](https://open.spotify.com/album/41g4DflJGEF9uXagNffK0d) | 3:46 | 2025-06-27 | 2025-07-15 |
+| [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 | 2025-09-05 |  |
 | [Forever Ain't Long Enough](https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving \(The Cost of Growing Up\)](https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c) | 3:13 | 2025-07-25 |  |
 | [Free in the Morning](https://open.spotify.com/track/4BfyZX63uVxk2cMPGhx9Iv) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Steel Saddle](https://open.spotify.com/album/7ou48ilkhLeInWfpTeIwG6) | 3:16 | 2024-07-19 | 2024-07-27 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |
@@ -474,7 +476,7 @@
 | [Sweet Relief](https://open.spotify.com/track/00VZJCC2kTust8GYSlpxHL) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Sweet Relief](https://open.spotify.com/album/6JZ2zxBOyJXLc5pwUTHGGJ) | 4:15 | 2022-08-05 | 2023-04-22 |
 | [Sweet Susie](https://open.spotify.com/track/0BoSLQXei5PxiWOa6SBS44) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/0tF53oYxCH13jauCtjJXE2) | 4:34 | 2022-07-22 | 2023-04-22 |
 | [Sweet Susie](https://open.spotify.com/track/23CKRpyYHhGU77UJISpB32) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/64IJHfT3gyFmGcNpjrrV8p) | 4:34 | 2022-05-13 | 2022-07-29 |
-| [Swim Practice](https://open.spotify.com/track/7lwqsnc3iWCFXpRGuiuUqQ) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Swim Practice](https://open.spotify.com/album/00HhX7XpOzH8N4kr8xREX5) | 3:41 | 2025-08-08 |  |
+| [Swim Practice](https://open.spotify.com/track/7lwqsnc3iWCFXpRGuiuUqQ) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Swim Practice](https://open.spotify.com/album/00HhX7XpOzH8N4kr8xREX5) | 3:41 | 2025-08-08 | 2025-09-06 |
 | [Swimming Like Flying](https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1) | 3:24 | 2023-04-28 | 2023-09-03 |
 | [Tailwinds](https://open.spotify.com/track/245B5YlJ9PnXlZ3EpbZBiQ) | [Alex Lapp](https://open.spotify.com/artist/5EyQUNPmTuQeLYPqLWBpbW) | [Tailwinds](https://open.spotify.com/album/3V9rjHfNaZ6xv8OmWO3sF2) | 3:03 | 2022-05-13 | 2023-03-18 |
 | [Take It Right On](https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Take It Right On](https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH) | 2:31 | 2024-06-14 | 2025-01-25 |
@@ -554,6 +556,7 @@
 | [Willow Rose](https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Willow Rose](https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH) | 3:52 | 2024-05-31 | 2024-07-23 |
 | [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 | 2025-08-14 |  |
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 | 2023-07-08 |
+| [Wishbone](https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Wishbone](https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn) | 3:04 | 2025-09-05 |  |
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 | 2022-07-23 |
 | [Without You](https://open.spotify.com/track/7oCpK9tIb7AYWq1ZEINJwY) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Without You](https://open.spotify.com/album/4XOJb1TmbZGoEYccHZtImE) | 3:39 | 2024-08-02 | 2024-09-01 |
 | [Witness](https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh) | 2:52 | 2023-04-28 | 2024-04-19 |

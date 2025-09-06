@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx5RM1jizdV.md) - [plain]
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235 likes - 18 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256 likes - 18 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx5RM1jizdV.md) - [plain]
 | 17 | [3年E組ヌルヌル音頭](https://open.spotify.com/track/0kwKxogKc98AMwEAUkums3) | [3年E組ヌル担\(渚&業&寺坂&中村\)](https://open.spotify.com/artist/6ZMRzsKL9geY0Py4Cd6ZaG) | [QUESTION](https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr) | 2:57 |
 | 18 | [始業のベル \- movie size](https://open.spotify.com/track/5MxPfVmCb6QlH8IaRPP2Vb) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [始業のベル \(movie size\)](https://open.spotify.com/album/6LOhlnc8F5qc5Rm45IBG9E) | 2:47 |
 
-Snapshot ID: `AAAAAIAKtBf1xE/FDf30QRIlQxVZPabO`
+Snapshot ID: `AAAAAK3QZThwwMp+9UtFnygTUlXi6Cy/`

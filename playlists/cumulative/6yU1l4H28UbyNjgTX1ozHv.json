@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176187,
       "name": "Never Gonna Give You Up - Acoustic",
       "url": "https://open.spotify.com/track/6tpYrSlAy3AI2RQilzawrm"
@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 156552,
       "name": "You Can't Hurry Love - Acoustic",
       "url": "https://open.spotify.com/track/0hno6GT4MufXRv8rgP0qMI"
@@ -5443,6 +5443,24 @@
     },
     {
       "album": {
+        "name": "You Really Got a Hold on Me",
+        "url": "https://open.spotify.com/album/7eHvOBfOPxdii3iLE4Ie8h"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193281,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/121hZEf0kYraVEb1WceNPQ"
+    },
+    {
+      "album": {
         "name": "You Sexy Thing (Acoustic)",
         "url": "https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z"
       },
@@ -5552,6 +5570,24 @@
       "duration_ms": 121184,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP"
+    },
+    {
+      "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/4c2h6LgJVWNeSyXTA2If9P"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238456,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/6NB81gNtUyPRmoZfifABTW"
     }
   ],
   "url": "https://open.spotify.com/playlist/6yU1l4H28UbyNjgTX1ozHv"

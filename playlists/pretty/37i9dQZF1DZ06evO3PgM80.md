@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,219 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,227 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 24 | [Eu Me Rendo \- Acústico](https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:38 |
 | 25 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 |
 | 26 | [Outra Vez](https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Outra Vez](https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8) | 5:04 |
-| 27 | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx) | 5:27 |
+| 27 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW) | 4:59 |
 | 28 | [Cantarei Teu Amor \(I Could Sing of Your Love Forever\) \- Acústico](https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 3:21 |
-| 29 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW) | 4:59 |
+| 29 | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx) | 5:27 |
 | 30 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 |
 | 31 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 32 | [Bem Mais Que Tudo \(Above All\) \- Acústico](https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [The Mystery Of Christ](https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd) | 7:29 |
 | 50 | [Essência Da Adoração \- Ao Vivo](https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Essência Da Adoração \(Ao Vivo\)](https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3) | 5:17 |
 
-Snapshot ID: `aLeFAAAAAADqTwan+3N5ZB9O2qjTnmAk`
+Snapshot ID: `aLjWgAAAAACeTnek/A19OXwpwpK8izM/`

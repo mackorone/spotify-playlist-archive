@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring KORDELYA\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring Bardo\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,729 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,745 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Volátil](https://open.spotify.com/track/3xNoVaUNEwQScGN85I7IEP) | [Holofernez](https://open.spotify.com/artist/13moq0sxYMXnsIh3sWGq4e) | [Volátil](https://open.spotify.com/album/2aVYAyWW2vS7ZaczkTn8wF) | 2:37 |
 | 50 | [dani boy](https://open.spotify.com/track/6RTlXrd5fmwuGNbXpp7jU5) | [Diego Andlovin](https://open.spotify.com/artist/1chJuOnLfskX7vm5iIXZJ7), [Chavo Cherry](https://open.spotify.com/artist/7ekjgkRxIUo3QGSvcYaX63) | [dani boy](https://open.spotify.com/album/1E1HiQUcPKSbw29Lkg15G9) | 1:32 |
 
-Snapshot ID: `AAAAAPZTxvrwjU7d6dnlryaMbo/2jALu`
+Snapshot ID: `AAAAAPcRA/uZl5xwvh5vWek3o9zp9fws`

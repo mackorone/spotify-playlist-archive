@@ -1051,6 +1051,36 @@
     },
     {
       "album": {
+        "name": "Baaghi 4",
+        "url": "https://open.spotify.com/album/3S7prbLe2cHnA7HwfGCGsu"
+      },
+      "artists": [
+        {
+          "name": "Suyyash Rai",
+          "url": "https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T"
+        },
+        {
+          "name": "Suyyash-Siddharth",
+          "url": "https://open.spotify.com/artist/4WZHbT7aX4auI6MpRw0JGC"
+        },
+        {
+          "name": "Gopi Sidhu",
+          "url": "https://open.spotify.com/artist/3jRWOuXzN9mPnTMNJZPPEd"
+        },
+        {
+          "name": "Star Boy Loc",
+          "url": "https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190033,
+      "name": "Get Ready To Fight-Khauf Hai",
+      "url": "https://open.spotify.com/track/7JFSdJ5XCR7Od8FdPHH4bh"
+    },
+    {
+      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -2848,7 +2878,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 168144,
       "name": "Tripping High",
       "url": "https://open.spotify.com/track/1ldm1AExrihFau91o9XRnf"

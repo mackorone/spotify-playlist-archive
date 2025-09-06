@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,747 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,792 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 22 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
 | 23 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
 | 24 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
-| 25 | [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 |
-| 26 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 |
+| 25 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 |
+| 26 | [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 |
 | 27 | [Straight To The Core](https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Straight To The Core](https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH) | 2:51 |
 | 28 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
 | 29 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54556,
+  "num_followers": 54568,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADSx+cJ1rP530Ei7jZrowsb",
+  "snapshot_id": "aLjWgAAAAADv4Aio1zkNltpfTNWSfchX",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Queda Restringido",
-      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No La Hagas Sufrir",
         "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 213670,
       "name": "No La Hagas Sufrir",
       "url": "https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Queda Restringido",
+      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
     },
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU"
+      },
+      "artists": [
+        {
+          "name": "Los Nenes MX",
+          "url": "https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/1MxOELHpth8E33rUByRI37"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 235798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame Ser",
-        "url": "https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU"
-      },
-      "artists": [
-        {
-          "name": "Los Nenes MX",
-          "url": "https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "D\u00e9jame Ser",
-      "url": "https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 259628,
-      "name": "Nomas Este Rey",
-      "url": "https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol 1.",
         "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+      "duration_ms": 259628,
+      "name": "Nomas Este Rey",
+      "url": "https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142849,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Duele Menos",
         "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 142849,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Amor Como El M\u00edo",
+        "url": "https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Tambora Ritmo Express",
+          "url": "https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6"
+        }
+      ],
+      "duration_ms": 191071,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 272939,
       "name": "Voy A Pintar Mi Raya - En Vivo",
       "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Amor Como El M\u00edo",
-        "url": "https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Tambora Ritmo Express",
-          "url": "https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6"
-        }
-      ],
-      "duration_ms": 191071,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE"
     },
     {
       "added_at": null,

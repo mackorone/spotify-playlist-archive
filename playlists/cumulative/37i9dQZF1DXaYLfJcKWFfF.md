@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WÁ
 
-297 songs - 17 hr 25 min
+298 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-17 | 2023-04-15 |
 | [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 | 2023-10-27 | 2025-08-29 |
 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 | 2023-04-27 | 2024-04-26 |
+| [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2025-08-28 |  |
 | [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 | 2024-05-10 | 2025-05-24 |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-03-31 | 2024-03-01 |
 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 | 2022-05-26 | 2023-05-12 |
@@ -70,7 +71,7 @@
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-10-04 |  |
 | [Fall](https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:05 | 2020-08-28 | 2023-01-28 |
 | [Fallo Fall](https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Lou Bess Dioudouna](https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l) | 5:06 | 2022-11-04 | 2022-12-09 |
-| [Fantasy](https://open.spotify.com/track/3NVEfATVPRz5JHo0AtvXmR) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Fantasy](https://open.spotify.com/album/7eXffVqFn74sguDZ4sugS4) | 3:01 | 2025-08-28 |  |
+| [Fantasy](https://open.spotify.com/track/3NVEfATVPRz5JHo0AtvXmR) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Fantasy](https://open.spotify.com/album/7eXffVqFn74sguDZ4sugS4) | 3:01 | 2025-08-28 | 2025-09-06 |
 | [Farafina Mousso \- Acoustic Version](https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Farafina Mousso \(Acoustic Version\)](https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8) | 2:21 | 2025-08-28 |  |
 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 | 2025-06-26 |  |
 | [Feel Something](https://open.spotify.com/track/0EozgtHJL578iobhVcodiS) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Feel Something](https://open.spotify.com/album/6Zs16k742zGTAsJMrFww6C) | 2:02 | 2025-05-16 | 2025-06-20 |

@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: Nina Caroline\. Artwork by Paola Saliby
 
-4,210 songs - 8 day 22 hr 24 min
+4,214 songs - 8 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [BLOSSOM](https://open.spotify.com/track/5Q4FQPHglrAX716PETSqCq) | [Alekxandr](https://open.spotify.com/artist/7I21xpEJJpHoii8OhAMyZb) | [BLOSSOM](https://open.spotify.com/album/2yLdp8RlBvV2R5Y3kR6PyM) | 3:15 | 2021-04-29 | 2021-05-27 |
 | [Blue](https://open.spotify.com/track/2DAn1rYN2K7p3bhZL27bRe) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Blue](https://open.spotify.com/album/2fGioZ1Kmt9ijLfEh2zvJI) | 3:06 | 2021-07-22 | 2021-08-20 |
 | [Blue](https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl) | [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Blue](https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO) | 2:46 | 2023-02-01 | 2024-01-11 |
+| [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 | 2025-09-05 |  |
 | [Blue & White](https://open.spotify.com/track/41ggWVg4YpKXAktdR7hx5z) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Blue & White](https://open.spotify.com/album/7HFeekHPk68jIsqxm5ucg2) | 3:42 | 2021-04-15 | 2021-05-27 |
 | [Blue Escape](https://open.spotify.com/track/2HdJ8CcFR52iKnvoUm2I7I) | [BEA](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [Blue Escape](https://open.spotify.com/album/0RsioaII4X4rhcDGtpdM45) | 3:52 | 2021-07-29 | 2021-08-20 |
 | [Blue Eyed Boys](https://open.spotify.com/track/61AJ1nlhY5rcHakjNKov1w) | [YZMN](https://open.spotify.com/artist/5O9xKjqhaPD3Gpi8wC73d7) | [Therapy](https://open.spotify.com/album/70AjCGQSZnVua58B4u1zrI) | 3:25 | 2023-09-06 | 2023-10-19 |
@@ -2885,6 +2886,7 @@
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-17 | 2021-03-18 |
 | [Plastic Ring](https://open.spotify.com/track/2YprJIzgd5mrlHrX57kOvO) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Plastic Ring](https://open.spotify.com/album/7H753DfuLX1FmbALEsllU9) | 3:46 | 2023-07-19 | 2023-09-14 |
 | [play](https://open.spotify.com/track/1Ktxxi6oiBzGiY7BFpBPmK) | [Grace Kay](https://open.spotify.com/artist/5XUKBYaVDPMDlKVTS3hSlT) | [play](https://open.spotify.com/album/5eWbISaqF6BHZsUHwXkT9p) | 2:51 | 2021-10-07 | 2021-10-28 |
+| [Play House](https://open.spotify.com/track/5GmwUN9A0CKiSoUDRct3Xp) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Play House](https://open.spotify.com/album/19ySpJmvgfBCmLOd5yY2bs) | 2:05 | 2025-09-05 |  |
 | [Play It Cool](https://open.spotify.com/track/0ZYuiHHFSL3DTu3wJI6P6k) | [Josefine Damtoft](https://open.spotify.com/artist/3LAVYQ0EmJ94BGkf0XMSU2) | [Play It Cool](https://open.spotify.com/album/1VdfwtOPbDzwf0dFH08wDS) | 2:53 | 2025-04-09 | 2025-06-05 |
 | [Play Me](https://open.spotify.com/track/0CIdE2yqYu4hF3i4F6SLBc) | [Carly Pearl](https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn) | [Play Me](https://open.spotify.com/album/6Q86T2itnqPjtoKeBPWBa2) | 3:29 | 2021-07-29 | 2021-08-26 |
 | [Play with It](https://open.spotify.com/track/2PNR29lTaK25CchuxtZ74f) | [Dolly Ave](https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk), [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb) | [Play with It](https://open.spotify.com/album/5CmYliGhBinWE48tXAzmrm) | 2:39 | 2021-07-16 | 2021-07-29 |
@@ -3315,6 +3317,7 @@
 | [Sly](https://open.spotify.com/track/7G0zhkkOduzMy5X4Re3743) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Sly](https://open.spotify.com/album/2fMsbU2mZHsA2kCwYQC9UA) | 2:48 | 2023-07-12 | 2023-09-07 |
 | [Small Doses](https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn) | [Camille](https://open.spotify.com/artist/2X1AUAAyXLbTxQGfnvsNL6) | [Small Doses](https://open.spotify.com/album/32dtZ5mPoCxJZRaSBmihPU) | 2:48 | 2023-02-08 | 2023-03-23 |
 | [Small Talk](https://open.spotify.com/track/0CbuTrHHaRCwmV8ZPr9LIO) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Small Talk](https://open.spotify.com/album/4siVYOHg4ockCO1ahT9fpH) | 3:10 | 2023-10-18 | 2023-11-30 |
+| [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-05 |  |
 | [Small Talk](https://open.spotify.com/track/6ooMgHFDY9L67Wo2FQf62u) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Small Talk](https://open.spotify.com/album/0n1GMdYHbiAwRU17H8rLRg) | 4:38 | 2021-04-01 | 2021-05-06 |
 | [Small Talks](https://open.spotify.com/track/5hrmGj3Tk3OS1TdJKwgXQo) | [Nightcars](https://open.spotify.com/artist/6tLxozROfaiZMoq2AL56d4) | [Small Talks](https://open.spotify.com/album/1tIL0phZRZlPUwYt3AoeCF) | 2:47 | 2023-04-26 | 2023-08-03 |
 | [Snow Globe](https://open.spotify.com/track/0mWpVVTgsYfjJqpQ5l77Q8) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Snow Globe](https://open.spotify.com/album/6uOLtRbmlN7054Wlit6zJ9) | 3:06 | 2025-08-27 |  |
@@ -3535,6 +3538,7 @@
 | [Supersonic](https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Supersonic](https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8) | 2:29 | 2021-03-18 | 2021-04-15 |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-28 | 2025-08-07 |
 | [Suzette](https://open.spotify.com/track/7gEuNBqXluQqu0LJXyHxeV) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Suzette](https://open.spotify.com/album/10XllZTnTF12lcSuRERcrm) | 2:43 | 2025-03-19 | 2025-07-03 |
+| [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 | 2025-09-05 |  |
 | [Sweatshirt](https://open.spotify.com/track/2Lp3YWgTMuA94YhwCg3nY6) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/4143L9i3dl8e3zJFhTAjLv) | 3:27 | 2020-10-13\* | 2021-01-15 |
 | [Sweet & Sour](https://open.spotify.com/track/5dKEjd7OcB0yWo45GJcCvo) | [Queen Star](https://open.spotify.com/artist/7aWcchXaMFsOnIhrHJ29tu) | [Sweet & Sour](https://open.spotify.com/album/3CK6fX2aALQy0hfi88Hxdw) | 3:45 | 2023-01-25 | 2023-03-02 |
 | [Sweet 16](https://open.spotify.com/track/0xiVurRahlzF6xC3oZIGJE) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Sweet 16](https://open.spotify.com/album/5UNytZyGlTgSw2TCX22ZVY) | 2:51 | 2021-10-28 | 2021-12-01 |

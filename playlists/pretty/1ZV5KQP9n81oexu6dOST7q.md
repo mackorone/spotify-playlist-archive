@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 
 > Festival season is begonnen, luister hier naar de 'Summer Sound' van 2025!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 51,948 likes - 83 songs - 4 hr 6 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 51,949 likes - 83 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 | 82 | [Okay \- NLS Remix](https://open.spotify.com/track/2CRjQBN348ZpCjPYgaPfft) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS), [Niels Zuiderhoek](https://open.spotify.com/artist/49W5oCV16Ilhs7lxYNtSrq) | [Okay](https://open.spotify.com/album/30YJMJIXvMbS7cEc51kE0h) | 2:54 |
 | 83 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
 
-Snapshot ID: `AAA9z4573HOU/e1YkDJn9PrMkbTKeOEw`
+Snapshot ID: `AAA90SiezvovNQbUZz2oEY51l+SeHFWb`

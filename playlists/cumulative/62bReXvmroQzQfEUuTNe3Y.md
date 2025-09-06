@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to this Summer 2025\. Updated weekly!
 
-494 songs - 1 day 3 hr 40 min
+495 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Euphoria](https://open.spotify.com/track/00KPugdklpcrFNnjWlXjj2) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Euphoria](https://open.spotify.com/album/1Ae9MLhcJLBmnD5vICcr14) | 3:38 | 2023-03-17 | 2024-02-24 |
 | [Every Time I Fall \- Logic1000 Remix](https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [KATYA](https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ) | [Every Time I Fall \(Logic1000 Remix\)](https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW) | 2:30 | 2024-03-22 | 2024-08-31 |
 | [Everything You Do](https://open.spotify.com/track/247QsT8QFchKblRE69dgm9) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Everything You Do](https://open.spotify.com/album/1RpyLfkDDUVC7b8Ma1XCKy) | 3:00 | 2021-04-24 | 2021-06-12 |
-| [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 | 2024-02-23 |  |
+| [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 | 2024-02-23 | 2025-09-06 |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-01-14 | 2022-07-16 |
 | [Fade](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 | 2022-08-05 | 2025-02-08 |
 | [Fade \- Your Eyes Vocal Edit](https://open.spotify.com/track/0Il7aXEcgGpJ1gCMQYeAMe) | [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Lucia](https://open.spotify.com/artist/2q125u4SujtYj8A0Zs3R7Z) | [Fade E.P\. \(Incl\. Remix By Lexer\)](https://open.spotify.com/album/7GGC5AySPrPqj0ritAovrb) | 6:03 | 2020-09-13\* | 2021-03-06 |
@@ -293,6 +293,7 @@
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2021-04-30 | 2021-11-11 |
 | [Needing Space](https://open.spotify.com/track/2QLDAd5vTn2wacico7aIDm) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Needing Space](https://open.spotify.com/album/5ZQH0ojDNdakVj4YLDpLJ4) | 3:32 | 2021-06-18 |  |
 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 | 2020-09-13\* | 2021-11-11 |
+| [Never Change](https://open.spotify.com/track/0cTvHN1nMaINu2cZFK87d8) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Change](https://open.spotify.com/album/28DnS842lod3ntK4UA7g27) | 3:15 | 2025-09-05 |  |
 | [Never Give Up](https://open.spotify.com/track/2p0FewtVb0Y9davyTsUWOz) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/61tLxNTbuKTr7W6LpWUHWa) | 3:51 | 2021-11-11 | 2022-07-02 |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2021-01-19 | 2021-03-06 |
 | [Never Lost](https://open.spotify.com/track/1YqOZ2frFFiyMIkAuKH48k) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/6wwiwIueaNNBxuabXP39VZ) | 6:46 | 2021-11-11 | 2024-02-24 |

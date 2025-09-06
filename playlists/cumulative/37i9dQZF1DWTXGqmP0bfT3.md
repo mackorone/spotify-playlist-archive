@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-354 songs - 23 hr 55 min
+355 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Ghosts](https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jeremy Mckinnon](https://open.spotify.com/artist/2pbDbO5s6Tx2EHmpvLFuLw) | [Found In Far Away Places](https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL) | 4:49 | 2021-12-17 |  |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2024-02-09 |  |
 | [God Complex](https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [God Complex](https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N) | 4:05 | 2025-03-14 | 2025-05-25 |
-| [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-27 |  |
+| [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-27 | 2025-09-06 |
 | [Goddamn White Trash](https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 4:43 | 2024-02-09 | 2024-04-19 |
 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 | 2021-12-17 |  |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-01-06 | 2024-04-19 |
@@ -219,6 +219,7 @@
 | [Naked](https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Naked](https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH) | 3:43 | 2025-05-09 |  |
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-03-17 | 2024-04-19 |
 | [Nemo](https://open.spotify.com/track/2edSHS8PhbiPgLxQhMpMkO) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2vaeoAzATVgE2npjBCnH5x) | 4:39 | 2021-12-17 | 2022-07-28 |
+| [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 | 2025-09-05 |  |
 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2024-11-15 | 2025-04-12 |
 | [new way out](https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 3:22 | 2024-11-15 |  |
 | [Night of the Werewolves](https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:30 | 2021-12-17 |  |

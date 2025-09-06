@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Westside Gunn",
+  "description": "Up and down I-95. Cover: Cash Cobain",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 121600,
       "name": "Active",
       "url": "https://open.spotify.com/track/4SQLNBF97lQpxuaG0yeUBP"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 162558,
       "name": "AHA",
       "url": "https://open.spotify.com/track/5iB97HefP9cudBwiOtfxcI"
@@ -2584,6 +2584,28 @@
       "duration_ms": 124397,
       "name": "Baddie Decisions",
       "url": "https://open.spotify.com/track/15DFymferHXLgfrYowTVFl"
+    },
+    {
+      "album": {
+        "name": "Blood, Sweat & Billz",
+        "url": "https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "M Row",
+          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Baddie Galore",
+      "url": "https://open.spotify.com/track/0z2ufnWUpYzQQSZgkjj5md"
     },
     {
       "album": {
@@ -4212,6 +4234,36 @@
       "duration_ms": 169411,
       "name": "Blood Moon (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
+    },
+    {
+      "album": {
+        "name": "Blood On My Knife",
+        "url": "https://open.spotify.com/album/4vqkIOJ5IIM7r5hJdReGkL"
+      },
+      "artists": [
+        {
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        },
+        {
+          "name": "Flatbush Zombies",
+          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
+        },
+        {
+          "name": "2DEAD BOYZ",
+          "url": "https://open.spotify.com/artist/4JuXkitoXoAUH9cLRjVOre"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "Blood On My Knife",
+      "url": "https://open.spotify.com/track/613UsCBkeZyE2noZga8pwc"
     },
     {
       "album": {
@@ -8158,7 +8210,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 171464,
       "name": "Die 4 Me",
       "url": "https://open.spotify.com/track/3ysMPEYeYk4laQAh6Wlpy0"
@@ -9138,7 +9190,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 149766,
       "name": "Doot Doot (6 7)",
       "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
@@ -14285,6 +14337,28 @@
     },
     {
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/0SfsFViYoFMzYaxq2gMFTr"
+      },
+      "artists": [
+        {
+          "name": "Ohthatsmizz",
+          "url": "https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ"
+        },
+        {
+          "name": "Sturdyyoungin",
+          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158892,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0Qnu6mMn8QWokkYwytH4Bx"
+    },
+    {
+      "album": {
         "name": "Holy Vessel (feat. Seddy Hendrinx)",
         "url": "https://open.spotify.com/album/6GGKMg3zmIygwKlK1hT6DW"
       },
@@ -15579,6 +15653,24 @@
     },
     {
       "album": {
+        "name": "In & Out",
+        "url": "https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q"
+    },
+    {
+      "album": {
         "name": "Yard Work Volume.2",
         "url": "https://open.spotify.com/album/2qHbhcVWG14e4k6FfFEKEA"
       },
@@ -15768,7 +15860,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 123173,
       "name": "Iron Man",
       "url": "https://open.spotify.com/track/3isstW9QHdzIrD0vDDpZLA"
@@ -18302,7 +18394,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 142198,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/3bjW6TTjHKtMn9b0Q1D07I"
@@ -18486,6 +18578,28 @@
       "duration_ms": 146086,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
+    },
+    {
+      "album": {
+        "name": "Supreme Clientele 2",
+        "url": "https://open.spotify.com/album/0SHlsKruygN9cOfAnaLxvM"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169818,
+      "name": "Love Me Anymore",
+      "url": "https://open.spotify.com/track/5Y5D9xGteT5UM8Bwxx7b3J"
     },
     {
       "album": {
@@ -18748,6 +18862,24 @@
       "duration_ms": 100975,
       "name": "Lyrical Eazy",
       "url": "https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2"
+    },
+    {
+      "album": {
+        "name": "PAPER TRAIL",
+        "url": "https://open.spotify.com/album/5tShxqy2r5xUxWB8X0kyMA"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105142,
+      "name": "MACADAMIA",
+      "url": "https://open.spotify.com/track/1kK1unbdKwshc059JSrVoh"
     },
     {
       "album": {
@@ -20082,6 +20214,24 @@
       "duration_ms": 222439,
       "name": "Mobile Phone",
       "url": "https://open.spotify.com/track/5GgisxN0vnT0Sk6u7hD9B0"
+    },
+    {
+      "album": {
+        "name": "METRO MEDIA",
+        "url": "https://open.spotify.com/album/6U6yOL1gtsG7KeTV1JBsut"
+      },
+      "artists": [
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151210,
+      "name": "MOCO",
+      "url": "https://open.spotify.com/track/4OAh0EVh2KuaocVscSxKyZ"
     },
     {
       "album": {
@@ -22441,6 +22591,24 @@
     },
     {
       "album": {
+        "name": "Off Me",
+        "url": "https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173345,
+      "name": "Off Me",
+      "url": "https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz"
+    },
+    {
+      "album": {
         "name": "Off The Wall",
         "url": "https://open.spotify.com/album/7Ao3kw89bAQ2xbPeesYkn5"
       },
@@ -23664,7 +23832,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 115332,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/33R3zsVLFNzisGMM6A7BzH"
@@ -23810,7 +23978,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 145713,
       "name": "Past It",
       "url": "https://open.spotify.com/track/1zrHVd6OvuzBIDsApojH24"
@@ -24746,7 +24914,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 152000,
       "name": "Presidential (with Jenn Carter, Kyle Richh,TaTa)",
       "url": "https://open.spotify.com/track/5RhLGbNLr8oGGbLuxJkjf5"
@@ -28164,7 +28332,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 170980,
       "name": "Sign Language",
       "url": "https://open.spotify.com/track/1716C0wUTcWleTX9X4rvlX"
@@ -31923,6 +32091,24 @@
     },
     {
       "album": {
+        "name": "Too Much Lick Her",
+        "url": "https://open.spotify.com/album/1lGeNisldfwxUNyaYnkpO7"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "Too Much Lick Her",
+      "url": "https://open.spotify.com/track/1xMDoSwVTt1BRirlyhHBxV"
+    },
+    {
+      "album": {
         "name": "Too Rare",
         "url": "https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF"
       },
@@ -33216,7 +33402,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 192702,
       "name": "Warriors Two, Cooley High",
       "url": "https://open.spotify.com/track/3meUWngyJwuYjJxQ334vXd"
@@ -35116,7 +35302,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 148819,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2ROCTOGd6INBra6xrHkWjW"

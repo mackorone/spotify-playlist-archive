@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. El Malilla en portada.",
+  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... El Malilla en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -166,6 +166,28 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "album": {
+        "name": "7 VIDAS",
+        "url": "https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "7 VIDAS",
+      "url": "https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw"
     },
     {
       "album": {
@@ -886,7 +908,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 135003,
       "name": "APRIETA",
       "url": "https://open.spotify.com/track/49s2wvIpWZrrvnGdf1hy1d"
@@ -2024,7 +2046,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 192812,
       "name": "Chipeado",
       "url": "https://open.spotify.com/track/3a5GdmCdNcAiEw4gqkhmBf"
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176450,
       "name": "Condena",
       "url": "https://open.spotify.com/track/5mcTu7oniVfT5pWA0aDld0"
@@ -3052,6 +3074,40 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "album": {
+        "name": "SEXOLANDIA 2",
+        "url": "https://open.spotify.com/album/0dJgw5GP0SBxi2T92jgakd"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Emex",
+          "url": "https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h"
+        },
+        {
+          "name": "Morrow",
+          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
+        },
+        {
+          "name": "8.am",
+          "url": "https://open.spotify.com/artist/0IExmfoarrF3Yugnj9Rhl7"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Doble D",
+      "url": "https://open.spotify.com/track/2TzWKKox93RxQGH8HTKs9z"
     },
     {
       "album": {
@@ -4487,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Censurado",
+        "url": "https://open.spotify.com/album/2jhcKtNWIM6qkVrGrGI5PZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273749,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/4vl4ZusHPPkM5iNrAXG5Ad"
+    },
+    {
+      "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
       },
@@ -5486,7 +5560,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 161456,
       "name": "KULICHI",
       "url": "https://open.spotify.com/track/3K4jhoCkhAsTPkdOkF2cvF"
@@ -8438,7 +8512,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 131611,
       "name": "Pa Sus Chiklez y Su Cumbiaton",
       "url": "https://open.spotify.com/track/1EquwXlm8ruGbtVxcRmtoZ"
@@ -9084,6 +9158,24 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "album": {
+        "name": "pRiiNcEza 100% OriiGiinaL",
+        "url": "https://open.spotify.com/album/7zkz38yX9siyoqEISdEVoI"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "pRiiNcEza 100% OriiGiinaL",
+      "url": "https://open.spotify.com/track/5coNu3jF2g4LEBOjJPu92f"
     },
     {
       "album": {
@@ -10403,6 +10495,24 @@
     },
     {
       "album": {
+        "name": "Sin Rencor (Sonando desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/723vZU7mw1SOHtlgQnWcLI"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Sin Rencor - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2N8AMWe2TrxM3dEiAi08qh"
+    },
+    {
+      "album": {
         "name": "Sin Rencores",
         "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
       },
@@ -10518,6 +10628,24 @@
       "duration_ms": 198036,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "album": {
+        "name": "Somos Guerreros",
+        "url": "https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Somos Guerreros",
+      "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
     },
     {
       "album": {
@@ -11226,7 +11354,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 139963,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/6HpIyTulkVcUhx9CLCdxvT"

@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 203790,
+  "num_followers": 203819,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -557,6 +557,34 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
+      "added_at": "2023-10-22 04:22:10",
+      "album": {
+        "name": "Suono Assente",
+        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
+      },
+      "artists": [
+        {
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        },
+        {
+          "name": "Cathy Lucas",
+          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Habadash",
+      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
+    },
+    {
       "added_at": "2024-03-21 22:34:34",
       "album": {
         "name": "Something in the Room She Moves",
@@ -587,34 +615,6 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
-      "added_at": "2023-10-22 04:22:10",
-      "album": {
-        "name": "Suono Assente",
-        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
-      },
-      "artists": [
-        {
-          "name": "V/Z",
-          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
-        },
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        },
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        },
-        {
-          "name": "Cathy Lucas",
-          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Habadash",
-      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
       "added_at": "2023-12-20 04:44:18",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
-      "added_at": "2024-01-04 01:06:11",
-      "album": {
-        "name": "Dumb Guitar",
-        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 310865,
-      "name": "Dumb Guitar",
-      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
-    },
-    {
       "added_at": "2024-01-11 03:53:36",
       "album": {
         "name": "Vidrio",
@@ -743,6 +727,22 @@
       "duration_ms": 277308,
       "name": "An\u00f3nima",
       "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
+    },
+    {
+      "added_at": "2024-01-04 01:06:11",
+      "album": {
+        "name": "Dumb Guitar",
+        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 310865,
+      "name": "Dumb Guitar",
+      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
     },
     {
       "added_at": "2024-11-12 18:12:40",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
+      "added_at": "2024-10-25 00:44:14",
+      "album": {
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
       "added_at": "2023-10-27 23:56:32",
       "album": {
         "name": "There is only love and fear",
@@ -1143,22 +1159,6 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
-    },
-    {
-      "added_at": "2024-10-25 00:44:14",
-      "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
     },
     {
       "added_at": "2024-10-23 05:15:10",
@@ -1193,20 +1193,24 @@
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
+      "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+      "duration_ms": 420080,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2024-08-19 20:57:31",
@@ -1225,20 +1229,20 @@
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
-      "added_at": "2024-08-29 02:18:16",
+      "added_at": "2023-09-25 01:38:39",
       "album": {
-        "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
-        "url": "https://open.spotify.com/album/2otNsW3gEAf1Pador5jviO"
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
       },
       "artists": [
         {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 413958,
-      "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
-      "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2024-04-29 20:30:55",
@@ -1273,40 +1277,20 @@
       "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
+      "added_at": "2022-08-13 01:40:58",
       "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 420080,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
-    },
-    {
-      "added_at": "2023-09-25 01:38:39",
-      "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -1325,6 +1309,22 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
+      "added_at": "2024-04-15 18:24:59",
+      "album": {
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+    },
+    {
       "added_at": "2024-09-18 13:52:43",
       "album": {
         "name": "True Luck",
@@ -1341,20 +1341,20 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2024-04-15 18:24:59",
+      "added_at": "2024-08-29 02:18:16",
       "album": {
-        "name": "Vallahi Yok / Kirik Cam",
-        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
+        "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
+        "url": "https://open.spotify.com/album/2otNsW3gEAf1Pador5jviO"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 277810,
-      "name": "Vallahi Yok",
-      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+      "duration_ms": 413958,
+      "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
+      "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
     },
     {
       "added_at": "2022-09-09 13:45:31",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1397,20 +1413,20 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
-      "added_at": "2023-01-03 23:48:36",
+      "added_at": "2023-10-23 19:41:11",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+      "duration_ms": 215733,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
       "added_at": "2023-03-31 19:24:48",
@@ -1429,38 +1445,6 @@
       "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
-      "added_at": "2023-10-23 19:41:11",
-      "album": {
-        "name": "Pearlies",
-        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
-    },
-    {
-      "added_at": "2024-01-03 18:45:56",
-      "album": {
-        "name": "Space Jumps",
-        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Space Jumps",
-      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Rivers That You Cannot See",
@@ -1477,20 +1461,20 @@
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
-      "added_at": "2024-09-01 14:54:22",
+      "added_at": "2024-01-03 18:45:56",
       "album": {
-        "name": "Always a Stranger",
-        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+        "name": "Space Jumps",
+        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
       },
       "artists": [
         {
-          "name": "Tindersticks",
-          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
         }
       ],
-      "duration_ms": 227704,
-      "name": "New World - Edit",
-      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
+      "duration_ms": 211386,
+      "name": "Space Jumps",
+      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1513,22 +1497,6 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
-      "added_at": "2024-08-16 20:06:32",
-      "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1543,6 +1511,38 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
+      "added_at": "2024-09-01 14:54:22",
+      "album": {
+        "name": "Always a Stranger",
+        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+      },
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+        }
+      ],
+      "duration_ms": 227704,
+      "name": "New World - Edit",
+      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
+    },
+    {
+      "added_at": "2024-08-16 20:06:32",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "An Embroidery",
+        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
+    },
+    {
       "added_at": "2024-08-16 20:06:32",
       "album": {
         "name": "Sur La Terre",
@@ -1613,20 +1629,20 @@
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
+      "added_at": "2023-08-24 03:26:17",
       "album": {
-        "name": "An Embroidery",
-        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
       },
       "artists": [
         {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
         }
       ],
-      "duration_ms": 249208,
-      "name": "An Embroidery",
-      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1651,22 +1667,6 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
-    },
-    {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2024-07-18 21:58:08",

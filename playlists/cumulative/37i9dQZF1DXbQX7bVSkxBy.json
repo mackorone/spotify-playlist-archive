@@ -3405,6 +3405,28 @@
     },
     {
       "album": {
+        "name": "Grateful Heart",
+        "url": "https://open.spotify.com/album/4HO18DE8AnweK0SU2vUG3v"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Grateful Heart",
+      "url": "https://open.spotify.com/track/21yiBzduCsvNj8T1IfAxqW"
+    },
+    {
+      "album": {
         "name": "OCTAGON",
         "url": "https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf"
       },
@@ -4464,7 +4486,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
@@ -5370,7 +5392,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
@@ -7028,6 +7050,28 @@
       "duration_ms": 198745,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+    },
+    {
+      "album": {
+        "name": "PRAISE THROUGH STORMS",
+        "url": "https://open.spotify.com/album/66LyPFemNQwvmvBRrK4eU8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        },
+        {
+          "name": "Dariodmusic",
+          "url": "https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237913,
+      "name": "PRAISE THROUGH STORMS",
+      "url": "https://open.spotify.com/track/6mSIQVXz4QuyTSGX8noDGd"
     },
     {
       "album": {

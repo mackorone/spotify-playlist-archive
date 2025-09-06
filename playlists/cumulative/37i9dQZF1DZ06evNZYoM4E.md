@@ -4,7 +4,7 @@
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 5 min
+51 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,13 +25,14 @@
 | [De Wereld Is Van Ons Allemaal](https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zonder Zorgen](https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S) | 3:14 | 2025-07-20 |  |
 | [Diep In Mijn Hart](https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:47 | 2025-07-20 |  |
 | [Donker Om Je Heen](https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij En Ik](https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ) | 3:25 | 2025-07-20 |  |
+| [Droomland \- Live](https://open.spotify.com/track/5lqvbixZHS30HYud97yhF6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:26 | 2025-09-06 |  |
 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 | 2025-07-20 |  |
 | [Eenzaam Zonder Jou](https://open.spotify.com/track/3UJ8i54HagEeH4lhmACvLb) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Want Ik Hou Van Jou](https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB) | 3:52 | 2025-07-20 |  |
 | [Geef Mij Je Angst](https://open.spotify.com/track/0taBVXnPJpCucnlj8Xi9V6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Voor Jou](https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ) | 4:19 | 2025-07-20 |  |
 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 | 2025-07-20 |  |
 | [Het Laatste Rondje](https://open.spotify.com/track/4L2xU84Wbc37In2KXQdQMO) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:20 | 2025-07-20 |  |
 | [Hoogste Tijd](https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:14 | 2025-07-20 |  |
-| [I've Been Loving You Too Long](https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [I've Been Loving You Too Long](https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV) | 3:01 | 2025-07-20 |  |
+| [I've Been Loving You Too Long](https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [I've Been Loving You Too Long](https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV) | 3:01 | 2025-07-20 | 2025-09-06 |
 | [Ik Heb 'T Altijd Al Geweten](https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:14 | 2025-07-20 |  |
 | [Ik Leef M'n Eigen Leven](https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 4:50 | 2025-07-20 |  |
 | [Ik Meen 't](https://open.spotify.com/track/3TCynxSXwASYJ8YSugdEek) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij En Ik](https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ) | 3:33 | 2025-07-20 |  |

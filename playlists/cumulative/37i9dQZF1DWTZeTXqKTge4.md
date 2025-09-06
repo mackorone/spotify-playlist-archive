@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: MB, Souldia, White\-B, Lost
+> Le meilleur du hip\-hop québécois\. Photo: Die\-On, Tel Kel
 
-836 songs - 1 day 18 hr 23 min
+837 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Loyal](https://open.spotify.com/track/545IggvcFgJ9hBYWdVYVdZ) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 2:36 | 2022-03-11 | 2022-04-16 |
 | [Loyauté](https://open.spotify.com/track/69T9LCG5yBYd9WeRBsdMwR) | [Zach Scott](https://open.spotify.com/artist/0x1BXAAWrf873stnf7Iszw), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Loyauté](https://open.spotify.com/album/2cmNwVH9VNp3mggrrmCEiJ) | 3:09 | 2024-07-19 | 2024-11-30 |
 | [Lucifer](https://open.spotify.com/track/3ZZFf9ufYtusTqBj2TkJb0) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Lucifer](https://open.spotify.com/album/1BO5S95m9SK1gJQssHC5Qj) | 2:42 | 2025-03-28 |  |
+| [Là\-Haut](https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Là\-Haut](https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP) | 2:42 | 2025-09-05 |  |
 | [Ma pref](https://open.spotify.com/track/6Jk0HOH7Qrr6xbNf5xTKGi) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Ma pref](https://open.spotify.com/album/1r18lQrF1s9xhZecqOUJ2d) | 3:17 | 2024-09-06 | 2025-02-08 |
 | [MACHETE 2 \(Masasi\)](https://open.spotify.com/track/3ZvAGglWF7RPO7V79GNOAE) | [Deuzeus](https://open.spotify.com/artist/2KMthShLYbRTCpnEsGufqn) | [MACHETE 2 \(Masasi\)](https://open.spotify.com/album/4f4FVqHgcjS4VtL8IT5IAl) | 2:41 | 2023-06-30 | 2024-04-19 |
 | [Madeleine de Proust](https://open.spotify.com/track/30w2EoOuuLej0QhiPmWIOd) | [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3) | [Madeleine de Proust](https://open.spotify.com/album/07ImhsS3zs8C126gzdOmOp) | 2:37 | 2025-01-10 |  |

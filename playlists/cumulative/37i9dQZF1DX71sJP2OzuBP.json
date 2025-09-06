@@ -7189,24 +7189,6 @@
     },
     {
       "album": {
-        "name": "WAN",
-        "url": "https://open.spotify.com/album/0zZjiiyss9QR2F0s7jYbow"
-      },
-      "artists": [
-        {
-          "name": "\u7f57\u8a00",
-          "url": "https://open.spotify.com/artist/34j9L1hyeq9JDSwUTgBhoE"
-        }
-      ],
-      "date_added": "2025-08-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169500,
-      "name": "WAN",
-      "url": "https://open.spotify.com/track/13MH9Y8fjrXzc5qoN5PAqp"
-    },
-    {
-      "album": {
         "name": "Wanna Do",
         "url": "https://open.spotify.com/album/3SIFEQ0e7T7PUSQr2mbOyv"
       },
@@ -8468,6 +8450,24 @@
       "duration_ms": 232329,
       "name": "\u4e00\u534a\u4e00\u534a",
       "url": "https://open.spotify.com/track/1OpqojQx04VVnPo48ixyIJ"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u534a\u665a\u5b89",
+        "url": "https://open.spotify.com/album/0zZjiiyss9QR2F0s7jYbow"
+      },
+      "artists": [
+        {
+          "name": "\u7f57\u8a00",
+          "url": "https://open.spotify.com/artist/34j9L1hyeq9JDSwUTgBhoE"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "\u4e00\u534a\u665a\u5b89",
+      "url": "https://open.spotify.com/track/13MH9Y8fjrXzc5qoN5PAqp"
     },
     {
       "album": {

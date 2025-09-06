@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Shubh
+> India's Rap Scene\. Cover \- YUNG SAMMY
 
-331 songs - 17 hr 52 min
+332 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Krantinaari](https://open.spotify.com/track/7g8Tz72jAN2IdrZs7q13zG) | [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP), [RaaKshaS Sound](https://open.spotify.com/artist/5UvJGAboUH4MluIk0o5CS0) | [Krantinaari](https://open.spotify.com/album/1pV4OORNDkksKLH5M8cmHG) | 2:34 | 2023-10-26 | 2023-11-30 |
 | [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 | 2023-08-03 | 2024-02-16 |
 | [Kya Bolti Public](https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Kya Bolti Public](https://open.spotify.com/album/3C6F1TyvCL67WNnYLNlzvK) | 2:24 | 2023-05-08 | 2023-08-18 |
-| [La La La](https://open.spotify.com/track/49KgyOphHcrubDxA3PaO55) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [La La La](https://open.spotify.com/album/0W7heKaA6nCObhSIouybei) | 3:08 | 2025-01-10 |  |
+| [La La La](https://open.spotify.com/track/49KgyOphHcrubDxA3PaO55) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [La La La](https://open.spotify.com/album/0W7heKaA6nCObhSIouybei) | 3:08 | 2025-01-10 | 2025-09-06 |
 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 | 2024-10-01 | 2025-01-18 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 | 2024-11-05 |
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2025-02-14 |  |
@@ -203,6 +203,7 @@
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2023-06-01 | 2023-06-09 |
 | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Ragini Vishwakarma](https://open.spotify.com/artist/3UCFb7SJuft3iuboHfslzj), [Arjun Ajnabee](https://open.spotify.com/artist/2cu64IeD1D7wFS1ZD9wqBO) | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-28 |  |
 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 | 2024-05-22 | 2024-06-01 |
+| [Maruti](https://open.spotify.com/track/2tPhRcPnhJ8Qh51jLP0lZ3) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Maruti](https://open.spotify.com/album/4Xxu0e68sjuXrk0DPvK8lP) | 3:33 | 2025-09-05 |  |
 | [MASHINEY](https://open.spotify.com/track/7BVzMrrox1WtP4VKpeWOQB) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:54 | 2024-08-02 | 2024-08-14 |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-10-03 | 2023-10-19 |
 | [Matha Garam](https://open.spotify.com/track/6v4dEkFs3I2ImanEVok2cP) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Matha Garam](https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9) | 3:25 | 2024-05-28 | 2024-06-23 |

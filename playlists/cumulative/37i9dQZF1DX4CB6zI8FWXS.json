@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Gyakie",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: \u85e4\u4e95 \u98a8",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 226800,
       "name": "128",
       "url": "https://open.spotify.com/track/03qgnamcJASDvzIagmMg7w"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 242962,
       "name": "Angel in Disguise - Spotify Singles",
       "url": "https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 141242,
       "name": "Blue Violets (Twitch Tapes)",
       "url": "https://open.spotify.com/track/4BaAQ13n408GvLpRrDY0kA"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188852,
       "name": "Can We Talk?",
       "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
@@ -6292,7 +6292,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 189942,
       "name": "Guns",
       "url": "https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4"
@@ -6590,7 +6590,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176125,
       "name": "Her (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/2ZzrfN3WJf8oKopPshisl1"
@@ -6940,6 +6940,24 @@
       "duration_ms": 170400,
       "name": "Holy Blindfold",
       "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+    },
+    {
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/0qGTzUTmqLwTap5WfHYAqr"
+      },
+      "artists": [
+        {
+          "name": "Max Pope",
+          "url": "https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235347,
+      "name": "home",
+      "url": "https://open.spotify.com/track/5pObh8ZUFuPDKLgoQvc91Y"
     },
     {
       "album": {
@@ -7411,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186350,
+      "name": "I Need U Back",
+      "url": "https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx"
+    },
+    {
+      "album": {
         "name": "I Need U ~\u541b\u306b\u983c\u3063\u3066\u3082\u3044\u3044?~",
         "url": "https://open.spotify.com/album/5R0qqaGPA0rGhpmzehMjOr"
       },
@@ -7856,7 +7892,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 192202,
       "name": "In It With You",
       "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
@@ -8206,7 +8242,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 194000,
       "name": "Is it a crime?",
       "url": "https://open.spotify.com/track/3NGvUWpV7es4ClqE8cMuxV"
@@ -8657,6 +8693,28 @@
     },
     {
       "album": {
+        "name": "OWARI DIARY",
+        "url": "https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "KIRA KIRA",
+      "url": "https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X"
+    },
+    {
+      "album": {
         "name": "BLACK STAR",
         "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
       },
@@ -8774,6 +8832,24 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "album": {
@@ -9416,7 +9492,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
@@ -10558,7 +10634,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 181395,
       "name": "MIAMI",
       "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
@@ -11050,7 +11126,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 238615,
       "name": "My Little Ginger",
       "url": "https://open.spotify.com/track/5u13n1FMmKdf0EErfPdXXr"
@@ -11172,6 +11248,28 @@
       "duration_ms": 287702,
       "name": "Mygem",
       "url": "https://open.spotify.com/track/1jnwhGGLRc4D6DDp0sK8Hv"
+    },
+    {
+      "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
     },
     {
       "album": {
@@ -13265,6 +13363,24 @@
     },
     {
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "album": {
         "name": "Pressure Points (feat. Lila Ik\u00e9)",
         "url": "https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX"
       },
@@ -14546,7 +14662,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 165847,
       "name": "Scrambled",
       "url": "https://open.spotify.com/track/5aJnhHweIvKfzWXqbYqgnv"
@@ -15944,7 +16060,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 211029,
       "name": "spin cycle",
       "url": "https://open.spotify.com/track/2vBjZFdR2y2TAoDzvFJmD5"
@@ -16190,7 +16306,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 175234,
       "name": "Stuck On Us",
       "url": "https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1"
@@ -16428,7 +16544,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 210296,
       "name": "Summertime Blue",
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
@@ -18569,6 +18685,24 @@
     },
     {
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/1i519VPQnVTwCbYLQTDhYH"
+      },
+      "artists": [
+        {
+          "name": "MALKALM",
+          "url": "https://open.spotify.com/artist/3P4dfFlCYOKInXLkItdbmw"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135392,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5TrmGb0XkYw31cPwK2vhUu"
+    },
+    {
+      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -19140,7 +19274,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 162493,
       "name": "Were You Down?",
       "url": "https://open.spotify.com/track/6qtGGRDQXZwUKTj1FtUyOe"
@@ -19165,6 +19299,28 @@
     },
     {
       "album": {
+        "name": "what are we",
+        "url": "https://open.spotify.com/album/5fGbsPZKwoCO8V8uQjq4Z3"
+      },
+      "artists": [
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        },
+        {
+          "name": "me-mai",
+          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216705,
+      "name": "what are we",
+      "url": "https://open.spotify.com/track/2slyiX6CVoiBFaR0xnmkx9"
+    },
+    {
+      "album": {
         "name": "What Happens",
         "url": "https://open.spotify.com/album/4wupDRVZTyWSn3yg8IHo6D"
       },
@@ -19184,7 +19340,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 154522,
       "name": "What Happens",
       "url": "https://open.spotify.com/track/3nUYsVWNPRaCh2a5PoOP2P"

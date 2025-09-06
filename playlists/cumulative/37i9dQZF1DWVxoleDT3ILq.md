@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Spiral Vortex
+> Todo el sonido indie de Chile\. Foto: Vicente Cifuentes
 
-549 songs - 1 day 8 hr 53 min
+552 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Hace 10 Años](https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Hace 10 Años](https://open.spotify.com/album/71f277kinxputEU6wff8To) | 3:04 | 2022-10-07 | 2024-06-08 |
 | [Hagamos Como Si Nada de Esto Hubiera Pasado \(Emm Ok\)](https://open.spotify.com/track/4M4mpwKNwRIXbxuI9fipgX) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Hagamos Como Si Nada de Esto Hubiera Pasado \(Emm Ok\)](https://open.spotify.com/album/2TCn9ANcPwCQzO2QficOnK) | 3:12 | 2022-05-27 | 2023-05-13 |
 | [Herida](https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Herida \(Deluxe\)](https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K) | 3:07 | 2023-10-27 |  |
+| [Hola Qué Tal](https://open.spotify.com/track/58e7WaBoTfncrNn9AAoXTi) | [Sabina Odone](https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj), [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI) | [Hola Qué Tal](https://open.spotify.com/album/4Vm948eV7Cl64hm222UI0x) | 2:48 | 2025-09-05 |  |
 | [Hollywood](https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Hollywood](https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl) | 3:20 | 2022-10-07 | 2023-01-28 |
 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 | 2023-03-10 | 2023-05-27 |
 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2023-01-28 |
@@ -432,6 +433,7 @@
 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 | 2023-09-29 | 2024-06-08 |
 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 | 2022-04-15 | 2022-12-10 |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-15 | 2022-07-27 |
+| [Se Vienen Cosas Pronto](https://open.spotify.com/track/66lfQAOmlh653RETZfhjmc) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Se Vienen Cosas Pronto](https://open.spotify.com/album/60SIHaSvtNa9GAE2zPHgCT) | 2:54 | 2025-09-05 |  |
 | [Secreto de cuatro paredes \- Acoustic](https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP), [MemoDz](https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj) | [Secreto de cuatro paredes \(Acoustic\)](https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3) | 2:13 | 2022-04-15 | 2022-07-21 |
 | [Selva Negra](https://open.spotify.com/track/05554ATgymiSkXHLdpGl5d) | [Grace Caracol](https://open.spotify.com/artist/0OGNY2wV1dPmSv01JKrpoL) | [Selva Negra](https://open.spotify.com/album/3JNSwB2kvBmxzlEAk08HJU) | 3:05 | 2022-04-15 | 2022-07-28 |
 | [Sentir para Sanar](https://open.spotify.com/track/2bZmhBPdgcwtvheYHm8H03) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Sentir para Sanar](https://open.spotify.com/album/0MLh7QecBbb4oCMx0mg3Pe) | 3:48 | 2025-04-25 |  |
@@ -539,6 +541,7 @@
 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 | 2023-07-14 | 2023-09-30 |
 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 | 2023-12-01 |  |
 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 | 2024-08-16 | 2024-12-07 |
+| [Voy Creciendo](https://open.spotify.com/track/0fQ9xQq5xbUKXLMzYeKJw2) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Voy Creciendo](https://open.spotify.com/album/1JurxSBNmixlIYvpVltsbE) | 3:06 | 2025-09-05 |  |
 | [Vuela](https://open.spotify.com/track/1mFrvSk4fWW2MxzhScZIYt) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Vuela](https://open.spotify.com/album/1en2Y56k1SDvNu6zASHwPB) | 4:16 | 2022-04-15 | 2022-07-26 |
 | [Vuela Lejos](https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Vuela Lejos](https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO) | 5:07 | 2022-04-15 | 2025-02-01 |
 | [Vía Contemplativa](https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:56 | 2022-10-14 | 2023-01-28 |

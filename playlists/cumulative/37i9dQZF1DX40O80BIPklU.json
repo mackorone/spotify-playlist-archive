@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Cosculluela en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. AL2 El Aldeano en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 149275,
       "name": "Ahora Y Siempre",
       "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 190017,
       "name": "Aquella Noche",
       "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
@@ -1474,6 +1474,28 @@
       "duration_ms": 158360,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/64KQlZiuTcnh3IdZUMn48r"
+    },
+    {
+      "album": {
+        "name": "Barra Abierta",
+        "url": "https://open.spotify.com/album/1THmNZUGbQrsPFMxfqp4bP"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353676,
+      "name": "Barra Abierta",
+      "url": "https://open.spotify.com/track/11LFvw8fYPNZHVpomY2QUy"
     },
     {
       "album": {
@@ -3114,7 +3136,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 207218,
       "name": "C\u00f3mo Diamante",
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
@@ -4366,6 +4388,32 @@
       "duration_ms": 226516,
       "name": "Es La Hora",
       "url": "https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF"
+    },
+    {
+      "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/7CgP2xyEy0nNOMThmUJpTB"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Original Juan",
+          "url": "https://open.spotify.com/artist/5mObIHCS5jSl4nbRnPAHGo"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "Escasez",
+      "url": "https://open.spotify.com/track/3wKQFxxQxPrIorCQQyF2n0"
     },
     {
       "album": {
@@ -5973,6 +6021,28 @@
     },
     {
       "album": {
+        "name": "La FIERITA",
+        "url": "https://open.spotify.com/album/4Cb8tn4gaMLTwSnyQiAzGG"
+      },
+      "artists": [
+        {
+          "name": "Realidad Mental",
+          "url": "https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "La FIERITA",
+      "url": "https://open.spotify.com/track/4qEbMTQnv5sP7T5XpfLGEC"
+    },
+    {
+      "album": {
         "name": "La Gracia De Dios",
         "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
       },
@@ -6062,6 +6132,24 @@
       "duration_ms": 180923,
       "name": "La Mec\u00e1nica",
       "url": "https://open.spotify.com/track/3FoeErD0dAHW2wr8uOBwSv"
+    },
+    {
+      "album": {
+        "name": "La noche",
+        "url": "https://open.spotify.com/album/25jKRGLCM91vQGEfgoBzME"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La noche",
+      "url": "https://open.spotify.com/track/7rSTXDCHjPUzzXLzSoavCP"
     },
     {
       "album": {
@@ -7096,7 +7184,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 265116,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
@@ -7210,7 +7298,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
@@ -7564,7 +7652,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
@@ -7608,6 +7696,28 @@
       "duration_ms": 199941,
       "name": "Mexicolombia",
       "url": "https://open.spotify.com/track/3dqQchtE8K9V70RrGcYdAu"
+    },
+    {
+      "album": {
+        "name": "Mi Ciudad",
+        "url": "https://open.spotify.com/album/2Jw770YCxFSPF5r7ac0Li0"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224529,
+      "name": "Mi Ciudad",
+      "url": "https://open.spotify.com/track/5h4QnuWR5vyKFHabF6eKTW"
     },
     {
       "album": {
@@ -7838,6 +7948,28 @@
       "duration_ms": 199997,
       "name": "Millo",
       "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
+    },
+    {
+      "album": {
+        "name": "Millo",
+        "url": "https://open.spotify.com/album/5ZMw0S7NRxOaXVd8afaA6Q"
+      },
+      "artists": [
+        {
+          "name": "Kapla",
+          "url": "https://open.spotify.com/artist/11kWakFrrHou9H4TCt16yD"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167069,
+      "name": "Millo",
+      "url": "https://open.spotify.com/track/2jM62nhedpDA5hoSKL6xs0"
     },
     {
       "album": {
@@ -8284,6 +8416,28 @@
       "duration_ms": 245379,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
+    },
+    {
+      "album": {
+        "name": "NAZARIO - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1apTYhFfypXe031s2sqdJK"
+      },
+      "artists": [
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158072,
+      "name": "NAZARIO - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/53rGBjdd0sIo3d9OE2Owju"
     },
     {
       "album": {
@@ -10431,6 +10585,24 @@
     },
     {
       "album": {
+        "name": "Se Te Olvid\u00f3 Que Te Gustaba",
+        "url": "https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176678,
+      "name": "Se Te Olvid\u00f3 Que Te Gustaba",
+      "url": "https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN"
+    },
+    {
+      "album": {
         "name": "Secreto A Voces",
         "url": "https://open.spotify.com/album/5YPmjRFPwXcokikyhB2m2v"
       },
@@ -10714,7 +10886,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
@@ -10978,6 +11150,24 @@
       "duration_ms": 199825,
       "name": "SOLO POR VOS",
       "url": "https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi"
+    },
+    {
+      "album": {
+        "name": "Somos Guerreros",
+        "url": "https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Somos Guerreros",
+      "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
     },
     {
       "album": {
@@ -11764,7 +11954,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
@@ -11870,7 +12060,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 200600,
       "name": "Toma 4",
       "url": "https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz"

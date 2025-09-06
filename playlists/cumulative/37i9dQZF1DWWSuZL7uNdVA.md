@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> YUNGBLUD au top des meilleurs morceaux rock du moment.
+> Twenty One Pilots au top des meilleurs morceaux rock du moment.
 
-413 songs - 23 hr 29 min
+416 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Asleep](https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Asleep](https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp) | 3:13 | 2023-12-21 | 2024-03-15 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 | 2024-10-11 |
 | [Au Paradis](https://open.spotify.com/track/3cT59lbXrmp1YQmh4FK61I) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Au Paradis](https://open.spotify.com/album/4h3Jt0wCU1hPfbF9HUGhYd) | 2:47 | 2024-05-30 | 2025-06-20 |
-| [Avant qu'elle ne parte](https://open.spotify.com/track/1IkRLNPbQaoBZoyAyhGrIg) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [KIDS](https://open.spotify.com/album/2uvIjj6OWipQPpVwLAgUVG) | 4:25 | 2025-05-29 |  |
+| [Avant qu'elle ne parte](https://open.spotify.com/track/1IkRLNPbQaoBZoyAyhGrIg) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [KIDS](https://open.spotify.com/album/2uvIjj6OWipQPpVwLAgUVG) | 4:25 | 2025-05-29 | 2025-09-06 |
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2024-04-24 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-09-28 | 2023-10-20 |
 | [Bang Bang Bang](https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Bang Bang Bang](https://open.spotify.com/album/4xxuqs9e7upJFfloA8hX4W) | 3:39 | 2025-01-09 | 2025-01-24 |
@@ -118,7 +118,7 @@
 | [ELF](https://open.spotify.com/track/10hB96qzB5jNxuOZyH5tlX) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Black / Red](https://open.spotify.com/album/5OEuYee2wiiEIUZ9SWwi50) | 3:58 | 2024-05-23 | 2024-08-09 |
 | [Empires](https://open.spotify.com/track/5uKFAmmnnJ4qkQtyFFTYuE) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:10 | 2023-12-08 | 2024-01-12 |
 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 | 2024-01-25 | 2024-03-08 |
-| [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-10 |  |
+| [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-10 | 2025-09-06 |
 | [Euphoria](https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:23 | 2023-09-28 | 2023-10-13 |
 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 | 2025-05-15 |  |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-28 |  |
@@ -129,7 +129,7 @@
 | [Fantasize](https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Fantasize](https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor) | 2:42 | 2023-10-12 | 2023-11-17 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-08-01 | 2025-03-28 |
 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 | 2025-01-09 | 2025-04-11 |
-| [Fireworks](https://open.spotify.com/track/5i7UP3wyBJLgX9egW6A7ym) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Fireworks](https://open.spotify.com/album/6qIRq3dwaZUUvi2bcfsS84) | 2:44 | 2025-03-13 |  |
+| [Fireworks](https://open.spotify.com/track/5i7UP3wyBJLgX9egW6A7ym) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Fireworks](https://open.spotify.com/album/6qIRq3dwaZUUvi2bcfsS84) | 2:44 | 2025-03-13 | 2025-09-06 |
 | [Forts](https://open.spotify.com/track/5MR1xIIZdWLltx9dEm9rEJ) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Forts](https://open.spotify.com/album/66wWFG5srUdrjZyxzomrRG) | 3:11 | 2025-02-13 | 2025-05-23 |
 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 | 2023-12-21 | 2024-01-26 |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-22 | 2024-09-06 |
@@ -300,6 +300,7 @@
 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 | 2024-06-13 | 2024-08-02 |
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-16 | 2025-06-20 |
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-04-24 | 2025-08-22 |
+| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-09-05 |  |
 | [Screamin’ At The Sky](https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin’ At The Sky](https://open.spotify.com/album/3vO2TPaxrjoC6St9PUhvDs) | 3:24 | 2023-09-28 | 2023-10-06 |
 | [Searching for Tomorrow](https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Searching for Tomorrow](https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK) | 3:33 | 2024-11-28 | 2025-01-10 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-15 |  |
@@ -324,6 +325,7 @@
 | [Something Good](https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 4:12 | 2024-03-26 | 2024-06-01 |
 | [Sorry](https://open.spotify.com/track/2AfZo6fIu4mKDf76NTXwBG) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Sorry](https://open.spotify.com/album/1HSx2N8mKzA9hqeRB9FVzX) | 4:18 | 2024-06-13 | 2024-06-28 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-17 | 2024-12-06 |
+| [Spike Island](https://open.spotify.com/track/1c66APUihMSvbniRdka1Er) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 4:42 | 2025-09-05 |  |
 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 | 2024-04-23 | 2024-07-27 |
 | [Spiral City](https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Spiral City](https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5) | 2:29 | 2023-09-28 | 2023-10-13 |
 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-28 | 2024-04-30 |
@@ -364,6 +366,7 @@
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-07-03 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-05 | 2025-04-04 |
 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 | 2024-10-24 | 2024-11-29 |
+| [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-09-05 |  |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-07-04 |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-30 | 2023-12-16 |
 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 | 2025-03-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20428,
+  "num_followers": 20433,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAATHgAWRMh16BD8USZugISA",
+  "snapshot_id": "aLjWgAAAAABzFORn3hZvoTGc/aYbZWFN",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Files",
         "url": "https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doyin",
         "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
       },
@@ -327,26 +327,6 @@
       "duration_ms": 153962,
       "name": "Doyin",
       "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decline",
-        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 188172,
-      "name": "Decline",
-      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
     },
     {
       "added_at": null,
@@ -371,26 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+        "name": "Decline",
+        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
       "artists": [
         {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+      "duration_ms": 188172,
+      "name": "Decline",
+      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
     },
     {
       "added_at": null,
@@ -419,6 +395,30 @@
       "duration_ms": 155990,
       "name": "DON'T JEALOUS ME",
       "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "KEYS TO THE KINGDOM",
+      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me Now",
         "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 260702,
       "name": "Hollup",
       "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "KEYS TO THE KINGDOM",
-      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
     },
     {
       "added_at": null,

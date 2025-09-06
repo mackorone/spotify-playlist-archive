@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 124823,
+  "num_followers": 124851,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADiWEj0wJ/xk5UKs+e3bsht",
+  "snapshot_id": "aLjWgAAAAACzk8sKlMRrtxK6c27b+5CP",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "La Durango",
-      "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "La Durango",
+      "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
     },
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Infierno",
-      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 13",
         "url": "https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 231036,
       "name": "Alzypher Vol. 13",
       "url": "https://open.spotify.com/track/6hF5GHmra3eBun6EwbCVFM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
     },
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
       "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
+      "duration_ms": 165801,
+      "name": "Borracho Gacho (feat. Dharius)",
+      "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
     },
     {
       "added_at": null,
@@ -491,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
       },
       "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 165801,
-      "name": "Borracho Gacho (feat. Dharius)",
-      "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSD",
-        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "MSD",
-      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VNDO",
         "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 231529,
       "name": "VNDO",
       "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recia",
+        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 237419,
+      "name": "Recia",
+      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Troca Mamalona (feat. Eme Malafe)",
         "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 223565,
       "name": "Troca Mamalona (feat. Eme Malafe)",
       "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recia",
-        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 237419,
-      "name": "Recia",
-      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Bols\u00f3n",
-        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "El Bols\u00f3n",
-      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "added_at": null,

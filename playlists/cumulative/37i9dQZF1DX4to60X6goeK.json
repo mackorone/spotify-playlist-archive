@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: skantia",
+  "description": "Go hard or go home. Cover: Turno",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 125567,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
@@ -648,6 +648,28 @@
       "duration_ms": 246857,
       "name": "Boomerang (Round & Round) - Serum Remix",
       "url": "https://open.spotify.com/track/6472IAXONSb11uwTIGQQoO"
+    },
+    {
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
     },
     {
       "album": {
@@ -1707,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146742,
+      "name": "Double Vision",
+      "url": "https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/2u8hFIHE6i9T4c01c2wa1z"
       },
@@ -2089,6 +2129,32 @@
     },
     {
       "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "SUUNE",
+          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186751,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
+    },
+    {
+      "album": {
         "name": "Get Outta Here",
         "url": "https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh"
       },
@@ -2236,7 +2302,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 180344,
       "name": "Goose Chase",
       "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
@@ -2590,7 +2656,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 157714,
       "name": "I've Got Feelings",
       "url": "https://open.spotify.com/track/63OmWSc19gAlsObR0H8RjK"
@@ -2660,7 +2726,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 197485,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/65N1APSZgR83n1AP8SNj2v"
@@ -2722,6 +2788,24 @@
       "duration_ms": 266399,
       "name": "Impulsive",
       "url": "https://open.spotify.com/track/2Nad5qEns5mquszOfuBVgn"
+    },
+    {
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/7fjGxByrFnD26YWqYGXa49"
+      },
+      "artists": [
+        {
+          "name": "DRZ",
+          "url": "https://open.spotify.com/artist/55WAGKDNjOnBYUoy5Vs3Db"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202975,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/40kAbAyuNY8ySUiw3CvsRs"
     },
     {
       "album": {
@@ -3008,6 +3092,28 @@
       "duration_ms": 266239,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2AN5GEOr0gtyIGL0X2UXW3"
+    },
+    {
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "album": {
@@ -3650,7 +3756,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 128279,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
@@ -3676,7 +3782,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 269485,
       "name": "Mosh Pit (Amplify Remix)",
       "url": "https://open.spotify.com/track/0UreIYb9C53NDynKmvpeSm"
@@ -3880,6 +3986,28 @@
       "duration_ms": 163907,
       "name": "No Excuses - Hedex Remix",
       "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
+    },
+    {
+      "album": {
+        "name": "NO SURRENDER (No Retreat)",
+        "url": "https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209828,
+      "name": "NO SURRENDER (No Retreat)",
+      "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
     },
     {
       "album": {
@@ -4252,7 +4380,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
@@ -4282,6 +4410,24 @@
       "duration_ms": 279771,
       "name": "Polygon (Circadian Remix)",
       "url": "https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq"
+    },
+    {
+      "album": {
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     },
     {
       "album": {
@@ -4469,6 +4615,32 @@
     },
     {
       "album": {
+        "name": "Raving In The Studio (SOTA Remix)",
+        "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Raving In The Studio (SOTA Remix)",
+      "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
+    },
+    {
+      "album": {
         "name": "Toter / Reach Out",
         "url": "https://open.spotify.com/album/4LpiImgCt2pxyErF9JyHIB"
       },
@@ -4600,7 +4772,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
@@ -5438,7 +5610,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 216500,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/5sPQYCBr3nK35Ol6Jw9oiT"
@@ -5460,6 +5632,32 @@
       "duration_ms": 278620,
       "name": "Synco",
       "url": "https://open.spotify.com/track/7vQSVysNGOOKtBmZ9JvHSz"
+    },
+    {
+      "album": {
+        "name": "Take Cover",
+        "url": "https://open.spotify.com/album/5WL36N9m25IRQZ2RfwMAFg"
+      },
+      "artists": [
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        },
+        {
+          "name": "Trayz",
+          "url": "https://open.spotify.com/artist/1UrRFoRr7KYMfPqgKLAOkS"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204342,
+      "name": "Take Cover",
+      "url": "https://open.spotify.com/track/2LPqFNyVa0XOJxnLWc9PcI"
     },
     {
       "album": {
@@ -5953,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "album": {
         "name": "Scorpio",
         "url": "https://open.spotify.com/album/0oyJcWkn51VTwcifZKHr2q"
       },
@@ -6154,7 +6370,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"

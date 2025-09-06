@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "November Boys",
+        "url": "https://open.spotify.com/album/6dxYyfu8w2zyqLjkFEjt1C"
+      },
+      "artists": [
+        {
+          "name": "The Good The Bad and The Zugly",
+          "url": "https://open.spotify.com/artist/3YQf0KGXHQ5dSaSPPmUGxT"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196713,
+      "name": "November Boys",
+      "url": "https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j"
+    },
+    {
+      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -2176,7 +2194,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225307,
-      "name": "Raveyard",
+      "name": "Raveyard (feat. K\u00e4\u00e4rij\u00e4)",
       "url": "https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO"
     },
     {
@@ -2918,24 +2936,6 @@
       "duration_ms": 194819,
       "name": "Today's Song",
       "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"
-    },
-    {
-      "album": {
-        "name": "November Boys",
-        "url": "https://open.spotify.com/album/6dxYyfu8w2zyqLjkFEjt1C"
-      },
-      "artists": [
-        {
-          "name": "The Good The Bad and The Zugly",
-          "url": "https://open.spotify.com/artist/3YQf0KGXHQ5dSaSPPmUGxT"
-        }
-      ],
-      "date_added": "2025-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j"
     },
     {
       "album": {

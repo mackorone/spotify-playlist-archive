@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8187,
+  "num_followers": 8194,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABQJT05RyvYaEXtgHQS0XOJ",
+  "snapshot_id": "aLjWgAAAAADLD/Y/DOCoQ1PuI9c5nt0G",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MERC\u00daRIO EM C\u00c2NCER",
-        "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 178455,
-      "name": "MERC\u00daRIO EM C\u00c2NCER",
-      "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 151961,
       "name": "Problemas de Confian\u00e7a",
       "url": "https://open.spotify.com/track/2R3Wf9OHRwuFGVo3Cnez8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MERC\u00daRIO EM C\u00c2NCER",
+        "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 178455,
+      "name": "MERC\u00daRIO EM C\u00c2NCER",
+      "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
     },
     {
       "added_at": null,
@@ -530,15 +530,35 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+      "duration_ms": 137142,
+      "name": "Vai, Slip",
+      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Dorly",
+          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 109500,
+      "name": "Malvatrem",
+      "url": "https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a"
     },
     {
       "added_at": null,
@@ -567,30 +587,6 @@
       "duration_ms": 76363,
       "name": "Slipmami On The Radar Freestyle",
       "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Dorly",
-          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Malvatrem",
-      "url": "https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a"
     },
     {
       "added_at": null,
@@ -630,11 +626,15 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Vai, Slip",
-      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
       "artists": [
         {
@@ -728,17 +728,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+      "duration_ms": 147428,
+      "name": "Rainha do Vinho",
+      "url": "https://open.spotify.com/track/6LxX60FmC112LphNhmprc6"
     },
     {
       "added_at": null,
@@ -767,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
       "artists": [
         {
@@ -776,13 +772,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Rainha do Vinho",
-      "url": "https://open.spotify.com/track/6LxX60FmC112LphNhmprc6"
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
     },
     {
       "added_at": null,
@@ -840,17 +840,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "HG RealTrem",
-          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
-        },
-        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Preso na Minha BCT",
-      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
+      "duration_ms": 148000,
+      "name": "A Jogada Que \u00c9 Foda",
+      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,
@@ -928,13 +924,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
+          "name": "HG RealTrem",
+          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 148000,
-      "name": "A Jogada Que \u00c9 Foda",
-      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
+      "duration_ms": 168000,
+      "name": "Preso na Minha BCT",
+      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
     },
     {
       "added_at": null,
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tentar",
-        "url": "https://open.spotify.com/album/2Hip6f21AznxijIyxps6da"
-      },
-      "artists": [
-        {
-          "name": "Mc Safira",
-          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 121103,
-      "name": "Se Tentar",
-      "url": "https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sucessagem",
         "url": "https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 153333,
       "name": "Sucessagem",
       "url": "https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Tentar",
+        "url": "https://open.spotify.com/album/2Hip6f21AznxijIyxps6da"
+      },
+      "artists": [
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 121103,
+      "name": "Se Tentar",
+      "url": "https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1"
     }
   ],
   "unique_name": "This Is Slipmami",

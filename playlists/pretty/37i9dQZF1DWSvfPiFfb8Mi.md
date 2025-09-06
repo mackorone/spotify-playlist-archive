@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,228 likes - 125 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,363 likes - 125 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 124 | [Lovers In A Past Life \(with Rag'n'Bone Man\) \- LP Giobbi Remix](https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[LP Giobbi Remix\]](https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn) | 2:53 |
 | 125 | [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 |
 
-Snapshot ID: `AAAAAC7+LbnKM1btynvaO7vnArX/cCQ7`
+Snapshot ID: `AAAAACHo2GJSZun5wxQ/wa18AF5LzZ1O`

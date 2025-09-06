@@ -24457,6 +24457,24 @@
     },
     {
       "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/1bbARbzPDfrtBtkjXvySjC"
+      },
+      "artists": [
+        {
+          "name": "Harm & Ease",
+          "url": "https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149651,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7oB8E7opKPjknipuTubm8X"
+    },
+    {
+      "album": {
         "name": "witches in the street",
         "url": "https://open.spotify.com/album/02lOUJsNVavV9729X3VzQw"
       },

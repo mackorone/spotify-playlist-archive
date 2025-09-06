@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABcFKY4o42GkC0ySGbrEJ1t",
+  "snapshot_id": "aLjWgAAAAAAUSNF0EuSocQTdug7qNyIU",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 202594,
-      "name": "Llegas",
-      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
+      "duration_ms": 186840,
+      "name": "Hoy Que Te Vas",
+      "url": "https://open.spotify.com/track/1XtVgG9OLArdsm0p5i5rVy"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 198469,
-      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
-      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
+      "duration_ms": 229774,
+      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Hoy Que Te Vas",
-      "url": "https://open.spotify.com/track/1XtVgG9OLArdsm0p5i5rVy"
+      "duration_ms": 202594,
+      "name": "Llegas",
+      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
     },
     {
       "added_at": null,
@@ -508,41 +508,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 160160,
-      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
+      "duration_ms": 198469,
+      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste (En Vivo)",
-        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
+        "name": "El Adios Ranchero",
+        "url": "https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j"
       },
       "artists": [
-        {
-          "name": "DEL Records",
-          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        },
         {
           "name": "Cheli Madrid",
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 198048,
-      "name": "Te Metiste - En Vivo",
-      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
+      "duration_ms": 196993,
+      "name": "El Adios Ranchero",
+      "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
     },
     {
       "added_at": null,
@@ -595,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Metiste (En Vivo)",
+        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
+      },
+      "artists": [
+        {
+          "name": "DEL Records",
+          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Te Metiste - En Vivo",
+      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo de Anoche",
         "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
       },
@@ -611,22 +627,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
-        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
       "artists": [
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        },
         {
           "name": "Cheli Madrid",
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 235144,
-      "name": "Golpes En El Corazon - En Vivo",
-      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
+      "duration_ms": 184074,
+      "name": "Cuando El Destino - En Vivo",
+      "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
     },
     {
       "added_at": null,
@@ -647,50 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
       },
       "artists": [
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
         {
           "name": "Cheli Madrid",
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 229774,
-      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Adios Ranchero",
-        "url": "https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 196993,
-      "name": "El Adios Ranchero",
-      "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 184074,
-      "name": "Cuando El Destino - En Vivo",
-      "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
+      "duration_ms": 235144,
+      "name": "Golpes En El Corazon - En Vivo",
+      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+      "duration_ms": 175125,
+      "name": "Con Rumbo Al Sur - En Vivo",
+      "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 175125,
-      "name": "Con Rumbo Al Sur - En Vivo",
-      "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
+      "duration_ms": 161621,
+      "name": "Coraz\u00f3n De Oropel - En Vivo",
+      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
     },
     {
       "added_at": null,

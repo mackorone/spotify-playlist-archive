@@ -1,13 +1,69 @@
 {
-  "description": "New jazz for open minds. Cover: Nate Smith",
-  "num_followers": 950529,
+  "description": "New jazz for open minds. Cover: Alfa Mist",
+  "num_followers": 950601,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2LD8pFBGwOXppgBF3lQzSZcoQb",
+  "snapshot_id": "AAAAAHNBTQ3pxc5EytaQ4eg/Bcv4CKHH",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Dersen Cafe & Give Nothing",
+        "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Dersen Cafe",
+      "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
+    },
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Waves Upon Waves",
+        "url": "https://open.spotify.com/album/10dUOInnYlDRMMFu3I0kDq"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 459667,
+      "name": "Waves Upon Waves",
+      "url": "https://open.spotify.com/track/4zmpoLyjcNudj0LcNw6e5k"
+    },
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "NUEVA TIMBA",
+        "url": "https://open.spotify.com/album/1tEFMXDncFNzDKbMSj5vlA"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 306896,
+      "name": "Cerca y Lejos - Live",
+      "url": "https://open.spotify.com/track/2I87Boyr1bzuQnQrvTKn7c"
+    },
     {
       "added_at": "2025-08-29 04:00:27",
       "album": {
@@ -71,22 +127,6 @@
     {
       "added_at": "2025-08-29 04:00:27",
       "album": {
-        "name": "TRUE BLUE",
-        "url": "https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP"
-      },
-      "artists": [
-        {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "SKY SO HIGH",
-      "url": "https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy"
-    },
-    {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
         "name": "my friend",
         "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
       },
@@ -107,6 +147,22 @@
       "duration_ms": 244404,
       "name": "my friend",
       "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
+    },
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "TRUE BLUE",
+        "url": "https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP"
+      },
+      "artists": [
+        {
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "SKY SO HIGH",
+      "url": "https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy"
     },
     {
       "added_at": "2025-08-29 04:00:27",
@@ -655,26 +711,6 @@
     {
       "added_at": "2025-07-14 00:04:48",
       "album": {
-        "name": "All Time (feat. Tawiah)",
-        "url": "https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Tawiah",
-          "url": "https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "All Time (feat. Tawiah)",
-      "url": "https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br"
-    },
-    {
-      "added_at": "2025-07-14 00:04:48",
-      "album": {
         "name": "Dom Salvador JID024",
         "url": "https://open.spotify.com/album/6uFBKSXZAJTDcYODdkMqum"
       },
@@ -911,22 +947,6 @@
       "duration_ms": 255480,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0maP9hHUwdSArRsD3EI76E"
-    },
-    {
-      "added_at": "2025-07-14 00:04:48",
-      "album": {
-        "name": "Bonito y Sabroso (Live)",
-        "url": "https://open.spotify.com/album/4kcORqYSr61GtWbg1Azx4w"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 234157,
-      "name": "Bonito y Sabroso - Live",
-      "url": "https://open.spotify.com/track/1NtlpQgzqR6nxUdR9a8VEN"
     },
     {
       "added_at": "2025-07-14 00:04:48",

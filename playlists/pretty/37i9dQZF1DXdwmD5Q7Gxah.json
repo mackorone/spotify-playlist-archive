@@ -1,13 +1,29 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: After",
-  "num_followers": 1189967,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: Sophia Stel",
+  "num_followers": 1190024,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC9iJFynM8fCmO5iQtRZXMox55e5",
+  "snapshot_id": "AAAAAJGRiSX1HXwghMC4tx1ImdpingXf",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "How to Win At Solitaire",
+        "url": "https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 268735,
+      "name": "All Seven Seasons",
+      "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
+    },
     {
       "added_at": "2025-08-29 04:26:54",
       "album": {
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
     },
     {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
+    },
+    {
+      "added_at": "2025-09-03 17:34:38",
+      "album": {
+        "name": "Theorem",
+        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theorem",
+      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
+    },
+    {
       "added_at": "2025-08-29 04:26:54",
       "album": {
         "name": "Doing Now",
@@ -55,6 +103,38 @@
       "duration_ms": 191519,
       "name": "Doing Now",
       "url": "https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL"
+    },
+    {
+      "added_at": "2025-09-05 13:20:51",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+    },
+    {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "Stupid Love / Monica",
+        "url": "https://open.spotify.com/album/0JyVGQDo5FQu5UPG0Qh559"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 273185,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/7dfYhAtSwf6WMgXz3hx6ih"
     },
     {
       "added_at": "2025-08-29 04:26:54",
@@ -105,20 +185,36 @@
       "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
     },
     {
-      "added_at": "2025-09-03 17:34:38",
+      "added_at": "2025-09-05 15:26:27",
       "album": {
-        "name": "Theorem",
-        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
+        "name": "It\u2019s Lovely, Come On In",
+        "url": "https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v"
       },
       "artists": [
         {
-          "name": "ear",
-          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Theorem",
-      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
+      "duration_ms": 211680,
+      "name": "We Don't Speak Anymore",
+      "url": "https://open.spotify.com/track/7IfarhuPKJeyOotOzlBxfA"
+    },
+    {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        }
+      ],
+      "duration_ms": 327302,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/0kBXdPTfwoxlmNJkDExPrZ"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -189,6 +285,22 @@
       "url": "https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT"
     },
     {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "Eighteen",
+        "url": "https://open.spotify.com/album/2AuY362OQopMa5eRQnIvDA"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 134548,
+      "name": "Eighteen",
+      "url": "https://open.spotify.com/track/5JX6IPg5g8Pbswf3qRL9FV"
+    },
+    {
       "added_at": "2025-08-15 04:00:26",
       "album": {
         "name": "Man I Need",
@@ -221,6 +333,22 @@
       "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
     },
     {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "The Voices Are Coming Back",
+        "url": "https://open.spotify.com/album/32NlaUNMyhDmt4tb9LNexc"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Delusional On Sunset Blvd",
+      "url": "https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39"
+    },
+    {
       "added_at": "2025-08-22 04:00:32",
       "album": {
         "name": "The Passionate Ones",
@@ -251,6 +379,22 @@
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+    },
+    {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "Sea Song",
+        "url": "https://open.spotify.com/album/6pGKVJyRmucB7uAknxt4e8"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "duration_ms": 218658,
+      "name": "Sea Song",
+      "url": "https://open.spotify.com/track/09QzSazgCpWGzYc1jxH4Cp"
     },
     {
       "added_at": "2025-08-22 22:34:05",
@@ -347,6 +491,22 @@
       "duration_ms": 268725,
       "name": "Closing In",
       "url": "https://open.spotify.com/track/0zOMy6GcTK1CWltATkKTU1"
+    },
+    {
+      "added_at": "2025-09-05 04:30:02",
+      "album": {
+        "name": "Cut Slack",
+        "url": "https://open.spotify.com/album/6Gfxlq97PFLwx3Ji4qRSWY"
+      },
+      "artists": [
+        {
+          "name": "Still Blank",
+          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
+        }
+      ],
+      "duration_ms": 133788,
+      "name": "Cut Slack",
+      "url": "https://open.spotify.com/track/2UaAx2e0UFIWE38YGdaNbS"
     },
     {
       "added_at": "2025-08-01 04:00:40",
@@ -543,22 +703,6 @@
       "duration_ms": 156586,
       "name": "Sliver",
       "url": "https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
-        "name": "End Credits",
-        "url": "https://open.spotify.com/album/5buMlOG40ceSS60U9vnzPf"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "End Credits",
-      "url": "https://open.spotify.com/track/1cVKKjz0xDKOU95zPLeaJ0"
     },
     {
       "added_at": "2025-08-22 04:00:32",

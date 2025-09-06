@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto:Chinoy
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: De Saloon
 
-315 songs - 19 hr 57 min
+316 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 | 2022-04-08 |  |
 | [Nuestra Señal \- En vivo](https://open.spotify.com/track/54Mo7p61nYTpDREGalVNp3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Nuestra Señal \(En Vivo\)](https://open.spotify.com/album/2yaPMPmCDnwRiS5R51Z0UQ) | 4:54 | 2022-04-08 | 2022-07-29 |
 | [Nuestro Amor](https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [Nuestro Amor](https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98) | 4:15 | 2023-02-03 | 2024-08-31 |
+| [Nunca Nunca](https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [NUNCA NUNCA](https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1) | 4:41 | 2025-09-05 |  |
 | [Nunca Se Apaga \- Remaster 2022](https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Fuiste Bueno \(Remaster 2022\)](https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy) | 2:41 | 2023-07-07 |  |
 | [Ojos del Amanecer](https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw) | [Libra CL](https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax) | [El Efecto, Vol\. II](https://open.spotify.com/album/0smAA02meynY4fG1ad1uge) | 5:10 | 2022-04-08 | 2023-03-03 |
 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-04-08 | 2023-03-03 |
@@ -252,7 +253,7 @@
 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 | 2022-04-08 | 2025-08-01 |
 | [Shina Blues](https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [El Inquieto Alarido del Pinganilla Subversivo](https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL) | 5:28 | 2022-04-08 | 2023-03-03 |
 | [Si es de morir](https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Si es de morir](https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9) | 3:44 | 2024-08-30 |  |
-| [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 | 2023-07-14 |  |
+| [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 | 2023-07-14 | 2025-09-06 |
 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 | 2022-04-08 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-04-08 | 2023-03-03 |
 | [Sociedad Capital](https://open.spotify.com/track/2ONPbjbmgkLt7c1yoW0fU5) | [Yosef Salvo](https://open.spotify.com/artist/27w1PE4zUCZPHqRXnoyTRc) | [Sociedad Capital](https://open.spotify.com/album/3Z19V0sgumnxc8phk6LAKQ) | 3:05 | 2022-04-08 | 2023-01-15 |

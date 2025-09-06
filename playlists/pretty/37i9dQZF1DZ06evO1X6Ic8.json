@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 819734,
+  "num_followers": 819792,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABoZp1WEnEOs9awARJCLTHF",
+  "snapshot_id": "aLjWgAAAAADkkaZFIBbXVC6++M5C5t30",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 206737,
+      "name": "Menswear",
+      "url": "https://open.spotify.com/track/1v07ywlVYd02pOCnXRBDNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still... At Their Very Best (Live From The AO Arena, Manchester, 17.02.24)",
+        "url": "https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
+      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -691,22 +723,6 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still... At Their Very Best (Live From The AO Arena, Manchester, 17.02.24)",
-        "url": "https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
-      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
     },
     {
       "added_at": null,

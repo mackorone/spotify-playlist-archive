@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=2DiYZCTNTL62Z9jXR0epyg"> Nali</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,489 likes - 482 songs - 23 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,540 likes - 482 songs - 23 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

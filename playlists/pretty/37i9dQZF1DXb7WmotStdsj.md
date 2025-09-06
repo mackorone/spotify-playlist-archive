@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,759 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,847 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 |
-| 2 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
-| 3 | [Malek Ya Zahri](https://open.spotify.com/track/1J1O8Mnft07pGn8OO08bcJ) | [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Malek Ya Zahri](https://open.spotify.com/album/2AoUR8KBmqLRp5vFbWzhag) | 5:03 |
-| 4 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
-| 5 | [Pour Le Moment Manich Nhas](https://open.spotify.com/track/57y5tBvYYARdxgFEIKftBi) | [Cheb Rami](https://open.spotify.com/artist/7eqYQ9gRxYnCr3gQ1uarEo) | [Pour Le Moment Manich Nhas](https://open.spotify.com/album/1ap64eynUsY3uxbjK9n1Si) | 5:35 |
+| 2 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
+| 3 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
+| 4 | [Pour Le Moment Manich Nhas](https://open.spotify.com/track/57y5tBvYYARdxgFEIKftBi) | [Cheb Rami](https://open.spotify.com/artist/7eqYQ9gRxYnCr3gQ1uarEo) | [Pour Le Moment Manich Nhas](https://open.spotify.com/album/1ap64eynUsY3uxbjK9n1Si) | 5:35 |
+| 5 | [Malek Ya Zahri](https://open.spotify.com/track/1J1O8Mnft07pGn8OO08bcJ) | [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Malek Ya Zahri](https://open.spotify.com/album/2AoUR8KBmqLRp5vFbWzhag) | 5:03 |
 | 6 | [Ya Zahri Sket](https://open.spotify.com/track/5OG8JDBJao7IBSZZR3gl8M) | [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa), [Rami Latinos](https://open.spotify.com/artist/5Br2ck21YmpuBSmgzDLzjm) | [Ya Zahri Sket](https://open.spotify.com/album/0vBKfVJBOQguSvlqQKAFcK) | 5:18 |
 | 7 | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/track/3jyyG3x2WlkQu2V23gWTjl) | [Cheb Badro](https://open.spotify.com/artist/77ajZbWMJ87JLLMVUPZDy3) | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/album/6ogfT1oeL9zSNqfWWjcgxP) | 5:30 |
 | 8 | [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 |

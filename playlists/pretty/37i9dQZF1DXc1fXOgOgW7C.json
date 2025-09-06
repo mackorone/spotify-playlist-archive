@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 50306,
+  "num_followers": 50320,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Soundamerica",
-        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
+        "name": "Locales Calientes",
+        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         },
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Carlos Tarque",
+          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
         }
       ],
-      "duration_ms": 315933,
-      "name": "An\u00f3nimos (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
+      "duration_ms": 247419,
+      "name": "Tan Distintos",
+      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -355,22 +355,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Locales Calientes",
-        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
+        "name": "Soundamerica",
+        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         },
         {
-          "name": "Carlos Tarque",
-          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 247419,
-      "name": "Tan Distintos",
-      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
+      "duration_ms": 315933,
+      "name": "An\u00f3nimos (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "El Tiempo Otra Vez Avanza",
         "url": "https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 169000,
       "name": "Comod\u00edn",
       "url": "https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Leb\u00f3n & Co.",
         "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 207396,
       "name": "Puedo Sentirlo (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "A Punto Caramelo",
-        "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "El Ritmo de la Vida",
-      "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/7sNuGriubnM5iunQGKt24O"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 260760,
       "name": "Apostar al Amor",
       "url": "https://open.spotify.com/track/6PyBNCpOX5uOjKDNjNNgjq"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "A Punto Caramelo",
+        "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "El Ritmo de la Vida",
+      "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
     },
     {
       "added_at": "2024-06-12 22:23:25",

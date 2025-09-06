@@ -4,7 +4,7 @@
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 4 min
+55 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Gimmie A Light](https://open.spotify.com/track/2OanF8uRWtK74rlBlz9VMI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:06 | 2024-08-03 | 2024-08-24 |
 | [Gnarly \- Ice Spice Remix](https://open.spotify.com/track/3wAvAVwMbUG3Bw23M8KMke) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gnarly \(Ice Spice Remix\)](https://open.spotify.com/album/3aC2oeSUYvBKXkTr6RDIwX) | 2:17 | 2025-06-08 |  |
 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 | 2024-08-06 |  |
+| [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 | 2025-09-06 |  |
 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-27 |  |
 | [HIT EM UP!](https://open.spotify.com/track/1IoipRoSTRjCPRQzBYdP4Y) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:28 | 2023-06-07 | 2023-06-16 |
 | [How High?](https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:09 | 2023-07-22 |  |

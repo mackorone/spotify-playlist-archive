@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Laufey",
+  "description": "Feeling dramatic? All eyes on you. Cover: Em Beihold",
   "name": "Limelight",
   "tracks": [
     {
@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 173506,
       "name": "Freeze Your Brain",
       "url": "https://open.spotify.com/track/0QCM97jGFzXZCxsWm3sgQ5"
@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Hot Goblin",
+        "url": "https://open.spotify.com/album/3ehPg84etRc980Up4eqY93"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "Hot Goblin",
+      "url": "https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
@@ -7524,6 +7542,24 @@
       "duration_ms": 168712,
       "name": "Supercynical",
       "url": "https://open.spotify.com/track/4EnLXCLASlK1FWB8Na1ST0"
+    },
+    {
+      "album": {
+        "name": "Suzy Loves Sam",
+        "url": "https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE"
+      },
+      "artists": [
+        {
+          "name": "Erica Manzoli",
+          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165876,
+      "name": "Suzy Loves Sam",
+      "url": "https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE"
     },
     {
       "album": {

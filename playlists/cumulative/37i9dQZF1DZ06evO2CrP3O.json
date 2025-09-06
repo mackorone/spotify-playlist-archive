@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Hot Shot (David Wrench 2025 Mix)",
+        "url": "https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2025-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217997,
+      "name": "Hot Shot - David Wrench 2025 Mix",
+      "url": "https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE"
+    },
+    {
+      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -874,7 +892,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 179613,
       "name": "Soul Train",
       "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"

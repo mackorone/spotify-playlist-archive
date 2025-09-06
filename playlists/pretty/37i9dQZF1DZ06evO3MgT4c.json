@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436635,
+  "num_followers": 436645,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABgvgp8l2vB6dVPuUgEJ5jb",
+  "snapshot_id": "aLjWgAAAAADssdyUm6cRcJuPZqRoFmib",
   "tracks": [
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 144938,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ransom 2",
         "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 274846,
       "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
       "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 144938,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
     },
     {
       "added_at": null,

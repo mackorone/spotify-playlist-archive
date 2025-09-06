@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Haaland936
 
-106 songs - 4 hr 36 min
+108 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,17 +35,19 @@
 | [CC&MO](https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CC&MO](https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge) | 2:35 | 2025-08-21 |  |
 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 | 2025-07-17 | 2025-08-09 |
 | [CUT](https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [CUT](https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe) | 2:31 | 2025-08-21 |  |
+| [DANGEROUS](https://open.spotify.com/track/4HW6FIovTu45BgiV4Ex9tG) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [DANGEROUS](https://open.spotify.com/album/7rkOYL5h8F7YwUxK3UR3Zk) | 2:08 | 2025-09-05 |  |
 | [District](https://open.spotify.com/track/6gmEu6n1ZICPC0TztF7C0R) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [District](https://open.spotify.com/album/4nxzO65DR0aB8Fjba9Rhrb) | 2:22 | 2025-08-28 |  |
-| [DND](https://open.spotify.com/track/1gaYoY58vho96I7PKkoPhF) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [DND](https://open.spotify.com/album/2oCNlevhggqSezUWPe3lI1) | 2:02 | 2025-08-21 |  |
+| [DND](https://open.spotify.com/track/1gaYoY58vho96I7PKkoPhF) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [DND](https://open.spotify.com/album/2oCNlevhggqSezUWPe3lI1) | 2:02 | 2025-08-21 | 2025-09-06 |
 | [DON'T JUDGE](https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [DON'T JUDGE](https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub) | 1:48 | 2025-07-31 |  |
 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 | 2025-07-17 |  |
 | [Doppel H](https://open.spotify.com/track/5OGpkbJvl6TBhLRfHjSzF7) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel H](https://open.spotify.com/album/1d9ixH32tOX4xPAfHN2dfN) | 1:45 | 2025-08-07 | 2025-08-23 |
 | [Dreh den auf](https://open.spotify.com/track/6AJxMwlPrmTOpSpYL2XJko) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:40 | 2025-07-17 |  |
 | [Ein Lied für dich](https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:01 | 2025-08-28 |  |
 | [EMOTION](https://open.spotify.com/track/61CTcyXQ4qbPnYlc6Z2gxz) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [EMOTION / OUTRO](https://open.spotify.com/album/6XcLpQbpUuq54fvCPv9ObA) | 1:37 | 2025-07-17 | 2025-09-05 |
+| [FEFE](https://open.spotify.com/track/51zs69oUGJThcj66YESf4f) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [FEFE](https://open.spotify.com/album/4lTa4MJndJXtlwdxAZTT8C) | 2:52 | 2025-09-05 |  |
 | [FUNKEL](https://open.spotify.com/track/1xhFrd6PF8jLwP9D2yqT2r) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [DALÉ / FUNKEL](https://open.spotify.com/album/3LEXlCtTNzNkfJINtmHRez) | 2:10 | 2025-07-17 | 2025-07-25 |
 | [G.I.N.A\. \(GELDISTNICHTALLES\)](https://open.spotify.com/track/5BMPfhOSNxJ4sgoxjqsYDw) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/5MnXSYnNLHXL9rkTiVcAS8) | 3:00 | 2025-07-17 | 2025-07-25 |
-| [GANGSTAAA \(GLS CLASS\)](https://open.spotify.com/track/1G1YAHObtrsT8CwA8GyP9n) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [GANGSTAAA \(GLS CLASS\)](https://open.spotify.com/album/2THT4i4zVbTvwoF0sLREOH) | 3:14 | 2025-07-17 |  |
+| [GANGSTAAA \(GLS CLASS\)](https://open.spotify.com/track/1G1YAHObtrsT8CwA8GyP9n) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [GANGSTAAA \(GLS CLASS\)](https://open.spotify.com/album/2THT4i4zVbTvwoF0sLREOH) | 3:14 | 2025-07-17 | 2025-09-06 |
 | [GET LOW](https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [GET LOW](https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP) | 2:30 | 2025-08-14 |  |
 | [Gib uns niemals auf](https://open.spotify.com/track/25ZtcdNKE1WBjMrizwlWhO) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Gib uns niemals auf](https://open.spotify.com/album/0mcxYIR8wOT5GVKhkqm2eC) | 2:44 | 2025-09-04 |  |
 | [Habemus Papam](https://open.spotify.com/track/4ZvqT6CSrwnMHCOwzj7ws0) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [<3 MY PEOPLE](https://open.spotify.com/album/4qgCdsO3IplVDjgVYjAhHx) | 2:31 | 2025-07-17 | 2025-09-05 |

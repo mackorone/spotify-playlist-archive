@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 14 | [Bom Amigo](https://open.spotify.com/track/0MY2maHNW1bTTRZrD75qYr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:27 |
 | 15 | [Vibrações Rasta](https://open.spotify.com/track/3x5ZbTeiUxeOS6k3p5rwYf) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:18 |
 | 16 | [Levanta Sua Cabeça](https://open.spotify.com/track/1ixin8ZxtSD8mXaOSxBEDH) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Levanta Sua Cabeça](https://open.spotify.com/album/0kHiC8Iu34JhXoVcH79Ysl) | 3:00 |
-| 17 | [High](https://open.spotify.com/track/6kfZCeHGVpGIXEEYYdsjBy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 2:32 |
-| 18 | [Portal Divino](https://open.spotify.com/track/3op7K5KIqRHn414qISieDb) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:59 |
+| 17 | [Portal Divino](https://open.spotify.com/track/3op7K5KIqRHn414qISieDb) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:59 |
+| 18 | [High](https://open.spotify.com/track/6kfZCeHGVpGIXEEYYdsjBy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 2:32 |
 | 19 | [Vou Queimando](https://open.spotify.com/track/4JKMGo8NqmKAuuR3M0MqHn) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:47 |
 | 20 | [Essência Pura](https://open.spotify.com/track/4b3NtZfP4stIhX4x0i5f1X) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:24 |
 | 21 | [Apenas um Instrumento](https://open.spotify.com/track/2jBAQgqdQWT5G0c4yBebR4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:02 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 55 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 56 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `Ab7WtAAAAADKc7Kv4eSXgs8ZIN59Sg00`
+Snapshot ID: `Ab7caAAAAACerA3PGbfZte6iyQzGYIJV`

@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 120120,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
@@ -6012,7 +6012,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 123697,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/4K1RBpUlnpZkNZjNu8ixAZ"
@@ -7007,6 +7007,28 @@
     },
     {
       "album": {
+        "name": "Que Le Den",
+        "url": "https://open.spotify.com/album/1BUGyIGVVzr3ey9ysV50Ou"
+      },
+      "artists": [
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        },
+        {
+          "name": "PolyRhythm",
+          "url": "https://open.spotify.com/artist/22B7oQnW4uoL75IbCuyoLY"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Que Le Den",
+      "url": "https://open.spotify.com/track/6D2U21wsIfjrGxY0p49yg8"
+    },
+    {
+      "album": {
         "name": "Que Pasa",
         "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
       },
@@ -7110,6 +7132,32 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "album": {
+        "name": "Quiero Una RMX",
+        "url": "https://open.spotify.com/album/5dTI92AT7soVClKWXNT3XH"
+      },
+      "artists": [
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        },
+        {
+          "name": "Dani Masi",
+          "url": "https://open.spotify.com/artist/3FvGw7wM0jzusOJIRyw0VK"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180950,
+      "name": "Quiero Una RMX",
+      "url": "https://open.spotify.com/track/1r6oEr609DFdrqTd4st78i"
     },
     {
       "album": {
@@ -7328,7 +7376,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 151384,
       "name": "Rompe La Pista",
       "url": "https://open.spotify.com/track/56LTUVMz5yoRg6ydjNBVK3"
@@ -8282,6 +8330,32 @@
       "duration_ms": 173760,
       "name": "Tambor",
       "url": "https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm"
+    },
+    {
+      "album": {
+        "name": "Tambora",
+        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150660,
+      "name": "Tambora",
+      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 📸 Miranda!
 
-598 songs - 1 day 6 hr 59 min
+599 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 | 2024-06-13 | 2024-10-17 |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-04-25 | 2024-09-14 |
 | [SE DICE DE MI](https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SE DICE DE MI](https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI) | 2:16 | 2024-10-03 | 2025-02-11 |
-| [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-28 |  |
+| [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-28 | 2025-09-06 |
 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 | 2024-09-02 | 2025-01-17 |
 | [secuestro](https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [dile no a las drogas](https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS) | 3:14 | 2025-06-20 |  |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-31 | 2022-01-28 |
@@ -511,6 +511,7 @@
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-19 | 2022-09-16 |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2022-01-27 | 2022-05-06 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-05 | 2022-10-28 |
+| [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-05 |  |
 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2025-07-24 | 2025-08-29 |
 | [Tengo Una Cadena](https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Tengo Una Cadena](https://open.spotify.com/album/4qwdTvKXGFZVMZxyTwBCuN) | 2:00 | 2025-05-23 | 2025-08-16 |
 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 | 2024-08-01 | 2025-01-10 |

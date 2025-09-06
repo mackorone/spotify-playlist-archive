@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,342 songs - 2 day 21 hr 23 min
+1,345 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,12 @@
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-03-06 | 2021-06-05 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-03-06 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-27 | 2021-06-05 |
+| [All Is Well](https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [All Is Well](https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka) | 3:15 | 2025-09-05 |  |
 | [All My Friends Are Models](https://open.spotify.com/track/34b6933wH4nOqZGMq3EOMX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [All My Friends Are Models](https://open.spotify.com/album/5cbN5Z8hTuRVzVDuzJWyCv) | 4:13 | 2025-08-08 |  |
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-10-30 | 2021-04-03 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-03-05 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 | 2025-01-11 |
+| [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 |  |
 | [All That We Didn't](https://open.spotify.com/track/5HaoB8kmGcrPwPqfFmgIuU) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending](https://open.spotify.com/album/5jlhviN6cMa1XgTNGrVd9Q) | 3:38 | 2020-10-29\* | 2020-11-04 |
 | [All the Animals I Drew as a Kid](https://open.spotify.com/track/3u2jRaRg7kfD6D6LLEo1d9) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 4:04 | 2020-12-12 | 2021-01-27 |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-26 | 2023-09-29 |
@@ -872,6 +874,7 @@
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-19 | 2021-07-31 |
 | [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 | 2022-04-22 | 2023-01-06 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-07-31 | 2021-08-14 |
+| [PALETTE](https://open.spotify.com/track/2Hs9NAaMYwyeE1uJBm72lf) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [PALETTE](https://open.spotify.com/album/6ZQwqriYOAshxtSB1e5fxt) | 3:06 | 2025-09-05 |  |
 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 | 2022-08-05 | 2023-02-14 |
 | [Panic Attack](https://open.spotify.com/track/5aXqav0oqptwqmhdRrH5e8) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Panic Attack](https://open.spotify.com/album/72aADhEzG3mFn55ASNRahw) | 3:14 | 2022-02-04 | 2022-07-30 |
 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 | 2024-10-11 |  |

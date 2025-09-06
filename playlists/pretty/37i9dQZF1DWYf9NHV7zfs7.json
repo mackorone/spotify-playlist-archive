@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Luciano Pereyra & David Bisbal",
-  "num_followers": 66838,
+  "num_followers": 66871,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
+        "name": "Mordisco",
+        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "19 (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
         "name": "Hola Mundo",
         "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 180477,
       "name": "LO QUE ME CAUSA",
       "url": "https://open.spotify.com/track/4QnyTa6dJV0p8FPMEbP3r7"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
-        "name": "Mordisco",
-        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "19 (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
-        "name": "Best Seller",
-        "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 224507,
-      "name": "Fuego y Pasi\u00f3n",
-      "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1407,6 +1403,26 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
+        "name": "Best Seller",
+        "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224507,
+      "name": "Fuego y Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
         "name": "La traici\u00f3n",
         "url": "https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 219750,
       "name": "La traici\u00f3n",
       "url": "https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
-        "name": "Disco Rayado",
-        "url": "https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu"
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 151912,
-      "name": "Disco Rayado",
-      "url": "https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7"
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     }
   ],
   "unique_name": "Esto es Pop",

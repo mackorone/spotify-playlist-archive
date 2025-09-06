@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,716 likes - 41 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,720 likes - 41 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 40 | [No Sigas Llorando](https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [No Sigas Llorando](https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD) | 2:36 |
 | 41 | [La Múcura](https://open.spotify.com/track/5SCtE1ykLbTrEnLT1zAG1c) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Múcura](https://open.spotify.com/album/0T69bIC5Txs5iTT0fBO6sw) | 3:55 |
 
-Snapshot ID: `aLeFAAAAAADNKPSRHRitn0rR3W0GRFVg`
+Snapshot ID: `aLjWgAAAAADp4xL0fKUoJTBtawH1O1hT`

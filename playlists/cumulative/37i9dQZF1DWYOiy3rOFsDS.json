@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Meme del Real en portada.",
+  "description": "Romance a la antig\u00fcita con \u00c7antamarta en portada.",
   "name": "Boleros Pop",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 201829,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
@@ -4192,7 +4192,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 221826,
       "name": "Noche no te vayas",
       "url": "https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD"
@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 211967,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n"
@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209152,
       "name": "Perfume de Gardenias",
       "url": "https://open.spotify.com/track/4LoJdk0njvkUqugRn9fyfo"
@@ -5187,6 +5187,28 @@
     },
     {
       "album": {
+        "name": "nomeolvides",
+        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179328,
+      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
+      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
@@ -5440,7 +5462,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 215583,
       "name": "santa luc\u00eda (impala)",
       "url": "https://open.spotify.com/track/4VwcB4dJZA7fSBWzXuCGb5"
@@ -5552,7 +5574,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 227473,
       "name": "Se Necesitan 2",
       "url": "https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug"

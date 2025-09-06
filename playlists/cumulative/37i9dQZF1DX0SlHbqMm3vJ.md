@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: Salle
 
-836 songs - 1 day 16 hr 52 min
+836 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 | 2022-07-29 |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-10-04 |
 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 | 2024-03-29 |
+| [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 | 2025-09-05 |  |
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-25 | 2024-09-07 |
 | [Ifeoma](https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Ifeoma](https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx) | 2:40 | 2024-03-29 |  |
 | [Ifeoma](https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Ifeoma](https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD) | 2:04 | 2025-02-21 | 2025-04-08 |
@@ -759,7 +760,6 @@
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-04-21 | 2022-08-15 |
 | [Toxic Love](https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Toxic Love](https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w) | 2:15 | 2022-02-10 | 2022-02-14 |
 | [Track 3](https://open.spotify.com/track/0DIRNsqKK3Vng8f4B23BAF) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Next Rated](https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ) | 3:52 | 2023-10-27 | 2023-11-03 |
-| [Track 6](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 0:00 | 2025-09-05 |  |
 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 | 2021-10-14 | 2022-07-27 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-20 | 2023-04-21 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-02 | 2023-06-10 |

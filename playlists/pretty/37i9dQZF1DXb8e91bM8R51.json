@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52791,
+  "num_followers": 52792,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-08-22 17:03:31",
       "album": {
-        "name": "Se7enteen5ive",
-        "url": "https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Se7enteen5ive",
-      "url": "https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs"
-    },
-    {
-      "added_at": "2025-08-22 17:03:31",
-      "album": {
         "name": "DRILLMATIC Heart vs. Mind",
         "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 233093,
       "name": "Eazy (Feat. Kanye West)",
       "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
+    },
+    {
+      "added_at": "2025-08-22 17:03:31",
+      "album": {
+        "name": "Se7enteen5ive",
+        "url": "https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Se7enteen5ive",
+      "url": "https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs"
     },
     {
       "added_at": "2025-08-22 17:03:31",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-08-22 17:03:31",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275162,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2025-08-22 17:03:31",
-      "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+    },
+    {
+      "added_at": "2025-08-22 17:03:31",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 275162,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
     },
     {
       "added_at": "2025-08-22 17:03:31",

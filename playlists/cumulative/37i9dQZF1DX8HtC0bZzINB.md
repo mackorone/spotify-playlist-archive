@@ -4,7 +4,7 @@
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-86 songs - 3 hr 51 min
+87 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-07-08 |  |
 | [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 | 2024-07-08 | 2025-07-11 |
 | [DELALÊ](https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 2:50 | 2023-08-31 | 2024-07-09 |
+| [Dillere Destan](https://open.spotify.com/track/4WVgsEp3WDLZUVU7Zmxxfd) | [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Kod adı: D.E.V](https://open.spotify.com/album/4d3SG95olBXGm823dDxlj9) | 2:41 | 2024-07-08 |  |
 | [Dünya'm](https://open.spotify.com/track/7104DHFH8m0Kmd8FqdPx1h) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Dünya'm 20:24](https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t) | 2:59 | 2023-08-31 | 2024-04-19 |
 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 | 2023-08-31 |  |
 | [Farazi](https://open.spotify.com/track/2PWKveYM9MedkoRechhCCW) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [Farazi](https://open.spotify.com/album/3ZPFEOwJ2x0SDX2Zfq2ov4) | 2:17 | 2024-06-21 | 2024-09-26 |
@@ -57,7 +58,7 @@
 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 | 2024-06-13 |  |
 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 | 2023-08-31 |  |
 | [Melek](https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Melek](https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF) | 2:34 | 2023-08-31 |  |
-| [mucize](https://open.spotify.com/track/3DtiMQR5OcN7ALY6MwGIpP) | [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [mucize](https://open.spotify.com/album/3thqtwdx8FQN2mtojNNkop) | 2:42 | 2023-08-31 |  |
+| [mucize](https://open.spotify.com/track/3DtiMQR5OcN7ALY6MwGIpP) | [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [mucize](https://open.spotify.com/album/3thqtwdx8FQN2mtojNNkop) | 2:42 | 2023-08-31 | 2025-09-06 |
 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 | 2024-07-08 |  |
 | [Nerdesin](https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q) | 2:56 | 2023-08-31 | 2024-04-19 |
 | [Nerdesin](https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1) | 2:56 | 2023-08-31 |  |

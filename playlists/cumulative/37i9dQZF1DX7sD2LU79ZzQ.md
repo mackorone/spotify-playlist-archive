@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: TADI, Kafin Sulthan
 
-1,085 songs - 2 day 21 hr 40 min
+1,086 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Di Akhir Perang](https://open.spotify.com/track/1tqPw8Hf88h24Bpt2SzuYE) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 3:58 | 2024-07-25 | 2024-09-27 |
 | [Di Bawah Hujan](https://open.spotify.com/track/5oDusjhp2lzjKsalkYH17T) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Di Bawah Hujan](https://open.spotify.com/album/6GbZiCFwMS9zDVrdhkXQsC) | 4:15 | 2025-01-23 | 2025-05-09 |
 | [Di Depan Mata](https://open.spotify.com/track/0OVkYfGRgD1hHBCwMgl39y) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Di Depan Mata](https://open.spotify.com/album/6Ryjq3Sbvru0bQhzPZQRwC) | 2:37 | 2024-09-19 | 2024-11-15 |
+| [Di Luar Nalar](https://open.spotify.com/track/3urqoUNbUZ9a3ennQi4Pic) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Di Luar Nalar](https://open.spotify.com/album/6uPS33Zxd1eLzoP21DIsMj) | 3:03 | 2025-09-05 |  |
 | [Di Selatan Jakarta](https://open.spotify.com/track/0cciIoSXupu8RAHqzH5QGu) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Di Selatan Jakarta](https://open.spotify.com/album/4qs9riHgy2aTtESGq52cD1) | 3:50 | 2024-04-18 | 2024-05-17 |
 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 | 2025-02-20 | 2025-04-25 |
 | [Dia](https://open.spotify.com/track/3xZq9WeyJ03rmEOh1kDCbq) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Dia](https://open.spotify.com/album/6zl9ZqHbTJi9JQow5awcYr) | 3:38 | 2025-08-07 |  |
@@ -1044,10 +1045,10 @@
 | [Timbangan](https://open.spotify.com/track/7g8lE3zJj6MhrwCsbUZl1o) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Timbangan](https://open.spotify.com/album/03DSCAa5FpQa9uuuSjro1j) | 3:16 | 2025-01-23 | 2025-03-07 |
 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 | 2025-06-05 | 2025-07-18 |
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
+| [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 |  |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-08-30 |
 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 | 2024-08-15 | 2024-09-27 |
-| [Track 1](https://open.spotify.com/track/3urqoUNbUZ9a3ennQi4Pic) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Di Luar Nalar](https://open.spotify.com/album/6uPS33Zxd1eLzoP21DIsMj) | 0:00 | 2025-09-05 |  |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-08 | 2024-11-29 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-09-06 |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |

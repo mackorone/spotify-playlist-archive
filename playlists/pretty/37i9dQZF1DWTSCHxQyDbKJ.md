@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Darkoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,468 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,467 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 84 | [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 |
 | 85 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 |
 | 86 | [I Wanna Be Loved By You](https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 3:03 |
-| 87 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 |
-| 88 | [Cupid's Bow](https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Cupid's Bow](https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ) | 2:51 |
-| 89 | [Now What?](https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Now What?](https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7) | 3:13 |
-| 90 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
+| 87 | [Cupid's Bow](https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Cupid's Bow](https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ) | 2:51 |
+| 88 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 |
+| 89 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
+| 90 | [Now What?](https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Now What?](https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7) | 3:13 |
 | 91 | [Crush Me Up](https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Crush Me Up](https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm) | 2:30 |
 | 92 | [Babyface](https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH) | 3:26 |
 | 93 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |

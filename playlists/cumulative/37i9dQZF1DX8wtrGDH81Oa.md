@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-395 songs - 18 hr 57 min
+397 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
 | [Alure](https://open.spotify.com/track/0zAHNEIq9KkXLh3dIJ8pgy) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Alure](https://open.spotify.com/album/4wl6APQXBR7ac8IWIkR7Bn) | 2:53 | 2025-08-22 |  |
 | [Amalfi](https://open.spotify.com/track/2BfwEdLt4TWg97w6GBbyRs) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Amalfi](https://open.spotify.com/album/6FmCT0T8CChRDUXJMyhcjI) | 2:28 | 2023-04-21 | 2025-02-08 |
-| [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 |  |
+| [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 | 2025-09-06 |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 | 2023-02-18 |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 | 2023-04-15 |
 | [Antibes \(Edit\)](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP) | [Leo Lemón](https://open.spotify.com/artist/0UV1gZRx5rxnptMwUtFRqQ) | [Antibes \(Edit\)](https://open.spotify.com/album/6yYduz4N7FvAdHT4ZBJObY) | 2:37 | 2022-10-14 | 2025-08-23 |
@@ -57,6 +57,7 @@
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 | 2023-05-27 |
 | [Breezy](https://open.spotify.com/track/0tUs8cRHzmcknzEIaD08a5) | [Aria Kyd](https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs) | [Breezy](https://open.spotify.com/album/1Sjq7j5TbaeOPyOeimHPRb) | 2:17 | 2025-08-22 |  |
 | [Broken Like Me](https://open.spotify.com/track/6y6opfYOZ0PQMV4cLVtCcr) | [Midnight Side Eye](https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3) | [Broken Like Me](https://open.spotify.com/album/0MSaRnZ9MKvn7Yk1tMNs3B) | 2:28 | 2024-03-26 |  |
+| [Brother](https://open.spotify.com/track/5gew3bZFkMWciJhuhZIBpw) | [Valea](https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2) | [Brother](https://open.spotify.com/album/0OI95Xs2W7pqoenb916ePB) | 3:39 | 2025-09-05 |  |
 | [Buller](https://open.spotify.com/track/4cKxVvow3Rd7cb6yAs7kgp) | [Hula Hoops](https://open.spotify.com/artist/5QmlQ9G1MllDh6ilEC2p1Y) | [Buller](https://open.spotify.com/album/64jgYmcwZATDrObL6fDE1k) | 2:37 | 2024-11-07 | 2025-06-19 |
 | [Bungalow](https://open.spotify.com/track/09ipJgU2qrFphh9I3udSiN) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Bungalow](https://open.spotify.com/album/6TnYHvCgw120FlshN6K5lH) | 3:04 | 2024-12-20 |  |
 | [Burnin' \- Edit](https://open.spotify.com/track/18PZJGU3y50qFwcvLgxhzN) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Burnin' \- Edit](https://open.spotify.com/album/55xcEkFt681QTDwpMIAcvC) | 2:20 | 2025-01-24 |  |
@@ -74,7 +75,7 @@
 | [City Heatwave](https://open.spotify.com/track/5WDB1BuVSdgPZTQsGpXnat) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:05 | 2022-04-15 | 2022-05-11 |
 | [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2022-04-15 | 2023-04-22 |
 | [Clear Blue](https://open.spotify.com/track/6sOuXvqt5nl8ruvuTx6HrI) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Bahama Sunrise](https://open.spotify.com/album/2lfjn5YAOArHw60etvE3zB) | 3:04 | 2022-04-15 | 2022-05-11 |
-| [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2022-04-15 |  |
+| [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2022-04-15 | 2025-09-06 |
 | [Close to midnight](https://open.spotify.com/track/5ZBYK7vXdvFd5X6w0nluhm) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [Close to midnight](https://open.spotify.com/album/70ck39951swMtuiMKl0bU8) | 2:53 | 2022-11-25 | 2023-02-18 |
 | [Coastal Whisper](https://open.spotify.com/track/7eCiVG3O4Fnlv0pLHKAZO9) | [Closest Cloud](https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP) | [Coastal Whisper](https://open.spotify.com/album/51aRPoFEmJJYABkef651QE) | 2:33 | 2024-11-07 | 2025-02-08 |
 | [Coquelicot](https://open.spotify.com/track/1yMiMLEVBWals38tiLThLR) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Coquelicot](https://open.spotify.com/album/6i5EmMp0z55VIZsnZUSxLJ) | 2:33 | 2022-04-15 |  |
@@ -307,6 +308,7 @@
 | [Sapphire](https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Sapphire](https://open.spotify.com/album/2vHfkFEiulvbOSBu3XQ9Y4) | 2:28 | 2022-04-15 | 2023-04-22 |
 | [Saturation](https://open.spotify.com/track/2qhR5LsoZ7VFnq0nUHl5HC) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Saturation](https://open.spotify.com/album/3yzI1hRBBfVR4wbJ3csRqt) | 2:36 | 2025-05-30 |  |
 | [Scusi?](https://open.spotify.com/track/3BfBKVyA5mybODVitVRjlZ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Scusi?](https://open.spotify.com/album/5yxPT9nr9otMv4kqsYvomx) | 2:54 | 2024-04-08 |  |
+| [sea mist](https://open.spotify.com/track/3g9kwbPG3p552YnUva9ayN) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [sea mist](https://open.spotify.com/album/7eZ5OwaboGcnqiQHxPWIir) | 2:43 | 2025-09-05 |  |
 | [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 | 2022-04-15 | 2022-05-11 |
 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 | 2022-04-15 | 2024-08-27 |
 | [Sense of space](https://open.spotify.com/track/63Hmij2UQ8aYdrqfIFUE36) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Sense of space](https://open.spotify.com/album/6FSlJy1FFldk7uapUgi99q) | 3:32 | 2023-02-24 | 2024-11-08 |

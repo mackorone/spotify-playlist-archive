@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Karencici
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,945 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,955 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 8 | [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 |
 | 9 | [R&B ME](https://open.spotify.com/track/4a3IJKPfJLG8JulXasAKU5) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin of Stray Kids](https://open.spotify.com/artist/1Ocr2yc1gR3a2a16yqNqal) | [Dear my muse](https://open.spotify.com/album/6w2g6hQzeb5OBJmpIip5ir) | 2:38 |
 | 10 | [Cross The Line](https://open.spotify.com/track/7likOdkfLh54jaWAlXOST3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Cross The Line](https://open.spotify.com/album/1TRUcrO2INobTiEnMz5bKZ) | 2:09 |
-| 11 | [Track 7](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 0:00 |
+| 11 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 12 | [Voicenotes](https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Voicenotes](https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa) | 2:34 |
 | 13 | [simple crush](https://open.spotify.com/track/4mHbjuTUtxENCmpDIVYESj) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [simple crush](https://open.spotify.com/album/6xvk6rcDZHjwsoVW22SxAM) | 3:11 |
 | 14 | [Cashout](https://open.spotify.com/track/7rfThjjv2mwd64ZpgBJDeA) | [Mami Mia](https://open.spotify.com/artist/3RMHJ4MSASEwXx7LoKSiXj), [Trynket](https://open.spotify.com/artist/532KYewibPingKExTDrDbA) | [Cashout](https://open.spotify.com/album/2D7v0gBTS01M1ki2PEcTBV) | 2:56 |

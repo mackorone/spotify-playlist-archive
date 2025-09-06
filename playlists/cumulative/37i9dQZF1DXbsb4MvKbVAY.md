@@ -2,9 +2,9 @@
 
 ### [Ensisoitossa](https://open.spotify.com/playlist/37i9dQZF1DXbsb4MvKbVAY)
 
-> Mielenkiintoisimmat biisit ensisoitossa\. 🧟‍♀️ Kannessa Lady Gaga.
+> Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Justin Bieber.
 
-1,585 songs - 3 day 7 hr 10 min
+1,588 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [GOD \(with Sid Sriram\)](https://open.spotify.com/track/0evhnYBqAagPGFM8KJHNeO) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [GOD/MARRIAGE](https://open.spotify.com/album/3r02puVKfFDTkZgkDjdO04) | 2:11 | 2025-04-17 | 2025-04-25 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-09-05 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2024-11-29 |
+| [Goldmine](https://open.spotify.com/track/0CWlwrbQkmgdf8aAiZeoTA) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Goldmine](https://open.spotify.com/album/2gtGk2dzQdaoxPxugZXKlN) | 2:56 | 2025-09-05 |  |
 | [Goldrush](https://open.spotify.com/track/1AC9rys1AG0BJ5PwnX3mXu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX) | 2:48 | 2025-01-23 | 2025-01-31 |
 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-16 | 2025-04-04 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-10-31 | 2025-01-10 |
@@ -782,6 +783,7 @@
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-16 | 2025-01-24 |
 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 | 2025-06-05 | 2025-06-20 |
 | [Love Like This](https://open.spotify.com/track/0L5U0NqaWN85gU12F0Xw6W) | [VIIO](https://open.spotify.com/artist/7qPuL4RaYtQK8K5BOAOTgn) | [Love Like This](https://open.spotify.com/album/1ShO7B43yyKcgM66fmA0Mg) | 2:01 | 2024-09-26 | 2024-10-04 |
+| [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-05 |  |
 | [LOVELIFE](https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [LOVELIFE](https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq) | 3:05 | 2025-03-27 | 2025-04-04 |
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2024-09-27 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-08-29 |
@@ -1372,6 +1374,7 @@
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-07-02 | 2024-09-13 |
 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-05-08 | 2025-09-05 |
 | [TIPPA x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/3zaDes14AojI2jAze3DdKN) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [TIPPA x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/1wfLF4m6Ur3ESBa4x68eEX) | 2:06 | 2024-07-25 | 2024-08-02 |
+| [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-09-05 |  |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2024-08-09 |
 | [To My Old Version](https://open.spotify.com/track/7IkLVtHgkHnF5L1NVrbZtH) | [WRTR](https://open.spotify.com/artist/1KqodSPx693Hbxj6uf8SMA) | [To My Old Version](https://open.spotify.com/album/2ACuHFSgWwAsULqYwlMOM6) | 2:26 | 2025-03-14 | 2025-03-21 |
 | [Todisteit](https://open.spotify.com/track/02bqxfiXyjrAW9csuJMH7u) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Todisteit](https://open.spotify.com/album/7vQVK8d4GCK6yOyC8EOqIX) | 2:15 | 2025-08-28 | 2025-09-05 |
@@ -1413,7 +1416,7 @@
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2025-03-07 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-03-15 |
 | [type](https://open.spotify.com/track/5fRmPpHmsHngH1XWTFRXl3) | [Yrjänä](https://open.spotify.com/artist/4CmFTG3y5YXHlV7vQ3jvH7) | [aurinkolapsi](https://open.spotify.com/album/5ntOvDw0ZjgennTw8YbPJD) | 3:56 | 2025-08-14 | 2025-09-05 |
-| [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-07 |  |
+| [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-07 | 2025-09-06 |
 | [Tyttöblunttei](https://open.spotify.com/track/2B1ozffmXjPAwaFzYORKZV) | [Matriarkaatti](https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ), [Adikia](https://open.spotify.com/artist/7K6DxJUiPwbMtWkantnPRz), [Mon\-Sala](https://open.spotify.com/artist/563RJHQJRgjoBBSehPAY5Q) | [Tyttöblunttei](https://open.spotify.com/album/6Th6Td4SYUyE5USDgaePaM) | 3:01 | 2025-03-14 | 2025-03-21 |
 | [Tyttöjen sydämii](https://open.spotify.com/track/0NdVrytgIwwMCQaTNOl3as) | [ÄmbÖ](https://open.spotify.com/artist/4G0t9tFkB3aF6Bzx9hSnL9) | [Tyttöjen sydämii](https://open.spotify.com/album/1VldYmNUO39S0Fh7rUXrzE) | 2:50 | 2025-03-20 | 2025-03-22 |
 | [Tyttöjen sydämii](https://open.spotify.com/track/7uFbIVBguQ5MmNnEtsAd9d) | [ÄmbÖ](https://open.spotify.com/artist/4G0t9tFkB3aF6Bzx9hSnL9) | [Hot Girl Summer \- EP](https://open.spotify.com/album/1AeJSPFhOOBtzAx5psgfgK) | 2:51 | 2025-05-15 | 2025-06-06 |

@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Ollie Wride, Siamese Youth, Gunship and more
+> With Siamese Youth, Gunship, PRIZM and more
 
 1,585 songs - 4 day 13 hr 41 min
 

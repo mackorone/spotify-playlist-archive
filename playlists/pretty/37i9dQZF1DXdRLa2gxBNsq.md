@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,619 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,643 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 27 | [La Doloritas o la Incongruencia](https://open.spotify.com/track/1SPug4CXRnPeknVAtopLhK) | [La Doloritas](https://open.spotify.com/artist/3523teAdM8GO0bPlQAyAzd) | [Me Escupió la Lumbre](https://open.spotify.com/album/72XkJBzWKdcx4f40c3xytx) | 1:54 |
 | 28 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 |
 | 29 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 |
-| 30 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
-| 31 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 |
+| 30 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 |
+| 31 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
 | 32 | [HARRERA LEKU BAT](https://open.spotify.com/track/1uApsPmvPTyzr4T4SBTHON) | [Brigade Loco](https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd), [Zea Mays](https://open.spotify.com/artist/00NQwUnyEhXRMG7i0N5UIv) | [HARRERA LEKU BAT](https://open.spotify.com/album/0jxfXOaoffTj6hng0Uljip) | 2:59 |
 | 33 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 |
 | 34 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 46 | [Ya No Me Divierto](https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ya No Me Divierto](https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL) | 3:43 |
 | 47 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
 | 48 | [Enemigo a las Puertas](https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:15 |
-| 49 | [Putos Nazis](https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Putos Nazis](https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO) | 2:17 |
-| 50 | [Manifiesto del Partido de la Gente del Bar](https://open.spotify.com/track/30B2sMwYzEkO7O30R4Ke2v) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [Manifiesto del Partido de la Gente del Bar](https://open.spotify.com/album/0xJHBxCxEi92QN9EMUvnqU) | 3:36 |
+| 49 | [Manifiesto del Partido de la Gente del Bar](https://open.spotify.com/track/30B2sMwYzEkO7O30R4Ke2v) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [Manifiesto del Partido de la Gente del Bar](https://open.spotify.com/album/0xJHBxCxEi92QN9EMUvnqU) | 3:36 |
+| 50 | [Putos Nazis](https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Putos Nazis](https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO) | 2:17 |
 | 51 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
 | 52 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 53 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |

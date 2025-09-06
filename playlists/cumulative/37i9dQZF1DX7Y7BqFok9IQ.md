@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Robert Randolph
 
-377 songs - 1 day 0 hr 33 min
+378 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bright Lights, Big City](https://open.spotify.com/track/4TE1mJzeu3os3j4YcCfkMI) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Mr\. Luck: The Complete Vee\-Jay Singles](https://open.spotify.com/album/2zQv74POvtwU8V7v8FRlAe) | 2:49 | 2024-05-24 | 2024-07-06 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-06-30 |  |
 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 | 2025-04-18 |  |
+| [Burn It To The Ground](https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Burn It To The Ground](https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l) | 3:04 | 2025-09-05 |  |
 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 | 2024-05-24 | 2024-07-06 |
 | [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 | 2025-04-04 | 2025-04-26 |
 | [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 |  |
@@ -340,7 +341,7 @@
 | [The Way I Am](https://open.spotify.com/track/5JuqvuL2doRB6g4ikjWJsj) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [The Way I Am](https://open.spotify.com/album/0ZhLY8EATUuhuHiieavwOQ) | 3:34 | 2024-01-26 | 2024-05-11 |
 | [The Way I Wanna Go](https://open.spotify.com/track/6rJnCbylhS9uUujttwYX4l) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [The Way I Wanna Go](https://open.spotify.com/album/0HgJ551rBgPx9sCY6UAOfK) | 5:48 | 2023-05-05 |  |
 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 | 2020-10-16 | 2024-04-19 |
-| [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 | 2020-10-16 |  |
+| [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 | 2020-10-16 | 2025-09-06 |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 | 2021-11-19 | 2024-04-19 |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Them That Matter Don't Mind](https://open.spotify.com/album/7M77ODabY87tVTnfnPLscn) | 2:49 | 2021-11-12 |  |
 | [Third Eye Witness](https://open.spotify.com/track/0nDWq31XCAiMjiFowRy8J8) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb) | [Third Eye Witness](https://open.spotify.com/album/5stY57R9CRn0feCybn8JGa) | 5:10 | 2021-02-19 | 2022-06-30 |

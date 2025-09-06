@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Luis R Conriquez, Fuerza Regida, Neton Vega
+> Today's top Latin hits, elevando nuestra música\. Cover: Jere Klein, Katteyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,612,775 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,614,229 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [ZAZA](https://open.spotify.com/track/2xbOCLhDRtiyj5r1o9VwwQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [ZAZA](https://open.spotify.com/album/2D4XQVPHW1hdJ2Y8amyliS) | 3:53 |
 | 50 | [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 |
 
-Snapshot ID: `AAAAAJ8YBKFAMdXoeKprDIZo2ovCRsL/`
+Snapshot ID: `AAAAAJ5rnGJdgzO6t5JA45fjNLJUf/O1`

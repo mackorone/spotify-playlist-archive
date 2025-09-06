@@ -4551,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/4ZvwHeUBPjL82SU5QONcha"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164188,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/7Lckkp7PfiPSfwX1TULfY9"
+    },
+    {
+      "album": {
         "name": "Fine Apple",
         "url": "https://open.spotify.com/album/3nxwixOHCqSre8Ycbuypqv"
       },

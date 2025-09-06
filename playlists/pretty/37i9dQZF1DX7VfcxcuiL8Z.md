@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: The Temper Trap
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,218 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,222 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Up All Night](https://open.spotify.com/track/03CAFzT6Niehv1sBnXdcJl) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Up All Night](https://open.spotify.com/album/2irLctfrU53y79OFPygvSP) | 3:38 |
 | 80 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
 
-Snapshot ID: `AAAAAC3V7zFmMz7DnRR5NDRHe9UBfjbn`
+Snapshot ID: `AAAAAPvJ5YWVZIANAjEmJqLBZPnNK0oc`

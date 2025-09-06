@@ -1,13 +1,45 @@
 {
-  "description": "New releases for the kids. Cover: Scott & Mark Hoying",
-  "num_followers": 67825,
+  "description": "New releases for the kids. Cover: Peppa Pig",
+  "num_followers": 68021,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALo47rrbM3bei5Kox5SveTored/A",
+  "snapshot_id": "AAAAAOiBXysT7bVtNnG1qOZerWKTUu7G",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Peppa Meets the Baby: The Deluxe Album",
+        "url": "https://open.spotify.com/album/2t9qTSqwcc8QyjESEeAG6T"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 150863,
+      "name": "Cutest Pig in Town (Evie! Evie!)",
+      "url": "https://open.spotify.com/track/1jwrfl9aZraqdM328OT6Fu"
+    },
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Yo Gabba GabbaLand! (Season 1 - Apple TV+ Original Series Soundtracks - Deluxe)",
+        "url": "https://open.spotify.com/album/0KWmlPWO1h1LR1FgcY4531"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        }
+      ],
+      "duration_ms": 113600,
+      "name": "Wiggle Wiggle While You Work It",
+      "url": "https://open.spotify.com/track/5g38QO3Knj4xPLiB1gf7or"
+    },
     {
       "added_at": "2025-08-29 04:00:28",
       "album": {

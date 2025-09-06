@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Oualid on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,450 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,454 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 67 | [JNSP](https://open.spotify.com/track/2JcX0Jv7nfWb8GxHNRmHqd) | [Karim](https://open.spotify.com/artist/1Ug8yMRic9wUFTBDhzTgxH), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [JNSP](https://open.spotify.com/album/6ANhqRi0RLAi0xZzhT1pW6) | 2:27 |
 | 68 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 |
 | 69 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
-| 70 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
+| 70 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
 | 71 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 |
-| 72 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
+| 72 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
 | 73 | [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 |
 | 74 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
-| 75 | [Salam](https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:21 |
-| 76 | [Bisous](https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Africa Jungle Part.1](https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17) | 3:14 |
-| 77 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
+| 75 | [Bisous](https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Africa Jungle Part.1](https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17) | 3:14 |
+| 76 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
+| 77 | [Salam](https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:21 |
 | 78 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
 | 79 | [Jibouli](https://open.spotify.com/track/1NpScfzlTiJH6dIEa58CWf) | [ASHI](https://open.spotify.com/artist/0UGCSjBTzOrOIl5Yng2wHr) | [Jibouli](https://open.spotify.com/album/2g6kMMrzb3tLAbxGfgMnkF) | 2:12 |
 | 80 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |

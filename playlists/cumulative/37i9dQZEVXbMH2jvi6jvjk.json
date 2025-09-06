@@ -1147,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "Abasemzini",
+        "url": "https://open.spotify.com/album/3Nayxjqvi8EfRTYy7ZGPX3"
+      },
+      "artists": [
+        {
+          "name": "Umketule",
+          "url": "https://open.spotify.com/artist/69trV3Y6hPvHULI7kHXC3y"
+        },
+        {
+          "name": "Jikijiki",
+          "url": "https://open.spotify.com/artist/1NtILDTbvfbNKZF9OIjdCR"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317675,
+      "name": "Abasemzini",
+      "url": "https://open.spotify.com/track/0CJJt0J9SOscYKzETJ0p4d"
+    },
+    {
+      "album": {
         "name": "Icala Le Mpumelelo",
         "url": "https://open.spotify.com/album/61J1H6eXGo2MrfDQ2iBhfo"
       },
@@ -2754,7 +2776,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 415440,
       "name": "Amanxeba",
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
@@ -19372,7 +19394,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 348490,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5ig0RnKG54l8pB6x6PSzDL"
@@ -23560,7 +23582,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 263000,
       "name": "Ithathe - Shenge Version",
       "url": "https://open.spotify.com/track/3NwDK579thyRXH36kNcXSN"
@@ -33820,7 +33842,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 383425,
       "name": "Ngathi Nguye",
       "url": "https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7"
@@ -34378,7 +34400,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 283062,
       "name": "Ngiyakuthanda",
       "url": "https://open.spotify.com/track/3RCMGDpJlWeEgCLhOz63oa"
@@ -40002,7 +40024,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/6txAWGckgEGJIhLjhNdtE9"
@@ -50874,7 +50896,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 397682,
       "name": "Umona (feat. Sykes)",
       "url": "https://open.spotify.com/track/5AROirCx9LJlNF66npXCki"

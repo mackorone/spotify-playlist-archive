@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -5868,7 +5868,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -19116,7 +19116,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 158840,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"
@@ -24212,6 +24212,24 @@
       "duration_ms": 116472,
       "name": "EU MANDEI VOC\u00ca DEITAR",
       "url": "https://open.spotify.com/track/2khQhAOTAff5stb9DPUgUK"
+    },
+    {
+      "album": {
+        "name": "Eu Me Apaixonei",
+        "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
+      },
+      "artists": [
+        {
+          "name": "Vitinho Imperador",
+          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Eu Me Apaixonei",
+      "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
     },
     {
       "album": {
@@ -42820,7 +42838,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 169654,
       "name": "Menino Bonito - Ao Vivo",
       "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
@@ -48236,6 +48254,24 @@
       "duration_ms": 166600,
       "name": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6"
+    },
+    {
+      "album": {
+        "name": "Nen\u00e9m do Pai",
+        "url": "https://open.spotify.com/album/1l30hw8IGS0aOacVe9Nv5v"
+      },
+      "artists": [
+        {
+          "name": "Roger SomdBoys",
+          "url": "https://open.spotify.com/artist/1l51wzbbhiItNO7coAi5WN"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nen\u00e9m do Pai",
+      "url": "https://open.spotify.com/track/3WNvuDLvpIo6F7ODzIYWQG"
     },
     {
       "album": {
@@ -80016,7 +80052,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 143374,
       "name": "You Will See",
       "url": "https://open.spotify.com/track/77iE7LcAR6cmYOd19H0FsK"

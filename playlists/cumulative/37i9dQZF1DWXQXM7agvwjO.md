@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Reality Club \(Indonesia\)
+> Hottest indie sounds from Asia\. Cover: H3F \(Thailand\)
 
 2,160 songs - 5 day 10 hr 44 min
 

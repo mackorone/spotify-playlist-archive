@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19272,
+  "num_followers": 19271,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -236,13 +236,25 @@
           "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
         },
         {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
           "name": "Deemz",
           "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
         }
       ],
-      "duration_ms": 202054,
-      "name": "MAMA POWTARZA\u0141A",
-      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
+      "duration_ms": 193547,
+      "name": "SEXTAPE",
+      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -336,25 +348,13 @@
           "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
         },
         {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
           "name": "Deemz",
           "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
         }
       ],
-      "duration_ms": 193547,
-      "name": "SEXTAPE",
-      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
+      "duration_ms": 202054,
+      "name": "MAMA POWTARZA\u0141A",
+      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "#INDAWOODS",
-        "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
-      },
-      "artists": [
-        {
-          "name": "Sw@da",
-          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
-        },
-        {
-          "name": "Niczos",
-          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
-        }
-      ],
-      "duration_ms": 157331,
-      "name": "Lusterka",
-      "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "#INDAWOODS",
+        "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
+      },
+      "artists": [
+        {
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        }
+      ],
+      "duration_ms": 157331,
+      "name": "Lusterka",
+      "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Targosz",
+          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
+        }
+      ],
+      "duration_ms": 137170,
+      "name": "Welcome To The Forrest",
+      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 338031,
       "name": "Bonzer",
       "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
-      },
-      "artists": [
-        {
-          "name": "Lukasz Targosz",
-          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
-        }
-      ],
-      "duration_ms": 137170,
-      "name": "Welcome To The Forrest",
-      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Zero Waste",
+        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
+      },
+      "artists": [
+        {
+          "name": "Szymon Zawodny Quintet",
+          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Morning Sea",
+      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 361016,
       "name": "F Jak Samolot",
       "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Zero Waste",
-        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
-      },
-      "artists": [
-        {
-          "name": "Szymon Zawodny Quintet",
-          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Morning Sea",
-      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
     }
   ],
   "unique_name": "Fryderyk 2025",

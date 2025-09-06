@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Eli Preiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,356 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,445 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [ich gehör nur dir <3](https://open.spotify.com/track/2vetiieEGPIeMpwvzAhOef) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich gehör nur dir <3](https://open.spotify.com/album/2zPB6CZKTEtajybwsAlrBk) | 2:56 |
 | 9 | [Chat GPT](https://open.spotify.com/track/3lbzJMBosiFEjpyyRBAWrk) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Chat GPT](https://open.spotify.com/album/7wzvLGAY31cAsIowxkhqkp) | 2:41 |
 | 10 | [PRIVILEG](https://open.spotify.com/track/6FBjOetu1LzrfZ9bM5Ko6E) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [PRIVILEG](https://open.spotify.com/album/0H9FLEBrGN0itLpO1PIE6Q) | 1:55 |
-| 11 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 |
-| 12 | [50 stufen grau](https://open.spotify.com/track/5byb8ihCSCwtDnmCxjJl2q) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [50 stufen grau](https://open.spotify.com/album/4d48G0AFCqq3fVYFDYZn3r) | 2:28 |
+| 11 | [50 stufen grau](https://open.spotify.com/track/5byb8ihCSCwtDnmCxjJl2q) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [50 stufen grau](https://open.spotify.com/album/4d48G0AFCqq3fVYFDYZn3r) | 2:28 |
+| 12 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 |
 | 13 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
-| 14 | [Freibadpommes](https://open.spotify.com/track/32QhIks9oWNU67KeciR6Ns) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:02 |
+| 14 | [Heimweh nach mir](https://open.spotify.com/track/4b11bvUyrYMEwRsNdxZ9je) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Heimweh nach mir](https://open.spotify.com/album/3De2K5IyZin56BVK2rX2Ij) | 2:38 |
 | 15 | [\(von hier bis\) Tokio](https://open.spotify.com/track/0NAkVz4iCHuMO7SDV0JFXM) | [prodbypengg](https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(von hier bis\) Tokio](https://open.spotify.com/album/6WCeaUL3BzjGgNNd9mxEvE) | 2:44 |
-| 16 | [Heimweh nach mir](https://open.spotify.com/track/4b11bvUyrYMEwRsNdxZ9je) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Heimweh nach mir](https://open.spotify.com/album/3De2K5IyZin56BVK2rX2Ij) | 2:38 |
+| 16 | [Freibadpommes](https://open.spotify.com/track/32QhIks9oWNU67KeciR6Ns) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:02 |
 | 17 | [hanni & nanni](https://open.spotify.com/track/6FUAKmPbSl1mgwiMmumPik) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [hanni & nanni](https://open.spotify.com/album/7urFnsVP3nk1qj4CR47zw4) | 2:27 |
 | 18 | [Planufer](https://open.spotify.com/track/2pzuTdm3xjArM282QRTd1G) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Planufer](https://open.spotify.com/album/793ncmuxf7YZPi8PFwXhgD) | 2:00 |
 | 19 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Im Kreis](https://open.spotify.com/track/1u4fi5KYBao8HE0Ys6FH64) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Im Kreis](https://open.spotify.com/album/5KZEYP1geGt8xkv4VBKzGE) | 2:25 |
 | 36 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 |
 | 37 | [Down the Hill](https://open.spotify.com/track/3E4xTWDBNclThhYq4SE6H0) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Scary Goat EP](https://open.spotify.com/album/4vI0kWxIHKnId2OQiQCHF8) | 5:34 |
-| 38 | [MP3](https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo) | [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW) | [MP3 M1XTAPE](https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz) | 1:53 |
-| 39 | [Sag Was](https://open.spotify.com/track/5h7eSdgx20arGtQSfftIBw) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Sag Was](https://open.spotify.com/album/74SNenOHsrAiCaxuu6Nxe9) | 3:06 |
+| 38 | [Sag Was](https://open.spotify.com/track/5h7eSdgx20arGtQSfftIBw) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Sag Was](https://open.spotify.com/album/74SNenOHsrAiCaxuu6Nxe9) | 3:06 |
+| 39 | [MP3](https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo) | [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW) | [MP3 M1XTAPE](https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz) | 1:53 |
 | 40 | [Andre Art von Glücklich](https://open.spotify.com/track/5PbQE6ZywqZ0i5pfDpSAi7) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [Andre Art von Glücklich](https://open.spotify.com/album/0rPw3GoLxq0Gc09xEoMfeg) | 2:20 |
 | 41 | [lüge](https://open.spotify.com/track/1JiUWjoYn3GVwJg4dw6dMR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [lüge](https://open.spotify.com/album/4lcZB8nIcnn07Doc32lDqv) | 2:59 |
 | 42 | [Vermiss](https://open.spotify.com/track/1p4rgMDWkD8aSybsJBvHpV) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Vermiss](https://open.spotify.com/album/0iEd8CqblYubrizJ7SQNEK) | 2:09 |

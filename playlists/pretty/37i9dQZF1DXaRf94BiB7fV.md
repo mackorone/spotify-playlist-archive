@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- SHAHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,089 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,103 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
 | 100 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |
 
-Snapshot ID: `AAAAAH8I2Od7zWeJIXwXHbBlT+iMnrqm`
+Snapshot ID: `AAAAALCWMsfl1NPuMqCLZnm6N4TlMzuA`

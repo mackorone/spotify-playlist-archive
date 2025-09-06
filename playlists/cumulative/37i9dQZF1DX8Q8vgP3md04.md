@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-123 songs - 9 hr 7 min
+124 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 | 2018-10-04 | 2023-03-18 |
 | [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:53 | 2018-10-04 | 2022-12-13 |
 | [Hager Alegn](https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:59 | 2018-10-04 | 2023-10-20 |
-| [I Know \(feat\. The Cavemen.\)](https://open.spotify.com/track/1tfNvTi9njogdoorSPO9ZY) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Amén \(The Missing Tapes\)](https://open.spotify.com/album/2BBNmyGZvO5uAIU9pmK0E2) | 3:14 | 2024-10-25 |  |
+| [I Know \(feat\. The Cavemen.\)](https://open.spotify.com/track/1tfNvTi9njogdoorSPO9ZY) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Amén \(The Missing Tapes\)](https://open.spotify.com/album/2BBNmyGZvO5uAIU9pmK0E2) | 3:14 | 2024-10-25 | 2025-09-06 |
 | [It's The Way](https://open.spotify.com/track/0gNZ0esvoOyUovzsOEda3z) | [Ariet Opolo](https://open.spotify.com/artist/5FmywQctVuxQ8igq3R7hl5) | [It's The Way](https://open.spotify.com/album/2WMdkxDLTYFSzaEoDHaUBm) | 3:00 | 2024-10-11 |  |
 | [Jegna](https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98) | [Mastewal Eyayu](https://open.spotify.com/artist/2ycWMnbSfkoPNAjXvo1BvP) | [Jegna](https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ) | 6:02 | 2022-12-12 |  |
 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 | 2022-11-17 | 2024-10-26 |
@@ -131,5 +131,6 @@
 | [Ykomal Woy](https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 4:20 | 2018-10-04 |  |
 | [YOU GOT ME LIKE](https://open.spotify.com/track/33irahuIeYwrWIwdB515O9) | [Nadlyn](https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X) | [YOU GOT ME LIKE](https://open.spotify.com/album/61ocn0mmY1LmggaCxqq89M) | 2:53 | 2023-03-17 |  |
 | [Zemenay Mariye](https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC) | [Lij Michael](https://open.spotify.com/artist/0HLyF2eZjPgqtyMp3pwxce) | [Zaray Yehun Nege](https://open.spotify.com/album/18uNT4E2ZaHcx5tLOoX1EH) | 3:40 | 2018-10-04 | 2022-12-13 |
+| [ይሽሩን ሆይ](https://open.spotify.com/track/7c7iaVbQKElvOFPDrGs1aa) | [Tamagn Muluneh](https://open.spotify.com/artist/2vm3HFXnQpwHLtUpczT4mU) | [ይሽሩን ሆይ](https://open.spotify.com/album/2rRIKYqenIlpAl6JTw7vvM) | 8:02 | 2025-09-05 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

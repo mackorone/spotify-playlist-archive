@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Jon Batiste",
-  "num_followers": 415294,
+  "description": "Featuring that new vintage. Cover: Fujii Kaze",
+  "num_followers": 415292,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACrPoT2rK4SE4etPenxbdr9S3S+q",
+  "snapshot_id": "AAAAAGZetKJLQInCGbX9Wjydo2y83Lp3",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
     {
       "added_at": "2025-08-29 04:00:35",
       "album": {
@@ -45,6 +61,38 @@
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
     },
     {
+      "added_at": "2025-09-05 04:27:58",
+      "album": {
+        "name": "Goldie Boutilier Presents... Goldie Montana",
+        "url": "https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 189459,
+      "name": "Favorite Fear",
+      "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
+    },
+    {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Close to Love",
+        "url": "https://open.spotify.com/album/1XVyMSuOxPS8WncgHa4ZVN"
+      },
+      "artists": [
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Close to Love",
+      "url": "https://open.spotify.com/track/4IV0Yf16Oh4l5eRPX4Vq31"
+    },
+    {
       "added_at": "2025-08-22 04:00:12",
       "album": {
         "name": "Lake Street Dive & Lawrence: The City Winery Sessions",
@@ -65,6 +113,22 @@
       "url": "https://open.spotify.com/track/32xRyR7TB4hM6GuNIFf9gk"
     },
     {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "I Got a Feeling",
+        "url": "https://open.spotify.com/album/0ftERai3KKuXqNTH5ikOfV"
+      },
+      "artists": [
+        {
+          "name": "Benny G",
+          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "I Got a Feeling",
+      "url": "https://open.spotify.com/track/361XkCyE6JIwjPsGYiy3yc"
+    },
+    {
       "added_at": "2025-08-15 04:00:07",
       "album": {
         "name": "Blessing In Disguise",
@@ -81,6 +145,22 @@
       "url": "https://open.spotify.com/track/2NUn1Hn7bCY4ez5UC80yu8"
     },
     {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
       "added_at": "2025-08-22 04:00:12",
       "album": {
         "name": "Flash in the Pan!",
@@ -95,6 +175,22 @@
       "duration_ms": 176665,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7z8q60XsLfBVsYOtRtJ5YK"
+    },
+    {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 195624,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU"
     },
     {
       "added_at": "2025-08-15 04:00:07",
@@ -115,6 +211,22 @@
       "duration_ms": 226400,
       "name": "Anyways, I Love You - Better with Allen",
       "url": "https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t"
+    },
+    {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Honesty Project",
+        "url": "https://open.spotify.com/album/3jQoorsVblS8wPG4DbK6OR"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/5aXZpsS16SJ1pVwgGJ8KPV"
     },
     {
       "added_at": "2025-08-15 04:00:07",
@@ -627,22 +739,6 @@
       "duration_ms": 213148,
       "name": "Good Time Tavern",
       "url": "https://open.spotify.com/track/5ETuNqDyD25GQ6ygYHaDcd"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/352Ay6TGW4fg3hRshekgbV"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "A Bar on the West Side of Town",
-      "url": "https://open.spotify.com/track/1TR6uCeeDkDrWEZ2utFySv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1635,102 +1731,6 @@
       "duration_ms": 133777,
       "name": "I Got Your Love",
       "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "When Everything Went Dark",
-        "url": "https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "ok with it",
-        "url": "https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165793,
-      "name": "ok with it",
-      "url": "https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "we all could use some help",
-        "url": "https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz"
-      },
-      "artists": [
-        {
-          "name": "WRABEL",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 143146,
-      "name": "we all could use some help",
-      "url": "https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "SOS I'm In Love",
-        "url": "https://open.spotify.com/album/1TfVvdnyv7VlZ0I2Xz2Zhk"
-      },
-      "artists": [
-        {
-          "name": "Maddie Poppe",
-          "url": "https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "SOS I'm In Love",
-      "url": "https://open.spotify.com/track/3kF70w7IlIRSHll56WSJeH"
     }
   ],
   "unique_name": "Retro Pop",

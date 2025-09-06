@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 160000,
       "name": "CHAOS WILL BRING PEACE",
       "url": "https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 199314,
       "name": "DIVIDE",
       "url": "https://open.spotify.com/track/3lSXDMUNTbj260IJZ7J0AK"
@@ -6342,6 +6342,24 @@
       "duration_ms": 159000,
       "name": "MAKE BELIEVE",
       "url": "https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF"
+    },
+    {
+      "album": {
+        "name": "MANIAC",
+        "url": "https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64"
     },
     {
       "album": {
@@ -10942,7 +10960,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
@@ -11328,7 +11346,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
@@ -11406,6 +11424,28 @@
       "duration_ms": 311625,
       "name": "you\u2019ve changed, i\u2019ve changed",
       "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
+    },
+    {
+      "album": {
+        "name": "Limerence (feat. Cassyette)",
+        "url": "https://open.spotify.com/album/3V0JV9tIqggFbt34ARp5rT"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        },
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "\u2060Limerence (feat. Cassyette)",
+      "url": "https://open.spotify.com/track/6JbDiWvUaNBRPTF06YJR5j"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT"

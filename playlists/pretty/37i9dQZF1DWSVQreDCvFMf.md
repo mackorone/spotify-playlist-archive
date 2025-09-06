@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: NOBITA
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,109 likes - 151 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,168 likes - 151 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 150 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 |
 | 151 | [Hingalo](https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [Hingalo](https://open.spotify.com/album/2VSGdqPuSWfPIjJS5BvJYk) | 3:39 |
 
-Snapshot ID: `AAAAAHIwS0jkiB8krGOJ/sZV9+rPtUKh`
+Snapshot ID: `AAAAAMHdPlKNN7mV08vqn34Sh+uEJr7S`

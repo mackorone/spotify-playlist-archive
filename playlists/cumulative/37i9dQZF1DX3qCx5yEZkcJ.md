@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-571 songs - 23 hr 42 min
+572 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [day dreamin'](https://open.spotify.com/track/3H44wDdlcJr8hnJ3DmilcP) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [In My Dreams](https://open.spotify.com/album/7qMzOdCIG9I5FfRZajCytg) | 1:52 | 2019-05-26\* | 2022-04-20 |
 | [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-05-07 | 2022-07-29 |
 | [Demons \- Instrumental](https://open.spotify.com/track/2Z4SmUaikRbDi5TLuVWzxx) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [2010 Mixtape \(Instrumentals\)](https://open.spotify.com/album/21jms5cANK6iBdNoGrbY71) | 2:23 | 2024-08-29 | 2024-10-24 |
+| [Dersen Cafe](https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Dersen Cafe & Give Nothing](https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH) | 2:04 | 2025-09-04 |  |
 | [Deux](https://open.spotify.com/track/5mrB9IuYaPXPW0BsgB608r) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Irratio](https://open.spotify.com/album/14CiVUTLsn7p8c0rv0jnDR) | 1:24 | 2019-05-26\* | 2019-08-31 |
 | [Dilladong](https://open.spotify.com/track/4tRm0nd6gsf39bWeismT5l) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Second Home](https://open.spotify.com/album/4D9G2IRMo1zfcL6TXK3rdv) | 2:32 | 2020-09-18 | 2022-07-06 |
 | [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 | 2023-03-10 |
@@ -173,7 +174,7 @@
 | [Feel Good](https://open.spotify.com/track/7cDWVctzKIKwTXRiunybhJ) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/021u2XHlDKLWklYUTTJLZH) | 3:22 | 2023-08-31 | 2023-09-02 |
 | [Feel the Blast](https://open.spotify.com/track/5zSAxoEErEWzQwwBi7z5sb) | [Herring Franky](https://open.spotify.com/artist/27jcQeXU6S0eCLVpnNZjy0) | [Dippin' in the Lab](https://open.spotify.com/album/6rZaUidBL0s3O7jotodjlt) | 1:23 | 2019-05-26\* | 2020-01-14 |
 | [Flor de Terciopelo](https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Flor de Terciopelo](https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6) | 2:15 | 2021-10-31 | 2024-04-26 |
-| [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 | 2025-04-04 |  |
+| [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 | 2025-04-04 | 2025-09-06 |
 | [Flowers](https://open.spotify.com/track/4f7J3uf3NbMluibhVHy1vR) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/4DCZnmEKuQveUtUYSKmuSw) | 3:28 | 2022-06-23 | 2022-07-29 |
 | [Fly](https://open.spotify.com/track/3er5KNqecEwHMz5PPLIT6r) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Fly](https://open.spotify.com/album/4W5dc5jMDJGO5SbaZ8oXew) | 2:34 | 2020-06-29 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-29 |

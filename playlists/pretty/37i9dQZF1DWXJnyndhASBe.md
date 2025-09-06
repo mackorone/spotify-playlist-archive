@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata, Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,003 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,108 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 32 | [LOLA](https://open.spotify.com/track/5AhdjJudenQlp1IrNthII9) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [HOLLYWOOD SMILE](https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx) | 2:46 |
 | 33 | [1DAY IN LA](https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9) | [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [1DAY IN LA](https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N) | 2:24 |
 | 34 | [Lovestory](https://open.spotify.com/track/4eCh76j61UPiiQXNRaqn5K) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Lovestory](https://open.spotify.com/album/4Vn8MPovSDGYeS6EmenvO6) | 2:42 |
-| 35 | [HIGH LIFE 3](https://open.spotify.com/track/6mzGcNfIqKbPXLX7kJ1OXB) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [HIGH LIFE 3](https://open.spotify.com/album/3x3VJBsInkFl30ubtZLwMt) | 3:14 |
+| 35 | [HIGH LIFE 3](https://open.spotify.com/track/6mzGcNfIqKbPXLX7kJ1OXB) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Ejten](https://open.spotify.com/artist/4lzBcsXmq3H2SU6CCuUq31) | [HIGH LIFE 3](https://open.spotify.com/album/3x3VJBsInkFl30ubtZLwMt) | 3:14 |
 | 36 | [Mamacita](https://open.spotify.com/track/2wQ7HWPUHgjrxJC4i62MwG) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX) | [ROCKST4R DELUXE](https://open.spotify.com/album/0lMLPqfCx8TkueptXjUZUn) | 3:03 |
 | 37 | [NYC FREESTYLE](https://open.spotify.com/track/1dJF3LrVxDsI7r6ywhQsRy) | [Bary](https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw), [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho) | [NYC FREESTYLE](https://open.spotify.com/album/0OizU1hTroG0bTAKDuh5DN) | 2:03 |
 | 38 | [MAM PLAN](https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [MAM PLAN](https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu) | 2:42 |

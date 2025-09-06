@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 2T bota pra fvd3  \- é diamante é ouro rose é carro do ano ixi esqueça...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,273 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,244 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [PRETTY LET GIRL](https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 2:44 |
 | 55 | [Desabafo 2](https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Desabafo 2](https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9) | 2:30 |
 
-Snapshot ID: `AAAAAK74PE62NAKCTUhKs0Tonxx6FB+J`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Sega Bodega & Judeline",
+  "description": "Fresh Latin Indie you should know. Cover: Bratty & Barry B",
   "name": "el nuevo indie",
   "tracks": [
+    {
+      "album": {
+        "name": "(ecco) - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5UtBCMMjyJLRxzIRpIRwLf"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245711,
+      "name": "(ecco) - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6goFl44nCkfcZ6ZTyA8DmT"
+    },
     {
       "album": {
         "name": "- es + (menos es m\u00e1s)",
@@ -92,7 +114,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 224175,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/1lm6oDPvXEPiQGbrB5GP1J"
@@ -1814,6 +1836,24 @@
       "duration_ms": 211080,
       "name": "Barco",
       "url": "https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS"
+    },
+    {
+      "album": {
+        "name": "BASTARME",
+        "url": "https://open.spotify.com/album/5Z9eCfV6hMYhRbY3A6s9g8"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "BASTARME",
+      "url": "https://open.spotify.com/track/0W6kbQVX974vQBx0o6yEHp"
     },
     {
       "album": {
@@ -4331,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "CEREMONIA",
+        "url": "https://open.spotify.com/album/0pTQYY91AEEoibVuUH1aQp"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "DOS PARTES",
+      "url": "https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u"
+    },
+    {
+      "album": {
         "name": "le tengo miedo a las alturas",
         "url": "https://open.spotify.com/album/7qH5iAghmKje6Y0oaUb5Kn"
       },
@@ -4690,7 +4748,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 189766,
       "name": "El Gomoso",
       "url": "https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9"
@@ -5780,7 +5838,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 163466,
       "name": "Eternamente Joven",
       "url": "https://open.spotify.com/track/4K8alAvQw15kEGvSzm3WgT"
@@ -10140,7 +10198,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 166852,
       "name": "Mi desastre",
       "url": "https://open.spotify.com/track/3KUhjcqzJZ9FYB0650dJFl"
@@ -12248,7 +12306,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 158181,
       "name": "Ojos De Ajonjol\u00ed",
       "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
@@ -12371,6 +12429,28 @@
     },
     {
       "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
+    },
+    {
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/0P5aLyOMWhXpfVW0iV7nrR"
       },
@@ -12447,6 +12527,28 @@
     },
     {
       "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/2wd2sRJLvslFfGODquw3oG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146176,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/2ru9Lqal7lsrkPMVb9MWi0"
+    },
+    {
+      "album": {
         "name": "Otros Ritmos",
         "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
@@ -12516,6 +12618,28 @@
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
     },
     {
       "album": {
@@ -13320,7 +13444,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 268651,
       "name": "Polvo de hadas",
       "url": "https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g"
@@ -13918,7 +14042,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 129328,
       "name": "quereme",
       "url": "https://open.spotify.com/track/4lUdpTa3Jnruu4oYlQnLrg"
@@ -14216,6 +14340,28 @@
       "duration_ms": 185421,
       "name": "Qu\u00e9 tal? Yo igual",
       "url": "https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3"
+    },
+    {
+      "album": {
+        "name": "nomeolvides",
+        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179328,
+      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
+      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
     },
     {
       "album": {
@@ -15044,7 +15190,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 234685,
       "name": "Si No Est\u00e1s Aqu\u00ed",
       "url": "https://open.spotify.com/track/7ups4b01LIKCzBUEoy3wNG"
@@ -15874,6 +16020,24 @@
       "duration_ms": 184186,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/1tcNSGtEw6tWdZAc7WyF7u"
+    },
+    {
+      "album": {
+        "name": "T.V ADDICT",
+        "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "sustancia",
+      "url": "https://open.spotify.com/track/1O1qQgVD2o2DmOr4Vhoz84"
     },
     {
       "album": {

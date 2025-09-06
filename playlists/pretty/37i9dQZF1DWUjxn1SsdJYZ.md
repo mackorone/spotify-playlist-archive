@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Scribe
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,935 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,965 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 2 | [Leader Freestyle](https://open.spotify.com/track/3swAPdh5P1RdLTamMAPegp) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Leader Freestyle](https://open.spotify.com/album/2R8ckzoElFbkbWEu341Fsn) | 2:26 |
 | 3 | [Flawless](https://open.spotify.com/track/0Z5wZSMRhbQyfLpfu3eZZq) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [D\-Boy 223](https://open.spotify.com/artist/2eqU531iUDaqOoivBdrEOq) | [Flawless](https://open.spotify.com/album/0iFMfNA8oabCI7wq1npZlJ) | 3:09 |
 | 4 | [Hard Feelings](https://open.spotify.com/track/4MCg8Jj8P4tVnNY6MytUrk) | [Pistol Pete & Enzo](https://open.spotify.com/artist/2rii6NNe3ZNmGoLyq6yjUG), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Hard Feelings](https://open.spotify.com/album/4zY2afKKWaLswIPMfrNZQ1) | 2:10 |
-| 5 | [Track 7](https://open.spotify.com/track/2liTiTaaNaWC2XmNU7fo7d) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [BLAK](https://open.spotify.com/album/6eHjrAfJdgKNHijzOxG8db) | 0:00 |
+| 5 | [BLAK](https://open.spotify.com/track/2liTiTaaNaWC2XmNU7fo7d) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Niwa](https://open.spotify.com/artist/5soKNltN8UsPRYg2rdvkad) | [BLAK](https://open.spotify.com/album/6eHjrAfJdgKNHijzOxG8db) | 3:49 |
 | 6 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 |
 | 7 | [Way Up](https://open.spotify.com/track/59U4kEmf0gKGVvvkx639LR) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Way Up](https://open.spotify.com/album/3ZxrPILZhlGnA85EKTkVHt) | 2:44 |
 | 8 | [LIKE THIS LIKE THAT](https://open.spotify.com/track/2yrfdCbkMEjP41qKoejhya) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [LIKE THIS LIKE THAT](https://open.spotify.com/album/2K2L4dD0jF4B274y3duqY0) | 2:31 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 36 | [KMT](https://open.spotify.com/track/65OOUWqaw7lEskzHlYq6V8) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [KMT](https://open.spotify.com/album/6Sh1W44RAbWqswyz09Qz1L) | 2:35 |
 | 37 | [Two Lowkeyy](https://open.spotify.com/track/1AULDjBtD0cE7sHd1B0rFL) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Two Lowkeyy](https://open.spotify.com/album/3drTKspFeouqUVdr9j5Q55) | 2:08 |
 | 38 | [Eastdale Blues](https://open.spotify.com/track/3p6sgWy4mokOAFqztiHYHm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [Eastdale Blues](https://open.spotify.com/album/2DyAII2BLqpgy0aG0Egcmx) | 4:30 |
-| 39 | [Track 1](https://open.spotify.com/track/6SfghhgS2Ve90oVxUqkyQD) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw), [PBS Records](https://open.spotify.com/artist/0f2yScu3ov98xUKke2czf4) | [Stellar](https://open.spotify.com/album/6TsKGXNaD8akGWp30Xn2DL) | 0:00 |
+| 39 | [Stellar](https://open.spotify.com/track/6SfghhgS2Ve90oVxUqkyQD) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw), [PBS Records](https://open.spotify.com/artist/0f2yScu3ov98xUKke2czf4) | [Stellar](https://open.spotify.com/album/6TsKGXNaD8akGWp30Xn2DL) | 2:04 |
 | 40 | [Name My Price](https://open.spotify.com/track/1fT7mEKaIgqBCcCvpHzi2x) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Name My Price](https://open.spotify.com/album/0ye3thyZPRwQzkulMm2phJ) | 2:12 |
 | 41 | [Mary Mary](https://open.spotify.com/track/07PIlg9bAsVeqnmRnm4yL2) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [The Green Room](https://open.spotify.com/album/4NlRbn5ggSYZbLAjfHEF1T) | 3:48 |
 | 42 | [HOOD BE HOT](https://open.spotify.com/track/4s6hbl1lK9nYOABDviWTOq) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Kayem2x](https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h) | [HOOD BE HOT](https://open.spotify.com/album/5hvgW9avPhROfmQpzZMEwJ) | 2:24 |

@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Luke Dean and Omar+
+> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Chris Stussy & Locklead
 
 3,595 songs - 8 day 14 hr 30 min
 

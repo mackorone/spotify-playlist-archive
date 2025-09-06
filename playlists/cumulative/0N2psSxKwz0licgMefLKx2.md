@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
+> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band
 
-370 songs - 20 hr 13 min
+372 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 | 2024-02-02 | 2024-03-23 |
 | [Black Powder](https://open.spotify.com/track/6grkDYOC3z47Zi4w02SVsz) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 1:56 | 2024-03-08 | 2024-05-04 |
 | [Bleed On Paper](https://open.spotify.com/track/6Y7329Uz6FhJS7bRlkOoxy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Evangeline vs\. The Machine](https://open.spotify.com/album/4wJxbo5ycw2j1cDM0LOiMl) | 5:39 | 2025-05-02 |  |
+| [Blue Lights](https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 2:21 | 2025-09-05 |  |
 | [Boots Off](https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 2:41 | 2025-04-11 |  |
 | [Break Mine](https://open.spotify.com/track/1q5ClSxLhJKpOhphiKnpJm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Break Mine EP](https://open.spotify.com/album/4aIwPQUD8tZxiojFNQfAxK) | 4:09 | 2024-03-22 | 2024-06-22 |
 | [Bright Eyed Baby](https://open.spotify.com/track/1dukOLnsSKwq2Msa96BWqv) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Bright Eyed Baby](https://open.spotify.com/album/1TIMyudoGRs4BY2rHmNxVN) | 3:18 | 2025-03-07 | 2025-05-03 |
@@ -156,6 +157,7 @@
 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 |  |
 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 | 2025-03-14 | 2025-04-05 |
 | [I Don't See Why Not](https://open.spotify.com/track/3v1M3elHKiyYFKJ9gF7c2m) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [I Don't See Why Not](https://open.spotify.com/album/3g9SoGCrOgz5mmOEHEp12I) | 3:19 | 2025-04-11 |  |
+| [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 | 2025-09-05 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-10 | 2024-09-21 |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2025-04-25 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-11-03 | 2024-07-20 |

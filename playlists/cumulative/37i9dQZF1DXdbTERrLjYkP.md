@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Chilli Chilton
+> Discover the next wave of talent writing their own songs\. Cover: Noah Rinker
 
-928 songs - 2 day 1 hr 46 min
+930 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [at the end of the world](https://open.spotify.com/track/5ivyykAJXgoxXRTaNli7JB) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [at the end of the world](https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS) | 3:04 | 2023-11-10 | 2024-01-05 |
 | [Attention](https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Attention](https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD) | 3:37 | 2024-01-12 | 2024-08-17 |
 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 | 2022-01-14 | 2022-02-26 |
+| [Avalon](https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Avalon](https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be) | 3:27 | 2025-09-05 |  |
 | [AVERAGE AMERICAN WOMAN](https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO) | [Lily Mae Harrington](https://open.spotify.com/artist/0VUppYTrblZVeLBqEWjnlJ) | [Average American Woman](https://open.spotify.com/album/1zMZpg939xZFcaEqUjjtDP) | 2:39 | 2025-02-28 | 2025-05-03 |
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2022-01-14 | 2022-03-26 |
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2022-01-14 | 2022-03-12 |
@@ -368,7 +369,7 @@
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-10-19 |
 | [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
 | [Hope You're Well](https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Hope You're Well](https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ) | 3:28 | 2022-11-04 | 2023-02-04 |
-| [Horror Movie](https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Horror Movie](https://open.spotify.com/album/6T60F9RIEtDiyj6xDeyelH) | 3:18 | 2025-04-18 |  |
+| [Horror Movie](https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Horror Movie](https://open.spotify.com/album/6T60F9RIEtDiyj6xDeyelH) | 3:18 | 2025-04-18 | 2025-09-06 |
 | [Horses Run](https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Horses Run](https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR) | 3:28 | 2025-08-06 |  |
 | [Hospitals](https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 2:54 | 2025-04-04 | 2025-07-19 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-04-15 | 2022-09-03 |
@@ -542,11 +543,12 @@
 | [Machine Learning](https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Machine Learning](https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX) | 2:35 | 2022-11-04 | 2022-12-03 |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-11-09 |
 | [Mad Hoes](https://open.spotify.com/track/0xI2ngnUf6iG5LgotBmmEd) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:44 | 2022-09-09 | 2022-12-24 |
-| [Made To Believe It](https://open.spotify.com/track/4Tck3kYpK5VA8muP2AE7EH) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Made To Believe It](https://open.spotify.com/album/7myxyV8i3HqgpFPnjYznLg) | 3:10 | 2025-05-02 |  |
+| [Made To Believe It](https://open.spotify.com/track/4Tck3kYpK5VA8muP2AE7EH) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Made To Believe It](https://open.spotify.com/album/7myxyV8i3HqgpFPnjYznLg) | 3:10 | 2025-05-02 | 2025-09-06 |
 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 | 2022-10-07 | 2022-11-12 |
 | [Makes Me Sick](https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Makes Me Sick](https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy) | 2:24 | 2022-03-04 | 2022-04-29 |
 | [man](https://open.spotify.com/track/5Hx1C1ik2gQpoztd8fstot) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [man](https://open.spotify.com/album/4uxMo66hTRBC8YSXOq9hPv) | 3:58 | 2022-09-30 | 2022-12-24 |
 | [Mass\. Ave \(You and I\)](https://open.spotify.com/track/5IoBwcBsA3hK9vAcFvvx2A) | [Delilah Brao](https://open.spotify.com/artist/5dWRkpyqnoYDNouN02NDdk) | [Mass\. Ave \(You and I\)](https://open.spotify.com/album/3B7NIQEdQHvmK8hhZcgXY9) | 2:20 | 2024-10-18 | 2025-01-18 |
+| [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 | 2025-09-05 |  |
 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 | 2022-12-24 |
 | [MAYBE](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 | 2023-12-01 | 2024-08-17 |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 | 2024-07-02 |

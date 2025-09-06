@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Los Tucanes de Tijuana y Chalino Sánchez
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Victor Valverde, Jaziel Avilez
 
-552 songs - 1 day 3 hr 59 min
+553 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 | 2024-07-06 | 2024-11-30 |
 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 | 2024-01-19 | 2024-03-16 |
 | [Arriba Las Manos](https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Arriba Las Manos](https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8) | 2:15 | 2024-03-22 | 2024-04-06 |
-| [ARTURO EL REY](https://open.spotify.com/track/7rsfAHPMFpSufZX21AltYm) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [HNOS ESPINOZA, VOL\. 5](https://open.spotify.com/album/30SeBiikKTNNzmWzPWLPRo) | 2:36 | 2025-07-18 |  |
+| [ARTURO EL REY](https://open.spotify.com/track/7rsfAHPMFpSufZX21AltYm) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [HNOS ESPINOZA, VOL\. 5](https://open.spotify.com/album/30SeBiikKTNNzmWzPWLPRo) | 2:36 | 2025-07-18 | 2025-09-06 |
 | [Asquerosamente Rico](https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:15 | 2025-06-06 | 2025-07-19 |
 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 | 2022-12-16 | 2023-03-18 |
 | [Así Se Usa En Los Ranchos](https://open.spotify.com/track/0LP83DVouCnJ9w1j2TZN8a) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:26 | 2025-02-28 | 2025-03-11 |
@@ -548,6 +548,7 @@
 | [Voy Enfierrado](https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Voy Enfierrado](https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB) | 2:27 | 2024-06-14 | 2025-01-04 |
 | [VVS](https://open.spotify.com/track/2IESJGeddbtwiVr4ug0SN3) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:42 | 2023-06-23 | 2023-07-01 |
 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-06-23 | 2024-02-03 |
+| [Véngame A Ver](https://open.spotify.com/track/2ssBF84DQMpVR22iy3oNrz) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Véngame A Ver](https://open.spotify.com/album/3wO7TwROFubHHQ91PtVmS8) | 2:14 | 2025-09-05 |  |
 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-11-04 | 2022-12-17 |
 | [Ya Fui Negro Ya Fui Blanco](https://open.spotify.com/track/0JfbFYQS9eqKL3g6b02NQ8) | [Alfonso Muñoz](https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Ya Fui Negro Ya Fui Blanco](https://open.spotify.com/album/6RgZ7wQoPWCHchuPKKomLO) | 2:38 | 2025-03-10 |  |
 | [Ya Va Haber Algo](https://open.spotify.com/track/4GrBjsSTRqeKEl4m56YhJ1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Ya Va Haber Algo](https://open.spotify.com/album/388986wIgntQUo8UookHGS) | 2:18 | 2024-01-19 | 2024-02-17 |

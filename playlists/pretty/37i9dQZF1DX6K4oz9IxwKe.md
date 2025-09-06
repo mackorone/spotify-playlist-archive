@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K4oz9IxwKe.md) - [plain]
 
 > Celebrate the musical and cinematic legacy, and illuminate the Roshans with this playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,439 likes - 86 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,443 likes - 86 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,10 +4,11 @@
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-471 songs - 1 day 6 hr 6 min
+474 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/track/6goFl44nCkfcZ6ZTyA8DmT) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/album/5UtBCMMjyJLRxzIRpIRwLf) | 4:05 | 2025-09-05 |  |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-19 | 2023-09-25 |
 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 | 2024-06-26 | 2024-11-22 |
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
@@ -91,6 +92,7 @@
 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-03-25 |
 | [Caramegau](https://open.spotify.com/track/40K1be9EmfpafauTqk1lL9) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramegau](https://open.spotify.com/album/74fjYuvmNGyJJnEOLQIQrr) | 3:16 | 2025-01-24 |  |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2025-01-03 |  |
+| [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 | 2025-09-05 |  |
 | [Cat and Mouse With the Light](https://open.spotify.com/track/1MHEC9hJ7lIHSQfyrHLHtt) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 3:59 | 2023-12-20 | 2024-02-03 |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-24 | 2023-05-24 |
 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-01 | 2024-04-19 |
@@ -232,6 +234,7 @@
 | [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 | 2024-08-07 | 2024-10-25 |
 | [Les Cançons Romàntiques](https://open.spotify.com/track/7chQoiT4gZveXIbSX5tBHe) | [Josep Xortó](https://open.spotify.com/artist/1pRPhN3DsSugpSb7Fwp91z), [The Congosound](https://open.spotify.com/artist/6cQXSYxqqhrk0XloBmtan4) | [Ocells Com Tu](https://open.spotify.com/album/2EGrqsA5FKXfKdXI085gQB) | 4:08 | 2024-01-11 | 2024-05-04 |
 | [Let her go](https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:02 | 2024-02-02 | 2024-06-01 |
+| [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4bPc6kFwklv6xbjlIkSCsT) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BjTQtu7pJSFwr5MeTLXDM) | 3:33 | 2025-09-05 |  |
 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-12-20 |  |
 | [Let Them Bells Ring](https://open.spotify.com/track/5Q8H1439FS6cHNHX7gbubB) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Let Them Bells Ring](https://open.spotify.com/album/1kUem2rJeRdoVwB2UG9nlT) | 2:47 | 2024-08-16 | 2024-12-21 |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-25 | 2024-01-11 |

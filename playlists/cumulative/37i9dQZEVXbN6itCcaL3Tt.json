@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 153931,
       "name": "AJAJE",
       "url": "https://open.spotify.com/track/4J61PATNiyQXS9GnxqLD2K"
@@ -29324,7 +29324,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 179571,
       "name": "Multisport",
       "url": "https://open.spotify.com/track/1ZIscVoYHftgA5STle5cPo"
@@ -38948,7 +38948,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 178064,
       "name": "Przez sen",
       "url": "https://open.spotify.com/track/5H0PwGcPafsYCamSLw33z3"
@@ -42326,7 +42326,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -51667,6 +51667,32 @@
     },
     {
       "album": {
+        "name": "Wo\u0142anie",
+        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Ajron",
+          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
+        },
+        {
+          "name": "Eldo",
+          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192814,
+      "name": "Wo\u0142anie",
+      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
+    },
+    {
+      "album": {
         "name": "Akademia Sztuk Pi\u0119knych",
         "url": "https://open.spotify.com/album/2pzDm1usjCxQGw8nYU8nkZ"
       },
@@ -52486,7 +52512,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

@@ -1,12 +1,12 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: Big Thief",
-  "num_followers": 117904,
+  "num_followers": 117947,
   "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAImEMLkW5cNO6+6uktDwlPWBv9YK",
+  "snapshot_id": "AAAAAAX0fU2fMlH9BgxXq3pj5edibSY3",
   "tracks": [
     {
       "added_at": "2025-09-04 23:05:12",
@@ -124,9 +124,25 @@
           "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 207890,
+      "name": "Mystery Girl",
       "url": "https://open.spotify.com/track/2wnUEDNLhFtbC3T6UB4L68"
+    },
+    {
+      "added_at": "2025-09-05 12:39:43",
+      "album": {
+        "name": "A Life in Numbers",
+        "url": "https://open.spotify.com/album/7Bz3OE6E8xbDp4F36xg1WB"
+      },
+      "artists": [
+        {
+          "name": "Blueboy",
+          "url": "https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Figure of Eight",
+      "url": "https://open.spotify.com/track/1bVWVV8tFwBna9k0nmLVhn"
     },
     {
       "added_at": "2025-09-04 23:05:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,953 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,145 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Sleepin' Bee \- Live](https://open.spotify.com/track/2JHZAzNRrbZb2XV7UoJy8t) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 8:17 |
 | 100 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 |
 
-Snapshot ID: `AAAAAF7IEv1bhcRUaBdtkhr2mICQXcdY`
+Snapshot ID: `AAAAAEQT6cfoWP8QpWqTSDWUYdmThwlp`

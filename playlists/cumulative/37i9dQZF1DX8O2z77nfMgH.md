@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Blessd, Fuera Regida, Ovy On The Drums
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Farruko, Louis BPM
 
 11,240 songs - 24 day 20 hr 5 min
 

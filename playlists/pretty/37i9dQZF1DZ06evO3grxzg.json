@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235386,
+  "num_followers": 235383,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADHquFT9LiZwLgGP6lf4oer",
+  "snapshot_id": "aLjWgAAAAABoD9H7ae68yK78Am/mL9wO",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 173613,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 217226,
       "name": "Veo en ti la luz",
       "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 173613,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj"
     },
     {
       "added_at": null,

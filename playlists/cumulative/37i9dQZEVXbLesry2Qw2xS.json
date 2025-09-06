@@ -6323,6 +6323,28 @@
     },
     {
       "album": {
+        "name": "BRIGITTA",
+        "url": "https://open.spotify.com/album/4MkhlwTWQWEK7cbB3VRAtp"
+      },
+      "artists": [
+        {
+          "name": "jooseppro",
+          "url": "https://open.spotify.com/artist/7gOV81gizKQeukzb4ZOlaz"
+        },
+        {
+          "name": "Lennu",
+          "url": "https://open.spotify.com/artist/76zdHqlv9pOHer64YL3Xxk"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "BRIGITTA",
+      "url": "https://open.spotify.com/track/6fIpM6XFyKCQfrztsabxOF"
+    },
+    {
+      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -13994,7 +14016,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
@@ -19120,7 +19142,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -42514,7 +42536,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"

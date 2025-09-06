@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,935 likes - 150 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,985 likes - 150 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 149 | [black hole sun](https://open.spotify.com/track/5vuHmy1QUl4nV44TTF123r) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [black hole sun](https://open.spotify.com/album/09EIY7Lby5D1Yso9b9h5q2) | 2:24 |
 | 150 | [what was i made for](https://open.spotify.com/track/7ztVb1wBTjjkSJSg8cgmMA) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [what was i made for](https://open.spotify.com/album/3KhgQIQDqinlfOFK3ruHa8) | 3:34 |
 
-Snapshot ID: `AAAAAGf3NWbZMwWdteYZrT3njkv+pGR5`
+Snapshot ID: `AAAAAIYXE4nxW+6jko/eBZz8BNzr7qPu`

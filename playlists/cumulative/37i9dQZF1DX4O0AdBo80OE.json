@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Ricardo P\u00e9rez en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Sabino en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
+    },
+    {
+      "album": {
         "name": "Sr. Ahuevo",
         "url": "https://open.spotify.com/album/7LGNl9hAHJnRyzBMrBHvFa"
       },
@@ -544,7 +562,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 126663,
       "name": "Apunto",
       "url": "https://open.spotify.com/track/2giVdrCuBeS6aZO3pOZTPx"
@@ -1359,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "Costumbre",
+        "url": "https://open.spotify.com/album/5TB8hUF9gIlurfM8sguvhy"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177451,
+      "name": "Costumbre",
+      "url": "https://open.spotify.com/track/2o7Ry05Ujg5TURr0AZSeGE"
+    },
+    {
+      "album": {
         "name": "Cuando la Vi",
         "url": "https://open.spotify.com/album/0GlNVq3q9d3a6DBEoxMOcJ"
       },
@@ -1552,7 +1592,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 193296,
       "name": "DISTANTE (with El Malilla)",
       "url": "https://open.spotify.com/track/2SsriXUrzvmGTdxhgzDeu1"
@@ -2822,6 +2862,24 @@
       "duration_ms": 246480,
       "name": "Me Da Lo Mismo",
       "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
+    },
+    {
+      "album": {
+        "name": "Me Divert\u00ed",
+        "url": "https://open.spotify.com/album/7cwzgCoQjOyCdTXu3cEoIT"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186798,
+      "name": "Me Divert\u00ed",
+      "url": "https://open.spotify.com/track/6xByRQ76Hymu7SrnzpxwGF"
     },
     {
       "album": {

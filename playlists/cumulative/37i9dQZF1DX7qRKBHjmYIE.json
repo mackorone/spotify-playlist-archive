@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Motherflowers.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Monsieur Perin\u00e9.",
   "name": "Mixto",
   "tracks": [
     {
@@ -502,6 +502,24 @@
       "duration_ms": 171279,
       "name": "aguardiente",
       "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
+    },
+    {
+      "album": {
+        "name": "Aguar\u00e1chate",
+        "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156714,
+      "name": "Aguar\u00e1chate",
+      "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
     },
     {
       "album": {
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 190084,
       "name": "ColdS3x",
       "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"

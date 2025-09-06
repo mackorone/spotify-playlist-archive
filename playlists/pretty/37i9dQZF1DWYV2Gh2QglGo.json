@@ -1,12 +1,12 @@
 {
   "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
-  "num_followers": 82321,
+  "num_followers": 82353,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADDUUGlgUQ6iUYQR0LQhF9tCUXqd",
+  "snapshot_id": "AAAAALFUnsAYTjprNUEQcbI6yqXeqKkE",
   "tracks": [
     {
       "added_at": "2025-09-05 00:01:32",
@@ -36,8 +36,8 @@
           "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 141949,
+      "name": "Blue Lights",
       "url": "https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF"
     },
     {
@@ -107,6 +107,22 @@
       "duration_ms": 210103,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3"
+    },
+    {
+      "added_at": "2025-09-05 05:36:13",
+      "album": {
+        "name": "One Trick Pony",
+        "url": "https://open.spotify.com/album/2TenFyX2Skm5PiXvsrZuJz"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 181085,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/74CYjbZ691m6B1EWX929uz"
     },
     {
       "added_at": "2025-09-05 00:01:32",

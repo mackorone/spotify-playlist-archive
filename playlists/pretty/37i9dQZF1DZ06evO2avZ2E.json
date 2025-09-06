@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3093,
+  "num_followers": 3096,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABr8qQnxuO5TTHCCaT9qrA8",
+  "snapshot_id": "aLjWgAAAAABleim+P3ra9AFqxvt+SoRw",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Q.I.S",
-        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 223910,
-      "name": "Q.I.S - feat. maye",
-      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Libro Abierto",
         "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 216930,
       "name": "Quiero Verte Hoy",
       "url": "https://open.spotify.com/track/1dt0BtckTIj5VYuKE89oTm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Q.I.S",
+        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 223910,
+      "name": "Q.I.S - feat. maye",
+      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
       "duration_ms": 203633,
       "name": "Hasta la Fantas\u00eda",
       "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 94000,
+      "name": "presente",
+      "url": "https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

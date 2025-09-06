@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,266 likes - 122 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,393 likes - 123 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 120 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 |
 | 121 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 |
 | 122 | [go \(feat\. Sam Fischer\)](https://open.spotify.com/track/3ZqohZNsr8U58usomfXpCO) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [go \(feat\. Sam Fischer\)](https://open.spotify.com/album/28U01akPQLKmVWm7Hwhu8A) | 3:35 |
+| 123 | [Fig Tree](https://open.spotify.com/track/7Lckkp7PfiPSfwX1TULfY9) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Fig Tree](https://open.spotify.com/album/4ZvwHeUBPjL82SU5QONcha) | 2:44 |
 
-Snapshot ID: `AAAAAEMCw4i1ldTWDj1q3ITvKHH1m6WF`
+Snapshot ID: `AAAAAJtK+zCTtl7KH9BmEIlAYKuKdvKi`

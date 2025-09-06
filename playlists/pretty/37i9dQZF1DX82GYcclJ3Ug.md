@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Balu Brigada
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Colony House
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,244 likes - 130 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,045 likes - 130 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 129 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
 | 130 | [You Don't Need A Reason To Call](https://open.spotify.com/track/2bQAcZGKowiLeaQEQnoUsr) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Don't Need A Reason To Call](https://open.spotify.com/album/3Pecoevi4Cv6riwtyI6oXV) | 3:49 |
 
-Snapshot ID: `AAAAAA5seoybaBTpRTFSTycE806q4gwS`
+Snapshot ID: `AAAAABKsWKNcKj9NE112dQY2UEcqRMaR`

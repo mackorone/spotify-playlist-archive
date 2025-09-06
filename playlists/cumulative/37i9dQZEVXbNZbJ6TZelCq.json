@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 185379,
       "name": "AZALEEA",
       "url": "https://open.spotify.com/track/7mBpvzJY2ETgnYo1yXc923"
@@ -8465,6 +8465,24 @@
     },
     {
       "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
+    },
+    {
+      "album": {
         "name": "Complicat",
         "url": "https://open.spotify.com/album/3a4PL5Tv3AwIklaZyudU5B"
       },
@@ -9242,7 +9260,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 116666,
       "name": "C\u00e2nd o v\u0103d",
       "url": "https://open.spotify.com/track/45HwQwPD7BX52MBG6B5O04"
@@ -14300,7 +14318,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4Hnz28zV4yVyc2J7U3ZR0x"
@@ -15118,7 +15136,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -16727,6 +16745,24 @@
     },
     {
       "album": {
+        "name": "Hai tu Maria",
+        "url": "https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139008,
+      "name": "Hai tu Maria",
+      "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
+    },
+    {
+      "album": {
         "name": "Centaur",
         "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
       },
@@ -17206,7 +17242,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 152459,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/5ucI5OWW5VlzU9jdZmTQ1W"
@@ -23250,7 +23286,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -43326,7 +43362,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -43700,6 +43736,28 @@
       "duration_ms": 173684,
       "name": "xcx",
       "url": "https://open.spotify.com/track/40kGVC92nyBYVfJth2qvm2"
+    },
+    {
+      "album": {
+        "name": "Yabadabadu",
+        "url": "https://open.spotify.com/album/1KOF6yA8i44rieKvHeiPt1"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139772,
+      "name": "Yabadabadu",
+      "url": "https://open.spotify.com/track/2TGBsAo4RNtdV1EFH9kbpc"
     },
     {
       "album": {
@@ -44360,7 +44418,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 146938,
       "name": "\u00cemi place c\u00e2nd - From \"Situationship\"",
       "url": "https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L"

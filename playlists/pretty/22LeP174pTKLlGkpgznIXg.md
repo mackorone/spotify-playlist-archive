@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22LeP174pTKLlGkpgznIXg.md) - [plain]
 
 > grateful for the beauty.
 
-[TatayButo](https://open.spotify.com/user/12142804159) - 20 likes - 2,690 songs - 6 day 6 hr 27 min
+[Flame Prince](https://open.spotify.com/user/12142804159) - 20 likes - 2,690 songs - 6 day 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

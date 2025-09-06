@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,592 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,600 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 40 | [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 |
 | 41 | [So High School](https://open.spotify.com/track/1GP8VW5Wk2w2obkWjGCGXd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/1d8W5sDOh6xY7y6UYp2rcg) | 3:48 |
 | 42 | [Diet Pepsi \- Live from 2025 Las Culturistas Culture Awards](https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Diet Pepsi \(Live from 2025 Las Culturistas Culture Awards\)](https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq) | 3:14 |
-| 43 | [Sippin](https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6) | [Milco](https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l), [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [Sippin](https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu) | 2:38 |
+| 43 | [Sippin \(Milco Remix\)](https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [Sippin \(Milco Remix\)](https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu) | 2:38 |
 | 44 | [Wah Yo Deh Pan](https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [Wah Yo Deh Pan](https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75) | 2:22 |
 | 45 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 |
 | 46 | [Punkrocker \(feat\. Iggy Pop\) \- As featured in Superman](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |

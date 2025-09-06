@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno al mando de ITHAN NY.
+> La casa del trap chileno al mando de Lleflight.
 
-294 songs - 14 hr 56 min
+295 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Queremo Ma](https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Queremo Ma](https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA) | 2:33 | 2023-07-28 |  |
 | [QUICKIE](https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUICKIE](https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig) | 3:05 | 2024-05-10 |  |
 | [Quienes Son](https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT) | [BMF Squad](https://open.spotify.com/artist/6NGIhWQNSCQv07Y3L8fRnE), [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Jokker Liricis](https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA), [Andrés Slater](https://open.spotify.com/artist/6F0XGx9f0asxjfG3WZj0nJ) | [Quienes Son](https://open.spotify.com/album/6ZoKBoMrztP3iffJPAwT0H) | 3:51 | 2022-01-20 | 2022-03-18 |
+| [Quiénes son ellos](https://open.spotify.com/track/3nngro5oHgiJlVZsNj35oL) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [Quiénes son ellos](https://open.spotify.com/album/6ga66tawgUuungmu1y9XeJ) | 3:35 | 2025-09-05 |  |
 | [RACE](https://open.spotify.com/track/6flQYfHgCMham7OPXa7qUG) | [Lil Snow](https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [RACE](https://open.spotify.com/album/6blNttxC90OPCTV67BHcgn) | 2:11 | 2023-09-01 | 2024-07-13 |
 | [REELS](https://open.spotify.com/track/2mjomuPkuvJvmm4oxESQXn) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:15 | 2024-05-31 |  |
 | [RICH NENE](https://open.spotify.com/track/4RczdDangpVwvMgSLbaxhS) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Memory](https://open.spotify.com/artist/3f4jSS7F4CvqpL1a63fU0u) | [YOUNG SLIME](https://open.spotify.com/album/6FmWDB2ETp6kERs5Hz9nSL) | 2:24 | 2025-06-27 |  |

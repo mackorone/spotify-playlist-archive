@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Vitão
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Os Garotin
 
-417 songs - 19 hr 52 min
+418 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2edjshjBUtVkfILZP3ATDR) | 3:03 | 2024-03-06 | 2024-04-13 |
 | [Ai Que Calor](https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:24 | 2024-11-08 | 2025-05-17 |
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-07-15 |
-| [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 | 2025-07-25 |  |
+| [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 | 2025-07-25 | 2025-09-06 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-05 | 2024-11-23 |
 | [Alibi Pt\. 2 \(with Anitta, Pabllo Vittar & Yseult\)](https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi Pt\. 2 \(with Anitta, Pabllo Vittar & Yseult\)](https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm) | 2:56 | 2024-09-06 | 2025-04-29 |
 | [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 | 2024-01-22 | 2024-03-30 |
@@ -86,6 +86,7 @@
 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 | 2024-08-21 |  |
 | [CALCINHA](https://open.spotify.com/track/035u3dyaYDS9AXUNLFD5af) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [CALCINHA](https://open.spotify.com/album/4XjW0haEoeMTh7FbKArR6x) | 2:14 | 2022-02-18 | 2022-03-12 |
 | [calor do momento](https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:19 | 2024-05-13 | 2024-12-21 |
+| [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 | 2025-09-05 |  |
 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 | 2023-09-08 | 2024-04-19 |
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-08-16 | 2025-01-11 |
 | [Cancelaram o Carnaval](https://open.spotify.com/track/3gUs7mbRVLaGAKOcSuUHXU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Cancelaram o Carnaval](https://open.spotify.com/album/7qkynGkf30AuUc7jbPaedY) | 2:21 | 2022-03-18 | 2022-06-04 |

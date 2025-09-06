@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles, Teto & Ryu entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,818 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,853 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 48 | [Namorar Dá Medo](https://open.spotify.com/track/5n3RfToptMuNzW0BGRn9Oa) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [WILLZONE](https://open.spotify.com/artist/3lhyaO9a9uxjZh8Q7tcKg5), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Namorar Dá Medo](https://open.spotify.com/album/7neSJ0Udu8lXAzGUOJ7Kad) | 2:52 |
 | 49 | [Eu Vou Vencer](https://open.spotify.com/track/702bq8Ud8dIxysgrRvTqv0) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Eu Vou Vencer](https://open.spotify.com/album/2Q1ojLgXp6qbjmhEhonNeJ) | 4:17 |
 | 50 | [Como Seria? / Amor Sóbrio](https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [ALTA COSTURA](https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ) | 3:03 |
-| 51 | [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 |
+| 51 | [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [Sheka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 |
 | 52 | [O Sangue](https://open.spotify.com/track/2A8h4FG29NPaqGQxOmBM5n) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I) | [O Sangue](https://open.spotify.com/album/2X5ov3IHICXyojINXYvJmz) | 4:53 |
 | 53 | [Ride or Die](https://open.spotify.com/track/1ZBsMNJbdCaAVdzk0P4PV2) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Ride or Die](https://open.spotify.com/album/1ZCksR7ShWHGFFpVWhofcM) | 3:48 |
 | 54 | [Cara a cara](https://open.spotify.com/track/5qA0JrW3jOR8OOBAkmEQyQ) | [SlimeLifeBaby](https://open.spotify.com/artist/5an3YOg8y5hF13ePDpGdqz), [Mariela](https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY) | [Cara a Cara](https://open.spotify.com/album/1WUCsWhdMTgKkfdDZkkkjw) | 3:10 |

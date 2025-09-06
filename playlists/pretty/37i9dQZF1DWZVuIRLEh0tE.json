@@ -1,28 +1,32 @@
 {
   "description": "pq no to' e' dembow en rd loko. Portada: Huan62",
-  "num_followers": 289014,
+  "num_followers": 289129,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADsv+/RhEtHBVWGtvcvk9Vn0f7Xz",
+  "snapshot_id": "AAAAADBx6RCeoxd0uF6zCusXOX994SYo",
   "tracks": [
     {
-      "added_at": "2025-05-09 04:00:02",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Chiquita",
-        "url": "https://open.spotify.com/album/5Sz2DWxHFfQRgU0KXWFX9X"
+        "name": "Pa Tripea",
+        "url": "https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL"
       },
       "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
         {
           "name": "Huan62",
           "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
         }
       ],
-      "duration_ms": 116493,
-      "name": "Chiquita",
-      "url": "https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql"
+      "duration_ms": 133669,
+      "name": "Pa Tripea",
+      "url": "https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -101,6 +105,38 @@
       "url": "https://open.spotify.com/track/3HBKC7ziF2MyZVbCpRnepX"
     },
     {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/1n64N2o7GxBsT700Zqvgor"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/6OiLsc7FEiM9mLwW3W92cz"
+    },
+    {
+      "added_at": "2025-05-09 04:00:02",
+      "album": {
+        "name": "Chiquita",
+        "url": "https://open.spotify.com/album/5Sz2DWxHFfQRgU0KXWFX9X"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 116493,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql"
+    },
+    {
       "added_at": "2025-08-22 04:00:21",
       "album": {
         "name": "Regular",
@@ -123,26 +159,6 @@
       "duration_ms": 172806,
       "name": "Regular",
       "url": "https://open.spotify.com/track/5rMQIrnAJ9EKNPsNVUlykm"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Pa Tripea",
-        "url": "https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL"
-      },
-      "artists": [
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        },
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 133669,
-      "name": "Pa Tripea",
-      "url": "https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -179,6 +195,22 @@
       "duration_ms": 147911,
       "name": "Gangsta Shorty",
       "url": "https://open.spotify.com/track/7mO3Q6TKpsrwzXAMZa96Tu"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Pasao De Famarcia",
+        "url": "https://open.spotify.com/album/1Yf5V5fgbsOjFzh5r6elfR"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Pasao De Famarcia",
+      "url": "https://open.spotify.com/track/2wRSyhkTCLDXXAalScPkwH"
     },
     {
       "added_at": "2024-03-27 20:37:44",
@@ -261,6 +293,22 @@
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
     },
     {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Huracan",
+        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
+      },
+      "artists": [
+        {
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Envenenau",
+      "url": "https://open.spotify.com/track/4Ailfne6VKzKbVTunFs9Ih"
+    },
+    {
       "added_at": "2024-04-25 22:06:48",
       "album": {
         "name": "Soltera",
@@ -291,30 +339,6 @@
       "duration_ms": 122878,
       "name": "What You Know Bout Luv",
       "url": "https://open.spotify.com/track/20zIs9JbrwJk5HGalVMenf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "Wao Que Nota",
-        "url": "https://open.spotify.com/album/1eDokj3O7VRFTkv8joKuNb"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "La changa 220",
-          "url": "https://open.spotify.com/artist/7ui0a41HlWfQYydN2d2D6F"
-        },
-        {
-          "name": "Breyco En Producidera",
-          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "Wao Que Nota",
-      "url": "https://open.spotify.com/track/2Llwpxp4wOMLe0lX4Zxgt9"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -379,6 +403,26 @@
       "duration_ms": 158241,
       "name": "Cuero Caro",
       "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "7 de abril",
+        "url": "https://open.spotify.com/album/48Jgpemi3KYTqfpC22FwKa"
+      },
+      "artists": [
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 267391,
+      "name": "7 de Abril",
+      "url": "https://open.spotify.com/track/68o8okDuNV7ng1I24JakMY"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -497,6 +541,26 @@
       "url": "https://open.spotify.com/track/2sWu7L9hdXkJysDNhzvRWV"
     },
     {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4lKN4u3uhmZH86wE9K5XKK"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "INFINITO",
+          "url": "https://open.spotify.com/artist/0g3z31CSoJMl1S9SCJiuue"
+        }
+      ],
+      "duration_ms": 163028,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/4zcb1tsfs9J8bBxmkdbEeb"
+    },
+    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Solo",
@@ -531,34 +595,6 @@
       "duration_ms": 134378,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/3bXjpvN3TakMh5wbswVN4K"
-    },
-    {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "My TT Queen",
-        "url": "https://open.spotify.com/album/1LpLQgZMDYMxgffDXdAcCO"
-      },
-      "artists": [
-        {
-          "name": "MM503",
-          "url": "https://open.spotify.com/artist/5BzC8OfEp9k54bC31auCEs"
-        },
-        {
-          "name": "Jhen",
-          "url": "https://open.spotify.com/artist/5bwOz1Bvv84F1G1VUqrPAh"
-        },
-        {
-          "name": "Brian Blown",
-          "url": "https://open.spotify.com/artist/2HETuCvSjHl17OR8aPxGDg"
-        },
-        {
-          "name": "Tauzen",
-          "url": "https://open.spotify.com/artist/2HziavCwKOyaTWqpnrlV05"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "My TT Queen",
-      "url": "https://open.spotify.com/track/6IYGKpCgLKiiUq9DyRtnzg"
     },
     {
       "added_at": "2024-04-01 19:33:45",
@@ -625,28 +661,24 @@
       "url": "https://open.spotify.com/track/2icqHLRVMiu3cy8JlZBDAM"
     },
     {
-      "added_at": "2025-08-22 04:00:21",
+      "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "La Menor",
-        "url": "https://open.spotify.com/album/1G4GT2QrcrFUkX9NfjzVGI"
+        "name": "Como Viven Los Ricos (Remix)",
+        "url": "https://open.spotify.com/album/25IZkTfsrvYBZ9yRLq2KWi"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Phat Cobra",
+          "url": "https://open.spotify.com/artist/6KKKzbQdZQKqODD4q8f1V5"
         },
         {
-          "name": "La Sadica",
-          "url": "https://open.spotify.com/artist/1ADU7q520JYPBdxdLHB57A"
-        },
-        {
-          "name": "Waldo Calle",
-          "url": "https://open.spotify.com/artist/7CT4Jd4XguKvKPaBJSENkL"
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
         }
       ],
-      "duration_ms": 187090,
-      "name": "La Menor",
-      "url": "https://open.spotify.com/track/53iVCSalZskIjNZ6VDVd2v"
+      "duration_ms": 189056,
+      "name": "Como Viven Los Ricos - Remix",
+      "url": "https://open.spotify.com/track/7bcsxr9OPqdWHfu5OetUkQ"
     },
     {
       "added_at": "2025-07-11 04:00:18",
@@ -789,6 +821,26 @@
       "url": "https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7"
     },
     {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/5MBOQjNieIA6MR5V7yW9Up"
+      },
+      "artists": [
+        {
+          "name": "Keyviem",
+          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
+        },
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "duration_ms": 114352,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/1BDJpsj5liY3f4J7nLI47L"
+    },
+    {
       "added_at": "2025-03-21 04:00:51",
       "album": {
         "name": "Toto Lindo",
@@ -809,30 +861,6 @@
       "url": "https://open.spotify.com/track/5JZTKJNb9rEBVrTaeGmzXR"
     },
     {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "En Baja",
-        "url": "https://open.spotify.com/album/3rsg9p8hV7LOgRfJjZH5Z4"
-      },
-      "artists": [
-        {
-          "name": "La Baby",
-          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
-        },
-        {
-          "name": "Mapa Negro",
-          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
-        },
-        {
-          "name": "Dimelo Tyrone",
-          "url": "https://open.spotify.com/artist/6Q4JnBBGlOtBf6NUDzVxeu"
-        }
-      ],
-      "duration_ms": 124719,
-      "name": "En Baja",
-      "url": "https://open.spotify.com/track/2mb1H353P7VQb2Fk91hceK"
-    },
-    {
       "added_at": "2025-05-09 04:00:02",
       "album": {
         "name": "Jordan",
@@ -847,26 +875,6 @@
       "duration_ms": 147000,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/01lBbwfpFzwaPE1UA5PBCO"
-    },
-    {
-      "added_at": "2025-06-20 04:00:42",
-      "album": {
-        "name": "Mi Sicaria Mala",
-        "url": "https://open.spotify.com/album/0PFwqmo3Zi8Pfy7Y0Q5fP0"
-      },
-      "artists": [
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        },
-        {
-          "name": "Puntico",
-          "url": "https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Mi Sicaria Mala",
-      "url": "https://open.spotify.com/track/63mxvbYgnMfrggfZwWVhlj"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -965,36 +973,20 @@
       "url": "https://open.spotify.com/track/1BNzMJ3cpGleoMeDsSZ6p2"
     },
     {
-      "added_at": "2025-06-06 04:00:15",
+      "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "Haciendo Tiempo",
-        "url": "https://open.spotify.com/album/2oRqBxHb8rtupT8qj9iACN"
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/5UfMKC5dJ4AIAR6WPkAngY"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
         }
       ],
-      "duration_ms": 150764,
-      "name": "Haciendo Tiempo",
-      "url": "https://open.spotify.com/track/1nhukGywq6qtCMHPhCaDKp"
-    },
-    {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "Manda eso",
-        "url": "https://open.spotify.com/album/3JAiA1ERdOxS1JA4s5JP6o"
-      },
-      "artists": [
-        {
-          "name": "Negrette Game Over",
-          "url": "https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43"
-        }
-      ],
-      "duration_ms": 113580,
-      "name": "Manda eso",
-      "url": "https://open.spotify.com/track/4xQL7kfyytVUkIOkkPbsiN"
+      "duration_ms": 107339,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0anUN5hO584TVu17CDRmLW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1117,6 +1109,22 @@
       "url": "https://open.spotify.com/track/2yK0YmJ0S1U98xsn1coMzo"
     },
     {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Mi Musa",
+        "url": "https://open.spotify.com/album/180FzWTr0dly9JJwiQ5d9U"
+      },
+      "artists": [
+        {
+          "name": "G Money",
+          "url": "https://open.spotify.com/artist/7ezDtkwfFIQVAmveAw4lDZ"
+        }
+      ],
+      "duration_ms": 92393,
+      "name": "Mi Musa",
+      "url": "https://open.spotify.com/track/01MUFeTwLuzS8nCviIVk7B"
+    },
+    {
       "added_at": "2025-08-22 04:00:21",
       "album": {
         "name": "LO PANTI",
@@ -1191,6 +1199,22 @@
       "duration_ms": 142222,
       "name": "A Ella Le Gusta",
       "url": "https://open.spotify.com/track/0IBvsHS4XnQl1qUBy1qqmK"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Un Sufrido Por Ti",
+        "url": "https://open.spotify.com/album/1zw7vKb6jEs9FgzKDMdGZQ"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Un Sufrido Por Ti",
+      "url": "https://open.spotify.com/track/0MAVLrZge7tQ6y2e948GzF"
     },
     {
       "added_at": "2025-05-23 04:00:30",
@@ -1337,26 +1361,6 @@
       "url": "https://open.spotify.com/track/3vPEOORh1ulDAf47hp7tAh"
     },
     {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "Una Chuky",
-        "url": "https://open.spotify.com/album/61kh7u04cgPNTKq7vGKakY"
-      },
-      "artists": [
-        {
-          "name": "Damn Goldo",
-          "url": "https://open.spotify.com/artist/3IA0lT7XTEQhRagSF0Mnc0"
-        },
-        {
-          "name": "El Rapper RD",
-          "url": "https://open.spotify.com/artist/0jhqcayvFFUrYyqHlgZidV"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Una Chuky",
-      "url": "https://open.spotify.com/track/5HIJyjNDNUVPBG1TCgbxJj"
-    },
-    {
       "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "ALTITAJE",
@@ -1387,6 +1391,22 @@
       "duration_ms": 105091,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6kIgbMVOOiBvStNpTZffUp"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Fotos",
+        "url": "https://open.spotify.com/album/2oqyPOuJZVWUOtS1Mx5t9F"
+      },
+      "artists": [
+        {
+          "name": "La Rima Callejera RD",
+          "url": "https://open.spotify.com/artist/4vEsefn9Fye53MHC3Txk5A"
+        }
+      ],
+      "duration_ms": 140333,
+      "name": "Fotos",
+      "url": "https://open.spotify.com/track/2rJpoBSeCUeuwES2r4wpTC"
     },
     {
       "added_at": "2025-08-08 19:16:26",
@@ -1543,26 +1563,6 @@
       "duration_ms": 155294,
       "name": "Oye Ahora",
       "url": "https://open.spotify.com/track/7bS35OSvrR2J0F45i3cudf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "No Se Lo Que Pasa",
-        "url": "https://open.spotify.com/album/1qLu5Km9B6s5mkjgwdt1Xr"
-      },
-      "artists": [
-        {
-          "name": "Lil Lighter",
-          "url": "https://open.spotify.com/artist/5hTlODtx6UZrMYMSpiNFd8"
-        },
-        {
-          "name": "El Kable",
-          "url": "https://open.spotify.com/artist/3hbiGjxZ86peyzzA5N4hil"
-        }
-      ],
-      "duration_ms": 104571,
-      "name": "No Se Lo Que Pasa",
-      "url": "https://open.spotify.com/track/6FRefRysNzSvTodKgn7zMJ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1759,46 +1759,6 @@
       "duration_ms": 119411,
       "name": "Malote",
       "url": "https://open.spotify.com/track/0gYDfl4Sq0HIxlYo64Aa4J"
-    },
-    {
-      "added_at": "2025-08-15 04:00:18",
-      "album": {
-        "name": "Delincuencia Y Calle",
-        "url": "https://open.spotify.com/album/1u23zEuc1P9oGWz2srPCL0"
-      },
-      "artists": [
-        {
-          "name": "Nata Record",
-          "url": "https://open.spotify.com/artist/5I82NM6jN4Y267iHwVeNR9"
-        },
-        {
-          "name": "Manaka Del Barrio",
-          "url": "https://open.spotify.com/artist/4SYfqYsEoL2h1ZZy356DLC"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Delincuencia Y Calle",
-      "url": "https://open.spotify.com/track/4dEmsHyPXB8qozCWCPZIlJ"
-    },
-    {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "Mala Fe",
-        "url": "https://open.spotify.com/album/3eL0dilK8QxMSP4yR9ZOh7"
-      },
-      "artists": [
-        {
-          "name": "El Rapper RD",
-          "url": "https://open.spotify.com/artist/0jhqcayvFFUrYyqHlgZidV"
-        },
-        {
-          "name": "Jordan Ozama",
-          "url": "https://open.spotify.com/artist/4nOvtc5O7WppofhREGX3dh"
-        }
-      ],
-      "duration_ms": 167463,
-      "name": "Mala Fe",
-      "url": "https://open.spotify.com/track/7wWxk2OYttjRedGT14uvki"
     },
     {
       "added_at": "2025-02-21 05:00:19",

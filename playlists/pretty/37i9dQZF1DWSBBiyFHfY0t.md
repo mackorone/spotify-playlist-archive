@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 
 > For frolicking joyously, freely and theatrically in this world\. Everybody scream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,382 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,417 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 | 114 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
 | 115 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 
-Snapshot ID: `AAAAAJiNcEwBayXTI9jrCyyXfnPhFyzt`
+Snapshot ID: `AAAAACNYvtRMVMEuaNyZ1uPm4Qr0thGJ`

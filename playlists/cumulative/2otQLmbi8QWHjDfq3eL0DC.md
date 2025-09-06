@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025!
 
-347 songs - 16 hr 54 min
+348 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 | 2024-11-15 | 2025-01-18 |
 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 | 2024-03-01 |  |
 | [Mr\. Cool](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Mr\. Cool](https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn) | 3:49 | 2025-06-20 | 2025-08-13 |
+| [Mutual Feelings](https://open.spotify.com/track/1cYNx8Ots8mUPzOAwmiKm7) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Mutual Feelings](https://open.spotify.com/album/2L6nVuLBjJcFK6YU01RyBT) | 3:28 | 2025-09-05 |  |
 | [My Love](https://open.spotify.com/track/5TPcLWBvXQObT3fNXRf6y2) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [My Love](https://open.spotify.com/album/3MlOzubP2RHaPzTJihsCql) | 2:51 | 2024-09-13 | 2025-05-03 |
 | [Namerakana 2.0](https://open.spotify.com/track/4SclnywxVnNy94jNauNvPt) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Namerakana 2.0](https://open.spotify.com/album/6qbMp7L6X6AiLt7VITVx2V) | 2:26 | 2024-08-09 | 2024-08-24 |
 | [Need You The Most](https://open.spotify.com/track/6AXCd4zhFP0DokZUxRzMif) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Need You The Most](https://open.spotify.com/album/42ABRkB43c52nIBFROZJU7) | 2:10 | 2025-03-21 | 2025-04-26 |

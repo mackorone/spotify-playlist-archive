@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,431 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,436 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 31 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 |
 | 32 | [Two Shots](https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Encore](https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51) | 2:50 |
 | 33 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 |
-| 34 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
-| 35 | [Tush](https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 2:21 |
+| 34 | [Tush](https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 2:21 |
+| 35 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
 | 36 | [I Want You](https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9) | 2:41 |
 | 37 | [I Hate Myself For Loving You](https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:07 |
 | 38 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 |
 | 50 | [Tulane](https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 2:53 |
 
-Snapshot ID: `aLeFAAAAAAD/2MRpkbfzgmKRYIbCy94m`
+Snapshot ID: `aLjWgAAAAAAnN5BZeg+Zf8IEpq/rzQth`

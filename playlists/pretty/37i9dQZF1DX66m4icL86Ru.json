@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: BIA & Young Miko",
-  "num_followers": 902038,
+  "num_followers": 902019,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPjnRlkebyiUEIMZqObrOuwtGEex",
+  "snapshot_id": "AAAAABbPaYeL2W5+slzV94uMKMrCuV9c",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:25",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
     },
     {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "Gyatt",
+        "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 137733,
+      "name": "Gyatt",
+      "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
+    },
+    {
       "added_at": "2024-12-13 05:00:37",
       "album": {
         "name": "Alligator Bites Never Heal",
@@ -215,6 +235,26 @@
       "duration_ms": 130000,
       "name": "Perfect Person (feat. coop)",
       "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
+    },
+    {
+      "added_at": "2025-09-05 04:00:05",
+      "album": {
+        "name": "MY FACE STILL HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 141781,
+      "name": "STFU (FEAT. LIL JON)",
+      "url": "https://open.spotify.com/track/4lQi3waSXFs3SjQPKOcv1o"
     },
     {
       "added_at": "2025-05-16 04:00:31",
@@ -1245,22 +1285,6 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-05-17 00:00:00",
-      "album": {
-        "name": "NANi",
-        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "NANi",
-      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Everybody Ate",
@@ -1335,26 +1359,6 @@
       "duration_ms": 221016,
       "name": "Coke Bottle Body",
       "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "HE KNOWS (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
     }
   ],
   "unique_name": "BBE",

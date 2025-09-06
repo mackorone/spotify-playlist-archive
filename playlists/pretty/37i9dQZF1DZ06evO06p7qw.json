@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 183465,
+  "num_followers": 183557,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAOdbU3COKpwF8yuRFibeeU",
+  "snapshot_id": "aLjWgAAAAACkqoMC2uCqPj+rQwA16YFd",
   "tracks": [
     {
       "added_at": null,
@@ -523,42 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Momento",
-        "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 206778,
-      "name": "Este Momento",
-      "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197680,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -579,6 +543,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Este Momento",
+        "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 206778,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Este Cuento",
         "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 174083,
       "name": "Este Cuento",
       "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Mojado",
+      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Mojado",
-      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 162040,
       "name": "Explorando El Universo",
       "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Junto A M\u00ed",
+      "url": "https://open.spotify.com/track/1OWnJnbFFrGw4wnoOgavNo"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Junto A M\u00ed",
-      "url": "https://open.spotify.com/track/1OWnJnbFFrGw4wnoOgavNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 204493,
       "name": "Aut\u00e9ntica",
       "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 196619,
       "name": "Amen - Spanglish Version",
       "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
     },
     {
       "added_at": null,

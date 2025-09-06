@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Melike Şahin x Hanao
 
-354 songs - 17 hr 46 min
+354 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-01 | 2025-07-11 |
 | [Panzehir](https://open.spotify.com/track/0c7DbeZAQlYnqBCIf0T9Hx) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe), [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Panzehir](https://open.spotify.com/album/3TvzSxSwzZ1ED48NtPF5C8) | 2:08 | 2025-09-04 |  |
 | [Pardon](https://open.spotify.com/track/38iMOXptk023Z9IxRDo9iU) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Pardon](https://open.spotify.com/album/0f8xgUm651DRugB7bHi3l8) | 2:42 | 2025-02-13 | 2025-02-28 |
+| [Perperişan](https://open.spotify.com/track/4no8tKeKhCWOCWwSW6slsk) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Perperişan](https://open.spotify.com/album/6iIZCVmLWyYRP8GWpmTRAJ) | 3:32 | 2025-09-04 |  |
 | [Psikolojik Sorunlar](https://open.spotify.com/track/20zLBZbJ5v3QBf4287iWA0) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Psikolojik Sorunlar](https://open.spotify.com/album/3TucPk7dSH17j8aiHYDY7P) | 2:12 | 2025-01-16 | 2025-01-31 |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2024-10-25 |
 | [Rampapapam \- Arem Ozguc & Arman Aydin Remix](https://open.spotify.com/track/34qxgccEwlGGQpcjQu85nu) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 2:11 | 2025-09-04 |  |
@@ -287,7 +288,6 @@
 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 | 2024-07-02 | 2025-02-07 |
 | [Teselli Pınarım](https://open.spotify.com/track/25lRCgouVFztOjjqc2WvGL) | [Can Kazaz](https://open.spotify.com/artist/4YLcK0MEyqFkdyyzbPTWrs) | [Teselli Pınarım](https://open.spotify.com/album/4EElJzc2mB278wYxmxuv53) | 3:18 | 2024-10-31 | 2024-11-08 |
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-27 |
-| [Track 1](https://open.spotify.com/track/4no8tKeKhCWOCWwSW6slsk) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Perperişan](https://open.spotify.com/album/6iIZCVmLWyYRP8GWpmTRAJ) | 0:00 | 2025-09-04 |  |
 | [Tuttum Bırakmam](https://open.spotify.com/track/02xoSSypEzF5VFdjEiZb8s) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tuttum Bırakmam](https://open.spotify.com/album/0FfpBYgMBioNgoQUyWkJDH) | 2:28 | 2025-08-28 |  |
 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 | 2024-10-31 | 2025-06-27 |
 | [Ufak Ufak \( Prodüktör Genco Arı \)](https://open.spotify.com/track/7xMnDtpd1mYUnQz3kJPiz3) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Genco Arı](https://open.spotify.com/artist/58PCTeH2HDJNLkLwAwEeMu) | [Ufak Ufak \( Prodüktör Genco Arı \)](https://open.spotify.com/album/7ymv9rExQjWkW0QfrVMoJ4) | 3:09 | 2024-10-24 | 2024-11-08 |

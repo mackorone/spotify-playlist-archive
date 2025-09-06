@@ -2,9 +2,9 @@
 
 ### [New Kids Music](https://open.spotify.com/playlist/37i9dQZF1DX6r25lY14UGk)
 
-> New releases for the kids\. Cover: Scott & Mark Hoying
+> New releases for the kids\. Cover: Peppa Pig
 
-900 songs - 1 day 13 hr 21 min
+902 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Crazy Little Thing Called Love](https://open.spotify.com/track/0FkpYBnaxCXHmbySZ3rmDL) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [LOVE ROCKS!](https://open.spotify.com/album/4OinpuLe2Ly1n30v9Gi7Ls) | 2:38 | 2024-07-12 | 2025-03-08 |
 | [Cucumber Rumba](https://open.spotify.com/track/4pc6bmA3txy9k0hgBX7OK8) | [The Vegetable Plot](https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih) | [Cucumber Rumba](https://open.spotify.com/album/7JjPNQgaj4fNelEqp4Nqwe) | 3:30 | 2024-03-01 | 2024-08-24 |
 | [Curious Like Me](https://open.spotify.com/track/0gaUvFCsCNdUBWgvrypFrS) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Curious Like Me](https://open.spotify.com/album/0MXebjG2EfwYjhzFnYnmyI) | 2:40 | 2025-08-01 |  |
+| [Cutest Pig in Town \(Evie! Evie!\)](https://open.spotify.com/track/1jwrfl9aZraqdM328OT6Fu) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa Meets the Baby: The Deluxe Album](https://open.spotify.com/album/2t9qTSqwcc8QyjESEeAG6T) | 2:30 | 2025-09-05 |  |
 | [Cutest Things in the World](https://open.spotify.com/track/59QeNP0PffnllCFcpjV9e0) | [Go Banana Go!](https://open.spotify.com/artist/3bY6rPdFU53a3iwDONMHmW), [Flula Borg](https://open.spotify.com/artist/6k0Xf1qODLBmfk3CUTBP0G) | [Slippery When Peeled](https://open.spotify.com/album/0drQtQkjlpBxZj6AETzO5J) | 2:57 | 2025-06-13 |  |
 | [D Is For Dancing](https://open.spotify.com/track/7rttMaviADSTAAlVrNB0UV) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [D is for Dancing](https://open.spotify.com/album/31V8naTOvlvBh7Tk3OQ6PE) | 3:06 | 2024-04-12 | 2024-08-24 |
 | [Dance and Freeze \- Kids Songs and Nursery Rhymes](https://open.spotify.com/track/0UZF1R5Q88t29u46Wgntfj) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dance and Freeze \- Kids Songs and Nursery Rhymes](https://open.spotify.com/album/1lW9e5LqPN4MdIZUMoPsEu) | 1:57 | 2024-06-28 | 2025-03-08 |
@@ -885,6 +886,7 @@
 | [Why Do We Sing?](https://open.spotify.com/track/5rLyfu4AnRcGoL4N6BM4hx) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Casey Breves](https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0) | [Why Do We Sing? \(The Official Soundtrack\)](https://open.spotify.com/album/3W2eSspksMacyMqKOc1lTS) | 3:15 | 2024-04-05 | 2025-03-08 |
 | [Wiggle and Shake](https://open.spotify.com/track/34DbBP5KsyG4e85b7acmnr) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Paw\-fect Party](https://open.spotify.com/album/0EXdYE1gk2dgpHQlZQDnMs) | 0:41 | 2024-10-11 | 2025-03-08 |
 | [Wiggle Up, Giddy Up!](https://open.spotify.com/track/4eHpZ7aVEIIjtxK8JrxBWg) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/35Oojm51uhnUPWDEcTnNwN) | 2:37 | 2025-01-10 | 2025-07-03 |
+| [Wiggle Wiggle While You Work It](https://open.spotify.com/track/5g38QO3Knj4xPLiB1gf7or) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF) | [Yo Gabba GabbaLand! \(Season 1 \- Apple TV+ Original Series Soundtracks \- Deluxe\)](https://open.spotify.com/album/0KWmlPWO1h1LR1FgcY4531) | 1:53 | 2025-09-05 |  |
 | [Wild and Free](https://open.spotify.com/track/3LLrYsa09Us4UFAtVJggsy) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:02 | 2022-04-15 | 2024-01-05 |
 | [Will it Sink or Will it Float?](https://open.spotify.com/track/5PeXeyKbUX3pqCZmffh1Cw) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Will it Sink or Will it Float?](https://open.spotify.com/album/5An8O49HcrjvQbj0npxHjA) | 2:26 | 2025-06-13 |  |
 | [Winter Games \- From "The Christmas Letter Express"](https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Winter Games \(From "The Christmas Letter Express"\)](https://open.spotify.com/album/34R6Ssp0DxDjgsq6JO1DKT) | 1:42 | 2024-11-15 | 2024-11-30 |

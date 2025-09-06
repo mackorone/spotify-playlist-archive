@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-99 songs - 4 hr 48 min
+103 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,10 @@
 | [Als Ik Voor Jou Kon Kiezen](https://open.spotify.com/track/6GUGE5QnGLUz37trubL40t) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Als Ik Voor Jou Kon Kiezen](https://open.spotify.com/album/3dHkxCOOUHsfbdOqLAJXzB) | 2:14 | 2025-07-04 | 2025-08-22 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2025-07-04 | 2025-08-22 |
 | [Are You Sorry Now?](https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Are You Sorry Now?](https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG) | 2:50 | 2025-07-04 |  |
+| [BEEP BEEP](https://open.spotify.com/track/0Kqd4Fsg6n4LwWwLR0hpy7) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [BEEP BEEP](https://open.spotify.com/album/70IEzFseMdNSwitPA18BUg) | 2:35 | 2025-09-05 |  |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-04 | 2025-08-22 |
 | [Beneden](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 | 2025-08-27 |  |
+| [Beste Fout](https://open.spotify.com/track/6vYnml6p32VEStxD8ke7aX) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Beste Fout](https://open.spotify.com/album/7dAUv80dbGXyDebYTU489n) | 2:51 | 2025-09-05 |  |
 | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/track/2zpyzN6xxDwgNVFogR0s63) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/album/6FkGLWXQjDAbOVWfzDEc9l) | 2:49 | 2025-09-02 |  |
 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2025-07-04 | 2025-08-22 |
 | [C'est La Vie](https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C'est La Vie](https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV) | 3:03 | 2025-08-27 |  |
@@ -70,6 +72,7 @@
 | [Nooit Meer Spijt](https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:27 | 2025-07-04 | 2025-08-22 |
 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 | 2025-08-27 |  |
 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 | 2025-08-25 |  |
+| [Paarse nachten](https://open.spotify.com/track/2s1Kn9W1rG2kkIGYFDVcQs) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paarse Nachten](https://open.spotify.com/album/2pM0zct61wZz5YKGmexfVl) | 3:12 | 2025-09-05 |  |
 | [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2025-07-04 | 2025-08-22 |
 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 | 2025-07-04 | 2025-08-22 |
 | [Safe Haven](https://open.spotify.com/track/2zyRqo9sfyxle2aNEU1dgv) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Safe Haven](https://open.spotify.com/album/0ZdOm1pVd7bilAbWTrLeYw) | 4:07 | 2025-07-04 |  |
@@ -93,6 +96,7 @@
 | [Therapie](https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Therapie](https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO) | 3:01 | 2025-08-27 |  |
 | [Therapie](https://open.spotify.com/track/5Q8eGRXtRB0geKjY6eYvaN) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 3:01 | 2025-07-04 | 2025-08-22 |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-07-04 |  |
+| [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 | 2025-09-05 |  |
 | [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2025-07-04 |  |
 | [voor alles bang](https://open.spotify.com/track/0lC1IUZXQ6ukTQfSVqCJa3) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:02 | 2025-07-04 | 2025-08-22 |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2025-08-27 |  |

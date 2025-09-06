@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-24",
-  "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
+  "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002cover: \u85e4\u4e95 \u98a8",
   "name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "tracks": [
     {
@@ -3027,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "say my name",
+        "url": "https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "say my name",
+      "url": "https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ"
+    },
+    {
+      "album": {
         "name": "Sea View",
         "url": "https://open.spotify.com/album/4HCbqZVDHvbv3R0mmCtsiG"
       },
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 192989,
       "name": "Sea View",
       "url": "https://open.spotify.com/track/61tB8T9x341anDxDEv2bPS"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 216853,
       "name": "SIKI",
       "url": "https://open.spotify.com/track/64PhKkjPcvrhmTUr2KvgHz"
@@ -4316,6 +4334,24 @@
       "duration_ms": 176504,
       "name": "yokan",
       "url": "https://open.spotify.com/track/0ncp0LnvQKzwweTq7HIjn4"
+    },
+    {
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281766,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
     },
     {
       "album": {
@@ -6756,7 +6792,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 217817,
       "name": "\u785d\u5b50\u7a93",
       "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
@@ -6828,7 +6864,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 265728,
       "name": "\u7fbd\u3092\u5bbf\u3057\u3066",
       "url": "https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l"

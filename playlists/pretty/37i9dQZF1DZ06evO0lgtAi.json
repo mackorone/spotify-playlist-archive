@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 30128,
+  "num_followers": 30146,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABD0Y+ts28Rk0gscYseI1mT",
+  "snapshot_id": "aLjWgAAAAADIL7H1oV4lhc0z6sc5BImY",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunbathe",
-        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Sunbathe",
-      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 173548,
       "name": "Lento",
       "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunbathe",
+        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Sunbathe",
+      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
       "added_at": null,

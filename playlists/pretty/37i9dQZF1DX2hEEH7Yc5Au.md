@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 李千娜 \(Nana Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,961 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,967 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 2 | [一半一半 \(feat\. 魏如萱\)](https://open.spotify.com/track/7gdxeCc1cIwftvAKxdd8b0) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [做一個惜情軟心的人](https://open.spotify.com/album/4d5MX8L3yJLOklE9ZRD6zW) | 4:32 |
 | 3 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
 | 4 | [The way U hate it](https://open.spotify.com/track/2fVAiUQomxVVEc21QfvuS3) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [The way U hate it](https://open.spotify.com/album/1YMJwbKayEUrAVfQqCpxBj) | 2:12 |
-| 5 | [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼](https://open.spotify.com/artist/3D44Aw6V7zooi9fRHwkP61) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:52 |
+| 5 | [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:52 |
 | 6 | [我的爱没前奏](https://open.spotify.com/track/0Gt3TmU30vJv7nAapvUPK4) | [Nana Ou\-Yang](https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY) | [我的爱没前奏](https://open.spotify.com/album/1jPRLCKv9aNifILnaLOv0J) | 3:19 |
 | 7 | [互惠](https://open.spotify.com/track/3JMfpMiSRcmK7ZF4Oj3myo) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [互惠](https://open.spotify.com/album/3p6GvyspmrSA9so47wC6GH) | 3:45 |
 | 8 | [愛到卡慘死 \(2025威尼斯影展地平線單元《螳螂》電影插曲\)](https://open.spotify.com/track/6Tt7bRPy3P6W3HXxGT1eYa) | [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [愛到卡慘死 \(2025威尼斯影展地平線單元《螳螂》電影插曲\)](https://open.spotify.com/album/74ESmwxHe860IGibi7ScZ8) | 3:10 |

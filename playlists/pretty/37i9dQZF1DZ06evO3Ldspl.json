@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 10302,
+  "num_followers": 10303,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAA2Zr+7I251Anzuk7Nlz8j0",
+  "snapshot_id": "aLjWgAAAAACOaYHGiqeRCT1kulvxLCiV",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 267573,
+      "name": "Nuevo Juramento",
+      "url": "https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 254955,
       "name": "Quise Manchar Tu Alma",
       "url": "https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "La Gustadera",
-      "url": "https://open.spotify.com/track/5AaFsIGgYNGyklOMnHNJ1l"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "La Gustadera",
+      "url": "https://open.spotify.com/track/5AaFsIGgYNGyklOMnHNJ1l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Fiesta Con El Binomio De Oro",
         "url": "https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 267573,
-      "name": "Nuevo Juramento",
-      "url": "https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internacional",
         "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 251350,
       "name": "Nuestra Separaci\u00f3n",
       "url": "https://open.spotify.com/track/098CkrzOpQ4vP4FieXch5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Ac\u00e9ptame Como Soy",
+      "url": "https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 311573,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "Ac\u00e9ptame Como Soy",
-      "url": "https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superior",
-        "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Miedo Al Amor",
-      "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Cach\u00e9",
         "url": "https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos: Rafael Orozco",
-        "url": "https://open.spotify.com/album/6UsTetmSj6XUraFvepURzu"
+        "name": "Superior",
+        "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 231131,
-      "name": "Reconozco Que Te Amo",
-      "url": "https://open.spotify.com/track/6UWxacchH4Cp35ModegMM4"
+      "duration_ms": 250933,
+      "name": "Miedo Al Amor",
+      "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 206040,
       "name": "Eterno Enamorado",
       "url": "https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos: Rafael Orozco",
+        "url": "https://open.spotify.com/album/6UsTetmSj6XUraFvepURzu"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231131,
+      "name": "Reconozco Que Te Amo",
+      "url": "https://open.spotify.com/track/6UWxacchH4Cp35ModegMM4"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

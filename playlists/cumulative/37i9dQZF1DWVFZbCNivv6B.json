@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Geassassin en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Lefty Sm en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -3940,6 +3940,28 @@
       "duration_ms": 201155,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev"
+    },
+    {
+      "album": {
+        "name": "Dando Pelea",
+        "url": "https://open.spotify.com/album/25h7mbgWXU01mcOvLZ5IyY"
+      },
+      "artists": [
+        {
+          "name": "Silar Kilos De Estilo",
+          "url": "https://open.spotify.com/artist/0EuMnBFVFmyIFFgpiwbvj6"
+        },
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Dando Pelea",
+      "url": "https://open.spotify.com/track/48R0vzJyIJe7FSEshnew1y"
     },
     {
       "album": {
@@ -8880,7 +8902,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 245684,
       "name": "Los Barrios de Ac\u00e1",
       "url": "https://open.spotify.com/track/4qkYXhg0DEPgizowgHTD3a"
@@ -9156,7 +9178,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 168620,
       "name": "Made in Mex",
       "url": "https://open.spotify.com/track/6oJF7CYjSveetFyiDbjjCy"
@@ -14612,6 +14634,24 @@
       "duration_ms": 213658,
       "name": "Somos Bandoleros",
       "url": "https://open.spotify.com/track/2BYUnUWvrIhpIlAvNZuJpz"
+    },
+    {
+      "album": {
+        "name": "Somos Guerreros",
+        "url": "https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Somos Guerreros",
+      "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
     },
     {
       "album": {

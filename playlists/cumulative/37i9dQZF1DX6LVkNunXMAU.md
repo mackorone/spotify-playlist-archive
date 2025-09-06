@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: Inbal Comedi
 
-341 songs - 18 hr 42 min
+342 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 | 2022-07-15 | 2024-09-27 |
 | [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-05-20 | 2025-02-22 |
 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 | 2022-07-15 | 2024-04-19 |
+| [Como una Ola](https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Como una Ola](https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL) | 3:52 | 2025-09-05 |  |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2022-11-11 | 2023-10-07 |
 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 | 2022-05-20 | 2022-08-27 |
 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 | 2022-07-15 |  |
@@ -308,7 +309,7 @@
 | [todo es luz](https://open.spotify.com/track/1ShA7GuWcYnxrKuwXxilqF) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [todo es luz](https://open.spotify.com/album/7vWQ4mxTjNwxFhSCawpTeG) | 4:13 | 2025-07-18 |  |
 | [Todo me sabe a poco](https://open.spotify.com/track/1QwPlQPqx4CiYdGJSTi1EV) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 2:52 | 2022-05-20 | 2023-04-15 |
 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 | 2023-04-07 |  |
-| [Trance](https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Trance](https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ) | 4:01 | 2024-10-25 |  |
+| [Trance](https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Trance](https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ) | 4:01 | 2024-10-25 | 2025-09-06 |
 | [trece](https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [trece](https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ) | 2:52 | 2022-05-20 | 2023-03-10 |
 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 | 2022-05-20 | 2023-04-15 |
 | [Tu Nombre](https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Tu Nombre](https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0) | 3:01 | 2022-05-20 | 2023-04-09 |

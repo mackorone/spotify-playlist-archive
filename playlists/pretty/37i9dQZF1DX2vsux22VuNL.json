@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292610,
+  "num_followers": 292617,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
+        "name": "Beira Mar",
+        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
         "name": "Antes das 06:00 (Samba)",
         "url": "https://open.spotify.com/album/3gA3g4MT3jV0Ff7nbhd0kH"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 219720,
       "name": "Antes das 06:00 - Samba",
       "url": "https://open.spotify.com/track/1rjJxS6uJs6SAAG4XPwLXR"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
-        "name": "Beira Mar",
-        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -939,6 +939,42 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
+        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
+        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
+      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
@@ -967,26 +1003,6 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
         "name": "Onda (Cita\u00e7\u00e3o A onda)",
         "url": "https://open.spotify.com/album/7d9PhQLMcRCy290WQgjq78"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 178795,
       "name": "Onda (Cita\u00e7\u00e3o A onda)",
       "url": "https://open.spotify.com/track/629TanzHDvm1G2Z9VQsEgE"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
-        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
-        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
-      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1343,6 +1343,30 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
+        "name": "n\u00e3o te amo mais",
+        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
+      },
+      "artists": [
+        {
+          "name": "Isa Guerra",
+          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 133921,
+      "name": "n\u00e3o te amo mais",
+      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1367,30 +1391,6 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
-        "name": "n\u00e3o te amo mais",
-        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
-      },
-      "artists": [
-        {
-          "name": "Isa Guerra",
-          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 133921,
-      "name": "n\u00e3o te amo mais",
-      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
         "name": "Sagitariano",
         "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 141125,
       "name": "Sagitariano",
       "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
         "name": "Ela \u00e9 de Escorpi\u00e3o",
         "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 141030,
       "name": "Ela \u00e9 de Escorpi\u00e3o",
       "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2025-07-25 20:22:20",

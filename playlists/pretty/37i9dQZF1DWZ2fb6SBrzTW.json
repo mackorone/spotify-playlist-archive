@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 80542,
+  "num_followers": 80568,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 136693,
       "name": "1 WORK - Remix",
       "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -355,26 +355,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": "2025-09-05 00:01:31",

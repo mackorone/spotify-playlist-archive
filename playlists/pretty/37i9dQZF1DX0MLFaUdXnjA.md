@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,834,389 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,834,392 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 98 | [Nothing Magic](https://open.spotify.com/track/0WnKK37K0P4e7FJSjTZn4M) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Nothing Magic](https://open.spotify.com/album/2aOlWcpXQwH9XlKeYGS6mh) | 3:23 |
 | 99 | [I Think They Call This Love](https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE) | 3:13 |
 
-Snapshot ID: `AAAAADlOv13/radc7jDtJHOKCPrpmzJk`
+Snapshot ID: `AAAAAIJyXMw5AdgE7u76GY94EavAK53l`

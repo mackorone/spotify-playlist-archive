@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: D Voice
 
-160 songs - 10 hr 41 min
+161 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 | 2022-11-24 |  |
 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 | 2022-08-05 |  |
 | [Kuchi Kuchi](https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9), [Kinata MC](https://open.spotify.com/artist/7y5en0LMphmD7mNKnEvB0b) | [Kuchi Kuchi](https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w) | 4:24 | 2023-12-15 | 2025-02-07 |
-| [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 | 2022-08-05 |  |
+| [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 | 2022-08-05 | 2025-09-06 |
 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [Kinkau](https://open.spotify.com/artist/5rvEeHjcYfgx7xpGO4OQhb), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 | 2022-08-05 | 2025-05-17 |
 | [Kwanini](https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kwanini](https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA) | 4:35 | 2022-09-22 | 2025-05-08 |
 | [Kwetu](https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Kwetu](https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ) | 3:29 | 2023-01-26 | 2025-04-16 |
@@ -99,6 +99,7 @@
 | [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 | 2025-04-17 | 2025-08-12 |
 | [Natamani](https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB) | [Natamani](https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE) | 4:22 | 2022-08-05 | 2024-12-18 |
 | [Naumia](https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Naumia](https://open.spotify.com/album/70hchTWlKZnkowXc624R7v) | 3:44 | 2023-04-14 | 2024-07-25 |
+| [Niaminishe](https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Niaminishe](https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka) | 4:32 | 2025-08-29 |  |
 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 | 2022-08-05 |  |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2022-08-05 |  |
 | [Nilie Mpata](https://open.spotify.com/track/4GV9OHEyqNkggs1KfPzmtB) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Nilie Mpata](https://open.spotify.com/album/6qlBsvxiNxf3k1o6JmiPmb) | 4:44 | 2022-08-05 | 2024-04-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,756 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,280 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 26 | [Sambalamento](https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays and Sings Bossa Nova](https://open.spotify.com/album/44zM914NmvslUJaJW2msNc) | 2:19 |
 | 27 | [Até Quem Sabe](https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t) | [Cauby Peixoto](https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v) | [A Bossa de Cauby Peixoto](https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg) | 2:37 |
 | 28 | [Tereza My Love](https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 4:21 |
-| 29 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 |
+| 29 | [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 |
 | 30 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
-| 31 | [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 |
+| 31 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 |
 | 32 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 |
 | 33 | [The Girl From Ipanema](https://open.spotify.com/track/3QczGFzPU2pr54vcRn90at) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Francis Albert Sinatra & Antonio Carlos Jobim](https://open.spotify.com/album/1DcmsgvmP94BH8XShg74N0) | 3:14 |
 | 34 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 |

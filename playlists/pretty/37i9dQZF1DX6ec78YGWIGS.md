@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,993 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,032 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 75 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 76 | [RAGE](https://open.spotify.com/track/2X1fivIip1sRlCfNjFfOCP) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [RAGE](https://open.spotify.com/album/1UPC9hkrEaC8wfgEVvTBVq) | 3:02 |
 | 77 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 |
-| 78 | [POV: te re enamoraste mal](https://open.spotify.com/track/1J3S9Do9s5ZnwVfKr9FKp7) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te re enamoraste mal](https://open.spotify.com/album/08qD4ZXSXJnjKrgLRlSuWs) | 2:43 |
+| 78 | [POV: te re enamoraste mal](https://open.spotify.com/track/1J3S9Do9s5ZnwVfKr9FKp7) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te re enamoraste mal](https://open.spotify.com/album/08qD4ZXSXJnjKrgLRlSuWs) | 2:45 |
 | 79 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 |
 | 80 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
 | 81 | [SENTIMIENTO NATURAL](https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [SENTIMIENTO NATURAL](https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E) | 3:13 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 94 | [Estrella](https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [Estrella](https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP) | 2:27 |
 | 95 | [Justo Ahora](https://open.spotify.com/track/5dZaQiVK1vZTPS7I8Z0pEP) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Justo Ahora](https://open.spotify.com/album/7zBKT3SQIXDzMg2lnqrUMl) | 3:36 |
 | 96 | [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 |
-| 97 | [POV: llega el verano y suena así](https://open.spotify.com/track/093E6bjXAh2E2QKXupWcTh) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: llega el verano y suena así](https://open.spotify.com/album/7MMVNY9mKDWH8NbTMjvxk7) | 2:59 |
+| 97 | [POV: llega el verano y suena así](https://open.spotify.com/track/093E6bjXAh2E2QKXupWcTh) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: llega el verano y suena así](https://open.spotify.com/album/7MMVNY9mKDWH8NbTMjvxk7) | 3:01 |
 | 98 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 99 | [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 |
 | 100 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |

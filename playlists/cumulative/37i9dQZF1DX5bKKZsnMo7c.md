@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Laufey
+> Feeling dramatic? All eyes on you\. Cover: Em Beihold
 
-499 songs - 1 day 3 hr 7 min
+501 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-02-02 | 2023-05-20 |
 | [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 | 2025-03-01 |
 | [Fragile](https://open.spotify.com/track/1s4bn1Oi01ujaWZKL4DaRq) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Fragile](https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL) | 4:01 | 2022-06-03 | 2022-06-11 |
-| [Freeze Your Brain](https://open.spotify.com/track/0QCM97jGFzXZCxsWm3sgQ5) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:53 | 2025-01-10 |  |
+| [Freeze Your Brain](https://open.spotify.com/track/0QCM97jGFzXZCxsWm3sgQ5) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:53 | 2025-01-10 | 2025-09-06 |
 | [Friends to Lovers](https://open.spotify.com/track/5ULZl3hedO1I4zMEjpZL3i) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Friends to Lovers](https://open.spotify.com/album/45lO8Bqhl9aA2AFWNuAg7e) | 2:23 | 2022-06-24 | 2022-07-12 |
 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-11-20 | 2024-09-14 |
 | [Fuck It](https://open.spotify.com/track/6n4dJjCThR7Gb9A5DXr1xj) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck It](https://open.spotify.com/album/4JGzX9sAYsqg0mOp0pegoA) | 1:48 | 2022-05-17 | 2022-07-25 |
@@ -212,6 +212,7 @@
 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 | 2024-02-16 | 2025-02-15 |
 | [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 | 2023-06-21 |
 | [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 | 2023-06-15 | 2023-09-23 |
+| [Hot Goblin](https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Hot Goblin](https://open.spotify.com/album/3ehPg84etRc980Up4eqY93) | 2:38 | 2025-09-05 |  |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-04-26 | 2025-05-28 |
 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-02 |  |
 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 | 2023-01-06 | 2024-12-19 |
@@ -251,7 +252,7 @@
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2023-05-26 | 2024-06-15 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-09 | 2025-01-25 |
 | [just last week](https://open.spotify.com/track/6ZaONgEsATQp3q0fxJ8inz) | [Ethan Jewell](https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD) | [stuck in a bad place](https://open.spotify.com/album/5ZaLbGUiBmH6ru5JYzr6vL) | 3:44 | 2023-06-02 | 2024-01-27 |
-| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 |  |
+| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 | 2025-09-06 |
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-01 | 2024-01-05 |
 | [Kiss Me, I'm a Prince](https://open.spotify.com/track/5qVQqa8DOJVPFmQI8mrlsb) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Kiss Me, I'm a Prince](https://open.spotify.com/album/0BEhfiN2fU9vE7KZseDhYM) | 3:30 | 2023-03-16 | 2024-01-27 |
@@ -411,6 +412,7 @@
 | [Sunday Morning](https://open.spotify.com/track/3viBNiQST9s6ea8NW27ZYo) | [Dominick Fulco](https://open.spotify.com/artist/3s7mu0cVl7jhG6EZE6WNP6) | [Sunday Morning](https://open.spotify.com/album/5Z61nSZOz926LJeacvpf3b) | 2:51 | 2024-05-24 | 2024-07-18 |
 | [Super Elastic](https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Super Elastic](https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5) | 3:03 | 2025-08-08 |  |
 | [Supercynical](https://open.spotify.com/track/4EnLXCLASlK1FWB8Na1ST0) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Profiterole Vision](https://open.spotify.com/album/0zlvNF1zKtII3yAyG6sjFc) | 2:48 | 2024-09-20 | 2024-12-19 |
+| [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 | 2025-09-05 |  |
 | [Taking What's Not Yours](https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:25 | 2024-03-26 | 2025-04-19 |
 | [TALK SHIT!](https://open.spotify.com/track/0pv5rs5Bsq3wY2xz9g66y9) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Thomas Sanders](https://open.spotify.com/artist/2HFEmkJdJwdaSxJbxJpFPs) | [TALK SHIT!](https://open.spotify.com/album/6k3PqczkdzXWh4HQMbAEJe) | 2:59 | 2025-08-29 |  |
 | [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-11 | 2022-07-16 |

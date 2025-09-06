@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,733,326 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,375 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 49 | [Ni una sola palabra](https://open.spotify.com/track/20smfvl8TDlA3AIlLeK5Hz) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Ni una sola palabra](https://open.spotify.com/album/7JQY6EtLD5Dm1DcsFBQ4II) | 4:23 |
 | 50 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
 
-Snapshot ID: `AAAAAFf9jGNPTrwslJym8cBSku5eEXpw`
+Snapshot ID: `AAAAALMhd6UJrmGuUxYTsTAAJWhBqK8F`

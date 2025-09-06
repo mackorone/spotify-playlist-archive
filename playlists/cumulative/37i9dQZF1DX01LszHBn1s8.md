@@ -4,7 +4,7 @@
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-1,636 songs - 3 day 14 hr 13 min
+1,637 songs - 3 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,6 +969,7 @@
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-05-19 | 2025-01-08 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-24 | 2025-03-28 |
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/track/3rN9iG9QDHFQfBdbym2uel) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/album/70r5AZjJ8e1dw4TxqcHae5) | 3:09 | 2022-11-07 | 2025-01-08 |
+| [Mr\. Fantasy](https://open.spotify.com/track/4zT0nZK95FOuPWt4WC5vXe) | [MR\. FANTASY](https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH) | [Mr\. Fantasy](https://open.spotify.com/album/2HE6aJS5aYpobitS6dXTz0) | 3:04 | 2025-09-05 |  |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-05-19 | 2025-01-08 |
 | [MR\. TAKE YA B\*TCH \(FEAT\. CHRISEANROCK\)](https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa) | [MR\. TAKE YA B\*TCH \(FEAT\. CHRISEANROCK\)](https://open.spotify.com/album/0VILzuF7XRV2GQAO4tzx3M) | 1:48 | 2023-10-27 | 2025-01-08 |
 | [Mr\. Telephone Man](https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [New Edition](https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc) | 3:59 | 2022-06-27 | 2025-01-08 |

@@ -2,9 +2,9 @@
 
 ### [Nu\-Disco](https://open.spotify.com/playlist/37i9dQZF1DXattPCMpISJh)
 
-> A new take on a classic sound\. Cover: Billy Porter
+> A new take on a classic sound\. Cover: Say She She
 
-319 songs - 19 hr 41 min
+320 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/4ALsOjwCdniiryLJVMWVGo) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 3:44 | 2023-03-24 | 2023-10-30 |
 | [Different Directions](https://open.spotify.com/track/30QM80woaoPtONO99xRyyw) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Different Directions](https://open.spotify.com/album/4VOq3YC6cWd1kULS0oKEKL) | 3:51 | 2022-07-15 | 2022-08-13 |
 | [Disco](https://open.spotify.com/track/4Wi7j71MROAcJPSTT11HQy) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Disco](https://open.spotify.com/album/2yXcDJCkVy5aEgkEzI1cxO) | 3:50 | 2023-04-07 | 2023-06-03 |
+| [Disco Life](https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Disco Life](https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw) | 3:32 | 2025-09-05 |  |
 | [Disco Save My Life](https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Disco Save My Life](https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF) | 5:26 | 2023-07-07 |  |
 | [Disco Snails](https://open.spotify.com/track/6DpcY8DLvDyMjJri97HNFy) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Disco Snails](https://open.spotify.com/album/3b13wU9zmyxbMn5bNVfEgZ) | 3:13 | 2024-07-05 |  |
 | [Disco Turbo](https://open.spotify.com/track/0RZjuYWQ7nXV0iij60LYgJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Disco Turbo](https://open.spotify.com/album/6pIia0cXMnfA0I41UiS52A) | 2:56 | 2025-08-15 |  |
@@ -198,7 +199,7 @@
 | [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 | 2023-07-29 |
 | [Mystery of Love \- Le Flex "Summer Mystery" Remix](https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Mystery of Love \(Le Flex "Summer Mystery" Remix\)](https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w) | 4:13 | 2022-08-19 | 2025-02-08 |
 | [Naked](https://open.spotify.com/track/6YvMJ2nfngT6namuCNpRL2) | [Maryon King](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Naked](https://open.spotify.com/album/65IwmBSFGeCnzUHtNEFXhI) | 2:48 | 2024-11-15 |  |
-| [Need You Again](https://open.spotify.com/track/0h6MTPMCoYwh3GGsqSuszz) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Need You Again](https://open.spotify.com/album/0zRgJvZ5gL9yP2esofyni5) | 4:28 | 2025-02-07 |  |
+| [Need You Again](https://open.spotify.com/track/0h6MTPMCoYwh3GGsqSuszz) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Need You Again](https://open.spotify.com/album/0zRgJvZ5gL9yP2esofyni5) | 4:28 | 2025-02-07 | 2025-09-06 |
 | [Never Coming Back](https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu) | 3:23 | 2023-03-10 | 2023-07-08 |
 | [Never Coming Down](https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Never Coming Down](https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU) | 5:56 | 2022-11-18 | 2023-04-01 |
 | [Never Enough](https://open.spotify.com/track/3SPR0vmGBKczy7976CLTQ6) | [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Never Enough](https://open.spotify.com/album/5LcrQlu6U8Y55Sv7NWXJOo) | 3:28 | 2022-05-06 | 2023-07-22 |

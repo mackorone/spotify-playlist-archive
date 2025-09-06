@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103405,
+  "num_followers": 103414,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAEjrU8Hw7o43/EVXKB+HiA",
+  "snapshot_id": "aLjWgAAAAABurLqv9A8RbLaPC0fhNouW",
   "tracks": [
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment Pt. 2",
-        "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
-        }
-      ],
-      "duration_ms": 200403,
-      "name": "Commitment Pt. 2",
-      "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Over The Place (Platinum VIP Edition)",
         "url": "https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 177280,
       "name": "Really Love - feat. Craig David & Digital Farm Animals",
       "url": "https://open.spotify.com/track/6SMrCFJ0zMxDwoqOHG8Sme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment Pt. 2",
+        "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 200403,
+      "name": "Commitment Pt. 2",
+      "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
     },
     {
       "added_at": null,
@@ -927,30 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addicted (Radio Edit)",
-        "url": "https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs"
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
       "artists": [
         {
-          "name": "DJ Assad",
-          "url": "https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC"
-        },
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Greg Parys",
-          "url": "https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV"
+          "name": "Kirsten Joy",
+          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
         }
       ],
-      "duration_ms": 214970,
-      "name": "Addicted - Radio Edit",
-      "url": "https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v"
+      "duration_ms": 209133,
+      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
+      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
     }
   ],
   "unique_name": "This Is Craig David",

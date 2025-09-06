@@ -9303,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4rHyrpSPmNySvz2D80HWxv"
+      },
+      "artists": [
+        {
+          "name": "S3S",
+          "url": "https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203771,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2kyz4WxmSlJdJvitTP8MtW"
+    },
+    {
+      "album": {
         "name": "In My Life (Oh Ayah)",
         "url": "https://open.spotify.com/album/3hSEYCMqIsNEn263DkDO4l"
       },
@@ -13334,7 +13352,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 174004,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/5AUwU8jtmO8wrorBYMSpSN"
@@ -18789,6 +18807,32 @@
     },
     {
       "album": {
+        "name": "Sunrise Never Fades",
+        "url": "https://open.spotify.com/album/6BacM7DiMnwlZKkLPCRIwD"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Sunrise Never Fades",
+      "url": "https://open.spotify.com/track/6vhw0efqorXdcnnxg9gXpz"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/4fgIabBKiSNj40HdBfENQn"
       },
@@ -21506,6 +21550,28 @@
       "duration_ms": 147000,
       "name": "What's The Harm",
       "url": "https://open.spotify.com/track/6sEZPeZtEYGAQ9ncLdORpu"
+    },
+    {
+      "album": {
+        "name": "When I'm Lovin\u2019 U",
+        "url": "https://open.spotify.com/album/06c9hyMCBoJKpveW5EDmfE"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154021,
+      "name": "When I'm Lovin\u2019 U",
+      "url": "https://open.spotify.com/track/3HfCYLIrpEkiyzRS1erhFz"
     },
     {
       "album": {

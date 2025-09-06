@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-349 songs - 20 hr 14 min
+350 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Welcome to St\. Tropez \- DJ Antoine vs\. Mad Mark Radio Edit](https://open.spotify.com/track/5DZ78SHRkKVpgD6uhmqfZK) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [WOW](https://open.spotify.com/album/1pzYoN3awhmtVLJsN3p69p) | 3:15 | 2024-02-07 |  |
 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 | 2024-02-07 |  |
 | [When I Grow Up](https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 4:05 | 2024-02-07 |  |
+| [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 | 2025-09-05 |  |
 | [Wicked](https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl) | [Veronica Vega](https://open.spotify.com/artist/5zB4FgmxvPsn1G4TeKO62C), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Wicked \(feat\. Pitbull\) \- Single](https://open.spotify.com/album/2IsKRE4RIZLmegkUz9iUQH) | 4:08 | 2024-02-07 |  |
 | [Win Win](https://open.spotify.com/track/7EYtUMHG5IfvZud1bf0AMl) | [B\. Smyth](https://open.spotify.com/artist/76JyRfZDqhAIow2Awv91iW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Florida Files](https://open.spotify.com/album/5plWds6ATedVEKS39ENeBu) | 4:06 | 2024-02-07 |  |
 | [Winning](https://open.spotify.com/track/3EdrRiufsqlZbQZTj6F82F) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:30 | 2024-02-07 | 2024-10-31 |

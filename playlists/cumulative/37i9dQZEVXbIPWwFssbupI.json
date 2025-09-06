@@ -9180,7 +9180,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -15658,7 +15658,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
@@ -15694,7 +15694,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -29432,7 +29432,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 219293,
       "name": "Mimi",
       "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
@@ -29746,6 +29746,28 @@
       "duration_ms": 192920,
       "name": "Mode AV (feat. Niska & Gazo)",
       "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
+    },
+    {
+      "album": {
+        "name": "Mode avion",
+        "url": "https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144010,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva"
     },
     {
       "album": {
@@ -32510,7 +32532,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 144020,
       "name": "On Va Taper \u00c7A",
       "url": "https://open.spotify.com/track/7nJ0d1xhp1PDlpPORHmxCv"
@@ -34544,7 +34566,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 204973,
       "name": "Ph\u00e9nom\u00e9nal",
       "url": "https://open.spotify.com/track/78Y0EwVQ9kdQFTIOzr7lUd"
@@ -37922,7 +37944,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 179253,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
@@ -45720,7 +45742,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -45764,7 +45786,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/5DuOB5sAi9wiFABXTYHOx1"

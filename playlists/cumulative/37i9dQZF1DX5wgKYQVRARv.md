@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-817 songs - 2 day 22 hr 9 min
+819 songs - 2 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [ARE YOU AFRAID?](https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ARE YOU AFRAID?](https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og) | 3:22 | 2024-03-29 | 2025-03-11 |
 | [Armoured Core](https://open.spotify.com/track/62F58Zl56B35WQEiS5T1AQ) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Armoured Core](https://open.spotify.com/album/4maYMoEU5enOJAI253HdwL) | 4:07 | 2022-07-13 | 2024-09-13 |
 | [Arrival](https://open.spotify.com/track/06Vnpa8wqFpQFJaRAA4oVC) | [Night Verses](https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb) | [Every Sound Has A Color In The Valley Of Night](https://open.spotify.com/album/6vcoKJhkNPj3HeTOudcRLO) | 3:48 | 2024-05-17 |  |
+| [As Silence Took You](https://open.spotify.com/track/1LLNKtdbIvF3nbETtppV73) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [A Dark Poem, Pt\. I: The Shores of Melancholia](https://open.spotify.com/album/0FgYnH1nzNwuYXLq8NHA9z) | 7:11 | 2025-09-05 |  |
 | [As the Sea Divides](https://open.spotify.com/track/2ajQYCwCyfVU6PIkPk6Sz9) | [Shattered Skies](https://open.spotify.com/artist/01x1T6wFazEkb6L3DjaIYX) | [Songs in the Key of D](https://open.spotify.com/album/5Q6P6hVIPRyX2K6ha1Npqj) | 5:52 | 2021-12-17 | 2022-01-29 |
 | [Assassins](https://open.spotify.com/track/3AG4HbsTsfWs9UxQkiZjjW) | [HYVMINE](https://open.spotify.com/artist/04SzeqqeUYtUPhwyEGCVbz) | [Assassins](https://open.spotify.com/album/6nMcudVxY5q322alkFs2wh) | 5:50 | 2021-12-17 | 2022-07-29 |
 | [Astral Liberation](https://open.spotify.com/track/4W0pJ4h0uQvQMbBU9aRbXC) | [The Paralydium Project](https://open.spotify.com/artist/2tDD4Lon3s0KIvXbCnNzFO) | [The Paralydium Project](https://open.spotify.com/album/4ts2vqasJLcacHS9sQY0MZ) | 8:40 | 2021-12-17 | 2022-01-28 |
@@ -279,7 +280,7 @@
 | [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 | 2024-01-26 |
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 |  |
 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 | 2023-12-06 |  |
-| [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 |  |
+| [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 | 2025-09-06 |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |
 | [God is in the Slumber](https://open.spotify.com/track/5CiLiwu8FzetlzVa15taDs) | [Hippotraktor](https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv) | [God is in the Slumber](https://open.spotify.com/album/5rDrzED7ZQRb706aNnElUh) | 4:35 | 2021-12-17 | 2022-07-26 |
 | [Goddamn Conspiracy \- No Narration](https://open.spotify.com/track/59Owq9lFBlY3O64hH7TK6I) | [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Goddamn Conspiracy](https://open.spotify.com/album/6ugodEhROAJ5y9bnhvvhaM) | 4:41 | 2025-08-15 |  |
@@ -332,7 +333,7 @@
 | [Hyvästi](https://open.spotify.com/track/3uzzRIRcXP4x02Ow03ERP8) | [Kaunis Kuolematon](https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN) | [Syttyköön Toinen Aurinko](https://open.spotify.com/album/5Ybv90CJvFAn6ArETWRYbn) | 7:32 | 2021-12-17 | 2022-09-03 |
 | [I](https://open.spotify.com/track/6hj4GDJEk1Fdpsdhe5s2s0) | [Hemina](https://open.spotify.com/artist/1DuzOaU8hyIpzzRQFpAO9b) | [Venus](https://open.spotify.com/album/6MpqORfwga08gHUyQLXAxW) | 10:41 | 2021-12-17 | 2022-01-28 |
 | [I Am That Thirst](https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [I Am That Thirst](https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr) | 4:40 | 2022-03-25 | 2024-12-06 |
-| [I See Your Spirit](https://open.spotify.com/track/741dYT8df4DT8PNi38pZAt) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [I See Your Spirit](https://open.spotify.com/album/1lHYPp8tqIxs6rL3mEOIAk) | 4:16 | 2025-08-29 |  |
+| [I See Your Spirit](https://open.spotify.com/track/741dYT8df4DT8PNi38pZAt) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [I See Your Spirit](https://open.spotify.com/album/1lHYPp8tqIxs6rL3mEOIAk) | 4:16 | 2025-08-29 | 2025-09-06 |
 | [I'M STILL ALIVE](https://open.spotify.com/track/0E6eqvJimlRMS22gCLj6e3) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [THE PERSISTENCE OF MEMORY](https://open.spotify.com/album/0teeDL9hcPxBNXGOGGzfGf) | 3:00 | 2021-12-17 | 2023-01-21 |
 | [Identifier \- Radio Edit](https://open.spotify.com/track/32TQzC5PD1Byn6HRIDOZsZ) | [Wilderun](https://open.spotify.com/artist/0wQmcChWogcmsCThY2SKES) | [Identifier \(Radio Edit\)](https://open.spotify.com/album/2oA6ysGltuBvtV9AROmwiP) | 6:08 | 2021-12-17 | 2022-07-28 |
 | [Immovable Stone](https://open.spotify.com/track/6yGCKMLGznWxAIRRfwv3Ew) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Immovable Stone](https://open.spotify.com/album/4R9OjWhHTz8eleYOrJ3KXK) | 3:32 | 2021-12-17 | 2023-01-21 |
@@ -637,6 +638,7 @@
 | [Sylphs](https://open.spotify.com/track/4mrKtDOcSuAdxk0eBPhbWq) | [22](https://open.spotify.com/artist/0Op82sqzI45fNMecmDiJDx) | [You Are Creating: Limb2](https://open.spotify.com/album/08jFW7mypcOkvvRgdnjRKj) | 3:52 | 2021-12-17 | 2022-05-13 |
 | [Synaesthesia](https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Synaesthesia](https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU) | 9:11 | 2024-11-22 |  |
 | [Take on Me \- Musora Session](https://open.spotify.com/track/4kXXgjWfmCgK0uR1kSqvFb) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5), [Musora](https://open.spotify.com/artist/60Qtnm46ynKnGaaMjOjogW) | [Take on Me \(Musora Session\)](https://open.spotify.com/album/1Y7yz5tBAwDJIpkEnGCbuS) | 4:48 | 2025-08-22 |  |
+| [Tarnished](https://open.spotify.com/track/1lLMRxM586TF5jrQjLxnBd) | [Connor Kaminski](https://open.spotify.com/artist/6FxiiHQs4Zb6ka3BVNCwu2), [David Maxim Micic](https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs) | [Tapestry](https://open.spotify.com/album/1xePclwfoyHtZTIIbPjCKK) | 9:16 | 2025-09-05 |  |
 | [Taurus](https://open.spotify.com/track/5hTRa6cl2MlpkrYyHO5zbR) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Taurus](https://open.spotify.com/album/2ze4aFb1a3SMNIQ5qL1aEj) | 4:48 | 2023-01-20 | 2024-11-23 |
 | [Temple Of Circadia](https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 7:10 | 2021-12-17 | 2022-09-03 |
 | [Temporal](https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Temporal](https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM) | 4:10 | 2025-05-09 |  |

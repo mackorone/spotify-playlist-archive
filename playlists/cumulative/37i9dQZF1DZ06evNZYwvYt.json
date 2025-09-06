@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "NUNCA NUNCA",
+        "url": "https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2025-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B"
+    },
+    {
+      "album": {
         "name": "Delicada Violencia",
         "url": "https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A"
       },

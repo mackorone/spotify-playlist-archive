@@ -4,7 +4,7 @@
 
 > Now and next level pop and beyond ❤️‍🔥 ADÉLA
 
-1,933 songs - 4 day 0 hr 52 min
+1,934 songs - 4 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-08 | 2022-01-15 |
 | [Girls Like Sex](https://open.spotify.com/track/74KsTGXDYNCLXyIH6z3KBV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0xpGqHeRXVSovn5VEvgzHA) | 2:45 | 2021-05-28 | 2021-07-31 |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-01-16 | 2021-05-22 |
+| [girls with gills](https://open.spotify.com/track/31BP9sLVR9bY0zFvxdZbIJ) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [girls with gills](https://open.spotify.com/album/4bLta3L54y2UFGJ7tGPjsK) | 2:17 | 2025-09-05 |  |
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-14 | 2025-03-28 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-05-19 | 2023-09-02 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2021-02-06 | 2021-04-10 |

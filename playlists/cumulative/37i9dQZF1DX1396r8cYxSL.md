@@ -4,7 +4,7 @@
 
 > 2025 yazına damga vuran şarkılar.
 
-176 songs - 8 hr 27 min
+178 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,9 +144,11 @@
 | [Serserinim](https://open.spotify.com/track/7EvDurG8Qcx1549Tc7Gzpm) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Serserinim](https://open.spotify.com/album/1aMjQcqxbXFOUj7N00ti5S) | 1:44 | 2025-05-22 |  |
 | [Sevecek Sandım](https://open.spotify.com/track/7dWOeNUJfixlvUcpZD90YE) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Aşırı Doz](https://open.spotify.com/album/5wXzQs5BV3D5mrFcF1vpmq) | 2:45 | 2023-09-04 | 2024-06-06 |
 | [Seviyo muyuz?](https://open.spotify.com/track/7qSchvCikMHi9l7cgPWVXS) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Seviyo muyuz?](https://open.spotify.com/album/6Ir1PwQM0fZLraeTlBzi8i) | 2:56 | 2023-09-04 | 2024-07-04 |
+| [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 | 2025-09-05 |  |
 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 | 2024-06-05 | 2025-06-17 |
 | [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 | 2024-07-03 | 2025-05-23 |
 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 | 2025-06-06 |  |
+| [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 | 2025-09-05 |  |
 | [SPECIAL](https://open.spotify.com/track/5fZUZEz2a8eGqi0Zo4FInv) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [SPECIAL](https://open.spotify.com/album/7cQIr1zjavl5A58iBKOMOC) | 2:12 | 2024-06-05 | 2025-05-23 |
 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 | 2024-08-28 | 2025-06-07 |
 | [Süzülerek](https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [DÖNMEK İÇİN EVE](https://open.spotify.com/album/64fwU37sl4h3v0FpSBfQ5O) | 3:36 | 2024-06-05 | 2025-05-23 |
@@ -156,7 +158,7 @@
 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 | 2024-06-05 | 2025-05-23 |
 | [Tutun Sen Bana](https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [KADER SK.](https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P) | 2:43 | 2023-09-04 | 2024-07-04 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2023-09-04 | 2024-06-06 |
-| [UZAY](https://open.spotify.com/track/5mNwl2M1tGdcc9M72kUITk) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Moro La Flor](https://open.spotify.com/artist/76L7fLAtBP9KKoY5JsBkJW) | [UZAY](https://open.spotify.com/album/43QEACkUTzXSGkGiSZLJbE) | 2:16 | 2025-08-14 |  |
+| [UZAY](https://open.spotify.com/track/5mNwl2M1tGdcc9M72kUITk) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Moro La Flor](https://open.spotify.com/artist/76L7fLAtBP9KKoY5JsBkJW) | [UZAY](https://open.spotify.com/album/43QEACkUTzXSGkGiSZLJbE) | 2:16 | 2025-08-14 | 2025-09-06 |
 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 | 2025-08-07 |  |
 | [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-09-04 | 2024-06-06 |
 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 | 2025-05-22 |  |
@@ -165,7 +167,7 @@
 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 | 2025-08-07 |  |
 | [Yara Bandı](https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Yara Bandı](https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p) | 3:06 | 2025-06-12 |  |
 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 | 2025-06-24 |  |
-| [Yatakta Kardiyo](https://open.spotify.com/track/676VUuntnKLSYPeQCadLAU) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Yatakta Kardiyo](https://open.spotify.com/album/6cvnpW0P8x9KKjYA0dSdsF) | 3:27 | 2025-07-24 |  |
+| [Yatakta Kardiyo](https://open.spotify.com/track/676VUuntnKLSYPeQCadLAU) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Yatakta Kardiyo](https://open.spotify.com/album/6cvnpW0P8x9KKjYA0dSdsF) | 3:27 | 2025-07-24 | 2025-09-06 |
 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 | 2025-07-02 |  |
 | [Yaz Gülü](https://open.spotify.com/track/2MvC6PUwqLJbM3qluKK5EF) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Yaz Gülü](https://open.spotify.com/album/24sxbVuDc5u8oMfGHIlmkH) | 3:07 | 2023-09-04 | 2024-07-04 |
 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 | 2025-06-16 |  |

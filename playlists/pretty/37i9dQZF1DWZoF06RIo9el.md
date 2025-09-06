@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de agosto 2025\. Cover: J Balvin
+> Lo mejor de septiembre 2025\. Cover: Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,678 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,568 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Pa las girlas \(con DJ Urba\) \- Remix](https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [DJ Urba](https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z) | [Pa las girlas \(con DJ Urba\) \[Remix\]](https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9) | 4:20 |
 | 50 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
 
-Snapshot ID: `AAAAAI3aS+xP4ien+FUkUvvNCR0Snue2`
+Snapshot ID: `AAAAAFZWGOkJKk9pxAx1AQMHAXc3/6a7`

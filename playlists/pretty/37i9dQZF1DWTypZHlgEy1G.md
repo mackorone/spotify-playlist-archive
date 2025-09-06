@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,792 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,795 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 23 | [La chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 |
 | 24 | [Salade de fruits](https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq) | [Bourvil](https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm) | [Salade de fruits + 29 succès de Bourvil \(Chanson française\)](https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7) | 3:15 |
 | 25 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |
-| 26 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
-| 27 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
+| 26 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
+| 27 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
 | 28 | [Le téléphone pleure](https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Les Plus Belles Chansons De Claude François](https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5) | 3:59 |
 | 29 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
 | 30 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 34 | [Paris](https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:42 |
 | 35 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 |
 | 36 | [Je suis malade](https://open.spotify.com/track/4jmrFoFwAMeDqoDSWyI1C7) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 4:09 |
-| 37 | [Tout L'Amour](https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc) | [Dario Moreno](https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF) | [Si Tu Vas A Rio](https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe) | 1:56 |
-| 38 | [Paris sera toujours Paris](https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Fleur De Paris](https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc) | 3:14 |
+| 37 | [Paris sera toujours Paris](https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Fleur De Paris](https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc) | 3:14 |
+| 38 | [Tout L'Amour](https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc) | [Dario Moreno](https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF) | [Si Tu Vas A Rio](https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe) | 1:56 |
 | 39 | [Mamy Blue](https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Les Plus Grands Succes](https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA) | 3:51 |
 | 40 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
 | 41 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |

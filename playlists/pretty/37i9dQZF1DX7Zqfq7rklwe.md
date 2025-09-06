@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa PRESIDENT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,559 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,557 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 16 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 |
 | 17 | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/track/2lQgqBaf5ie7LWiG8NsEGw) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC), [Tomi Joutsen](https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui) | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/album/0hUlq2Cl3WB7n5yBWacztM) | 3:52 |
 | 18 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
-| 19 | [Raveyard](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
+| 19 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
 | 20 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 21 | [Alterlife](https://open.spotify.com/track/3sZaWBT0VYApWjENREYkbi) | [Private Line](https://open.spotify.com/artist/481GnLL2LuCEXvN5a4bG0v) | [Alterlife](https://open.spotify.com/album/2jy23OA0OBDqG2NESufAyx) | 2:58 |
 | 22 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |

@@ -1,13 +1,45 @@
 {
-  "description": "that 50s kinda feeling, cover: Kali Uchis",
-  "num_followers": 71637,
+  "description": "that 50s kinda feeling, cover: Omar Rudberg",
+  "num_followers": 71650,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEzqswYcPizn4xTlseXJJ3bgLMHw",
+  "snapshot_id": "AAAAAEjb1iyl3b4Ym2xVVFhZBfkth1J2",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:20",
+      "album": {
+        "name": "Dying",
+        "url": "https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
+    },
+    {
+      "added_at": "2025-09-05 04:00:20",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
+    },
     {
       "added_at": "2025-05-09 04:00:27",
       "album": {
@@ -763,26 +795,6 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 284305,
-      "name": "This Is How It Feels (with Laufey)",
-      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
       },
@@ -795,26 +807,6 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "added_at": "2025-03-03 16:46:59",

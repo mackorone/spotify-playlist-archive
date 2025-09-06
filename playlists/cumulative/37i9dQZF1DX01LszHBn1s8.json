@@ -18343,6 +18343,24 @@
     },
     {
       "album": {
+        "name": "Mr. Fantasy",
+        "url": "https://open.spotify.com/album/2HE6aJS5aYpobitS6dXTz0"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184494,
+      "name": "Mr. Fantasy",
+      "url": "https://open.spotify.com/track/4zT0nZK95FOuPWt4WC5vXe"
+    },
+    {
+      "album": {
         "name": "Mr. Forgettable",
         "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
       },

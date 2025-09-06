@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Margo Price
 
-644 songs - 1 day 15 hr 17 min
+645 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-18 |  |
 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 | 2021-12-17 | 2022-10-15 |
 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 | 2022-08-19 | 2023-03-04 |
+| [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 | 2025-09-05 |  |
 | [Me More Cowboy Than You \- Demo](https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Me More Cowboy Than You \(Demo\)](https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS) | 2:43 | 2025-01-21 |  |
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-05-12 | 2023-08-26 |
 | [Mercy Me \(Memphis Sessions\)](https://open.spotify.com/track/5411Wbb2RgcMhtyeADXWEF) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Memphis Sessions](https://open.spotify.com/album/16IJckPLGFCIfKsM4ZfscE) | 3:36 | 2023-02-03 | 2024-02-03 |

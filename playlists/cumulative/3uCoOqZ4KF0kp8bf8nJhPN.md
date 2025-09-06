@@ -4,7 +4,7 @@
 
 > 
 
-286 songs - 11 hr 13 min
+287 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [FLUOXETINE!](https://open.spotify.com/track/1daN3DnrDJ79MhRjzIvz2j) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:42 | 2024-12-21 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2025-04-12 |  |
 | [For The Night](https://open.spotify.com/track/2To3FpmzHogJ6FbR6o2Ic1) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [For The Night](https://open.spotify.com/album/6jdMgrdvmAjom2IZFhpHhJ) | 1:25 | 2025-05-28 |  |
+| [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2025-09-05 |  |
 | [FUCK NIGGERS](https://open.spotify.com/track/0JZvx8sGxOBzVHnfASqrv7) | [Echo Datii](https://open.spotify.com/artist/4CMdC57EfHLnO1ifsTyenV), [2ooDarkive](https://open.spotify.com/artist/3vLqK6ywGHAaZtPuTcG5cy) | [FUCK NIGGERS](https://open.spotify.com/album/7KHeMoBJXe24fv7FRRBDMJ) | 2:24 | 2025-04-29 | 2025-05-01 |
 | [FUKKIRETA PLUGGNB](https://open.spotify.com/track/4RVdONWEZk40bK8PNKXEgo) | [prodvera](https://open.spotify.com/artist/40jroOrX9vVTFb19bwKuoh) | [FUKKIRETA PLUGGNB](https://open.spotify.com/album/5oUvwMrGLyJLsaGFXqgo4Z) | 1:24 | 2025-06-20 |  |
 | [galaxy](https://open.spotify.com/track/0eCHafxWdcpnivREAbWlbc) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X) | [galaxy](https://open.spotify.com/album/7BBL1R0SvKo026lLHx2Ssl) | 2:16 | 2025-02-23 | 2025-04-12 |
@@ -198,7 +199,7 @@
 | [snap\-on](https://open.spotify.com/track/61J4623gav13XQku7eHE52) | [5L](https://open.spotify.com/artist/6BjL5fEswNzVzwx9wddLxi), [safe 'n' sound](https://open.spotify.com/artist/524HvGdUbGzYrMKGqKFARw) | [snap\-on](https://open.spotify.com/album/7da0xRmM2WGaZ5v1CeG15P) | 1:27 | 2024-12-08 |  |
 | [sniperz](https://open.spotify.com/track/6QO6TjkmAzCMnd7PBSfeKy) | [5L](https://open.spotify.com/artist/6BjL5fEswNzVzwx9wddLxi) | [sniperz](https://open.spotify.com/album/4fkjR9zQqxqpjAyaP9BDYq) | 1:57 | 2025-05-27 |  |
 | [souvenir!](https://open.spotify.com/track/0nLI01xizAXkil8fElyqAR) | [Lucyen](https://open.spotify.com/artist/5UBw2VnIl4iOxxtjpL83g7) | [the roku files](https://open.spotify.com/album/2Qkt4jgdKor0idLMJ5cXAN) | 1:17 | 2024-12-21 |  |
-| [spinnin round my head](https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [spinnin round my head](https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p) | 1:51 | 2025-02-16 | 2025-05-28 |
+| [spinnin round my head](https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [spinnin round my head](https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p) | 1:51 | 2025-02-16 |  |
 | [Sponge](https://open.spotify.com/track/2idKMCUdqS2XpFAFKN2k1l) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:23 | 2025-03-11 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2025-07-13 |  |
 | [stay the night pluggnb](https://open.spotify.com/track/7mAhxVbneXAvOLv7dyG2NM) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe), [tabris](https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH) | [stay the night pluggnb](https://open.spotify.com/album/3dzg55rvSePS00QhW1p4sX) | 2:07 | 2025-05-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3642840,
+  "num_followers": 3642933,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
-      "added_at": "2023-03-28 15:59:00",
-      "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
       "added_at": "2025-03-25 15:28:45",
       "album": {
         "name": "2nd Time Around (Expanded Edition)",
@@ -375,6 +359,22 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "added_at": "2023-03-28 15:59:00",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1477,26 +1477,6 @@
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
     },
     {
-      "added_at": "2023-03-28 15:59:00",
-      "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Lean on Me: The Best of Bill Withers",
@@ -1527,6 +1507,26 @@
       "duration_ms": 149400,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
+    },
+    {
+      "added_at": "2023-03-28 15:59:00",
+      "album": {
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 181535,
-      "name": "I Don't Wanna Lie",
-      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
         "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 179640,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 181535,
+      "name": "I Don't Wanna Lie",
+      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
     },
     {
       "added_at": "2023-03-28 15:59:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 234093,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2375,34 +2375,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Motown 1970s Vol. 1",
-        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
         }
       ],
-      "duration_ms": 258706,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+      "duration_ms": 178533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2439,6 +2423,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Motown 1970s Vol. 1",
+        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 258706,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Too Hot To Handle",
+        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up In Flames)",
       "url": "https://open.spotify.com/track/4u2KDCwcj8WGcFXDhy1aKL"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Penny & the Quarters EP",
-        "url": "https://open.spotify.com/album/7p975H27xl8eGUtIcHXbCv"
-      },
-      "artists": [
-        {
-          "name": "Penny & The Quarters",
-          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/3ue9zcwNcoYvFqKVjG0C6r"
     }
   ],
   "unique_name": "Feelin' Good",

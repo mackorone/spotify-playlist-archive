@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152695,
+  "num_followers": 152697,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACaUvtcczxUXqa9VflAnaDk",
+  "snapshot_id": "aLjWgAAAAADdy+/REtkRenc6Eo9CWmOx",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 209181,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 209181,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 183817,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": null,

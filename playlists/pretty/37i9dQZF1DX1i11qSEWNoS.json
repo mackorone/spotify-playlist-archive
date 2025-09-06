@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 631518,
+  "num_followers": 631637,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -927,22 +943,6 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -1059,58 +1059,6 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "It's My Life (Techno Remix)",
-        "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
-      },
-      "artists": [
-        {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        },
-        {
-          "name": "Jawny Sparklez",
-          "url": "https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "It's My Life - Techno Remix",
-      "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
-        "name": "Dein Mann Freestyle",
-        "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
-      },
-      "artists": [
-        {
-          "name": "benno!",
-          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
-        }
-      ],
-      "duration_ms": 145989,
-      "name": "Dein Mann Freestyle",
-      "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -1131,6 +1079,26 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
+        "name": "It's My Life (Techno Remix)",
+        "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
+      },
+      "artists": [
+        {
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
+        },
+        {
+          "name": "Jawny Sparklez",
+          "url": "https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "It's My Life - Techno Remix",
+      "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1147,6 +1115,38 @@
       "duration_ms": 140986,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
+        "name": "Dein Mann Freestyle",
+        "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "duration_ms": 145989,
+      "name": "Dein Mann Freestyle",
+      "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
         "name": "HERZBLATT (AUA AUA)",
         "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 160886,
       "name": "HERZBLATT (AUA AUA)",
       "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 281746,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "Mona Lisa Motion",
-        "url": "https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Mona Lisa Motion",
-      "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
         "name": "How You Remind Me",
         "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 148411,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
+        "name": "Mona Lisa Motion",
+        "url": "https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Mona Lisa Motion",
+      "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
     },
     {
       "added_at": "2025-08-28 22:00:09",

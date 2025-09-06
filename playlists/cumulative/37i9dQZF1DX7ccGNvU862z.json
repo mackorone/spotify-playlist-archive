@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: P6ICK",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Hunsick",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -975,6 +975,28 @@
     },
     {
       "album": {
+        "name": "BU",
+        "url": "https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166700,
+      "name": "BU",
+      "url": "https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq"
+    },
+    {
+      "album": {
         "name": "Bus Stop",
         "url": "https://open.spotify.com/album/5wDfbJdF78dErFzMzFWnlJ"
       },
@@ -1686,6 +1708,24 @@
       "duration_ms": 273862,
       "name": "E4ZY",
       "url": "https://open.spotify.com/track/28Fe3WAjU768tqKB1L6uSu"
+    },
+    {
+      "album": {
+        "name": "exotic",
+        "url": "https://open.spotify.com/album/02CmTNN4Xm5zYZFKia5oeQ"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "exotic",
+      "url": "https://open.spotify.com/track/1z1YcW0oWGbYSHjnWFx4dq"
     },
     {
       "album": {
@@ -3472,7 +3512,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 207867,
       "name": "Ma Boi",
       "url": "https://open.spotify.com/track/3HMnB5MjDSK1FNSEndEKXl"
@@ -5082,7 +5122,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 180000,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/3LJdM5B8POsS6aG4ri5TQ3"
@@ -6767,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6agUFVtKftDsy3xKq8JJVh"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0aVqaHDGnUVMk4tYKtGa5Z"
+    },
+    {
+      "album": {
         "name": "Mixed emotions",
         "url": "https://open.spotify.com/album/3IxU7scm3VLbXSDvG77Z3T"
       },
@@ -8220,7 +8278,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 233034,
       "name": "\u0e04\u0e48\u0e33\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/3rAEwhZCDnP6evXJTfjSOa"
@@ -11903,6 +11961,32 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e39\u0e14",
+        "url": "https://open.spotify.com/album/2G73flPSxa3XTjO1hhYlId"
+      },
+      "artists": [
+        {
+          "name": "CDGuntee",
+          "url": "https://open.spotify.com/artist/6hzuCOHEv2eDQrxfQWFbp7"
+        },
+        {
+          "name": "Sirpoppa",
+          "url": "https://open.spotify.com/artist/2RKv2lORS7omWEHRWweLqp"
+        },
+        {
+          "name": "GUYGEEGEE",
+          "url": "https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e39\u0e14",
+      "url": "https://open.spotify.com/track/7I9ubZxrALPIHYNUN807DF"
+    },
+    {
+      "album": {
         "name": "PARAGON DEMON",
         "url": "https://open.spotify.com/album/5YNVxOuJPYy432DbTYMluj"
       },
@@ -11976,6 +12060,24 @@
       "duration_ms": 157500,
       "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e27\u0e49\u0e32\u0e27\u0e38\u0e48\u0e19",
       "url": "https://open.spotify.com/track/7bPl0qB6bEIXFOnGdWDWPV"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27 (Motel)",
+        "url": "https://open.spotify.com/album/4U4p947uTk2cTvDkMCwQMX"
+      },
+      "artists": [
+        {
+          "name": "Hunsick",
+          "url": "https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27 (Motel)",
+      "url": "https://open.spotify.com/track/36lfPTcsWLOTUDrDeOdeZT"
     },
     {
       "album": {
@@ -12522,7 +12624,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 227647,
       "name": "\u0e40\u0e04\u0e22\u0e04\u0e34\u0e14\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49 (feat. SIMON & SARAN)",
       "url": "https://open.spotify.com/track/4n59FNaSSgzZ2wYT2RKsw1"
@@ -12696,7 +12798,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 232131,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e42\u0e14\u0e22\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e34\u0e20\u0e32\u0e1e",
       "url": "https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5"
@@ -13557,6 +13659,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2a\u0e21\u0e2d\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/31SJ9ZXkxAxtcLdmqizIzj"
+      },
+      "artists": [
+        {
+          "name": "Archy",
+          "url": "https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264414,
+      "name": "\u0e40\u0e2a\u0e21\u0e2d\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/6WWgPH131RNf3pnzCF1wg2"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e0a\u0e32\u0e15\u0e34",
         "url": "https://open.spotify.com/album/3WcTSeXr47fJebmOGAgUd9"
       },
@@ -14154,7 +14274,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 315177,
       "name": "\u0e42\u0e01\u0e2a\u0e21\u0e39\u0e1f\u0e27\u0e35\u0e48",
       "url": "https://open.spotify.com/track/65vZPz4AJXIvy0rwDWxxcj"

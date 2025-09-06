@@ -2,9 +2,9 @@
 
 ### [まどろみの中で](https://open.spotify.com/playlist/37i9dQZF1DX9rVeQ0kNLOd)
 
-> いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
+> いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。cover: 藤井 風
 
-373 songs - 22 hr 36 min
+375 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,13 +161,14 @@
 | [Roulette](https://open.spotify.com/track/7pQ241OlUabMsT9qwiyWtV) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Roulette](https://open.spotify.com/album/66NYjSHUYFmgIW1VYKMASB) | 2:39 | 2024-08-28 | 2024-09-26 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-11-24 | 2023-03-14 |
 | [Saintwood](https://open.spotify.com/track/7BvlhGNncFMJUpG89VmwE0) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [CIRCLE](https://open.spotify.com/album/0XYuAdUfNURaY1bvS8orRU) | 4:32 | 2024-02-13 | 2024-03-06 |
-| [Sea View](https://open.spotify.com/track/61tB8T9x341anDxDEv2bPS) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Sea View](https://open.spotify.com/album/4HCbqZVDHvbv3R0mmCtsiG) | 3:12 | 2025-08-19 |  |
+| [say my name](https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [say my name](https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p) | 4:03 | 2025-09-05 |  |
+| [Sea View](https://open.spotify.com/track/61tB8T9x341anDxDEv2bPS) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Sea View](https://open.spotify.com/album/4HCbqZVDHvbv3R0mmCtsiG) | 3:12 | 2025-08-19 | 2025-09-06 |
 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 | 2022-10-20 | 2023-01-25 |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2022-12-13 | 2023-02-01 |
 | [set me free](https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU) | 3:50 | 2022-12-13 | 2022-12-15 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-03-25 | 2024-04-19 |
 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 | 2024-04-02 |  |
-| [SIKI](https://open.spotify.com/track/64PhKkjPcvrhmTUr2KvgHz) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [SIKI](https://open.spotify.com/album/2VYvIxxn8CXrWwmn4vTeBq) | 3:36 | 2025-01-14 |  |
+| [SIKI](https://open.spotify.com/track/64PhKkjPcvrhmTUr2KvgHz) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [SIKI](https://open.spotify.com/album/2VYvIxxn8CXrWwmn4vTeBq) | 3:36 | 2025-01-14 | 2025-09-06 |
 | [silky](https://open.spotify.com/track/0MKUVUddZJj3ZMyEs8rRoa) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [silky](https://open.spotify.com/album/5D4AJjp6ggGo9NvwFs7QAR) | 4:17 | 2023-06-27 | 2023-09-27 |
 | [silky](https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [silky](https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV) | 4:17 | 2023-06-27 | 2023-06-29 |
 | [Simple and Sweet](https://open.spotify.com/track/3l9S4RkBPkAuspL6spxzzv) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Simple and Sweet](https://open.spotify.com/album/1cYffJtaJx5J1eQJ3Arwxe) | 2:53 | 2023-02-02 | 2023-02-09 |
@@ -227,6 +228,7 @@
 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 | 2022-10-20 |  |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2023-03-14 | 2024-04-19 |
 | [yokan](https://open.spotify.com/track/0ncp0LnvQKzwweTq7HIjn4) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [yokan](https://open.spotify.com/album/2DlofrRkHldc6Cb5dm6dZT) | 2:56 | 2024-07-30 | 2024-09-26 |
+| [You](https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:41 | 2025-09-05 |  |
 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 | 2023-11-07 | 2023-11-16 |
 | [Your Favorite Things](https://open.spotify.com/track/1BChLfdJmv6rPKnZyTNOQ2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:20 | 2024-02-28 | 2024-04-03 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-10-20 | 2022-10-26 |
@@ -356,11 +358,11 @@
 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 | 2024-09-18 | 2025-05-21 |
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
 | [真昼の夢](https://open.spotify.com/track/0sneQsJRZnCeaxgQbE5a81) | [はろう](https://open.spotify.com/artist/4mVycvje9Dlu1rY7koeFKl) | [真昼の夢](https://open.spotify.com/album/2PiWTYtSueyDS2XXd6JrB4) | 4:39 | 2023-05-25 | 2023-08-23 |
-| [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 | 2023-09-14 | 2025-08-20 |
+| [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 | 2023-09-14 |  |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-18 |  |
 | [紫苑](https://open.spotify.com/track/0tzkqPsJQBm6lvtYp61rT5) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [紫苑](https://open.spotify.com/album/3NgD4PnatrEWfRI88cSA0c) | 4:07 | 2024-06-12 | 2024-08-29 |
 | [美談](https://open.spotify.com/track/4CjfEPZ9S0Rh8sZXqVL45Y) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 4:50 | 2023-03-14 | 2023-03-16 |
-| [羽を宿して](https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [羽を宿して](https://open.spotify.com/album/2AbE8dFrIVJf5yH7vQ9fTY) | 4:25 | 2024-12-03 |  |
+| [羽を宿して](https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [羽を宿して](https://open.spotify.com/album/2AbE8dFrIVJf5yH7vQ9fTY) | 4:25 | 2024-12-03 | 2025-09-06 |
 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 | 2023-04-13 | 2023-05-23 |
 | [花束 \(Prod\. GeG\)](https://open.spotify.com/track/7vFCRureXEHFZQdWpeCA4D) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [花束 \(Prod\. GeG\)](https://open.spotify.com/album/1SfsipchsPouhaPsHaamha) | 3:20 | 2023-12-21 | 2023-12-23 |
 | [花瓶](https://open.spotify.com/track/3sxcncyvcTJspkePuvs0k1) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [花瓶](https://open.spotify.com/album/5CcSSBfqlEaeQOX5SQpLbM) | 3:52 | 2023-01-17 | 2023-02-01 |

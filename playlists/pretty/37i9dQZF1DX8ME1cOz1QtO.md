@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,826 likes - 100 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,880 likes - 100 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 46 | [The Fifth Wave \- Water Lullaby](https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:47 |
 | 47 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
 | 48 | [Zen Garden of the Soul Part III \- IV](https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 6:22 |
-| 49 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
-| 50 | [Canyon Sunrise](https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Desert Dawn Song](https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW) | 8:32 |
+| 49 | [Canyon Sunrise](https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Desert Dawn Song](https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW) | 8:32 |
+| 50 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
 | 51 | [Stepping Stars](https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:45 |
 | 52 | [Alchemy](https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sands of Time: Selected Studio & Concert Recordings 1974\-1990](https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI) | 7:35 |
 | 53 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 |

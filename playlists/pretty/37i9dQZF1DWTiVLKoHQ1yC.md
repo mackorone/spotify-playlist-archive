@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,076 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,129 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 24 | [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 |
 | 25 | [Around](https://open.spotify.com/track/0qDYl6Bj6oTuaBLNKZfuHb) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/339nH3LvJ62PHz7OXYAYwd), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Around](https://open.spotify.com/album/4ANmjIhAGKLPOl9F3NrqWC) | 3:07 |
 | 26 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
-| 27 | [Hide U](https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI) | [Kosheen](https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Hide U](https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG) | 3:48 |
-| 28 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 |
+| 27 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 |
+| 28 | [Hide U](https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI) | [Kosheen](https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Hide U](https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG) | 3:48 |
 | 29 | [Full Senses](https://open.spotify.com/track/7HPqSOqNJDY0D0x4S2DUEl) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Futuregate EP](https://open.spotify.com/album/2144wrwR6t8gSTZWIkAYSZ) | 4:05 |
 | 30 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 31 | [Midnight Sun](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Midnight Sun](https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ) | 3:24 |

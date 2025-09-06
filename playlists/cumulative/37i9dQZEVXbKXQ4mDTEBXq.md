@@ -4,13 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-639 songs - 1 day 15 hr 4 min
+640 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [&ME](https://open.spotify.com/track/2uGrSoj2G2ttrcGvDSl5Bg) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 2:55 | 2023-12-20 | 2024-01-11 |
 | [&ME](https://open.spotify.com/track/44muA7zBeipDRXs1uaTNLv) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 2:55 | 2023-12-18 | 2023-12-21 |
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-11-30 | 2023-12-02 |
+| [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 | 2025-09-05 |  |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2021-03-27\* | 2023-10-10 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2023-12-25 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
@@ -451,7 +452,7 @@
 | [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-07-05 | 2022-12-14 |
 | [ヒロイン](https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 4:29 | 2023-12-25 | 2025-01-07 |
 | [ビターバカンス](https://open.spotify.com/track/6DYV1GqwCTrvfPcjeFwjLt) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ビターバカンス](https://open.spotify.com/album/3pyb3jN1Ul9xr4zifPZxCz) | 3:18 | 2024-11-29 | 2025-07-09 |
-| [ビターバカンス](https://open.spotify.com/track/6aOhyW3xoiiQSNRSsOpLcF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:20 | 2025-07-08 |  |
+| [ビターバカンス](https://open.spotify.com/track/6aOhyW3xoiiQSNRSsOpLcF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:20 | 2025-07-08 | 2025-09-06 |
 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 | 2024-04-05 | 2024-08-09 |
 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 | 2024-08-08 | 2024-09-03 |
 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 | 2023-01-23 | 2023-03-31 |

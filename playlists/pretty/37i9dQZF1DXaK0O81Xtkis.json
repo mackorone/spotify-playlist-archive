@@ -1,13 +1,45 @@
 {
-  "description": "a little indie, a little pop, soda featuring Nicky Youre",
-  "num_followers": 228433,
+  "description": "a little indie, a little pop, soda featuring Will Linley",
+  "num_followers": 228480,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPEYOWc6VnF6AP7gtwZiSZfKn/6A",
+  "snapshot_id": "AAAAAL0x3TD6bxdwetpF24XJ/QD7f0eh",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "Don\u2019t Cry Because It\u2019s Over",
+        "url": "https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST"
+    },
+    {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+    },
     {
       "added_at": "2025-08-29 04:00:39",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 175716,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
+    },
+    {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "Dream Ride",
+        "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
+    },
+    {
+      "added_at": "2025-09-05 04:27:02",
+      "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "HEART AWAY",
+      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
     },
     {
       "added_at": "2025-08-22 14:59:17",
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
     },
     {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "brand new me!",
+        "url": "https://open.spotify.com/album/25lmBwKaUhxe5lt3LYrBTg"
+      },
+      "artists": [
+        {
+          "name": "homepage",
+          "url": "https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "brand new me!",
+      "url": "https://open.spotify.com/track/00oIgUaZ98Kv1IzJlMLR8i"
+    },
+    {
       "added_at": "2025-08-29 04:00:39",
       "album": {
         "name": "Summer",
@@ -57,22 +137,6 @@
       "url": "https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN"
     },
     {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Up At Night",
-        "url": "https://open.spotify.com/album/0K347ayQtQ5dMyag0pFpRe"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Up At Night",
-      "url": "https://open.spotify.com/track/5cwO8XtcnqTmXodqBbkKi0"
-    },
-    {
       "added_at": "2025-08-29 04:00:39",
       "album": {
         "name": "Outbound",
@@ -87,6 +151,22 @@
       "duration_ms": 227253,
       "name": "Outbound",
       "url": "https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK"
+    },
+    {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "american zombie",
+        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 153211,
+      "name": "american zombie",
+      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
     },
     {
       "added_at": "2025-08-29 04:00:39",
@@ -137,6 +217,26 @@
       "url": "https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5"
     },
     {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "Ever After (feat. eaJ)",
+        "url": "https://open.spotify.com/album/1gPsYiuE31zrJBdNqCP78s"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 166544,
+      "name": "Ever After (feat. eaJ)",
+      "url": "https://open.spotify.com/track/0MnSQChsBB4y4ARVbIGN70"
+    },
+    {
       "added_at": "2025-08-22 14:59:17",
       "album": {
         "name": "New Heart",
@@ -169,6 +269,22 @@
       "url": "https://open.spotify.com/track/1IEcpd2OmAA9KNO6cfTn4D"
     },
     {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "Somebody You Like",
+        "url": "https://open.spotify.com/album/77euuQgjEcgsmuk4myDHZ7"
+      },
+      "artists": [
+        {
+          "name": "primo.io",
+          "url": "https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "Somebody You Like",
+      "url": "https://open.spotify.com/track/1WJ66qjiS1DTZC3U0FcGsj"
+    },
+    {
       "added_at": "2025-08-29 04:00:39",
       "album": {
         "name": "ICONIC EP",
@@ -183,6 +299,22 @@
       "duration_ms": 158133,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
+    },
+    {
+      "added_at": "2025-09-05 04:00:28",
+      "album": {
+        "name": "Horizons: Dusk",
+        "url": "https://open.spotify.com/album/5kx482uBYMlYjIgzGfrdmX"
+      },
+      "artists": [
+        {
+          "name": "Adrian Lyles",
+          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/3IfZgsFeQe31nGg4xcb5AX"
     },
     {
       "added_at": "2025-08-22 14:59:17",
@@ -911,22 +1043,6 @@
     {
       "added_at": "2025-08-22 14:59:17",
       "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 174969,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
         "name": "comedown",
         "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
       },
@@ -939,38 +1055,6 @@
       "duration_ms": 192684,
       "name": "comedown",
       "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "The Buccaneers: S2 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Miss You To Death",
-      "url": "https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     }
   ],
   "unique_name": "soda",

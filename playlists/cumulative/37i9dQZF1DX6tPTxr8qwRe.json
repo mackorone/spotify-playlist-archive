@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Ashnikko",
+  "description": "Dark, hard hitting pop. Cover: L\u00d8L\u00d8",
   "name": "SALT",
   "tracks": [
     {
@@ -662,6 +662,24 @@
       "duration_ms": 178260,
       "name": "American Spirit",
       "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
+    },
+    {
+      "album": {
+        "name": "american zombie",
+        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153211,
+      "name": "american zombie",
+      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
     },
     {
       "album": {
@@ -2278,6 +2296,24 @@
       "duration_ms": 170986,
       "name": "break me",
       "url": "https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ"
+    },
+    {
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
       "album": {
@@ -8277,6 +8313,24 @@
     },
     {
       "album": {
+        "name": "In House Enemy",
+        "url": "https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY"
+      },
+      "artists": [
+        {
+          "name": "Akeira Jade",
+          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "In House Enemy",
+      "url": "https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR"
       },
@@ -12932,7 +12986,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 149549,
       "name": "ROCKNROLL",
       "url": "https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3"
@@ -15236,7 +15290,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 159234,
       "name": "the devil wears converse",
       "url": "https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl"
@@ -16064,7 +16118,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 157090,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/5UCxUTkbkfayryv1awEuTD"

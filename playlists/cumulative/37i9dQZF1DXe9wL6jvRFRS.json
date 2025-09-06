@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Poke",
+        "url": "https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226167,
+      "name": "Poke",
+      "url": "https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP"
+    },
+    {
+      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/5fLKCgQ0kmovPnvsebJrfY"
       },

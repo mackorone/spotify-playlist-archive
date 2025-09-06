@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,584,729 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,584,789 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
 | 75 | [Torch](https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [Torch](https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX) | 2:53 |
 
-Snapshot ID: `AAAAAIZCCgnolo1wcT/yowXQtxba5Jof`
+Snapshot ID: `AAAAAOkAFi3RogxkHiwMlmmSCwFdtZMg`

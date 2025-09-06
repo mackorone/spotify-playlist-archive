@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 352436,
+  "num_followers": 352646,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-07-31 22:01:20",
       "album": {
+        "name": "Viewpoint",
+        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
+    },
+    {
+      "added_at": "2025-07-31 22:01:20",
+      "album": {
         "name": "Ma quale idea (Myd Remix)",
         "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
-    },
-    {
-      "added_at": "2025-07-31 22:01:20",
-      "album": {
-        "name": "Viewpoint",
-        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
     },
     {
       "added_at": "2025-07-31 22:01:20",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-07-31 22:01:20",
       "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2025-07-31 22:01:20",
+      "album": {
         "name": "Emanuela (Giu Le Mani) [Protopapa Remix]",
         "url": "https://open.spotify.com/album/3HQn5Q1RsHAWtJ7pzp91sn"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 284779,
       "name": "Emanuela (Giu Le Mani) - Protopapa Remix",
       "url": "https://open.spotify.com/track/7CrM3VsvrSPTqUzXfZRban"
-    },
-    {
-      "added_at": "2025-07-31 22:01:20",
-      "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2025-07-31 22:01:20",

@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31684,
+  "num_followers": 31686,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -444,9 +444,25 @@
           "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -467,22 +483,6 @@
       "duration_ms": 530866,
       "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
       "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -708,6 +708,22 @@
       "added_at": "2024-10-25 07:48:43",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
       },
       "artists": [
@@ -723,22 +739,6 @@
       "duration_ms": 269300,
       "name": "Colors - Spotify Singles",
       "url": "https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "You Can't See for Lookin' - Live",
-      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "You Can't See for Lookin' - Live",
+      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 345163,
-      "name": "Fallin' (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/5vURZwuyDYghDT37phhUME"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live In Stockholm",
         "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 341551,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 345163,
+      "name": "Fallin' (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/5vURZwuyDYghDT37phhUME"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Curtis Live! (US Release)",
-        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
         }
       ],
-      "duration_ms": 196040,
-      "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
-      "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
+      "duration_ms": 236026,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
+        "name": "Curtis Live! (US Release)",
+        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 236026,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
+      "duration_ms": 196040,
+      "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
+      "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 299938,
-      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live And In Living Color",
         "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 394973,
       "name": "What Is Hip? - Live Version",
       "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 299938,
+      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Like a Ship (Live from Strange Manor)",
-        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 309493,
-      "name": "Like a Ship - Live from Strange Manor",
-      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 220546,
       "name": "Add To Me - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Like a Ship (Live from Strange Manor)",
+        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 309493,
+      "name": "Like a Ship - Live from Strange Manor",
+      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Know You Better (Live from Brooklyn Paramount)",
-        "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 475293,
-      "name": "Know You Better - Live from Brooklyn Paramount",
-      "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Simply The Best: Live!",
         "url": "https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 158533,
       "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
       "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Know You Better (Live from Brooklyn Paramount)",
+        "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 475293,
+      "name": "Know You Better - Live from Brooklyn Paramount",
+      "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At The Montreaux Jazz Festival",
-        "url": "https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF"
       },
       "artists": [
         {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 490266,
-      "name": "Move To Groove - Live At The Montreaux Jazz Festival/1972",
-      "url": "https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd"
+      "duration_ms": 548378,
+      "name": "Unconditional Love",
+      "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
     }
   ],
   "unique_name": "Soul Live",

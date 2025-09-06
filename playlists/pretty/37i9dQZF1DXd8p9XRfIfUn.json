@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 80343,
+  "num_followers": 80352,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "X Ti Lo Digo",
+        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 191323,
+      "name": "X Ti Lo Digo",
+      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "ENTE VIRTUAL",
         "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 129229,
       "name": "ENTE VIRTUAL",
       "url": "https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "X Ti Lo Digo",
-        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 191323,
-      "name": "X Ti Lo Digo",
-      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

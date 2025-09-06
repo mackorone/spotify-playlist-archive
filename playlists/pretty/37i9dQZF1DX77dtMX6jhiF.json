@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 16280,
+  "num_followers": 16282,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Love And Liberation",
+        "url": "https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 319640,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "EDNA",
         "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 277786,
       "name": "Cold (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Love And Liberation",
-        "url": "https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR"
-      },
-      "artists": [
-        {
-          "name": "Jazzmeia Horn",
-          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
-        }
-      ],
-      "duration_ms": 319640,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -795,6 +795,30 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Born 2 Rap",
+        "url": "https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "J. Stone",
+          "url": "https://open.spotify.com/artist/5vIbOHLEq5uLoCRV6ys20U"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 314262,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "THE NEWS",
         "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
       },
@@ -827,30 +851,6 @@
       "duration_ms": 234271,
       "name": "Quarantine Wifey (feat. JID)",
       "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Born 2 Rap",
-        "url": "https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "J. Stone",
-          "url": "https://open.spotify.com/artist/5vIbOHLEq5uLoCRV6ys20U"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 314262,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0"
     },
     {
       "added_at": "2022-10-01 16:57:49",

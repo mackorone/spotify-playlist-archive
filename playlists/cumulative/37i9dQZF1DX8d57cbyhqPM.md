@@ -4,10 +4,11 @@
 
 > Du Congo, au monde 🌍 avec Tontons SenSey' et Bolémvn.
 
-634 songs - 1 day 12 hr 5 min
+635 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#LaVieDeLocksé](https://open.spotify.com/track/3rOAYKxHnLEdl03uouLEPy) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [\#LaVieDeLocksé](https://open.spotify.com/album/7M9QXZCKZhfTNl7CnMoqhG) | 2:20 | 2025-09-04 |  |
 | [+44](https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [+44](https://open.spotify.com/album/4aYW78gBLVZgQsKNT5K194) | 3:00 | 2024-03-22 | 2024-04-13 |
 | [100](https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [100](https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb) | 2:37 | 2022-06-30 | 2022-08-27 |
 | [100 Pas](https://open.spotify.com/track/1CgxZZtNdoDI3MZkDFtecn) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [100 Pas](https://open.spotify.com/album/6zQbsSlWHgeJBk0UVp1akz) | 2:31 | 2025-02-21 | 2025-05-17 |
@@ -116,7 +117,7 @@
 | [Cascade](https://open.spotify.com/track/75qfjGyoLxXZz5ybYNX9pA) | [Elygha](https://open.spotify.com/artist/6Nh15Mr3cEZL5ayTNArNaH) | [Cascade](https://open.spotify.com/album/3nihl21GfnOtRsjrFnZ37x) | 3:43 | 2022-11-25 | 2023-03-18 |
 | [CDQ](https://open.spotify.com/track/0CjGQyX0YHYibChVyStSnj) | [Arnaud Ndongala](https://open.spotify.com/artist/4MxUaA8AFEgDdjLIQKP3j8) | [CDQ](https://open.spotify.com/album/7e50CSpqBejmMVBRhMDIKy) | 2:52 | 2022-06-30 | 2022-07-16 |
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 | 2024-10-05 |
-| [Chemise italienne](https://open.spotify.com/track/2FpuSJ0F3hBhKGTjCNQgbb) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Chemise italienne](https://open.spotify.com/album/5hGkmuTtT032070zhHmiGq) | 2:32 | 2025-07-04 |  |
+| [Chemise italienne](https://open.spotify.com/track/2FpuSJ0F3hBhKGTjCNQgbb) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Chemise italienne](https://open.spotify.com/album/5hGkmuTtT032070zhHmiGq) | 2:32 | 2025-07-04 | 2025-09-06 |
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2025-03-08 |
 | [Choco](https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Chocomix](https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh) | 2:56 | 2023-03-17 | 2023-04-29 |
 | [Chouchou des nanas](https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Chouchou des nanas](https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY) | 2:24 | 2024-06-07 | 2025-05-24 |
@@ -445,7 +446,7 @@
 | [Nous Deux](https://open.spotify.com/track/4SKamIlowPlWqUYwc0M31W) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Nous Deux](https://open.spotify.com/album/70kLp4rJ4DEQTcewmFw16p) | 2:14 | 2024-09-13 | 2025-02-01 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2024-09-28 |
 | [Nous2](https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf) | 7:00 | 2023-06-30 | 2024-03-09 |
-| [Numéro](https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [Numéro](https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi) | 3:00 | 2025-04-18 |  |
+| [Numéro](https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [Numéro](https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi) | 3:00 | 2025-04-18 | 2025-09-06 |
 | [Nyash](https://open.spotify.com/track/5ODAaPhmmLTzNV6uVMg09X) | [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN), [The Gucci](https://open.spotify.com/artist/3O1lIvIcDzKIooiGxGf565) | [Nyash](https://open.spotify.com/album/0AC6NOg0zsesoxhWnTUhHh) | 3:42 | 2025-03-14 | 2025-04-26 |
 | [Nyonga](https://open.spotify.com/track/3NthrOhvKorMzs4Mle09vP) | [DODY OBAMS](https://open.spotify.com/artist/3B7F4YIsNAoFHm605iOcz9) | [Nyonga](https://open.spotify.com/album/147gWZmqapFKm2tc85GVvU) | 3:01 | 2025-01-24 | 2025-02-22 |
 | [Nzinzi](https://open.spotify.com/track/2M7sghd8d1oYp9c2EJx73a) | [Emeneya](https://open.spotify.com/artist/0aXhvt1i5dqdRjRDcpok9F) | [Nzinzi](https://open.spotify.com/album/0iJBsklN13ARWLxZKMYUud) | 8:12 | 2023-01-27 | 2023-03-11 |

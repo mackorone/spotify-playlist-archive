@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  不平靜水域
 
-1,506 songs - 3 day 12 hr 58 min
+1,507 songs - 3 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [high tides, low tides.](https://open.spotify.com/track/4PJM5jGizbLD6p5Bj5fRyp) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [high tides, low tides.](https://open.spotify.com/album/5jQ0p2CgmlV22D3gCGlRIq) | 3:31 | 2024-02-29 | 2024-06-07 |
 | [HKG](https://open.spotify.com/track/3146nqEIiusAEGcFxsHMyP) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [TAHITI](https://open.spotify.com/artist/18hBb9LiOSU4mstErGGIfM) | [HKG](https://open.spotify.com/album/0huDSWaS852bt2S60AA14s) | 2:44 | 2025-04-24 | 2025-08-01 |
 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 | 2022-09-01 | 2023-01-06 |
+| [HOME](https://open.spotify.com/track/3MMQti3NMAQDe9voFoALZ1) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [HOME](https://open.spotify.com/album/0hz9xSkSqkUQvj2goTmySx) | 3:00 | 2025-09-04 |  |
 | [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 | 2023-09-01 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-10 |
 | [Honesty](https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Honesty](https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs) | 4:11 | 2024-08-08 | 2024-12-13 |

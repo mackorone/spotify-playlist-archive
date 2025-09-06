@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63152,
+  "num_followers": 63159,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAAD7PPkaU75QThCX3DLuPL1",
+  "snapshot_id": "aLjWgAAAAACfLYYkXvsqvoEQjpmv5o2e",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Mais Perto Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pardal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 415099,
       "name": "Pardal - Ao Vivo",
       "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Mais Perto Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
     },
     {
       "added_at": null,
@@ -796,49 +796,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 291266,
-      "name": "Meu Maior Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 388989,
-      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     },
     {
       "added_at": null,
@@ -863,6 +823,46 @@
       "duration_ms": 379803,
       "name": "Maravilhado",
       "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
         }
       ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
+      "duration_ms": 265586,
+      "name": "Os Que Esperam - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
     },
     {
       "added_at": null,
@@ -1039,18 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
         }
       ],
-      "duration_ms": 265586,
-      "name": "Os Que Esperam - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": null,

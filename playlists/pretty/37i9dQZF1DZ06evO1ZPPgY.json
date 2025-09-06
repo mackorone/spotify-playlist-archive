@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 229656,
+  "num_followers": 229689,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACLPELG57GXKlofl6ltoEnA",
+  "snapshot_id": "aLjWgAAAAACFvgiXgxXmjNpA+egYVCyJ",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Oh Love, Well We Finally Made It",
+      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 294066,
       "name": "Dark And Lovely (You Over There)",
       "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Oh Love, Well We Finally Made It",
-      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Balu Brigada
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Colony House
 
 2,996 songs - 6 day 19 hr 42 min
 

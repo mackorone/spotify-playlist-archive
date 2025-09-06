@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 174728,
+  "num_followers": 174749,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAB182uwnwyRmqC8A1HmHEI/",
+  "snapshot_id": "aLjWgAAAAAACM8slXdAYZixD1lCnDOLK",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 200163,
-      "name": "Black Crown",
-      "url": "https://open.spotify.com/track/4ohfZza9elH8aGdqRPbFoy"
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/1TBOPJx69RayvK6CJOK0uy"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 186052,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/1TBOPJx69RayvK6CJOK0uy"
+      "duration_ms": 200163,
+      "name": "Black Crown",
+      "url": "https://open.spotify.com/track/4ohfZza9elH8aGdqRPbFoy"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
-        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Dirt And Roses",
-      "url": "https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 255960,
       "name": "The Black Market",
       "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
+        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Dirt And Roses",
+      "url": "https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 217720,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
     },
     {
       "added_at": null,

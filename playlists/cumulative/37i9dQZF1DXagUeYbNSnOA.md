@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring KORDELYA\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring Bardo\. Updates every Wednesday.
 
 2,634 songs - 5 day 20 hr 51 min
 

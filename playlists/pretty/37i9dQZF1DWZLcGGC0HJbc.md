@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > sad girl summer 2025 in full swing\. Curated by néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,064 likes - 94 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,060 likes - 94 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

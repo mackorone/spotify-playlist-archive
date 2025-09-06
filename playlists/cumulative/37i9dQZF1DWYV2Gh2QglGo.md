@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Cameron Whitcomb
 
-383 songs - 20 hr 28 min
+384 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 | 2024-06-28 | 2024-10-19 |
 | [Bittersweet](https://open.spotify.com/track/5p8SGq5NRrDBwQMWXs9ZDX) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Bittersweet](https://open.spotify.com/album/1HwotcH7kAFTnAG3DLrdEA) | 3:11 | 2025-02-28 | 2025-03-22 |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-06-28 | 2024-09-28 |
+| [Blue Lights](https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 2:21 | 2025-09-05 |  |
 | [Bobcaygeon](https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bobcaygeon](https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1) | 4:43 | 2024-09-27 | 2024-11-02 |
 | [Bonfire On The Beach](https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Bonfire On The Beach](https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO) | 2:27 | 2025-08-22 |  |
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 | 2025-01-25 |
@@ -249,6 +250,7 @@
 | [One Hell of a Woman](https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 4:49 | 2024-10-18 | 2025-03-15 |
 | [One More](https://open.spotify.com/track/2Pl5M4e1slMK9WM8eqrt2p) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [One More](https://open.spotify.com/album/50JaBZEeUol45CYcP6WQgg) | 2:56 | 2024-06-28 | 2024-07-06 |
 | [One Of Us](https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/7k4OxnPKWsANIan8pfS6aK) | 2:57 | 2025-07-25 |  |
+| [One Trick Pony](https://open.spotify.com/track/74CYjbZ691m6B1EWX929uz) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [One Trick Pony](https://open.spotify.com/album/2TenFyX2Skm5PiXvsrZuJz) | 3:01 | 2025-09-05 |  |
 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 | 2025-03-07 |  |
 | [Outliving](https://open.spotify.com/track/1yLUBXYa3r768BBzp63duL) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Outliving \(For Mom\)](https://open.spotify.com/album/49L9I4n7kIxGBOjakpxuCo) | 3:48 | 2024-09-27 | 2024-10-26 |
 | [Outta the Bar](https://open.spotify.com/track/6zzOichWfkqq3kX8AlwUaq) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Outta the Bar](https://open.spotify.com/album/3KF7JlHe1YEVsMhyAjiW3c) | 3:07 | 2025-06-27 | 2025-08-09 |
@@ -339,7 +341,6 @@
 | [Tomorrow](https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Tomorrow](https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex) | 4:27 | 2024-11-29 | 2025-02-01 |
 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 | 2025-04-11 | 2025-05-10 |
 | [too hot to be sad](https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 2:44 | 2024-06-28 | 2024-09-07 |
-| [Track 3](https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 0:00 | 2025-09-05 |  |
 | [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 | 2024-07-27 |
 | [Turn Me Loose](https://open.spotify.com/track/2bELkN51EnzYWk3XwSZ4zq) | [Antonio Larosa](https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX) | [Turn Me Loose](https://open.spotify.com/album/1cm5u4hC20fwbLpUBYGzcF) | 3:17 | 2025-08-01 |  |
 | [Turn My Lover Loose](https://open.spotify.com/track/5gNKywykgKB0J7mTeqsHBC) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [Another Farewell](https://open.spotify.com/album/5biKiugsTG1Fakjsfivdc4) | 4:27 | 2025-02-07 | 2025-04-19 |

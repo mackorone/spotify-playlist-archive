@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Ukweli & Xenia Manasseh",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Bridget Blue & Toxic Lyrikali",
   "name": "NairoBae",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 87272,
       "name": "Angel in my plane - Raw Version",
       "url": "https://open.spotify.com/track/5iEEe8pDgMIpZN40d0vNMD"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "Huyo",
+      "url": "https://open.spotify.com/track/0RD4K03Z1EFKw1QzCETdTw"
+    },
+    {
+      "album": {
         "name": "Four Letter Word",
         "url": "https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF"
       },
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 180025,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/23Lpx06nI7zNXMQGfBc6fr"
@@ -2912,6 +2930,28 @@
       "duration_ms": 228138,
       "name": "Maovu",
       "url": "https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3"
+    },
+    {
+      "album": {
+        "name": "Mapenzi",
+        "url": "https://open.spotify.com/album/6Qh6nUBfyw30o9ejaqv5ok"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        },
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Mapenzi",
+      "url": "https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF"
     },
     {
       "album": {

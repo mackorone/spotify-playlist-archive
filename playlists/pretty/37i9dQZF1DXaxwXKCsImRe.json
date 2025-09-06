@@ -1,61 +1,13 @@
 {
-  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:7bfwKXhmR1JF1PiBzaxY2b\">n\u00e9om\u00ed</a> (cover)",
-  "num_followers": 7567,
+  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:7Iff7uMHGSpOygBkCsdcHq\">Hiqpy</a> (cover)",
+  "num_followers": 7566,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI90VCn1RJZ/eF66rUtdtYaQ0ePf",
+  "snapshot_id": "AAAAAAACUzYsQRKD/G9OEXzTQB4/hzjk",
   "tracks": [
-    {
-      "added_at": "2025-09-04 22:01:56",
-      "album": {
-        "name": "The Dog",
-        "url": "https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 301788,
-      "name": "The Dog",
-      "url": "https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm"
-    },
-    {
-      "added_at": "2025-09-04 22:01:56",
-      "album": {
-        "name": "Trigger",
-        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
-    },
-    {
-      "added_at": "2025-09-04 22:01:56",
-      "album": {
-        "name": "It's Never Easy (Leaving Someone Behind)",
-        "url": "https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 220843,
-      "name": "It's Never Easy (Leaving Someone Behind)",
-      "url": "https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw"
-    },
     {
       "added_at": "2025-09-04 22:01:56",
       "album": {
@@ -103,6 +55,54 @@
       "duration_ms": 261677,
       "name": "Something",
       "url": "https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4"
+    },
+    {
+      "added_at": "2025-09-04 22:01:56",
+      "album": {
+        "name": "The Dog",
+        "url": "https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 301788,
+      "name": "The Dog",
+      "url": "https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm"
+    },
+    {
+      "added_at": "2025-09-04 22:01:56",
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 203615,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
+    },
+    {
+      "added_at": "2025-09-04 22:01:56",
+      "album": {
+        "name": "It's Never Easy (Leaving Someone Behind)",
+        "url": "https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 220843,
+      "name": "It's Never Easy (Leaving Someone Behind)",
+      "url": "https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw"
     },
     {
       "added_at": "2025-09-04 22:01:56",

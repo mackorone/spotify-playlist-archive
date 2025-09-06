@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: Naomi Raine
+> The best mix of today's Christian music, all genres, worldwide\. Cover: The Gray Havens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,493 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,574 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 |
 | 100 | [I FEEL HOME](https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [I FEEL HOME](https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM) | 3:23 |
 
-Snapshot ID: `AAAAAJ/YwrrkWBTGTsf0ZR7BH1ECaei9`
+Snapshot ID: `AAAAAF82LDXIWGems41XWAUWGsM5y8d2`

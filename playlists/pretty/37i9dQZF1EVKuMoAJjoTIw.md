@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 > <a href=spotify:playlist:37i9dQZF1EIUEDTPDBY1KO>Jay Wheeler</a>, <a href=spotify:playlist:37i9dQZF1EIVGMPo9pz2W2>YoungBoy Never Broke Again</a>, <a href=spotify:playlist:37i9dQZF1EIZrYRP4IHLCX>Lil Peep</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [bizden olsun isterdim](https://open.spotify.com/track/5BrfqCzFP7TQL7YgugogJd) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui) | [bizden olsun isterdim](https://open.spotify.com/album/7chCiMkxR7phGqNPqIbNcH) | 3:10 |
-| 2 | [How Could You \(Be OK\)](https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [How Could You \(Be OK\)](https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W) | 3:17 |
-| 3 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
+| 1 | [Me Enamoré](https://open.spotify.com/track/00nvL9u5K8jEJ6TSxGdtPK) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Platónico](https://open.spotify.com/album/2Xz6s5xkP24hNqWCWHSsww) | 4:13 |
+| 2 | [Lonely Child](https://open.spotify.com/track/6xqZi5JTTk6XIMLvy7w5JJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:37 |
+| 3 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 4 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 5 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 6 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |

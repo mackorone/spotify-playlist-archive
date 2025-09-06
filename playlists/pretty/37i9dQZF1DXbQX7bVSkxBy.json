@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Mike Aremu and Gabriel Eziashi",
-  "num_followers": 46992,
+  "num_followers": 47003,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfKqdpc+450CH7V5njD/wm826Nw",
+  "snapshot_id": "AAAAAPgGevNMYsE8GRd7uxa+/qUUhEB0",
   "tracks": [
     {
       "added_at": "2025-08-22 00:01:28",
@@ -497,6 +497,62 @@
       "url": "https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz"
     },
     {
+      "added_at": "2025-09-05 00:01:24",
+      "album": {
+        "name": "Grateful Heart",
+        "url": "https://open.spotify.com/album/4HO18DE8AnweK0SU2vUG3v"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Grateful Heart",
+      "url": "https://open.spotify.com/track/21yiBzduCsvNj8T1IfAxqW"
+    },
+    {
+      "added_at": "2025-07-25 00:01:14",
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/45NvcnGpoe8hFBx7pzKxvA"
+      },
+      "artists": [
+        {
+          "name": "Tahram",
+          "url": "https://open.spotify.com/artist/41IhOOBcjR09qi8h4L647d"
+        }
+      ],
+      "duration_ms": 130925,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/4QFMPWnyzWhX8Jw9LvJrJP"
+    },
+    {
+      "added_at": "2025-09-05 09:11:21",
+      "album": {
+        "name": "PRAISE THROUGH STORMS",
+        "url": "https://open.spotify.com/album/66LyPFemNQwvmvBRrK4eU8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        },
+        {
+          "name": "Dariodmusic",
+          "url": "https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "PRAISE THROUGH STORMS",
+      "url": "https://open.spotify.com/track/6mSIQVXz4QuyTSGX8noDGd"
+    },
+    {
       "added_at": "2025-02-21 00:01:28",
       "album": {
         "name": "Mighty Name of Jesus & This Place (Live)",
@@ -515,22 +571,6 @@
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
-    },
-    {
-      "added_at": "2025-07-25 00:01:14",
-      "album": {
-        "name": "On God",
-        "url": "https://open.spotify.com/album/45NvcnGpoe8hFBx7pzKxvA"
-      },
-      "artists": [
-        {
-          "name": "Tahram",
-          "url": "https://open.spotify.com/artist/41IhOOBcjR09qi8h4L647d"
-        }
-      ],
-      "duration_ms": 130925,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/4QFMPWnyzWhX8Jw9LvJrJP"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -967,42 +1007,6 @@
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Son of God (& Imela)",
-        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Enitan Adaba",
-          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
-        }
-      ],
-      "duration_ms": 354572,
-      "name": "Imela (feat. Enitan Adaba)",
-      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
     }
   ],
   "unique_name": "Testify",

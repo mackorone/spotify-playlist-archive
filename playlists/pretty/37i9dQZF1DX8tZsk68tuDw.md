@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Luke Dean and Omar+
+> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Chris Stussy & Locklead
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877,790 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877,836 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 84 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
 | 85 | [RUFFEST](https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [RUFFEST](https://open.spotify.com/album/6eovWDRLkn2Y4AdcJDQaSf) | 3:46 |
 
-Snapshot ID: `AAAAAGW4mb/AAPG/KCSDCyCSszGwSTsk`
+Snapshot ID: `AAAAACl6GIG/hyI7dOCwcrQXDlDm3bZh`

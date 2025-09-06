@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 28 | [I Really Didn't Mean It](https://open.spotify.com/track/7jEQzD70COKRTzRPSzYtCk) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Ultimate Luther Vandross](https://open.spotify.com/album/4odlrkO0sgj6Hb9hZ6Dm5e) | 4:27 |
 | 29 | [Because It's Really Love](https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 6:13 |
 | 30 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
-| 31 | [With a Christmas Heart](https://open.spotify.com/track/5iUxcyur0vqP2ewYhVfqPY) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:04 |
-| 32 | [You Stopped Loving Me](https://open.spotify.com/track/6o2TSnqYX01Q73V8uj38CU) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 5:15 |
+| 31 | [You Stopped Loving Me](https://open.spotify.com/track/6o2TSnqYX01Q73V8uj38CU) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 5:15 |
+| 32 | [With a Christmas Heart](https://open.spotify.com/track/5iUxcyur0vqP2ewYhVfqPY) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:04 |
 | 33 | [A Kiss for Christmas](https://open.spotify.com/track/5UwPaxYB7q3FNBHWKYEfH5) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:12 |
 | 34 | [Once Were Lovers](https://open.spotify.com/track/2ptSybODTG23E2YBXAjhnZ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:34 |
 | 35 | [Apologize](https://open.spotify.com/track/0QA40eWNCs6gBrJMaMDkgR) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:59 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [Can't Get Enough Good Loving](https://open.spotify.com/track/6MBFVPHEc0HzGV9ghsxYRO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/3cxPGZ0ES2lA2zG8rIiTaF) | 4:36 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `Ab7WtAAAAAC+OBoA6+J12cPBdGTg/+xx`
+Snapshot ID: `Ab7cSgAAAADMWzvvLL/lCoMFEmTJ7fy1`

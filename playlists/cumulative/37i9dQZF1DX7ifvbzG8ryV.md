@@ -2,9 +2,9 @@
 
 ### [GLOW Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX7ifvbzG8ryV)
 
-> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1EFP8Ixo8m8jnE">Ambré</a>
+> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1EFStJ34qXTzDG">Shane Stevens</a>
 
-164 songs - 9 hr 8 min
+169 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,9 @@
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-04-04 |  |
 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 | 2025-04-04 |  |
 | [Good Man](https://open.spotify.com/track/2yyGpeOpi3GsXwandnuYXw) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 4:05 | 2025-05-01 |  |
+| [GRITS](https://open.spotify.com/track/0Ymuz773KydzWsrvYCjXcX) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [GRITS](https://open.spotify.com/album/2MMOnzcdK4oGgi9esE0gKV) | 2:53 | 2025-09-05 |  |
 | [Henne](https://open.spotify.com/track/0CZaB672nWHHlTiLT4DfRV) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:37 | 2024-06-04 | 2025-04-05 |
+| [HEY Y'ALL](https://open.spotify.com/track/0QckYRwzXSRpPDJiY8WPL6) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [HEY Y'ALL](https://open.spotify.com/album/6PWVIpjk55Wd9gbFtjYDxc) | 3:18 | 2025-09-05 |  |
 | [High](https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2025-06-04 |  |
 | [High Off This](https://open.spotify.com/track/7ICKghYDy3ISlSZhtFTRBs) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 3:52 | 2024-03-27 | 2025-01-11 |
 | [High On Love](https://open.spotify.com/track/4QWjtKc3iovpzzIPEYnLNx) | [Kierran](https://open.spotify.com/artist/2f0IlfGc2Sia0UmEkSSPNl) | [High On Love](https://open.spotify.com/album/6Z6vdB5rpLiAhR4h7KujAx) | 3:06 | 2024-03-27 | 2024-06-05 |
@@ -82,6 +84,7 @@
 | [Hollywood's Not America \- Matrix Version](https://open.spotify.com/track/5wizvr1JlRR3XWmKkOmEtV) | [Ferras](https://open.spotify.com/artist/3ZajykUFFll0Xwgal0fQfO) | [Aliens & Rainbows](https://open.spotify.com/album/2fYGqY3ELfZ5goVJJjXIWi) | 3:15 | 2024-03-27 | 2025-03-08 |
 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 | 2025-04-04 |  |
 | [I Can't Decide](https://open.spotify.com/track/7f6RiVFXqUT3dWi35OznLI) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX) | 2:46 | 2025-07-07 |  |
+| [I Can't Quit](https://open.spotify.com/track/2jyXQJjv0x0aFGl3vwx6hy) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr), [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [I Can't Quit](https://open.spotify.com/album/0DMQksGuw5L1U6ooMqKnV4) | 3:11 | 2025-09-05 |  |
 | [I Don't Wanna Hear Anything Is Wrong](https://open.spotify.com/track/4fHsZtCBC2QsETMLxlm0ki) | [Matias Mora](https://open.spotify.com/artist/7cPDCjz53xa2E5zYTWNpIb) | [Basic Rich](https://open.spotify.com/album/3TgHWdvJyjcrFnentt9jDf) | 2:41 | 2024-03-27 | 2025-02-08 |
 | [i'm just a grrrl](https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [i'm just a grrrl](https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F) | 3:04 | 2025-02-07 | 2025-04-05 |
 | [if i was ur boy](https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [if i was ur boy](https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R) | 3:15 | 2025-04-04 |  |
@@ -92,6 +95,7 @@
 | [Invisible Light](https://open.spotify.com/track/2BKp5xjA6Y6ZfN1eyY0hNg) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Night Work](https://open.spotify.com/album/60reR4muRZj5MRsI9giZjk) | 6:14 | 2025-07-07 |  |
 | [Isn’t That Life](https://open.spotify.com/track/1iIRaQjzWaDql3e52JNWU9) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [American Spirit: The Last Drag](https://open.spotify.com/album/5hSvIpAkDp9nH2ER2vUoXP) | 3:33 | 2025-05-01 |  |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-04-04 |  |
+| [JOY](https://open.spotify.com/track/3AAcfI872QECsygDOQSwBS) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [JOY](https://open.spotify.com/album/5PLNFCrdaoInB5NU92M38x) | 3:22 | 2025-09-05 |  |
 | [JOYRIDE.](https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE.](https://open.spotify.com/album/0k68jcBxrsqFzgvAVteo92) | 2:30 | 2025-04-04 |  |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-04-04 | 2025-08-02 |
 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 | 2025-04-04 | 2025-05-02 |
@@ -113,6 +117,7 @@
 | [Nice Guy](https://open.spotify.com/track/45Cm2OHPj7L3xaBW94buSS) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Nice Guy](https://open.spotify.com/album/56hjcZ7cuvs3VpQ25Udqlp) | 3:03 | 2024-08-28 | 2025-04-05 |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2025-04-04 |  |
 | [No California](https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:35 | 2024-03-27 | 2025-04-05 |
+| [Nobody](https://open.spotify.com/track/6Uf3uDJDLTbXP6uQhwNdvl) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [Nobody](https://open.spotify.com/album/0Cu9LCJ8nhpNEtWsKrbhnQ) | 4:18 | 2025-09-05 |  |
 | [On Time \(with John Legend\)](https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:48 | 2025-04-04 |  |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2025-04-04 |  |
 | [One Time](https://open.spotify.com/track/0tWzCEYjVzFQtcGfMXuaWb) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [One Time](https://open.spotify.com/album/1IVfi5Dr68MXxiphQShO5p) | 4:22 | 2024-03-27 | 2024-12-12 |

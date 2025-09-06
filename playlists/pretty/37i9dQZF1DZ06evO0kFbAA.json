@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 51817,
+  "num_followers": 51822,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADfH6+0mgOIl/wz+StsQa23",
+  "snapshot_id": "aLjWgAAAAABFaJwraAGlCtlyBWlc/hC9",
   "tracks": [
     {
       "added_at": null,
@@ -475,30 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
-        }
-      ],
-      "duration_ms": 128160,
-      "name": "Sambalero",
-      "url": "https://open.spotify.com/track/4ENo69KpwpYb1C8UyhruQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -539,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
@@ -548,13 +524,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 220493,
-      "name": "E Luxo So",
-      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
+      "duration_ms": 128160,
+      "name": "Sambalero",
+      "url": "https://open.spotify.com/track/4ENo69KpwpYb1C8UyhruQo"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
       "duration_ms": 402506,
       "name": "Once Again (feat. Laurindo Almeida)",
       "url": "https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "E Luxo So",
+      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Moods - Cool",
-        "url": "https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Aguas de Marco",
-      "url": "https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Jazz #14",
         "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Moods - Cool",
+        "url": "https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Aguas de Marco",
+      "url": "https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
+      "duration_ms": 176973,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
     },
     {
       "added_at": null,
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 176973,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
+      "duration_ms": 202586,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
     }
   ],
   "unique_name": "This Is Stan Getz",

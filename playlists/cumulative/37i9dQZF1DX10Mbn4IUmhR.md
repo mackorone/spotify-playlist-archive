@@ -2,9 +2,9 @@
 
 ### [pop fm](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> Your frequency for today's hottest pop tracks via ZA\. Cover: Sabrina Carpenter
+> Your frequency for today's hottest pop tracks via ZA\. Cover: Will Linley
 
-666 songs - 1 day 11 hr 20 min
+669 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-08-30 |
 | [18 Baby](https://open.spotify.com/track/7CAxE5DrK9vFRTeyZaNorn) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [18 Baby](https://open.spotify.com/album/5Mbwx2V1xSFgKurFYZfnVt) | 3:09 | 2025-04-24 | 2025-05-23 |
 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 | 2025-07-17 | 2025-08-08 |
-| [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-08-21 |  |
+| [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-08-21 | 2025-09-06 |
 | [222](https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [222](https://open.spotify.com/album/58M4lC0tqx7s4OgXIHzkGj) | 2:49 | 2025-06-26 | 2025-07-04 |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-07-11 | 2024-07-19 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-12-05 | 2025-01-17 |
@@ -37,6 +37,7 @@
 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 | 2024-06-27 | 2024-07-12 |
 | [Always Been About You](https://open.spotify.com/track/3uBcU43eB5jK7yH5kOyvWH) | [Faker Streets](https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV) | [Always Been About You](https://open.spotify.com/album/4mlIWO2vV6K0kwl1Tz2K6E) | 3:53 | 2025-06-26 | 2025-07-11 |
 | [Always Remember Us This Way](https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII) | 3:30 | 2025-04-04 | 2025-04-30 |
+| [American Dream](https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Don’t Cry Because It’s Over](https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI) | 2:39 | 2025-09-05 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-11-07 | 2024-11-16 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2025-03-20 | 2025-03-28 |
 | [Any Other Way](https://open.spotify.com/track/62Q7FUT0qA1RkFou4r4OpE) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Any Other Way](https://open.spotify.com/album/04rzWRhGs0L3fx2cL2Ll5o) | 2:34 | 2025-01-16 | 2025-03-14 |
@@ -384,9 +385,9 @@
 | [Mistakes](https://open.spotify.com/track/0Qm4vRjjCK9tzvZWYy5v8t) | [Higgo](https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn), [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [Mistakes](https://open.spotify.com/album/5DDEY0ta0DWlaLEAMn0tTd) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 | 2025-07-18 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-12-05 | 2025-01-24 |
-| [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 |  |
+| [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 | 2025-09-06 |
 | [Morning Light](https://open.spotify.com/track/46XLSMbxnqRAoFTk58lxth) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Morning Light](https://open.spotify.com/album/3hJwsPCotapOCH13w0OD9N) | 3:00 | 2025-06-26 | 2025-08-15 |
-| [Mosquito](https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Mosquito](https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0) | 2:24 | 2025-07-03 |  |
+| [Mosquito](https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Mosquito](https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0) | 2:24 | 2025-07-03 | 2025-09-06 |
 | [move \(why do you do me like you do\)](https://open.spotify.com/track/3EC7xzkgC3u9fnRYq142CD) | [DUUV](https://open.spotify.com/artist/2Q9r0RwWrbGJEt7gEoG4tJ) | [move \(why do you do me like you do\)](https://open.spotify.com/album/5Ba4NDM7SFPG99NgN26kI3) | 3:36 | 2025-05-15 | 2025-05-23 |
 | [Move Your Way](https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Move Your Way](https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9) | 3:23 | 2024-06-27 | 2025-01-24 |
 | [MOVIE STAR](https://open.spotify.com/track/3iDIXnTTy0xOiyAalKFPtJ) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [MOVIE STAR](https://open.spotify.com/album/1R3K5mJt6wBOA7y1npEplA) | 2:05 | 2025-07-17 | 2025-08-08 |
@@ -424,6 +425,7 @@
 | [One Last Chance](https://open.spotify.com/track/67KTEMcMLq0rrByxzzZku8) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [One Last Chance](https://open.spotify.com/album/3ZD7EyDa4Tb3kPPVvog8xQ) | 2:39 | 2024-09-19 | 2024-11-08 |
 | [One Taste](https://open.spotify.com/track/0ifFqhYPuRXqAUHdrq3oyt) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [One Taste](https://open.spotify.com/album/5p8d9FD1iINUbSfL2TiN0j) | 2:57 | 2025-04-10 | 2025-04-18 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 |  |
+| [only one](https://open.spotify.com/track/1O2l9H5Gt0JjVv0ksd9lFB) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [only one](https://open.spotify.com/album/4q42W9v0kQQmqBqwHRdWQx) | 3:43 | 2025-09-05 |  |
 | [Open](https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Open](https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f) | 3:59 | 2024-06-27 | 2024-07-27 |
 | [Open Casket](https://open.spotify.com/track/7KIyiysRmpi0hclcataHy4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [Open Casket](https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2) | 2:23 | 2025-06-20 | 2025-06-27 |
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-28 | 2025-03-21 |
@@ -504,6 +506,7 @@
 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 | 2025-03-20 | 2025-05-23 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 |  |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-05-29 | 2025-06-27 |
+| [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 | 2025-09-05 |  |
 | [Spirited Boy](https://open.spotify.com/track/6t1bhrMaQ6lRNNUWJEjP8Y) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Spirited Boy](https://open.spotify.com/album/4rhBdIyqWqXCpzKpq5y0oo) | 3:42 | 2025-02-06 | 2025-03-14 |
 | [Spotlight](https://open.spotify.com/track/4GnCkUqZxnTmCAnO5X5cZU) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Spotlight](https://open.spotify.com/album/1eQpBjbHfLEX4gsLOsbd2R) | 3:28 | 2024-10-18 | 2024-11-22 |
 | [Star Juice \(& The Man On Neptune\)](https://open.spotify.com/track/7kEdAYSJGMjOSBq3uasef8) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Star Juice \(& The Man On Neptune\)](https://open.spotify.com/album/0kOpd9yq9lIEeYeMnSnY9O) | 3:30 | 2025-05-01 | 2025-05-31 |

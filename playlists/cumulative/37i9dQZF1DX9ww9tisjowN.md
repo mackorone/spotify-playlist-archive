@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: LiSA
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Fujii Kaze
 
-899 songs - 2 day 3 hr 29 min
+900 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [LIVE IT UP! \(feat\. Furui Riho\)](https://open.spotify.com/track/2UzNrRpOVm83g8CHCXY64P) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [LIVE IT UP! \(feat\. Furui Riho\)](https://open.spotify.com/album/7EhenG8cXC6o2jHnAUHemC) | 3:45 | 2025-04-24 | 2025-07-18 |
 | [Lonely in Gorgeous](https://open.spotify.com/track/1Dl1SlF0wySEhHDrn74f3H) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Lonely in Gorgeous](https://open.spotify.com/album/0WSozCLhgdTtqgB6207YSv) | 3:52 | 2025-05-29 | 2025-07-25 |
 | [Love Groovin'](https://open.spotify.com/track/5vXhl78aOAmAV1sLKJotwI) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Love Groovin'](https://open.spotify.com/album/6TwU6qWEIcymqe1ilpNyNi) | 3:05 | 2023-05-30 | 2023-06-28 |
-| [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-07-31 |  |
+| [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-07-31 | 2025-09-06 |
 | [Love You!!!!!!](https://open.spotify.com/track/0yBv5KMvxpcb9H3LXhWfJP) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 2:05 | 2023-05-16 | 2023-06-09 |
 | [Love You!!!!!!](https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU) | 2:05 | 2023-05-09 | 2023-05-20 |
 | [Love, lala \~Koi no Yukue\~](https://open.spotify.com/track/1AmCHBTq8Az3AwmRWBJSot) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Love, lala \~Koi no Yukue\~](https://open.spotify.com/album/2Qjye8N457m39dN7gIrXBT) | 2:51 | 2025-07-17 | 2025-08-15 |
@@ -358,6 +358,7 @@
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 | 2023-07-23 |
 | [Polytope](https://open.spotify.com/track/7qQ6Jcg4Ki0pYkSTcuDL3a) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [Horizon Dreamer / Polytope](https://open.spotify.com/album/3trxtPc2Hk27H35TLbBwED) | 5:41 | 2025-06-26 | 2025-07-11 |
 | [POP IN 2](https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.4\)](https://open.spotify.com/album/5Uuyj9BXLVhjiz0z033fpp) | 4:27 | 2024-11-07 | 2024-12-05 |
+| [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-05 |  |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-10-19 | 2023-12-13 |
 | [PUI PUI はとまらない](https://open.spotify.com/track/1uDXHWsB7EAPjHw8XKvm7c) | [Momoclochan Z](https://open.spotify.com/artist/0JUZrcVvxhJaCzc4mloocZ) | [PUI PUI はとまらない](https://open.spotify.com/album/2V1RiLuuBRbWoYRgdWc6bC) | 2:58 | 2023-05-09 | 2023-12-08 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-09-26 | 2023-12-08 |

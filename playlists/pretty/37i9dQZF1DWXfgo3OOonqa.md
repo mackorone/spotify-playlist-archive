@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,928 likes - 110 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,933 likes - 110 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 30 | [Spola om](https://open.spotify.com/track/3IwBe9A1oqs69eIsBelEJj) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Spola om](https://open.spotify.com/album/7I3Jf6ORUFFvPGYXprHfoE) | 2:32 |
 | 31 | [Bad Man](https://open.spotify.com/track/7ggkTxUp9vIZU4Zj46Lg9E) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Bad Man](https://open.spotify.com/album/6fbtq6GtQr6egdy5KNlzrN) | 2:16 |
 | 32 | [Sweet Propane](https://open.spotify.com/track/4qltoD1gaii37oKvSxEen8) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Sweet Propane](https://open.spotify.com/album/44v4ygwjuv7BdyPgHueDyH) | 2:38 |
-| 33 | [FANTASI](https://open.spotify.com/track/57ubvtr61lYALkTBYICWOX) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM) | [FANTASI](https://open.spotify.com/album/4sYNGgK3AyWoPWJO3PvZQn) | 2:44 |
+| 33 | [FANTASI](https://open.spotify.com/track/57ubvtr61lYALkTBYICWOX) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [FANTASI](https://open.spotify.com/album/4sYNGgK3AyWoPWJO3PvZQn) | 2:44 |
 | 34 | [LATE LATE NIGHT](https://open.spotify.com/track/5IS8gwO95dB9TidVpfHyuh) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [LATE LATE NIGHT](https://open.spotify.com/album/2586fTVblhF6Vlh58Fjmm9) | 1:18 |
 | 35 | [pippi](https://open.spotify.com/track/6hLpSP9SCZW9KmripG2oEN) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [pippi](https://open.spotify.com/album/2LhAKI5zXiRdKmLkUpegxk) | 2:23 |
 | 36 | [California Love](https://open.spotify.com/track/7EAtkR8y8sT4jEx3SOsznv) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [California Love](https://open.spotify.com/album/0wQm88iHgpEIZ3pNChByEf) | 2:19 |

@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-308 songs - 17 hr 21 min
+309 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 | 2023-11-10 |  |
 | [Cais](https://open.spotify.com/track/3d4Ve0MGsj6nJuu4gFgID1) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Cais](https://open.spotify.com/album/26Whcw57vCgEvwgUiWjt2q) | 3:07 | 2022-02-18 | 2022-07-20 |
 | [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 | 2022-04-01 |  |
+| [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 | 2025-09-05 |  |
 | [Cantinho](https://open.spotify.com/track/6lp1heMwkQlw4njiSTrjtU) | [Pedro Blum](https://open.spotify.com/artist/2mGkV2eAFSt9i83sLlD4n2) | [Cantinho](https://open.spotify.com/album/5TRpUlnfHTbzN6O0cWIo1g) | 2:55 | 2022-04-01 | 2022-06-12 |
 | [Cara a Cara \(Live Session\)](https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Sonas Sessions \(Live Session\)](https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ) | 3:40 | 2023-10-24 | 2023-11-11 |
 | [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 | 2024-01-12 | 2024-02-16 |
@@ -241,7 +242,7 @@
 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 | 2022-04-01 | 2023-08-13 |
 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 | 2022-04-01 |  |
 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 | 2023-10-02 | 2023-10-14 |
-| [Quem dirá?](https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Quem dirá?](https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K) | 2:52 | 2025-07-18 |  |
+| [Quem dirá?](https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Quem dirá?](https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K) | 2:52 | 2025-07-18 | 2025-09-06 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-01-11 |
 | [Quero Ir pra Bahia Com Você \- Acústico](https://open.spotify.com/track/3MFd8Cl5aWa9bEd59bYVIL) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Quero Ir pra Bahia Com Você \(Acústico\)](https://open.spotify.com/album/4xwpbcPIP9HA8roUPwnoQA) | 2:46 | 2022-04-01 | 2022-04-19 |
 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 | 2022-02-18 |  |

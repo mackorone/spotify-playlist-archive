@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55218,
+  "num_followers": 55230,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADAhNDHwzMU7ITsitRA2Ga0",
+  "snapshot_id": "aLjWgAAAAACOd/xkheoxekhIgNPYkBQ8",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Saves, I Spend",
         "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
       },
@@ -803,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+      "duration_ms": 277893,
+      "name": "Huey Newton",
+      "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
       "duration_ms": 185320,
       "name": "I Am an Ape",
       "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Huey Newton",
-      "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
     }
   ],
   "unique_name": "This Is St. Vincent",

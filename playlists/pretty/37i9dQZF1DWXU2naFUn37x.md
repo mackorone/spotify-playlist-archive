@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Rondodasosa in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,918 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,926 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [ZWAG](https://open.spotify.com/track/4PMKj9iU8aMPT7WzhUenet) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZWAG](https://open.spotify.com/album/5SBrKnarmYAxeXKIKio9Mo) | 3:14 |
 | 50 | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/track/3VJMudHQf9VWu51EHtPBNk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq) | 2:36 |
 
-Snapshot ID: `AAAAAMHRDpv9PnRwhCBGBBHvULQvyA2J`
+Snapshot ID: `AAAAALnEeAyVzjCNDULFh0mdw6zBnhrY`

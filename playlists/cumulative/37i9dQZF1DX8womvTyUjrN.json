@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Abanico Sanyo",
+        "url": "https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176202,
+      "name": "Abanico Sanyo",
+      "url": "https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z"
+    },
+    {
+      "album": {
         "name": "4+1",
         "url": "https://open.spotify.com/album/2DvddMCiT9dskF1esH7vut"
       },
@@ -570,6 +588,24 @@
       "duration_ms": 216389,
       "name": "Acto Final",
       "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
+    },
+    {
+      "album": {
+        "name": "Acuario",
+        "url": "https://open.spotify.com/album/7hpDLHe8glA48Q2EaGnTq9"
+      },
+      "artists": [
+        {
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173763,
+      "name": "Acuario",
+      "url": "https://open.spotify.com/track/3SaHMCEpiUVRwRn5ub5dxg"
     },
     {
       "album": {
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 158314,
       "name": "Caf\u00e9 de Barcelona",
       "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
@@ -8947,6 +8983,28 @@
     },
     {
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/65ZoZATeCt3JrbQHpTQgn1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2bBIVTh7gLuAfCDvU0vsOM"
+    },
+    {
+      "album": {
         "name": "LA NOSTALGIA",
         "url": "https://open.spotify.com/album/09F4Y5cIGGhx9VqmwWcPZV"
       },
@@ -9600,6 +9658,24 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "album": {
+        "name": "Lo dejo fluir",
+        "url": "https://open.spotify.com/album/7C8OWv6blryxBy838ukCfX"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162282,
+      "name": "Lo dejo fluir",
+      "url": "https://open.spotify.com/track/659DjhTaWZQ8hLw4P0btxl"
     },
     {
       "album": {
@@ -10346,7 +10422,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 181500,
       "name": "Mansa pero no mensa",
       "url": "https://open.spotify.com/track/3mucbPAy5XxAaKSqCLSp6a"
@@ -10882,6 +10958,24 @@
       "duration_ms": 220853,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V"
+    },
+    {
+      "album": {
+        "name": "Mi Atenci\u00f3n",
+        "url": "https://open.spotify.com/album/1c7zIiQULILsNm28fgpWPD"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212981,
+      "name": "Mi Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/2kmrvXsXpsCV14gPkKqzsR"
     },
     {
       "album": {
@@ -12254,7 +12348,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 200322,
       "name": "No Me Quiero Ir",
       "url": "https://open.spotify.com/track/1i5igOpwnzwAMzPtdENbCa"
@@ -12337,6 +12431,28 @@
     },
     {
       "album": {
+        "name": "NO SUPISTE CUIDARNOS (Respuesta #2)",
+        "url": "https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175589,
+      "name": "NO SUPISTE CUIDARNOS - Respuesta #2",
+      "url": "https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4"
+    },
+    {
+      "album": {
         "name": "NO S\u00c9 QUI\u00c9N SOS",
         "url": "https://open.spotify.com/album/79X2IHIzg5pNlc7K4Ag6Vy"
       },
@@ -12352,7 +12468,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 183708,
       "name": "NO S\u00c9 QUI\u00c9N SOS",
       "url": "https://open.spotify.com/track/4nq6FkC0jH2fgfVSziGMmZ"
@@ -13462,7 +13578,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 161447,
       "name": "PARA qu\u00e9",
       "url": "https://open.spotify.com/track/24RmZhWIThecUEtzidKutf"
@@ -14230,7 +14346,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 184877,
       "name": "Ponme En Tu Boca",
       "url": "https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu"
@@ -15138,6 +15254,24 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "album": {
+        "name": "Z-pop",
+        "url": "https://open.spotify.com/album/4FlTyFDPDs5PCjTWFGwv5l"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "Qu\u00e9 Tengo Que Hacer",
+      "url": "https://open.spotify.com/track/5tC6q0jaoq06SXYHiN58pJ"
     },
     {
       "album": {
@@ -16734,7 +16868,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 239836,
       "name": "SOMOS PERFECTOS",
       "url": "https://open.spotify.com/track/53GVXnMu9VnMP097L1lSzC"
@@ -17046,7 +17180,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 166185,
       "name": "T.R.A.",
       "url": "https://open.spotify.com/track/2VhgXU5CKVqowljAZR7JPg"
@@ -18451,6 +18585,24 @@
     },
     {
       "album": {
+        "name": "MAYO SEASON",
+        "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138080,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs"
+    },
+    {
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -18820,7 +18972,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 186407,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/47eaS9ydA3Wt9gTMYuZCSt"
@@ -19746,7 +19898,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 182654,
       "name": "Zumo de Manzana",
       "url": "https://open.spotify.com/track/5z7M3lkaVpDxiPTadkDtQ9"

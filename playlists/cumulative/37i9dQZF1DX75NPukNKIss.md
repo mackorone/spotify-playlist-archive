@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Chris Brown
 
-142 songs - 6 hr 32 min
+143 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-10-25 |  |
 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-25 |  |
 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-03-07 |  |
+| [come home'](https://open.spotify.com/track/6liY9IdEWUlZUADVZHeigY) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [MERCY"](https://open.spotify.com/album/3qWFFEdowMoUlbbuWcwBYb) | 2:49 | 2025-09-05 |  |
 | [Come Outside \(So Sick\)](https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 2:40 | 2024-11-08 |  |
 | [Confession](https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Confession](https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss) | 2:52 | 2024-10-25 |  |
 | [CONFETTI!](https://open.spotify.com/track/6fOIaML1pxZ1sZkLM7Al51) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:49 | 2025-05-30 | 2025-07-26 |
@@ -142,7 +143,7 @@
 | [uhm...ok?](https://open.spotify.com/track/3gwnqlmnZXeqWuhT5IvZLY) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN) | [uhm...ok?](https://open.spotify.com/album/2kuLKC6HTgItE8sNylV02f) | 2:15 | 2024-10-25 |  |
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-10-25 |  |
 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 |  |
-| [wait a while' \(tenten\)](https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [wait a while' \(tenten\)](https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6) | 2:02 | 2025-03-19 |  |
+| [wait a while' \(tenten\)](https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [wait a while' \(tenten\)](https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6) | 2:02 | 2025-03-19 | 2025-09-06 |
 | [Want Somebody](https://open.spotify.com/track/2eHFKaj0BzRqxYH5IgljkR) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Mr\. Maneuver](https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR) | 2:57 | 2024-12-20 |  |
 | [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 |  |
 | [What These Niggas Want](https://open.spotify.com/track/2UNIVvqZBbSljTy2EhvSnF) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Earth to Breezy](https://open.spotify.com/album/7CO70qKtgBLZ5Etx25rnuZ) | 2:13 | 2025-06-17 | 2025-07-26 |

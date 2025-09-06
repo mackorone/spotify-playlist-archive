@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 24681,
+  "num_followers": 24688,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "Free Like a Bird",
-        "url": "https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Free Like a Bird",
-      "url": "https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D"
-    },
-    {
-      "added_at": "2025-07-17 09:06:39",
-      "album": {
         "name": "Chataniya",
         "url": "https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 225576,
       "name": "Chataniya",
       "url": "https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B"
+    },
+    {
+      "added_at": "2025-07-17 09:06:39",
+      "album": {
+        "name": "Free Like a Bird",
+        "url": "https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Free Like a Bird",
+      "url": "https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D"
     },
     {
       "added_at": "2025-07-17 09:06:39",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
+        "name": "Explosive Moods",
+        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "duration_ms": 234853,
+      "name": "Bhalay Ki - Sohar",
+      "url": "https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE"
+    },
+    {
+      "added_at": "2025-07-17 09:06:39",
+      "album": {
         "name": "Chutney Party Mix",
         "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 261120,
       "name": "Balama",
       "url": "https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe"
-    },
-    {
-      "added_at": "2025-07-17 09:06:39",
-      "album": {
-        "name": "Explosive Moods",
-        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
-      },
-      "artists": [
-        {
-          "name": "Drupatee Ramgoonai",
-          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
-        }
-      ],
-      "duration_ms": 234853,
-      "name": "Bhalay Ki - Sohar",
-      "url": "https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE"
     },
     {
       "added_at": "2025-07-17 09:06:39",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
+        "name": "Explosive Moods",
+        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "duration_ms": 300386,
+      "name": "Mohan Bina Gowna",
+      "url": "https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY"
+    },
+    {
+      "added_at": "2025-07-17 09:06:39",
+      "album": {
         "name": "Chutney Party Mix",
         "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 339133,
       "name": "Kariaiyan Na Toro",
       "url": "https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX"
-    },
-    {
-      "added_at": "2025-07-17 09:06:39",
-      "album": {
-        "name": "Drupatee Ramgoonai",
-        "url": "https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz"
-      },
-      "artists": [
-        {
-          "name": "Drupatee Ramgoonai",
-          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
-        }
-      ],
-      "duration_ms": 310586,
-      "name": "Chutney",
-      "url": "https://open.spotify.com/track/6ipW3uRbbsH672TQZZWwMF"
     },
     {
       "added_at": "2025-07-17 09:06:39",
@@ -883,22 +883,18 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "Balkissoon",
-        "url": "https://open.spotify.com/album/0CpGJQDsla57RlmVUMahfy"
+        "name": "Drupatee Ramgoonai",
+        "url": "https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz"
       },
       "artists": [
         {
-          "name": "Omardath Maharaj",
-          "url": "https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz"
-        },
-        {
-          "name": "Raymond Ramnarine",
-          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
         }
       ],
-      "duration_ms": 224966,
-      "name": "Balkissoon",
-      "url": "https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57"
+      "duration_ms": 264440,
+      "name": "Omere",
+      "url": "https://open.spotify.com/track/3tFQKzmd075MoWRYzph1pN"
     }
   ],
   "unique_name": "Pass The Chutney",

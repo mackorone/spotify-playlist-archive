@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,288 songs - 2 day 21 hr 55 min
+1,289 songs - 2 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Black Hole \- Goodboys Remix](https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Black Hole \(Goodboys Remix\)](https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn) | 2:46 | 2021-05-25 | 2021-09-18 |
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-06 | 2022-07-24 |
 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 | 2021-03-11 | 2021-09-18 |
+| [Black Out Days \(Stay Away\)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Out Days \(Stay Away\)](https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC) | 2:52 | 2025-09-05 |  |
 | [Blah Blah Blah \- Lilly Palmer Remix](https://open.spotify.com/track/60BXInRHS0NQ1oVsnqA15a) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Blah Blah Blah \(Lilly Palmer Remix\)](https://open.spotify.com/album/2jNzuqo3EuqJl95swKdEZ8) | 3:34 | 2024-11-08 | 2025-02-09 |
 | [Blame Myself](https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:50 | 2021-07-17 | 2021-10-23 |
 | [Blessings \- Cassian Remix](https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Blessings \(Cassian Remix\)](https://open.spotify.com/album/5IyXTV39CmbRwp9Xibpwoy) | 4:08 | 2025-08-01 |  |
@@ -1056,7 +1057,7 @@
 | [Supercars](https://open.spotify.com/track/2IfBzmFUr0JOXUiInnua8F) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Supercars](https://open.spotify.com/album/6k4ewQMwrEeArMUZxADdFZ) | 3:37 | 2020-09-21\* | 2021-02-06 |
 | [Superheroes](https://open.spotify.com/track/6KwlLWLxnMeIw7C6O0fd6o) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Superheroes](https://open.spotify.com/album/0LwefSGrSgzthFmugunVqX) | 2:41 | 2021-05-15 | 2021-09-18 |
 | [Superman](https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [24h](https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K) | [Superman](https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc) | 3:24 | 2022-07-08 | 2022-10-27 |
-| [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-23 |  |
+| [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-23 | 2025-09-06 |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-04 |  |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-08-18 | 2023-09-25 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-11 | 2024-01-27 |

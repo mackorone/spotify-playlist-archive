@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Lady Gaga
 
-1,414 songs - 2 day 23 hr 27 min
+1,416 songs - 2 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-10 | 2024-11-08 |
 | [I Stopped Trying \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0KeS6KyWgySn91XyzMtKwe) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [I Stopped Trying](https://open.spotify.com/album/29BXkbVjefNs30DTQfRPeK) | 3:58 | 2025-08-28 |  |
 | [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-08 | 2024-09-06 |
+| [I THINK YOU'RE SPECIAL](https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:45 | 2025-09-05 |  |
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-01 | 2024-08-30 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-21 |  |
 | [I Won't Let Go](https://open.spotify.com/track/1xCR3hwlTKBLjDJ1QTkZm0) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Higher](https://open.spotify.com/album/3A0GeqHDQUGvZ1sDtShqvu) | 3:43 | 2024-09-26 | 2024-10-25 |
@@ -798,6 +799,7 @@
 | [Love Me Gentle](https://open.spotify.com/track/7bwgNZrJm4fnLFTxVJnzpf) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Love Me Gentle](https://open.spotify.com/album/3wz8VI2kJn9fx3NVmb1WON) | 2:37 | 2025-07-03 | 2025-08-01 |
 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 | 2025-03-20 | 2025-04-18 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-17 | 2024-11-15 |
+| [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-05 |  |
 | [Love Will Find Me](https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist \(Gold Edition\)](https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu) | 3:50 | 2025-02-27 | 2025-03-14 |
 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 | 2025-02-13 | 2025-03-14 |
 | [Love You Right](https://open.spotify.com/track/3XUsGyO1emW5HizPPRoKnP) | [Chanin](https://open.spotify.com/artist/4FRgokXij5IuiufM05094s) | [Love You Right](https://open.spotify.com/album/6tlFJwOsoSMQ4bfdDprw3y) | 2:39 | 2024-08-08 | 2024-09-06 |

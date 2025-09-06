@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Cover: SPINALL",
+  "description": "Afro sounds crossing borders. Cover: Rema",
   "name": "Big Mood",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 169314,
       "name": "10%",
       "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
@@ -2622,6 +2622,32 @@
     {
       "album": {
         "name": "Bobo",
+        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
+    },
+    {
+      "album": {
+        "name": "Bobo",
         "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
       },
       "artists": [
@@ -4458,7 +4484,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
@@ -4730,7 +4756,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 140508,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED"
@@ -6380,7 +6406,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 188815,
       "name": "FREE THE YOUTH",
       "url": "https://open.spotify.com/track/4Sls4ZAghognm4fu3rzPBs"
@@ -6420,6 +6446,24 @@
       "duration_ms": 118465,
       "name": "Fuji 5000",
       "url": "https://open.spotify.com/track/6VBJucTiCNnk4NYJyrL9x7"
+    },
+    {
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "album": {
@@ -7038,6 +7082,28 @@
       "duration_ms": 188263,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "album": {
@@ -7751,6 +7817,28 @@
     },
     {
       "album": {
+        "name": "Only Sad People Smile",
+        "url": "https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY"
+    },
+    {
+      "album": {
         "name": "IFA",
         "url": "https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol"
       },
@@ -8060,7 +8148,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 285239,
       "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
       "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
@@ -8188,6 +8276,24 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "album": {
+        "name": "Jamming",
+        "url": "https://open.spotify.com/album/7oJhbulsOpn1cGRIlFWouL"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141703,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/6GD4Vt3dfa9vMbNkrOvzgS"
     },
     {
       "album": {
@@ -10470,7 +10576,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 166923,
       "name": "MIAMI",
       "url": "https://open.spotify.com/track/7E6V32WYkgxZzXYpIUdSb8"
@@ -11237,6 +11343,24 @@
     },
     {
       "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "album": {
         "name": "Nack",
         "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
       },
@@ -11964,7 +12088,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 192262,
       "name": "Ogechi (feat. Davido) - Remix",
       "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
@@ -12454,7 +12578,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
@@ -12490,7 +12614,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 159310,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
@@ -12974,7 +13098,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
@@ -14690,7 +14814,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 156200,
       "name": "sankofa",
       "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
@@ -16122,7 +16246,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 141818,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
@@ -18520,6 +18644,24 @@
       "duration_ms": 213373,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL"
+    },
+    {
+      "album": {
+        "name": "WONDERFUL",
+        "url": "https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140751,
+      "name": "WONDERFUL",
+      "url": "https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY"
     },
     {
       "album": {

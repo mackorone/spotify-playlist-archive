@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,456 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,473 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 8 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |
 | 9 | [The Cryin' Kind](https://open.spotify.com/track/41xBHWzqF3eZs22u6fmM6I) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [The Cryin' Kind](https://open.spotify.com/album/1j9QAMkziIftWnhEaMuk9B) | 2:44 |
 | 10 | [For](https://open.spotify.com/track/2ftKiA9Le9hAvxtli5LZQr) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [For](https://open.spotify.com/album/1VkVZ17FmuSdzcBF0czLak) | 4:11 |
-| 11 | [Am I Ever Gonna Love? \- Acoustic](https://open.spotify.com/track/4BVcFiq2VFBN73rRf8T1FM) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Nerve \(Extended\)](https://open.spotify.com/album/0P4hnEPtNGN0NEanSrKHJv) | 3:35 |
+| 11 | [Am I Ever Gonna Love \- Acoustic](https://open.spotify.com/track/4BVcFiq2VFBN73rRf8T1FM) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Nerve \(Extended\)](https://open.spotify.com/album/0P4hnEPtNGN0NEanSrKHJv) | 3:35 |
 | 12 | [Fire Fire Fire \- Live from Peterborough](https://open.spotify.com/track/4fNBCU7ia1ZSCG3tY6I3G5) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Fire Fire Fire \(Live from Peterborough\)](https://open.spotify.com/album/2PEPPP28ECqEGlLSpYoB99) | 5:23 |
 | 13 | [Ambivalence](https://open.spotify.com/track/5VPnV3cj5awKANUS936zdj) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Ambivalence](https://open.spotify.com/album/2dRFudjIAnXpASi3YCZHb9) | 4:32 |
 | 14 | [All You Show](https://open.spotify.com/track/7Do8ZdOYHngMkRkiUycVJT) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [All You Show](https://open.spotify.com/album/1algA8DpFyTmlzqyjx7YF3) | 3:51 |

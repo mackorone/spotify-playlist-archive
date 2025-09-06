@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 62509,
+  "num_followers": 62524,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Winne Zonder Strijd",
+        "url": "https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4"
+      },
+      "artists": [
+        {
+          "name": "Winne",
+          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "Lotgenoot",
+      "url": "https://open.spotify.com/track/0vl0Ut93OmtgrXmloooRJo"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Ik Ga Hard",
         "url": "https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 188026,
       "name": "Ik Ga Hard",
       "url": "https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Winne Zonder Strijd",
-        "url": "https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4"
-      },
-      "artists": [
-        {
-          "name": "Winne",
-          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "Lotgenoot",
-      "url": "https://open.spotify.com/track/0vl0Ut93OmtgrXmloooRJo"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Voor Dough",
+      "url": "https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Jayh.nl",
         "url": "https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 257120,
       "name": "Mijn Hossel",
       "url": "https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "The Opposites",
-          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Voor Dough",
-      "url": "https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Alleen Maar Nette Mensen",
-        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
-      },
-      "artists": [
-        {
-          "name": "Hydroboyz",
-          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Hindabuilding",
-      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
       },
@@ -779,26 +763,34 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+        "name": "Alleen Maar Nette Mensen",
+        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
       },
       "artists": [
         {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        },
-        {
-          "name": "Kleine Viezerik",
-          "url": "https://open.spotify.com/artist/6csZsTGgzYXAlEAoERKo4s"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+          "name": "Hydroboyz",
+          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
         }
       ],
-      "duration_ms": 252173,
-      "name": "Doag",
-      "url": "https://open.spotify.com/track/0YUwC8n3xid9r0udhAhMNV"
+      "duration_ms": 265373,
+      "name": "Hindabuilding",
+      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Documents (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
+      },
+      "artists": [
+        {
+          "name": "Postmen",
+          "url": "https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We"
+        }
+      ],
+      "duration_ms": 335773,
+      "name": "U Wait",
+      "url": "https://open.spotify.com/track/1p8zXLMnUsZa04rPs8FnL8"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -823,18 +815,26 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Documents (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
       },
       "artists": [
         {
-          "name": "Postmen",
-          "url": "https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We"
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        },
+        {
+          "name": "Kleine Viezerik",
+          "url": "https://open.spotify.com/artist/6csZsTGgzYXAlEAoERKo4s"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
         }
       ],
-      "duration_ms": 335773,
-      "name": "U Wait",
-      "url": "https://open.spotify.com/track/1p8zXLMnUsZa04rPs8FnL8"
+      "duration_ms": 252173,
+      "name": "Doag",
+      "url": "https://open.spotify.com/track/0YUwC8n3xid9r0udhAhMNV"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
-      },
-      "artists": [
-        {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "De Flexte",
-      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Artikel 140",
         "url": "https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 272773,
       "name": "Wil je weten hoe et voelt",
       "url": "https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+      },
+      "artists": [
+        {
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "De Flexte",
+      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Hotel Beschaving",
+      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Mystery Repeats",
         "url": "https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 315826,
       "name": "Nog 1 Keer",
       "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Hotel Beschaving",
-      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+        "name": "Boulimia",
+        "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
       },
       "artists": [
         {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
         }
       ],
-      "duration_ms": 388840,
-      "name": "Klokkenluiders",
-      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
+      "duration_ms": 180360,
+      "name": "Arbeidersklasse",
+      "url": "https://open.spotify.com/track/1Jh20M0XvpKmMogn6lVtXd"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+      },
+      "artists": [
+        {
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+        }
+      ],
+      "duration_ms": 388840,
+      "name": "Klokkenluiders",
+      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Ambiance",
         "url": "https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 240170,
       "name": "Ambiance",
       "url": "https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Boulimia",
-        "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Arbeidersklasse",
-      "url": "https://open.spotify.com/track/1Jh20M0XvpKmMogn6lVtXd"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Buiten Westen",
+        "url": "https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57"
+      },
+      "artists": [
+        {
+          "name": "Kubus",
+          "url": "https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Hamvraag",
+      "url": "https://open.spotify.com/track/1sNi95HnJ68hxTvDUz9Bwv"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "De Ark De Triomf",
         "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 243760,
       "name": "Ik Heb Je",
       "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Buiten Westen",
-        "url": "https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57"
-      },
-      "artists": [
-        {
-          "name": "Kubus",
-          "url": "https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Hamvraag",
-      "url": "https://open.spotify.com/track/1sNi95HnJ68hxTvDUz9Bwv"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Noah's Ark",
-        "url": "https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "De Kleren Van De Keyser",
-      "url": "https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "De Onderbaas",
         "url": "https://open.spotify.com/album/1NjbJNfN6CoKqJncMSxe5h"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 159813,
       "name": "Dan Weet Je Het Nu",
       "url": "https://open.spotify.com/track/31OqezHdMpxRs6I6d8XTZR"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Noah's Ark",
+        "url": "https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "De Kleren Van De Keyser",
+      "url": "https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Soundtrack Bolletjes Blues",
+        "url": "https://open.spotify.com/album/56CxPAl7VK30Q6ztip9rs2"
+      },
+      "artists": [
+        {
+          "name": "Bolletjes Blues Cast",
+          "url": "https://open.spotify.com/artist/1GyTX0nfFFTEMVkNXhgVef"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Welkom In Ons Leven",
+      "url": "https://open.spotify.com/track/226yHrBKVmNGtgE7W0bqTU"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Mindstate",
         "url": "https://open.spotify.com/album/7jlGRCzUvTDKA96ivxTytk"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 224346,
       "name": "Iemand Moet Het Doen",
       "url": "https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Soundtrack Bolletjes Blues",
-        "url": "https://open.spotify.com/album/56CxPAl7VK30Q6ztip9rs2"
-      },
-      "artists": [
-        {
-          "name": "Bolletjes Blues Cast",
-          "url": "https://open.spotify.com/artist/1GyTX0nfFFTEMVkNXhgVef"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Welkom In Ons Leven",
-      "url": "https://open.spotify.com/track/226yHrBKVmNGtgE7W0bqTU"
     },
     {
       "added_at": "2024-09-09 11:56:35",

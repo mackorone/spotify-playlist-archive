@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Chilli Chilton",
-  "num_followers": 219180,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Noah Rinker",
+  "num_followers": 219186,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALH3y6iZ5qJMt2vjAa2GFQzHXw57",
+  "snapshot_id": "AAAAAIRVvs5zq95aTPXLoKkC9vDTVr8T",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:31",
+      "album": {
+        "name": "Matches & Gasoline",
+        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 287063,
+      "name": "Matches & Gasoline",
+      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+    },
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 203085,
       "name": "Over it Now",
       "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
-        "name": "fawn",
-        "url": "https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS"
-      },
-      "artists": [
-        {
-          "name": "Rin",
-          "url": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA"
-        }
-      ],
-      "duration_ms": 174068,
-      "name": "nice & slow",
-      "url": "https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x"
     },
     {
       "added_at": "2025-08-22 04:00:26",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
+        "name": "fawn",
+        "url": "https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS"
+      },
+      "artists": [
+        {
+          "name": "Rin",
+          "url": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA"
+        }
+      ],
+      "duration_ms": 174068,
+      "name": "nice & slow",
+      "url": "https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
         "name": "Eating Me Alive",
         "url": "https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m"
       },
@@ -71,6 +87,22 @@
       "duration_ms": 192252,
       "name": "Eating Me Alive",
       "url": "https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw"
+    },
+    {
+      "added_at": "2025-09-05 04:00:31",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be"
+      },
+      "artists": [
+        {
+          "name": "Rachel Harlow",
+          "url": "https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r"
+        }
+      ],
+      "duration_ms": 207758,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1019,38 +1051,6 @@
       "duration_ms": 202226,
       "name": "i know, i know, i know",
       "url": "https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc"
-    },
-    {
-      "added_at": "2025-05-02 04:00:35",
-      "album": {
-        "name": "Made To Believe It",
-        "url": "https://open.spotify.com/album/7myxyV8i3HqgpFPnjYznLg"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Made To Believe It",
-      "url": "https://open.spotify.com/track/4Tck3kYpK5VA8muP2AE7EH"
-    },
-    {
-      "added_at": "2025-04-18 04:00:56",
-      "album": {
-        "name": "Horror Movie",
-        "url": "https://open.spotify.com/album/6T60F9RIEtDiyj6xDeyelH"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 198522,
-      "name": "Horror Movie",
-      "url": "https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

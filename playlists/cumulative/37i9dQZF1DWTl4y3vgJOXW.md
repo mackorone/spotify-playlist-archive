@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: CeeDee Lamb and Jalen Hurts
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Saquon Barkley<br/> and Jalen Hurts
 
-841 songs - 1 day 19 hr 6 min
+843 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-09-29 |  |
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2024-10-25 | 2024-11-02 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-19 | 2023-03-03 |
+| [5K](https://open.spotify.com/track/03U9ef5UYs20yiIX4yBnoH) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [5K](https://open.spotify.com/album/22S7RA5czmRS1cO2XYyzIC) | 2:54 | 2025-09-05 |  |
 | [741 Hz Self Care Manifestation](https://open.spotify.com/track/5bz8DcEq6ZRWz0mH7GKopT) | [Solfeggio Sanctuary](https://open.spotify.com/artist/4Qpv05dqttkHXMig0QeFhO) | [Solfeggio Sanctuary](https://open.spotify.com/album/5ctLYZwi9HaJVlZjetKp13) | 2:10 | 2024-10-25 | 2024-11-02 |
 | [8 Out Of 10](https://open.spotify.com/track/0zqy3ss4CwD6u4QPksS0nI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:15 | 2021-09-02 | 2022-06-09 |
 | [86Sentra](https://open.spotify.com/track/7i6p1kY8DrZkDFoWi5vxu4) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 1:36 | 2024-07-12 | 2024-07-19 |
@@ -380,7 +381,7 @@
 | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT) | 3:04 | 2025-04-25 | 2025-06-14 |
 | [im god](https://open.spotify.com/track/6K6ySfcYlYNxtH5lkn68Rw) | [sgpwes](https://open.spotify.com/artist/7gUzdJiUbJWKf81FsUWes3) | [hiatus](https://open.spotify.com/album/4zOsIpcjhCrJtbwSxXCHo8) | 2:11 | 2023-02-17 | 2023-02-22 |
 | [Ima Boss \(feat\. Rick Ross\)](https://open.spotify.com/track/7sjwaBQ6M3aVigYfBjm1sL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 1](https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4) | 4:10 | 2021-09-02 | 2023-03-03 |
-| [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 | 2025-08-15 |  |
+| [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 | 2025-08-15 | 2025-09-06 |
 | [Immortal](https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Immortal](https://open.spotify.com/album/7xgzD7onYd1Pms93ZOtxxX) | 4:14 | 2021-09-02 | 2022-06-25 |
 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 | 2022-08-19 | 2023-03-14 |
 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 | 2022-06-24 | 2023-06-09 |
@@ -417,6 +418,7 @@
 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2021-09-02 | 2023-03-03 |
 | [Kody Blu 31](https://open.spotify.com/track/6ZGoFntcQUWTPGGQPQmecY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:44 | 2024-07-12 | 2024-07-19 |
 | [KU LO SA](https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA](https://open.spotify.com/album/49t2yBtgMtTnSsFWRp19GO) | 2:28 | 2024-10-25 | 2024-11-02 |
+| [L.O.A.T](https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [L.O.A.T](https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg) | 2:26 | 2025-09-05 |  |
 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 | 2021-09-02 | 2023-03-15 |
 | [Law N Order](https://open.spotify.com/track/5Oqatx4PVy1jS6cKrSEASp) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Law N Order](https://open.spotify.com/album/4jNKm7j89w9FTfVK7cOVkZ) | 3:12 | 2025-04-04 | 2025-04-12 |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-08-25 | 2023-09-02 |
@@ -835,7 +837,7 @@
 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 | 2024-03-15 | 2024-10-12 |
 | [Window Shopper](https://open.spotify.com/track/58IeuSOYA1gXyB8rDpYzc3) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Best Of 50 Cent](https://open.spotify.com/album/3Sbt1eefEMSN33HqdhOM3g) | 3:10 | 2021-09-02 | 2022-06-25 |
 | [Woah](https://open.spotify.com/track/4MsxMuC4eDGYv8pT7snwsn) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Woah](https://open.spotify.com/album/3m5inGobCQghEu6MWsKKXS) | 3:03 | 2021-09-02 | 2023-10-28 |
-| [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 | 2025-06-27 |  |
+| [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 | 2025-06-27 | 2025-09-06 |
 | [Won't Forget](https://open.spotify.com/track/5B9pXIaMAAYqR85Ktec6u8) | [Alex Devon](https://open.spotify.com/artist/2LzPNXHyUwvHnvYqCilOgY), [Joyner Lucas](https://open.spotify.com/artist/3ds0md8dLX5GvfZefrmUsi) | [Won't Forget](https://open.spotify.com/album/7yMEJFZQukRtees5NnJjX0) | 3:33 | 2021-09-02 | 2022-06-16 |
 | [WORKIN ME](https://open.spotify.com/track/4MAsYGSgxsaj73dC2lvFC4) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:49 | 2021-09-02 | 2022-06-25 |
 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 | 2025-04-18 | 2025-07-12 |

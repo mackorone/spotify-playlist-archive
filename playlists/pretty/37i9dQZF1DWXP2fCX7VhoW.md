@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain]
 
 > Os artistas mais tocados do ano\. Foto: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,933 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,934 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

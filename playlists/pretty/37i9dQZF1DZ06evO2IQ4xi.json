@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 99167,
+  "num_followers": 99218,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAAC724EW+mr4XRIMSRQFiuWx",
+  "snapshot_id": "aLjWgAAAAACooGZA4634cKCvOhj8lCrd",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitch I'm Nice",
-        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 87037,
-      "name": "Bitch I'm Nice",
-      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 159380,
       "name": "What's Your Name?",
       "url": "https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitch I'm Nice",
+        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 87037,
+      "name": "Bitch I'm Nice",
+      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
     },
     {
       "added_at": null,

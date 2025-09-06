@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87680,
+  "num_followers": 87684,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAADU5SmeT4HpwhbGPilre5vY",
+  "snapshot_id": "aLjWgAAAAADVYOOv4ifIFxWu1j+oBdNS",
   "tracks": [
     {
       "added_at": null,
@@ -351,50 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Ride Away (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Let's Ride Away - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -419,6 +375,50 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Ride Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Let's Ride Away - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aceita (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 170000,
       "name": "Aceita - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
     },
     {
       "added_at": null,

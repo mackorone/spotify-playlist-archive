@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Martin Garrix &amp; Libby Whitehouse
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Layton Giordani &amp; Green Velvet
 
-1,565 songs - 3 day 11 hr 22 min
+1,567 songs - 3 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Careless](https://open.spotify.com/track/6m4bdAPUg12BXw71Xbj1Fz) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Careless](https://open.spotify.com/album/4caNry14PWQzUjxfzHckws) | 3:03 | 2022-06-09 | 2022-07-22 |
 | [Carnival](https://open.spotify.com/track/1ptiwpVf7xIEeIe83dbEDt) | [Grimix](https://open.spotify.com/artist/29NIvby6mXbv2rirvtYr6a) | [Sunnery James & Ryan Marciano present: The Tribe Vol\. Six](https://open.spotify.com/album/0imWlOqTlTtYtyrObJZwWM) | 2:40 | 2024-05-23 | 2024-10-19 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-06 | 2023-06-06 |
+| [CARRY ON](https://open.spotify.com/track/6DK2wFZMIB0KIr6LvRk8U0) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [CARRY ON](https://open.spotify.com/album/2nrsWHe6vMMSs76xaGtLI6) | 4:29 | 2025-09-05 |  |
 | [Carry On \- Adana Twins Remix](https://open.spotify.com/track/4iIEmN2XYUwarNOgoKONAq) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Armada Music \- Miami 2023](https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY) | 4:19 | 2023-03-16 | 2023-06-06 |
 | [Carry On \- Adana Twins Remix](https://open.spotify.com/track/5XCDpDTrqxCcHOzSJ99Z2y) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Carry On \(Adana Twins Remix\)](https://open.spotify.com/album/37ecCZ3JRsd05ag54lrgF5) | 4:19 | 2023-01-19 | 2023-03-18 |
 | [Carry On \- Rezident Remix](https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Carry On \(Rezident Remix\)](https://open.spotify.com/album/0oNy96DTfddGGcKvBslhZx) | 3:50 | 2023-12-07 | 2024-06-08 |
@@ -320,6 +321,7 @@
 | [Don't You Want Me](https://open.spotify.com/track/6vk25f0K6avR1fbH2PXPEm) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [Don't You Want Me](https://open.spotify.com/album/4suNIu4sZ167Nl3acxgzoF) | 3:46 | 2023-01-19 | 2023-03-18 |
 | [Don't You Want Me \- KI/KI Remix](https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Don't You Want Me \(KI/KI Remix\)](https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ) | 3:47 | 2024-07-11 | 2025-01-17 |
 | [Dooms Night](https://open.spotify.com/track/7BklofNhXzceVvCw9g15tU) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/74L3pbuqP4OV5qINlZ512S) | 3:25 | 2024-12-26 | 2025-04-25 |
+| [Dopamine](https://open.spotify.com/track/30Tyo4fNYOjzOaWLWlENR2) | [YOUNA \(KR\)](https://open.spotify.com/artist/4Y7OfWwgt2hCgZfyPMFUzC) | [Dopamine](https://open.spotify.com/album/3ha1RiOs67Wy2dWBqWASdU) | 2:51 | 2025-09-05 |  |
 | [Doug McQuaid](https://open.spotify.com/track/3twiQ6bWSOpITupyEFbCu5) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [Doug McQuaid](https://open.spotify.com/album/5vK8t05IOiTZgG6FdrIJ7H) | 3:55 | 2023-01-05 | 2023-02-03 |
 | [Dove \(I'll Be Loving You\) \- Loods Remix](https://open.spotify.com/track/3in4SzM1iakDfNt85Lxvrd) | [Moony](https://open.spotify.com/artist/1FXHK05nyBt3fmMYfQljRi), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Dove \(I'll Be Loving You\) \[Loods Remix\]](https://open.spotify.com/album/2KZbevAWJHbDJlVFPuvN42) | 3:33 | 2024-08-01 | 2025-01-17 |
 | [Down Low](https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt) | [Down Low](https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0) | 2:41 | 2023-03-08 | 2023-07-14 |

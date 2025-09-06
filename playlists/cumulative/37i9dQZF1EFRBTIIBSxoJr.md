@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 8 hr 5 min
+144 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Misbehavin'](https://open.spotify.com/track/6GtFfnl204TH4ztReNW7Hn) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:42 | 2024-03-01 |  |
 | [Move Me](https://open.spotify.com/track/3iLlxpfcB1sv6VpKaGoRkn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:58 | 2024-03-01 |  |
 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 | 2024-03-01 |  |
+| [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 | 2025-09-05 |  |
 | [My Love](https://open.spotify.com/track/5ptFpFPLIEANgoSVb0qPJ6) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:19 | 2024-03-01 |  |
 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 | 2024-03-01 |  |
 | [Never Did This Before](https://open.spotify.com/track/27skPro3ahG0esoPhkNEs4) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5) | [Never Did This Before](https://open.spotify.com/album/1UcbXv32GuCvEFo9A2t1Qr) | 3:25 | 2024-03-01 |  |

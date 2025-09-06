@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 108178,
+  "num_followers": 108188,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAABuKMbZ51wDOXmIZLNEWsZe",
+  "snapshot_id": "aLjWgAAAAAB5eOoiV59JeJrHkw2gVUHg",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ballad of John Henry",
+        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "Stop!",
+      "url": "https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We're All In This Together",
         "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
@@ -175,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 282800,
-      "name": "Dry Stick (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -207,22 +203,6 @@
       "duration_ms": 244706,
       "name": "Trigger Finger",
       "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ballad of John Henry",
-        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "Stop!",
-      "url": "https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ"
     },
     {
       "added_at": null,
@@ -243,6 +223,26 @@
       "duration_ms": 262869,
       "name": "Broken & Blue",
       "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "Dry Stick (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232933,
       "name": "Long Distance Blues",
       "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
-      },
-      "artists": [
-        {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
+      },
+      "artists": [
+        {
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 340186,
-      "name": "One of these Days",
-      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilogy, Vol. 1",
         "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 297106,
       "name": "Train (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 340186,
+      "name": "One of these Days",
+      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Ball Peen Hammer",
-      "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 254133,
       "name": "Black Lung Heartache",
       "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Ball Peen Hammer",
+      "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
     },
     {
       "added_at": null,

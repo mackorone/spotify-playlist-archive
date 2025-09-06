@@ -1557,6 +1557,28 @@
     },
     {
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0M09iHTVGVjM055MAzKDhr"
+      },
+      "artists": [
+        {
+          "name": "Achilles",
+          "url": "https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka"
+        },
+        {
+          "name": "Ken Bauer",
+          "url": "https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2SNfAihhYgWEkBheZMFn7X"
+    },
+    {
+      "album": {
         "name": "Fly Apart",
         "url": "https://open.spotify.com/album/6Wba9nMjwQqkSCDsCcpDb2"
       },
@@ -3662,7 +3684,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 117996,
       "name": "Side2Side (feat. Kris Kiss)",
       "url": "https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt"
@@ -4250,7 +4272,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 169687,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp"

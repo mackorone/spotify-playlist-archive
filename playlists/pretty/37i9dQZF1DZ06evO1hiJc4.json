@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 152371,
+  "num_followers": 152378,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLeFAAAAAACyvCPv7EHh31CWZPKu8iob",
+  "snapshot_id": "aLjWgAAAAAAbNGIT2uBrjlej+pnNd6x6",
   "tracks": [
     {
       "added_at": null,
@@ -539,34 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
-        },
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 261907,
-      "name": "I Pray For You (feat. Labrinth & MALICE)",
-      "url": "https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Is the Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 261907,
+      "name": "I Pray For You (feat. Labrinth & MALICE)",
+      "url": "https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK"
     },
     {
       "added_at": null,

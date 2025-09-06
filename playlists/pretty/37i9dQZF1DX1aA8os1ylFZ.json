@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297007,
+  "num_followers": 297009,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -208,8 +208,8 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 183293,
+      "name": "Lady",
       "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 172294,
-      "name": "You",
-      "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Can We Do This Over",
         "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 208000,
       "name": "Can We Do This Over",
       "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 172294,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/32yofsJDutpcH21hGOLslE"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 274951,
-      "name": "The Only Love We Know",
-      "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "A Fair Exchange",
         "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 182746,
       "name": "Driving Me Wild",
       "url": "https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/32yofsJDutpcH21hGOLslE"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 274951,
+      "name": "The Only Love We Know",
+      "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
     },
     {
       "added_at": "2025-09-04 22:00:32",

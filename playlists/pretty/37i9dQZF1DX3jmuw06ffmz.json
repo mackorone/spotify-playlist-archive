@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 386236,
+  "num_followers": 386458,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
+        "name": "Fantas\u00eda Pop",
+        "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Baila Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
-        "name": "Fantas\u00eda Pop",
-        "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Baila Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx"
     },
     {
       "added_at": "2024-06-12 20:29:16",

@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 165571,
+  "num_followers": 165664,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Trouble Man: 40th Anniversary Expanded Edition",
-        "url": "https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Trouble Man",
-      "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Extension of a Man",
         "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
       },
@@ -675,34 +659,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+        "name": "Trouble Man: 40th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 352586,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+      "duration_ms": 228640,
+      "name": "Trouble Man",
+      "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -727,6 +695,38 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 352586,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "On The Rise",
-        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
-      },
-      "artists": [
-        {
-          "name": "The S.O.S Band",
-          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Tell Me If You Still Care",
-      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Unlimited!",
         "url": "https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 251333,
       "name": "I Want to Be Your Man - Remastered Version",
       "url": "https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "On The Rise",
+        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
+      },
+      "artists": [
+        {
+          "name": "The S.O.S Band",
+          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
+        }
+      ],
+      "duration_ms": 416733,
+      "name": "Tell Me If You Still Care",
+      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "Where There Is Love - Remastered",
-      "url": "https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Nossa Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 216333,
       "name": "Pensando Nela",
       "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "Where There Is Love - Remastered",
+      "url": "https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj"
     },
     {
       "added_at": "2025-06-03 20:18:35",

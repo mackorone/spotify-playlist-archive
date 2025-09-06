@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/3TiwYNTikmOyGs0l2Z1oSW"
+      },
+      "artists": [
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356060,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/2mtZmxWnLHGog8UvLanaFk"
+    },
+    {
+      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 214426,
       "name": "Feel Me Better",
       "url": "https://open.spotify.com/track/4AMkyOvco3opy20OWfBLNs"
@@ -5178,7 +5196,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 180813,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/0iDxRzwE0EeV24jWkxg2Kx"
@@ -6104,6 +6122,32 @@
       "duration_ms": 173678,
       "name": "We Need To Talk About It",
       "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
+    },
+    {
+      "album": {
+        "name": "Weekends Are for Making Love",
+        "url": "https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169971,
+      "name": "Weekends Are for Making Love",
+      "url": "https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl"
     },
     {
       "album": {

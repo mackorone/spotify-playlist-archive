@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> We introduce exciting artists to you from the Benelux: <a href="spotify:artist:7bfwKXhmR1JF1PiBzaxY2b">néomí</a> \(cover\)
+> We introduce exciting artists to you from the Benelux: <a href="spotify:artist:7Iff7uMHGSpOygBkCsdcHq">Hiqpy</a> \(cover\)
 
 216 songs - 11 hr 37 min
 

@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 348631,
+  "num_followers": 348639,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+        "name": "Tierra Moj\u00e1 (Dub Mix)",
+        "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
       },
       "artists": [
         {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+          "name": "Los Gaiteros de Ovejas",
+          "url": "https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
         }
       ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+      "duration_ms": 307436,
+      "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
+      "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -723,22 +727,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Tierra Moj\u00e1 (Dub Mix)",
-        "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
       },
       "artists": [
         {
-          "name": "Los Gaiteros de Ovejas",
-          "url": "https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 307436,
-      "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -779,6 +779,22 @@
       "duration_ms": 228754,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "\u00bfQu\u00e9 Jue?",
+        "url": "https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "\u00bfQu\u00e9 Jue?",
+      "url": "https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Chinito Rulo (Remix)",
         "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 187198,
       "name": "Chinito Rulo (Remix)",
       "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -987,42 +1003,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "\u00bfQu\u00e9 Jue?",
-        "url": "https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "\u00bfQu\u00e9 Jue?",
-      "url": "https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
-      },
-      "artists": [
-        {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
-        }
-      ],
-      "duration_ms": 459720,
-      "name": "Momoto",
-      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Cumbias Imaquinarias - EP",
         "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 226448,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        }
+      ],
+      "duration_ms": 459720,
+      "name": "Momoto",
+      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Siesta",
-        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
-      },
-      "artists": [
-        {
-          "name": "Barulinho",
-          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
-        }
-      ],
-      "duration_ms": 233739,
-      "name": "Kalimba Nara",
-      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Hijo de Tigre",
         "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 261240,
       "name": "Mapal\u00e9",
       "url": "https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
+      },
+      "artists": [
+        {
+          "name": "Barulinho",
+          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
+        }
+      ],
+      "duration_ms": 233739,
+      "name": "Kalimba Nara",
+      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

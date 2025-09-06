@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: ODUMODUBLVCK",
-  "num_followers": 177130,
+  "num_followers": 177205,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
         "name": "GE3 (The Beginning)",
         "url": "https://open.spotify.com/album/6eR5eDrWGOUMtPgKzpReFt"
       },
@@ -1287,18 +1303,22 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+        "name": "EKELEBE (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+      "duration_ms": 222222,
+      "name": "EKELEBE (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -1323,26 +1343,6 @@
       "duration_ms": 172500,
       "name": "STATION",
       "url": "https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC"
-    },
-    {
-      "added_at": "2025-09-05 00:01:27",
-      "album": {
-        "name": "EKELEBE (feat. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "EKELEBE (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
     },
     {
       "added_at": "2025-09-05 00:01:27",

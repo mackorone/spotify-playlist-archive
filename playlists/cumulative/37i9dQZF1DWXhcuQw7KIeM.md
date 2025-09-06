@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-166 songs - 14 hr 28 min
+167 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Appalachia](https://open.spotify.com/track/7u0XWL41N6AqkmaqYGjBv8) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Appalachia](https://open.spotify.com/album/0wLo8lUnywiRPgkjrqZ3Bf) | 3:59 | 2022-05-13 | 2025-02-13 |
 | [Appalachia](https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Stave](https://open.spotify.com/album/64LXA7HAr6IsT5wISAmZqu) | 3:59 | 2023-02-17 | 2024-04-19 |
 | [Babylon](https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Babylon](https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y) | 3:41 | 2024-04-16 | 2025-04-29 |
+| [Belladonna](https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [HEX](https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4) | 4:53 | 2025-09-05 |  |
 | [Birna](https://open.spotify.com/track/0VFjKovOdQZje1n3nLwGAb) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/6EKX2dTn9DYVvBoheKb4Hm) | 6:25 | 2024-12-06 |  |
 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 | 2022-07-08 |  |
 | [Blakey Ridge](https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [III \- Candles & Beginnings](https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX) | 4:16 | 2025-08-15 |  |
@@ -150,7 +151,7 @@
 | [Urzala](https://open.spotify.com/track/6CRcyL0s068af2UWWBvaJM) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:04 | 2022-05-13 | 2024-04-17 |
 | [Valhalla Rising](https://open.spotify.com/track/0GmPknOgicu33WuFr96ei0) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [CVLT](https://open.spotify.com/album/78XQBbOwtSRdRfsu0rlAOK) | 7:00 | 2023-09-08 | 2024-04-19 |
 | [Valhalla Rising](https://open.spotify.com/track/43H07xlSOBTrLwuAVgAZd4) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [CVLT](https://open.spotify.com/album/6bliURGMEiDbsvaHxmKvD8) | 7:00 | 2023-02-17 | 2023-09-25 |
-| [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 | 2022-05-13 |  |
+| [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 | 2022-05-13 | 2025-09-06 |
 | [Varjo](https://open.spotify.com/track/0rBunHSvmi7ee3VSzna3er) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Under the Surface](https://open.spotify.com/album/7srCSseLFjcDZFwip9QLwJ) | 5:39 | 2022-07-08 | 2024-04-19 |
 | [Varjo](https://open.spotify.com/track/2Qggo2P26yyyuzdHgueQc0) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/4wqAwqEXhub8SrdidM4pYP) | 5:39 | 2022-10-07 | 2022-11-13 |
 | [Varjo](https://open.spotify.com/track/5V7GpFS9TX3JnNJtdDxNqR) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/37xsrFZKpKpqDlNkKXm4wb) | 5:39 | 2022-05-13 | 2024-12-04 |

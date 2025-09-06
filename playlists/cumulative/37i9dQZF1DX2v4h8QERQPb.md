@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Bien Argento 📸 Klan.
+> Bien Argento 📸 Mir Nicolas.
 
-398 songs - 19 hr 50 min
+400 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Demenciales](https://open.spotify.com/track/0UJPAOOmj7KGoQgv1ytKuu) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31) | [Demenciales](https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn) | 2:01 | 2024-04-05 | 2025-05-07 |
 | [Demonio](https://open.spotify.com/track/7IDJdXLiEDKW3cG41vqZhE) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Demonio](https://open.spotify.com/album/7zWmthUc2FUoNalblzLd1S) | 2:13 | 2022-06-10 | 2023-01-07 |
 | [Demonio](https://open.spotify.com/track/34K2jtmYkGnicpR7fnOdxW) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Alan Escobar](https://open.spotify.com/artist/3VCCXzM23StRTfxowf5S9B) | [Demonio](https://open.spotify.com/album/15wErgTl6tdKdTRdgIEVX9) | 2:13 | 2021-11-26 | 2023-01-28 |
+| [Deseos](https://open.spotify.com/track/2Dd0lB2qCPgWpUNnIz8ANi) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Lulo](https://open.spotify.com/artist/5PBqui5EQjUM8MfYM8sH6E) | [Deseos](https://open.spotify.com/album/0OoRuiDnuHWah5sNKbL3pJ) | 1:53 | 2025-09-05 |  |
 | [DESPUES DE NOVIEMBRE](https://open.spotify.com/track/1XLwUoxQtoLGxN3RQHNn5E) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [DESPUES DE NOVIEMBRE](https://open.spotify.com/album/7zylMTD5IBlREPs2DdBIMf) | 2:27 | 2024-06-14 |  |
 | [Detenido](https://open.spotify.com/track/5W6445TK7A4ZU0WR6iGKZz) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Detenido](https://open.spotify.com/album/33oLczPO3ksopKsT4M6DPM) | 2:20 | 2021-11-26 | 2022-04-12 |
 | [Detrás Del Dólar](https://open.spotify.com/track/5EslUzaxGTmgaoYGXkbhLa) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Detrás Del Dólar](https://open.spotify.com/album/796DOnaZS8M46WOdyiPeVO) | 2:53 | 2022-02-25 | 2024-05-25 |
@@ -273,6 +274,7 @@
 | [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 | 2024-01-10 |  |
 | [NO ES PERSONAL](https://open.spotify.com/track/1W0XrLd7qOYJUvfAWoFTCD) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [NO ES PERSONAL](https://open.spotify.com/album/6DThSPwwfrFSky4zRw23Za) | 2:21 | 2025-07-04 |  |
 | [NO EXISTEN DOS](https://open.spotify.com/track/5OooFdo5lSfbskmMa4UfMy) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [NO EXISTEN DOS](https://open.spotify.com/album/0EmiaC5MJLksexH9KfzTm9) | 2:16 | 2024-10-18 |  |
+| [NO TE HAGAS](https://open.spotify.com/track/6KCAkuoZsQGRiXu80f4vf3) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [NO TE HAGAS](https://open.spotify.com/album/09YwUmq60wbWR83xT7GN8b) | 3:02 | 2025-09-05 |  |
 | [No Tiene Nombre](https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con la Bolsa al Hombro](https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV) | 3:55 | 2022-04-11 | 2024-08-17 |
 | [No Tiene Nombre](https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con La Bolsa Al Hombro](https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi) | 3:55 | 2022-07-29 | 2024-04-19 |
 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 | 2023-05-12 | 2023-08-26 |

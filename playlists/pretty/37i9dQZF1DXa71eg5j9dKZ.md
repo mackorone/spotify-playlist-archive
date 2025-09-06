@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: I\. JORDAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,886 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,898 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 12 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
 | 13 | [I Need U](https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/0QVZNjVqsLenILPinmltYG) | 3:46 |
 | 14 | [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 |
-| 15 | [Track 1](https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Pure Motion](https://open.spotify.com/album/3OBeNrJXWPdq8HP7VzyIev) | 0:00 |
+| 15 | [Wanna See U Again](https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Pure Motion](https://open.spotify.com/album/3OBeNrJXWPdq8HP7VzyIev) | 2:53 |
 | 16 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 17 | [Champagne](https://open.spotify.com/track/0GvCFasUqd63QhmvMUiWqN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Champagne](https://open.spotify.com/album/4TKxmz7JRy8QKPxO7dWDTo) | 3:32 |
 | 18 | [double luxury](https://open.spotify.com/track/3mniWvZDbiXup6vp7ebPJi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [double luxury](https://open.spotify.com/album/6DQicWAuEdhCIPhVxibnld) | 4:25 |

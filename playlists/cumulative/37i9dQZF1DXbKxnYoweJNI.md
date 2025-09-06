@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 吳汶芳 \(Fang Wu\)
 
-2,968 songs - 7 day 5 hr 12 min
+2,969 songs - 7 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,7 +985,7 @@
 | [不小心 \- 電影《夏日的檸檬草》主題曲](https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [不小心 \(電影《夏日的檸檬草》主題曲\)](https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR) | 4:12 | 2024-08-01 | 2024-08-23 |
 | [不就是哭嗎](https://open.spotify.com/track/7DvdMWMxqWBBs0OXAFQ4Wl) | [Soya 許素瑄](https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr) | [So,ya.許素瑄同名EP](https://open.spotify.com/album/2qTfVuJb0cDmJ1S64TPCjy) | 3:18 | 2024-08-15 | 2024-09-06 |
 | [不屬於](https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [不屬於](https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf) | 4:01 | 2025-07-31 | 2025-08-08 |
-| [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼](https://open.spotify.com/artist/3D44Aw6V7zooi9fRHwkP61) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:52 | 2025-08-28 |  |
+| [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:52 | 2025-08-28 |  |
 | [不怕星期一 \- 劇集《Ｘ！又是星期一》主題曲](https://open.spotify.com/track/7CofNNrb1x3tqzHYqG160F) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ), [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [不怕星期一 \(劇集《Ｘ！又是星期一》主題曲\)](https://open.spotify.com/album/4Dt3mf3Jw2G4TC0uOioVOB) | 2:26 | 2024-09-19 | 2024-10-18 |
 | [不想和你分開](https://open.spotify.com/track/75j9P6i2s9iXP81PHHzP5F) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [不想和你分開](https://open.spotify.com/album/6EyDaqH4Hu7VDOsuPwrWLa) | 3:21 | 2025-06-19 | 2025-07-11 |
 | [不懂](https://open.spotify.com/track/5H1RR344wWpIfyWY7sVbgh) | [XincMotion](https://open.spotify.com/artist/1ZJRNr0X1RO94FvyJnBHmu) | [不懂](https://open.spotify.com/album/1OFAZKFtUiz1PiRzN1yPbs) | 2:16 | 2024-11-14 | 2024-11-22 |
@@ -1222,6 +1222,7 @@
 | [凡勢](https://open.spotify.com/track/3vmipLtWDJks3AgFG8OX8Z) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [未擇之路（凡勢我）](https://open.spotify.com/album/7HTIxoJaNO9ZdlSrJ6ozPy) | 3:50 | 2025-07-31 | 2025-09-05 |
 | [出口](https://open.spotify.com/track/3ihjdOfrsQN26QNe4Upz4M) | [小球\(莊鵑瑛\)](https://open.spotify.com/artist/5r0Fhn5JfkbhPG8wXRu0iY) | [出口](https://open.spotify.com/album/7D254WmZhTLJJzkpMTYtJU) | 4:22 | 2025-05-08 | 2025-06-06 |
 | [刀](https://open.spotify.com/track/22K8mIEUfMmRWMVubt1Hem) | [Cacien](https://open.spotify.com/artist/0mIQNrE8n0woZmWBE5mxEc) | [who cares](https://open.spotify.com/album/0xZf5mG2sOluFYEaOYJFp6) | 3:06 | 2025-07-17 | 2025-07-25 |
+| [刀](https://open.spotify.com/track/76uTCvbaxnv25HACyzvl28) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [緩](https://open.spotify.com/album/5cdkaz3opXKx6n4KHPe5TS) | 1:49 | 2025-09-05 |  |
 | [分開或許妳會快樂](https://open.spotify.com/track/3qk5oktdpbCHUEDQUNStGm) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [分開或許妳會快樂](https://open.spotify.com/album/5DRUHOeHWJrvh889WkgqHr) | 3:48 | 2025-01-09 | 2025-07-18 |
 | [初寒](https://open.spotify.com/track/2cgPIP07KkRQA6PzfVmv1W) | [Insnowk](https://open.spotify.com/artist/5aeU78blusuYLltNCugrmg) | [初寒](https://open.spotify.com/album/7zDTHep3q8TUikUrPgUhFW) | 1:18 | 2025-03-13 | 2025-03-21 |
 | [初心](https://open.spotify.com/track/3qERzYNLArHAZXxYbTVojm) | [郭欣瑜](https://open.spotify.com/artist/6iNNIxt6euZuN7h9fjcOZ8) | [初心](https://open.spotify.com/album/3xDtgeU5HhUFR0cJieX8jS) | 3:50 | 2025-01-09 | 2025-04-25 |

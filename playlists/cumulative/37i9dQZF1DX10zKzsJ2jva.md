@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Luis R Conriquez, Fuerza Regida, Neton Vega
+> Today's top Latin hits, elevando nuestra música\. Cover: Jere Klein, Katteyes
 
 910 songs - 2 day 0 hr 21 min
 

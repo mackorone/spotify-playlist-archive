@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Aditya Rikhari, Shirley Setia and more. ",
+  "description": "Latest music from Yo Yo Honey Singh, Shael, THE SHAMS and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 234683,
       "name": "Adhoora",
       "url": "https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 164285,
       "name": "Aisi Mulaqaat",
       "url": "https://open.spotify.com/track/6kWBpnY5jGQiohGqUbkViW"
@@ -4424,7 +4424,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 160749,
       "name": "Beparwai",
       "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
@@ -8572,7 +8572,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 220002,
       "name": "DOBARA",
       "url": "https://open.spotify.com/track/1hL3oTpFn4QJnS5gBro7eY"
@@ -11174,7 +11174,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 215034,
       "name": "Haqeeqat",
       "url": "https://open.spotify.com/track/6ymFUbxenqqNmrHn5CviFy"
@@ -17159,6 +17159,24 @@
     },
     {
       "album": {
+        "name": "Khuda Dekhta Hu",
+        "url": "https://open.spotify.com/album/1tUKEHVl7F9txBYINwv7cH"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "Khuda Dekhta Hu",
+      "url": "https://open.spotify.com/track/0IKMZJna1STKiAppAzVMvY"
+    },
+    {
+      "album": {
         "name": "Khuda K Paas",
         "url": "https://open.spotify.com/album/10MKApD9QZkA3t7UAIOpzE"
       },
@@ -19466,6 +19484,32 @@
       "duration_ms": 205720,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/4JPjkk7dt5e8FfObYUe0Zp"
+    },
+    {
+      "album": {
+        "name": "Majboori",
+        "url": "https://open.spotify.com/album/1HdEOKu6vNhtagRuEOHwUX"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Irfan",
+          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
+        },
+        {
+          "name": "Vaniit Bakshi",
+          "url": "https://open.spotify.com/artist/0OuDD4tItqDidmRLRvZoNp"
+        },
+        {
+          "name": "Rahul Dayal",
+          "url": "https://open.spotify.com/artist/2OwjtEG0CTyBinxl9f6fen"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Majboori",
+      "url": "https://open.spotify.com/track/5MSo58mtdJCafgfzTLUdam"
     },
     {
       "album": {
@@ -25155,6 +25199,24 @@
     },
     {
       "album": {
+        "name": "Raaz",
+        "url": "https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "Raaz",
+      "url": "https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag"
+    },
+    {
+      "album": {
         "name": "Raaz Keh Gaye",
         "url": "https://open.spotify.com/album/36AxHDQXAc4KY5Wo9c3wB3"
       },
@@ -25548,7 +25610,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 170624,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/31kpp32NUZoyOHTofbQWHS"
@@ -26450,7 +26512,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 122240,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0"
@@ -27239,6 +27301,32 @@
     },
     {
       "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/3D1MNaJCnRqkF4RKEYb8T9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Shael",
+          "url": "https://open.spotify.com/artist/6etdYkAEnMmzhv4pJu0FWL"
+        },
+        {
+          "name": "THE SHAMS",
+          "url": "https://open.spotify.com/artist/0Vepfi0XJ1hdBOu5WlMlXn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/7GBRVa5m6l4wabnEQzsKb8"
+    },
+    {
+      "album": {
         "name": "Reversion",
         "url": "https://open.spotify.com/album/3gGY0PPYagKguj9JCv3kBL"
       },
@@ -27354,6 +27442,24 @@
       "duration_ms": 240038,
       "name": "Sanam Aa Gaya",
       "url": "https://open.spotify.com/track/2Tc6AF0CJVBgYvEIWsNO1e"
+    },
+    {
+      "album": {
+        "name": "Sangwaari",
+        "url": "https://open.spotify.com/album/32XfmV40yJo0siUoV5Rxbf"
+      },
+      "artists": [
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253643,
+      "name": "Sangwaari",
+      "url": "https://open.spotify.com/track/5yGYPEXIX7ZoBm0gcOhPNP"
     },
     {
       "album": {
@@ -27865,6 +27971,28 @@
     },
     {
       "album": {
+        "name": "Shaam",
+        "url": "https://open.spotify.com/album/5qs34VE0yuvYixxoawTpxt"
+      },
+      "artists": [
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154513,
+      "name": "Shaam",
+      "url": "https://open.spotify.com/track/4Ot4m9acmqECLQTIDNEAdD"
+    },
+    {
+      "album": {
         "name": "Shaam Se",
         "url": "https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G"
       },
@@ -28268,6 +28396,32 @@
       "duration_ms": 210765,
       "name": "Shringaar (feat. Milind Soman)",
       "url": "https://open.spotify.com/track/5Fx04tkVKaLwM6TVAqArx5"
+    },
+    {
+      "album": {
+        "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
+        "url": "https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395913,
+      "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
+      "url": "https://open.spotify.com/track/4yY6SRse3iDtY0QROJmBXa"
     },
     {
       "album": {
@@ -32235,6 +32389,28 @@
     },
     {
       "album": {
+        "name": "Tu Pyaasa Hai",
+        "url": "https://open.spotify.com/album/2WdpiY7Y1xXdx8mTLmew3R"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Tu Pyaasa Hai",
+      "url": "https://open.spotify.com/track/2ErePJqq4vhH4uqUHiT2Io"
+    },
+    {
+      "album": {
         "name": "Tu Ru Ruu",
         "url": "https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG"
       },
@@ -33400,7 +33576,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 177105,
       "name": "Unse Jaake Kehdo",
       "url": "https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X"

@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> not a thing about the way you is
+> roots run deep
 
-408 songs - 1 day 0 hr 23 min
+410 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Love](https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:43 | 2023-02-24 | 2023-10-13 |
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-02-24 | 2023-10-01 |
 | [Love Me Like You Used To Do \[Feat\. Tyler Childers\]](https://open.spotify.com/track/28520OoA1qXG46koPHUcSG) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Hard Headed Woman](https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw) | 4:27 | 2025-08-29 |  |
+| [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 | 2025-09-05 |  |
 | [Mad Man](https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Mad Man](https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR) | 2:52 | 2023-09-01 |  |
 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-02-09 | 2024-07-11 |
 | [Madeline](https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Madeline](https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a) | 3:54 | 2025-01-02 |  |
@@ -405,6 +406,7 @@
 | [Wildflowers and Wild Horses](https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 4:10 | 2023-11-17 | 2024-04-19 |
 | [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 | 2024-05-24 |  |
 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 | 2023-11-17 | 2024-01-27 |
+| [Wishbone](https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Wishbone](https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn) | 3:04 | 2025-09-05 |  |
 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 | 2023-02-24 | 2023-11-18 |
 | [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women And Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 | 2023-06-21 | 2023-10-04 |
 | [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/34udLlmfibjlLc5hEVkdXb) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 4:13 | 2023-09-29 | 2023-12-09 |

@@ -1,380 +1,320 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 12569,
+  "num_followers": 12570,
   "original_name": "BrooklynVegan's Favorite Songs of the Week",
   "owner": {
     "name": "BrooklynVegan",
     "url": "https://open.spotify.com/user/brooklynvegan"
   },
-  "snapshot_id": "AAAXz6aFOH+dyNVU7zYcDlve1mQJ9NJn",
+  "snapshot_id": "AAAX0VOGmo8v3Pn+n/MQU/bGEf+DlCOX",
   "tracks": [
     {
-      "added_at": "2025-08-22 20:16:59",
+      "added_at": "2025-09-05 22:46:25",
       "album": {
-        "name": "Burnover",
-        "url": "https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv"
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT"
       },
       "artists": [
         {
-          "name": "Greg Freeman",
-          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
-        }
-      ],
-      "duration_ms": 152910,
-      "name": "Gulch",
-      "url": "https://open.spotify.com/track/2RSWXLq76q8kewM2HCRWBy"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Bitter Everyday",
-        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "Bitter Everyday",
-      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Evil Twin",
-        "url": "https://open.spotify.com/album/1ThoxwyNIhJn2JRA86Xeb0"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 300546,
-      "name": "Evil Twin",
-      "url": "https://open.spotify.com/track/3qXTiVz24cAnrsTE8VRcsF"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "All My Friends Are So Depressed",
-        "url": "https://open.spotify.com/album/3NEtccNr2fy3ntFY7RUQoN"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 162886,
-      "name": "All My Friends Are So Depressed",
-      "url": "https://open.spotify.com/track/1B96kEGScLcBqZNlKycVsR"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Fundraiser",
-        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Fundraiser",
-      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/1Di7T9tKGotnbmqmgh3hq3"
-      },
-      "artists": [
-        {
-          "name": "Shopping",
-          "url": "https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf"
-        }
-      ],
-      "duration_ms": 198404,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/50L12RKdUmS0Zk52W7zUZg"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 248957,
-      "name": "i think about you all the time",
-      "url": "https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Dreams of Being Dust",
-        "url": "https://open.spotify.com/album/37rtDNzByPWuMoaA9Mg5r7"
-      },
-      "artists": [
-        {
-          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
         },
         {
-          "name": "Full Of Hell",
-          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Reject All and Submit",
-      "url": "https://open.spotify.com/track/4HKNKEs7SUYcM7ukNEiy17"
+      "duration_ms": 183960,
+      "name": "Brand New Me",
+      "url": "https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6"
     },
     {
-      "added_at": "2025-08-22 20:16:59",
+      "added_at": "2025-09-05 22:46:25",
       "album": {
-        "name": "Nights in Armor",
-        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
+        "name": "Say\u014dnara",
+        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
       "artists": [
         {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Nights in Armor",
-      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/2LtmpUPxf53HsvZxO7JIyz"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/3TIzEHCMvagUXDej3ycZKr"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "New Earth Time",
-        "url": "https://open.spotify.com/album/7q9XglyVKCywFzOcnd1aZz"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 245586,
-      "name": "New Earth Time",
-      "url": "https://open.spotify.com/track/6B9FH9oGQkjAlmaBkYfVr5"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Main de Fer (Shit Robot remix)",
-        "url": "https://open.spotify.com/album/1kckQpHu9tszMZU7MjQSX5"
-      },
-      "artists": [
-        {
-          "name": "Annie-Claude Desch\u00eanes",
-          "url": "https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i"
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
         },
         {
-          "name": "Shit Robot",
-          "url": "https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ"
+          "name": "Paul Hartnoll",
+          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
         }
       ],
-      "duration_ms": 418124,
-      "name": "Main de Fer (Shit Robot remix)",
-      "url": "https://open.spotify.com/track/3IWfexpGx1Q7sXa7w4sHRW"
+      "duration_ms": 184734,
+      "name": "Say\u014dnara",
+      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
     },
     {
-      "added_at": "2025-08-22 20:16:59",
+      "added_at": "2025-09-05 22:46:25",
       "album": {
-        "name": "Live Laugh Love",
-        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+        "name": "What Is The Reason For It?",
+        "url": "https://open.spotify.com/album/4E8naSl27jzeECfOA92V3y"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 120891,
-      "name": "Gamma (need the <3)",
-      "url": "https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "The Well Is Poisoned (Dub)",
-        "url": "https://open.spotify.com/album/21FpTV3VtFPj6eAV6JO28E"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sherwood",
-          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "The Well Is Poisoned (Dub)",
-      "url": "https://open.spotify.com/track/77vaJt5Mzb4G91brN9pJvw"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Into the Void",
-        "url": "https://open.spotify.com/album/6IlSQ5g13jayFUpgMLGpam"
-      },
-      "artists": [
-        {
-          "name": "Good Luck",
-          "url": "https://open.spotify.com/artist/3d7qVZN9v6jrSnTH9AH9B4"
-        }
-      ],
-      "duration_ms": 154174,
-      "name": "Into the Void",
-      "url": "https://open.spotify.com/track/4bBYGJfepV9S5lmmym6mU3"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Laughing Academy",
-        "url": "https://open.spotify.com/album/7nnZAOYQPuimE6pEdJr45H"
-      },
-      "artists": [
-        {
-          "name": "Public Opinion",
-          "url": "https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
         },
         {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Laughing Academy",
-      "url": "https://open.spotify.com/track/3qDPDo550RNYF9DwGyeuO6"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Summer Seizures",
-        "url": "https://open.spotify.com/album/6Otm1kt3CiyJiZM3lTE68E"
-      },
-      "artists": [
-        {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Summer Seizures",
-      "url": "https://open.spotify.com/track/4lPaLxz1OV5sdgvsSgeZL2"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "High Ceilings",
-        "url": "https://open.spotify.com/album/1ATRxK4fFgzyRHdBuE3Efz"
-      },
-      "artists": [
-        {
-          "name": "Omni",
-          "url": "https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9"
-        }
-      ],
-      "duration_ms": 178589,
-      "name": "High Ceilings",
-      "url": "https://open.spotify.com/track/7rscwqiykqiMne7MysQnpt"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Adriatic",
-        "url": "https://open.spotify.com/album/7gXJQFI5K3fmChcAR54Z6L"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 222390,
-      "name": "Adriatic",
-      "url": "https://open.spotify.com/track/0j6olnVHBLNQ68daZhwcFR"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Bluebird of Happiness",
-        "url": "https://open.spotify.com/album/6QyZwVK1AbJrwdfq7DlQG7"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Bluebird of Happiness",
-      "url": "https://open.spotify.com/track/5CiGqgbkBW3AAET67b4eHj"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "Walk Out On This World",
-        "url": "https://open.spotify.com/album/1lho5GjSo5sy3S8PxiZpTS"
-      },
-      "artists": [
-        {
-          "name": "Hunx and His Punx",
-          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Walk Out On This World",
-      "url": "https://open.spotify.com/track/7JEn23S1hGEH1pexzrVsYm"
-    },
-    {
-      "added_at": "2025-08-22 20:16:59",
-      "album": {
-        "name": "That Wasn't A Dream",
-        "url": "https://open.spotify.com/album/5pDATa5kjuLPlh1zALzCrl"
-      },
-      "artists": [
-        {
-          "name": "Pino Palladino",
-          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
         },
         {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 824533,
-      "name": "Heat Sink",
-      "url": "https://open.spotify.com/track/120ZzeUjOxJlR0uslScHkc"
+      "duration_ms": 190866,
+      "name": "What Is The Reason For It?",
+      "url": "https://open.spotify.com/track/0sFpqQmehUFEq3x65a93a7"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "The Clock Behind All Other Clocks",
+        "url": "https://open.spotify.com/album/1GCFvNKZHAONrInVx2jjYJ"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "The Clock Behind All Other Clocks",
+      "url": "https://open.spotify.com/track/43Umu6ltSRIbhUyYiEOog6"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Intruder Organism",
+        "url": "https://open.spotify.com/album/3aOefLW5ZOSK47UAa5l8hl"
+      },
+      "artists": [
+        {
+          "name": "Bonginator",
+          "url": "https://open.spotify.com/artist/0nYqH22K19D3MUPFeomPIP"
+        },
+        {
+          "name": "Fulci",
+          "url": "https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet"
+        }
+      ],
+      "duration_ms": 233424,
+      "name": "Intruder Organism",
+      "url": "https://open.spotify.com/track/4OVtIf66FNfMBH4TMWdfN2"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Cause and Effect",
+        "url": "https://open.spotify.com/album/6CQtBCHTEO5B55CeS2ozek"
+      },
+      "artists": [
+        {
+          "name": "SPACED",
+          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
+        }
+      ],
+      "duration_ms": 134309,
+      "name": "Cause and Effect",
+      "url": "https://open.spotify.com/track/7GFgKhMWaQO94MZH6owNnN"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "It's Just A Title",
+        "url": "https://open.spotify.com/album/6WtK6caSpWvmWXafj9TdwW"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "It's Just A Title",
+      "url": "https://open.spotify.com/track/00pSd7PkuGUoY8xuCtnn74"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Peace as a Punchline",
+        "url": "https://open.spotify.com/album/6mEl2gJ4ykYMCmyarPqZ19"
+      },
+      "artists": [
+        {
+          "name": "Destiny Bond",
+          "url": "https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs"
+        }
+      ],
+      "duration_ms": 169493,
+      "name": "Peace as a Punchline",
+      "url": "https://open.spotify.com/track/3mJtl9qYqe7ixZndCI9jBp"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Antidepressants",
+        "url": "https://open.spotify.com/album/1dAU8clfP3pRtcxazoVS0R"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "duration_ms": 206699,
+      "name": "Antidepressants",
+      "url": "https://open.spotify.com/track/3N30Yd3XmXncyli64NopSv"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "(You Can't Go Back To) Oxford Talawanda",
+        "url": "https://open.spotify.com/album/2mYsQUY7YFeAaUvYKXelOn"
+      },
+      "artists": [
+        {
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+        }
+      ],
+      "duration_ms": 155841,
+      "name": "(You Can't Go Back To) Oxford Talawanda",
+      "url": "https://open.spotify.com/track/5dApaQyfVpxLZvqN1Y9T5M"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Don\u2019t Let Them Tell You (It\u2019s Fair)",
+        "url": "https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 237645,
+      "name": "Don\u2019t Let Them Tell You (It\u2019s Fair)",
+      "url": "https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Nearly There",
+        "url": "https://open.spotify.com/album/2C5yVMIRVc16cidPJ1b1EO"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 401887,
+      "name": "Nearly There",
+      "url": "https://open.spotify.com/track/57uUgGbWIjw7Jr7YdnQ103"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/3IyBw3LtGzrCgNWoPH2Xun"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 210364,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/3vBlMZGKNfL4k8JgheCFEX"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Traces of You",
+        "url": "https://open.spotify.com/album/4RsfzXP6B29j6EsBFgqyOl"
+      },
+      "artists": [
+        {
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+        }
+      ],
+      "duration_ms": 181570,
+      "name": "Midnight Hour",
+      "url": "https://open.spotify.com/track/2wZGbsSumDdIAHSTtoFexz"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 189609,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Echo in the Field",
+        "url": "https://open.spotify.com/album/0fZJEmTD8gv10S1gx4Q52c"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "duration_ms": 278028,
+      "name": "Echo in the Field",
+      "url": "https://open.spotify.com/track/0zIbm5njltu0NefdY5G3zp"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/10dumwLFKAySOp08qSpdom"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 340746,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/43xkvx0JTUd4x4mAJm79H4"
+    },
+    {
+      "added_at": "2025-09-05 22:46:25",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     }
   ],
   "unique_name": "BrooklynVegan's Favorite Songs of the Week",

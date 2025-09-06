@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1936164,
+  "num_followers": 1936182,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA31x1AcEx5ZIxp8XB+ufxhzkRGc",
+  "snapshot_id": "AAAAADnYkjwAKDcHXw7PGwwoCdcX1u41",
   "tracks": [
     {
       "added_at": "2025-08-21 18:54:37",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-08-21 18:54:37",
       "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 239645,
+      "name": "una foto de nosotros",
+      "url": "https://open.spotify.com/track/6W515xp3vRZshHQYP7fBMi"
+    },
+    {
+      "added_at": "2025-08-21 18:54:37",
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 158842,
       "name": "seu carinho",
       "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
-    },
-    {
-      "added_at": "2025-08-21 18:54:37",
-      "album": {
-        "name": "al romper la burbuja",
-        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 239645,
-      "name": "una foto de nosotros",
-      "url": "https://open.spotify.com/track/6W515xp3vRZshHQYP7fBMi"
     },
     {
       "added_at": "2025-08-21 18:54:37",

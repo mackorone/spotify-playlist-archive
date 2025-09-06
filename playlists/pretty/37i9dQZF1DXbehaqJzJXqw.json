@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 598144,
+  "num_followers": 598554,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-08-18 12:41:30",
       "album": {
+        "name": "Les Souvenirs Sous Ma Frange",
+        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "J'ai 18 Ans",
+      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
+    },
+    {
+      "added_at": "2025-08-18 12:41:30",
+      "album": {
         "name": "For One to Love",
         "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 197106,
       "name": "Armstrong",
       "url": "https://open.spotify.com/track/1mR2KQy1rN55wbCr0rfAqN"
-    },
-    {
-      "added_at": "2025-08-18 12:41:30",
-      "album": {
-        "name": "Les Souvenirs Sous Ma Frange",
-        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "J'ai 18 Ans",
-      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
     },
     {
       "added_at": "2025-08-18 12:41:30",

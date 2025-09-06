@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "Groovin'",
+        "url": "https://open.spotify.com/album/6RdCQFBacjNbZDwEWtFqpa"
+      },
+      "artists": [
+        {
+          "name": "Soul In The Horn",
+          "url": "https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju"
+        },
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/5sZ7nssiKtWPe6J9NsAFrt"
+    },
+    {
+      "album": {
         "name": "Havana Jazz",
         "url": "https://open.spotify.com/album/1PnumLRat66gCYGg0C99Cl"
       },
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 240000,
       "name": "Jealous Girl",
       "url": "https://open.spotify.com/track/1Thix6BaqobCQATYE7LRln"
@@ -2006,7 +2028,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 252933,
       "name": "Quali Kalimba",
       "url": "https://open.spotify.com/track/67Ah3dFoFunjecD6jhEXyq"
@@ -2046,6 +2068,24 @@
       "duration_ms": 214838,
       "name": "Reach Into Your Soul",
       "url": "https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308"
+    },
+    {
+      "album": {
+        "name": "Recess Echoes",
+        "url": "https://open.spotify.com/album/7jGA8TlOYbFp09V1c83ehZ"
+      },
+      "artists": [
+        {
+          "name": "gai seki",
+          "url": "https://open.spotify.com/artist/0k0RcuWdEsMo7LoyNn1Dd9"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223250,
+      "name": "Recess Echoes",
+      "url": "https://open.spotify.com/track/2Hao7S9oNAwXhggNplCtrI"
     },
     {
       "album": {
@@ -2188,6 +2228,28 @@
       "duration_ms": 404630,
       "name": "Saw You for the First Time",
       "url": "https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6TCm6IHzYsuPIsH52F9a42"
+      },
+      "artists": [
+        {
+          "name": "DAWSON",
+          "url": "https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199379,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/72isHTzdTf3GcFkBcsT0i4"
     },
     {
       "album": {
@@ -2744,7 +2806,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 187631,
       "name": "What a Mess - Milan93 Remix",
       "url": "https://open.spotify.com/track/6xMJBgV703zfA2Qh9h47sJ"

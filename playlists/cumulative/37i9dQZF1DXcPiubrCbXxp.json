@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "that 50s kinda feeling, cover: Kali Uchis",
+  "description": "that 50s kinda feeling, cover: Omar Rudberg",
   "name": "crushed velvet",
   "tracks": [
     {
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
+    },
+    {
+      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 210826,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
+    },
+    {
+      "album": {
+        "name": "Dying",
+        "url": "https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
     },
     {
       "album": {
@@ -1206,7 +1242,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"

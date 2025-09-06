@@ -4,7 +4,7 @@
 
 > you up?
 
-522 songs - 1 day 5 hr 12 min
+524 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 | 2025-03-25 | 2025-08-30 |
 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 | 2023-12-15 | 2024-01-27 |
 | [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-03-25 | 2022-04-19 |
+| [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 | 2025-09-05 |  |
 | [Addicted](https://open.spotify.com/track/192ciZ16D6JInKOktNTD02) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 4:30 | 2022-04-11 | 2022-04-19 |
 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 | 2022-02-04 | 2022-07-29 |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2024-03-16 |
@@ -249,7 +250,7 @@
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-11 | 2022-07-07 |
 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 | 2022-10-28 | 2022-11-12 |
 | [Jane Doe](https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Jane Doe](https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2) | 2:44 | 2022-11-11 | 2022-11-19 |
-| [Jasmine](https://open.spotify.com/track/2SmWEmmOmI8K5DnkmJHXUr) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Jasmine](https://open.spotify.com/album/2FmZoNP9JBB0fmzbNw4VSo) | 3:57 | 2025-08-08 |  |
+| [Jasmine](https://open.spotify.com/track/2SmWEmmOmI8K5DnkmJHXUr) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Jasmine](https://open.spotify.com/album/2FmZoNP9JBB0fmzbNw4VSo) | 3:57 | 2025-08-08 | 2025-09-06 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 | 2023-09-13 |
 | [just want u to feel something](https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [just want u to feel something](https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8) | 2:50 | 2023-12-01 | 2024-03-16 |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-11-09 | 2024-12-28 |
@@ -411,7 +412,7 @@
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-09-26 | 2023-01-05 |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2022-02-04 | 2023-08-31 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2023-01-21 |
-| [Show Me](https://open.spotify.com/track/2CQdlpK88QxuUyVKKXAxBF) | [BURY](https://open.spotify.com/artist/56tAdT5WT6Mi288cBRDjnt), [Beneld](https://open.spotify.com/artist/1zjvbn4a4qxKIilf7v8irb) | [Show Me](https://open.spotify.com/album/1JOiaBVcySVw3HOcXogdew) | 3:26 | 2024-12-20 |  |
+| [Show Me](https://open.spotify.com/track/2CQdlpK88QxuUyVKKXAxBF) | [BURY](https://open.spotify.com/artist/56tAdT5WT6Mi288cBRDjnt), [Beneld](https://open.spotify.com/artist/1zjvbn4a4qxKIilf7v8irb) | [Show Me](https://open.spotify.com/album/1JOiaBVcySVw3HOcXogdew) | 3:26 | 2024-12-20 | 2025-09-06 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-05-23 |  |
 | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/track/0VOyLRYrUBufrXQibWBipR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Thomas LaRosa](https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR) | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/album/2g9hsnkWRbKARuVIiRwjBl) | 3:33 | 2022-09-09 | 2022-12-08 |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-02 | 2022-11-10 |
@@ -421,6 +422,7 @@
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-18 | 2023-06-02 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-08 | 2024-04-19 |
 | [SLIDE](https://open.spotify.com/track/1p3RpKfSJQcVTEwrQWr8q7) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH](https://open.spotify.com/album/52abbUrmRs1bmdVp01U9e2) | 3:55 | 2022-02-04 | 2022-07-29 |
+| [Slip](https://open.spotify.com/track/6S6yK5tpvx4NagGyaawlY7) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Slip](https://open.spotify.com/album/54CZ2YvV6NV89B1o3XBQyt) | 4:44 | 2025-09-05 |  |
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-21 | 2023-05-13 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-06-15 | 2024-01-25 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 | 2024-01-26 | 2024-04-19 |

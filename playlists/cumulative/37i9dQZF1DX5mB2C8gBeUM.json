@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Graham Barham",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Tyler Hubbard and Graham Barham",
   "name": "Wild Country",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 182612,
       "name": "Around You",
       "url": "https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB"
@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 164133,
       "name": "LIE TO ME",
       "url": "https://open.spotify.com/track/5ELpUMNlLWYAARo4irK4sG"
@@ -9560,6 +9560,28 @@
       "duration_ms": 210666,
       "name": "Whiskey Mode",
       "url": "https://open.spotify.com/track/37Vr9VYnUtMZXxZ9DkR6Qv"
+    },
+    {
+      "album": {
+        "name": "WHISKEY RAIN (feat. Tyler Hubbard)",
+        "url": "https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "WHISKEY RAIN (feat. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V"
     },
     {
       "album": {

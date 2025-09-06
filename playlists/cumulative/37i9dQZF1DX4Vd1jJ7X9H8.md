@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-513 songs - 1 day 6 hr 24 min
+514 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-07 | 2023-06-23 |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-09-26 | 2022-11-28 |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2024-12-10 |  |
+| [Disco Life](https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Disco Life](https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw) | 3:32 | 2025-09-05 |  |
 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 | 2020-12-31 | 2022-08-12 |
 | [Disco Man \- Hot Chip Remix](https://open.spotify.com/track/2n5HOpuWYtS7DeJGGURFhK) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Disco Man \(Hot Chip Remix\)](https://open.spotify.com/album/2JUeCvO4eODPZfh3SGbJCE) | 6:10 | 2021-06-25 | 2022-07-14 |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2020-12-31 | 2022-04-20 |
@@ -315,7 +316,7 @@
 | [Montreal](https://open.spotify.com/track/5maosvba9QkQP14u6vtxog) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Elliot \- EP](https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp) | 3:56 | 2023-06-29 | 2023-10-29 |
 | [Monument \- The Inevitable End Version](https://open.spotify.com/track/616ddBwW0LpyhCpLE5BpIP) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [The Inevitable End](https://open.spotify.com/album/3ZBCxww5l2GuPEtOmhP73N) | 4:46 | 2020-12-31 | 2022-04-21 |
 | [Moonlight](https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Moonlight](https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk) | 3:25 | 2023-10-13 | 2023-11-18 |
-| [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2023-01-15 |  |
+| [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2023-01-15 | 2025-09-06 |
 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 | 2023-05-04 | 2023-08-13 |
 | [Movies](https://open.spotify.com/track/7l5PV5CLNe9eCIcz8C5bLW) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Don't Go Wasting Time](https://open.spotify.com/album/6q3CZqvnqUH3OhZMDF6fGr) | 3:17 | 2022-05-31 | 2022-07-29 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2023-11-29 | 2024-03-23 |

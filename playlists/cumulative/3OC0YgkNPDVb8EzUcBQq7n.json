@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "I'm your first",
+        "url": "https://open.spotify.com/album/5p7As4T13Kvq8odFWp09sO"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174449,
+      "name": "I'm your first",
+      "url": "https://open.spotify.com/track/613aB25cZoMzE04ayGRStb"
+    },
+    {
+      "album": {
         "name": "silence / Inner Peace",
         "url": "https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e"
       },
@@ -804,7 +822,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 207874,
       "name": "I\u2019ve seen ur ex",
       "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
@@ -1477,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/7LQYDVBV6XwJTZMuaQNwHn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/6VlV6vwhHedxxBumKM5J4s"
+    },
+    {
+      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 294773,
       "name": "This is the Killer Speaking",
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"

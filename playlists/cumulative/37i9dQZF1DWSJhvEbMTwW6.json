@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Amor En Chino",
+        "url": "https://open.spotify.com/album/7vk28ViSra2yDr86ux9vL6"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205402,
+      "name": "Amor En Chino",
+      "url": "https://open.spotify.com/track/3LWX9IpbSqwUwYMyZRtlUM"
+    },
+    {
+      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -1074,6 +1092,28 @@
       "duration_ms": 217506,
       "name": "Cumbia Mapacha",
       "url": "https://open.spotify.com/track/2qgqX6ZE6qI51iFN3ntxKw"
+    },
+    {
+      "album": {
+        "name": "Cumbia Suave (Remix)",
+        "url": "https://open.spotify.com/album/6Hhnmkh2AhNJhQNgLGWDeq"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        },
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Cumbia Suave - Remix",
+      "url": "https://open.spotify.com/track/5fbxDUMWYsz1pcpWcZ0Alu"
     },
     {
       "album": {
@@ -1710,7 +1750,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 313613,
       "name": "El Verde De Tus Ojos",
       "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
@@ -1982,7 +2022,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 299284,
       "name": "Estupido (feat. Janeth Guadalupe)",
       "url": "https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN"
@@ -2613,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "Maldito Tic Toc",
+        "url": "https://open.spotify.com/album/24hM0XbKJTyqOzT5CLnCvu"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209663,
+      "name": "Maldito Tic Toc",
+      "url": "https://open.spotify.com/track/1LppMou2IZ1JABPvWCjGA3"
+    },
+    {
+      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
       },
@@ -2786,7 +2844,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 234640,
       "name": "Mi Cucu",
       "url": "https://open.spotify.com/track/22FB6hM6aonuPuVzBQYRcx"
@@ -3078,6 +3136,24 @@
       "duration_ms": 285799,
       "name": "No Puedo Olvidarte Cumbia Rosa",
       "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
+    },
+    {
+      "album": {
+        "name": "No Te Olvidar\u00e9",
+        "url": "https://open.spotify.com/album/40Vj3IQBYCfEjvB2RIhBwU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4dlXNSuEpgAz7MqQpPWGsR"
     },
     {
       "album": {
@@ -3818,7 +3894,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 203415,
       "name": "Te Espero en el Cielo",
       "url": "https://open.spotify.com/track/2g1XCPG2kO8VeUMXWLsQLN"

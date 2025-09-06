@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1096576,
+  "num_followers": 1096981,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
+        "name": "Jo Tum Mere Ho",
+        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "Jo Tum Mere Ho",
+      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
         "name": "Dhun (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 276643,
       "name": "Dhun (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "Jo Tum Mere Ho",
-        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 251813,
-      "name": "Jo Tum Mere Ho",
-      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -559,58 +559,6 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
-      },
-      "artists": [
-        {
-          "name": "Sanju Rathod",
-          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
-        },
-        {
-          "name": "G-SPXRK",
-          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
-        }
-      ],
-      "duration_ms": 175138,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Cheri Cheri Lady",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
         "name": "Monica (From \"Coolie\") (Tamil)",
         "url": "https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX"
       },
@@ -635,6 +583,58 @@
       "duration_ms": 217627,
       "name": "Monica (From \"Coolie\") (Tamil)",
       "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "duration_ms": 175138,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
-        "name": "Ranjheya Ve",
-        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
-      },
-      "artists": [
-        {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
-        }
-      ],
-      "duration_ms": 278474,
-      "name": "Ranjheya Ve",
-      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
         "name": "Kailasa",
         "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 250158,
-      "name": "Pehle Bhi Main",
-      "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
         "name": "Mann Mera (Original Version)",
         "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 227654,
       "name": "Chambal K Dakku",
       "url": "https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 250158,
+      "name": "Pehle Bhi Main",
+      "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
         "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 314000,
       "name": "Sanam Teri Kasam",
       "url": "https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "Aasa Kooda (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Sai Smriti",
-          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
-        }
-      ],
-      "duration_ms": 215510,
-      "name": "Aasa Kooda - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -1355,26 +1355,6 @@
       "duration_ms": 223390,
       "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
       "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "Dil Tu Jaan Tu",
-        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
-      },
-      "artists": [
-        {
-          "name": "Gurnazar",
-          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
-        },
-        {
-          "name": "Chet Singh",
-          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Dil Tu Jaan Tu",
-      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -1427,6 +1407,42 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
+        "name": "Dil Tu Jaan Tu",
+        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Dil Tu Jaan Tu",
+      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "Russian Bandana",
+        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Russian Bandana",
+      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 253352,
       "name": "Desi Kalakaar",
       "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
-        "name": "Russian Bandana",
-        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
-      },
-      "artists": [
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Russian Bandana",
-      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
     },
     {
       "added_at": "2025-09-04 09:02:50",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-04 09:02:50",
       "album": {
-        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
-    },
-    {
-      "added_at": "2025-09-04 09:02:50",
-      "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 228982,
       "name": "Ilahi",
       "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
+    },
+    {
+      "added_at": "2025-09-04 09:02:50",
+      "album": {
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     }
   ],
   "unique_name": "Trending Now India",

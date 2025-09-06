@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,351 likes - 44 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,369 likes - 44 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 39 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 40 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 |
 | 41 | [Hymn To The Fallen \- From "Saving Private Ryan" Soundtrack](https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Saving Private Ryan](https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI) | 6:10 |
-| 42 | [Journey To The Island](https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 8:52 |
-| 43 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 |
-| 44 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
+| 42 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
+| 43 | [Journey To The Island](https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 8:52 |
+| 44 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 |
 
-Snapshot ID: `aLeFAAAAAAB6mhvKgJmvqo6w3Wj9bDpm`
+Snapshot ID: `aLjWgAAAAAD/JNnhiUZxK/9tnpNXOWKO`

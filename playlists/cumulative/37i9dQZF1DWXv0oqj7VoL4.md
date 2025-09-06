@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#1【Dr.STONE】  小林裕介×鈴木崚汰「龍水は本当に優遇されている！」](https://open.spotify.com/episode/6NMBSzPPZHnSi8YKbtYJq0) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『夢中さ、きみに。』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『夢中さ、きみに。』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 29:31 | 2023-11-22 |  |
+| [\#1【Dr.STONE】  小林裕介×鈴木崚汰「龍水は本当に優遇されている！」](https://open.spotify.com/episode/6NMBSzPPZHnSi8YKbtYJq0) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 29:31 | 2023-11-22 |  |
 | [And Test,Test,And Test Some More](https://open.spotify.com/track/3BsEeMIYk3op0rvu9h4HGf) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 1:59 | 2023-09-28 |  |
 | [Be The Adam and Eve Of This Stone World](https://open.spotify.com/track/0fhWJh6F16d5sI1NDJLeZf) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 2:28 | 2023-09-28 |  |
 | [Beginning](https://open.spotify.com/track/36vm5CGxaMdd7NQHFpLlAU) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 2:39 | 2023-09-28 |  |

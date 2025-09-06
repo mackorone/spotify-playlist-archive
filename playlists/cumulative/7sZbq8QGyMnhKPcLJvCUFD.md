@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-756 songs - 1 day 13 hr 59 min
+757 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 | 2023-04-28 |
 | [Rally Up!](https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [XI$OW](https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF) | [Rally Up!](https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW) | 1:33 | 2024-07-19 | 2025-01-08 |
 | [Rave Teacher](https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Rave Teacher](https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD) | 2:51 | 2024-06-21 | 2025-01-08 |
+| [Re:バース \(Re:Verse\)](https://open.spotify.com/track/6e2id3yy8lPVlcwHoihNcu) | [439\*hz](https://open.spotify.com/artist/6tuEZXomJaD6KkiajsGe8E) | [Re:バース \(Re:Verse\)](https://open.spotify.com/album/0y7KeMwNlhNLp4bShrqQpB) | 4:20 | 2025-09-05 |  |
 | [Real Good Liar](https://open.spotify.com/track/5fPb1gDcKVfTLQtgstylT5) | [Nokae](https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 3:10 | 2025-02-25 |  |
 | [Realize](https://open.spotify.com/track/1GIUBSDNFxbojhlaKFtW6p) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 3:00 | 2023-07-06 | 2023-08-10 |
 | [Reason](https://open.spotify.com/track/4LNb4Xk3byVi4LVi7FE34E) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Sam Nolan](https://open.spotify.com/artist/3CCvYAGH3giUtExJH0InLZ) | [Reason](https://open.spotify.com/album/15lJPipHfaSSulHOeVk6SZ) | 2:37 | 2025-05-30 |  |

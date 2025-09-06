@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Big Thief
 
-2,367 songs - 5 day 22 hr 6 min
+2,368 songs - 5 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Fell First, Fell Hard](https://open.spotify.com/track/4uBqMCNpMiSYxfQxYPmdbB) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 3:03 | 2024-02-15 | 2024-04-13 |
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-03-24 | 2023-04-29 |
 | [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-26 | 2024-10-05 |
+| [Figure of Eight](https://open.spotify.com/track/1bVWVV8tFwBna9k0nmLVhn) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [A Life in Numbers](https://open.spotify.com/album/7Bz3OE6E8xbDp4F36xg1WB) | 4:55 | 2025-09-05 |  |
 | [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 | 2022-08-26 | 2022-09-17 |
 | [Find The Hidden](https://open.spotify.com/track/2Nh1wqdQV9lIVFLR5nQApi) | [Vinyl Williams](https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT) | [Find The Hidden](https://open.spotify.com/album/4VcQHmTRcTe3q8llVnzmso) | 4:39 | 2025-03-06 | 2025-06-14 |
 | [Find you in the dark](https://open.spotify.com/track/6cjLdb9U690pSxV6RUQ9cY) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Find you in the dark](https://open.spotify.com/album/56uJ7jcKVU3qdEoJdogi4t) | 3:53 | 2022-03-31 | 2022-04-15 |
@@ -1368,6 +1369,7 @@
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-16 | 2022-01-29 |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-03 | 2024-06-24 |
 | [Myself in the Way](https://open.spotify.com/track/7tbnkPVJ6aB1GKeX5gCGyz) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Myself in the Way](https://open.spotify.com/album/4maYhzjXeJaASS5BL5kgHs) | 4:59 | 2022-07-29 | 2022-09-02 |
+| [Mystery Girl](https://open.spotify.com/track/2wnUEDNLhFtbC3T6UB4L68) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Traces of You](https://open.spotify.com/album/4RsfzXP6B29j6EsBFgqyOl) | 3:27 | 2025-09-04 |  |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-01 | 2022-08-12 |
 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 | 2022-07-22 | 2022-08-27 |
 | [Mấy Khi](https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Mấy Khi](https://open.spotify.com/album/49lLzMMt9lTfxAZN6a1my0) | 3:00 | 2022-03-31 | 2022-05-06 |
@@ -2132,7 +2134,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-12-05 | 2023-03-11 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-09-01 |
 | [Towers](https://open.spotify.com/track/4rMzUBEVw3YaU7xelkCgYR) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Towers](https://open.spotify.com/album/7gW79aYrfQFx0eAyh8Ag1e) | 4:59 | 2024-06-14 | 2024-07-12 |
-| [Track 3](https://open.spotify.com/track/2wnUEDNLhFtbC3T6UB4L68) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Traces of You](https://open.spotify.com/album/4RsfzXP6B29j6EsBFgqyOl) | 0:00 | 2025-09-04 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Transmuted Matter](https://open.spotify.com/track/5uC8IfgKCq9RJucC3hNkOM) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 4:16 | 2025-05-29 | 2025-06-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-06-06 |

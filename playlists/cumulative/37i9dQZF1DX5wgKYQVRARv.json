@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "A Dark Poem, Pt. I: The Shores of Melancholia",
+        "url": "https://open.spotify.com/album/0FgYnH1nzNwuYXLq8NHA9z"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431500,
+      "name": "As Silence Took You",
+      "url": "https://open.spotify.com/track/1LLNKtdbIvF3nbETtppV73"
+    },
+    {
+      "album": {
         "name": "Songs in the Key of D",
         "url": "https://open.spotify.com/album/5Q6P6hVIPRyX2K6ha1Npqj"
       },
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 216850,
       "name": "Gluttony",
       "url": "https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa"
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 256972,
       "name": "I See Your Spirit",
       "url": "https://open.spotify.com/track/741dYT8df4DT8PNi38pZAt"
@@ -11652,6 +11670,28 @@
       "duration_ms": 288361,
       "name": "Take on Me - Musora Session",
       "url": "https://open.spotify.com/track/4kXXgjWfmCgK0uR1kSqvFb"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/1xePclwfoyHtZTIIbPjCKK"
+      },
+      "artists": [
+        {
+          "name": "Connor Kaminski",
+          "url": "https://open.spotify.com/artist/6FxiiHQs4Zb6ka3BVNCwu2"
+        },
+        {
+          "name": "David Maxim Micic",
+          "url": "https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556999,
+      "name": "Tarnished",
+      "url": "https://open.spotify.com/track/1lLMRxM586TF5jrQjLxnBd"
     },
     {
       "album": {

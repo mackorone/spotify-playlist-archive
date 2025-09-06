@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Avolia, Maulana Ardiansyah
 
-612 songs - 1 day 16 hr 0 min
+613 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Dewi](https://open.spotify.com/track/6mLXNg1MubMhI0Pv54KXQX) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Dewi](https://open.spotify.com/album/1Pp634QTWs33YqKIBlSYvF) | 4:17 | 2025-05-08 | 2025-06-06 |
 | [Di Antara Dua Cinta](https://open.spotify.com/track/1c0RzmGy7SZNn3IG7kV13h) | [Caffeine](https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG) | [Di Antara Dua Cinta](https://open.spotify.com/album/7kiVTVHno6HQ7S8kc9kyd9) | 3:48 | 2024-06-27 | 2024-08-16 |
 | [Di Bawah Hujan](https://open.spotify.com/track/5oDusjhp2lzjKsalkYH17T) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Di Bawah Hujan](https://open.spotify.com/album/6GbZiCFwMS9zDVrdhkXQsC) | 4:15 | 2025-01-23 | 2025-03-07 |
+| [Di Luar Nalar](https://open.spotify.com/track/3urqoUNbUZ9a3ennQi4Pic) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Di Luar Nalar](https://open.spotify.com/album/6uPS33Zxd1eLzoP21DIsMj) | 3:03 | 2025-09-05 |  |
 | [Di Saat Cinta Cintanya](https://open.spotify.com/track/71BLmKvQ0hu4moTx8XkyVh) | [Martian](https://open.spotify.com/artist/5BvwxVjJ6IZyzG9EZvq28H) | [Di Saat Cinta Cintanya](https://open.spotify.com/album/65yQcuO11sdzlZhkn8ahoM) | 3:39 | 2024-07-25 | 2024-09-06 |
 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 | 2025-02-20 | 2025-07-11 |
 | [Dia Menunggu](https://open.spotify.com/track/6wd1yvYQ1G5KBYPQDaLhKx) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD), [Egha De Latoya](https://open.spotify.com/artist/4ty4E2G4r2XErvJfvwK4zO) | [Dia Menunggu](https://open.spotify.com/album/0GVP9nRqHAV6utMJXxKBcg) | 4:20 | 2025-03-20 | 2025-05-16 |
@@ -597,8 +598,8 @@
 | [Tilik Jogja](https://open.spotify.com/track/7iH9VvIoUIq0wnqv3cQG4B) | [Citra Scholastika](https://open.spotify.com/artist/1jWIP5sLhDZttQeR0mPffn) | [Tilik Jogja](https://open.spotify.com/album/2VafG6qN9zh4oDF02q9Egy) | 4:40 | 2025-03-27 | 2025-05-16 |
 | [Tingkah Kita Yang Muda](https://open.spotify.com/track/5KBtisUH9A0pgSbF0813zH) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Tingkah Kita Yang Muda](https://open.spotify.com/album/3ipP7ZHyFeVGkvedXsfwHz) | 4:51 | 2025-05-22 | 2025-06-06 |
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
+| [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 |  |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
-| [Track 1](https://open.spotify.com/track/3urqoUNbUZ9a3ennQi4Pic) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Di Luar Nalar](https://open.spotify.com/album/6uPS33Zxd1eLzoP21DIsMj) | 0:00 | 2025-09-05 |  |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |
 | [Tulang Besi](https://open.spotify.com/track/0C2Qps6GXU7oM2ZN2Eicq9) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS) | [Tulang Besi](https://open.spotify.com/album/7aRd9voarxs7blrBEAQVxx) | 4:28 | 2025-08-14 |  |

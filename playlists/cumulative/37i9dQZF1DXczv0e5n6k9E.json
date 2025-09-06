@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 133090,
       "name": "bichota",
       "url": "https://open.spotify.com/track/7JB5KMD4UvyiJvZ0ZAGwxW"
@@ -2556,7 +2556,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-06",
       "duration_ms": 120000,
       "name": "DO DO DO",
       "url": "https://open.spotify.com/track/1VXkBopWGByUHkQTipDycM"
@@ -2864,6 +2864,32 @@
       "duration_ms": 184450,
       "name": "DYNAMITIS",
       "url": "https://open.spotify.com/track/6ezZQYmtO52Yn5CvAymm5Y"
+    },
+    {
+      "album": {
+        "name": "Echo Summer",
+        "url": "https://open.spotify.com/album/1OyocKYIOGfX3OZz7GNweI"
+      },
+      "artists": [
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Echo Summer",
+      "url": "https://open.spotify.com/track/2HdusSddU4ImVttg4Rl9b1"
     },
     {
       "album": {
@@ -3826,6 +3852,28 @@
       "duration_ms": 151898,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/2fduNRNDHBMVBtOX4bZNvX"
+    },
+    {
+      "album": {
+        "name": "Gangsta Love",
+        "url": "https://open.spotify.com/album/1azeDkXVNXAVUm8L9NhFsC"
+      },
+      "artists": [
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172633,
+      "name": "Gangsta Love",
+      "url": "https://open.spotify.com/track/15UlvxNj2iM8kpshJY8zwX"
     },
     {
       "album": {

@@ -725,6 +725,28 @@
     },
     {
       "album": {
+        "name": "HAUTE CULTURE",
+        "url": "https://open.spotify.com/album/4FqHZ3hUSont4Kvj4qGA17"
+      },
+      "artists": [
+        {
+          "name": "Tim Beumers",
+          "url": "https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x"
+        },
+        {
+          "name": "Rico Greene",
+          "url": "https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "GOED GENOEG",
+      "url": "https://open.spotify.com/track/3eZyMDYsGHRgq5Tvtzt1Lq"
+    },
+    {
+      "album": {
         "name": "GTI",
         "url": "https://open.spotify.com/album/6NvoGeoEzGLnbW0woRqG9X"
       },
