@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Justin Bieber, Lady Gaga, Ramón, Ina Wroldsen og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,069 likes - 103 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,093 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 37 | [GI MEG \(Imperium 2026\)](https://open.spotify.com/track/0HL1rvFJy3NmBktdu4OMoS) | [Prells](https://open.spotify.com/artist/50Kop00cliTuhn1vCBNVkH), [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0), [Joe Rock](https://open.spotify.com/artist/2l5ZAGdHNQnBS3YWnAMchH), [DJ VLADI](https://open.spotify.com/artist/7wRXf1DelGyBsmOj5hnOum) | [GI MEG \(Imperium 2026\)](https://open.spotify.com/album/0QSlmt0lPlZVbHnpSZMZQB) | 2:55 |
 | 38 | [Upside Down](https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Upside Down](https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG) | 2:51 |
 | 39 | [Took A Walk \- from "The Long Walk"](https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Took A Walk \(from "The Long Walk"\)](https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe) | 4:00 |
-| 40 | [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
+| 40 | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
 | 41 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 |
 | 42 | [know no love](https://open.spotify.com/track/5jziLoMTqLYV1shUXkOqch) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [know no love](https://open.spotify.com/album/1MfAvxgc9XlVf4cCPIBks7) | 3:47 |
 | 43 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 66 | [Maraton](https://open.spotify.com/track/4GqfZRb46RHVlcM0KZwi0m) | [Yngvil](https://open.spotify.com/artist/4uE77IUh7bzJzGZjRnKOOj) | [Maraton](https://open.spotify.com/album/5F7GVONWkg6qU00inKPiJu) | 3:14 |
 | 67 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
 | 68 | [Free My Mind](https://open.spotify.com/track/1C5zAJjoB3cdMBu7Xse28r) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Free My Mind](https://open.spotify.com/album/5uRciE7HeFREekWm21S2qC) | 3:02 |
-| 69 | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
+| 69 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
 | 70 | [Black Lung](https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Sunflowers and Leather](https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59) | 3:30 |
 | 71 | [Rebel River](https://open.spotify.com/track/1ljn4wys5C6LjyvhTvKNdF) | [Thea & The Wild](https://open.spotify.com/artist/09YdZIXRkupZEmLpt9UR2A) | [Truck Sized Asteroid](https://open.spotify.com/album/4oZQm0RALqn4ZeOcq0NC8i) | 4:25 |
 | 72 | [Nakenbading](https://open.spotify.com/track/6lojjdxGPJi2joOJyhWeRA) | [Daniel Obede](https://open.spotify.com/artist/52iOjoWrTb6PywzCQjyKNl), [EDEL](https://open.spotify.com/artist/6n6X1j3SdKbbFUNSYd5V7t) | [Mye Skjer I O](https://open.spotify.com/album/5bjVkih3tnnXwrpWCe4DuH) | 2:48 |

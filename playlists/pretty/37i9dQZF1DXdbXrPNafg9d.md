@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,305,327 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,345 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 138 | [Sorry Not Sorry](https://open.spotify.com/track/6vYHmAn5oh1KnYy3rP6iEm) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Sorry Not Sorry](https://open.spotify.com/album/7FycGUdkHdyvoJSx16fIFE) | 4:05 |
 | 139 | [BIG](https://open.spotify.com/track/29wTlp6iaQveoTktQhjqyz) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [BIG](https://open.spotify.com/album/6R1Eb5iay0fTfNNsqTeow0) | 3:37 |
 | 140 | [Possession](https://open.spotify.com/track/6jeNDTQlTN2IuWyzmBvKCY) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Sailor's Compilation, Pt\. 3](https://open.spotify.com/album/6eizFTu5YxiHRmTK9wYCjR) | 2:00 |
-| 141 | [Touching](https://open.spotify.com/track/03J1U5fDm5uc4Dxy7IumBG) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Touching](https://open.spotify.com/album/4yyrCrfrXIms4sQHY9PnPx) | 3:38 |
+| 141 | [Touching](https://open.spotify.com/track/03J1U5fDm5uc4Dxy7IumBG) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Touching](https://open.spotify.com/album/4yyrCrfrXIms4sQHY9PnPx) | 3:36 |
 | 142 | [Every Year](https://open.spotify.com/track/3b0fLmze7CUMM8GqIMUgTx) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Every Year](https://open.spotify.com/album/5XxVupz0e7IqD6Poo7sEbH) | 3:40 |
 | 143 | [Surviving You](https://open.spotify.com/track/4qRsuo9unSbXwl2dUfhsib) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Surviving You](https://open.spotify.com/album/1Ibofywihzk0p9LPcnGYqO) | 5:34 |
 | 144 | [i was never yours](https://open.spotify.com/track/3PZJCi3lAFueEfVpnjpd6X) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [i was never yours](https://open.spotify.com/album/0FP1jrZQtA6nrvJ4HFl3Jl) | 3:11 |

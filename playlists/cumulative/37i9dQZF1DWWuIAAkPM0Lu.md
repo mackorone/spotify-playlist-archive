@@ -2,9 +2,9 @@
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> Det er fredag! Ny musik fra Pil, Ozzy, Lady Gaga og mange flere 👀
+> Det er fredag! Ny musik fra Pil, Ozzy, Justin Bieber og mange flere 👀
 
-7,100 songs - 15 day 6 hr 32 min
+7,101 songs - 15 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2785,6 +2785,7 @@
 | [Hit My Line](https://open.spotify.com/track/33jUEyYnZyyCImlOXdgaZ9) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Hit My Line](https://open.spotify.com/album/2oYmC8LoQ9A0ajDxs0ziED) | 2:25 | 2024-05-23 | 2024-06-01 |
 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 | 2025-04-24 | 2025-05-02 |
 | [Hitmand](https://open.spotify.com/track/0fEtYTbcLiGlGhPO6iXVCc) | [Pharfar](https://open.spotify.com/artist/49RU88uYsEKLG31sTyEcIo) | [Hitmand](https://open.spotify.com/album/62VirL7mNpoXay5kqM1NWv) | 2:49 | 2024-05-30 | 2024-06-07 |
+| [Hits 4 Kids Vol\. 3000](https://open.spotify.com/track/0Nylmh604ntjnEdRClnfg2) | [Smag På Dig Selv](https://open.spotify.com/artist/23pTWRPhfqdtCB8N1FGIeC) | [Hits 4 Kids Vol\. 3000](https://open.spotify.com/album/0zzxcaxLbOT87aoPlBxG9g) | 3:41 | 2025-09-05 |  |
 | [Hitta någon](https://open.spotify.com/track/4ynlOOjOoEU6mGveaHNJQ8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hitta någon](https://open.spotify.com/album/4zt7rMMlgz1YMvkSGOzVna) | 2:17 | 2025-05-22 | 2025-05-30 |
 | [HJEM FRA MÅNEN \(feat\. PRISMA\)](https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2), [PRISMA](https://open.spotify.com/artist/6SdbHmZbUlrMjo8mroLZYy) | [DRØMMEHUG](https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV) | 2:48 | 2024-10-10 | 2024-10-18 |
 | [Hjem til mig?](https://open.spotify.com/track/66LvuWwmXOjgbcFifAzbc4) | [SELMA MILT](https://open.spotify.com/artist/0FoWZNznH566l2BJHGXwE5) | [Hjem til mig?](https://open.spotify.com/album/5vAaav8nAoJQIul7omYSYB) | 2:54 | 2025-07-24 | 2025-08-01 |
@@ -3804,7 +3805,7 @@
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-02 | 2025-01-10 |
 | [LOCK INN](https://open.spotify.com/track/5B5Yb3ETGghsZBRqCguTue) | [BROWN](https://open.spotify.com/artist/7F7kmyfZxXlbByWi6EPEMZ) | [LOCK INN](https://open.spotify.com/album/4ZMjW3nzoX7FxeSxXRodx4) | 2:49 | 2025-07-24 | 2025-08-01 |
 | [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-06 | 2024-09-13 |
-| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
+| [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 | 2025-01-17 |
 | [Loco](https://open.spotify.com/track/1K1vcvCFslwqEsvmFol1BI) | [NAVID](https://open.spotify.com/artist/4SPT95JmsTk2op5bdNCj39) | [Loco](https://open.spotify.com/album/3dbW9R2IxfDwDXjwJyTGJf) | 2:48 | 2025-08-01 | 2025-08-08 |
 | [Locura \(Amapiano Remix\)](https://open.spotify.com/track/2rgvnAU3vcUQJleD2p2VxX) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Locura \(Amapiano Remix\)](https://open.spotify.com/album/2gFtCgZ6OQZyxneEwgLzge) | 2:28 | 2024-07-04 | 2024-07-12 |

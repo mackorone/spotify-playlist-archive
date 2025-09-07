@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Charlotte Cardin",
-  "num_followers": 46020,
+  "num_followers": 46028,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "Zota (feat. Tayc)",
         "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
       "artists": [
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+      "duration_ms": 159545,
+      "name": "SELEK",
+      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -727,26 +747,6 @@
       "duration_ms": 200458,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "SELEK",
-      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Hors du temps",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Hors du temps",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "En Attendant Paphos",
         "url": "https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 160891,
       "name": "Kappa",
       "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Hors du temps",
-        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Hors du temps",
-      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

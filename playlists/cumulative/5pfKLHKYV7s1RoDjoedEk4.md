@@ -4,7 +4,7 @@
 
 > 
 
-292 songs - 16 hr 21 min
+293 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 | 2025-07-09 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2023-06-13 |  |
 | [You and I](https://open.spotify.com/track/1tuSpba0RXUMubHpAOWlMN) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:32 | 2023-07-13 |  |
+| [You Know What](https://open.spotify.com/track/40YQDJrYZFIP24QVfUi9Ar) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 4:30 | 2025-09-06 |  |
 | [You Suck](https://open.spotify.com/track/5LvTwD2e4Lar2mo2yZHh84) | [Consolidated](https://open.spotify.com/artist/2GQYazkEEYH4jJnDLpofHL), [Yeastie Girlz](https://open.spotify.com/artist/0ZrquZjtwgsakx5UDRVuoz) | [Play More Music](https://open.spotify.com/album/7Jok2A7gVSsa0VzaqJGsZ9) | 4:14 | 2023-08-19 |  |
 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 | 2023-06-13 |  |
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2023-07-24 |  |

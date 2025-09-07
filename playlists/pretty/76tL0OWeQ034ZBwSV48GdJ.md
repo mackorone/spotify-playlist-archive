@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 225 songs - 21 hr 24 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 226 songs - 21 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,5 +233,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 223 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 |
 | 224 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 | 225 | [Light In The Eyes](https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Light In The Eyes](https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t) | 5:52 |
+| 226 | [Körper & Seele](https://open.spotify.com/track/0iISCNMw4cfaPNxleUkZnL) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Körper & Seele](https://open.spotify.com/album/0s9X88y489yDTutmcV4wBt) | 3:05 |
 
-Snapshot ID: `AAABEBF4H17LnSD/BvjdgbEVcQTGV50q`
+Snapshot ID: `AAABEVyF8BCf762KY+O/2hZC2zxxHx1K`

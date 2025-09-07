@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down 🌧️ remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,105 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,136 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 99 | [Lost In Your Eyes](https://open.spotify.com/track/1U6txvvgAVZZ9MCHvXNoDE) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [Lost In Your Eyes](https://open.spotify.com/album/3xOwAqhZa5fYbAIXj0caqs) | 2:04 |
 | 100 | [Summer Rain](https://open.spotify.com/track/6vsI0JlqlIxphUizBtio02) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Summer Rain](https://open.spotify.com/album/00rcObICM0ImdZABmVBqvx) | 2:34 |
 
-Snapshot ID: `AAAAAIOt/XuqvDPkGR6w/tb1Z9GpHrwQ`
+Snapshot ID: `AAAAAO3U1fo3o/ZZtI6s3HBut3iMjOVZ`

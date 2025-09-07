@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS de Sergio Lizárraga en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,972 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,090 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Ojitos Cafés](https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh) | [Omar Robles](https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Ojitos Cafés](https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt) | 3:10 |
 | 125 | [La Patrona](https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Patrona](https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz) | 2:30 |
 
-Snapshot ID: `AAAAADU6eG7YPv+JQMmsvJvobG50QBnv`
+Snapshot ID: `AAAAAP6r7TsBa9cp7bGyqMADbFtUq5Hm`

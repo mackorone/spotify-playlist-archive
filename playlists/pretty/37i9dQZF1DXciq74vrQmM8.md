@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,308 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,292 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 54 | [DUMB](https://open.spotify.com/track/5spmxbavbQ3keV5hx4jwM2) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [BLACK DIAMOND](https://open.spotify.com/album/00aWPd7iB5wgq8oaarPFKf) | 2:38 |
 | 55 | [Shark Brain \(feat\. Shygirl\)](https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shark Brain / Dolphin](https://open.spotify.com/album/3xRHlsN1ny2OS4XFXdCrer) | 4:01 |
 | 56 | [CONCRETE](https://open.spotify.com/track/7l2NInPwslS8CaEPQdhKdx) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [CONCRETE](https://open.spotify.com/album/6gL9iXYs1SD0VNLaPKwIhB) | 3:16 |
-| 57 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
+| 57 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
 | 58 | [pink gun](https://open.spotify.com/track/6UNszlYyXAmKAAqF3e3Lv2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [pink gun](https://open.spotify.com/album/6ibuf1X8PFFtLgxOXUo5EM) | 3:08 |
 | 59 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 |
 | 60 | [Suppressed](https://open.spotify.com/track/4e3G3PEG45LHucMQnuksN3) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Suppressed](https://open.spotify.com/album/4kfNrokr8BVLsheiqlKEPQ) | 3:19 |

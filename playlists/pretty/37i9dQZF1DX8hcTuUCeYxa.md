@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Von Wegen Lisbeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,990 likes - 91 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,032 likes - 91 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 34 | [I Pray](https://open.spotify.com/track/52o21vlpbMhNEGfH8pZFL5) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [I Pray](https://open.spotify.com/album/0sEHxMrtx2R2fPXvUTrQcD) | 3:37 |
 | 35 | [Brand New Me](https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Brand New Me](https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT) | 3:03 |
 | 36 | [Half Alive](https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Half Alive](https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb) | 3:03 |
-| 37 | [Friend of a Friend](https://open.spotify.com/track/4cKTzfpvL5mrGCfH53bDf0) | [Robert Kretzschmar](https://open.spotify.com/artist/5troWDsJN5OAOmXV4CPtpw), [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Make A Wish](https://open.spotify.com/album/15eoG1RStGNAftdQ8Y4SYI) | 4:06 |
+| 37 | [Friend of a Friend](https://open.spotify.com/track/4cKTzfpvL5mrGCfH53bDf0) | [Robert Kretzschmar](https://open.spotify.com/artist/5troWDsJN5OAOmXV4CPtpw) | [Make A Wish](https://open.spotify.com/album/15eoG1RStGNAftdQ8Y4SYI) | 4:06 |
 | 38 | [Sideways](https://open.spotify.com/track/6GCcY6dVDVGxo52OZq9HVW) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | 3:07 |
 | 39 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
 | 40 | [AUTO](https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [AUTO](https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq) | 2:51 |

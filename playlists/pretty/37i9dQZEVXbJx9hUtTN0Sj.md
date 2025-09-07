@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,040 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,039 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 38 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 |
 | 39 | [Champion Sound](https://open.spotify.com/track/78W1WOxeqq3fRInVvotqEM) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Champion Sound](https://open.spotify.com/album/2ADEgzm7hG6TdXdNHBjLAo) | 2:40 |
 | 40 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
-| 41 | [7 in the club](https://open.spotify.com/track/1qqKKdqTQlOFiDYDxVlem3) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [7 in the club](https://open.spotify.com/album/78rtOqcMLFCvPPrswgcm6h) | 2:10 |
+| 41 | [7 in the club](https://open.spotify.com/track/2wUz5a1i6DY4TlgfOb9zAR) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [7 in the club](https://open.spotify.com/album/7vUSsWNHhni7bp08hPPy5r) | 2:10 |
 | 42 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
 | 43 | [Nagasaki](https://open.spotify.com/track/51QxcyKFOnHGx2Ay12Fbhu) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr) | [Nagasaki](https://open.spotify.com/album/4y1mQndLY4i4DJky4XgFw5) | 2:37 |
 | 44 | [Briller \- Golden \- version française](https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [Alexiane Broque](https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD), [Jeanne Jérosme](https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK), [Clotilde Verry](https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Golden \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab) | 3:12 |
 | 45 | [Shatta Confessions](https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [Shatta Confessions](https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP) | 2:01 |
 | 46 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 |
-| 47 | [Sippin \(Milco Remix\)](https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [Sippin \(Milco Remix\)](https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu) | 2:38 |
+| 47 | [Sippin](https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp), [Milco](https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l) | [Sippin](https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu) | 2:38 |
 | 48 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 |
 | 49 | [Ascension](https://open.spotify.com/track/50LX9tHSztB3eSMU3gb9vI) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ascension](https://open.spotify.com/album/60qKXyzlbhKWnL85sRvlQD) | 3:13 |
 | 50 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`

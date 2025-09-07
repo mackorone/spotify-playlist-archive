@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 
 > Soothing sounds of gentle rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,092 likes - 250 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,127 likes - 250 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 | 172 | [Happy Rain](https://open.spotify.com/track/4Aus1mivzaYVgRWmnFT6O1) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Happy Rain](https://open.spotify.com/album/2ueiGXonhNRjtTKqhIukxy) | 3:11 |
 | 173 | [Rain by Marsh \(Nature\)](https://open.spotify.com/track/5HTFXeKnoLF9uqSHThRuyX) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Tidal Marsh \(Nature\)](https://open.spotify.com/album/5Q50ibdcpK2F1qo6LLdpEc) | 2:44 |
 | 174 | [Balcony Rain](https://open.spotify.com/track/2hQW9bQ8dU69juNx98Kqw4) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Balcony Rain](https://open.spotify.com/album/3WsAshRntdtBDuXKGHlSuF) | 2:57 |
-| 175 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
+| 175 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
 | 176 | [Dreamy Rain](https://open.spotify.com/track/4MkRYtYntl1YpyjeXLMP1B) | [Oasis of Sleep](https://open.spotify.com/artist/1BhI98thKFuBTeSvxFDd3g) | [Dreamy Rain](https://open.spotify.com/album/2ubzY0tGpiExYeNVvA89eI) | 2:48 |
 | 177 | [Hard Rain Falling](https://open.spotify.com/track/4g3GdxAHnH21jR4QwCDqHl) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Mantric Rain](https://open.spotify.com/album/0pXmxhBLGqDsSiBsyV44tP) | 2:44 |
 | 178 | [rain o'clock](https://open.spotify.com/track/0xBBlEQtPKRhTt4GDm0Aoo) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in helsinki](https://open.spotify.com/album/2YTrzdp7DGKm7yurziBCMF) | 3:36 |

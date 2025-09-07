@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,500 likes - 275 songs - 13 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,513 likes - 275 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 12 | [Rainfall Oasis: Journey to Serenity](https://open.spotify.com/track/3yA4BEbG49OFuPHjrR4tbA) | [Sky Fall SF](https://open.spotify.com/artist/5ZYniVpbDvHg0ywuRU8Wb7) | [Rainy Day Zen: Relaxing Rain Soundscape](https://open.spotify.com/album/2CGrdBC5OnBoSbh886WuYH) | 2:40 |
 | 13 | [Rain of Light](https://open.spotify.com/track/4GO7tO4L0AejyFC4EThQLK) | [Bioacoustics](https://open.spotify.com/artist/3SrtzVz0yqFXRzvx1DE8Dg) | [Rain of Light](https://open.spotify.com/album/0ic7KecrheqM82ji6jqQEE) | 2:31 |
 | 14 | [Quiet Clouds \(Rain\)](https://open.spotify.com/track/6mRD8NhzaNFuM8yl98tZWI) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Bliss Rain](https://open.spotify.com/album/2kCvDwV3CmtQ1DlpLJ3Erm) | 2:45 |
-| 15 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
+| 15 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
 | 16 | [Soothing Rain in Washington](https://open.spotify.com/track/6dtWs6eQdtO97saoe1iRz5) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Rainy Day Reflections](https://open.spotify.com/album/5Xc5lYWtxcJay08tk3WzLc) | 3:00 |
 | 17 | [small stream rain](https://open.spotify.com/track/3GiI7GQ3oTIQBmuIfSqxd2) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 4:13 |
 | 18 | [raining for hours](https://open.spotify.com/track/3L1JHXiqNOJ57w3n2R3HyU) | [ame](https://open.spotify.com/artist/7htQnykNfk2Bu39bSw7owz) | [grey cloud](https://open.spotify.com/album/2Iyw159svPU1i8iNnHDIne) | 2:11 |
@@ -240,7 +240,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 230 | [Waiting](https://open.spotify.com/track/1q0ZGKIkPig119VNdjFYVd) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:37 |
 | 231 | [Burbank Bad Day \- Seamless](https://open.spotify.com/track/2YKkCDSQPPIABPK9V11TIj) | [LA Washout](https://open.spotify.com/artist/1zESjGmQtkOyNddcdvh8lp) | [Rainy Romance](https://open.spotify.com/album/6E61GcevblPGio1v2VrQe5) | 2:28 |
 | 232 | [Raining On Metal](https://open.spotify.com/track/5111ChNfx2UEqdJo57ZqSt) | [DreamDrops](https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:35 |
-| 233 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 |
+| 233 | [lluvia y ruido](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:23 |
 | 234 | [Rain On Roof](https://open.spotify.com/track/54SOLMNTSYbPWVOFO7yjse) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rain and Thunder](https://open.spotify.com/album/6OmbPmeR57foKKXc6AjNN7) | 3:12 |
 | 235 | [Viene la lluvia](https://open.spotify.com/track/7bvuP8nq8xxw0w8Fr9TY79) | [Hollow Soundbites](https://open.spotify.com/artist/7xGmf4pdtIbw9cxMCZPpPP) | [Viene la lluvia](https://open.spotify.com/album/4Ev84hqNsyaf4Sh1gIair3) | 2:18 |
 | 236 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 |

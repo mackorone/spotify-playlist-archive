@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857,619 likes - 313 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857,814 likes - 313 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 86 | [Afloat](https://open.spotify.com/track/0ms3MShIuPvQtHW7aLgg5R) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Afloat](https://open.spotify.com/album/053LQzkvsFd6nPdvfsk98r) | 3:20 |
 | 87 | [Lost and Found](https://open.spotify.com/track/2nebiYo6g1rVtFa9C1W9aQ) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Lost and Found](https://open.spotify.com/album/1lBi8rjuBD3tXUgSXZGqri) | 2:32 |
 | 88 | [Time for Peace](https://open.spotify.com/track/3uvWF63jZETOMBwFq2JJnQ) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Time for Peace](https://open.spotify.com/album/6HgVKFKYS0kNmD7BIXQzXV) | 2:37 |
-| 89 | [Etera](https://open.spotify.com/track/375O8dkwGSfO89EH4BoOt7) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Etera](https://open.spotify.com/album/6N8rYJElCz1m5pcSz9VaZm) | 2:48 |
+| 89 | [Etera](https://open.spotify.com/track/375O8dkwGSfO89EH4BoOt7) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Etera](https://open.spotify.com/album/6N8rYJElCz1m5pcSz9VaZm) | 2:48 |
 | 90 | [Solitaire](https://open.spotify.com/track/1cX4n0rto2WCQilz6dlPke) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Solitaire](https://open.spotify.com/album/5RlTOPhCNBnnPmps3A8WIg) | 2:25 |
 | 91 | [Contemplation](https://open.spotify.com/track/3VFmHInobdXT3lAYhQoKJi) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Contemplation](https://open.spotify.com/album/3i02hPApQdUfXhQHH2ifCp) | 3:25 |
 | 92 | [Pursue your dreams](https://open.spotify.com/track/1GHUuY7aFkc4ybLkdMsPId) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Pursue your dreams](https://open.spotify.com/album/7GrPFFnNYKCjHeflo58Zjw) | 2:48 |

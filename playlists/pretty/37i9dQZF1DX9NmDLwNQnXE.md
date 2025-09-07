@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 
 > Relax to the sound of a storm setting in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,806 likes - 275 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,897 likes - 275 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 243 | [Thunder Meditation](https://open.spotify.com/track/3SeR8lSXT7oZ6MB7YLZqnr) | [Tempest](https://open.spotify.com/artist/6vVLDxFDTld21ezPmiTJZ0) | [Wandering Storm](https://open.spotify.com/album/0raeXON0wVFrZAe4mQn1sm) | 3:28 |
 | 244 | [Gentle Garden Rain](https://open.spotify.com/track/43xyo8dOzS47tWP2omabv6) | [Aqualand](https://open.spotify.com/artist/5vMLhcMsB19f7u6bZ2f9GM) | [Gentle Garden Rain](https://open.spotify.com/album/34Z9XV0Lqkp4Ez8DGekhXc) | 3:13 |
 | 245 | [Thunder In Spring](https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz) | [Peal Of Thunder](https://open.spotify.com/artist/4JNb7YkGnc92m2gIqgeM0F) | [Thunder In Spring](https://open.spotify.com/album/19W4kCGzbmSQBfNmdmkUE8) | 2:33 |
-| 246 | [Thunder Nap](https://open.spotify.com/track/5QTEWgziJG1uV32tAgYjv7) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:41 |
+| 246 | [Pleasing Thunder](https://open.spotify.com/track/5QTEWgziJG1uV32tAgYjv7) | [Tromentas Naturales](https://open.spotify.com/artist/7kdG75ISHiPcFrfUIpbszZ) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:38 |
 | 247 | [Soft Rain Carrying Strong Lightnings](https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 2:16 |
 | 248 | [Forest Thunder](https://open.spotify.com/track/5wasNCesFpY5wSiYTar3uL) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [In the hands of Thor](https://open.spotify.com/album/2yUnTie8FuYybCVZlH48e3) | 2:24 |
 | 249 | [Thunder In The Forest \- Seamless](https://open.spotify.com/track/3N96NGKoU8lgJs9ENxRUpc) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Thunder In The Forest](https://open.spotify.com/album/1WAmKL4qkDBnNjeMNt9M3w) | 2:50 |
@@ -262,11 +262,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 252 | [Deep Storm](https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 2:48 |
 | 253 | [Woodland Thunder Sound](https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj) | [Cosmotic](https://open.spotify.com/artist/0OhxvQhPTdBniajVWnDNYV) | [Woodland Thunder Sound](https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k) | 3:20 |
 | 254 | [Coastal Thunderstorm](https://open.spotify.com/track/3cwiM6XTcRivq8bIMa6lJZ) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Tranquil Rain Sounds](https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS) | 2:32 |
-| 255 | [Go With the Flow](https://open.spotify.com/track/4hcuR9G66aV0v53j8fVLuE) | [Thurricane](https://open.spotify.com/artist/336hn7XbKf5r6kzE4SZ1RP) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:13 |
+| 255 | [Go With the Flow](https://open.spotify.com/track/4hcuR9G66aV0v53j8fVLuE) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:13 |
 | 256 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 |
 | 257 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 |
 | 258 | [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 |
-| 259 | [Relaxing Forest Clappering](https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp) | [Birds & Bees etc.](https://open.spotify.com/artist/4eS0pNLDVquopuOenfqX3U) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 2:27 |
+| 259 | [Relaxing Forest Clappering](https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp) | [Emotion Noise](https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 2:27 |
 | 260 | [Stormy Winds](https://open.spotify.com/track/6x8Ht8WoIxNNi3dhZn2skp) | [Lumo](https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK) | [Storm Therapy Session 1](https://open.spotify.com/album/5Q2Y7RUwMIoRsDeQz785tm) | 2:58 |
 | 261 | [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 |
 | 262 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 |
@@ -277,11 +277,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 267 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 |
 | 268 | [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 |
 | 269 | [Sky Full Of Thunder](https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Sky Full Of Thunder](https://open.spotify.com/album/5QVO59SbLxKz9AZksuijkg) | 3:18 |
-| 270 | [Pleasing Thunder](https://open.spotify.com/track/5CQNpdepfUJbBoNHJu60Z9) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:38 |
+| 270 | [Thunder Nap](https://open.spotify.com/track/5CQNpdepfUJbBoNHJu60Z9) | [Tromentas Naturales](https://open.spotify.com/artist/7kdG75ISHiPcFrfUIpbszZ) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:41 |
 | 271 | [The Mighty Storm](https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz) | [Thunderwards](https://open.spotify.com/artist/5xTEuFn2jsIs8REcyyQpoq) | [The Mighty Storm](https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId) | 2:06 |
 | 272 | [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 |
 | 273 | [Tormenta De Lluvia](https://open.spotify.com/track/5sIj5SGyT0k2CsZYGoue5n) | [Siente El Clima](https://open.spotify.com/artist/3FGa3dQAwHwZI8MvIM1SLq) | [Tormenta De Lluvia](https://open.spotify.com/album/0I40IaVOc2YHvx6k5iPuYi) | 2:06 |
 | 274 | [Midnight Rumble](https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:19 |
-| 275 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Thurricane](https://open.spotify.com/artist/336hn7XbKf5r6kzE4SZ1RP) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 |
+| 275 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 |
 
 Snapshot ID: `AAAAAAk5xa2k85n54Z4FdqONW6Cf1kIp`

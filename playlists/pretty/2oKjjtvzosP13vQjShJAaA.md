@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 888 likes - 17 songs - 49 min 29 sec
+[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 899 likes - 17 songs - 49 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guten Morgen Deutschland](https://open.spotify.com/track/3Tj0NrGA2GsHAfQEBQA234) | [beslik](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [Guten Morgen Deutschland](https://open.spotify.com/album/2XT4u3Qf0BXGt42OtAfh9a) | 2:02 |
-| 2 | [andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp) | [Brown\-Eyes White Boy](https://open.spotify.com/artist/6BLnEWMbK74TwblikHBtB8) | [andere Stadt](https://open.spotify.com/album/7vmGu6pYB1XryMV3F3pCLa) | 2:08 |
+| 2 | [Andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp) | [Brown\-Eyes White Boy](https://open.spotify.com/artist/6BLnEWMbK74TwblikHBtB8) | [Andere Stadt](https://open.spotify.com/album/7vmGu6pYB1XryMV3F3pCLa) | 2:08 |
 | 3 | [Die sprechende Stadt](https://open.spotify.com/track/1fLPa3l62l1nzA7avFh3pd) | [helmuth](https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG), [redd.](https://open.spotify.com/artist/5t9W4dnZEMslPiOAS4OHfe) | [Die sprechende Stadt](https://open.spotify.com/album/64hcDvmNklzXpQR8SPfsGt) | 2:49 |
 | 4 | [Hailife](https://open.spotify.com/track/0WuXAX65HpTZ3E1yZV9hlP) | [PATINA RECORDS](https://open.spotify.com/artist/5QOw8cB4JNLNK36M6X5KAh), [Yako Ok](https://open.spotify.com/artist/7xmwBvyZBsJBZiksHEdj8p), [Katanna](https://open.spotify.com/artist/1iZizCtatdnD1Lejj4xLmT), [Tarri.Ferrari](https://open.spotify.com/artist/3h2NpDLCHg6xjOqQsEtehM), [Isi I](https://open.spotify.com/artist/79AhxtltVJRiqLpkfBNz5b), [Calli](https://open.spotify.com/artist/3czTl1H1DkaKDhn2imQs3e), [kareem](https://open.spotify.com/artist/7F4ZydQ1LN8iftbEa9z45r) | [Hailife](https://open.spotify.com/album/2v6bMixODRKsRiKupp16cw) | 2:49 |
 | 5 | [In vollen Zügen](https://open.spotify.com/track/5Gve4Ge6uLspvFdQFzv8jV) | [Mc Smook](https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP), [Beatbauerjonas](https://open.spotify.com/artist/6fh30VMPAEjgSSH6lluKmk), [Fluffy Bunny](https://open.spotify.com/artist/5vkdaL4XJpemdQBRiGJ0Ah) | [In vollen Zügen](https://open.spotify.com/album/3f1oWm0w7pPBmrsgW4Lmty) | 3:09 |

@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world, with Justin Bieber on the cover.
 
-18,933 songs - 41 day 17 hr 39 min
+18,934 songs - 41 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7498,7 +7498,7 @@
 | [Honest](https://open.spotify.com/track/7MpAJjJbMrmeLJbrDJ0wHh) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Honest](https://open.spotify.com/album/2aF3BH9F5BBznxDYZskdDz) | 3:01 | 2023-04-21 | 2023-04-29 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-28 | 2022-05-06 |
 | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68) | 2:58 | 2022-02-04 | 2022-02-11 |
-| [Honest Man](https://open.spotify.com/track/5aXZpsS16SJ1pVwgGJ8KPV) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Honesty Project](https://open.spotify.com/album/3jQoorsVblS8wPG4DbK6OR) | 4:04 | 2025-09-05 |  |
+| [Honest Man](https://open.spotify.com/track/5aXZpsS16SJ1pVwgGJ8KPV) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Honesty Project](https://open.spotify.com/album/3jQoorsVblS8wPG4DbK6OR) | 4:04 | 2025-09-05 | 2025-09-07 |
 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-09-20 | 2024-09-28 |
 | [Honey](https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Honey](https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO) | 2:33 | 2022-07-01 | 2022-07-08 |
 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 | 2024-04-12 | 2024-04-19 |
@@ -9752,7 +9752,7 @@
 | [LOCK IT UP \(feat\. Yeat, midwxst & Matt Ox\)](https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [MIDNIGHT](https://open.spotify.com/album/5l7cOhvgltRPUTJlkZlXee) | 3:03 | 2022-04-28 | 2022-05-06 |
 | [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-06 | 2024-09-14 |
 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-08-26 | 2022-09-03 |
-| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-05 |  |
+| [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-05 |  |
 | [Locked Up](https://open.spotify.com/track/3lT10s1U9K0vrEGpsu8kBP) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/6bFqE8ItSLyMxhxlRVJYIZ) | 3:28 | 2024-03-22 | 2024-03-30 |
 | [locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 | 2023-09-02 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-07 | 2022-10-15 |
@@ -10040,6 +10040,7 @@
 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-03 | 2023-11-11 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-18 | 2024-10-26 |
 | [Love Song](https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Love Song](https://open.spotify.com/album/1Ar587sV7dgGcapzP1HOLU) | 2:44 | 2022-02-11 | 2022-02-18 |
+| [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-05 |  |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-24 | 2023-03-04 |
 | [Love That I Love You](https://open.spotify.com/track/5vmUocjY3qCtBZo13xpczD) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 2:43 | 2025-08-22 | 2025-08-30 |
 | [Love The Lights Out](https://open.spotify.com/track/34aevO0hji65YeqaLR4cuD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Love The Lights Out](https://open.spotify.com/album/2ESsKb7dW9voOpJDRemBN9) | 3:18 | 2025-02-14 | 2025-02-22 |

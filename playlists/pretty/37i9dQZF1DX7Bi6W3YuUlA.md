@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,622 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,634 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 91 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 |
 | 92 | [Be Careful What You Pray For](https://open.spotify.com/track/0b5Oj4lksDdYbgkVo0hFhe) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [The Creed](https://open.spotify.com/album/5tau8DwoBL5TSiDfj3LiTC) | 2:24 |
 | 93 | [Wins](https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Wins](https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq) | 2:35 |
-| 94 | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 |
+| 94 | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/1dltQCBiH7RFZpjMOLw06J) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 |
 | 95 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
 | 96 | [Thank You](https://open.spotify.com/track/0qGSovU6VNe2p5cT63jq99) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Thank You](https://open.spotify.com/album/2K0o1pR9VC9EAtuZQflDYg) | 5:09 |
 | 97 | [Beautiful Scars \(feat\. OBanga\)](https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [OBanga](https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv) | [Beautiful Scars \(feat\. OBanga\)](https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp) | 3:46 |

@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Noise Of Silence",
+        "url": "https://open.spotify.com/album/5DNeVzI6Bm0XUUlUphCsAH"
+      },
+      "artists": [
+        {
+          "name": "Construidor",
+          "url": "https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158874,
+      "name": "Books From Sleep Star",
+      "url": "https://open.spotify.com/track/7xwJcHhMIfgiPtanwGxO70"
+    },
+    {
+      "album": {
         "name": "Weekly White Noise",
         "url": "https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf"
       },
@@ -2705,24 +2723,6 @@
     },
     {
       "album": {
-        "name": "Noise Of Silence",
-        "url": "https://open.spotify.com/album/5DNeVzI6Bm0XUUlUphCsAH"
-      },
-      "artists": [
-        {
-          "name": "Simple Height",
-          "url": "https://open.spotify.com/artist/4xzJotbEu1BhyzhMISVxtl"
-        }
-      ],
-      "date_added": "2022-03-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169277,
-      "name": "Noise Of Silence",
-      "url": "https://open.spotify.com/track/7xwJcHhMIfgiPtanwGxO70"
-    },
-    {
-      "album": {
         "name": "Dreams of White Noise",
         "url": "https://open.spotify.com/album/3lWPS5Gjc8BdOKKWWa9tEo"
       },
@@ -3214,8 +3214,8 @@
       },
       "artists": [
         {
-          "name": "Bien Dormi",
-          "url": "https://open.spotify.com/artist/69ZcsvO12Q42NzCAfZ5F9T"
+          "name": "Brain Timbre",
+          "url": "https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1"
         }
       ],
       "date_added": "2022-03-21",

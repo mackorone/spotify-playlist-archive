@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,037 likes - 150 songs - 16 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,058 likes - 150 songs - 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 136 | [Neray Aah](https://open.spotify.com/track/4XYGSeoPiAfumc4mLf9x7T) | [Overload](https://open.spotify.com/artist/05PcXrC9rDpaibKcUQFQMb), [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:02 |
 | 137 | [Haq Maujood](https://open.spotify.com/track/3CRJLOEZ1xJjiYoDTfttGk) | [Amanat Ali & Sanam Marvi](https://open.spotify.com/artist/1P4ubBPUrhkW8h9j8Cp2jd), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 7:07 |
 | 138 | [Saari Duniya](https://open.spotify.com/track/7y127TjQwYli2BDFtLMeaL) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Saari Duniya](https://open.spotify.com/album/4GzAnKEqzZohDHQjfQJniG) | 5:51 |
-| 139 | [Laili Jaan](https://open.spotify.com/track/7wNIAoRvQp0fQJeJkJbc9o) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:41 |
-| 140 | [Koi Labda](https://open.spotify.com/track/6HsiVpc4l6IWTikwuY2ary) | [Symt](https://open.spotify.com/artist/2yWsO9zwSZBYvS8j8mtBOk), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:57 |
+| 139 | [Koi Labda](https://open.spotify.com/track/6HsiVpc4l6IWTikwuY2ary) | [Symt](https://open.spotify.com/artist/2yWsO9zwSZBYvS8j8mtBOk), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:57 |
+| 140 | [Laili Jaan](https://open.spotify.com/track/7wNIAoRvQp0fQJeJkJbc9o) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:41 |
 | 141 | [Ik Aarzu](https://open.spotify.com/track/7Lvo57hmjkKvXu8IVvTRBa) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 7:46 |
 | 142 | [Sawaal – Kande Utte](https://open.spotify.com/track/1BKRXpKKMjebeRQbHsPuLl) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:41 |
 | 143 | [Naina De Akhay](https://open.spotify.com/track/3puz5Sf2GA1Psy8uLFqGCU) | [Rizwan & Moazzam](https://open.spotify.com/artist/0AAzQBRltHcZePy2jhpLwD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:26 |

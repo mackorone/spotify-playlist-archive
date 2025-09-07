@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with ALLEYCVT
 
-1,158 songs - 2 day 15 hr 15 min
+1,159 songs - 2 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-12-17 | 2022-10-08 |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2021-12-17 | 2022-05-07 |
 | [MALEVOLENT SHRINE](https://open.spotify.com/track/4XwweI2dzvYeTSX9IWgrlw) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [ADHD EP](https://open.spotify.com/album/23O759NHIhHf9EaMVXNDbN) | 3:23 | 2024-12-13 |  |
+| [MandelBrock](https://open.spotify.com/track/1Ptnrndbn8iPp4YXFj6VpL) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY), [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB) | [StepBroStep EP](https://open.spotify.com/album/6mFrh4hDsOxPeRx009uF4v) | 4:41 | 2025-09-05 |  |
 | [March of the Machine](https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [The Machine](https://open.spotify.com/album/2ZSZcFH7PKIhGlmEvELLFg) | 4:07 | 2025-08-01 |  |
 | [MARKED](https://open.spotify.com/track/015vROkzvPWwkW1H9Wpy5Q) | [Bella Hue](https://open.spotify.com/artist/7BdNAO2RTQfDWiRJkrrsHE), [KUMERA](https://open.spotify.com/artist/4gJuQaSwsakiEHn9kcd9dC) | [MARKED](https://open.spotify.com/album/1PDCiW33k5F5uohHtbUW1y) | 2:27 | 2025-04-11 | 2025-08-17 |
 | [Masquerade](https://open.spotify.com/track/6647nIIdCk4bIhgAowggN3) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Masquerade](https://open.spotify.com/album/0WRIGptzXtdFiqKtjK93jU) | 4:19 | 2022-11-11 | 2024-02-03 |
@@ -1056,7 +1057,7 @@
 | [Thoughts Of You](https://open.spotify.com/track/3kcF9tCDBjg1cEKovHpopQ) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Peytn](https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV) | [Thoughts Of You](https://open.spotify.com/album/208m3z47W4iFtJPgrmW34k) | 3:02 | 2021-12-17 | 2022-05-07 |
 | [Threats](https://open.spotify.com/track/4J9A0BRmF6Blem0EdnqS8e) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Versa](https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3) | [Threats](https://open.spotify.com/album/3v3GWfZZoZyJqDjQ9TijDS) | 2:51 | 2025-05-02 | 2025-07-02 |
 | [THUNDA TO THE DOME](https://open.spotify.com/track/1mWCtsyDr6r9D7Cy3m7Sxl) | [Cromatik](https://open.spotify.com/artist/3gEQTLtiHaWmeTwXpOOptm) | [INFINITE PORTALS](https://open.spotify.com/album/3Ty8uV8M15lueLmF0B1HZT) | 2:09 | 2025-02-07 | 2025-03-15 |
-| [Tick Tock](https://open.spotify.com/track/6Ial5CnsybgyeA5NN9UPyU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Tick Tock](https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl) | 2:42 | 2024-09-30 |  |
+| [Tick Tock](https://open.spotify.com/track/6Ial5CnsybgyeA5NN9UPyU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Tick Tock](https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl) | 2:42 | 2024-09-30 | 2025-09-07 |
 | [TILL I DIE \(feat\. Kanin\)](https://open.spotify.com/track/7l0isAHLcKGHnEuHblcyvx) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Glenwood!](https://open.spotify.com/artist/5LqENjXtjsbQA67qUWDDXP), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er) | [TILL I DIE \(feat\. Kanin\)](https://open.spotify.com/album/30we761xNgTwu7ITaqi7uT) | 2:36 | 2022-12-02 | 2023-09-23 |
 | [TIMES UP](https://open.spotify.com/track/1Hg1K7h5qzi35JlijZSF4A) | [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW) | [TIMES UP](https://open.spotify.com/album/51OOuBBeusgoB5bfPD9TxC) | 2:27 | 2024-01-12 | 2024-02-11 |
 | [Tins](https://open.spotify.com/track/6SINQPDsWQYa1jStwH3SSr) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Out Of Order EP](https://open.spotify.com/album/363x1YbpXfBGfu4BgYBz1n) | 4:11 | 2021-12-17 | 2022-03-12 |

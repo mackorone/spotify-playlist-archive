@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Angel of Midnight",
+        "url": "https://open.spotify.com/album/4HlR5iQDk57xUQeBTMwNhK"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Angel Of Midnight",
+      "url": "https://open.spotify.com/track/4ElS6G17jF87cluP3rn8Aa"
+    },
+    {
+      "album": {
         "name": "Angry God Of Earth",
         "url": "https://open.spotify.com/album/6tvx9nUL9IPq6U3Pss15rJ"
       },
@@ -1990,6 +2008,24 @@
       "duration_ms": 276546,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi"
+    },
+    {
+      "album": {
+        "name": "Bloodwood",
+        "url": "https://open.spotify.com/album/5BFo1i6Ea1V81EiUO27AM4"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277969,
+      "name": "Bloodwood",
+      "url": "https://open.spotify.com/track/4ZFlf53KEIJFPkBz9K8rf4"
     },
     {
       "album": {
@@ -8193,6 +8229,24 @@
     },
     {
       "album": {
+        "name": "Domination",
+        "url": "https://open.spotify.com/album/5RvTRqpErJpEhO2Rt9hYml"
+      },
+      "artists": [
+        {
+          "name": "Primal Fear",
+          "url": "https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342946,
+      "name": "I Am The Primal Fear",
+      "url": "https://open.spotify.com/track/6hviGL6jKTypFG5AuqREAG"
+    },
+    {
+      "album": {
         "name": "I Am Unbroken",
         "url": "https://open.spotify.com/album/6NLl53OpgbNtmac2Ng07dz"
       },
@@ -8756,7 +8810,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 221801,
       "name": "In Desolation",
       "url": "https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp"
@@ -11273,6 +11327,24 @@
     },
     {
       "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
+    },
+    {
+      "album": {
         "name": "Never Again (Parasite)",
         "url": "https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv"
       },
@@ -13056,7 +13128,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
@@ -13584,6 +13656,28 @@
       "duration_ms": 320613,
       "name": "Raven's Flight",
       "url": "https://open.spotify.com/track/0Ov6o6FSQLOlllOm10ESwQ"
+    },
+    {
+      "album": {
+        "name": "Raveyard",
+        "url": "https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        },
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225307,
+      "name": "Raveyard (feat. K\u00e4\u00e4rij\u00e4)",
+      "url": "https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO"
     },
     {
       "album": {
@@ -16536,7 +16630,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 304040,
       "name": "Tears of Fire",
       "url": "https://open.spotify.com/track/3dLign14FMWFrqUf6HYXQq"
@@ -17886,7 +17980,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 308500,
       "name": "The Tales of War",
       "url": "https://open.spotify.com/track/1hOOJBNK0fuRIyEytMkx07"
@@ -18002,7 +18096,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 608013,
       "name": "The Way of The Fire",
       "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"

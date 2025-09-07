@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Zo\u00e9 en portada ",
-  "num_followers": 791410,
+  "num_followers": 791769,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "Tu Maliante Beb\u00e9",
+        "url": "https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dj Hate",
+          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
+        }
+      ],
+      "duration_ms": 211837,
+      "name": "Rodillas",
+      "url": "https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 155294,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "Tu Maliante Beb\u00e9",
-        "url": "https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Hate",
-          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
-        }
-      ],
-      "duration_ms": 211837,
-      "name": "Rodillas",
-      "url": "https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -695,6 +695,26 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Relojito Cartier",
+      "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "La del Primer Puesto",
         "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
       },
@@ -731,22 +751,18 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
-        "name": "Meneo",
-        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Relojito Cartier",
-      "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
+      "duration_ms": 192004,
+      "name": "Piedras a la Luna",
+      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -763,6 +779,22 @@
       "duration_ms": 211250,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
+        "name": "Pens\u00e9 En Ti",
+        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152599,
+      "name": "Pens\u00e9 En Ti",
+      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -787,18 +819,22 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
-        "name": "Pens\u00e9 En Ti",
-        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
+        "name": "La M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/7KGcUnsY00SdDPuPr5vYP9"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 152599,
-      "name": "Pens\u00e9 En Ti",
-      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
+      "duration_ms": 192998,
+      "name": "La M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -827,54 +863,22 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
-        "name": "La M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/7KGcUnsY00SdDPuPr5vYP9"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "La M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
       },
       "artists": [
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
-      },
-      "artists": [
+        },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Piedras a la Luna",
-      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -915,6 +919,26 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "Y SI TE VAS",
         "url": "https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL"
       },
@@ -935,42 +959,18 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
       "artists": [
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 147482,
-      "name": "U\u00f1as Afiladas",
-      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "LA PEDA",
+        "url": "https://open.spotify.com/album/5Xt2TO0oHWLB37UmW59ZuW"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "LA PEDA",
+      "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "PORTATE BIEN",
         "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 159621,
       "name": "La Que Se Fue, Se Fue",
       "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "LA PEDA",
-        "url": "https://open.spotify.com/album/5Xt2TO0oHWLB37UmW59ZuW"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "LA PEDA",
-      "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "Angustias",
+        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Angustias",
+      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "\u00bfQui\u00e9n + Como Yo?",
         "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 186285,
       "name": "EBVSY",
       "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "Angustias",
-        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Angustias",
-      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
     },
     {
       "added_at": "2025-09-05 06:00:12",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "M\u00edrame Feliz",
         "url": "https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 191250,
       "name": "M\u00edrame Feliz",
       "url": "https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 210541,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
     },
     {
       "added_at": "2025-09-05 06:00:12",

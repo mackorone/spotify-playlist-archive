@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,760 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,768 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 16 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 |
 | 17 | [Apkabink](https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe) | 2:14 |
 | 18 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 19 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
+| 19 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 20 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 21 | [Mažas Amžinai](https://open.spotify.com/track/4k9uMv8dJhcd9gQhXBFqIJ) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:23 |
 | 22 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 34 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
 | 35 | [Neturėjom Dainos](https://open.spotify.com/track/5i2P4wsbe6x8hrvdZwCSJj) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Olos](https://open.spotify.com/album/2MNW7btzSNiDWQq9QsGPBQ) | 5:00 |
 | 36 | [Saulė \(Remix\)](https://open.spotify.com/track/3VRnfTLn09r8NOtn4682Ua) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0), [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Saulė \(Remix\)](https://open.spotify.com/album/3jkZIpyyVZop4rKEHT8uW6) | 3:12 |
-| 37 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
+| 37 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
 | 38 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 39 | [Kodėl Aš Ir Vėl](https://open.spotify.com/track/0BKEXM89U5RYxT8cZOoXHz) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:24 |
 | 40 | [Way Out](https://open.spotify.com/track/1QO64fGXZM1CbNGGa0XI3G) | [Oxtt](https://open.spotify.com/artist/787MiSzQeE4i9bDAqimh6b) | [Way Out](https://open.spotify.com/album/7yzpf40MkU26jWhh6BOSpH) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 49 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 50 | [Pasilik Praeity](https://open.spotify.com/track/38grlitW19BsvUcEE5pz9Z) | [Paulina Paukštaitytė](https://open.spotify.com/artist/4x1VXRYFuagEOeanJhVX4Z) | [Ego Kalbà](https://open.spotify.com/album/0wbVxL4QHUeGdHIr7g0g2U) | 2:43 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+l+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

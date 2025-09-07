@@ -4,7 +4,7 @@
 
 > 
 
-7,667 songs - 19 day 18 hr 57 min
+7,669 songs - 19 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3775,6 +3775,7 @@
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2025-01-15 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2025-01-03 |  |
 | [Memo](https://open.spotify.com/track/7tk5tOCj84jine8kKJkPYs) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:15 | 2025-01-15 |  |
+| [MEMORIA](https://open.spotify.com/track/6qpGlLv9MHaChP5hEx6Pni) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:48 | 2025-09-06 |  |
 | [Memories](https://open.spotify.com/track/7wDiLP9SX002w7hJXSyTAU) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Pine Tree \- The 2nd Album](https://open.spotify.com/album/71rkWCFnt54kV45L5FqaZQ) | 5:00 | 2025-01-03 |  |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2025-01-04 |  |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:29 | 2025-01-03 |  |
@@ -5355,6 +5356,7 @@
 | [Song Of The Wind](https://open.spotify.com/track/7mqWehxJYYR67jVEz1IMRR) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [Eternally\-16](https://open.spotify.com/album/7A4kBqBEJHy9eahtxu0Are) | 5:08 | 2024-12-14 |  |
 | [Songweaver of the Night](https://open.spotify.com/track/6ChbKsq9WPYTUE0pwZrfmS) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [jixwang](https://open.spotify.com/artist/4TTQTwzQJgtCLjMrIBXhEZ) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 2:19 | 2025-07-03 |  |
 | [Sora wa Gray](https://open.spotify.com/track/6oXPjyaxx5hqa2DiDQt03G) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:41 | 2025-01-03 |  |
+| [Sorega, Ai Deshou](https://open.spotify.com/track/61aAHMl8udl0EP4mZwhll9) | [Mikuni Shimokawa](https://open.spotify.com/artist/6hDNyaAMX0SXk2IQbqVY75) | [Full Metal Panic Fumoffu Original Soundtrack Album](https://open.spotify.com/album/6bgrmKnuW7mLZXl4FAKsM9) | 5:14 | 2025-09-06 |  |
 | [Sorokyanpu no susume](https://open.spotify.com/track/5FblIDq5dkGzXNuIKC1iPX) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV anime “Yurukyan△”original sound track](https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg) | 2:13 | 2024-12-05 |  |
 | [Sorrows](https://open.spotify.com/track/5TXQCMKN6TgemTL3c4wRTn) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:13 | 2024-12-10 |  |
 | [Sorry](https://open.spotify.com/track/4CPsMAG28OgzzDk1DcOtBx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HNDRXX](https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X) | 7:31 | 2025-01-03 |  |

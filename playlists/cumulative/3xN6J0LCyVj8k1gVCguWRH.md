@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,272 songs - 12 day 6 hr 54 min
+5,274 songs - 12 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Amor de Sábanas](https://open.spotify.com/track/5xTWrGQC9k7rzOGIP5ODab) | [SANTI SERRA](https://open.spotify.com/artist/160stBXe31uhue2Fb598X4), [Arancha Santiago](https://open.spotify.com/artist/3vQm0KZuaevPCcAiDtvKwt) | [Amor de Sábanas](https://open.spotify.com/album/0X9ghqZNhuETTQ1unsrYk6) | 2:37 | 2025-02-05 | 2025-02-17 |
 | [Amore](https://open.spotify.com/track/0FZFJrBOZK8h9m1awSWW9L) | [SIHARA](https://open.spotify.com/artist/3r9ivqbl8FEmDroQMHlvav) | [Amore](https://open.spotify.com/album/6PP7mJPszXS9kaJCQmj3VE) | 2:31 | 2023-08-06 | 2023-08-20 |
 | [Amores Así](https://open.spotify.com/track/6oriKDugUDT1CcBTBDgF5s) | [Tiancho](https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68) | [Amores Así](https://open.spotify.com/album/5xIfcaHr9rPzzjQRCFwk2A) | 3:40 | 2024-10-05 | 2024-12-26 |
+| [Amy](https://open.spotify.com/track/6JzF3wbZZB04809JR1GtLr) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Amy](https://open.spotify.com/album/6a1xl8kdmro54OutGnkygb) | 2:45 | 2025-09-06 |  |
 | [Amy's Bakery](https://open.spotify.com/track/6LPGNgGCEsNzJcGjCj9GHV) | [Sam Wray](https://open.spotify.com/artist/16HPxfwlonJEzCp2w3NV7i) | [Amy's Bakery](https://open.spotify.com/album/72VL2JfjJjdN0NDjeMk3cN) | 3:21 | 2025-04-30 | 2025-05-12 |
 | [Anansi](https://open.spotify.com/track/2eamE5xO4rhJf6hh1814Vw) | [Rogier van den Brink](https://open.spotify.com/artist/35rNbWsfJHQhv6aVGwtbl4) | [Zsa Zsa Exactly](https://open.spotify.com/album/2Lz1L3qeOGOlpT0gF454hO) | 5:01 | 2024-07-19 | 2024-08-01 |
 | [And So It Begins](https://open.spotify.com/track/6N59LGxW3G0rfEX5a2lyx2) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:05 | 2022-05-06 | 2022-05-30 |
@@ -499,6 +500,7 @@
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2019-09-29\* | 2021-11-19 |
 | [Best Part of Me](https://open.spotify.com/track/2PhvJ3VfAMhSC9wPZuxiSg) | [Aidan Rhys](https://open.spotify.com/artist/6yopXsmwXQQRnsN6aUwERA) | [Best Part of Me](https://open.spotify.com/album/0gUE6zM5qSZn566YmLHDoX) | 3:37 | 2024-12-03 | 2025-01-05 |
 | [Best Part of Me](https://open.spotify.com/track/7rV8dlbAAj4pLdrfmgb4Jb) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Best Part of Me](https://open.spotify.com/album/6uzupQZcB8MdToJPpkRwyD) | 3:32 | 2021-07-04 | 2021-09-03 |
+| [best\. day\. ever.](https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [best\. day\. ever.](https://open.spotify.com/album/3s4WBNxX2SLcpjrooq7DLH) | 2:38 | 2025-09-06 |  |
 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-08-25 | 2023-09-26 |
 | [Better](https://open.spotify.com/track/6CQPgS0nPWFzrTvTryQaXf) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E), [Neak](https://open.spotify.com/artist/4QSOG2wDqDPm2BdgnNr3KM), [Yaw](https://open.spotify.com/artist/2GwKXyVeNUqRapJFwDXroo), [Rashid Hadee](https://open.spotify.com/artist/1nI03HPiLBVDVu5nmuzoWw), [Sam Thousand](https://open.spotify.com/artist/21ocMcnoFjBY8F3cpoAk8s) | [a film called black](https://open.spotify.com/album/60Vagxb33XOBKABxhF2biZ) | 4:47 | 2025-07-12 | 2025-08-10 |
 | [Better](https://open.spotify.com/track/34EMkrV5bl20W53Ni56wPS) | [RadWulf](https://open.spotify.com/artist/5G1S3UDl45hYFHLRkz3EVE), [ZERO SUGAR](https://open.spotify.com/artist/5Ri8A4FMxA7QMYjKBUCidX) | [Better](https://open.spotify.com/album/6HJvGY8oWJRWiX2tU9ybnC) | 3:06 | 2023-12-08 | 2023-12-26 |

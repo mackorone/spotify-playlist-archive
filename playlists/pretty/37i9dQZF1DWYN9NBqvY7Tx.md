@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,019 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,146 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 |
 | 100 | [HOMEWARD BOUND](https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [HOMEWARD BOUND](https://open.spotify.com/album/77qphqm55wE28WErICmvo5) | 3:52 |
 
-Snapshot ID: `AAAAAEaUSXG7aqPs3bA1p42DF4OHScJ1`
+Snapshot ID: `AAAAAJmZ8KCiCazJ1oJa7OHxgEb4jd4f`

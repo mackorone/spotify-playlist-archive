@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,726,923 likes - 120 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,727,365 likes - 120 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 93 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
 | 94 | [Sun Is Up \- Play & Win Radio Edit](https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am The Club Rocker](https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6) | 3:44 |
 | 95 | [A Tear In The Open](https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 9:22 |
-| 96 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 |
-| 97 | [Fire](https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh) | 4:31 |
+| 96 | [Fire](https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh) | 4:31 |
+| 97 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 |
 | 98 | [Take Me Away \- Vocal Radio Mix](https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn) | 3:10 |
 | 99 | [Put Your Hands Up for Detroit \- MC Mario Edit](https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1) | 6:33 |
 | 100 | [Love Comes Again](https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 8:09 |

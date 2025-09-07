@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,614 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,607 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 19 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
 | 20 | [Derreter a Aliança \- Ao Vivo](https://open.spotify.com/track/5LrxVF7fpZZdbB7zy6MnIg) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:09 |
 | 21 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 |
-| 22 | [Amiga Linda](https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [João Bosco & Vinicius E Seus Ídolos \- Estrada De Chão](https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd) | 2:46 |
+| 22 | [Amiga Linda](https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [João Bosco & Vinicius E Seus Ídolos \- Estrada De Chão](https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd) | 2:46 |
 | 23 | [Silêncio \- Ao Vivo](https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \(Ao Vivo\)](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:53 |
 | 24 | [Antídoto \- Ao Vivo](https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:02 |
 | 25 | [Singular](https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Singular](https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo) | 3:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Juana Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,512 likes - 102 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,547 likes - 102 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 101 | [PRIEGO MÍO](https://open.spotify.com/track/62L8xzFC8mlq8PZ2HPmNCV) | [Raquel Vega](https://open.spotify.com/artist/3fUZwaxrlEZgiwMDuwx5yx) | [PRIEGO MÍO](https://open.spotify.com/album/17SFHbLeUi0rLUfW2g6bWs) | 4:45 |
 | 102 | [Lady Luck](https://open.spotify.com/track/5IvdvMaPmqHQ55V9GQR5Od) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3) | [Lady Luck](https://open.spotify.com/album/4R8gTrFpIhFwbLVIXuL8wi) | 3:28 |
 
-Snapshot ID: `AAAAAJfXUo2EP1mKz5/Dkc09hgcAiGNo`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

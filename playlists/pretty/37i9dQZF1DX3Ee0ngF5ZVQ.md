@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > Check out Band Together Texas, a livestream in support of Texas Flood Relief Efforts, airing at 7pm CT on August 17\. Tune\-in and donate at bandtogethertexas.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,085 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,084 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

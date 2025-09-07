@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: threetwenty
 
-820 songs - 2 day 1 hr 1 min
+821 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Confusional](https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:24 | 2024-09-13 | 2024-10-30 |
 | [controllin](https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 4:44 | 2024-06-07 | 2024-08-03 |
 | [Count Me Out](https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Lover Was Born](https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV) | 3:46 | 2024-10-18 | 2025-02-21 |
+| [Cover Girl](https://open.spotify.com/track/60gTszvshnuyG0jsfjTOs8) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Cover Girl](https://open.spotify.com/album/1lIWNnzCSuLisjkiZaDI69) | 3:35 | 2025-09-05 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-03-11 | 2023-08-05 |
 | [Craters](https://open.spotify.com/track/5Y0BNdiSJMGMcQK95bxm1M) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Sol Empowered](https://open.spotify.com/album/1WwEkTUvTxhvAg624GhW62) | 4:10 | 2022-03-11 | 2022-07-19 |
 | [Craters](https://open.spotify.com/track/5ZTzr69s2cphU4FNMeO6q8) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Sol Empowered](https://open.spotify.com/album/7aHPzt88ZLkOZu26dqlEvs) | 4:10 | 2022-03-11 | 2022-10-06 |
@@ -300,7 +301,7 @@
 | [HiYA](https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [HiYA](https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1) | 2:58 | 2024-11-08 | 2025-05-31 |
 | [Hold Me Up](https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Give It More Time](https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld) | 3:24 | 2025-01-31 | 2025-08-28 |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-21 |
-| [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 |  |
+| [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 | 2025-09-07 |
 | [Holy Father](https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Holy Father](https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1) | 2:16 | 2025-08-15 |  |
 | [Hope & Love](https://open.spotify.com/track/0sv8Os7FyqzVDNVrxcgRuq) | [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w), [The Royal Flush](https://open.spotify.com/artist/40WNjE5OE1DuK5JvSlsrAb), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Hope & Love](https://open.spotify.com/album/51tnMbvrCU8Wnjt0TAxCfk) | 5:07 | 2025-02-28 | 2025-05-10 |
 | [Hopes and Dreams \- Abbey Road After Hours Sessions](https://open.spotify.com/track/2GI2CqfgtVHUH2DFEUWW9B) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Hopes and Dreams \(Abbey Road After Hours Session\)](https://open.spotify.com/album/1HTDlnGtmEPI6CDTZWhkR3) | 5:06 | 2024-10-04 | 2025-03-22 |

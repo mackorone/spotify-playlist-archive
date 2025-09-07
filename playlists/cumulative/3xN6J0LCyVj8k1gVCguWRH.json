@@ -4913,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Amy",
+        "url": "https://open.spotify.com/album/6a1xl8kdmro54OutGnkygb"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2025-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165868,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6JzF3wbZZB04809JR1GtLr"
+    },
+    {
+      "album": {
         "name": "Amy's Bakery",
         "url": "https://open.spotify.com/album/72VL2JfjJjdN0NDjeMk3cN"
       },
@@ -9356,6 +9374,24 @@
       "duration_ms": 212290,
       "name": "Best Part of Me",
       "url": "https://open.spotify.com/track/7rV8dlbAAj4pLdrfmgb4Jb"
+    },
+    {
+      "album": {
+        "name": "best. day. ever.",
+        "url": "https://open.spotify.com/album/3s4WBNxX2SLcpjrooq7DLH"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2025-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158197,
+      "name": "best. day. ever.",
+      "url": "https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW"
     },
     {
       "album": {

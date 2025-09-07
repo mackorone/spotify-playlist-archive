@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,357 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,380 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Shule](https://open.spotify.com/track/71KbAFPgqkIJpzVEmoIm9L) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Shule](https://open.spotify.com/album/18jTRTLPn0jFUY3pPnbns7) | 3:30 |
 | 60 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 |
 
-Snapshot ID: `AAAAAF2qMPrLbPvEnuOhNy0KHXleV3pH`
+Snapshot ID: `AAAAAEcwmxLhCYUyqColsTmtWgQpf2KH`

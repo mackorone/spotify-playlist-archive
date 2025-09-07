@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy y Triny y La Leyenda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,445 likes - 125 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,528 likes - 125 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 124 | [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 |
 | 125 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |
 
-Snapshot ID: `AAAAAC01Vqcm7Xlxc+jNr3uFosjSMX4M`
+Snapshot ID: `AAAAADkr1ziUqYOx79lHT+7qGFR/Lu3w`

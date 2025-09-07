@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,040 likes - 150 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,103 likes - 150 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,9 +144,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 134 | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww) | 6:00 |
 | 135 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 136 | [Head Above The Parakeets](https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 7:16 |
-| 137 | [Ikiru](https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj) | 3:43 |
+| 137 | [Indica \- Pye Corner Audio Remix \- Glok Re\-Edit](https://open.spotify.com/track/5c2thP8s3mjh30FpVGrISV) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL), [GLOK](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq) | [The Indica Gallery \- EP](https://open.spotify.com/album/38W1wd778DACdYZfoWcFeO) | 7:45 |
 | 138 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
-| 139 | [Indica \- Pye Corner Audio Remix \- Glok Re\-Edit](https://open.spotify.com/track/5c2thP8s3mjh30FpVGrISV) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL), [GLOK](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq) | [The Indica Gallery \- EP](https://open.spotify.com/album/38W1wd778DACdYZfoWcFeO) | 7:45 |
+| 139 | [Ikiru](https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj) | 3:43 |
 | 140 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 141 | [Unheard Melodies](https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz) | 4:40 |
 | 142 | [City 66](https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:44 |

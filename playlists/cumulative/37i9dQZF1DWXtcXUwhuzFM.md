@@ -4,7 +4,7 @@
 
 > Uutta musiikkia tarjoilevat Haloo Helsinki!, Justin Bieber, Lady Gaga, Nelli Matula, Isac Elliot, costee, Olavi Uusivirta ja moni muu!
 
-7,675 songs - 16 day 20 hr 59 min
+7,676 songs - 16 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3774,7 +3774,7 @@
 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-16 | 2024-05-24 |
 | [Loca](https://open.spotify.com/track/7oJHO6r8Rh4PbDcQflvmOQ) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Julian Jeweil](https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf) | [Explorer Vol\. 1](https://open.spotify.com/album/7jvBgKQK4ALnqRoxGQbktc) | 4:06 | 2025-07-10 | 2025-07-18 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-02 | 2025-01-10 |
-| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
+| [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
 | [Locket](https://open.spotify.com/track/3iMfaUUhpNkPJWuuwpE0zk) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Locket](https://open.spotify.com/album/6Mzh22WFS0KC7zRzGup0f5) | 3:13 | 2025-08-14 | 2025-08-23 |
 | [Locura](https://open.spotify.com/track/7AlnBnY5M8aTJgLIe89B6s) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [The Cornershop Carnival](https://open.spotify.com/album/4W7FO6XF2gV6hghCFxya5p) | 2:28 | 2024-07-04 | 2024-07-12 |
 | [logo](https://open.spotify.com/track/3S2faz9QWI0wzXSPlvmUCe) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [logo](https://open.spotify.com/album/2yA6Y6aN2odg9w64Zzksv7) | 2:30 | 2025-09-04 |  |
@@ -6440,6 +6440,7 @@
 | [teen susta oikean](https://open.spotify.com/track/67PcvfIiHHQJ7JZnPFXOBz) | [pilvet pilvet](https://open.spotify.com/artist/1MXJxWL0RS0CZLRj9jkacy) | [teen susta oikean](https://open.spotify.com/album/7KCKgcHHiXS3LVhDY8Dos4) | 2:51 | 2025-04-24 | 2025-05-02 |
 | [teenagestylez](https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK) | [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [teenagestylez](https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8) | 2:35 | 2025-01-02 | 2025-01-10 |
 | [Tehny hynää](https://open.spotify.com/track/0hqpQw7U3M1a04vKGsmIYx) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Tehny hynää](https://open.spotify.com/album/2BgteV6yb99VuqRBhDYILL) | 3:00 | 2024-05-09 | 2024-05-17 |
+| [Tehtaan Takuu](https://open.spotify.com/track/0fCPXD3gyyvcGCUDNbWIwf) | [Bulle](https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl), [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD), [Taisto Tapulist](https://open.spotify.com/artist/7qg86ebKDwx18tTzUMJyb5) | [Tehtaan Takuu](https://open.spotify.com/album/4eIOlifvxj7isLOfKDgKjX) | 3:20 | 2025-09-05 |  |
 | [Tehtiin se](https://open.spotify.com/track/3Okiot3zXPZYSNN3GMzKIC) | [Mactopias](https://open.spotify.com/artist/5zWjZSVW6QV5LxPaLlMJ58) | [Hyvä Jätkä Paska Kaupunni](https://open.spotify.com/album/0nxge2RsYRN5EGegHnbI53) | 3:04 | 2024-12-12 | 2024-12-20 |
 | [Tehtiin tää \(feat\. Sexmane\)](https://open.spotify.com/track/6vV1vh8tZyklW01nLAljcJ) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Tehtiin tää \(feat\. Sexmane\)](https://open.spotify.com/album/04f65nN6wxZzrTPkk63lrb) | 4:05 | 2024-04-26 | 2024-05-03 |
 | [Teini taas](https://open.spotify.com/track/19HV8C8dz7y5OwZ9HWCwUh) | [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe) | [Teini taas](https://open.spotify.com/album/0Y97TQBuM1tAELoZ7I0E2S) | 3:20 | 2024-09-19 | 2024-09-27 |

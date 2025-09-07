@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1604918,
+  "num_followers": 1605088,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,30 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
+        "name": "It's Okay",
+        "url": "https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "duration_ms": 165029,
+      "name": "It's Okay",
+      "url": "https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA"
+    },
+    {
+      "added_at": "2025-09-05 04:00:13",
+      "album": {
         "name": "Subterranean",
         "url": "https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn"
       },
@@ -675,22 +699,6 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
-    },
-    {
-      "added_at": "2025-09-05 04:00:13",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -711,26 +719,18 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "It's Okay",
-        "url": "https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 165029,
-      "name": "It's Okay",
-      "url": "https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA"
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2025-09-05 04:00:13",
+      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
       "artists": [
         {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1327,22 +1343,6 @@
       "duration_ms": 198764,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD"
-    },
-    {
-      "added_at": "2025-09-05 04:00:13",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1367,26 +1367,22 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Kiko",
-          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
-        },
-        {
-          "name": "Olivier Giacomotto",
-          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         }
       ],
-      "duration_ms": 167040,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
+      "duration_ms": 369798,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1411,22 +1407,26 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
         }
       ],
-      "duration_ms": 369798,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+      "duration_ms": 167040,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2025-09-05 04:00:13",
-      "album": {
         "name": "Yumi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 245624,
       "name": "Yumi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+    },
+    {
+      "added_at": "2025-09-05 04:00:13",
+      "album": {
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1867,18 +1867,26 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Quezacotl",
-        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
+        "name": "Cheating Heart",
+        "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Monophase (IT)",
+          "url": "https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 435000,
-      "name": "Quezacotl",
-      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
+      "duration_ms": 220952,
+      "name": "Cheating Heart",
+      "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1907,26 +1915,34 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Cheating Heart",
-        "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
+        "name": "Audio Machina",
+        "url": "https://open.spotify.com/album/2sB9V3w4Lvj2bZBKBybSyJ"
       },
       "artists": [
         {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
-        },
-        {
-          "name": "Monophase (IT)",
-          "url": "https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Cheating Heart",
-      "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+      "duration_ms": 192380,
+      "name": "Audio Machina",
+      "url": "https://open.spotify.com/track/1RmEvAkXPrasJZnTUKpzMJ"
+    },
+    {
+      "added_at": "2025-09-05 04:00:13",
+      "album": {
+        "name": "Quezacotl",
+        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Quezacotl",
+      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
     },
     {
       "added_at": "2025-09-05 04:00:13",
@@ -1947,26 +1963,6 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Coming Down",
-        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
-      },
-      "artists": [
-        {
-          "name": "Solanca",
-          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
-    },
-    {
-      "added_at": "2025-09-05 04:00:13",
-      "album": {
         "name": "Be Strong",
         "url": "https://open.spotify.com/album/4ckg7FuJZLZqNgxNuZP4g5"
       },
@@ -1983,18 +1979,22 @@
     {
       "added_at": "2025-09-05 04:00:13",
       "album": {
-        "name": "Audio Machina",
-        "url": "https://open.spotify.com/album/2sB9V3w4Lvj2bZBKBybSyJ"
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
       },
       "artists": [
         {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+          "name": "Solanca",
+          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
         }
       ],
-      "duration_ms": 192380,
-      "name": "Audio Machina",
-      "url": "https://open.spotify.com/track/1RmEvAkXPrasJZnTUKpzMJ"
+      "duration_ms": 214695,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
     }
   ],
   "unique_name": "Night Rider",

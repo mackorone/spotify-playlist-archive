@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,001 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,058 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 30 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
 | 31 | [Pills \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2zdcIatMRVWqbYshX4nIR7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:56 |
 | 32 | [Back On Stage](https://open.spotify.com/track/0eEBqesfRtloK1FZuRBYtQ) | [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [Back On Stage](https://open.spotify.com/album/0dN5HlLxjDK9AN87RILO5a) | 2:11 |
-| 33 | [Bolaji](https://open.spotify.com/track/7kMjH87CnhyoA25KieDB05) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Bolaji](https://open.spotify.com/album/5lrGVnEe6VyPzwXfGkDUif) | 2:46 |
+| 33 | [Bolaji](https://open.spotify.com/track/7kMjH87CnhyoA25KieDB05) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Bolaji](https://open.spotify.com/album/5lrGVnEe6VyPzwXfGkDUif) | 2:31 |
 | 34 | [Putting Ya Dine](https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Putting Ya Dine](https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo) | 2:59 |
 | 35 | [Up Late Freestyle \(feat\. That Mexican OT\)](https://open.spotify.com/track/6JjLIb9zurAtCvDq25wo8p) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Quincho II](https://open.spotify.com/album/1Ajgd1sDwgE05s49HB3I6d) | 3:49 |
 | 36 | [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/track/4bv07aSDDXJsDI7VUDRZW8) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/album/6BZ8PR1CCa58Zoz2rwlA73) | 2:22 |

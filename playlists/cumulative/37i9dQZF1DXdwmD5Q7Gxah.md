@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Sophia Stel
 
-3,528 songs - 8 day 0 hr 48 min
+3,529 songs - 8 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,6 +1001,7 @@
 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 | 2022-01-07 | 2022-03-11 |
 | [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face](https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u) | 2:53 | 2025-06-13 | 2025-08-16 |
 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 | 2021-12-01 | 2022-01-08 |
+| [EYE CANDY](https://open.spotify.com/track/3RxlFiTnV3K7FbEWobxW73) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:57 | 2025-09-05 |  |
 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 | 2024-04-30 | 2024-05-18 |
 | [Eyes on my baby](https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Eyes on my baby](https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ) | 2:12 | 2024-02-27 | 2024-07-06 |
 | [F2020 \- LLusion Remix](https://open.spotify.com/track/2a3fLiSSJwLa0ElbqTUv5v) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc), [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [F2020 \(LLusion Remix\)](https://open.spotify.com/album/25jZ7IIMwe3Zm64z4b4uyI) | 2:28 | 2020-12-04 | 2021-01-12 |

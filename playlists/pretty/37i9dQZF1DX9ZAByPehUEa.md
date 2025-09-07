@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,077 likes - 200 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,103 likes - 200 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 17 | [Practice](https://open.spotify.com/track/01KT7m61tK7b18yqZqwrSt) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Practice](https://open.spotify.com/album/0GuJCkNlGgzfFeu7kRlqYw) | 2:48 |
 | 18 | [Kiss It Better](https://open.spotify.com/track/2MD67vgfxj288ODqk0614h) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Kiss It Better](https://open.spotify.com/album/3boRx7MJXC6Zl0EywvqQfk) | 3:12 |
 | 19 | [PUMPIN'](https://open.spotify.com/track/6Q8dcdGasWQbeyfqF9myfg) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [PUMPIN'](https://open.spotify.com/album/31ZYFyD8gntz9DSpHAKH3Z) | 2:27 |
-| 20 | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
+| 20 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
 | 21 | [Any Kind Of Music \(I Love\)](https://open.spotify.com/track/5mqMbGUrqPn4dEEHiK5Loy) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Any Kind Of Music \(I Love\)](https://open.spotify.com/album/6CZclIcamGolxD8545ltfR) | 3:20 |
 | 22 | [Midnight Fever](https://open.spotify.com/track/6BVvpdUKKkeR8KawiI8pZQ) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Midnight Fever](https://open.spotify.com/album/3c6vrOdpsEk1hB9xr2tvby) | 3:46 |
 | 23 | [Paris in the Sky](https://open.spotify.com/track/4dOQ37MvSKEcBZoWvOTJeZ) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Paris in the Sky EP](https://open.spotify.com/album/7tzpTJwj599XdqP2XOtmmq) | 4:08 |

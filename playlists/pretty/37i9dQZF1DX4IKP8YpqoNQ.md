@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,686 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,697 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 72 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
 | 73 | [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 |
 | 74 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 8:04 |
-| 75 | [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 |
-| 76 | [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 |
+| 75 | [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 |
+| 76 | [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 |
 | 77 | [You Don't Know My Name \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 4:59 |
 | 78 | [You're Gonna Miss Your Candy Man \- Live](https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Alive \(Live At the Jazz Cafe, London\)](https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie) | 6:53 |
 | 79 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |

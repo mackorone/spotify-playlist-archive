@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,740 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,784 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 49 | [Ubambo lwami](https://open.spotify.com/track/7lqlmV3prYYMQvyswraACT) | [Umdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC), [Mjolisi](https://open.spotify.com/artist/1WVxTF7mgVH51W5qTSSKY7) | [Uyinja](https://open.spotify.com/album/0oCCoXAo3PJn6oTKnoY2Sz) | 4:54 |
 | 50 | [Ngwanaka](https://open.spotify.com/track/3bM6G6G4kcoeTAMdFDPKEB) | [Janesh](https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L), [Hitboss SA](https://open.spotify.com/artist/4V5DDRtrNNcRrV9VVxgqyK) | [Lekompo Easter](https://open.spotify.com/album/43pTsfHhb5Dg2LyT4FCEF4) | 4:16 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+l+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

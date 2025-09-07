@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Justin Bieber, Drake & PARTYNEXTDOOR, Lady Gaga, Calvin Harris & Jessie Reyez,  Goldie Boutilier and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,058 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,207 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 31 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 32 | [Dream Team](https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Dream Team](https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ) | 3:08 |
 | 33 | [Goldmine](https://open.spotify.com/track/0CWlwrbQkmgdf8aAiZeoTA) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Goldmine](https://open.spotify.com/album/2gtGk2dzQdaoxPxugZXKlN) | 2:56 |
-| 34 | [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
-| 35 | [3X BBB \(Tripple Bad\) \- Raw](https://open.spotify.com/track/6lH5eHNkpOHxZ5Q9rz1CNu) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [3X BBB \(Tripple Bad\)](https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk) | 3:04 |
+| 34 | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
+| 35 | [3X BBB \(Tripple Bad\) \- Raw](https://open.spotify.com/track/6lH5eHNkpOHxZ5Q9rz1CNu) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [3X BBB \(Tripple Bad\)](https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk) | 3:04 |
 | 36 | [Mírame Ahora \- Salud mi Reina](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora \(Salud mi Reina\)](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 |
 | 37 | [Goodbye](https://open.spotify.com/track/2zJNpJTZ6GM37WAI0URwvg) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Goodbye](https://open.spotify.com/album/4dl2qFL5UlMxqelFjwtTV8) | 3:29 |
 | 38 | [World Boss](https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [World Boss](https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,480 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,502 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 92 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
 | 93 | [Zamba de Anta](https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc) | [Marián Farias Gómez](https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure) | [Para ir a buscarte](https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9) | 4:34 |
 | 94 | [La Calle Soledad](https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Tucumana](https://open.spotify.com/album/3ZRoq7AUTKnwhkrEia1MBG) | 2:35 |
-| 95 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 |
-| 96 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 |
+| 95 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 |
+| 96 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 |
 | 97 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
 | 98 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 |
 | 99 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
 | 100 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
 
-Snapshot ID: `AAAAAIP0ewj4QujXyLKZGcfTQTRzG1QR`
+Snapshot ID: `AAAAAIZslxHmC1ii8Xcpgv29R3LXttj4`

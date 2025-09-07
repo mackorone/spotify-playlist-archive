@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: NCT WISH\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,354 likes - 110 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,367 likes - 110 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 62 | [My Curly Hair Is Dancing In The Light](https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Love Untangled \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2b7FMbGcBoyjMFZC8AYx7o) | 3:14 |
 | 63 | [Trauma \(From "The Rose: COME BACK TO ME"\)](https://open.spotify.com/track/0BktgdzRYRFrk5Ek0shoxm) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Trauma \(From "The Rose: COME BACK TO ME"\)](https://open.spotify.com/album/3X2s2xlesjmnjEDNpXrjVZ) | 4:58 |
 | 64 | [CEREMONY \(Hip Hip Version \- English Version\)](https://open.spotify.com/track/56pZMj5rapecV8nqJ7ksXM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [CEREMONY \(Celebrate Remixes\)](https://open.spotify.com/album/0oAkQz5sI5UkylnzynFtCg) | 2:37 |
-| 65 | [Don’t skip the instrumental](https://open.spotify.com/track/14cb8XL4wsr3RDJT40sUIx) | [Yoo Se Yoon](https://open.spotify.com/artist/0Q0e0s8XZbQGe7vBYXnKyl) | [Don’t skip the instrumental](https://open.spotify.com/album/6xLEW82ZibnslCjuMK5X7a) | 5:55 |
+| 65 | [Don't Skip the Interlude](https://open.spotify.com/track/14cb8XL4wsr3RDJT40sUIx) | [Yoo Se Yoon](https://open.spotify.com/artist/0Q0e0s8XZbQGe7vBYXnKyl) | [Don't Skip the Interlude](https://open.spotify.com/album/6xLEW82ZibnslCjuMK5X7a) | 5:55 |
 | 66 | [dowhatyouwant](https://open.spotify.com/track/6alx1bMJ0HafBWvM6V6yne) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 02](https://open.spotify.com/album/7cDQtFyy4O00KpSbAxxkB1) | 2:39 |
 | 67 | [Better than this](https://open.spotify.com/track/6Jf7cIfB2uFCKhJVvQYxqk) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Napoleon the Wilderness](https://open.spotify.com/artist/6tA6NTjmkwubOeRIY1CI20) | [Better than this](https://open.spotify.com/album/2nhnfn0DyRgd3fXyJCxH8H) | 2:47 |
 | 68 | [Forbidden Midnight \(Real ver.\)](https://open.spotify.com/track/1ZEQeIqQvpP9x8ULcJIMlK) | [iii](https://open.spotify.com/artist/5iU8igL9QF2HMQaUeKQ3NO) | [RE:AL iii](https://open.spotify.com/album/3HAHaKkMWNvKTYvdeAi4wj) | 3:00 |

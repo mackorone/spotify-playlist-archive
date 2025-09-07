@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Goldie Boutilier",
-  "num_followers": 68662,
+  "num_followers": 68666,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -625,26 +625,6 @@
       "url": "https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V"
     },
     {
-      "added_at": "2025-07-25 04:01:35",
-      "album": {
-        "name": "A Lesson In Leavin'",
-        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        },
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 204603,
-      "name": "A Lesson In Leavin\u2019",
-      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
-    },
-    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "Lavender Days",
@@ -675,6 +655,26 @@
       "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "A Lesson In Leavin'",
+        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 204603,
+      "name": "A Lesson In Leavin\u2019",
+      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Find Your People",
+        "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Find Your People",
+      "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Find Your People",
-        "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Find Your People",
-      "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
     },
     {
       "added_at": "2025-08-22 00:01:30",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
-      "added_at": "2025-08-14 17:11:47",
-      "album": {
-        "name": "Winchester Mansion of Sound",
-        "url": "https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 288883,
-      "name": "Winchester Mansion of Sound",
-      "url": "https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq"
-    },
-    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "Misty Morning",
@@ -1285,20 +1269,20 @@
       "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
     },
     {
-      "added_at": "2025-07-11 04:00:29",
+      "added_at": "2025-08-14 17:11:47",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+        "name": "Winchester Mansion of Sound",
+        "url": "https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+      "duration_ms": 288883,
+      "name": "Winchester Mansion of Sound",
+      "url": "https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Mean Old Sun",
         "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 248706,
       "name": "Mean Old Sun",
       "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Visions of Dallas",
-        "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Visions of Dallas",
-      "url": "https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Visions of Dallas",
+        "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Visions of Dallas",
+      "url": "https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Where My Wild Things Are",
         "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
       },
@@ -1381,10 +1381,10 @@
       "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
     },
     {
-      "added_at": "2025-07-11 04:00:29",
+      "added_at": "2025-08-22 00:01:30",
       "album": {
-        "name": "Save Your Soul / Say Goodbye, Tell No One",
-        "url": "https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ"
+        "name": "Billionaire",
+        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
         }
       ],
-      "duration_ms": 212120,
-      "name": "Save Your Soul",
-      "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
+      "duration_ms": 250200,
+      "name": "Billionaire",
+      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1461,10 +1461,10 @@
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
-      "added_at": "2025-08-22 00:01:30",
+      "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Billionaire",
-        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
+        "name": "Save Your Soul / Say Goodbye, Tell No One",
+        "url": "https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Billionaire",
-      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
+      "duration_ms": 212120,
+      "name": "Save Your Soul",
+      "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 374834,
       "name": "This Ain't It",
       "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
     },
     {
       "added_at": "2025-07-11 04:00:29",

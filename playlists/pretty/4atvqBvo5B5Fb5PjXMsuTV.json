@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Sep 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Sep 22:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUhSlghE8T2UP640uySPGgVVZAS3rD",
+  "snapshot_id": "AAAUh8nC7zP7cdQU43+qZqSbG6e9DFQ7",
   "tracks": [
     {
       "added_at": "2025-09-05 18:04:48",
@@ -135,6 +135,22 @@
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/6VlV6vwhHedxxBumKM5J4s"
+    },
+    {
+      "added_at": "2025-09-06 22:04:57",
+      "album": {
+        "name": "Back to Forgetting",
+        "url": "https://open.spotify.com/album/3EraXHphkdhNQfYivIaVY0"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "duration_ms": 154607,
+      "name": "Back to Forgetting",
+      "url": "https://open.spotify.com/track/79Z2Iy4mziYk7gvl2bTbny"
     },
     {
       "added_at": "2025-09-06 03:04:00",
@@ -289,7 +305,7 @@
         }
       ],
       "duration_ms": 156296,
-      "name": "Locked & Loaded - Official Fortnite Anthem",
+      "name": "Locked & Loaded (Official Fortnite Anthem)",
       "url": "https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom"
     },
     {
@@ -839,22 +855,6 @@
       "duration_ms": 212653,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/218P4brorJq8BLcyzconqS"
-    },
-    {
-      "added_at": "2025-08-28 22:06:07",
-      "album": {
-        "name": "Bound2U",
-        "url": "https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 176612,
-      "name": "Bound2U",
-      "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
     }
   ],
   "unique_name": "New Singles Now",

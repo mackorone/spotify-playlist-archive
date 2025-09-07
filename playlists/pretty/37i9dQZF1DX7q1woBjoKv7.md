@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Curated by: <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,655 likes - 52 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,668 likes - 52 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

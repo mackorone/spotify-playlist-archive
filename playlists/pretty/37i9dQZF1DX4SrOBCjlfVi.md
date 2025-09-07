@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Drake & PARTYNEXTDOOR, Don Toliver, Latto and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,685 likes - 48 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,781 likes - 48 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 15 | [pogo](https://open.spotify.com/track/6WxPRJbuoDNUsah6Mx21wg) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [pogo](https://open.spotify.com/album/4k1xFPlZamMmxDjOp5LvhJ) | 2:10 |
 | 16 | [Too Much Lick Her](https://open.spotify.com/track/1xMDoSwVTt1BRirlyhHBxV) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Too Much Lick Her](https://open.spotify.com/album/1lGeNisldfwxUNyaYnkpO7) | 3:17 |
 | 17 | [GTW2U](https://open.spotify.com/track/6pM75jYYY0aqov2p0ovWUQ) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [GTW2U](https://open.spotify.com/album/7AWI6d3JtVLGrXEZcpoLsZ) | 2:00 |
-| 18 | [Bolaji](https://open.spotify.com/track/7kMjH87CnhyoA25KieDB05) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Bolaji](https://open.spotify.com/album/5lrGVnEe6VyPzwXfGkDUif) | 2:46 |
+| 18 | [Bolaji](https://open.spotify.com/track/7kMjH87CnhyoA25KieDB05) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Bolaji](https://open.spotify.com/album/5lrGVnEe6VyPzwXfGkDUif) | 2:31 |
 | 19 | [Traumatized Child](https://open.spotify.com/track/2keftNUU8Jg40IurqFOFRX) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Traumatized Child](https://open.spotify.com/album/4inYwZ5wTeBPdGVYAmCs5N) | 2:48 |
 | 20 | [Blood On My Knife](https://open.spotify.com/track/613UsCBkeZyE2noZga8pwc) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [2DEAD BOYZ](https://open.spotify.com/artist/4JuXkitoXoAUH9cLRjVOre) | [Blood On My Knife](https://open.spotify.com/album/4vqkIOJ5IIM7r5hJdReGkL) | 2:16 |
 | 21 | [ANNIE.](https://open.spotify.com/track/73vcLsWOQkvhXvhqYFVgvE) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [ANNIE.](https://open.spotify.com/album/5rJLKmQFXObO0gGRJGuNiO) | 2:35 |

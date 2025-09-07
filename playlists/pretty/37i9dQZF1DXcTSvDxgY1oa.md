@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Syot
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854 likes - 93 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 93 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 28 | [Dom Doen](https://open.spotify.com/track/6fWOe3X6TtsOcBjmE38bSk) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Dom Doen](https://open.spotify.com/album/2WMtQfA6ZHRhdVTYL904tq) | 2:06 |
 | 29 | [Nightmare$](https://open.spotify.com/track/7kbbzpV34lJ2ESBrluZcTL) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Nightmare$](https://open.spotify.com/album/10bJOsNcNWOBqvRvICq33Q) | 2:06 |
 | 30 | [Muurvast](https://open.spotify.com/track/5zN47NfLOAxBfWoE0tIvqT) | [Grote Geelstaart](https://open.spotify.com/artist/4KebXdedNLEtwiS4T1SAR1) | [Muurvast](https://open.spotify.com/album/2YZPcDxaUMzrNCvn4FovNq) | 5:46 |
-| 31 | [Filthy Hands](https://open.spotify.com/track/52aY4b5OXg0Icy9Lj5Oc7h) | [C’est Qui](https://open.spotify.com/artist/4cRXQa0vnWYuylmWS79lqT) | [Girls to the Front](https://open.spotify.com/album/0zCrbCPdiTRUkLLT5z0HmB) | 2:12 |
-| 32 | [Dopamine](https://open.spotify.com/track/6twfj64yWVPf00VvpVnQQc) | [Warbuhl](https://open.spotify.com/artist/4hR2ws3f1xK79lADUBCc38) | [Dopamine](https://open.spotify.com/album/5ss71IJPLmogSbrXmI9bV4) | 2:55 |
+| 31 | [Dopamine](https://open.spotify.com/track/6twfj64yWVPf00VvpVnQQc) | [Warbuhl](https://open.spotify.com/artist/4hR2ws3f1xK79lADUBCc38) | [Dopamine](https://open.spotify.com/album/5ss71IJPLmogSbrXmI9bV4) | 2:55 |
+| 32 | [Filthy Hands](https://open.spotify.com/track/52aY4b5OXg0Icy9Lj5Oc7h) | [C’est Qui](https://open.spotify.com/artist/4cRXQa0vnWYuylmWS79lqT) | [Girls to the Front](https://open.spotify.com/album/0zCrbCPdiTRUkLLT5z0HmB) | 2:12 |
 | 33 | [Chew](https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm) | [Bad Luck Baby](https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn) | [Burn It](https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM) | 3:49 |
 | 34 | [Use Me, Darling](https://open.spotify.com/track/7fBRooTzTLU4OMfZTA09pv) | [Dear Omen](https://open.spotify.com/artist/3jZaVUML78O4diJtPEmPbP) | [The S Tapes](https://open.spotify.com/album/5CTp9d48vHsPdjGLWt4VTZ) | 3:57 |
 | 35 | [The Puppet](https://open.spotify.com/track/7naZ7ZEhzqvBjvte3J15aw) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [The Puppet](https://open.spotify.com/album/5iTusNNEq8cTdJeWktMfdO) | 2:42 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 38 | [Like Her](https://open.spotify.com/track/6FhWIHut9fb3hMHniCD4ei) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [Like Her](https://open.spotify.com/album/2YOH02gLy3eKZaQL88EsaN) | 2:44 |
 | 39 | [Hare In The Haze](https://open.spotify.com/track/2NXbXfOzOH2Xnrpgd0mb9e) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [Hare In The Haze](https://open.spotify.com/album/3s6HKOzR1fLxr6HGHGeXzJ) | 4:05 |
 | 40 | [Compadres](https://open.spotify.com/track/2qImlTzObP8el5dkXXnlmP) | [Kalima](https://open.spotify.com/artist/57oQQfYfgpDtJZD618GZbZ) | [Compadres](https://open.spotify.com/album/0V5aiEGXp8wNlNcShEio2T) | 4:45 |
-| 41 | [Corner](https://open.spotify.com/track/5BcafRViQAKUv3E1zpzDlC) | [Death Sells](https://open.spotify.com/artist/46RqXRTuw8zLluwycbGQG7) | [Corner](https://open.spotify.com/album/1pblLSMlz2fxr8XSc5CUEd) | 1:51 |
-| 42 | [vissenkom](https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [vissenkom](https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV) | 3:40 |
+| 41 | [vissenkom](https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [vissenkom](https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV) | 3:40 |
+| 42 | [Corner](https://open.spotify.com/track/5BcafRViQAKUv3E1zpzDlC) | [Death Sells](https://open.spotify.com/artist/46RqXRTuw8zLluwycbGQG7) | [Corner](https://open.spotify.com/album/1pblLSMlz2fxr8XSc5CUEd) | 1:51 |
 | 43 | [Oh Baby Please](https://open.spotify.com/track/6SZlairyNEuEv03oZRdwu6) | [Laplander](https://open.spotify.com/artist/4zjkhcJpqrtUWrY71xZvk0) | [Oh Baby Please](https://open.spotify.com/album/5N5UWwnk0a1Dd6I1XpMEom) | 3:34 |
 | 44 | [Ogen Vol Liefde \(Nah Nah Oh\)](https://open.spotify.com/track/73U8bq3I6Fa63rCqTQyuy0) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Ogen Vol Liefde \(Nah Nah Oh\)](https://open.spotify.com/album/5ZKENzPM2KKXCXi5SKmoJW) | 3:13 |
 | 45 | [Horizon](https://open.spotify.com/track/0GzXJ8VIHDL4m4dHVK59Ir) | [Heijmat](https://open.spotify.com/artist/3GEzxiBIFJaEK3Y5Ozl60J), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Horizon](https://open.spotify.com/album/045Nszi2DDtaLIXdI6a3DC) | 4:41 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 59 | [short answers, quick messages](https://open.spotify.com/track/5idnCP5skXPpkgqYUuzRMO) | [SERVICE](https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY) | [short answers, quick messages](https://open.spotify.com/album/5jBX8bBMjmSCBY97jTCdsH) | 3:41 |
 | 60 | [Autofellatio](https://open.spotify.com/track/5g2gu1yzJ3jYQuIdEfWD3P) | [Fellatio](https://open.spotify.com/artist/6ZZjX94x3t55GigdSiidr4) | [Autofellatio](https://open.spotify.com/album/6obAqJ7a59OwnG9TcYnusf) | 2:44 |
 | 61 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 |
-| 62 | [Not That Deep](https://open.spotify.com/track/3p9fESJ7NQuTymS0Qqclyc) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [Not That Deep](https://open.spotify.com/album/1i0Yk07fWVnBlOfnDmRdpn) | 3:35 |
-| 63 | [Abigaïl](https://open.spotify.com/track/20TNMClcKfd2YCtlHNMu2q) | [Helen Jewett](https://open.spotify.com/artist/36cID5OLWLp4SzVn9g4kiF) | [Astrolabium](https://open.spotify.com/album/5QSbJFB8m77WctR3Dz6Ipg) | 3:33 |
-| 64 | [Ik Praat Met De Sterren](https://open.spotify.com/track/60bWRPFDzNVl62huWvbw4A) | [Emirhan X](https://open.spotify.com/artist/1R6xxe3w9F1FPDoUqT2SLc) | [Ik Praat Met De Sterren](https://open.spotify.com/album/4EoNmQLhCDZR5zwFcmoJz4) | 5:12 |
+| 62 | [Ik Praat Met De Sterren](https://open.spotify.com/track/60bWRPFDzNVl62huWvbw4A) | [Emirhan X](https://open.spotify.com/artist/1R6xxe3w9F1FPDoUqT2SLc) | [Ik Praat Met De Sterren](https://open.spotify.com/album/4EoNmQLhCDZR5zwFcmoJz4) | 5:12 |
+| 63 | [Not That Deep](https://open.spotify.com/track/3p9fESJ7NQuTymS0Qqclyc) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [Not That Deep](https://open.spotify.com/album/1i0Yk07fWVnBlOfnDmRdpn) | 3:35 |
+| 64 | [Abigaïl](https://open.spotify.com/track/20TNMClcKfd2YCtlHNMu2q) | [Helen Jewett](https://open.spotify.com/artist/36cID5OLWLp4SzVn9g4kiF) | [Astrolabium](https://open.spotify.com/album/5QSbJFB8m77WctR3Dz6Ipg) | 3:33 |
 | 65 | [Metaphor](https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC) | [Rockpool Dramas](https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq) | [Metaphor](https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5) | 2:48 |
 | 66 | [PICTURE PERFECT](https://open.spotify.com/track/1iBPVg9hGfRNuI6zlxPAnW) | [Trxnz](https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm) | [PICTURE PERFECT](https://open.spotify.com/album/6uwAmMJ4xRanLbu37BTkEO) | 3:10 |
 | 67 | [Alice](https://open.spotify.com/track/1Wm68cRdZHZclVWgowByub) | [MAYA MARIA](https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy) | [Alice](https://open.spotify.com/album/2YOVFeQhCUQgCPEyhkDLfU) | 2:18 |
-| 68 | [Learning To Live Without You](https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2) | [Nora Carli](https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD) | [Learning To Live Without You](https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt) | 3:23 |
-| 69 | [Lonely Part Of Me](https://open.spotify.com/track/1B2SEsITGnyID7NI7HJIKA) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Lonely Part Of Me](https://open.spotify.com/album/4LCVhpY0194Ei335gTSxIu) | 3:19 |
+| 68 | [Lonely Part Of Me](https://open.spotify.com/track/1B2SEsITGnyID7NI7HJIKA) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Lonely Part Of Me](https://open.spotify.com/album/4LCVhpY0194Ei335gTSxIu) | 3:19 |
+| 69 | [Learning To Live Without You](https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2) | [Nora Carli](https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD) | [Learning To Live Without You](https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt) | 3:23 |
 | 70 | [Feel The Pain](https://open.spotify.com/track/4JYzuJltpHHRQAhEtvC0zs) | [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj), [Karbid](https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l) | [Feel The Pain](https://open.spotify.com/album/0qSeZDreT0DBBghTv3gEiq) | 2:39 |
 | 71 | [Best Of You](https://open.spotify.com/track/7KzSKuXnthKDtGYg7ect4H) | [M.J.H\. Thompson](https://open.spotify.com/artist/4TNkOQJXNDKpFwVKjxMPf7), [Volksorkest](https://open.spotify.com/artist/4MPHOJhPo3RfssSblZ7Wl2) | [Best Of You](https://open.spotify.com/album/6m0TUbG4smeIIud4CxRROT) | 2:49 |
 | 72 | [Moulin Rouge](https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Moulin Rouge](https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys) | 3:11 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 76 | [Life After October](https://open.spotify.com/track/61B9mWWYLEySxGkDP798De) | [Mazis](https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg) | [Life After October](https://open.spotify.com/album/0L2ebjvTULHPwmBNCP9nU4) | 3:01 |
 | 77 | [HAMERTJE TIK](https://open.spotify.com/track/0OIITNnEeplZ0wxSSYYVn0) | [Thor Kissing](https://open.spotify.com/artist/6aYMaD2LzJWHYmR6bxeM0v) | [WINDKRACHT TIEN](https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y) | 2:31 |
 | 78 | [I Won't Back Down](https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh) | [I Won't Back Down](https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu) | 3:19 |
-| 79 | [Odo](https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t) | [JUNO](https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z) | [Laura](https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ) | 4:11 |
-| 80 | [Tanjiro](https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB) | [FAMKE](https://open.spotify.com/artist/554ztB5FNpDfdPmHYf59w3) | [Tanjiro](https://open.spotify.com/album/5IDIwsUx4ts2YqG3z8ftDY) | 2:21 |
+| 79 | [Tanjiro](https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB) | [FAMKE](https://open.spotify.com/artist/554ztB5FNpDfdPmHYf59w3) | [Tanjiro](https://open.spotify.com/album/5IDIwsUx4ts2YqG3z8ftDY) | 2:21 |
+| 80 | [Odo](https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t) | [JUNO](https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z) | [Laura](https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ) | 4:11 |
 | 81 | [FIG\. 1](https://open.spotify.com/track/6ICmQGDSTamENZuRIZ4mHK) | [Figi](https://open.spotify.com/artist/73HGx0Dd0nECcObZ70vtTx) | [Fig\. 1](https://open.spotify.com/album/2MSI3nQKHjmwpMlDJOfr9m) | 4:38 |
 | 82 | [No One Leaves Without Saying Goodbye](https://open.spotify.com/track/7zny72BKyflB9EJ0G4kwQP) | [Honey Camp](https://open.spotify.com/artist/4IUuubcdMywrkSCalmf0Um) | [No One Leaves Without Saying Goodbye](https://open.spotify.com/album/5boez4TwIfpACortOOLdYJ) | 4:03 |
 | 83 | [Bust a Move](https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7) | [STROOMSTOOT](https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi) | [Bust a Move](https://open.spotify.com/album/24ksVM6aYcWH9xEHnqTHka) | 2:57 |

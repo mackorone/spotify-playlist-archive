@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7aH17k60Q9v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7aH17k60Q9v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7aH17k60Q9v)
 
-### [Garnachas](https://open.spotify.com/playlist/37i9dQZF1DX7aH17k60Q9v)
+### [Chile En Nogada](https://open.spotify.com/playlist/37i9dQZF1DX7aH17k60Q9v)
 
-> Con todo el sabor de la vitamina G.
+> De Puebla para el mundo, disfruta de esta selección musical con sabor a México.
 
 266 songs - 14 hr 33 min
 

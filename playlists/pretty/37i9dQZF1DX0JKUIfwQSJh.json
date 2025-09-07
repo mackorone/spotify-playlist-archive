@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 938746,
+  "num_followers": 939075,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
+        "name": "McCartney (Special Edition)",
+        "url": "https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
         "name": "Acoustic Classics",
         "url": "https://open.spotify.com/album/0mdNFhL4wFRkM1RK0mekqH"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 309760,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/3bhgNgvkuYUpvT3Aa8nobd"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
-        "name": "In My Own Time",
-        "url": "https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Something On Your Mind",
-      "url": "https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,145 likes - 60 songs - 3 hr 17 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,144 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
-| 2 | [Better days](https://open.spotify.com/track/1lfcqRvYm1r8OieBMNwgSr) | [EVΞRSS](https://open.spotify.com/artist/4Eg1QlG21DcxSBoLg9eRAY), [Arcadia 87](https://open.spotify.com/artist/2jpmNgnkk4qMIB153BRLfT), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Better days](https://open.spotify.com/album/4eerkYPr8sRneKaF9ODWE5) | 3:54 |
+| 2 | [Better days](https://open.spotify.com/track/1lfcqRvYm1r8OieBMNwgSr) | [EVERSS](https://open.spotify.com/artist/12a2buyQmgUAKYPOZD4VZE), [Arcadia 87](https://open.spotify.com/artist/2jpmNgnkk4qMIB153BRLfT), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Better days](https://open.spotify.com/album/4eerkYPr8sRneKaF9ODWE5) | 3:54 |
 | 3 | [Escape Your Love](https://open.spotify.com/track/6oeKmWIUVS1rqetiZrpdad) | [Neo Paulex](https://open.spotify.com/artist/6faRlzpCvpgCEFetNRxC0R) | [Escape Your Love](https://open.spotify.com/album/5fUt4jP1XipwjL3ogFvSdm) | 2:59 |
 | 4 | [Time Is Now](https://open.spotify.com/track/6O2auV2prjJjJBSvPHnqm8) | [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC) | [Time Is Now](https://open.spotify.com/album/2DBJSfd9Z4fCNW72wmWpYt) | 3:12 |
 | 5 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 |

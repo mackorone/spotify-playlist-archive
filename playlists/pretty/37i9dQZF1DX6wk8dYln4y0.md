@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > music that just \*hits different\* Cover: Darcie Haven
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,908 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,854 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 79 | [Cry Cry Cry](https://open.spotify.com/track/7khKM6qJ3Yg48VOxLVoKNj) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cry Cry Cry](https://open.spotify.com/album/3VqLwj6IxrX2XYXU8XHI4F) | 2:58 |
 | 80 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 |
 
-Snapshot ID: `AAAAAHl6NGhmEXuBL0xcEba9ohLeGnQO`
+Snapshot ID: `AAAAAD62kWvOoVfo78p2MbfcQsX4B/kc`

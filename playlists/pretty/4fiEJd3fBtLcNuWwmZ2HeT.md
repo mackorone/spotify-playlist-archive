@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 337 songs - 19 hr 6 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 338 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -345,5 +345,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 335 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 336 | [Memento mori](https://open.spotify.com/track/7oiupGD4I9Qq3d9fvWq3iq) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 5:30 |
 | 337 | [Marionette](https://open.spotify.com/track/6yrpCHRQ3ToeqhuT9L1il9) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 3:53 |
+| 338 | [Après Midi あるパリの午後で](https://open.spotify.com/track/1NzZbipnZxnXkQiMvBqF1O) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Après Midi あるパリの午後で](https://open.spotify.com/album/6fz8W3GN3EelNG8EKo19Jk) | 5:21 |
 
-Snapshot ID: `AAAJRKoFxW7WhvF6c6GIlLCRWANseZtN`
+Snapshot ID: `AAAJRSHFCn3bhWQJD9bGdEhk2E7xh00k`

@@ -4,11 +4,12 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-181 songs - 11 hr 18 min
+182 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-03-31 | 2023-06-24 |
+| [8 Goin' South](https://open.spotify.com/track/6MTpSIDkEeWFhrKXcv0qCf) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB) | [Devil's Train](https://open.spotify.com/album/0mozxaIy7jtpKgjFiYp27x) | 4:01 | 2025-09-05 |  |
 | [Alabama Blues](https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 3:14 | 2020-08-11 | 2024-04-19 |
 | [Alabama Blues](https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Passionate Blues](https://open.spotify.com/album/7gmDAUOzdSNJf0x8HEhRFh) | 3:14 | 2020-08-11 |  |
 | [All True Man](https://open.spotify.com/track/2razQWxhIPRTNHpUl59uuX) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/67GlTIuBHpF1BIHuZvqAjl) | 4:04 | 2021-02-05 | 2024-04-19 |
@@ -133,7 +134,7 @@
 | [Quarter On The Ground \( A Song For Uncle Joe\)](https://open.spotify.com/track/6qDDv9vMjxxmhc4Jqh8nbL) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Free Man/Quarter On The Ground](https://open.spotify.com/album/0qzSJZMuzzsPC6zQUVSx5g) | 3:36 | 2020-08-11 |  |
 | [Quarter on the Ground \(A Song for Uncle Joe\)](https://open.spotify.com/track/3sqmtKa1JwnAxLJFkmOQIf) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:36 | 2020-08-11 | 2024-04-19 |
 | [Rank Strangers](https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:27 | 2022-07-29 |  |
-| [Ratchet Blues](https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB) | [Sticks and Stones](https://open.spotify.com/album/4Q5SP0bw5Qz9Ory2DxXsif) | 1:39 | 2020-08-11 |  |
+| [Ratchet Blues](https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB) | [Sticks and Stones](https://open.spotify.com/album/4Q5SP0bw5Qz9Ory2DxXsif) | 1:39 | 2020-08-11 | 2025-09-07 |
 | [Ratchet Blues](https://open.spotify.com/track/0647hHN3O8D0OuOQFpfuuU) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB), [Big Motor](https://open.spotify.com/artist/13xEB2Ahsm3Gl6rFLKFqbA) | [Sticks and Stones](https://open.spotify.com/album/2dlPRyDPSkFzbEaHoGqkPt) | 1:39 | 2020-08-11 | 2024-04-19 |
 | [Refugee Moan](https://open.spotify.com/track/519peDYoPxR11QfcNJajXW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Migration Blues](https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2) | 3:06 | 2020-08-11 |  |
 | [Refugee Moan](https://open.spotify.com/track/6sN9oWUODtTqbOKSIZ7K7d) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Migration Blues](https://open.spotify.com/album/6zGiiAgHy41gVLOkhub2at) | 3:06 | 2020-08-11 | 2024-04-19 |

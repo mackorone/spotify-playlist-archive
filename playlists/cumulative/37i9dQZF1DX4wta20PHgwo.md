@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-521 songs - 1 day 22 hr 54 min
+522 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bird On The Wire](https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 3:46 | 2022-10-20 | 2023-01-11 |
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2020-05-02\* | 2021-09-01 |
 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-07-21 | 2024-04-19 |
-| [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 | 2022-02-17 |  |
+| [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 | 2022-02-17 | 2025-09-07 |
 | [Blessed Feet](https://open.spotify.com/track/28c3mdtZCEXpdIQ85pWolU) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/1vKKuJsLK9uzYH7QybxBSA) | 6:04 | 2020-05-02\* | 2022-06-24 |
 | [Blessed Feet](https://open.spotify.com/track/7fZkH2fvvbUKhj00jexDtz) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 6:04 | 2022-07-21 | 2024-04-19 |
 | [Blue and Sentimental](https://open.spotify.com/track/35QqECQ42isDX5YsVujptz) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [In Bed with Jazz](https://open.spotify.com/album/1Ky3SKdK5PPWYueOEDkSHa) | 2:26 | 2020-05-02\* | 2022-07-29 |
@@ -145,6 +145,7 @@
 | [Ensenada](https://open.spotify.com/track/4KBULZasCMBDKHY8IPUCML) | [Bennie Maupin](https://open.spotify.com/artist/2mv4xHxofvyWTp2ViBqgZb) | [The Jewel In The Lotus](https://open.spotify.com/album/1Na5QsavsjOUqtj4f4Bxn1) | 8:15 | 2020-06-12 | 2020-10-27 |
 | [Estate](https://open.spotify.com/track/24LT1VWXn3MD0kpNZGzaQB) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Brazilian Moods](https://open.spotify.com/album/2ziQ6aTPa4e99ZRJJUkO62) | 5:15 | 2023-02-12 | 2024-04-19 |
 | [Estate](https://open.spotify.com/track/6xR0WAHOMfSdXfB8Ba9rmK) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Estate](https://open.spotify.com/album/1fr7A0vA1GCoT0gYVzNxjr) | 5:15 | 2022-09-08 | 2022-11-07 |
+| [Estate](https://open.spotify.com/track/2WbI91qUJxE11MaCPnDXwz) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [ITALIA](https://open.spotify.com/album/1Epbj3Z3J921lJmKhetc6n) | 5:30 | 2025-09-05 |  |
 | [Evening Song](https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Evening Song](https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW) | 2:47 | 2024-03-08 | 2025-08-24 |
 | [Evermore](https://open.spotify.com/track/6m4CKe57wo7iKFqdx4k45B) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Kinds of Love](https://open.spotify.com/album/67gSqihoAVZyWcTzIRpiPR) | 7:29 | 2022-07-21 | 2024-04-19 |
 | [Evermore](https://open.spotify.com/track/7hmThOcToWSIo0CKZqZdfX) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Evermore](https://open.spotify.com/album/5Sv7HWRoP0dOKiWidRllor) | 7:29 | 2021-08-07 | 2024-10-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Chloe Moriondo is tonight's main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,350 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,450 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 5 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 |
 | 6 | [UGGs In The Club](https://open.spotify.com/track/14k1mHO8lm2afn9uf6W1XK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [UGGS In The Club](https://open.spotify.com/album/39BuYi91tNRLIKZvW1uttv) | 2:10 |
 | 7 | [More](https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [More](https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f) | 3:24 |
-| 8 | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
+| 8 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
 | 9 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
 | 10 | [World’s Smallest Violin](https://open.spotify.com/track/0O58EzrtVcjP0XLXnyKTXR) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
 | 11 | [Top Down](https://open.spotify.com/track/4Ds9ilNivooMdSkTyovjJr) | [3Quency](https://open.spotify.com/artist/0Im6nZsuvL1W8yJg39xROA) | [Top Down](https://open.spotify.com/album/3Yis6ZkwZakLeaXW8wpPfM) | 2:10 |

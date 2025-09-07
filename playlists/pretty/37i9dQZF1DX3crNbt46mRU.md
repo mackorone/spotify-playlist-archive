@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lady Gaga, Nickless, Hava and Dardan, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,255 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,256 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 26 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 |
 | 27 | [PICCOLA \(feat\. Piccolo & thasup\)](https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:29 |
 | 28 | [Ljubavi](https://open.spotify.com/track/2hTQGcjDVpgJNgN1SQMGvg) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Ljubavi](https://open.spotify.com/album/6zdyf58Jc0xBolxntserj9) | 1:45 |
-| 29 | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
+| 29 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
 | 30 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 |
 | 31 | [Dalla mia parte](https://open.spotify.com/track/5POSEqaf7H7Zus4KF66QkG) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Dalla mia parte](https://open.spotify.com/album/2hThH9RV4VpTcoWVo7Ap8Y) | 3:22 |
 | 32 | [me & my mind](https://open.spotify.com/track/17QuR0NfMTdIVFDLkH2L8f) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [me & my mind](https://open.spotify.com/album/0hLIANsw1QriEKzTipziSN) | 2:25 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 47 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 |
 | 48 | [4000 Grad](https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [4000 Grad](https://open.spotify.com/album/2lkXbUhpicIypWig96Sa4P) | 2:23 |
 | 49 | [LOVE ME \(feat\. Jamule\)](https://open.spotify.com/track/3IVG2BupoBaOqOG9xXN42o) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [LOVE ME \(feat\. Jamule\)](https://open.spotify.com/album/31c7KpFxoOGAUlKg8M6jXi) | 3:29 |
-| 50 | [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
+| 50 | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 |
 | 51 | [Null Grad](https://open.spotify.com/track/6GlQHaVQJSGJytx0BvDqAi) | [GLIMMERR](https://open.spotify.com/artist/14XQ2jMvDaRdt8wicnAdIA) | [Null Grad](https://open.spotify.com/album/4egioswSPcONBenQ1k7Ykp) | 3:29 |
 | 52 | [Nur wenn](https://open.spotify.com/track/28iR0Uen0UwVD5XeDiP0W4) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Nur wenn](https://open.spotify.com/album/25WPxK5pBvSuN5AvClVeWa) | 2:34 |
 | 53 | [Nothing lasts forever](https://open.spotify.com/track/2GDDNbGKScs6UcJedN1467) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Nothing Lasts Forever](https://open.spotify.com/album/3iBun5485cEkJAndXOOedb) | 2:57 |

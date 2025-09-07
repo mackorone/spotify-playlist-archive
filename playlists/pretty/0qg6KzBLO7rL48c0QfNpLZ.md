@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,189 likes - 114 songs - 4 hr 58 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,180 likes - 114 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 12 | [Endless](https://open.spotify.com/track/768sW21QQtCKYrFyeh8iTV) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Endless](https://open.spotify.com/album/271M2tdfzgUzCacEYBQCDM) | 2:11 |
 | 13 | [Falling Down](https://open.spotify.com/track/6KlYvM0bBaK3f9O0jYjY08) | [LEDUC](https://open.spotify.com/artist/0PX2pq6qcOfKp3NQOJMGvz), [Rhode](https://open.spotify.com/artist/1LtUac1lHPkADqQw5ZuLwv) | [Falling Down](https://open.spotify.com/album/3GWowFmJvNuoeJRfZv0zWC) | 3:00 |
 | 14 | [Walking On A Dream](https://open.spotify.com/track/7xpVlbOvon6VW0SYdP7gPQ) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Walking On A Dream](https://open.spotify.com/album/587OVLVoOTdt4pLrtePEZM) | 2:34 |
-| 15 | [my excuses](https://open.spotify.com/track/3ZX4O3L3CUR80V56Zm17Yp) | [OMERGY](https://open.spotify.com/artist/32Y9uYyaQUetwzraaVE1SU), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb), [alone away](https://open.spotify.com/artist/38GwH3SuuIwgTPjBJs1Bd2) | [my excuses](https://open.spotify.com/album/2Sfr878g8clUmalVkcoDLd) | 2:51 |
+| 15 | [my excuses](https://open.spotify.com/track/3ZX4O3L3CUR80V56Zm17Yp) | [OMERGY](https://open.spotify.com/artist/32Y9uYyaQUetwzraaVE1SU), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb), [alone away](https://open.spotify.com/artist/38GwH3SuuIwgTPjBJs1Bd2) | [my excuses](https://open.spotify.com/album/2Sfr878g8clUmalVkcoDLd) | 2:38 |
 | 16 | [Sunrise Never Fades](https://open.spotify.com/track/6vhw0efqorXdcnnxg9gXpz) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Sunrise Never Fades](https://open.spotify.com/album/6BacM7DiMnwlZKkLPCRIwD) | 2:20 |
 | 17 | [Need Your Love](https://open.spotify.com/track/04E4i06bBUzb7wWAaRdl9X) | [IVANA](https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N) | [Need Your Love](https://open.spotify.com/album/3rrY2WE3YpBPJRvK5piq0x) | 2:33 |
 | 18 | [Fire](https://open.spotify.com/track/5VWmalHBOhuSonWy5SGNQX) | [Juron Cole](https://open.spotify.com/artist/0zRN5gl7c9aSk5BNie0Kng), [idyllic](https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL) | [Fire](https://open.spotify.com/album/2QQhpqoBrt1liMJwYxCHpD) | 2:05 |

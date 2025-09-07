@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,445 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,499 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 142 | [Cadáver](https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo) | [Stich](https://open.spotify.com/artist/25vFJVrERfAVNDjpLkXGQf) | [Los Jardines de la Memoria](https://open.spotify.com/album/3ppRHbKL2LIxa1JqnJvYiy) | 2:44 |
 | 143 | [Parte de Mi](https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz) | 2:55 |
 | 144 | [Hermanos](https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Hermanos](https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK) | 2:30 |
-| 145 | [no vuelvas a mirar atrás](https://open.spotify.com/track/5TmUCweI7JXVWxn1zHJzyN) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/05bj3fX7Wrs45EBPp35bBQ) | 4:05 |
-| 146 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 |
+| 145 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 |
+| 146 | [no vuelvas a mirar atrás](https://open.spotify.com/track/5TmUCweI7JXVWxn1zHJzyN) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/05bj3fX7Wrs45EBPp35bBQ) | 4:05 |
 | 147 | [Que Pase El Mundo](https://open.spotify.com/track/5s5y1ePaldkSzo4vDeXRkG) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Que Pase El Mundo](https://open.spotify.com/album/091bcMOMnU8MwjwKS92L47) | 3:33 |
 | 148 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 |
 | 149 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 |
-| 150 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 |
+| 150 | [Tan Difícil de Entender](https://open.spotify.com/track/4rdAUffaRjWdjKnpjtM6W5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/1aiX9cvuhGDTTSqCqgyUO7) | 2:05 |
 
-Snapshot ID: `AAAAANKQb3cRn2QKXzlD4l4XoHtwkHzK`
+Snapshot ID: `AAAAAM/1CScFvG4+r6VGlQL7nANHkmPl`

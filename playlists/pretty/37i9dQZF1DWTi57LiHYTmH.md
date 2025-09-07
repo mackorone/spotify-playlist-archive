@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,861 likes - 180 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,956 likes - 180 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 179 | [Children's Album No\. 1 "Pictures of Childhood": No\. 1, Andantino](https://open.spotify.com/track/1xky6QliZ0gPbdnatVdb4Q) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Charlene Farrugia](https://open.spotify.com/artist/1pSsh71dHsWknDZ0It3ziB) | [Khachaturian: 7 Recitatives & Fugues & Children's Albums Nos\. 1 & 2](https://open.spotify.com/album/3umvKIjsD484pa9pCyPK2x) | 1:36 |
 | 180 | [7 Variations on the Air Vien qua, Dorina bella by Bianchi, Op\. 7, J\. 53: Andante](https://open.spotify.com/track/652xAJOQTkyKf7z6YaI1bf) | [Carl Maria von Weber](https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2), [Michael Endres](https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo) | [Weber: Piano Works](https://open.spotify.com/album/6f4WAMLMs6eAJFjesL8FSI) | 1:34 |
 
-Snapshot ID: `AAAAAKHwLetGFw2CAdBWnTH7KN2bXgww`
+Snapshot ID: `AAAAAOA4ptE7Mue9r3e86hxKl8/BJtci`

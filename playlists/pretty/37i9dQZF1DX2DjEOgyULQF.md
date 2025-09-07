@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,992 likes - 146 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,058 likes - 146 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

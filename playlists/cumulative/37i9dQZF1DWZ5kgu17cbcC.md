@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-166 songs - 8 hr 1 min
+167 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2024-01-05 | 2024-07-03 |
 | [Mission Theme Pt\. 1](https://open.spotify.com/track/21YuBNOvbP0ngErkxHgZQ2) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 1:11 | 2024-01-05 |  |
 | [Mollie's Theme](https://open.spotify.com/track/2N5sKIn88pDXB3gWAeEaei) | [Chris Westlake](https://open.spotify.com/artist/0PFGcgMLSV7u8H9J9jQvyD) | [Solar Opposites \(Original Soundtrack\)](https://open.spotify.com/album/6pwUWYDZ0aWo7VhucKafAS) | 1:52 | 2024-01-05 | 2025-05-07 |
+| [Move Your Ass \(105\)](https://open.spotify.com/track/0KsvFLjlp6IVfITeJepeSd) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Alien: Earth \- Ep\. 5 "In Space, No One..." \(Original Soundtrack\)](https://open.spotify.com/album/1OHLhPENTRO35WTRWOcJ2A) | 4:51 | 2025-09-05 |  |
 | [Mr\. Brightside \- From "Tell Me Lies \(Season 2\)"](https://open.spotify.com/track/0BKpJxv5C1L0JINPG60bwE) | [Tell Me Lies – Cast](https://open.spotify.com/artist/1yNSl6gNtJuvKoYx3AHBVC), [Cat Missal](https://open.spotify.com/artist/29XuVn8LxtJPjHOFZm3QiY) | [Mr\. Brightside \[From "Tell Me Lies \(Season 2\)"\]](https://open.spotify.com/album/5umPVgE48qrzCaNNyFs0WD) | 4:07 | 2024-10-17 |  |
 | [My Drunken Irish Dad](https://open.spotify.com/track/6QUdDMJUk3WPh20oYdQyIl) | [Cast \- Family Guy](https://open.spotify.com/artist/5aOEsdRRuHFiPogvSSGvgG) | [The Family Guy 25th Anniversary EP](https://open.spotify.com/album/63Jn82lqo4jOv0jz0HW2gr) | 1:01 | 2024-11-15 |  |
 | [Never Lost](https://open.spotify.com/track/1z3570clQdJByH4SZ5ufst) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [The Greatest Hits \(Original Soundtrack\)](https://open.spotify.com/album/47Lzhr5elVXSdAdsFnQUA7) | 2:45 | 2024-04-12 |  |

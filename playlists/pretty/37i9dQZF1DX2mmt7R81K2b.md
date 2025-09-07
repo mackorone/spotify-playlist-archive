@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,995 likes - 85 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,040 likes - 85 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 84 | [Intermezzo, Op\. 118, No\. 2 \- Live](https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [The Bandwagon](https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG) | 6:39 |
 | 85 | [Moonlight Sonata](https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Impromptu](https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe) | 6:49 |
 
-Snapshot ID: `AAAAAONK71a7UkurPdb7k1VZKEZ2ROkE`
+Snapshot ID: `AAAAAAJhlJ/D1N6/xqLb6uSKrqJpGyqI`

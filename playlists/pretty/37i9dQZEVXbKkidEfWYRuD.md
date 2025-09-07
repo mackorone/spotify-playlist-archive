@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,781 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,800 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 | 49 | [Ніч](https://open.spotify.com/track/3WXKnok5czWW1veDyPyFD7) | [Amaya Roma](https://open.spotify.com/artist/7rtXdi7EjoMglIu83MyGAM) | [Ніч](https://open.spotify.com/album/4UghF6I0CbBsyGrPKkwGI2) | 2:46 |
 | 50 | [кхм\-кхм](https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [позорники в прямом эфире](https://open.spotify.com/album/4FBGAhGDpokjezkHBYIL9S) | 2:02 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,822 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,884 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Melzinho](https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB) | [Talita Mel](https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Na Pegada da Talita](https://open.spotify.com/album/2d16MsbSMtv2snzc2FPwsg) | 2:24 |
 | 50 | [Cara da Serenata \- Live](https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac) | [Cara da Serenata \(Live\)](https://open.spotify.com/album/1YqY9DLfFigKwnM8UCEoL9) | 2:14 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`

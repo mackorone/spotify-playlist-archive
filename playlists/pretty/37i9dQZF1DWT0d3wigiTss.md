@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,155 likes - 300 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,252 likes - 300 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 113 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 |
 | 114 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 |
 | 115 | [Falling Rain](https://open.spotify.com/track/6r42paRO1a3ReJusTZC5MU) | [Medi Rela](https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho) | [Falling Rain](https://open.spotify.com/album/2NuNso3u2XmWzBdT9os76E) | 2:29 |
-| 116 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
+| 116 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
 | 117 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 |
 | 118 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 |
 | 119 | [Lincoln Way Rain](https://open.spotify.com/track/1JWlvNpLfNzUADfdGxIWeV) | [Granular FX](https://open.spotify.com/artist/6SVaii2FdnEI4ssRydFvmu) | [San Fran Rain](https://open.spotify.com/album/6lYjuIVLa2ZpjUtNO6qwWR) | 2:35 |

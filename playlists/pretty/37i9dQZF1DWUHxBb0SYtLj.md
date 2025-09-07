@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Mimì
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,229 likes - 67 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,232 likes - 67 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

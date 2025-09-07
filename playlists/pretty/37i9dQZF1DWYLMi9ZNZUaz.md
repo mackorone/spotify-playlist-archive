@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Nguyên team hệ<a href="https://open.spotify.com/presents/vietspirit"> chiến binh</a> <br/>như RHYDER  đi vào đây hết!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,212 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,272 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3X BBB \(Tripple Bad\) \- Raw](https://open.spotify.com/track/6lH5eHNkpOHxZ5Q9rz1CNu) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [3X BBB \(Tripple Bad\)](https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk) | 3:04 | 2025-09-05 |  |
+| [3X BBB \(Tripple Bad\) \- Raw](https://open.spotify.com/track/6lH5eHNkpOHxZ5Q9rz1CNu) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [3X BBB \(Tripple Bad\)](https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk) | 3:04 | 2025-09-05 |  |
 | [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 | 2025-06-13 | 2025-06-28 |
 | [4K](https://open.spotify.com/track/3mOCwviB4SECwMyUf09AVi) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [DUSTY PARK LANE](https://open.spotify.com/album/4wJXpZbmlYnKqu2s4NCERa) | 3:19 | 2025-03-28 | 2025-04-12 |
 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 | 2025-03-28 |  |

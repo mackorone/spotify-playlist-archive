@@ -4,13 +4,14 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: TOBIAS
 
-1,389 songs - 2 day 17 hr 24 min
+1,391 songs - 2 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00,00KG](https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [00,00KG](https://open.spotify.com/album/2gQvrvl2OJkEmOq7ghVtBV) | 2:48 | 2024-06-27 | 2024-08-16 |
 | [1 hertz](https://open.spotify.com/track/0SQItD7OT756ZeYEOVeNKz) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [1 hertz](https://open.spotify.com/album/38x03kzY0gNwycJmFwZ7mR) | 3:15 | 2023-07-20 | 2023-08-25 |
 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 | 2024-06-20 | 2024-11-01 |
+| [10 Stunden](https://open.spotify.com/track/0BWcXgz1HMHc4BizRMF5Zs) | [ramonski](https://open.spotify.com/artist/5c68xeIPEWsKVqod15NMi2) | [10 Stunden](https://open.spotify.com/album/4PtjaYLKJx9N6rTthwpVbI) | 2:29 | 2025-09-05 |  |
 | [10 vor 10](https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [10 vor 10](https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe) | 2:38 | 2024-05-30 | 2024-07-12 |
 | [100 Jahre](https://open.spotify.com/track/2ck8XPZYLTP1P1dhu6LmNs) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [100 Jahre](https://open.spotify.com/album/4kADuUc8YbPRrvNszUCoVR) | 2:21 | 2025-07-24 | 2025-08-09 |
 | [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 | 2023-11-09 | 2024-03-01 |
@@ -204,7 +205,7 @@
 | [boys don’t cry](https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [boys don’t cry](https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL) | 2:55 | 2023-08-17 | 2023-09-01 |
 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2024-12-05 | 2025-05-30 |
 | [brauchst mich nicht](https://open.spotify.com/track/1eo2xIdXZlZxDMxuhSFwXQ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [brauchst mich nicht](https://open.spotify.com/album/5KP3WYfsimvLgSrodlWQvB) | 2:27 | 2024-07-04 | 2024-11-30 |
-| [brennnessel](https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [brennnessel](https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv) | 2:43 | 2025-07-17 |  |
+| [brennnessel](https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [brennnessel](https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv) | 2:43 | 2025-07-17 | 2025-09-07 |
 | [Brich einer Künstlerin niemals das Herz](https://open.spotify.com/track/75CwO7xQWpHJ3FeGDCBL7u) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Brich einer Künstlerin niemals das Herz](https://open.spotify.com/album/0Nh3wGkxrWplzwjmxUgOxt) | 2:58 | 2025-03-06 | 2025-06-13 |
 | [Brich mich](https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Brich mich](https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN) | 2:45 | 2025-02-20 | 2025-04-18 |
 | [btw](https://open.spotify.com/track/3GsBqvekTAOytIzDdbUjj4) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [btw](https://open.spotify.com/album/4zBl5NXyMGYUaNzijYWWfY) | 2:42 | 2024-09-05 | 2024-10-25 |
@@ -1316,11 +1317,12 @@
 | [wenn es regnet \(hauptbahnhof\)](https://open.spotify.com/track/4ISt7GK5zSUUC2mdAPMby2) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [wenn es regnet \(hauptbahnhof\)](https://open.spotify.com/album/2n7nYTf3zKB3QkHT3AX94h) | 3:03 | 2023-06-15 | 2023-09-01 |
 | [Wenn ich du wär](https://open.spotify.com/track/68GVmWjf1rNBtsdeJopEHd) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [Wenn ich du wär](https://open.spotify.com/album/1tHtrsJsjXzJIzVtFOAASQ) | 3:23 | 2023-02-02 | 2023-02-24 |
 | [wenn ich ehrlich bin](https://open.spotify.com/track/3SsYcfMxfWyRem3lXvbD3R) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [wenn ich ehrlich bin](https://open.spotify.com/album/7CriOieMAca2t2jHm96tJP) | 2:26 | 2024-05-30 | 2024-06-21 |
-| [Wenn ich liebe](https://open.spotify.com/track/4JfN8G1QuLf2u6rTvuA4S1) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wenn ich liebe](https://open.spotify.com/album/5PHxeu5spcZ0OOUpkUyuVt) | 2:27 | 2025-07-31 |  |
+| [Wenn ich liebe](https://open.spotify.com/track/4JfN8G1QuLf2u6rTvuA4S1) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wenn ich liebe](https://open.spotify.com/album/5PHxeu5spcZ0OOUpkUyuVt) | 2:27 | 2025-07-31 | 2025-09-07 |
 | [Wenn Ich Reich Bin \(Geht's Mir Gut\)](https://open.spotify.com/track/6rCAwYurRkhImBk39Gzsmi) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Wenn Ich Reich Bin \(Geht's Mir Gut\)](https://open.spotify.com/album/4WIeplY4ykhdVxaop2yhK9) | 2:56 | 2023-07-27 | 2023-08-18 |
 | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/album/38KsuTCAeC7HCnR3yYChUx) | 2:56 | 2025-08-07 |  |
 | [Wenn nichts von nichts kommt](https://open.spotify.com/track/26R4D50bcdoF6BovA5zh76) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [100.000](https://open.spotify.com/album/3L2zUdbkiqfjcoBmHeqyUZ) | 4:34 | 2025-02-13 | 2025-02-15 |
 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 | 2023-08-24 | 2024-02-02 |
+| [wennichandichdenk](https://open.spotify.com/track/7pspNXyzR1ZOuq8pl8j1rn) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [wennichandichdenk](https://open.spotify.com/album/7FIdUKLpRHdKUMpxJyMISx) | 2:33 | 2025-09-05 |  |
 | [Wesley](https://open.spotify.com/track/6hA2CnNyOzZvTYYyoNAAEr) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Wesley](https://open.spotify.com/album/6FDLSM3w5pANkTnQsxaaUb) | 2:41 | 2025-07-24 | 2025-08-09 |
 | [wie du](https://open.spotify.com/track/0h1d2sv6RIxB8e0xiEIJ45) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [wie du \(EP\)](https://open.spotify.com/album/6VxVDrypCYjs9l4GqSEWTN) | 2:35 | 2024-02-13 | 2024-02-16 |
 | [Wie Du](https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Wie Du](https://open.spotify.com/album/6dkH0Z1f411BzyjcHuZk9I) | 2:50 | 2023-04-06 | 2023-05-12 |

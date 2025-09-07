@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,574,387 likes - 325 songs - 14 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,574,595 likes - 325 songs - 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 116 | [Abstract Rain](https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Urban Rain For Dreams](https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m) | 2:41 |
 | 117 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 |
 | 118 | [Falling Rain](https://open.spotify.com/track/6r42paRO1a3ReJusTZC5MU) | [Medi Rela](https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho) | [Falling Rain](https://open.spotify.com/album/2NuNso3u2XmWzBdT9os76E) | 2:29 |
-| 119 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
+| 119 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
 | 120 | [Natural Sounds Of Nature](https://open.spotify.com/track/7AA6L1DQd4aOg5CHxhhUMx) | [Harmless Harmonics](https://open.spotify.com/artist/4UqnpTwYbG5VOxwsUbj1kU) | [Harmless Harmonics](https://open.spotify.com/album/4h8eQLWXV3DHpdf6m3OIBO) | 2:30 |
 | 121 | [Nonstop Rain](https://open.spotify.com/track/2pWeiW8PnZ6W7ThO9UKDFT) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Rainy Weather](https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF) | 2:16 |
 | 122 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 |

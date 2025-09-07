@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Bienvenidos a Aerolinas Cuatroveinte estamos listos para despegar 💨 Capitán: Neutro Shorty
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,787 likes - 61 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,784 likes - 61 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

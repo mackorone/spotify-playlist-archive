@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,232 likes - 300 songs - 17 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,095,376 likes - 300 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,11 +266,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 256 | [More Than You Know \- Acoustic](https://open.spotify.com/track/24XOlemQJORg0nBJAHC24p) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know \(Acoustic\)](https://open.spotify.com/album/79WvqpQzRvnLlrB64S2bCA) | 3:03 |
 | 257 | [Think Twice](https://open.spotify.com/track/2NemVm8OFPcHdm4JhTTFTD) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Think Twice](https://open.spotify.com/album/4LqKBvjdd3Pw0xwXWhU8mr) | 3:31 |
 | 258 | [What Do You Love \- Acoustic](https://open.spotify.com/track/79W86DNXqkf0akvNE4VbIX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love \(Acoustic\)](https://open.spotify.com/album/0EsnNvg0aAIv7GYqssJtCg) | 4:00 |
-| 259 | [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \(From Morning Till Midnight\)](https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU) | 3:12 |
-| 260 | [Night Changes \- Live Acoustic Session](https://open.spotify.com/track/7faQiBLuTTOUUs8rNoA5ml) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Night Changes](https://open.spotify.com/album/7xRZJIwYJqOtv8CxNpy5A2) | 3:40 |
-| 261 | [A Thousand Miles \(Live Acoustic\)](https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA) | 4:38 |
-| 262 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 |
-| 263 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0pjOjoHMJrerHhiXNRs3GK) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \- Live From New York](https://open.spotify.com/album/1M1UcMfqgBkjy9FmWe4u5S) | 5:17 |
+| 259 | [A Thousand Miles \(Live Acoustic\)](https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA) | 4:38 |
+| 260 | [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \(From Morning Till Midnight\)](https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU) | 3:12 |
+| 261 | [Night Changes \- Live Acoustic Session](https://open.spotify.com/track/7faQiBLuTTOUUs8rNoA5ml) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Night Changes](https://open.spotify.com/album/7xRZJIwYJqOtv8CxNpy5A2) | 3:40 |
+| 262 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0pjOjoHMJrerHhiXNRs3GK) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \- Live From New York](https://open.spotify.com/album/1M1UcMfqgBkjy9FmWe4u5S) | 5:17 |
+| 263 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 |
 | 264 | [Heaven \- MTV Unplugged Version](https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th) | 4:30 |
 | 265 | [I Feel It Coming \- Acoustic Live Lounge](https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Favourites](https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez) | 2:06 |
 | 266 | [Breathe \- Acoustic](https://open.spotify.com/track/3eiY1jAroh5xlT9qd1KEA8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Breathe \(Acoustic\)](https://open.spotify.com/album/6U4ZNqzqc79i1ZZBialhPV) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,579 likes - 92 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,628 likes - 92 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 23 | [Mossy Meditation \- Green Noise](https://open.spotify.com/track/34SUEroznWC8R56VYSGKx1) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 3:36 |
 | 24 | [A Moment Of Peace \(Rainy Green Noise\)](https://open.spotify.com/track/6fFR0PmP2feAJubtu2iG0s) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:42 |
 | 25 | [Hypnotic Green Noise](https://open.spotify.com/track/67abugPaIu3AZTbnyE8VsU) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Rain Forest Green Chill](https://open.spotify.com/album/1YlEIiFxpWl7TkeRI23pr1) | 3:15 |
-| 26 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
+| 26 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
 | 27 | [Water Mirrors](https://open.spotify.com/track/1bT3Al9bsQa9LGf51j5yVw) | [Rainer & Co](https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y) | [Green Harmony](https://open.spotify.com/album/43H8m6IsGwcc9zHiXywu8C) | 2:22 |
 | 28 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
 | 29 | [Green Noise Ritual](https://open.spotify.com/track/2u6gCtrkaPT3IInl2MZIQc) | [Karma Ritual](https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b) | [Green Noise Ritual](https://open.spotify.com/album/2Sp5fhJUBzeLgYXTQlt0bf) | 2:48 |

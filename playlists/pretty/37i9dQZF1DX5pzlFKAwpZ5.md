@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,042 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,116 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 139 | [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 |
 | 140 | [S\_lowl Melancolic](https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN) | [Taeji Sawai](https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5) | [As Planetary Dreams](https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6) | 3:15 |
 | 141 | [Sketch\#1](https://open.spotify.com/track/13jMKwAdRtkLfjz6a0Pml1) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Afterimage](https://open.spotify.com/album/7I3QjuOUAde7BUD5nrXbwX) | 7:25 |
-| 142 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 |
-| 143 | [Resurrection](https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [In The Mists of Time](https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn) | 4:48 |
+| 142 | [Resurrection](https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [In The Mists of Time](https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn) | 4:48 |
+| 143 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 |
 | 144 | [\#bdbdbd \(06:16:00am \- 12:19:59am\)](https://open.spotify.com/track/5a7qx2I3G93dR79p2StDmF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Grey《灰色の領域》](https://open.spotify.com/album/1iEYGTJEEru5Yo2JbsbNwU) | 6:04 |
 | 145 | [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 |
 | 146 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 |

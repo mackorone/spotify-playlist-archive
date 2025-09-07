@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Simply rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,318 likes - 250 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,742 likes - 250 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 113 | [Raincoat Weather](https://open.spotify.com/track/445TGqNOn1nGI0T2QCYkh7) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Raincoat Weather](https://open.spotify.com/album/3PiNTotQoNkrRfvEKZ2Gdm) | 2:38 |
 | 114 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 |
 | 115 | [Falling Rain](https://open.spotify.com/track/6r42paRO1a3ReJusTZC5MU) | [Medi Rela](https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho) | [Falling Rain](https://open.spotify.com/album/2NuNso3u2XmWzBdT9os76E) | 2:29 |
-| 116 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
+| 116 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
 | 117 | [Nonstop Rain](https://open.spotify.com/track/2pWeiW8PnZ6W7ThO9UKDFT) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Rainy Weather](https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF) | 2:16 |
 | 118 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 |
 | 119 | [Monsoon](https://open.spotify.com/track/0bEOey9OHVNI8MfEc2328F) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Monsoon](https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO) | 3:00 |

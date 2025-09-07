@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-889 songs - 2 day 10 hr 53 min
+891 songs - 2 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Hymne \- Remastered](https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 2:44 | 2024-02-09 |  |
 | [HYPERYOUTH](https://open.spotify.com/track/4FwcBvVwrlPVeWYEuMl7J0) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW) | 2:47 | 2025-08-15 | 2025-08-20 |
 | [I](https://open.spotify.com/track/67eZrCOBvnQtURCkICXySb) | [Rocks and Waves Song Circle](https://open.spotify.com/artist/3IGl0j2I9KKjiOgtiBFmv7) | [Songs I\-V](https://open.spotify.com/album/6hHKEiQIKkcelLnUPjpy71) | 5:40 | 2024-01-18 |  |
+| [I Am One \- Remastered 2011](https://open.spotify.com/track/4iChoIsP14WSZ575hCqcGK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Remastered\)](https://open.spotify.com/album/7wJTn94PWzZ3zE0lg3qhld) | 4:06 | 2025-09-06 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
 | [I bled on stage at first ave](https://open.spotify.com/track/5HSOM17OTzUpD9PYXWupXj) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [another triumph of ghetto engineering](https://open.spotify.com/album/6el9i3xYmiw1OjTMS3Fynx) | 2:45 | 2023-08-25 | 2023-12-14 |
 | [I Don’t Know How I Survive](https://open.spotify.com/track/0b2vqB7QNT4z8nnaYqbuel) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:40 | 2024-02-14 | 2024-02-16 |
@@ -681,6 +682,7 @@
 | [Sincerely](https://open.spotify.com/track/1Y1iDBe3Q1rPn44DcvCdzH) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 2:06 | 2025-04-28 | 2025-05-16 |
 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 | 2024-06-01 |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |
+| [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 | 2025-09-06 |  |
 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 | 2024-02-15 |  |
 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 | 2023-06-23 |  |
 | [Sky Saw \- 2004 Remaster](https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:27 | 2024-06-17 |  |

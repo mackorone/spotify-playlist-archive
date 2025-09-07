@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpFtEnv8jD6.md) - [plain]
 
 > Oficjalna playlista Great September Festival\. Posłuchaj wyjątkowych artystów, którzy wystąpią na festiwalu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227 likes - 145 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 145 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpFtEnv8jD6.md) - [plain]
 | 71 | [Chciałem Ci dać](https://open.spotify.com/track/1IitYTqru8kqRkWyZ2AvgZ) | [Marek Niedzielski](https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY) | [Chciałem Ci dać](https://open.spotify.com/album/4Z7p8F89a5HnLsRF4qg9LK) | 3:43 |
 | 72 | [pictures](https://open.spotify.com/track/1IRpwnjhRQbegtv6dURdB1) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [cobalt](https://open.spotify.com/album/1VnNovTogSuauD5fM53wpl) | 3:11 |
 | 73 | [dziadzia](https://open.spotify.com/track/0q2Jhqylw9SzRGdoS6Kg7k) | [beluga ryba](https://open.spotify.com/artist/135OmH1gXpik1C4G6EU2CC) | [DZIADZIA](https://open.spotify.com/album/7waCxzx8goMVyQ5qkZeHBx) | 3:56 |
-| 74 | [Bądź ze mną](https://open.spotify.com/track/25YoTohl0kVEtZWmn0mJE1) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 2:39 |
-| 75 | [SKLEJAM TAŚMĄ TWARZ](https://open.spotify.com/track/3NSicGOKjuPgUiOxWELBtj) | [NATURA2000](https://open.spotify.com/artist/3k3TQmcrNdWe117e3B0dbp), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm), [HVBBY](https://open.spotify.com/artist/3AETwhMn1YHqX4RuukvyVC), [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [LUŹNA KMINA](https://open.spotify.com/album/6wGIqANbegbPlTgP2pIAKF) | 2:45 |
+| 74 | [SKLEJAM TAŚMĄ TWARZ](https://open.spotify.com/track/3NSicGOKjuPgUiOxWELBtj) | [NATURA2000](https://open.spotify.com/artist/3k3TQmcrNdWe117e3B0dbp), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm), [HVBBY](https://open.spotify.com/artist/3AETwhMn1YHqX4RuukvyVC), [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [LUŹNA KMINA](https://open.spotify.com/album/6wGIqANbegbPlTgP2pIAKF) | 2:45 |
+| 75 | [Bądź ze mną](https://open.spotify.com/track/25YoTohl0kVEtZWmn0mJE1) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 2:39 |
 | 76 | [Ucieknij ze mną](https://open.spotify.com/track/0uJhBEfZepmAs0ee1CjD6Z) | [Kosa](https://open.spotify.com/artist/2ePgEQHzJJkNTLb2Q95Eh5), [Linda](https://open.spotify.com/artist/0kuyTWxry4ZGnRiamkFuKD), [Milie](https://open.spotify.com/artist/6qjj0SM7950EoWtTIcNKNZ), [najniższy człowiek](https://open.spotify.com/artist/42OPk80DuUZKFeT9GtsDQW) | [Podhale Mixtape](https://open.spotify.com/album/4FPDydlDCv8OsQ2biAwAoy) | 3:00 |
 | 77 | [Dni](https://open.spotify.com/track/56Nkt43pNifzu843VPgA4a) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:15 |
 | 78 | [tantrum](https://open.spotify.com/track/37tm5h1fh48AnGw0s9jzRt) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [tantrum](https://open.spotify.com/album/6MeCgKkC0kLmsGaB5qdzQ2) | 2:28 |
@@ -127,13 +127,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpFtEnv8jD6.md) - [plain]
 | 117 | [Żuraw szary](https://open.spotify.com/track/0GQun9rAtHgXO2w1B5tlkS) | [Ptaki Polski](https://open.spotify.com/artist/3qimtV6OxTP2LjexWmq88D) | [Ptaki Polski](https://open.spotify.com/album/5B8ksR8qWrDCAmpMogjN5P) | 6:57 |
 | 118 | [ROBIĘ CO CHCĘ](https://open.spotify.com/track/33sGXBthlr3X2B90Oq1yT9) | [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [MIŁO](https://open.spotify.com/album/3Pa1VBrNNzDujaZFWQgIrb) | 2:48 |
 | 119 | [Przystanek Alaska](https://open.spotify.com/track/5zwRyXEklduD0KECbch6tV) | [Mona Polaski](https://open.spotify.com/artist/4D4Sys7tAslFcBhATOFdm0) | [Oryginał](https://open.spotify.com/album/6nim9HjyojqauthVcySh7R) | 3:39 |
-| 120 | [Skafander](https://open.spotify.com/track/3DvR7Yqjoer0EAuDLdLg9E) | [hai](https://open.spotify.com/artist/4kmEGD7LxC1E58zwE1Rolg) | [Skafander](https://open.spotify.com/album/68KFF9VhS8DGHWcelg53QN) | 3:43 |
-| 121 | [SWW](https://open.spotify.com/track/7vPuF6S46UIahAncCpuNWa) | [Newest Zealand](https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj) | [Harmony Attack](https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK) | 4:02 |
+| 120 | [SWW](https://open.spotify.com/track/7vPuF6S46UIahAncCpuNWa) | [Newest Zealand](https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj) | [Harmony Attack](https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK) | 4:02 |
+| 121 | [Skafander](https://open.spotify.com/track/3DvR7Yqjoer0EAuDLdLg9E) | [hai](https://open.spotify.com/artist/4kmEGD7LxC1E58zwE1Rolg) | [Skafander](https://open.spotify.com/album/68KFF9VhS8DGHWcelg53QN) | 3:43 |
 | 122 | [Rudzik](https://open.spotify.com/track/0d0U6Eo802Zaxa9TF1OcOc) | [Ptaki Polski](https://open.spotify.com/artist/3qimtV6OxTP2LjexWmq88D) | [Ptaki Polski](https://open.spotify.com/album/5B8ksR8qWrDCAmpMogjN5P) | 4:23 |
 | 123 | [\#3](https://open.spotify.com/track/5Csc4CurWHoRv3WMiXWkNQ) | [Rzeka](https://open.spotify.com/artist/6b2mkMKkuYo981kp3qbgbG) | [Wał](https://open.spotify.com/album/1sKhwxQZKzllmUEUp6IB0W) | 1:54 |
 | 124 | [ZA CO](https://open.spotify.com/track/51PbxugSerR5sKvmShKnmF) | [Jan Wieteska](https://open.spotify.com/artist/7h4515SjHOj0zz1oPQDFPW) | [Przepraszam](https://open.spotify.com/album/4eeJclyITyN6MHd0roeaI4) | 1:48 |
-| 125 | [Mapa i terytorium](https://open.spotify.com/track/73yL6l0apAKMdtd7X8V3Ge) | [DOMI/NIKA](https://open.spotify.com/artist/5Jg1kUoWwP5P1w8T2l4TKg) | [Mapa i terytorium](https://open.spotify.com/album/5cg3GsNf8kLsAH8UGeobpS) | 3:28 |
-| 126 | [Susan Mary](https://open.spotify.com/track/6Oy0FXxczX0NCpDL5Ek4Sy) | [Newest Zealand](https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj) | [Harmony Attack](https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK) | 3:09 |
+| 125 | [Susan Mary](https://open.spotify.com/track/6Oy0FXxczX0NCpDL5Ek4Sy) | [Newest Zealand](https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj) | [Harmony Attack](https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK) | 3:09 |
+| 126 | [Mapa i terytorium](https://open.spotify.com/track/73yL6l0apAKMdtd7X8V3Ge) | [DOMI/NIKA](https://open.spotify.com/artist/5Jg1kUoWwP5P1w8T2l4TKg) | [Mapa i terytorium](https://open.spotify.com/album/5cg3GsNf8kLsAH8UGeobpS) | 3:28 |
 | 127 | [Wężownik](https://open.spotify.com/track/4pik0E871sidyx451SUdBm) | [Susy](https://open.spotify.com/artist/3Q8wTMPkh3Xf2rZF6XbZVt) | [Susy](https://open.spotify.com/album/32MvNzOdPSGSZR2a5dRThf) | 6:20 |
 | 128 | [Niczyja wina](https://open.spotify.com/track/4Qw5159D99ERDpoWFOHFvj) | [Mona Polaski](https://open.spotify.com/artist/4D4Sys7tAslFcBhATOFdm0) | [Oryginał](https://open.spotify.com/album/6nim9HjyojqauthVcySh7R) | 3:43 |
 | 129 | [dziękuję nie piję](https://open.spotify.com/track/1q5Nf18srYRvjjiVGlE7MW) | [ania cringe](https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn) | [POLO DANCE](https://open.spotify.com/album/6tf0SMEWKiyDtr7zVx1Ju0) | 4:10 |

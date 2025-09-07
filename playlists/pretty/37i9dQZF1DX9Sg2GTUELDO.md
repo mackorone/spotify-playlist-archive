@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: sica
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,134 likes - 550 songs - 1 day 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,143 likes - 550 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 8 | [SPINNING](https://open.spotify.com/track/0VQq9eFikuEUMak1pj1ub5) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [SPINNING](https://open.spotify.com/album/5kYD77mePtd16CGcHmzXJC) | 3:08 |
 | 9 | [為一位觀眾唱歌](https://open.spotify.com/track/3yotrbdl5STCnVWvUW8Jfp) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [為一位觀眾唱歌](https://open.spotify.com/album/16SGKHQsXFiLVdqQaVAOAZ) | 3:15 |
 | 10 | [黑房](https://open.spotify.com/track/6WlmnqRy4WPDEBcUsZVyrP) | [Stephanie Ho](https://open.spotify.com/artist/0eXGbuvMWBpHQ5GE56OCq2) | [黑房](https://open.spotify.com/album/0szVG5bmWj2PTN1kedySOp) | 3:20 |
-| 11 | [回望](https://open.spotify.com/track/5EYHwU9P9ziWeR2nkn16sT) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [回望](https://open.spotify.com/album/452SLZP43DIZBvND4JPr87) | 3:35 |
+| 11 | [回望 \(劇集 '我愛九龍城' 主題曲\)](https://open.spotify.com/track/5EYHwU9P9ziWeR2nkn16sT) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [回望 \(劇集 '我愛九龍城' 主題曲\)](https://open.spotify.com/album/452SLZP43DIZBvND4JPr87) | 3:35 |
 | 12 | [出事 OOPS](https://open.spotify.com/track/79CnYUMohdUYH72JQOsxZg) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [REVOLVING: UP](https://open.spotify.com/album/4dOoaq4G65ff54rHCsNJgg) | 2:34 |
 | 13 | [幸運兒](https://open.spotify.com/track/6Z4siL1lRnQxQo2AvIcle0) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [幸運兒](https://open.spotify.com/album/0sLKkpNhNZS3P3e7Hxg4fl) | 4:15 |
 | 14 | [大車 BIG CARS](https://open.spotify.com/track/2vhGQ3mEOknbY7TkqsW0uB) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [大車 BIG CARS](https://open.spotify.com/album/0ontVjrKGrzEm5CiTGTGLo) | 3:08 |

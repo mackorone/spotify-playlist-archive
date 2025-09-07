@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,971 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,341 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [astro turf](https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [astro turf](https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC) | 3:40 |
 | 100 | [Over The Line](https://open.spotify.com/track/1kA20EkOahp3dPlvFDgz2E) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Over The Line](https://open.spotify.com/album/5vyjEsckiQO2Ot84RiPG45) | 2:37 |
 
-Snapshot ID: `AAAAALH+WWdtI1DLqu+zYLr54CZmD97H`
+Snapshot ID: `AAAAABwSd456VLWO01MpFUgkSkLEqQAS`

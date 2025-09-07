@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,804 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,812 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 59 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 | 60 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |
 
-Snapshot ID: `AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm`
+Snapshot ID: `AAAAAIqqGZrsYb1sevokXbP/ifzlkfdI`

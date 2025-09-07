@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,120 songs - 2 day 20 hr 50 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,121 songs - 2 day 20 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1128,5 +1128,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1118 | [Who I Am](https://open.spotify.com/track/65wAjSRDVNf3xtZYiZx7HY) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 1:31 |
 | 1119 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 |
 | 1120 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
+| 1121 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 
-Snapshot ID: `AAAJVBoYrj/YESsdNn6hXEtP3ybRKh9i`
+Snapshot ID: `AAAJVVWaqQB4FntryuVaFc8JkB4Dmwvv`

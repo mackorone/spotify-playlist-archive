@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Biffy Clyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,959 likes - 128 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,022 likes - 128 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 35 | [Eat The Rich](https://open.spotify.com/track/4uwKLu476XTzMRIKwfjmEL) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Eat The Rich](https://open.spotify.com/album/2KNltN5Ej43VE6FPBRo0rr) | 2:43 |
 | 36 | [No Means No](https://open.spotify.com/track/1Ey6YNlzMXQHFEXlnRC4XV) | [Hotel Hunger](https://open.spotify.com/artist/0nVjySczakVfLmvhNYzLiD) | [No Means No](https://open.spotify.com/album/74rb0zn3vPoov87NHvP4sI) | 2:59 |
 | 37 | [November Boys](https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j) | [The Good The Bad and The Zugly](https://open.spotify.com/artist/3YQf0KGXHQ5dSaSPPmUGxT) | [November Boys](https://open.spotify.com/album/6dxYyfu8w2zyqLjkFEjt1C) | 3:16 |
-| 38 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
+| 38 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
 | 39 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 |
 | 40 | [Out Of My Reach](https://open.spotify.com/track/52V8PYxelw5uo1HWlaccFM) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [You Heartbreaker, You](https://open.spotify.com/album/7tr3cQyR38oOHQzIVwZ3IY) | 3:31 |
 | 41 | [Blood](https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Earthkeeper](https://open.spotify.com/album/1T8drhwbWC7ksyrXvR8O0n) | 4:02 |

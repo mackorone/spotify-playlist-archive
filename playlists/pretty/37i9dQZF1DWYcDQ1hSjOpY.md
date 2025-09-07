@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,532 likes - 307 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065,616 likes - 307 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 27 | [Secret Breeze](https://open.spotify.com/track/5Y9gW1qdKhfgLTapBxUkTW) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Secret Breeze](https://open.spotify.com/album/2wuXtElxuHhiEvuUfcvKuq) | 2:25 |
 | 28 | [Vacancy](https://open.spotify.com/track/0k9zOyKY1RIEp1eOQdLjP8) | [Sonical Serenity](https://open.spotify.com/artist/5efTlkpka6MMoEpB3QXXYM) | [Vacancy](https://open.spotify.com/album/1APBrqA9gbBiyDNlHMezzC) | 2:45 |
 | 29 | [Forever](https://open.spotify.com/track/3QgmKbSDCqtRPddUVfZaQJ) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Forever](https://open.spotify.com/album/57mOqhGCvWhcJrOQs1J3C5) | 2:45 |
-| 30 | [Etera](https://open.spotify.com/track/375O8dkwGSfO89EH4BoOt7) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Etera](https://open.spotify.com/album/6N8rYJElCz1m5pcSz9VaZm) | 2:48 |
+| 30 | [Etera](https://open.spotify.com/track/375O8dkwGSfO89EH4BoOt7) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Etera](https://open.spotify.com/album/6N8rYJElCz1m5pcSz9VaZm) | 2:48 |
 | 31 | [In Another Universe](https://open.spotify.com/track/0AjSouQfaxxagCjemCJYC0) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [In Another Universe](https://open.spotify.com/album/6hjskRipbGqgb4xPpra1pm) | 2:37 |
 | 32 | [Floating Through Images](https://open.spotify.com/track/3geijb7VCy8pwZpJY04cep) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Floating Through Images](https://open.spotify.com/album/440pJn07mC2ZFP5823uvYR) | 2:55 |
 | 33 | [Rest](https://open.spotify.com/track/575mJ5ukCZWVwUT4P69slv) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Rest](https://open.spotify.com/album/4Bu5odzZjIMB5M8pL88kFr) | 2:55 |

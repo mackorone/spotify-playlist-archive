@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,594 songs - 19 day 14 hr 57 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,596 songs - 19 day 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7602,5 +7602,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7592 | [Lady Bird](https://open.spotify.com/track/2fmDvHbRNfoZUvUjkh3rAG) | [Oscar Neall](https://open.spotify.com/artist/43K5ZvnMFkpNC2ZmRO0HP1) | [Yellow Moon](https://open.spotify.com/album/3fYugGacWZBNTCGMAY4xTm) | 4:29 |
 | 7593 | [Mori no chiisana restaurant](https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Mori no chiisana restaurant](https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa) | 2:33 |
 | 7594 | [Stay](https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:26 |
+| 7595 | [Sorega, Ai Deshou](https://open.spotify.com/track/61aAHMl8udl0EP4mZwhll9) | [Mikuni Shimokawa](https://open.spotify.com/artist/6hDNyaAMX0SXk2IQbqVY75) | [Full Metal Panic Fumoffu Original Soundtrack Album](https://open.spotify.com/album/6bgrmKnuW7mLZXl4FAKsM9) | 5:14 |
+| 7596 | [MEMORIA](https://open.spotify.com/track/6qpGlLv9MHaChP5hEx6Pni) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:48 |
 
-Snapshot ID: `AAAIeicrDNONzRc0f0ZCA4yCy1QdvuGX`
+Snapshot ID: `AAAIfX792zJ4a0CR4gBFoz2wuFrkouJn`

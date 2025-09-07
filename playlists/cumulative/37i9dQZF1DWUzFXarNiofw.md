@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Miguel
 
-4,370 songs - 9 day 12 hr 39 min
+4,371 songs - 9 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4318,6 +4318,7 @@
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-05 | 2024-08-10 |
 | [Yeah Yeah](https://open.spotify.com/track/07YxnC8dRtpiDKfVCclDcV) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Yeah Yeah](https://open.spotify.com/album/4Y4zPsh0u82jNI1LvkLDxO) | 3:15 | 2023-09-01 | 2023-10-07 |
 | [Yellow Cabi](https://open.spotify.com/track/4NzDQkPYgeNrE2Q5UB5KQO) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 1:57 | 2022-10-07 | 2022-10-29 |
+| [YES IT IS \(feat\. Muni Long & Marsha Ambrosius\) \[REMIX\]](https://open.spotify.com/track/348qRxgLJ8qWtyYtZlHSNR) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [YES IT IS \(REMIX\)](https://open.spotify.com/album/1Viv4fJ9b6pQH98zby2XxA) | 4:02 | 2025-09-06 |  |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 | 2025-04-26 |
 | [Yesterday](https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [The Honeymoon Phase](https://open.spotify.com/album/4WfYXkR5ufqGEyZteQHzkT) | 3:27 | 2024-03-22 | 2024-05-04 |
 | [YOLANDA](https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 2:51 | 2024-03-08 | 2024-04-27 |

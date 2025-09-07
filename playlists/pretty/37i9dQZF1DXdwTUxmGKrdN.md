@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,305 likes - 150 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,392 likes - 150 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 143 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 |
 | 144 | [Fired Up](https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 4:22 |
 | 145 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
-| 146 | [Charlemagne](https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV) | [Brian Tarquin](https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2) | [Smooth Operators: Great Smooth Jazz Moments](https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv) | 3:48 |
-| 147 | [Just Dance \(feat\. Dave Koz\)](https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Double Vision](https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY) | 4:23 |
+| 146 | [Just Dance \(feat\. Dave Koz\)](https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Double Vision](https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY) | 4:23 |
+| 147 | [Charlemagne](https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV) | [Brian Tarquin](https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2) | [Smooth Operators: Great Smooth Jazz Moments](https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv) | 3:48 |
 | 148 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 |
 | 149 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 |
 | 150 | [Personal Touch](https://open.spotify.com/track/5eMbgx0rjKqcCkWfBGYM83) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/7zo6MlgisQqNHORy6SqYXb) | 3:44 |

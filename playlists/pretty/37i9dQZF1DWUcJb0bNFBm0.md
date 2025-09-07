@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,832 likes - 93 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,838 likes - 93 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Brand new music from Vance Joy, Tame Impala, Justin Bieber, Lady Gaga, The Kid LAROI, G Flip,  + more!
 
-10,109 songs - 22 day 21 hr 4 min
+10,110 songs - 22 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5264,7 +5264,7 @@
 | [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 | 2023-11-23 | 2023-12-01 |
 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 | 2023-10-05 | 2023-10-13 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-02 | 2025-01-10 |
-| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
+| [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
 | [Locked In](https://open.spotify.com/track/1drmgHKqYm4wsFCEruOBhm) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 2:19 | 2023-07-20 | 2023-07-28 |
 | [Locked Up](https://open.spotify.com/track/187DYqgOLBTeyoBbno1cKf) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Locked Up](https://open.spotify.com/album/4CSdaWyTXJ6AuZcmqCjQiF) | 2:58 | 2025-08-14 | 2025-08-22 |
 | [Locked Up \(ft\. Akon\)](https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up \(ft\. Akon\)](https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu) | 2:27 | 2023-08-17 | 2023-08-25 |
@@ -5422,6 +5422,7 @@
 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-02 | 2023-11-10 |
 | [Love Should Be Free](https://open.spotify.com/track/3lAk1opV6wYvTYcdlQzPWP) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Evolution](https://open.spotify.com/album/5vnPj80K2ZJqby4V8ZVswz) | 2:36 | 2024-08-29 | 2024-09-06 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-17 | 2024-10-25 |
+| [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-05 |  |
 | [Love That I Love You](https://open.spotify.com/track/5vmUocjY3qCtBZo13xpczD) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 2:43 | 2025-08-21 | 2025-08-29 |
 | [Love That Takes You Up](https://open.spotify.com/track/0zBmEE0ruiNSs1JEXUKl3I) | [Nice Biscuit](https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv) | [Love That Takes You Up](https://open.spotify.com/album/1MOmGID19PXLZxMaNLwvNV) | 4:55 | 2024-09-05 | 2024-09-13 |
 | [Love The Lights Out](https://open.spotify.com/track/34aevO0hji65YeqaLR4cuD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Love The Lights Out](https://open.spotify.com/album/2ESsKb7dW9voOpJDRemBN9) | 3:18 | 2025-02-13 | 2025-02-21 |

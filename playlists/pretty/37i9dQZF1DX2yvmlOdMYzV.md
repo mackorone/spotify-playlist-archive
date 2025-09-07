@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,146 likes - 200 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,126 likes - 200 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 199 | [Going Up](https://open.spotify.com/track/6brevZznZxMcduQWx8yt9b) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [Going Up](https://open.spotify.com/album/1yS9pnzZQ9BDNTuXrrwnVN) | 2:30 |
 | 200 | [Time Apart](https://open.spotify.com/track/7Bi4OrBlggm1PaobdxW9Up) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [The Burden of Fever Dreams](https://open.spotify.com/album/5uLDLgEEZgACeR6JiCeg9H) | 2:40 |
 
-Snapshot ID: `AAAAAB9ID+Q73zSPsSxiOWofyPqpAzbV`
+Snapshot ID: `AAAAAK+9rqB7wPpktZIkibw54nTYv7S3`

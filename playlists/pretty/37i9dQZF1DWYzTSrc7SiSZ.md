@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,472 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,476 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [WADGYMAR](https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX) | [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [WADGYMAR](https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p) | 2:19 |
 | 100 | [Alguna Vez Allí Algo Ardió](https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Alguna Vez Allí Algo Ardió](https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3) | 4:32 |
 
-Snapshot ID: `AAAAABSGlCGdSc0bClgsi5m6nGbsTm0A`
+Snapshot ID: `AAAAAD6gc8zOKZ+CffBMJ7oK1KEUHn6t`

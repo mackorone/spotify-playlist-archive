@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,763 likes - 131 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,774 likes - 131 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,811 likes - 275 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,839 likes - 275 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 174 | [Intense Night Rain](https://open.spotify.com/track/6xuYxTMCx3MQkjNIlEFVRA) | [Epic Nature](https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY) | [Good Night Nature Rain](https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG) | 2:13 |
 | 175 | [Touch the Rain](https://open.spotify.com/track/3eLUv3zY3Rmu9Lg73yReSS) | [Ethereal Roots](https://open.spotify.com/artist/2NlQLtRMP7LbLqhbbxVEsu) | [Touch the Rain](https://open.spotify.com/album/3JUDVgZwsxjZlNFRYepwik) | 2:42 |
 | 176 | [Rain by Marsh \(Nature\)](https://open.spotify.com/track/5HTFXeKnoLF9uqSHThRuyX) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Tidal Marsh \(Nature\)](https://open.spotify.com/album/5Q50ibdcpK2F1qo6LLdpEc) | 2:44 |
-| 177 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
+| 177 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
 | 178 | [Dreamy Rain](https://open.spotify.com/track/4MkRYtYntl1YpyjeXLMP1B) | [Oasis of Sleep](https://open.spotify.com/artist/1BhI98thKFuBTeSvxFDd3g) | [Dreamy Rain](https://open.spotify.com/album/2ubzY0tGpiExYeNVvA89eI) | 2:48 |
 | 179 | [Hard Rain Falling](https://open.spotify.com/track/4g3GdxAHnH21jR4QwCDqHl) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Mantric Rain](https://open.spotify.com/album/0pXmxhBLGqDsSiBsyV44tP) | 2:44 |
 | 180 | [Never\-ending Rain](https://open.spotify.com/track/5u2kuI9KQ6xGQcPxvToNJ5) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Healing Rain](https://open.spotify.com/album/5bsGhhhTZ8w0usBImSNoVg) | 3:12 |

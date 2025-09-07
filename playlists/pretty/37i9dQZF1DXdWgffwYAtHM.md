@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tua casa tá apodrecendo](https://open.spotify.com/episode/32RxILZtTGn9J0hR981TTd) | [Aquele Podcast da Beta](https://open.spotify.com/show/1w7QLlSXZcUrvF6djRawtg) | [Aquele Podcast da Beta](https://open.spotify.com/album/1w7QLlSXZcUrvF6djRawtg) | 39:19 |
+| 1 | [TUA CASA TÁ APODRECENDO \| Abrindo Parênteses \#006](https://open.spotify.com/episode/32RxILZtTGn9J0hR981TTd) | [Aquele Podcast da Beta](https://open.spotify.com/show/1w7QLlSXZcUrvF6djRawtg) | [Aquele Podcast da Beta](https://open.spotify.com/album/1w7QLlSXZcUrvF6djRawtg) | 39:19 |
 | 2 | [internet horror show](https://open.spotify.com/episode/3WwlSnhSmHx3OiOjigVu5A) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 39:57 |
 | 3 | [\#48 \- Como seria o mundo se todos fossem sinceros?](https://open.spotify.com/episode/7k1cGTyHNtdzJpivGqxmfY) | [Para que Não Percais os Miolos](https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv) | [Para que Não Percais os Miolos](https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv) | 16:58 |
 | 4 | [SÉRIES ADOLESCENTES e TAYLOR NOIVA \(ESTAVU NEWS\) \#38](https://open.spotify.com/episode/53dNWFj8tarcdxA4JH9643) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 39:24 |

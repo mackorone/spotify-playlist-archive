@@ -1,6 +1,6 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 888719,
+  "num_followers": 888722,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAERjmMSra/3RcnsBy2csQLgKGLl8",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:00:01",
+      "album": {
+        "name": "Devil's Train",
+        "url": "https://open.spotify.com/album/0mozxaIy7jtpKgjFiYp27x"
+      },
+      "artists": [
+        {
+          "name": "Eric Sardinas",
+          "url": "https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "8 Goin' South",
+      "url": "https://open.spotify.com/track/6MTpSIDkEeWFhrKXcv0qCf"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -1535,22 +1551,6 @@
       "duration_ms": 231400,
       "name": "Big Mama's Door",
       "url": "https://open.spotify.com/track/3AkN7wZwvXmhvlSWDMKkbr"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/4Q5SP0bw5Qz9Ory2DxXsif"
-      },
-      "artists": [
-        {
-          "name": "Eric Sardinas",
-          "url": "https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB"
-        }
-      ],
-      "duration_ms": 99960,
-      "name": "Ratchet Blues",
-      "url": "https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze"
     },
     {
       "added_at": "2020-08-11 16:18:31",

@@ -4,7 +4,7 @@
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=irKY8BeDQDuBPttjatD\_Qg">Surreal Sessions</a>
 
-496 songs - 1 day 20 hr 2 min
+497 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Gqomington](https://open.spotify.com/track/1s1g7rs3sNbvYdG1An7tBY) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [For The Streets 2](https://open.spotify.com/album/0YquoZAHETrT6R45q0o7oP) | 5:41 | 2025-02-24 | 2025-04-23 |
 | [Grade 12](https://open.spotify.com/track/4cW03RQQo6F0mwawFSZjNi) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [Que DJ](https://open.spotify.com/artist/6US33OdDB5JmPMRDo16547), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn) | [Grade 12](https://open.spotify.com/album/5UKY7wQmcIFnzSk6z5glCW) | 4:40 | 2021-12-21 | 2022-11-08 |
 | [Groove all night](https://open.spotify.com/track/1yQJD82SB4bRhLiCsmq8yz) | [DjTroyEL](https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC) | [Groove all night](https://open.spotify.com/album/0VOTd4FvzsLOnvEhrQC8hz) | 6:59 | 2025-02-24 | 2025-03-21 |
+| [Guarana](https://open.spotify.com/track/0ieVZPwAbijEsKKHDL2SoQ) | [Surreal Sessions](https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E), [SamBeazy](https://open.spotify.com/artist/3cwPaljbfd7fVcBV4FL743) | [Dollars & White Pipes](https://open.spotify.com/album/27ZIO4P91sOLk9vK1zdGjE) | 6:39 | 2025-09-05 |  |
 | [Gwara Gwara \- Remix](https://open.spotify.com/track/5IMjOlxyNpdnXkDDty5P1g) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Gwara Gwara \(DJ Lag Remix\)](https://open.spotify.com/album/2ztXMEJITuMbJfYXPvZBTT) | 5:05 | 2024-12-19 | 2025-01-24 |
 | [GWY](https://open.spotify.com/track/0sfYxexj1Sma2UfzLuCyhb) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [Chumza](https://open.spotify.com/artist/0C2qrnrnaf8B3R43gPRxoI) | [Back To Ebombeni \(Deluxe\)](https://open.spotify.com/album/2PPmVL7PqOfCT2p12gSTYO) | 4:46 | 2023-02-03 | 2023-08-25 |
 | [Hamba Wena \(Go Go\)](https://open.spotify.com/track/46qTLhbtwhxlm5rB9GtoaQ) | [DJ Fanele](https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3) | [Asidlali La](https://open.spotify.com/album/11REtChIfEdIdluj6eOace) | 5:26 | 2024-12-12 | 2024-12-20 |

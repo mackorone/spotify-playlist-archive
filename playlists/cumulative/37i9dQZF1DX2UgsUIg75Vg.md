@@ -4,7 +4,7 @@
 
 > Chill r&b\. Cover: Isaiah Falls
 
-1,363 songs - 3 day 3 hr 11 min
+1,366 songs - 3 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Don't Wanna Leave \(feat\. Latto\)](https://open.spotify.com/track/4vpoINvcoAdmttZwDTUTJU) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Don't Wanna Leave \(feat\. Latto\)](https://open.spotify.com/album/1QSe34NLmqc0MiZ3DeEVsA) | 3:05 | 2020-01-10 | 2020-09-23 |
 | [Don’t Mind Me](https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Mind Me](https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo) | 3:09 | 2023-06-02 | 2023-07-15 |
 | [Dopamine](https://open.spotify.com/track/3TIMs6PfewA6xaZi5jF62N) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Dopamine](https://open.spotify.com/album/6UWWZvdmR3hkFGj7JDHaNe) | 2:51 | 2025-06-06 |  |
+| [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 | 2025-09-05 |  |
 | [Dovetail](https://open.spotify.com/track/1zEG6etKoFYBedD7YQvSpP) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:38 | 2024-05-10 | 2025-01-18 |
 | [Down](https://open.spotify.com/track/6pduF6NCbC5Cymo3AFqNr3) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Down](https://open.spotify.com/album/58IQnaA4eTgj3TwWvZGbeh) | 4:13 | 2020-11-20 | 2021-06-19 |
 | [Dream of You](https://open.spotify.com/track/6kBMDjsl16SRkHmtyDi2Vu) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Dream of You](https://open.spotify.com/album/06pukcyvAvWMEuOnV9O18i) | 3:46 | 2025-08-29 |  |
@@ -923,6 +924,7 @@
 | [Perfect](https://open.spotify.com/track/38NA9ujv5cUKOTy82FSWLK) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [While You Wait](https://open.spotify.com/album/5PkUjL8hnjLbnLQcoIl3uR) | 4:09 | 2020-03-27 | 2020-10-09 |
 | [Perspective](https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Perspective](https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT) | 2:39 | 2024-08-16 | 2024-09-21 |
 | [peter pan.](https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [peter pan.](https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L) | 3:04 | 2025-07-04 |  |
+| [PETTING ZOO](https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:16 | 2025-09-05 |  |
 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 | 2025-07-11 |  |
 | [Pick A Side](https://open.spotify.com/track/5vXvD86WP93gFqrYrr93Q6) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Pick A Side](https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK) | 3:12 | 2020-12-11 | 2021-03-26 |
 | [Pick A Side](https://open.spotify.com/track/7KRBMbHzWF4cwhWztWYUQ3) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Pick A Side](https://open.spotify.com/album/0ejO1G6PL8NPn35CXpnUPm) | 2:57 | 2021-03-26 | 2021-10-30 |
@@ -1354,7 +1356,8 @@
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-22 | 2023-11-18 |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-11-25 | 2023-01-21 |
 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2024-09-27 | 2025-02-15 |
-| [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 |  |
+| [YES IT IS \(feat\. Muni Long & Marsha Ambrosius\) \[REMIX\]](https://open.spotify.com/track/348qRxgLJ8qWtyYtZlHSNR) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [YES IT IS \(REMIX\)](https://open.spotify.com/album/1Viv4fJ9b6pQH98zby2XxA) | 4:02 | 2025-09-06 |  |
+| [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 | 2025-09-07 |
 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 | 2025-03-28 | 2025-05-10 |
 | [You And I](https://open.spotify.com/track/25UDLYL5fRm1LSfbUTt6Nt) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Out Of Mind](https://open.spotify.com/album/5UJ6nbZU8NPPHW3ZgEt5eG) | 2:48 | 2023-06-30 | 2024-02-24 |
 | [YOU DON’T KNOW \(feat\. Alex Isley\)](https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [i do this sh\*t in my sleep](https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg) | 2:03 | 2024-08-09 |  |

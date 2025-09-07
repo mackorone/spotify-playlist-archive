@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 134178,
+  "num_followers": 134174,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
+        "name": "The Beautiful Day",
+        "url": "https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Stuart Mindeman",
+          "url": "https://open.spotify.com/artist/1uZVVuz5S1UbpAr6zNaSKK"
+        }
+      ],
+      "duration_ms": 272160,
+      "name": "Christmas Children",
+      "url": "https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
         "name": "The Pianoman at Christmas (The Complete Edition)",
         "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 173585,
       "name": "This Winter",
       "url": "https://open.spotify.com/track/5vvdwmov2OAwwuNsE6qFlp"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
-        "name": "The Beautiful Day",
-        "url": "https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Stuart Mindeman",
-          "url": "https://open.spotify.com/artist/1uZVVuz5S1UbpAr6zNaSKK"
-        }
-      ],
-      "duration_ms": 272160,
-      "name": "Christmas Children",
-      "url": "https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
+      },
+      "artists": [
+        {
+          "name": "Reese Quartet",
+          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
+        }
+      ],
+      "duration_ms": 101102,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
         "name": "A Nancy Wilson Christmas",
         "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 99179,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
-      },
-      "artists": [
-        {
-          "name": "Reese Quartet",
-          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
-        }
-      ],
-      "duration_ms": 101102,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
     },
     {
       "added_at": "2025-09-04 12:37:02",

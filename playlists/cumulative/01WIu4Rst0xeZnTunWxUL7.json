@@ -921,24 +921,6 @@
     },
     {
       "album": {
-        "name": "The Legendary Lennon & Harrison, Guitar Gently Weep (Vantage Audio Documentary)",
-        "url": "https://open.spotify.com/album/64dQsoP2mDE0nxBjvaAm20"
-      },
-      "artists": [
-        {
-          "name": "VANTAGE",
-          "url": "https://open.spotify.com/artist/6ZpnY5vJa18Xadgq7p7Kcx"
-        }
-      ],
-      "date_added": "2014-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3003071,
-      "name": "Vantage Audio Documentary",
-      "url": "https://open.spotify.com/track/002iHpz1z9UbrIzJ8xcx3M"
-    },
-    {
-      "album": {
         "name": "Vantage Audio Documentary - Marilyn Monroe",
         "url": "https://open.spotify.com/album/4HaDuUPRYygtKWTfngJuy5"
       },
@@ -954,6 +936,24 @@
       "duration_ms": 3150431,
       "name": "Vantage Audio Documentary - Marilyn Monroe",
       "url": "https://open.spotify.com/track/3SqusKgYQPuxZUKgcAIypp"
+    },
+    {
+      "album": {
+        "name": "The Legendary Lennon & Harrison, Guitar Gently Weep (Vantage Audio Documentary)",
+        "url": "https://open.spotify.com/album/64dQsoP2mDE0nxBjvaAm20"
+      },
+      "artists": [
+        {
+          "name": "VANTAGE",
+          "url": "https://open.spotify.com/artist/6ZpnY5vJa18Xadgq7p7Kcx"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3003071,
+      "name": "Vantage Audio Documentary - Vantage Audio Documentary",
+      "url": "https://open.spotify.com/track/002iHpz1z9UbrIzJ8xcx3M"
     },
     {
       "album": {

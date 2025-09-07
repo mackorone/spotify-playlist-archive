@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-398 songs - 1 day 2 hr 5 min
+399 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Golden Hour](https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Golden Hour](https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y) | 3:02 | 2025-07-25 | 2025-08-12 |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2023-10-28 |
-| [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 |  |
+| [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 | 2025-09-07 |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 | 2023-06-11 |
 | [Hasta Málaga](https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Hasta Málaga](https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx) | 2:28 | 2024-08-30 | 2024-09-19 |
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-21 |  |
@@ -199,6 +199,7 @@
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2023-05-19 |  |
 | [Leave Me Behind](https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:45 | 2023-05-19 |  |
 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 | 2021-07-24 | 2023-05-20 |
+| [Let It Go, Baby](https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh), [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Let It Go, Baby](https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ) | 2:29 | 2025-09-05 |  |
 | [Let's Vibe](https://open.spotify.com/track/4tekXLedu6wxNhHkKjFkPE) | [FRENCHGRL](https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC) | [Let's Vibe](https://open.spotify.com/album/5ZIV0N6tcjZK8G0z7yQTVc) | 3:13 | 2025-05-16 |  |
 | [Letras](https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca](https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK) | 4:39 | 2024-09-13 |  |
 | [Life After Love](https://open.spotify.com/track/2EpQzgxlQgzhxH8ctY5PhG) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [Life After Love](https://open.spotify.com/album/5DEzaA7NAYasbacnUPVR2b) | 3:16 | 2024-06-14 | 2024-06-23 |

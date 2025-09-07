@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Pd: Soy Cris.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,367 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,371 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 40 | [Veo la luz](https://open.spotify.com/track/1m93ISUcxY082t3ao7JSqS) | [Código Bushido](https://open.spotify.com/artist/07L8VAxYnAlJwnNEWdTIHI) | [Veo la luz](https://open.spotify.com/album/44ksRO235ib0jMJxC6XOHr) | 3:37 |
 | 41 | [Come and Get It](https://open.spotify.com/track/3tHebi3IQWgcl3s5XhFIRj) | [Smart K.](https://open.spotify.com/artist/3B26r8S8DxQAlO15HfzFOQ) | [Come and Get It](https://open.spotify.com/album/4D3aQuUvm5evJU5ZFekKS0) | 2:37 |
 | 42 | [Lolilaló](https://open.spotify.com/track/4SGktyZ5iY30bgJySmVdya) | [Titu Martí](https://open.spotify.com/artist/3UL3WXAYo3ZURTAvVINleF) | [Lolilaló](https://open.spotify.com/album/5IDhS7hAbNdz14et96eCI8) | 2:38 |
-| 43 | [Sola escuchando punk](https://open.spotify.com/track/5YVnHgpNjEEkaVh3RTjr9j) | [Nazzz](https://open.spotify.com/artist/6wTmJT0q2BgbcGTYRxEI9j) | [Sola escuchando punk](https://open.spotify.com/album/7y5JY3cmDfy6UkrdMdnGCw) | 2:28 |
+| 43 | [Sola escuchando punk](https://open.spotify.com/track/5YVnHgpNjEEkaVh3RTjr9j) | [NAZZZ](https://open.spotify.com/artist/6wTmJT0q2BgbcGTYRxEI9j) | [Sola escuchando punk](https://open.spotify.com/album/7y5JY3cmDfy6UkrdMdnGCw) | 2:28 |
 | 44 | [El viaje](https://open.spotify.com/track/46N94CYS56Oxy5IyL6GEv8) | [ESMEE](https://open.spotify.com/artist/7LkegFXpefWII4bLEa53qe) | [El viaje](https://open.spotify.com/album/1gkV9jFpcmIXrycFeBeskv) | 3:54 |
 | 45 | [Dnd está mi corazón?¿?](https://open.spotify.com/track/6DHROQWqg4hQUcrDsUIuEf) | [Aguh](https://open.spotify.com/artist/4pyl3CSt9krwN97yVF6fj8), [Dreisyy](https://open.spotify.com/artist/6eG0vxLJlKKzmh52JuaRGq) | [Dnd está mi corazón?¿?](https://open.spotify.com/album/4LT3ErJ7NzZjn97hwwobex) | 2:03 |
 | 46 | [Gelosies](https://open.spotify.com/track/29mEQtE1iexR3JWCrigBFm) | [Júlia Colom](https://open.spotify.com/artist/2FGexWthFJnvymvErkOPaI) | [Gelosies](https://open.spotify.com/album/2fryr3aJI3sKcQ4Hen3zkl) | 2:34 |

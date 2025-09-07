@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,267 likes - 250 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,389 likes - 250 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 3 | [Baa Baa Black Sheep](https://open.spotify.com/track/33EWQ3PCX0dLK2jd0hlLcn) | [Tiny Hush](https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF) | [Baa Baa Black Sheep](https://open.spotify.com/album/5X5mV9AfkmTAA3HEy1zXvW) | 1:23 |
 | 4 | [Itsy Bitsy Spider](https://open.spotify.com/track/1NLxXl0g2PWyi3r61D9yy1) | [Pajama Llama](https://open.spotify.com/artist/29SbmvhRNO8sON3UBDpqoi) | [Itsy Bitsy Spider](https://open.spotify.com/album/1JRPvwmQwhmCcedNpHccLc) | 1:34 |
 | 5 | [The Happy Farmer](https://open.spotify.com/track/3JgeGkT35Bsk4hRxcD09Sd) | [Cedric Everglen](https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ) | [The Happy Farmer](https://open.spotify.com/album/4h1YcCYPfxIMcLxm3fSKFi) | 2:03 |
-| 6 | [Close Your Eyes](https://open.spotify.com/track/18cvfNc9UDQzCc75wQaOlO) | [Holly Carter](https://open.spotify.com/artist/50isbkQfU0PQr5su7FMoZ7) | [Close Your Eyes](https://open.spotify.com/album/34fFGtrTRBdBvwjBkOndJ4) | 1:31 |
+| 6 | [Close Your Eyes](https://open.spotify.com/track/18cvfNc9UDQzCc75wQaOlO) | [Harper Toews](https://open.spotify.com/artist/7zc4I8LHbuhhk6TcMvBNHe) | [Close Your Eyes](https://open.spotify.com/album/34fFGtrTRBdBvwjBkOndJ4) | 1:31 |
 | 7 | [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 |
 | 8 | [Mister Rabbit](https://open.spotify.com/track/3vjdVYb1TiEm4vmoXvIucK) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [Mister Rabbit](https://open.spotify.com/album/4WOrlCXdUXPoGzkvuDf4Oo) | 1:23 |
 | 9 | [Matteo´s Dream](https://open.spotify.com/track/3ASoXnOxL4yYCeLayrAkS9) | [Anna Murakami](https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws) | [Matteo´s Dream](https://open.spotify.com/album/6kS79YkwyY0UxpNe3s5DJ8) | 1:10 |

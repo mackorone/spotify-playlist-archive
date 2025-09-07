@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Felipe Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,630 likes - 100 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,041 likes - 100 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

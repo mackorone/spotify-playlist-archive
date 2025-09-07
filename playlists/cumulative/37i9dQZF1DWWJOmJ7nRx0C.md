@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Deftones
 
-1,539 songs - 3 day 19 hr 58 min
+1,540 songs - 3 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [Maleficent](https://open.spotify.com/track/4csHSnOIjNti7fEbvOwF0W) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Maleficent](https://open.spotify.com/album/5qdS2NRrbQjT21x369c3Ox) | 3:48 | 2023-05-26 | 2023-08-05 |
 | [Mama I'm Coming Home](https://open.spotify.com/track/1MKea3qAeUgkpoHYAMcDhK) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters \(Deluxe\)](https://open.spotify.com/album/0Rr7MekxYWWO1u1Ph3onQY) | 3:50 | 2022-10-28 | 2022-12-10 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-24 | 2025-06-10 |
+| [Maneater](https://open.spotify.com/track/2bHGwS7k1U3lDDhEz3qjmI) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Maneater](https://open.spotify.com/album/315WL9wdYAiTTudSTkbpDw) | 2:52 | 2025-09-05 |  |
 | [Maniac](https://open.spotify.com/track/0ukaxzdMO2WGxugrJaHzbN) | [Tropic Gold](https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP) | [Maniac](https://open.spotify.com/album/0XrvDMEKT1ppWab1df27PV) | 3:41 | 2023-10-06 | 2023-11-11 |
 | [March of the Insane](https://open.spotify.com/track/5Jn0Kw1DtNLFWB8z1vrIwP) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [March of the Insane](https://open.spotify.com/album/2JGSRUldESbdFxQIMw2OQT) | 3:18 | 2022-02-18 | 2022-03-18 |
 | [Mars Simula](https://open.spotify.com/track/1winmqK6HKElJ7q01kxDwj) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [NIRATIAS](https://open.spotify.com/album/3OFNdoIt29176cAfAoSUfH) | 4:11 | 2021-05-21 | 2022-03-05 |
@@ -1214,7 +1215,7 @@
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-04-09 |
 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 | 2021-11-12 | 2022-01-08 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-07-12 | 2025-05-03 |
-| [Stare At The Void](https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Stare At The Void](https://open.spotify.com/album/7MsTZUHYSSRsjLT7TX5ljY) | 3:52 | 2025-04-18 |  |
+| [Stare At The Void](https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Stare At The Void](https://open.spotify.com/album/7MsTZUHYSSRsjLT7TX5ljY) | 3:52 | 2025-04-18 | 2025-09-07 |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2021-11-12 | 2022-02-05 |
 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 | 2025-02-07 | 2025-05-17 |
 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 | 2024-10-25 | 2024-11-16 |

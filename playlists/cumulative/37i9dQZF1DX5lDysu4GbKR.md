@@ -4,7 +4,7 @@
 
 > Stripped back vibes\. Cover:  Lekan
 
-294 songs - 17 hr 11 min
+296 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Can't Be Wrong \- Majestic Session](https://open.spotify.com/track/6aTjY2Fj5lbVNy1p7Y0nLd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Can't Be Wrong \(Majestic Session\)](https://open.spotify.com/album/3XyV7eKz63SzZHsxINSi67) | 4:05 | 2021-12-09 |  |
 | [Can't Have It All \(Acoustic\)](https://open.spotify.com/track/2xLhNn8me1FJM9k3m8qCRh) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Can't Have It All \(Acoustic\)](https://open.spotify.com/album/6SwbTc479EogHUYbI7tCan) | 2:58 | 2022-12-15 |  |
 | [Can't Stay](https://open.spotify.com/track/2sVV8LROIH1Z7mJWBBYpkU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:41 | 2024-11-15 |  |
+| [Capable](https://open.spotify.com/track/6EWoKC9WQ2acoHzZ1Tkb9t) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:42 | 2025-09-07 |  |
 | [CARI'S HONEYMOON](https://open.spotify.com/track/0AU4Spk0C443gEWAJ6hUh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 1:00 | 2025-05-09 |  |
 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 | 2024-08-16 |  |
 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 | 2024-11-01 |  |
@@ -83,6 +84,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/5TIHT94tJufZuni8d4RSlP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 4:04 | 2024-11-08 |  |
 | [Don't Walk Ahead](https://open.spotify.com/track/2ZqEojdExixApk1nY1Cib6) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V) | [Don't Walk Ahead](https://open.spotify.com/album/1NF1osQtBrL6U6CAguMqE1) | 3:31 | 2021-12-09 | 2022-07-29 |
 | [Don't Walk Ahead](https://open.spotify.com/track/2fXQU9i2Wvydt9AHa7Uh32) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V), [Joshua Heath](https://open.spotify.com/artist/0EP7WvDUkmtpa4zIN5SAlz), [Lyell Roeder](https://open.spotify.com/artist/21GNV26W7xdaJJfKc0N9S8), [Ankit Suri](https://open.spotify.com/artist/4EEzmnDnnNZCwz3ZfHW5xB), [Evan Hatfield](https://open.spotify.com/artist/3k8qxnliTHOu0KzdKfuS2V) | [Don't Walk Ahead](https://open.spotify.com/album/76uO2WahtkVA65sywYmb8m) | 3:31 | 2022-06-16 | 2023-08-31 |
+| [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 | 2025-09-07 |  |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2021-12-09 | 2024-02-09 |
 | [EITHER OR](https://open.spotify.com/track/6OAhcUEjnuZwkgaRhimayn) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [EITHER OR](https://open.spotify.com/album/4pBPVUF3CLqVNhNA5vfL4B) | 2:04 | 2024-10-19 |  |
 | [Family \- Acoustic](https://open.spotify.com/track/6Q8gSQmRmZjC8KWDG8MvDp) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family \(Acoustic\)](https://open.spotify.com/album/6wG1edDF2eRNNjRX86F1oD) | 3:58 | 2021-12-09 |  |

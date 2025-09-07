@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,501 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,594 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 24 | [ASCENSION](https://open.spotify.com/track/0ZZkpUNY5pMPrSD2UGKpr8) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L), [Teal](https://open.spotify.com/artist/1rZTUrXEHSOC6Q5nn3484A) | [ASCENSION](https://open.spotify.com/album/1rATQC28mft9unl1NPHHbQ) | 3:30 |
 | 25 | [PATIENT ZERO](https://open.spotify.com/track/789rdb2uJ6BmrO73upVDGP) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [PATIENT ZERO](https://open.spotify.com/album/15pDRuSHVMkCkZvoplbzc7) | 2:58 |
 | 26 | [Border Of Reality](https://open.spotify.com/track/1ka1mvoXYfY14QHTJGCT6K) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv), [ANDY SVGE](https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp) | [Border Of Reality](https://open.spotify.com/album/4fMCPvMvJXK4Y7o7f52LlB) | 3:50 |
-| 27 | [The Rebellion](https://open.spotify.com/track/6gAio3Ad1heiDLsgRKgGCU) | [The Smiler](https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm), [Faceless](https://open.spotify.com/artist/3vvSZWQLn1ps6KJ9PQB0Fx) | [The Rebellion](https://open.spotify.com/album/1SlICEswqtMoTUwicRxovU) | 2:49 |
+| 27 | [The Rebellion](https://open.spotify.com/track/6gAio3Ad1heiDLsgRKgGCU) | [The Smiler](https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm), [Faceless](https://open.spotify.com/artist/6Tx1eyyk7TnZ8kJsrRaJ2u) | [The Rebellion](https://open.spotify.com/album/1SlICEswqtMoTUwicRxovU) | 2:49 |
 | 28 | [Heart Attack](https://open.spotify.com/track/1i4T9wZQCQDzgPllYePboc) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Heart Attack](https://open.spotify.com/album/01tKzSis1CijIgCceiBBHv) | 2:37 |
 | 29 | [Slam & Jam](https://open.spotify.com/track/10oRo6sj6fGmtzgNgyKVv4) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Slam & Jam](https://open.spotify.com/album/1JVMXgdr9fbdwEKYbUckaV) | 2:42 |
 | 30 | [CHAOS](https://open.spotify.com/track/3OS6AGUpWX2z5NQhKVnBHf) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [CHAOS](https://open.spotify.com/album/3jftWMxRJPCZDk14US1H2b) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,905 likes - 230 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,369 likes - 230 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,7 +209,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 199 | [Brown Waves 420 Hz Soft Q](https://open.spotify.com/track/5eBwezSk823pUYaN40U1jQ) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Brown Collection Part 2](https://open.spotify.com/album/55nB417o23ycw0v5jh46Zv) | 3:09 |
 | 200 | [Brown Noise 320 Hz](https://open.spotify.com/track/3eOeRly00MkRZdXE87wd4j) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Rumore Marrone](https://open.spotify.com/album/1b72n5oTBZdwlfVr4gDKL1) | 3:34 |
 | 201 | [Dozing Brown Noise](https://open.spotify.com/track/5R0UODNGLirDEUzi3gU63G) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Deep Brown Noise Sleep Sounds](https://open.spotify.com/album/4CURTNRuP58SPdt4JTnb8d) | 2:44 |
-| 202 | [Oceanic Brown Noise](https://open.spotify.com/track/2rCwRmAlM27oTMPEtiiUBy) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:20 |
+| 202 | [Oceanic Brown Noise](https://open.spotify.com/track/2rCwRmAlM27oTMPEtiiUBy) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:20 |
 | 203 | [Brown Focus Noise 400 Hz Soft Q](https://open.spotify.com/track/5AqHhTMO9sO70kzWu2ji3a) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 3:02 |
 | 204 | [Deep Brown Noise](https://open.spotify.com/track/2jepatCWJf4cBsrOSM1oiw) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:50 |
 | 205 | [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 |

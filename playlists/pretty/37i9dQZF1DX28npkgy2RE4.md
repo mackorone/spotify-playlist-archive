@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,007 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,033 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 136 | [Big Star \- Alt](https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Big Star \(Alt\)](https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW) | 4:04 |
 | 137 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 |
 | 138 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
-| 139 | [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 |
-| 140 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
+| 139 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
+| 140 | [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 |
 | 141 | [Halo \- Acoustic Version](https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Halo & Begin Again \(Unplugged\)](https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU) | 3:37 |
 | 142 | [mud](https://open.spotify.com/track/5irN1VPsOqBPpmyHu8Mh9X) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [deer](https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7) | 2:06 |
 | 143 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Scorcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,548 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,551 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 64 | [Head Case](https://open.spotify.com/track/5be9oOg00OhcUhenKs6cbw) | [Avaword](https://open.spotify.com/artist/1eEyNOCSfEZ3HmDjaUaLrc), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [Avaworld](https://open.spotify.com/album/34H4YyvhU5OTyu5rt0CKok) | 2:49 |
 | 65 | [Runway](https://open.spotify.com/track/7KBSfbAi4iEwekEDzBFfKR) | [Christopha](https://open.spotify.com/artist/0mzmqOykuhGTv2fiPdUTXR) | [Runway](https://open.spotify.com/album/0F5F3RiUT2KtjO9E5TFgbu) | 1:57 |
 | 66 | [ICE VS ICE](https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa) | [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44) | [ICE VS ICE](https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM) | 1:22 |
-| 67 | [R.I.O.T.](https://open.spotify.com/track/12tPULrVovU3H4eO5wHAhz) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [R.I.O.T.](https://open.spotify.com/album/0Ed8HgUbVjimSFgu0xuM6r) | 3:06 |
-| 68 | [LORDSBACK](https://open.spotify.com/track/6tz7H2LGak2ePMD9NPCNFz) | [Lord Biggz](https://open.spotify.com/artist/71fUTviaur73SQsThAkJ0N), [Idris Miles](https://open.spotify.com/artist/4YV89vslAioQjuWNZYezzj), [Megamikes](https://open.spotify.com/artist/3tGMsKZaETe0hipKWZWchb) | [LORDSBACK](https://open.spotify.com/album/5cMsjqmXAdnUCRSg9lmxRu) | 2:34 |
-| 69 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
-| 70 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
+| 67 | [London City](https://open.spotify.com/track/4L2eN7aAHqnzDIdAMph46y) | [Vic Santoro](https://open.spotify.com/artist/35KDE2KSa0OKt1iyWG3azS), [Two Tone](https://open.spotify.com/artist/0coEPQVG6dBL1edMxy5C2C) | [London City](https://open.spotify.com/album/39lRdExWPh51ekagVl2yHf) | 3:34 |
+| 68 | [R.I.O.T.](https://open.spotify.com/track/12tPULrVovU3H4eO5wHAhz) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [R.I.O.T.](https://open.spotify.com/album/0Ed8HgUbVjimSFgu0xuM6r) | 3:06 |
+| 69 | [LORDSBACK](https://open.spotify.com/track/6tz7H2LGak2ePMD9NPCNFz) | [Lord Biggz](https://open.spotify.com/artist/71fUTviaur73SQsThAkJ0N), [Idris Miles](https://open.spotify.com/artist/4YV89vslAioQjuWNZYezzj), [Megamikes](https://open.spotify.com/artist/3tGMsKZaETe0hipKWZWchb) | [LORDSBACK](https://open.spotify.com/album/5cMsjqmXAdnUCRSg9lmxRu) | 2:34 |
+| 70 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
 
 Snapshot ID: `AAAAACTL83IIuqwEPR7nweo33szw6mWK`

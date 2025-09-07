@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,171 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,195 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 74 | [Understanding](https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv) | [m.0](https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme) | [Solace](https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge) | 6:41 |
 | 75 | [Going Home](https://open.spotify.com/track/2o7fSWiT3vOVJEeJj8lQJE) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color \(Extended Play No\. 1\)](https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3) | 5:58 |
 | 76 | [Fire Walk](https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9) | [Komodo Kolektif](https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo) | [Lost Transmissions From the Off\-World Territories](https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ) | 3:57 |
-| 77 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 |
-| 78 | [Magic](https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv), [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By), [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Solar Bridge](https://open.spotify.com/album/5XvuOSe15rwQZdNUlaIrg7) | 12:30 |
+| 77 | [Magic](https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv), [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By), [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Solar Bridge](https://open.spotify.com/album/5XvuOSe15rwQZdNUlaIrg7) | 12:30 |
+| 78 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 |
 | 79 | [How A Spiral Works](https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Signals Bulletin](https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54) | 6:25 |
 | 80 | [Overlay \- KMRU Remix](https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8) | [Koki Nakano](https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Overlay \(KMRU Remix\)](https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY) | 5:05 |
 | 81 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 94 | [Ideal](https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Renaissance](https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p) | 5:00 |
 | 95 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 |
 | 96 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 |
-| 97 | [Phare](https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI) | [Troth](https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r) | [Forget The Curse](https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa) | 6:19 |
-| 98 | [Titán](https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz) | [Chema Macazaga](https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN) | [Paisajes en Saturno](https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1) | 6:24 |
-| 99 | [On](https://open.spotify.com/track/2arFCnIZKZnFFl1OxQJCqV) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [On](https://open.spotify.com/album/555B251cduEoLSwUfspLxF) | 4:42 |
+| 97 | [On](https://open.spotify.com/track/2arFCnIZKZnFFl1OxQJCqV) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [On](https://open.spotify.com/album/555B251cduEoLSwUfspLxF) | 4:42 |
+| 98 | [Phare](https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI) | [Troth](https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r) | [Forget The Curse](https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa) | 6:19 |
+| 99 | [Titán](https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz) | [Chema Macazaga](https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN) | [Paisajes en Saturno](https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1) | 6:24 |
 | 100 | [Everyone is Far Away](https://open.spotify.com/track/4fmMywOoOP53r34yowvadz) | [Tapes and Topographies](https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43) | [Amplitudes](https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk) | 5:28 |
 
 Snapshot ID: `AAAAAC1SUU8UeHw1PI7stdPJhdmkPMm2`

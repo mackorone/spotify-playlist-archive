@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,636 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,638 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 | 43 | [NO ERA AMOR \- Super Slowed](https://open.spotify.com/track/1ppuvA6Jl2GYrwPcvLeRic) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/1q6CkFjXVnmDKO08OkyhXH) | 1:44 |
 | 44 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 |
 | 45 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
-| 46 | [TYPEWRITE LESSON](https://open.spotify.com/track/3SSIE7ScKKBLtA7y1ZBhVu) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Fantasma Bonus Tracks](https://open.spotify.com/album/2TXHTCQKxZwQOtdzu0vvhe) | 5:46 |
+| 46 | [Typewrite Lesson](https://open.spotify.com/track/2JEZdhsjF848Elx2XO3onI) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Fantasma \(Remastered\)](https://open.spotify.com/album/3Wml3n8kxQ1S14zXynLduY) | 5:46 |
 | 47 | [I Don't Know \- Extended Mix](https://open.spotify.com/track/0Q7CimEePk1tle2MG0LN8r) | [Erika](https://open.spotify.com/artist/5N9lpSK39RSCDkLxPNH4KC) | [Erika \(Essential Tunes\)](https://open.spotify.com/album/5t0M5IUCcpE96by5cOVJZ1) | 6:03 |
 | 48 | [10 Minut](https://open.spotify.com/track/4JJuP53drHC7Q2TafqNEgm) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Lil Buca Near](https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1) | [Space Blues Music](https://open.spotify.com/album/7euuPM8DU5g5vWK4ojNU5P) | 3:02 |
 | 49 | [DOORS LIGHT FUNK \- SLOWED](https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [DOORS LIGHT FUNK](https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV) | 1:43 |
 | 50 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`

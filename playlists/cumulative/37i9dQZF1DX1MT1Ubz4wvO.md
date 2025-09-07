@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Terrores Nocturnos en portada.
 
-4,659 songs - 11 day 4 hr 50 min
+4,660 songs - 11 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2415,6 +2415,7 @@
 | [Los Carritos](https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Fantasías de Violencia](https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4) | 4:13 | 2024-07-12 | 2024-07-19 |
 | [Los Chavales](https://open.spotify.com/track/0LsEMSCaFhtDZGdFt4ZrfE) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Los Chavales](https://open.spotify.com/album/0ipjuA6jlhQ2LT8PDjRlmh) | 3:28 | 2024-04-05 | 2024-04-19 |
 | [Los Cobardes Mueren Varias Veces](https://open.spotify.com/track/4yGwya4iGjo9JRhFuhycnW) | [PERRA BRAVA](https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE) | [Los Cobardes Mueren Varias Veces](https://open.spotify.com/album/5owEFAW6hQewFWkHqhGCjE) | 2:56 | 2025-07-25 | 2025-08-23 |
+| [Los cuervos se lo pasan bien](https://open.spotify.com/track/7ykP7h9XCmeGda3dtiw88n) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Los cuervos se lo pasan bien](https://open.spotify.com/album/0RLPT7vtjGo9CRwKRrNZd4) | 4:25 | 2025-09-05 |  |
 | [Los Dinosaurios \- En Vivo Baires](https://open.spotify.com/track/2gm5109YKQXxtfO7vcCZX5) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [Manuel García en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/5TGHo1m6dVkGAVH4LmU1nJ) | 3:50 | 2023-06-02 | 2023-06-17 |
 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 | 2024-09-27 | 2024-10-12 |
 | [Los días contados \(feat\. Funambulista, Shinova\)](https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Los días contados \(feat\. Funambulista, Shinova\)](https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0) | 3:47 | 2023-09-22 | 2023-10-07 |
@@ -4379,7 +4380,7 @@
 | [Vampireando](https://open.spotify.com/track/4bVei4FFVB4BEqIMGLEzJY) | [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [4:40](https://open.spotify.com/artist/7MOZ1UkkdIfPgjSHzIsR6F), [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Vampireando](https://open.spotify.com/album/1rNTpTww66GeirL8GJLXwG) | 2:23 | 2023-06-02 | 2023-06-17 |
 | [Vampiro](https://open.spotify.com/track/57ci6JfNtdlqqDkg0gdKp1) | [Aldo LaFleur](https://open.spotify.com/artist/6S9GzsuL9t8qmXDrC7ALph) | [Vampiro](https://open.spotify.com/album/4gmSQX8fORRM94DxTqOZz6) | 5:32 | 2024-08-23 | 2024-09-07 |
 | [Vampiros](https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q) | [Vacaciones Permanentes](https://open.spotify.com/artist/5bZw7KsPssYA9vjHvHgFVu) | [Vacaciones Permanentes](https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3) | 3:08 | 2024-10-18 | 2024-10-26 |
-| [VAN GOGH](https://open.spotify.com/track/4ARs3tQ9dmSVhxtW2AERAI) | [Mursia](https://open.spotify.com/artist/5N1gaNjqxUyRdogiNuJr03) | [Entre Lienzos](https://open.spotify.com/album/5T2Dq0KWi9ggmYDepC63zt) | 2:56 | 2025-08-22 |  |
+| [VAN GOGH](https://open.spotify.com/track/4ARs3tQ9dmSVhxtW2AERAI) | [Mursia](https://open.spotify.com/artist/5N1gaNjqxUyRdogiNuJr03) | [Entre Lienzos](https://open.spotify.com/album/5T2Dq0KWi9ggmYDepC63zt) | 2:56 | 2025-08-22 | 2025-09-07 |
 | [Vaquero](https://open.spotify.com/track/5M5zOLKOZxTSUj2ebw9hyL) | [Jauría](https://open.spotify.com/artist/1Abg5u0GFm9k3jst9mw4gH) | [Vaquero](https://open.spotify.com/album/1Zz6QKOD3fHozzRZIoHNKM) | 3:46 | 2025-01-31 | 2025-02-08 |
 | [VAS A VER](https://open.spotify.com/track/55TLLmgE5pjLR5zJS4Sskg) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [VAS A VER](https://open.spotify.com/album/4BQhnKDDZEIZnLl3hUe3CS) | 3:49 | 2024-06-28 | 2024-07-13 |
 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 | 2023-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,276 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,317 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 76 | [Video Game](https://open.spotify.com/track/0ZrZl6LGxKipa6JSJPnKQB) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y) | [Tropical Cosmic Sounds from Space \(Compiled by El Palmas\)](https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ) | 4:19 |
 | 77 | [1958 Revisited](https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa) | [Fred Weinberg](https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ) | [The Weinberg Method of Nonsynthetic Electronic Rock](https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y) | 2:08 |
 | 78 | [Heavy Lace](https://open.spotify.com/track/1xVXAqPWaT010F2TMj5Eds) | [Roger Webb](https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO), [De Wolfe Music](https://open.spotify.com/artist/2CIYXJTMc2WH7XVlqZ5IrC) | [Moonshade](https://open.spotify.com/album/3t1cJhFgS5M3rD2ivYnqLd) | 1:31 |
-| 79 | [Space Express](https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:19 |
+| 79 | [Short Circuit](https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:13 |
 | 80 | [Mainframe Blues](https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Mind Games](https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD) | 2:51 |
 | 81 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 |
-| 82 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 |
-| 83 | [Gefahrenzone I](https://open.spotify.com/track/7ec3pOpU47mSCfGqwPmE8H) | [Gerhard Trede](https://open.spotify.com/artist/3wTIZkM67FbgrIjhxGjgpu) | [Unbekannte Welt = Unknown World](https://open.spotify.com/album/6tLAb4i19HlGyoluVcjkb6) | 3:39 |
-| 84 | [Short Circuit](https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:13 |
+| 82 | [Gefahrenzone I](https://open.spotify.com/track/7ec3pOpU47mSCfGqwPmE8H) | [Gerhard Trede](https://open.spotify.com/artist/3wTIZkM67FbgrIjhxGjgpu) | [Unbekannte Welt = Unknown World](https://open.spotify.com/album/6tLAb4i19HlGyoluVcjkb6) | 3:39 |
+| 83 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 |
+| 84 | [Space Express](https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:19 |
 | 85 | [Abominatron](https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO) | [33](https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:53 |
 | 86 | [Beyoğlu'nda Gezersin](https://open.spotify.com/track/0qJ9xwR2Qak7kc07ovYQM8) | [Gökçen Kaynatan](https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF) | [Pencerenin Perdesini / Beyoğlu'nda Gezersin](https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU) | 3:47 |
 | 87 | [The First Exploration @ SF Radical Laboratories, 1968](https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ) | [Doug McKechnie](https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D) | [San Francisco Moog: 1968\-72 Vol\. 1](https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl) | 8:31 |

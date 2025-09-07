@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Miguel",
-  "num_followers": 1101041,
+  "num_followers": 1101146,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBEbTKlbQGAztxr4+a6jXVtmRF8",
+  "snapshot_id": "AAAAACVxhxPHVW9hlZui2ItcvP61WwpV",
   "tracks": [
     {
       "added_at": "2025-09-05 04:00:06",
@@ -99,6 +99,30 @@
       "duration_ms": 196977,
       "name": "PETTING ZOO",
       "url": "https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU"
+    },
+    {
+      "added_at": "2025-09-06 03:09:03",
+      "album": {
+        "name": "YES IT IS (REMIX)",
+        "url": "https://open.spotify.com/album/1Viv4fJ9b6pQH98zby2XxA"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "duration_ms": 242402,
+      "name": "YES IT IS (feat. Muni Long & Marsha Ambrosius) [REMIX]",
+      "url": "https://open.spotify.com/track/348qRxgLJ8qWtyYtZlHSNR"
     },
     {
       "added_at": "2025-09-05 04:00:06",

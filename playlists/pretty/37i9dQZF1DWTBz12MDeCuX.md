@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,614 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,583 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 12 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 13 | [was du für mich bist \- vip](https://open.spotify.com/track/1so709pQCdpjJMkxoZp4XL) | [OTIS](https://open.spotify.com/artist/5UhU0sGRQAyORoDKIoaoXn), [NØAH](https://open.spotify.com/artist/6aFGdXHBKah1nyrqrGryuE) | [was du für mich bist \(vip\)](https://open.spotify.com/album/225NCR3Sct0iEeSC9HSdcZ) | 3:12 |
 | 14 | [Egal](https://open.spotify.com/track/6zF5LE8eK9Bf98UwLVe8Du) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Egal](https://open.spotify.com/album/6ITpDSZZKmZejmS4EPMqPW) | 2:59 |
-| 15 | [andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp) | [Brown\-Eyes White Boy](https://open.spotify.com/artist/6BLnEWMbK74TwblikHBtB8) | [andere Stadt](https://open.spotify.com/album/7vmGu6pYB1XryMV3F3pCLa) | 2:08 |
+| 15 | [Andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp) | [Brown\-Eyes White Boy](https://open.spotify.com/artist/6BLnEWMbK74TwblikHBtB8) | [Andere Stadt](https://open.spotify.com/album/7vmGu6pYB1XryMV3F3pCLa) | 2:08 |
 | 16 | [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 |
 | 17 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 |
 | 18 | [Herr Officer](https://open.spotify.com/track/2pi42mKKIyoVCJ51IP2YBj) | [Baran Kok](https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ) | [Herr Officer](https://open.spotify.com/album/5m6KedplHeYjm867B75VPz) | 2:30 |

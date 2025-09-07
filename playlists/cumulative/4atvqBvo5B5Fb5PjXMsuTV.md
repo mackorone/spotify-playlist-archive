@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Sep 03:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Sep 22:04 UTC.
 
-5,444 songs - 12 day 15 hr 29 min
+5,445 songs - 12 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [BACK ON](https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BACK ON](https://open.spotify.com/album/0fF0wqKHPa6G1wYpgsXPyG) | 3:21 | 2024-07-03 | 2024-07-06 |
 | [BACK ROAD SWANGIN](https://open.spotify.com/track/6PY1lAbBPAVotsHEfBgxNf) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK ROAD SWANGIN](https://open.spotify.com/album/02C2nrhLxsjf8ams7XNy8U) | 3:09 | 2025-03-25 | 2025-04-04 |
 | [Back There Now](https://open.spotify.com/track/4vsNXG1IRFMU3dg4BZAeui) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Back There Now](https://open.spotify.com/album/6Q7j1Y8e3EZuHhHy7cfmJU) | 2:28 | 2024-08-13 | 2024-08-16 |
+| [Back to Forgetting](https://open.spotify.com/track/79Z2Iy4mziYk7gvl2bTbny) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Back to Forgetting](https://open.spotify.com/album/3EraXHphkdhNQfYivIaVY0) | 2:34 | 2025-09-06 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 | 2025-04-17 |
 | [Back To Town](https://open.spotify.com/track/2y9LB5ylOBteGk59naF3lf) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Back To Town](https://open.spotify.com/album/62NPk2Lhiv4eLF2jLGLdjG) | 2:40 | 2024-11-30 | 2024-12-05 |
 | [Back to You](https://open.spotify.com/track/0NCV1LFqZdk2CAAfvb0L2G) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Back to You](https://open.spotify.com/album/0AEyLiiOG8X8gJDlxNjndR) | 3:33 | 2024-06-15 | 2024-06-19 |
@@ -668,7 +669,7 @@
 | [BOTTLE POP](https://open.spotify.com/track/60xTV829FKAb5ZEBxI7jat) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [BOTTLE POP](https://open.spotify.com/album/0UBxtltxveij1SiDq21qlV) | 2:22 | 2024-05-22 | 2024-05-25 |
 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2024-12-10 | 2024-12-14 |
 | [Bounce Out Muzik](https://open.spotify.com/track/5gwSsTb0fDZuatAaQ1ee0O) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Bounce Out Muzik](https://open.spotify.com/album/347tf7QN1kifYOyFTuFGce) | 1:48 | 2024-12-11 | 2024-12-14 |
-| [Bound2U](https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm) | 2:56 | 2025-08-28 |  |
+| [Bound2U](https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm) | 2:56 | 2025-08-28 | 2025-09-07 |
 | [Bouquet for Me](https://open.spotify.com/track/7dlbeaOxrdBSt7TZDQNmZK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Bouquet for Me](https://open.spotify.com/album/1dWlslDvWgxfH0OpdnOVyR) | 3:48 | 2025-03-14 | 2025-03-21 |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-13 | 2025-04-24 |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-14 | 2025-01-23 |
@@ -2782,7 +2783,7 @@
 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 | 2024-09-17 | 2024-09-19 |
 | [Lo sai solo tu](https://open.spotify.com/track/5dA4w92G7FYSemcsXc7Idr) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ) | [Lo sai solo tu](https://open.spotify.com/album/2Tm1vK1bcf92x9sAv6phqX) | 2:41 | 2024-11-29 | 2024-12-05 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-04 | 2025-01-16 |
-| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
+| [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
 | [Lockjaw 2](https://open.spotify.com/track/6zDC7r1EzJ8gf4GiSr7Ez7) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Lockjaw 2](https://open.spotify.com/album/6cky5nR2nafUXW1e9KZQoN) | 2:20 | 2024-09-13 | 2024-09-15 |
 | [Locust Abortion Technician Medley](https://open.spotify.com/track/4U0TLMTW709ATUKX5bISlS) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Locust Abortion Technician Medley](https://open.spotify.com/album/6XdLNCO49RyvS7wAHG10Fa) | 4:51 | 2024-09-13 | 2024-09-18 |
 | [Loitering](https://open.spotify.com/track/4OCmAdcx65ieClYytjFyPc) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Loitering](https://open.spotify.com/album/6f7VekMNXxDoGZuMgzLtzA) | 1:42 | 2024-06-29 | 2024-07-03 |

@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g"
+      },
+      "artists": [
+        {
+          "name": "Sieren",
+          "url": "https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268309,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c"
+    },
+    {
+      "album": {
         "name": "Aspetuck 002",
         "url": "https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1"
       },
@@ -7576,7 +7594,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 312857,
       "name": "Nyuku",
       "url": "https://open.spotify.com/track/09NBJKI7cAb5i9tuOLebTd"

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3146998,
+  "num_followers": 3147346,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1596,22 +1596,6 @@
       },
       "artists": [
         {
-          "name": "Sophia George",
-          "url": "https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Girlie Girlie",
-      "url": "https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
           "name": "The Maytals",
           "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
         }
@@ -1635,6 +1619,22 @@
       "duration_ms": 175026,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Double Barrel - The Best of Dave & Ansel Collins",
+        "url": "https://open.spotify.com/album/0i2pbEHt0qGGjTCcrJdVXf"
+      },
+      "artists": [
+        {
+          "name": "Ansel Collins",
+          "url": "https://open.spotify.com/artist/0IH1Rx8zeWyZLVrBloZp1Q"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Stalag 17",
+      "url": "https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl"
     }
   ],
   "unique_name": "Reggae Classics",

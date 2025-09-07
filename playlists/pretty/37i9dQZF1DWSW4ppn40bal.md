@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Fall fast asleep with deep noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,813 likes - 300 songs - 16 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,879 likes - 300 songs - 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 145 | [Brown Noise For Deep Reflection](https://open.spotify.com/track/7r0ZMFdGW4eOb9gWmDr6gC) | [Mimicers of the Wind](https://open.spotify.com/artist/0uT6Cc5eaJEEPIC6d74IMS) | [Brown Noise For Deep Reflection](https://open.spotify.com/album/4pVaknEc81BuRk7zMcwAUW) | 2:36 |
 | 146 | [Brown Sleep Noise](https://open.spotify.com/track/3m570ualu3Di7dSg3Kul4g) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Brown Noise Sleep](https://open.spotify.com/album/3Sz4bGmuVVziSuy5Q4bER4) | 2:34 |
 | 147 | [Sweet Sleep Brown Noise](https://open.spotify.com/track/48IAfxqW01o5oTwP3YCbgZ) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Brown Noise Sleep Sensations](https://open.spotify.com/album/2Ff86mAXvUw2iMfTx6E5nJ) | 3:20 |
-| 148 | [Pink Noise Moon](https://open.spotify.com/track/2J4zxmGylnG7HLJ486emfj) | [Bien Dormi](https://open.spotify.com/artist/69ZcsvO12Q42NzCAfZ5F9T) | [Bien Dormi](https://open.spotify.com/album/6hNirAwbKSixzozwGZAeRz) | 2:16 |
+| 148 | [Pink Noise Moon](https://open.spotify.com/track/2J4zxmGylnG7HLJ486emfj) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Bien Dormi](https://open.spotify.com/album/6hNirAwbKSixzozwGZAeRz) | 2:16 |
 | 149 | [Brown Noise Cold Plunge](https://open.spotify.com/track/6WSgIpFD161LgTUw5t0NcW) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Brown Noise Cold Plunge](https://open.spotify.com/album/3yAtESkBGw1WUqJvAAOuTD) | 3:44 |
 | 150 | [Street Noise \- Brown Noise](https://open.spotify.com/track/7iS8aC9Qmet8TyVUqyR4jY) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Street Noise](https://open.spotify.com/album/2YHzdONjtX9H2J0svfX1yp) | 3:00 |
 | 151 | [Brown Noise Lullaby](https://open.spotify.com/track/1V8y7X3bRwUGJjKLnyzlbl) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Brown Noise Lullaby](https://open.spotify.com/album/4EGAs1QyIqB7tsSiHRZIbu) | 3:43 |

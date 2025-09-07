@@ -13369,6 +13369,28 @@
     },
     {
       "album": {
+        "name": "StepBroStep EP",
+        "url": "https://open.spotify.com/album/6mFrh4hDsOxPeRx009uF4v"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        },
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281600,
+      "name": "MandelBrock",
+      "url": "https://open.spotify.com/track/1Ptnrndbn8iPp4YXFj6VpL"
+    },
+    {
+      "album": {
         "name": "The Machine",
         "url": "https://open.spotify.com/album/2ZSZcFH7PKIhGlmEvELLFg"
       },
@@ -21976,7 +21998,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 162206,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/6Ial5CnsybgyeA5NN9UPyU"

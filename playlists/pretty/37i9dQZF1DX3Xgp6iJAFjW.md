@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,124 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,122 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 32 | [Navidad Sin Ti](https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 3:50 |
 | 33 | [Ay, Ven en Navidad](https://open.spotify.com/track/7MiMJ4uF7MmYGEDaeMhwey) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:45 |
 | 34 | [Arbolito](https://open.spotify.com/track/3jOl0qRSfT1KkMd4pPLmeS) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño, Vol\. II](https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm) | 4:58 |
-| 35 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
+| 35 | [Llegó Navidad](https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Llegó Navidad](https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD) | 4:45 |
 | 36 | [De Trulla Con el Combo](https://open.spotify.com/track/2LNbxYAPYuVZX2y9MivSw0) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [De Trulla Con el Combo](https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq) | 4:29 |
-| 37 | [Llegó Navidad](https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Llegó Navidad](https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD) | 4:45 |
+| 37 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
 | 38 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 39 | [Pescao \(Popurri Sambao\): Si Se Quema El Monte / Coje El Pandero / Pescao \(Samba\)](https://open.spotify.com/track/7JIeUzAQeuGoED1235Eje9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:39 |
 | 40 | [Amerindio](https://open.spotify.com/track/6OOGXA7qm09X3PKrptesLB) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 1](https://open.spotify.com/album/6yGR9lJFtZACoDo4haXjMq) | 2:53 |

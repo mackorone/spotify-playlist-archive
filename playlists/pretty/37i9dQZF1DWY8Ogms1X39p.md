@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 
 > Lagu\-lagu yang bakal didengarkan si Pisang FYP di Pestapora 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,248 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,239 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 | 20 | [Back](https://open.spotify.com/track/3xA9aMJCPXgfx2rkeRnLiB) | [Bacill](https://open.spotify.com/artist/4GRTMyYeNNUobvNDVsNu9r) | [ANTIXUNIX](https://open.spotify.com/album/1eCskyfXmUCA7TvEwgNS91) | 2:48 |
 | 21 | [COBRA](https://open.spotify.com/track/6j8BB7cwUjxaLmmiWUywNS) | [Nara](https://open.spotify.com/artist/5ybvIfE3lpl0eExSuyRAnW) | [COBRA](https://open.spotify.com/album/5i9l8AHAELHxGCRn6rpGB7) | 2:32 |
 | 22 | [Batman Kasarung](https://open.spotify.com/track/5eSX2bWSKWHuviCw4mDRTA) | [Iwa K](https://open.spotify.com/artist/5V4Bmxj6CowUoOdcLUEQPt) | [Kuingin Kembali](https://open.spotify.com/album/6csTMn4GNFA9KwMTnlFW3C) | 4:26 |
-| 23 | [Women King](https://open.spotify.com/track/0lp7VYz0UZ0iVXeLRAaXxP) | [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Women King](https://open.spotify.com/album/73z4B4WhRO323TjiXGU3Lt) | 2:51 |
+| 23 | [Woi!](https://open.spotify.com/track/4QKG0jSyV3q8KNHQNBhXta) | [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Woi!](https://open.spotify.com/album/6WpwtdKvqLKQvZMskKY79F) | 2:25 |
 | 24 | [N.B.S.M](https://open.spotify.com/track/3DvJfW57cLBmhsqGDIZ9VJ) | [GNARLY CLUB](https://open.spotify.com/artist/3r0OEatK1jmPYA8Yz9dbZ7), [CHA1NZ](https://open.spotify.com/artist/0vtUTiCQ0kEuBcSzbRdhcF), [Bamskee](https://open.spotify.com/artist/45DRdlbDYzu44HEFCrJOue) | [Face the Reaper \(Guide to Gnarcissist Realm\)](https://open.spotify.com/album/6SWMnAOio5Z9h566k7D7z0) | 2:04 |
 | 25 | [Bergegas](https://open.spotify.com/track/5XB9Yp3f6CvhZrB6ysDc2T) | [Bacill](https://open.spotify.com/artist/4GRTMyYeNNUobvNDVsNu9r) | [ANTIXUNIX](https://open.spotify.com/album/1eCskyfXmUCA7TvEwgNS91) | 2:26 |
 | 26 | [youngbabydad](https://open.spotify.com/track/56Ao3MF2WwGrIFT9BCuqOb) | [Nara](https://open.spotify.com/artist/5ybvIfE3lpl0eExSuyRAnW), [Trigga Coca](https://open.spotify.com/artist/5z02WPA8hBN2qvPSdFC8Tn), [Fat Rorry](https://open.spotify.com/artist/1WSkNC0DRp1YSmbdxnyIq5) | [youngbabydad](https://open.spotify.com/album/1sI4RGXmBeDIPZdg4owfiw) | 2:30 |
 | 27 | [Baddie](https://open.spotify.com/track/6dSQWc2BR0btXmnOgasn49) | [Muztang](https://open.spotify.com/artist/2rRnMRqRBtiMVldHf2Zplw), [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Baddie](https://open.spotify.com/album/5wJ4CLODqLMhn4VaOarivQ) | 3:21 |
-| 28 | [Woi!](https://open.spotify.com/track/4QKG0jSyV3q8KNHQNBhXta) | [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Woi!](https://open.spotify.com/album/6WpwtdKvqLKQvZMskKY79F) | 2:25 |
+| 28 | [Women King](https://open.spotify.com/track/0lp7VYz0UZ0iVXeLRAaXxP) | [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Women King](https://open.spotify.com/album/73z4B4WhRO323TjiXGU3Lt) | 2:51 |
 | 29 | [Herex](https://open.spotify.com/track/2H2fxumEgZPbfC4GxO930D) | [GNARLY CLUB](https://open.spotify.com/artist/3r0OEatK1jmPYA8Yz9dbZ7), [CHA1NZ](https://open.spotify.com/artist/0vtUTiCQ0kEuBcSzbRdhcF), [Trico](https://open.spotify.com/artist/1F9dlchjFRruemNF373U61), [Jafarsnd](https://open.spotify.com/artist/4yoyBwgp5SusGJUrgT5WdO), [JBK](https://open.spotify.com/artist/634peVyWfpfvrKiDzIESs6) | [Face the Reaper \(Guide to Gnarcissist Realm\)](https://open.spotify.com/album/6SWMnAOio5Z9h566k7D7z0) | 2:24 |
 | 30 | [Eiyo](https://open.spotify.com/track/6GET8ozoRxl8i77Otvv2og) | [Bacill](https://open.spotify.com/artist/4GRTMyYeNNUobvNDVsNu9r), [M2mx](https://open.spotify.com/artist/1LtotlEzGV5JNEWx5MfDDO) | [Eiyo](https://open.spotify.com/album/1zmXW34KKaz6ELhIfjIFU5) | 3:02 |
 | 31 | [Phase](https://open.spotify.com/track/7BEciDAhy9vc6ownhhmvT2) | [Slothkidd](https://open.spotify.com/artist/15HEMQRya0rVITJlBA1bV2), [Wildan Shidiq](https://open.spotify.com/artist/23jy7DIk7c6ftXVdThz8a4) | [Phase](https://open.spotify.com/album/2KA8qWGSji5XI8AcSliGiO) | 3:39 |

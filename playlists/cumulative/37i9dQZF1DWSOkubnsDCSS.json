@@ -718,7 +718,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 173095,
       "name": "Big Shaq",
       "url": "https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb"
@@ -3654,6 +3654,28 @@
       "duration_ms": 199111,
       "name": "London",
       "url": "https://open.spotify.com/track/2LnJh6Bp0Zh3Ai2OodKTrC"
+    },
+    {
+      "album": {
+        "name": "London City",
+        "url": "https://open.spotify.com/album/39lRdExWPh51ekagVl2yHf"
+      },
+      "artists": [
+        {
+          "name": "Vic Santoro",
+          "url": "https://open.spotify.com/artist/35KDE2KSa0OKt1iyWG3azS"
+        },
+        {
+          "name": "Two Tone",
+          "url": "https://open.spotify.com/artist/0coEPQVG6dBL1edMxy5C2C"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214825,
+      "name": "London City",
+      "url": "https://open.spotify.com/track/4L2eN7aAHqnzDIdAMph46y"
     },
     {
       "album": {

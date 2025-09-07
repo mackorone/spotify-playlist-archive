@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21?si=Nfu5yL6CQoWc80j7LV02gQ">Ihhashi Elimhlophe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,403 likes - 87 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,595 likes - 87 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

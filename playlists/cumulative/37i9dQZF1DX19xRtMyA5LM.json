@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Gebroken Harten",
+        "url": "https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151281,
+      "name": "Gebroken Harten",
+      "url": "https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd"
+    },
+    {
+      "album": {
         "name": "Gedragscode",
         "url": "https://open.spotify.com/album/57V0X8vFiIQwe37Pxa9F9x"
       },
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 124732,
       "name": "Theezakjes",
       "url": "https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8"

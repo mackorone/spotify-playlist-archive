@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Nicki Nicole, Rauw Alejandro  Shakira, and more!!! Cover:Manuel Turizo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,203 likes - 207 songs - 10 hr 50 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,200 likes - 207 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

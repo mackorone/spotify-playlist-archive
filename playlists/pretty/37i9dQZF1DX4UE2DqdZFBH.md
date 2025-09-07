@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,819 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,833 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 76 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 |
 | 77 | [Valencia](https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Valencia](https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG) | 4:54 |
 | 78 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 |
-| 79 | [Mone Ki Dwidha](https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3) | [Sayandeep Roy](https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF) | [Ode To My Beloved \(Bhalobeshe Shokhi\)](https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg) | 4:16 |
-| 80 | [Mazaar](https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc) | [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s), [Gayathri Natarajan](https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh) | [AZAADI](https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz) | 9:37 |
+| 79 | [Mazaar](https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc) | [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s), [Gayathri Natarajan](https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh) | [AZAADI](https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz) | 9:37 |
+| 80 | [Mone Ki Dwidha](https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3) | [Sayandeep Roy](https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF) | [Ode To My Beloved \(Bhalobeshe Shokhi\)](https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg) | 4:16 |
 | 81 | [Lalitha](https://open.spotify.com/track/58rPweB9GHlIvpxuR2oje1) | [Rasika Shekar](https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp) | [Lalitha](https://open.spotify.com/album/09ww2kgps2B9CPtVNJqH2U) | 3:49 |
 | 82 | [Blossom](https://open.spotify.com/track/1fSASLRRwjPfVPF4vpQ3Gu) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [Aaron Sinclair](https://open.spotify.com/artist/30qeoFS7dHDWrD9idbcpLf) | [Blossom](https://open.spotify.com/album/6dZTgBjODMPiJZrijZ5MQN) | 5:58 |
 | 83 | [Lost Still Dreaming](https://open.spotify.com/track/5uV8ERbSoQBlPeBmfKvLKq) | [Deepayan Deep Maitra](https://open.spotify.com/artist/6B17cD6lXJeb08B2MvRx2b), [Debangshu Bhattacharjee](https://open.spotify.com/artist/6ehWecw14JSzcx7W9Kc0A7) | [Lost Still Dreaming](https://open.spotify.com/album/3V6e65LtNHnzOVLIoBahUY) | 5:11 |

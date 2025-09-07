@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-343 songs - 19 hr 32 min
+344 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/track/4d219MDLlMdxhBLyOEOoDx) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/album/0YSk1A1AnAoUku60Dwc3ja) | 2:22 | 2024-09-07 |  |
 | [Anoko secret](https://open.spotify.com/track/67gYAheGPb06KwCkuAaHbF) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:53 | 2023-01-29 |  |
 | [AntiSystem's \(feat\. Ado\)](https://open.spotify.com/track/3ixFouonAtRdwg4FiVN9z9) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AntiSystem's](https://open.spotify.com/album/5rLvwX10c9pwbRqzoqenCC) | 3:31 | 2024-04-06 |  |
+| [Après Midi あるパリの午後で](https://open.spotify.com/track/1NzZbipnZxnXkQiMvBqF1O) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Après Midi あるパリの午後で](https://open.spotify.com/album/6fz8W3GN3EelNG8EKo19Jk) | 5:21 | 2025-09-07 |  |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2021-01-13 |  |
 | [Battle Hymn of the Soul \- P3R ver.](https://open.spotify.com/track/3R8U6Yjmo1tJxKcNyiiOWH) | [小宮知子](https://open.spotify.com/artist/7nbTS6y1ly9AhcLMejJTcf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 5:49 | 2024-09-11 |  |
 | [Bitter Loss](https://open.spotify.com/track/1CFy1BShZQuiMCnAGja8la) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bitter Loss](https://open.spotify.com/album/0UqpMx3SgvGR0swT0yyeAv) | 3:23 | 2025-08-12 |  |

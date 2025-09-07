@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-634 songs - 2 day 4 hr 32 min
+635 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 |  |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
+| [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 |  |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |
 | [Five](https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Five EP](https://open.spotify.com/album/1d1C5lZ34OxnzawtsFMnCD) | 3:17 | 2025-03-21 |  |
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-11-10 |  |
@@ -386,7 +387,7 @@
 | [Notte senza fine \- Kiasmos Remix](https://open.spotify.com/track/6HUnAzGo1zYfdX4ZW1yiZh) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Endless \(Remixes\)](https://open.spotify.com/album/2obZe0VX40C3BL9FNmDjP7) | 6:28 | 2022-02-21 | 2023-03-04 |
 | [NOVA](https://open.spotify.com/track/3B1LN55NKboRbiTWuCEA9j) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [FEEL](https://open.spotify.com/album/1YUuLsspFu9xNpHfjyBPD4) | 2:39 | 2024-07-12 | 2025-05-03 |
 | [Novo Dia](https://open.spotify.com/track/3rYiDPHMFnUseosoKq6YCC) | [Mezomo](https://open.spotify.com/artist/0U791oo0NOxRO3OlSiYXnX), [Dri Reigado](https://open.spotify.com/artist/4aaXdniBUwpXzZJ8OdyLUg) | [Novo Dia](https://open.spotify.com/album/1PInwb9Znwu00pCKUVtb2C) | 7:05 | 2021-12-08 | 2022-07-22 |
-| [Nyuku](https://open.spotify.com/track/09NBJKI7cAb5i9tuOLebTd) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Nyuku EP](https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx) | 5:12 | 2025-06-19 |  |
+| [Nyuku](https://open.spotify.com/track/09NBJKI7cAb5i9tuOLebTd) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Nyuku EP](https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx) | 5:12 | 2025-06-19 | 2025-09-07 |
 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2021-12-08 | 2024-07-13 |
 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 | 2024-08-09 |  |
 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 | 2022-05-03 |  |

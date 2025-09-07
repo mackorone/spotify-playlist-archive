@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,753 likes - 65 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,741 likes - 65 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 64 | [Steady, As She Goes](https://open.spotify.com/track/2VAlwOewe5c40VHyqozF1V) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/0ftyDJlAoBMmICs2MHvVZR) | 3:35 |
 | 65 | [Fuck Forever](https://open.spotify.com/track/40VBtCOWsb3CadLYsATgxP) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion \(International Edition\)](https://open.spotify.com/album/5jE23bPNCDzMrpmavUaphx) | 4:37 |
 
-Snapshot ID: `AAAAAElJv6Iwmrqp7gNfzdl1r4pi0RqZ`
+Snapshot ID: `AAAAAPgp7T4ZU5TOjH/2HDbV8E920UQz`

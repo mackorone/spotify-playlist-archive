@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Haaland936
 
-108 songs - 4 hr 41 min
+109 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 | 2025-07-17 | 2025-08-09 |
 | [All meine Jungs](https://open.spotify.com/track/7dxqHPXKdmE9lakEb7vb6f) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Albi](https://open.spotify.com/artist/6WdjEdbgAoHeeXLwDsSgMg) | [All meine Jungs](https://open.spotify.com/album/50TpvyJmNqdopeLlfZ56sc) | 2:24 | 2025-09-04 |  |
 | [Alles oder Nix](https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [Alles oder Nix](https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu) | 4:12 | 2025-07-17 | 2025-08-23 |
+| [Andere Niveau](https://open.spotify.com/track/3XonaIpRmNAxmbjZgTTvSy) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Andere Niveau](https://open.spotify.com/album/2D7jmbKdukoAIUNsFNsurQ) | 2:14 | 2025-09-05 |  |
 | [Anders](https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Edin](https://open.spotify.com/artist/7jkdo74SDT1PYu6Ksbusxa) | [Anders](https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj) | 3:24 | 2025-07-24 |  |
 | [Antalya](https://open.spotify.com/track/0auzdD4Kii0Yt0qVbBX6Bg) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT) | [Antalya](https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz) | 2:36 | 2025-07-28 |  |
-| [aRSCHBACKEN \- feat\. Jamule & FOURTY](https://open.spotify.com/track/4PR8kAegGI0EzcjUHNVlXD) | [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [aRSCHBACKEN \(feat\. FOURTY & Jamule\)](https://open.spotify.com/album/79RXdMWjibGvLzWI8zO9Ty) | 1:56 | 2025-08-14 |  |
+| [aRSCHBACKEN \- feat\. Jamule & FOURTY](https://open.spotify.com/track/4PR8kAegGI0EzcjUHNVlXD) | [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [aRSCHBACKEN \(feat\. FOURTY & Jamule\)](https://open.spotify.com/album/79RXdMWjibGvLzWI8zO9Ty) | 1:56 | 2025-08-14 | 2025-09-07 |
 | [Baccarat](https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Baccarat](https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2) | 2:52 | 2025-08-07 |  |
 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 | 2025-07-17 |  |
 | [Bei dir](https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Bei dir](https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk) | 2:38 | 2025-07-17 | 2025-09-05 |

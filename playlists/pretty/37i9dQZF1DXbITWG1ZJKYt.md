@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,358,314 likes - 250 songs - 21 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,359,517 likes - 250 songs - 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

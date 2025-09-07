@@ -3347,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "ARENA",
+        "url": "https://open.spotify.com/album/1BMlhE8TQNJOMrwKyJJgDy"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150153,
+      "name": "ARENA",
+      "url": "https://open.spotify.com/track/06PHdj3km2VkmqcKAwhGJN"
+    },
+    {
+      "album": {
         "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) [Remix]",
         "url": "https://open.spotify.com/album/7szreH35LFWOfHayYZoE5v"
       },
@@ -24488,7 +24506,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 146742,
       "name": "Menina",
       "url": "https://open.spotify.com/track/0vXlQXYzssHB7YiphovU0N"

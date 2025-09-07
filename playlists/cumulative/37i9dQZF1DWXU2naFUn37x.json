@@ -9547,6 +9547,24 @@
     },
     {
       "album": {
+        "name": "Lamelo",
+        "url": "https://open.spotify.com/album/3hjaiAGv1Lm0LzTcnLR00l"
+      },
+      "artists": [
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "Lamelo",
+      "url": "https://open.spotify.com/track/5I8NuBULtzqtZE067UA36R"
+    },
+    {
+      "album": {
         "name": "LAPROVINCE #1",
         "url": "https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS"
       },
@@ -11396,7 +11414,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 277647,
       "name": "MOCRO SCHOOL (feat. Yunes LaGrintaa, Hani, Kassimi)",
       "url": "https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4"

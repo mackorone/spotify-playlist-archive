@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: High Society
 
-119 songs - 5 hr 23 min
+120 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Friss](https://open.spotify.com/track/26y8MJMucjn9jzCE7mHSKK) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Friss](https://open.spotify.com/album/3MENOTYTL5jvwQcEuqW3ag) | 2:23 | 2025-07-17 | 2025-08-08 |
 | [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/track/0rzZZR9pHlMHMHOntKX15Y) | [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/album/3pqIkUKtTnZn4bY4jalGN2) | 2:15 | 2025-08-28 |  |
 | [Gang](https://open.spotify.com/track/70AY6FZAJVYQdrZTIuo1zI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:00 | 2025-08-07 | 2025-09-05 |
+| [Gebroken Harten](https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Gebroken Harten](https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z) | 2:31 | 2025-09-05 |  |
 | [Gedragscode](https://open.spotify.com/track/4GQQmYZCovPDy2wUoFSBDh) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [Gedragscode](https://open.spotify.com/album/57V0X8vFiIQwe37Pxa9F9x) | 3:13 | 2025-07-17 | 2025-08-05 |
 | [Geldmaat](https://open.spotify.com/track/7c8jgMl2dwVBnC4RvBZHtm) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmaat](https://open.spotify.com/album/3ZbovTolXgET9q8sQkomEN) | 2:36 | 2025-09-04 |  |
 | [Gevorderd](https://open.spotify.com/track/4mwPz0N53KrveYwXEm4q6a) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Gevorderd](https://open.spotify.com/album/5ISgrPAx1QMXobLrXGOBDV) | 2:36 | 2025-07-17 |  |
@@ -110,7 +111,7 @@
 | [Te Quiero](https://open.spotify.com/track/0SXbRzCHETN4A8JP3ErH6h) | [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Te Quiero](https://open.spotify.com/album/29ckZ45QpmcHuyQ08dZwYP) | 2:58 | 2025-07-17 | 2025-08-05 |
 | [Team](https://open.spotify.com/track/03vU7k9fv2WtLZJhorgfbD) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Team](https://open.spotify.com/album/4Tzn2ddUgpJTGoKAXiHezs) | 3:10 | 2025-08-07 | 2025-09-05 |
 | [Ten Hag](https://open.spotify.com/track/0DhFudPWfqlTA4olwQBaHs) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Ten Hag](https://open.spotify.com/album/1JAlftK2rH4aYZ1OdjJbLU) | 2:14 | 2025-08-28 |  |
-| [Theezakjes](https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Theezakjes](https://open.spotify.com/album/7oQovlHX14Tuu4x8MGbxeJ) | 2:04 | 2025-07-24 |  |
+| [Theezakjes](https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Theezakjes](https://open.spotify.com/album/7oQovlHX14Tuu4x8MGbxeJ) | 2:04 | 2025-07-24 | 2025-09-07 |
 | [Tiffany](https://open.spotify.com/track/1h6tEGvt21f6TrGxjJ7RWJ) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Tiffany](https://open.spotify.com/album/7IXEhlp1q2hUAPEjKFqTZ3) | 2:27 | 2025-08-04 | 2025-08-29 |
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |

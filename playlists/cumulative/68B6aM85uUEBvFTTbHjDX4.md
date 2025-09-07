@@ -4,7 +4,7 @@
 
 > 
 
-156 songs - 12 hr 49 min
+157 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Long Gone Memory \- Extended Mix](https://open.spotify.com/track/1xNLf29EoICgDn4mLXhrC0) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Arlissa](https://open.spotify.com/artist/4tEua1nRjRrMX0PZUrCZ3H) | [Long Gone Memory](https://open.spotify.com/album/74V5FlrXUKRxi42tPdCA8I) | 4:13 | 2019-08-18 |  |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2020-09-30 |  |
 | [Lose Control \(feat\. ILIRA\)](https://open.spotify.com/track/7v11L9CN3sL9BDdiNrmpRe) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Lose Control \(feat\. ILIRA\)](https://open.spotify.com/album/0SXIPcP2hyjWKuZxZK1nOO) | 4:08 | 2025-05-13 |  |
+| [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-09-06 |  |
 | [Louder](https://open.spotify.com/track/4l5uGeQiq6UVieBcYGqgLh) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Nextlevelism](https://open.spotify.com/album/7xw0eXR8M2U0Y9CZazhXmZ) | 3:28 | 2018-10-22 |  |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-07-20 |  |
 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 | 2018-07-02 |  |

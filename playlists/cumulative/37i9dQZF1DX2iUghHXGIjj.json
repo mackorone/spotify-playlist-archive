@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Devil's Train",
+        "url": "https://open.spotify.com/album/0mozxaIy7jtpKgjFiYp27x"
+      },
+      "artists": [
+        {
+          "name": "Eric Sardinas",
+          "url": "https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "8 Goin' South",
+      "url": "https://open.spotify.com/track/6MTpSIDkEeWFhrKXcv0qCf"
+    },
+    {
+      "album": {
         "name": "Alabama Blues!",
         "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-07",
       "duration_ms": 99960,
       "name": "Ratchet Blues",
       "url": "https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze"

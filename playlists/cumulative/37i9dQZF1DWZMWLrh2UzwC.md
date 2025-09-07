@@ -4,7 +4,7 @@
 
 > New music from Justin Bieber, Lady Gaga, d4vd, Hujan, Hijjaz, Rabbani, and more!
 
-17,682 songs - 40 day 12 hr 18 min
+17,684 songs - 40 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,6 +1182,7 @@
 | [Bad Habits](https://open.spotify.com/track/2Zxa8dBD8TDAAwuwPJZz6o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Bad Habits](https://open.spotify.com/album/2ljBsmYzspzbHDojqm5CDP) | 3:32 | 2024-07-25 | 2024-08-02 |
 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 | 2022-02-17 | 2022-02-25 |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-03-17 | 2022-03-25 |
+| [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 | 2025-09-05 |  |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-27 | 2022-11-04 |
 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 | 2022-05-26 | 2022-06-03 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-08-18 |
@@ -8441,7 +8442,7 @@
 | [Location](https://open.spotify.com/track/3Yet1QgsPnsYQf3TlDebua) | [AMEERLITO](https://open.spotify.com/artist/2NUS5Kxg8FQKkeDXfvJjxW), [jawzeeboi](https://open.spotify.com/artist/2yvK0Imm5jMFSHvECucslo), [Hezreek](https://open.spotify.com/artist/1V3x4lD16x4b97FYbJ91s6) | [Location](https://open.spotify.com/album/5qnoeKFHGraonlKwOU24YR) | 2:30 | 2025-08-07 | 2025-08-16 |
 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 | 2023-10-05 | 2023-10-13 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-02 | 2025-01-10 |
-| [Locked & Loaded \- Official Fortnite Anthem](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
+| [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-04 |  |
 | [Locked Myself Out](https://open.spotify.com/track/5U4UJWPGrDYk2Rt6mNjhiv) | [Thomas Meilstrup](https://open.spotify.com/artist/4CyyiV7VCIqZ2e0vAm51tP) | [Locked Myself Out](https://open.spotify.com/album/5z71c038Q3IANFetPY2Yle) | 3:03 | 2023-04-20 | 2023-04-28 |
 | [Locked Up \(ft\. Akon\)](https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up \(ft\. Akon\)](https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu) | 2:27 | 2023-08-17 | 2023-08-25 |
 | [locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-24 | 2023-09-01 |
@@ -13160,6 +13161,7 @@
 | [Special Kind \(YOU\)](https://open.spotify.com/track/3OCwU4Lj0jLFhGxHW9zthj) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [Special Kind \(YOU\)](https://open.spotify.com/album/7rsovGJzVONLVbeBjELz51) | 2:20 | 2025-04-24 | 2025-05-02 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 | 2023-09-08 |
 | [SPEED](https://open.spotify.com/track/0Adv0j8PGXzpxewJNJNebZ) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [JULIEN](https://open.spotify.com/artist/6k7xuECuEJNnFD6uYXOlbt), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [SPEED](https://open.spotify.com/album/2F8drGDJxgAvlyiIXDs9FU) | 3:11 | 2025-05-22 | 2025-05-30 |
+| [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 | 2025-09-05 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-29 | 2023-07-07 |
 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 | 2024-05-30 | 2024-06-07 |
 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 | 2022-10-20 | 2022-10-28 |

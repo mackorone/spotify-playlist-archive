@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover:notyourwife
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,275 likes - 110 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,272 likes - 110 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

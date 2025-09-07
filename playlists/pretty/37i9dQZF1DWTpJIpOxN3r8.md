@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpJIpOxN3r8.md) - [plain]
 
 > Sonidos de lluvia para descansar y dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,599 likes - 274 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,649 likes - 274 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpJIpOxN3r8.md) - [plain]
 | 101 | [Raincoat Weather](https://open.spotify.com/track/445TGqNOn1nGI0T2QCYkh7) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Raincoat Weather](https://open.spotify.com/album/3PiNTotQoNkrRfvEKZ2Gdm) | 2:38 |
 | 102 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 |
 | 103 | [Falling Rain](https://open.spotify.com/track/6r42paRO1a3ReJusTZC5MU) | [Medi Rela](https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho) | [Falling Rain](https://open.spotify.com/album/2NuNso3u2XmWzBdT9os76E) | 2:29 |
-| 104 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
+| 104 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
 | 105 | [Natural Sounds Of Nature](https://open.spotify.com/track/7AA6L1DQd4aOg5CHxhhUMx) | [Harmless Harmonics](https://open.spotify.com/artist/4UqnpTwYbG5VOxwsUbj1kU) | [Harmless Harmonics](https://open.spotify.com/album/4h8eQLWXV3DHpdf6m3OIBO) | 2:30 |
 | 106 | [Lincoln Way Rain](https://open.spotify.com/track/1JWlvNpLfNzUADfdGxIWeV) | [Granular FX](https://open.spotify.com/artist/6SVaii2FdnEI4ssRydFvmu) | [San Fran Rain](https://open.spotify.com/album/6lYjuIVLa2ZpjUtNO6qwWR) | 2:35 |
 | 107 | [Backyard Rains](https://open.spotify.com/track/5v6qXVmMn68GxCPF9XGZVH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Relaxing Rainstorms](https://open.spotify.com/album/3jg3BUq18aQaSGD07MQxOa) | 2:31 |
@@ -266,7 +266,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpJIpOxN3r8.md) - [plain]
 | 256 | [Rainstorm](https://open.spotify.com/track/5Z5fhku3u9oxVV6KTPRsPZ) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:23 |
 | 257 | [Pure Air & Water](https://open.spotify.com/track/3nQbThFvoVnXOS0pHXcnTY) | [Stormour](https://open.spotify.com/artist/2Bl2FvNjbLuZb86bm3iGgp) | [Lust & Rain](https://open.spotify.com/album/3QDTk084OenliDFkX1gKbf) | 2:31 |
 | 258 | [La tempête](https://open.spotify.com/track/2wXuw7beVHAyCdOhIqvmgZ) | [Le Tonnerre](https://open.spotify.com/artist/1J7EB3eAz9B38g4wNfV8sp) | [La tempête](https://open.spotify.com/album/1LRo6qt2mdR3pH7o5w2DYb) | 2:36 |
-| 259 | [Relaxing Forest Clappering](https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp) | [Birds & Bees etc.](https://open.spotify.com/artist/4eS0pNLDVquopuOenfqX3U) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 2:27 |
+| 259 | [Relaxing Forest Clappering](https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp) | [Emotion Noise](https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 2:27 |
 | 260 | [Dozy Rain](https://open.spotify.com/track/3wOtLN7sjMS5nuO7VLJsoN) | [Sleepy Mood](https://open.spotify.com/artist/3HkwYBXLxmRKfWOkaknVQ7) | [Dozy Rain](https://open.spotify.com/album/4fuCzhdh6eFsgeH1JrmFAi) | 2:35 |
 | 261 | [Constant Heavy Rain](https://open.spotify.com/track/0T6g62X91GsCWDuHwl4LHe) | [Beautiful Storms](https://open.spotify.com/artist/1dopqchRiIBu3WhKOGzaH8) | [Wellness Rain](https://open.spotify.com/album/0EXQcdBwIQhjqKMUd5QbyW) | 2:27 |
 | 262 | [Lluvia, trueno, viento](https://open.spotify.com/track/1ebeEq5lUHhIPwvFeNr6gi) | [Las Vientas](https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT) | [Aguacero](https://open.spotify.com/album/5rPxVBDjzqXfl3OEGCFH0r) | 2:29 |

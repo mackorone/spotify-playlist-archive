@@ -1,6 +1,6 @@
 {
-  "description": "Soul to brighten up your day. Cover: Sekou",
-  "num_followers": 105013,
+  "description": "Soul to brighten up your day. Cover: Destin Conrad",
+  "num_followers": 105042,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAACIvmTUu5eTRqYY6Obn5pmPI5lKQ",
   "tracks": [
+    {
+      "added_at": "2025-09-05 04:13:32",
+      "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "LOVE!",
+      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
+    },
     {
       "added_at": "2025-08-15 21:20:48",
       "album": {
@@ -77,20 +93,36 @@
       "url": "https://open.spotify.com/track/6f5mcAYXtP0CMofbR41V0V"
     },
     {
-      "added_at": "2025-08-08 06:15:25",
+      "added_at": "2025-09-05 04:13:32",
       "album": {
-        "name": "Outside Man",
-        "url": "https://open.spotify.com/album/2aii61ORtnz2tyBIrJDbDJ"
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
       "artists": [
         {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 145950,
-      "name": "Outside Man",
-      "url": "https://open.spotify.com/track/3NgQqikHEmkOMIX6Qn7rwL"
+      "duration_ms": 201408,
+      "name": "Miss Hot July",
+      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
+    },
+    {
+      "added_at": "2025-09-05 04:13:32",
+      "album": {
+        "name": "Dream of You",
+        "url": "https://open.spotify.com/album/06pukcyvAvWMEuOnV9O18i"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 226744,
+      "name": "Dream of You",
+      "url": "https://open.spotify.com/track/6kBMDjsl16SRkHmtyDi2Vu"
     },
     {
       "added_at": "2025-07-11 06:44:02",
@@ -123,6 +155,54 @@
       "duration_ms": 150179,
       "name": "AVALANCHE",
       "url": "https://open.spotify.com/track/2mOIjRSeiRRNVBv8PpoYUC"
+    },
+    {
+      "added_at": "2025-09-05 04:13:32",
+      "album": {
+        "name": "All About Me",
+        "url": "https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 263300,
+      "name": "All About Me",
+      "url": "https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD"
+    },
+    {
+      "added_at": "2025-08-08 06:15:25",
+      "album": {
+        "name": "Outside Man",
+        "url": "https://open.spotify.com/album/2aii61ORtnz2tyBIrJDbDJ"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "Outside Man",
+      "url": "https://open.spotify.com/track/3NgQqikHEmkOMIX6Qn7rwL"
+    },
+    {
+      "added_at": "2024-09-13 09:26:37",
+      "album": {
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
       "added_at": "2025-08-29 19:27:46",
@@ -235,22 +315,6 @@
       "duration_ms": 193598,
       "name": "Ain't It Nice",
       "url": "https://open.spotify.com/track/16cf5KXlcTvSpO1TisvQWI"
-    },
-    {
-      "added_at": "2024-09-13 09:26:37",
-      "album": {
-        "name": "Let's Go Back",
-        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 169651,
-      "name": "Let's Go Back",
-      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
       "added_at": "2025-05-16 15:23:54",
@@ -617,6 +681,22 @@
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
+      "added_at": "2025-04-05 18:32:05",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
       "added_at": "2025-05-16 15:23:54",
       "album": {
         "name": "Southern Soul",
@@ -633,20 +713,20 @@
       "url": "https://open.spotify.com/track/3QMkTG4GIY8xuKiV6XIzWN"
     },
     {
-      "added_at": "2025-04-05 18:32:05",
+      "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "Back To Love (Deluxe Version)",
+        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+      "duration_ms": 226373,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
     },
     {
       "added_at": "2025-04-21 15:39:41",
@@ -667,22 +747,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Back To Love (Deluxe Version)",
-        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Maxwell's Urban Hang Suite",
         "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
@@ -695,6 +759,22 @@
       "duration_ms": 257670,
       "name": "Sumthin' Sumthin' - Remastered 2021",
       "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
+    },
+    {
+      "added_at": "2025-03-07 06:27:51",
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 186279,
+      "name": "Another Man's Life",
+      "url": "https://open.spotify.com/track/06iGEMC0OkfUJyQ4g9Cprs"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -729,20 +809,20 @@
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
-      "added_at": "2025-03-07 06:27:51",
+      "added_at": "2025-04-21 15:39:41",
       "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+        "name": "Sweetie",
+        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
       },
       "artists": [
         {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 186279,
-      "name": "Another Man's Life",
-      "url": "https://open.spotify.com/track/06iGEMC0OkfUJyQ4g9Cprs"
+      "duration_ms": 244049,
+      "name": "Sweetie",
+      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
     },
     {
       "added_at": "2025-04-21 15:39:41",
@@ -809,38 +889,6 @@
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
-      "album": {
-        "name": "Sweetie",
-        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 244049,
-      "name": "Sweetie",
-      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
-    },
-    {
-      "added_at": "2025-04-21 15:39:41",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
       "added_at": "2025-06-27 04:00:46",
       "album": {
         "name": "Stare at Me",
@@ -859,6 +907,22 @@
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+    },
+    {
+      "added_at": "2025-04-21 15:39:41",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -965,6 +1029,26 @@
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
     },
     {
+      "added_at": "2025-09-05 04:13:32",
+      "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "wHIP",
+      "url": "https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Live For You",
@@ -983,22 +1067,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Ben L'Oncle Soul",
         "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
       },
@@ -1011,6 +1079,22 @@
       "duration_ms": 222466,
       "name": "Soulman - New English Version",
       "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2025-06-20 04:00:56",
@@ -1083,22 +1167,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -1111,6 +1179,22 @@
       "duration_ms": 290422,
       "name": "GotItBad",
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -1171,98 +1255,6 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
-    },
-    {
-      "added_at": "2025-04-21 15:39:41",
-      "album": {
-        "name": "Three Piece Suit (feat. Azekel)",
-        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Three Piece Suit (feat. Azekel)",
-      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Pieces Of Me",
-        "url": "https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "Stay Together",
-      "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man Of The Universe",
-      "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     }
   ],
   "unique_name": "Soulful Day",

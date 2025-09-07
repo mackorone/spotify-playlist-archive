@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 
 > Underneath their cool, unbothered exterior, this character is an enigma to be unraveled.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,071 likes - 41 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,097 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

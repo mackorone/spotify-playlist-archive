@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,772 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,788 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 |
 | 85 | [Fardo Leve](https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Fardo Leve](https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v) | 2:05 |
 
-Snapshot ID: `AAAAAPwTVj3Cw6kzIRbew/zMbNxccvPg`
+Snapshot ID: `AAAAAFmKqm+1Nj3Z6f789fkIMS1F8stY`

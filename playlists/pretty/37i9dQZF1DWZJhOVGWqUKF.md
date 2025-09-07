@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Amy Lee, Poppy, Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,875 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,884 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 | 4 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 |
 | 5 | [Better Me \(For You\)](https://open.spotify.com/track/7KvTvdkcSMcU3k85R6WFRQ) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Better Me \(For You\)](https://open.spotify.com/album/4f4sqQtF9cjRJk1V4sDzCl) | 2:40 |
 | 6 | [AUTONOMOUS DELIVERY ROBOT](https://open.spotify.com/track/6nXJ76qT0Z5dsVQ8BkY71R) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [INERTIA](https://open.spotify.com/album/5Srzn7hnU7DcsvD6BBTjHC) | 2:24 |
-| 7 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
+| 7 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
 | 8 | [Get Fucked](https://open.spotify.com/track/6U3VXzMH33sjUek3JTmqNb) | [SKIRT.](https://open.spotify.com/artist/1ncSEf033cpKhDR6NI0lke) | [DEMO](https://open.spotify.com/album/4qjMROkPVO3rF6IG5jnF2G) | 1:27 |
 | 9 | [The Sound And The Summer](https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Antidepressants](https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk) | 3:42 |
 | 10 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |

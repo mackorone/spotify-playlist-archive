@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Cabelinho, Natanzinho Lima, Hugo & Guilherme e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152,862 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,153,299 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 5 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 |
 | 6 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 7 | [THE BOX MEDLEY FUNK 7](https://open.spotify.com/track/1oXLO403lCZRAUlUi7ChXi) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Mc PP da VS](https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP), [Mc Bruninho da Praia](https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT), [MC Dede](https://open.spotify.com/artist/45Hr5etuwmSx4gSyn5qSeW), [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [THE BOX MEDLEY FUNK 7](https://open.spotify.com/album/5HR6jO5YdkgleRa9PhBRzD) | 5:38 |
-| 8 | [Tu Tem Uma Cara](https://open.spotify.com/track/2ymsHvnwL2NsAyGuqvN8ba) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [BeatWill](https://open.spotify.com/artist/3VYrurPXhYblG1IH4DL5ay) | [Tu Tem Uma Cara](https://open.spotify.com/album/6qgxEJF0vNrWv8293mvN1n) | 1:58 |
+| 8 | [Tu Tem Uma Cara](https://open.spotify.com/track/2ymsHvnwL2NsAyGuqvN8ba) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [BeatWill](https://open.spotify.com/artist/3VYrurPXhYblG1IH4DL5ay) | [Tu Tem Uma Cara](https://open.spotify.com/album/6qgxEJF0vNrWv8293mvN1n) | 1:58 |
 | 9 | [Isso Não é Ladrão](https://open.spotify.com/track/76IQdyqWIKbyNn0zwaVHVZ) | [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Isso Não é Ladrão](https://open.spotify.com/album/73PqJUtVAyTBGquIAk7nkA) | 2:36 |
 | 10 | [Insônia de saudade \- Ao Vivo](https://open.spotify.com/track/04pCBeOCsmvYR8zQwyg7ch) | [Thiago Freitas](https://open.spotify.com/artist/26u3LeVpw9EOQLkNVX6NUj), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Ao Vivo em Fortaleza, Vol\. 1](https://open.spotify.com/album/32XOssfkUWlhOVpuggMGXk) | 2:53 |
 | 11 | [Cama De Amigos](https://open.spotify.com/track/2Fa2sTIclTaSe8LV1Nyimg) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Cama De Amigos](https://open.spotify.com/album/1G6MOTlvQ0ccbCWZ6zFzvr) | 3:08 |

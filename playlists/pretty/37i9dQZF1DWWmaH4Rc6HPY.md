@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Juanes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,275 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,280 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [Ahí Estás](https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Ahí Estás](https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h) | 3:16 |
 | 75 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 
-Snapshot ID: `AAAAAAWd4+I+JDUHd1Emh/D85ry1Uu8i`
+Snapshot ID: `AAAAABfw6O6L+ZnEXTJQm+nD0Bo17evg`

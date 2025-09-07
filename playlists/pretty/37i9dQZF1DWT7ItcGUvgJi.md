@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet!<br/>Enjoy the \[Tune Up Meets Fresh Finds\] LIVE SET including the voices of them on stage! 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! \[Tune Up Meets Fresh Finds\] 공연의 라이브셋을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 643 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 | 28 | [Stage Comment from jisokuryClub 2](https://open.spotify.com/track/5M3IVa3oamAVYof1FNIt4Y) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Tune Up Meets Fresh Finds Audio Liners](https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis) | 0:45 |
 | 29 | [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 |
 
-Snapshot ID: `AAAAAEkqgXEm9h3PZ64rnVPOBoanREJL`
+Snapshot ID: `AAAAADFi7olH43gkjsLwU6tP1cmM/sEm`

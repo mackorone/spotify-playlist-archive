@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,233 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,239 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 | 49 | [Egó](https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux) | [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL) | [Dýnamík](https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC) | 2:35 |
 | 50 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
 
-Snapshot ID: `ME5SIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`

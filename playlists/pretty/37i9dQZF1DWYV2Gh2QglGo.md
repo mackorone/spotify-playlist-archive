@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Cameron Whitcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,353 likes - 93 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,416 likes - 93 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 11 | [Control Me](https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq) | [TANAEYA](https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa) | [Control Me](https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy) | 3:11 |
 | 12 | [Look At Me](https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [Look At Me](https://open.spotify.com/album/0JBbieCypYuDh8Mz7uVABG) | 2:45 |
 | 13 | [Motel in Southern Idaho](https://open.spotify.com/track/60twmcF1WOcbFhNf3gOpAO) | [Ben Arsenault](https://open.spotify.com/artist/3Z3tlXssZiKthUyT2D4Slw) | [Motel in Southern Idaho](https://open.spotify.com/album/3qS8qNR3tLKEeGdSc9hKs1) | 3:14 |
-| 14 | [Seventeen \- Radio Edit](https://open.spotify.com/track/3eh6NXf1FG3IOwMaM8Zuuf) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Seventeen](https://open.spotify.com/album/6I3dgbvNWeuiOzmCygGq9w) | 3:25 |
+| 14 | [Seventeen \(Radio Mix\)](https://open.spotify.com/track/3eh6NXf1FG3IOwMaM8Zuuf) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Seventeen EP](https://open.spotify.com/album/6I3dgbvNWeuiOzmCygGq9w) | 3:25 |
 | 15 | [Heart To Forget](https://open.spotify.com/track/0mg3HvO7Zz8fYR45WVGMwD) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Heart To Forget](https://open.spotify.com/album/7Amq5cTHIB9qQ4JHGTdztw) | 3:23 |
 | 16 | [West End Queen \(Abattoir\)](https://open.spotify.com/track/43qaKoJUlS5six29E1Rh0w) | [Duke & Goldie](https://open.spotify.com/artist/7LwmWvBhS0lpRYx0tgbCQD) | [West End Queen \(Abattoir\)](https://open.spotify.com/album/0UB1d5HW9rHaSpRgOhgESp) | 3:45 |
 | 17 | [Hurt Like Hell](https://open.spotify.com/track/2xKhJEyaVHteQSvY2DC6LD) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Hurt Like Hell](https://open.spotify.com/album/7tYdOXQYqw7kcVU2WMl5Ab) | 3:37 |

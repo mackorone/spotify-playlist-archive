@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Calvin Harris & Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,589 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,814 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 5 | [UH OH!](https://open.spotify.com/track/0qFJaAtOXhT94nwgRxPVpI) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [UH OH!](https://open.spotify.com/album/3szo1Pgvq1SIJccaADZuSQ) | 2:23 |
 | 6 | [girls with gills](https://open.spotify.com/track/31BP9sLVR9bY0zFvxdZbIJ) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [girls with gills](https://open.spotify.com/album/4bLta3L54y2UFGJ7tGPjsK) | 2:17 |
 | 7 | [Summer Rain](https://open.spotify.com/track/2RH6eSCNuQHUtxpOQPSxqG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Summer Rain](https://open.spotify.com/album/6nIe9tXHQdGhfBN7Vs4UJp) | 2:57 |
-| 8 | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire & Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
+| 8 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
 | 9 | [Get Over It](https://open.spotify.com/track/6MAOz21OJgWz7FAe7TgdVP) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Get Over It](https://open.spotify.com/album/48OCw6cRFQBaBh0sSqCBlz) | 2:58 |
 | 10 | [Find A Way \(feat\. Suli Breaks & Dido\)](https://open.spotify.com/track/417Er1nznZoYE8Kw7CFXy1) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Find A Way \(feat\. Suli Breaks & Dido\)](https://open.spotify.com/album/66Khtf0UGUxUAmarfRoOWu) | 3:02 |
 | 11 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Deorro, Alexia Mariel y RAYBEN en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,035 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,050 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Sola](https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX) | [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Sola](https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU) | 1:45 |
 | 90 | [Bora Nessa](https://open.spotify.com/track/4OYFxsFpZvKuXgBfY6dCAs) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Maitê Inaê](https://open.spotify.com/artist/7gfwviXMBfLEQ5hFxtIKDx) | [Bora Nessa](https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T) | 3:54 |
 
-Snapshot ID: `AAAAAP9kTFskmADNYghRuYGBg55/K2ek`
+Snapshot ID: `AAAAAMYr2ZENB9gbrCaW2rlXQq4sP9er`

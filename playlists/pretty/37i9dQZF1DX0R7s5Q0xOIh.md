@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,299 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,298 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 78 | [Holy Grail](https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/4gbrbyveJFkuLH6B5w93JH) | 5:38 |
 | 79 | [Um Bom Perdedor \(Un Buen Perdedor\) \- Ao Vivo](https://open.spotify.com/track/0tpi2gdr05e47hvHNhisCR) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Acústico \- Ao Vivo](https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy) | 3:43 |
 | 80 | [De Tanto Te Querer \- Ao Vivo](https://open.spotify.com/track/7lAlnayDxaxyVLi72fkeop) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall \(Ao Vivo\)](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 2:56 |
-| 81 | [Chora, Me Liga \- Ao Vivo](https://open.spotify.com/track/1NpD7cQH8hGMZrufOQQ0Xk) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Curtição \(Ao Vivo\)](https://open.spotify.com/album/1cQGm0Y6gNamC6zZijIK4u) | 3:01 |
+| 81 | [Chora, Me Liga \- Ao Vivo](https://open.spotify.com/track/1NpD7cQH8hGMZrufOQQ0Xk) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Curtição \(Ao Vivo\)](https://open.spotify.com/album/1cQGm0Y6gNamC6zZijIK4u) | 3:01 |
 | 82 | [IGÃO & MITICO \- Carona Podpah \#19](https://open.spotify.com/episode/08v8PwWPR9GCXLrBYuCn9K) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 44:55 |
 | 83 | [Faroeste Caboclo](https://open.spotify.com/track/6ttKOudrrD5yjt4saUjhNa) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 9:07 |
 | 84 | [Quando o sol se for](https://open.spotify.com/track/6Sk1mETx99njkPH3MIRTn3) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas \(Nova Versão\)](https://open.spotify.com/album/2Xa25OvfD52APxPX8QP9mJ) | 3:29 |

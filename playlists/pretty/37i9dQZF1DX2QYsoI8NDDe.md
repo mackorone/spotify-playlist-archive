@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Angelina Victoria, Alana Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,936 likes - 200 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,962 likes - 200 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 169 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 |
 | 170 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |
 | 171 | [Gallo Drito](https://open.spotify.com/track/5WmESBP1N8vn0cYHnEpU3i) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Gallo Drito](https://open.spotify.com/album/39Zd2MlG6kknHO8zlCr5B4) | 2:17 |
-| 172 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
-| 173 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
+| 172 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
+| 173 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
 | 174 | [¿Qué Pasó Ayer?](https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Pasó Ayer?](https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy) | 2:55 |
 | 175 | [Anitta "Fresita"](https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Anitta "Fresita"](https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5) | 2:48 |
 | 176 | [Ismael \(En Vivo\)](https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ismael \(En Vivo\)](https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T) | 2:43 |
@@ -190,11 +190,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 180 | [Estoy De Buenas](https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy De Buenas](https://open.spotify.com/album/2vX4qKAp8Ha34dG46dbC9v) | 2:15 |
 | 181 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
 | 182 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
-| 183 | [Canción Mixteca](https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Canción Mixteca](https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx) | 3:02 |
-| 184 | [La Loca](https://open.spotify.com/track/3vFPF8u5VJaDUlQOpkMP34) | [Jenn Santos](https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl) | [La Loca](https://open.spotify.com/album/0LNdfkesf3Zdk7e92U0dqQ) | 2:44 |
-| 185 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
-| 186 | [No Regreses](https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Diosas en Texas](https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk) | 2:33 |
-| 187 | [Pa' Qué Me Lloras](https://open.spotify.com/track/1O2UGtEe54lrgq80G38ZJY) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Pa' Qué Me Lloras](https://open.spotify.com/album/5dzTKVAa2TRKm1gn0pi2K6) | 2:56 |
+| 183 | [Pa' Qué Me Lloras](https://open.spotify.com/track/1O2UGtEe54lrgq80G38ZJY) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Pa' Qué Me Lloras](https://open.spotify.com/album/5dzTKVAa2TRKm1gn0pi2K6) | 2:56 |
+| 184 | [Canción Mixteca](https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Canción Mixteca](https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx) | 3:02 |
+| 185 | [La Loca](https://open.spotify.com/track/3vFPF8u5VJaDUlQOpkMP34) | [Jenn Santos](https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl) | [La Loca](https://open.spotify.com/album/0LNdfkesf3Zdk7e92U0dqQ) | 2:44 |
+| 186 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
+| 187 | [No Regreses](https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Diosas en Texas](https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk) | 2:33 |
 | 188 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 |
 | 189 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 | 190 | [¿Por Qué Te Conocí?](https://open.spotify.com/track/7LqpB2MK0SavPSijGWJtWC) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [¿Por Qué Te Conocí?](https://open.spotify.com/album/3bhgyMNnZTGZoA6NEe6X0H) | 3:29 |

@@ -4,7 +4,7 @@
 
 > Rondodasosa in cover della playlist con il top dello street rap italiano ⛓️
 
-862 songs - 1 day 15 hr 27 min
+863 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Lacrime \(feat\. Zeta Cooper\) \[Dèsolè RMX\]](https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Zeta Cooper](https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs) | [Lacrime \(feat\. Zeta Cooper\) \[Dèsolè RMX\]](https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD) | 3:42 | 2023-03-02 | 2023-05-12 |
 | [Lakers](https://open.spotify.com/track/2TrImm2A5atWdBUasb0wvt) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Lakers](https://open.spotify.com/album/4IuIiqKlLvLRBgiIZFN3OS) | 2:32 | 2023-08-03 | 2023-08-25 |
 | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD) | 2:38 | 2023-12-14 | 2024-03-15 |
+| [Lamelo](https://open.spotify.com/track/5I8NuBULtzqtZE067UA36R) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Lamelo](https://open.spotify.com/album/3hjaiAGv1Lm0LzTcnLR00l) | 2:52 | 2025-09-05 |  |
 | [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-11 | 2022-06-10 |
 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-23 | 2022-11-04 |
 | [LAPROVINCE \#3](https://open.spotify.com/track/7bF8PdgDn6gLY6E14Axh4M) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 1:58 | 2024-03-28 | 2024-05-17 |
@@ -512,7 +513,7 @@
 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 | 2023-03-16 | 2023-04-07 |
 | [Misère](https://open.spotify.com/track/2DcQbyQcO8k0HZzJOmFRaV) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Misère](https://open.spotify.com/album/627gUjeaCo9NUB7MGAqlGI) | 2:52 | 2025-01-09 | 2025-03-28 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-12 | 2023-12-01 |
-| [MOCRO SCHOOL \(feat\. Yunes LaGrintaa, Hani, Kassimi\)](https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 4:37 | 2024-10-03 |  |
+| [MOCRO SCHOOL \(feat\. Yunes LaGrintaa, Hani, Kassimi\)](https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 4:37 | 2024-10-03 | 2025-09-07 |
 | [MOISE KEAN](https://open.spotify.com/track/1flpr4TyI6JvNCaUs8NPbh) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/2X5WUZnoOKOACVUGZw5hAT) | 3:15 | 2025-06-16 | 2025-08-28 |
 | [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-29 | 2025-06-17 |
 | [MOLECOLE SPRITE](https://open.spotify.com/track/0bhreLyBJhKKtiGOZuKAYx) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 2:54 | 2025-05-15 | 2025-07-25 |

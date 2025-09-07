@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Oliver Sim
 
-1,252 songs - 3 day 10 hr 49 min
+1,253 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,7 @@
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 | 2024-02-16 |
 | [Keep It Secret](https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Keep It Secret](https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM) | 2:48 | 2023-05-18 | 2023-07-14 |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-16 | 2025-02-28 |
-| [Keep On Coming](https://open.spotify.com/track/1tBvv3FJi29PHeJyd9vufL) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Ocean Flor](https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL) | [Keep On Coming](https://open.spotify.com/album/0waDbAWnbLNmB8s2bBgcwq) | 2:52 | 2025-05-22 |  |
+| [Keep On Coming](https://open.spotify.com/track/1tBvv3FJi29PHeJyd9vufL) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Ocean Flor](https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL) | [Keep On Coming](https://open.spotify.com/album/0waDbAWnbLNmB8s2bBgcwq) | 2:52 | 2025-05-22 | 2025-09-07 |
 | [Keep on Dancing](https://open.spotify.com/track/4V2VQw0BmvWCXv4WxrT7rC) | [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Keep on Dancing](https://open.spotify.com/album/74d9kaLOARlWZ5cG5PVxJW) | 2:59 | 2024-07-25 | 2024-08-09 |
 | [Keep On Waiting](https://open.spotify.com/track/6zRbUtYcdwUYQ9CNShaqov) | [HAI\-LIFE](https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2), [Soleil](https://open.spotify.com/artist/0XKTCyBXEVwbZ7yXHhqRpc) | [Keep On Waiting](https://open.spotify.com/album/4tKBklazmf4jeAqkDV6iXV) | 3:29 | 2024-07-11 | 2024-08-02 |
 | [Keep Running](https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Keep Running](https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0) | 3:28 | 2025-06-05 |  |
@@ -880,6 +880,7 @@
 | [Rapid Fire](https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Laima](https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr) | [Rapid Fire / Kaitlyn Aurelia Smith Remix](https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2) | 5:34 | 2024-11-07 | 2025-05-09 |
 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 | 2025-07-24 | 2025-09-05 |
 | [Ray of Light](https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Ray of Light](https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU) | 3:49 | 2024-08-22 | 2024-08-30 |
+| [Refresh](https://open.spotify.com/track/3vB73MV91lZgfHQ8DztNuC) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Refresh](https://open.spotify.com/album/1jJIpGlUoeQzMPWm95KOj4) | 2:35 | 2025-09-06 |  |
 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-03-02 | 2023-04-15 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-13 | 2023-04-28 |
 | [Rent Free](https://open.spotify.com/track/5WgMPYPb1Cpc6wMxqK4Mfx) | [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO) | [Rent Free](https://open.spotify.com/album/2jd2xbBPiLRUw0GbIDdPfa) | 3:26 | 2024-02-08 | 2024-02-23 |

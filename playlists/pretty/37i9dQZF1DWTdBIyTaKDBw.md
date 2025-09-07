@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,435 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,476 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 99 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 |
 | 100 | [Konnichiwa \(Chapter 2\)](https://open.spotify.com/track/1dTfwB9DcpSlcdtPoEjPXC) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Travel](https://open.spotify.com/album/2ZtFHkSh3IwuLUyxga7WKU) | 4:00 |
 
-Snapshot ID: `AAAAAGF+jVYfGaWWxrlIxKqnPeHvyR2g`
+Snapshot ID: `AAAAAF8iDyRwBo6PXWpxEVZr3d/UY3RN`

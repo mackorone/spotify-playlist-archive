@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\.  Cover: Bounty Killer, Vybz Kartel, DJ Khaled, Buju Banton and Mavado
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,534 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,695 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 7 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
 | 8 | [Hot Gyal Anthem](https://open.spotify.com/track/1MCPPjy2vAVt4CwJjfg7gK) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:16 |
 | 9 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 10 | [3X BBB \(Tripple Bad\) \- Raw](https://open.spotify.com/track/6lH5eHNkpOHxZ5Q9rz1CNu) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [3X BBB \(Tripple Bad\)](https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk) | 3:04 |
+| 10 | [3X BBB \(Tripple Bad\) \- Raw](https://open.spotify.com/track/6lH5eHNkpOHxZ5Q9rz1CNu) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [3X BBB \(Tripple Bad\)](https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk) | 3:04 |
 | 11 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |
 | 12 | [Survivor](https://open.spotify.com/track/7EHdJHByG2AJXVSbJ5QeO4) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Kkrytical](https://open.spotify.com/artist/6eN8BCIBKE4evQw4WVWca9) | [Survivor](https://open.spotify.com/album/6r03S0gKN3PGqYrBThOlT6) | 3:14 |
 | 13 | [Slow Motion \(feat\. Lavbbe\)](https://open.spotify.com/track/3SIhhY5cRa6kyom2MFVjfa) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Lavbbe](https://open.spotify.com/artist/6izI64ghLVdJ9C45YWx3Vm) | [Slow Motion \(feat\. Lavbbe\)](https://open.spotify.com/album/7hqQDhx9nMaptTWNeG4HNb) | 2:19 |

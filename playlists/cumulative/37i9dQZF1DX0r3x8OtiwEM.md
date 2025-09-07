@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-731 songs - 2 day 21 hr 49 min
+732 songs - 2 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Klaxon](https://open.spotify.com/track/20zXYmh2UvTiFugquhOF6i) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Klaxon](https://open.spotify.com/album/19qGdHXyTInHZWVRG4YkYs) | 3:47 | 2022-04-04 | 2022-07-26 |
 | [KNOW ME \(feat\. Gallant\)](https://open.spotify.com/track/1QrlSQGTF8aEvsdhT4vMi8) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [BRONSON](https://open.spotify.com/album/58fl8Y06xbGAW07Prk8TTZ) | 3:00 | 2020-08-30 | 2021-12-09 |
 | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/track/1KamjM1JNDyyOd6uOyZs17) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/album/15bnmVsu5MdR8hkc4wGhHd) | 4:55 | 2020-12-24 | 2021-03-19 |
-| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
+| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 | 2025-09-07 |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
 | [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 |  |
@@ -356,6 +356,7 @@
 | [Lilith](https://open.spotify.com/track/6yx9zRTFM0zvz9l1YBjnNj) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Lilith](https://open.spotify.com/album/4RDyC7MPQMpyHEVm584kQD) | 8:37 | 2019-09-27 | 2021-06-04 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2019-08-06\* | 2021-05-27 |
 | [Little Girl](https://open.spotify.com/track/19xXgIJjrXk0qZncjSgzgK) | [Fran&co](https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX) | [Little Girl](https://open.spotify.com/album/3XakrfPUGzwHSo9pbf0bIq) | 4:56 | 2021-09-14 | 2022-07-28 |
+| [Little Lies](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Little Lies](https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b) | 3:08 | 2025-09-05 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-09-01 |  |
 | [Lonesome Ghost](https://open.spotify.com/track/05h6pboyWT6WAEwB1CqbP3) | [Collective States](https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa) | [Kamino](https://open.spotify.com/album/768NEGmqF9l6Wwl29ixWqR) | 7:43 | 2020-03-02 | 2020-07-25 |
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-30 | 2024-09-17 |
