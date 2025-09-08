@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,055 likes - 170 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,023 likes - 170 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

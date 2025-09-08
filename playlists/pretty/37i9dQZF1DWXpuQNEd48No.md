@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,161 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,168 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DATT JA](https://open.spotify.com/track/3NmB8tmeEpUYj4Q0fhFckK) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [DATT JA](https://open.spotify.com/album/4m1AjOzRoda7SCZ7AHdtQc) | 1:33 |
+| 1 | [DATT JA](https://open.spotify.com/track/3NmB8tmeEpUYj4Q0fhFckK) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Navyug](https://open.spotify.com/artist/4adwj9Z1zcgF7Os33tzs4Q) | [DATT JA](https://open.spotify.com/album/4m1AjOzRoda7SCZ7AHdtQc) | 1:33 |
 | 2 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
 | 3 | [Boom Baby](https://open.spotify.com/track/0xnRvTeEMv5s8PyYdkRQz8) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Boom Baby](https://open.spotify.com/album/6Jo5d1NqJNVySJB5vV5noP) | 2:25 |
 | 4 | [Desi Balak Gama Ke](https://open.spotify.com/track/6DonWP8ZlT3US6PlomsIka) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Desi Balak Gama Ke](https://open.spotify.com/album/0I3sskaV7KxSZ4NVG9T7Yt) | 3:25 |

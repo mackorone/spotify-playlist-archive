@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: 24kGoldn
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,774 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,778 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 54 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 55 | [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 |
 
-Snapshot ID: `AAAAAIKs8Q04GukcLQFzk8I7uEV4Deh5`
+Snapshot ID: `AAAAANF4xgHlv8hFCnu5HbgRS2pY/CHX`

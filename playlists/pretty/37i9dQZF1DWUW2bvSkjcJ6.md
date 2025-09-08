@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Nina Chuba, Lady Gaga, Hava und Dardan, und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,152 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,203 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

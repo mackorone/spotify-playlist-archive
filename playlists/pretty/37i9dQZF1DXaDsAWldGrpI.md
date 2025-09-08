@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Alex Warren & Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,097 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,124 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Fishin' In The Dark \- Live At The Red Deer Fine Arts Center, Canada/1991](https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:26 |
 | 100 | [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 |
 
-Snapshot ID: `AAAAAAzrleLCWnih4z7Or/ztCibDArnK`
+Snapshot ID: `AAAAAGj5yAcDuwIaivvv+4KPrDG0vZAP`

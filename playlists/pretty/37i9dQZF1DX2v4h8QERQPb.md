@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Mir Nicolas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,716 likes - 95 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,746 likes - 95 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

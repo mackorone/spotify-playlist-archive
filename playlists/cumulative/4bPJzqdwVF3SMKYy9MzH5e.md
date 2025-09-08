@@ -4,7 +4,7 @@
 
 > 
 
-2,249 songs - 5 day 0 hr 48 min
+2,251 songs - 5 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [A Piece Of My Mind](https://open.spotify.com/track/3L25RzggVb72wZOUCG7Vn4) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [A Piece Of My Mind](https://open.spotify.com/album/5Ubw9Dnn999MCF3xR2Lguh) | 1:14 | 2022-12-25 |  |
 | [A Place in My Heart](https://open.spotify.com/track/63nVw57nNdzTH9amMniqHz) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Club 8](https://open.spotify.com/album/21tH9UVpP8QCb3ErUMS2rB) | 3:40 | 2025-06-20 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2022-04-03 |  |
+| [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 | 2025-09-08 |  |
 | [A.D.T.O.Y.](https://open.spotify.com/track/2wTwhiAm1via7YfhzWgoGZ) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Grown](https://open.spotify.com/album/6zm3gZOXElHAUBS53FyYHs) | 4:08 | 2025-01-06 | 2025-03-04 |
 | [AAA](https://open.spotify.com/track/7t1tMTBSc3eTpCaoewIV0W) | [Strapping Young Lad](https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy) | [City](https://open.spotify.com/album/78Y2OaDAdvEqs3TRdCRdZc) | 5:21 | 2022-02-18 |  |
 | [AAA Powerline](https://open.spotify.com/track/6y6VuKUvAqVzONMPL4hXmU) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 4:12 | 2022-04-18 |  |
@@ -2176,6 +2177,7 @@
 | [When The World Was At War We Kept Dancing](https://open.spotify.com/track/0dssTLrqY79Klk6jx2RXCj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:35 | 2021-08-05 |  |
 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 | 2021-08-05 |  |
 | [Where You Are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-26 |  |
+| [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2025-09-07 |  |
 | [Where's My Juul?? \(feat\. Lil Mariko\)](https://open.spotify.com/track/0rS5bl8WHAiDuiorCulzuV) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Where's My Juul?? \(feat\. Lil Mariko\)](https://open.spotify.com/album/4W006fnEU4MeJIzaWUanLB) | 1:45 | 2021-08-05 |  |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2021-08-05 |  |
 | [White Mustang](https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 2:44 | 2021-08-05 |  |

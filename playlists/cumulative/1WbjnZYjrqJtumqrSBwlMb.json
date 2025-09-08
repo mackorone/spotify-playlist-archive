@@ -15013,6 +15013,24 @@
     },
     {
       "album": {
+        "name": "Locket",
+        "url": "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120454,
+      "name": "Recently Played",
+      "url": "https://open.spotify.com/track/4Grli0SlPSpMKAJDeZURG2"
+    },
+    {
+      "album": {
         "name": "Suck It and See",
         "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
       },

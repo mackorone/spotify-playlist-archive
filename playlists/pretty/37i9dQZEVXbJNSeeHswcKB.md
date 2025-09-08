@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJNSeeHswcKB.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,780 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,779 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJNSeeHswcKB.md) - [plain]
 | 49 | [SPIDER](https://open.spotify.com/track/4oVMLxxYpQLYx8gx4JjuuY) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d) | 3:08 |
 | 50 | [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 |
 
-Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > High voltage nostalgia ahead! ‘Bijuria’ from ‘Sunny Sanskari Ki Tulsi Kumari’ is out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,744 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,915 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-128 songs - 7 hr 11 min
+129 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caffeine](https://open.spotify.com/track/2Sn9FClQKj6FrBFOXbKtl7) | [Maylinn](https://open.spotify.com/artist/60CX9yGvjcDd4kcKculbMg) | [Caffeine](https://open.spotify.com/album/1qC8qEhfPZvZcgpRqCV50P) | 2:58 | 2025-04-23 |  |
 | [Choppy \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4G8TWNnmtE3xuszp0esWLC) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Herr Nayne](https://open.spotify.com/artist/3ymSmqDdFN1kfZyVJ4HWse) | [TRAPART](https://open.spotify.com/album/3JNARFXD4YTlwAz01Oi0Zp) | 3:51 | 2023-02-08 |  |
 | [CIRCLE](https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:46 | 2023-02-08 |  |
+| [Closer To You](https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Closer To You](https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO) | 2:55 | 2025-09-08 |  |
 | [COOL \(Your rainbow\)](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 | 2023-05-05 | 2024-04-19 |
 | [COOL \(Your rainbow\)](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2023-02-08 |  |
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2023-02-08 |  |

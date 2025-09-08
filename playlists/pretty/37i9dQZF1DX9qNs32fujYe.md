@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Remembering Brent Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,835 likes - 200 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,147 likes - 200 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

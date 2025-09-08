@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,617 likes - 77 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,652 likes - 77 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

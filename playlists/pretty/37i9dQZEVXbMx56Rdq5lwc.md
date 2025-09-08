@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,768 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,773 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 16 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 |
 | 17 | [Apkabink](https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe) | 2:14 |
 | 18 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 19 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 19 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
 | 20 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 21 | [Mažas Amžinai](https://open.spotify.com/track/4k9uMv8dJhcd9gQhXBFqIJ) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:23 |
 | 22 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 42 | [Patogu](https://open.spotify.com/track/4MXAjSbfE8R8ugq99HKHUS) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Patogu](https://open.spotify.com/album/6RnUzinMY6jMvVFPAz8sYP) | 3:35 |
 | 43 | [Myliu](https://open.spotify.com/track/1F61F4SNfrF1kYVA6Hwpn5) | [Vaidas Baumila](https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1) | [Dangus Geriausieji](https://open.spotify.com/album/08wngOOGFrlXdZ7csqxow7) | 2:43 |
 | 44 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
-| 45 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
+| 45 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
 | 46 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
 | 47 | [Stadionai](https://open.spotify.com/track/4IBVt8rAiedyPBORzksLDt) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Rokas](https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt) | [Stadionai](https://open.spotify.com/album/0zcZe6CH2EouUkfFLzv89J) | 3:14 |
 | 48 | [Man Patinka Taip Gyvent](https://open.spotify.com/track/4Sutb29y41vsYKsMdmMbXu) | [Atlanta](https://open.spotify.com/artist/0p5A0rklaWoPwbj0HR28pC) | [Man Patinka Taip Gyvent](https://open.spotify.com/album/6fOQhGITzUvXLpcmQFBrRo) | 3:03 |
 | 49 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 50 | [Pasilik Praeity](https://open.spotify.com/track/38grlitW19BsvUcEE5pz9Z) | [Paulina Paukštaitytė](https://open.spotify.com/artist/4x1VXRYFuagEOeanJhVX4Z) | [Ego Kalbà](https://open.spotify.com/album/0wbVxL4QHUeGdHIr7g0g2U) | 2:43 |
 
-Snapshot ID: `ME+l+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

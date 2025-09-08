@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with over 1 billion streams on Spotify\. Cover: Jack Harlow & Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,427 likes - 1,034 songs - 2 day 14 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,698 likes - 1,034 songs - 2 day 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

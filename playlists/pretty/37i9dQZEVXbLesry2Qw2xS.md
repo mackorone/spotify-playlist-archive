@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,216 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,223 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 | 49 | [tiit marvel](https://open.spotify.com/track/5vpRJ11UdT4IXlSUHIqUxg) | [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X) | [Südamelt ära \(Deluxe\)](https://open.spotify.com/album/11hSAbGw2n31AZ0p5YYzGj) | 2:00 |
 | 50 | [Kõrvalistme Printsess](https://open.spotify.com/track/58ln66qKXa8Q4JG6n4jlbp) | [Qotid](https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa) | [Kõrvalistme Printsess](https://open.spotify.com/album/0XvbthqtmGROtD6ueJqIux) | 2:47 |
 
-Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

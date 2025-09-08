@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Douwe Bob & MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,842 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,850 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 2 | [Paarse nachten](https://open.spotify.com/track/2s1Kn9W1rG2kkIGYFDVcQs) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paarse Nachten](https://open.spotify.com/album/2pM0zct61wZz5YKGmexfVl) | 3:12 |
 | 3 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 |
 | 4 | [Beste Fout](https://open.spotify.com/track/6vYnml6p32VEStxD8ke7aX) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Beste Fout](https://open.spotify.com/album/7dAUv80dbGXyDebYTU489n) | 2:51 |
-| 5 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Bente\)](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
+| 5 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
 | 6 | [Oost West Thuis Best](https://open.spotify.com/track/1IKPpNQOoyvgrycSKB3Wy3) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Oost West Thuis Best](https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya) | 2:50 |
 | 7 | [BEEP BEEP](https://open.spotify.com/track/0Kqd4Fsg6n4LwWwLR0hpy7) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [BEEP BEEP](https://open.spotify.com/album/70IEzFseMdNSwitPA18BUg) | 2:35 |
 | 8 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |

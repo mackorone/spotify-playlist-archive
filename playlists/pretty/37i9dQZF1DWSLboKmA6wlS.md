@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: KACHAIN\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,786 likes - 95 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,789 likes - 95 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

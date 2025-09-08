@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Now and next level pop and beyond ❤️‍🔥 ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,693 likes - 66 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,689 likes - 66 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

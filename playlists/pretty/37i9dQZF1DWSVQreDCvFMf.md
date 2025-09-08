@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine Berdin
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,233 likes - 156 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,292 likes - 156 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nandito Ako](https://open.spotify.com/track/5p8IqHEfbNaAfpLqBYGBpj) | [Jhamil Villanueva](https://open.spotify.com/artist/1nTi2mRDBEEZwFxYcsYAR8) | [Nandito Ako](https://open.spotify.com/album/0Dqsp2jrQwBazQLtBFa2Hu) | 4:16 |
 | 2 | [RARARA](https://open.spotify.com/track/29LpgyzY0QsvhsNO6XXQ6c) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [RARARA](https://open.spotify.com/album/6OqJxk4hjts59iSTpRPg35) | 3:46 |
 | 3 | [HAYUP KA](https://open.spotify.com/track/7z527B3xf93ei8pR2q7UR4) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [HAYUP KA](https://open.spotify.com/album/2lufRVNXDecGoZewh5yv1n) | 3:00 |
-| 4 | [TULAD NG DATI](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [TULAD NG DATI](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 |
+| 4 | [tulad ng dati](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [tulad ng dati](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 |
 | 5 | [Blessed](https://open.spotify.com/track/73BjkWv5pGvULE188QeC9S) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Blessed](https://open.spotify.com/album/0BYZxPI8oBqUkKBIA1sfF8) | 3:55 |
 | 6 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
 | 7 | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/track/6GRxn0Cvq5RNXMqINqmdg7) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/album/72mYAD3S0oAD9itMzgVDKg) | 3:27 |

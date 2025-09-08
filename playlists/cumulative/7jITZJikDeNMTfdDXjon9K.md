@@ -4,7 +4,7 @@
 
 > 
 
-3,132 songs - 7 day 16 hr 47 min
+3,133 songs - 7 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2069,6 +2069,7 @@
 | [Party Up The Street](https://open.spotify.com/track/3DB14jHq2qNoByUN5W2gz1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [SHE IS COMING](https://open.spotify.com/album/7M4YAXOOg1XbWx03jg7t62) | 3:37 | 2019-05-31 |  |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-08-04 |  |
 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2023-03-15 |  |
+| [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 | 2025-09-07 |  |
 | [Patience \(feat\. YUNGBLUD & Polo G\)](https://open.spotify.com/track/5J5CpT6bgE6KYKk23jgp9W) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Patience \(feat\. YUNGBLUD & Polo G\)](https://open.spotify.com/album/5Pw9JWUXrroWXylJklvlVc) | 3:01 | 2021-03-12 |  |
 | [PATTERNS](https://open.spotify.com/track/5UBOA9zjYxkG7TzLhrBvcQ) | [atlas](https://open.spotify.com/artist/395RUhnuJcbFdgp6nYZsih) | [PATTERNS](https://open.spotify.com/album/0Dk8sOxhg1GJztbpdKRHoN) | 2:39 | 2019-01-14 |  |
 | [Payday \(feat\. Young Thug\)](https://open.spotify.com/track/2HolBGR6tpiWI80MXoV1dJ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:32 | 2021-06-25 |  |

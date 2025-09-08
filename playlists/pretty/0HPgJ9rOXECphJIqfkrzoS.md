@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HPgJ9rOXECphJIqfkrzoS.md) - [plain]
 
 > The latest pop songs that are totally cry worthy.
 
-[Spotify](https://open.spotify.com/user/ytvbuzrxkauou90l8xjqsrrw9) - 689 likes - 147 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/ytvbuzrxkauou90l8xjqsrrw9) - 690 likes - 147 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

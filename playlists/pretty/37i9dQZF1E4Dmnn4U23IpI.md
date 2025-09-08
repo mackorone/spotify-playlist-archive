@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With Siamese Youth, Gunship, PRIZM and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,096 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,099 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Fractions \(feat\. Jessie Frye\)](https://open.spotify.com/track/2ulW5zd7SluGGWVZ1DMiTI) | [Wayfloe](https://open.spotify.com/artist/79QJSuBrbDVAtWerM3yGup), [Jessie Frye](https://open.spotify.com/artist/1UGJpKPVr7i3CqzuQPdEmi) | [Neon West](https://open.spotify.com/album/22pKdQcvzft2TYKbcttRcT) | 4:12 |
 | 50 | [The Video Game Champion](https://open.spotify.com/track/4iADclNEcQMVtPMOpBqwIg) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Video Game Champion](https://open.spotify.com/album/2e9hovCWUNnwGnVdHrlS73) | 4:15 |
 
-Snapshot ID: `aLzqbAAAAAD3s2GgEADBkvd9EQ+PE278`
+Snapshot ID: `aL4maAAAAABzl3HX2R2Mm7MaBrB/L0cS`

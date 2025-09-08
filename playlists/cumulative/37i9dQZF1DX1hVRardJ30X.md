@@ -4,7 +4,7 @@
 
 > New music by Manuel Turizo, Ela Taubert & Jay Wheeler, Milo j and more! Updates every Friday.
 
-10,428 songs - 22 day 15 hr 37 min
+10,429 songs - 22 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7824,6 +7824,7 @@
 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 | 2023-07-14 | 2023-07-22 |
 | [Quema](https://open.spotify.com/track/2GDRp4UoWRj9kkasKcYWtD) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Quema](https://open.spotify.com/album/3O1bheeOk6ltskf0HM21JA) | 3:20 | 2023-05-05 | 2023-05-13 |
 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 | 2023-11-17 | 2023-11-25 |
+| [Quemar](https://open.spotify.com/track/0BhePps16yvCPaLNKWDMPL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Cultura POPular](https://open.spotify.com/album/0dQvwB5CwAKdLgy6BvCF23) | 2:46 | 2025-09-06 |  |
 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 | 2022-08-05 | 2022-08-13 |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-06-17 | 2022-06-25 |
 | [Quererte Igual](https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Quererte Igual](https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe) | 2:50 | 2023-02-10 | 2023-02-18 |

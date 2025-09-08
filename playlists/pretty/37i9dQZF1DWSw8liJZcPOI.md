@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,597 likes - 240 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,713 likes - 240 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 239 | [jól](https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [jól](https://open.spotify.com/album/12wOn1w7bkEOHSITYeQlWh) | 3:06 |
 | 240 | [Chasing the Present](https://open.spotify.com/track/0XJq2OGUGCNXq3FfAFL4dw) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Chasing the Present](https://open.spotify.com/album/3R25Xn9w8ohRxZBfKMtfVe) | 3:02 |
 
-Snapshot ID: `AAAAAGwpbT9r76a+SjPRYbutjR9ywhyi`
+Snapshot ID: `AAAAADpjMz/Vre1hW3HjC0fEhgDfUu+y`

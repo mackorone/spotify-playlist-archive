@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Tina Ardor
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,428 likes - 98 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,437 likes - 98 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

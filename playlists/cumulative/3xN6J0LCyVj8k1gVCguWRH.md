@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,274 songs - 12 day 7 hr 0 min
+5,275 songs - 12 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4915,6 +4915,7 @@
 | [waiting...](https://open.spotify.com/track/26hob5uX09n2M2BlqOmPaw) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [waiting...](https://open.spotify.com/album/5cpiuT4U3FN4PcNHJGRI5L) | 2:35 | 2024-10-18 | 2024-10-30 |
 | [Wake \- Radio Edit](https://open.spotify.com/track/14y7zFsOtaf8lvecxe0MEn) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [Wake \(Radio Edit\)](https://open.spotify.com/album/1KQDEWpBppRePlpwcd032k) | 3:00 | 2021-06-19 | 2021-07-04 |
 | [Wake Up](https://open.spotify.com/track/0uhg5qCovt9kfBnfNO7rU7) | [Ryan O'Neill](https://open.spotify.com/artist/2nYd73dbyjISStc2mctJP1) | [Wake Up](https://open.spotify.com/album/1kWIyLrS0Rx0v54hEKqPko) | 2:57 | 2022-06-17 | 2022-07-07 |
+| [Wake Up Dreaming](https://open.spotify.com/track/3io4OPyh7wkgvrsBnItndC) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [bandcalledbeach](https://open.spotify.com/artist/1kS5Z9kfPzCGRTFQDlkyzJ) | [Wake Up Dreaming](https://open.spotify.com/album/0ph08O6Md4CdbbvUHzaMaC) | 2:11 | 2025-09-07 |  |
 | [Walk a Dog](https://open.spotify.com/track/0f7zc3cScJHB0AEViPCDmZ) | [Big Brutus](https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi) | [Walk a Dog](https://open.spotify.com/album/0Pkubw0HkeZHwLvnodc1Mm) | 4:10 | 2024-02-04 | 2024-02-16 |
 | [Walk Alone Track](https://open.spotify.com/track/1TbzpNoZ6rrUTytsAfraik) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [Walk Alone Tracks](https://open.spotify.com/album/4FGPdJt6pE9NGaihCUDDTc) | 4:24 | 2021-10-29 | 2021-11-14 |
 | [Walk Away](https://open.spotify.com/track/2FK2XhLkQsBhWD1wFjqeWp) | [Ed.1t](https://open.spotify.com/artist/00a74uAKOd6hQYhHFPZ6YC), [Mia Mormino](https://open.spotify.com/artist/0Gd1DcCTN8mqxopRP7TPAB) | [Walk Away](https://open.spotify.com/album/3oJ9uKapi7BmvqhkbhfYAS) | 3:13 | 2021-12-31 | 2022-01-15 |

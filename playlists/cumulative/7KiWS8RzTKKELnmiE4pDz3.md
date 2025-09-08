@@ -4,7 +4,7 @@
 
 > 
 
-1,170 songs - 2 day 11 hr 33 min
+1,171 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 | 2023-04-04 | 2023-05-09 |
 | [Summer Soft](https://open.spotify.com/track/0eGpcLG96GWVCG4Ix3qLCp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:14 | 2025-04-14 |  |
 | [Sup Mate \(feat\. Future\)](https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:58 | 2023-10-03 | 2024-04-24 |
+| [Superfly](https://open.spotify.com/track/2XUHR76nHGIbrj0Nzj8U9S) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Bad Azz Mixtape, Vol\. 2](https://open.spotify.com/album/6yQqGvxwmEHheXhcyHVrSS) | 3:32 | 2025-09-07 |  |
 | [Surf \(feat\. Gunna\)](https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:04 | 2024-06-24 |  |
 | [Survival Tactics](https://open.spotify.com/track/4pNT8XTKWb2vhcsqwzdXCT) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:22 | 2022-09-08 | 2023-05-09 |
 | [SWAG LIKE OHIO PT.2 \(feat\. Lil B\)](https://open.spotify.com/track/0rJ4zjiG51JPL0XhbbJ62i) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:00 | 2023-01-20 | 2023-04-24 |

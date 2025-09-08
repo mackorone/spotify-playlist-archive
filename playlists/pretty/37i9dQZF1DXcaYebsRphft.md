@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『2025 ILLIT GLITTER DAY IN JAPAN』 のセットリストをスペシャルメッセージとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,342 likes - 12 songs - 30 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36,385 likes - 12 songs - 30 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

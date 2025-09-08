@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Syot
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 93 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 93 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

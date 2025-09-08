@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Soner Sarıkabadayı x Sefo x Aerro ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,842 likes - 133 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,853 likes - 133 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

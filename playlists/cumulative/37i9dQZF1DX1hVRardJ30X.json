@@ -162053,6 +162053,28 @@
     },
     {
       "album": {
+        "name": "Cultura POPular",
+        "url": "https://open.spotify.com/album/0dQvwB5CwAKdLgy6BvCF23"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2025-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Quemar",
+      "url": "https://open.spotify.com/track/0BhePps16yvCPaLNKWDMPL"
+    },
+    {
+      "album": {
         "name": "Quemonito",
         "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
       },

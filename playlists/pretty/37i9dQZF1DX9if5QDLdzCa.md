@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,028 likes - 165 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,063 likes - 165 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

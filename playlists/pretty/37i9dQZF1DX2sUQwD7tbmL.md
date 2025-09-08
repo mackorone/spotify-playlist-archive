@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,336 likes - 150 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,318,396 likes - 150 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
 | 150 | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d) | 5:28 |
 
-Snapshot ID: `AAAAACdlmHa+W5Jd8YcysSoAn/fjeGYV`
+Snapshot ID: `AAAAAKUZEf286mqaJVLKuA/A8XC2f6op`

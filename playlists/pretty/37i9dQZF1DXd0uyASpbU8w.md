@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Focalistic & Ch'cco, Sjava, Will Linley and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,457 likes - 74 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,508 likes - 74 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 42 | [Porcelain Moon](https://open.spotify.com/track/1pnvK9r4V8ktJC9jFagiZs) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Porcelain Moon](https://open.spotify.com/album/3lYjJhcfPkusexhUBcUA6P) | 3:59 |
 | 43 | [People Need People](https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [People Need People](https://open.spotify.com/album/3zAyNQMIfYDCTpm5PYapi8) | 2:45 |
 | 44 | [I'm your first](https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE) | 2:54 |
-| 45 | [I’mali](https://open.spotify.com/track/7qOrOhGPV0aTyr76w3GnGn) | [DJ LIYASHO](https://open.spotify.com/artist/2SGQpc5lCEo5CckFNj3gTJ), [NAKSoul](https://open.spotify.com/artist/0d6Hlgz11lT6BJH1HTXCrT), [Dot Mega](https://open.spotify.com/artist/0DnvMgwUAfLV06uffraoeJ), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW) | [Tell Them To](https://open.spotify.com/album/3H11zDJ4F1gYGB32otNlfn) | 5:20 |
+| 45 | [I’mali](https://open.spotify.com/track/7qOrOhGPV0aTyr76w3GnGn) | [DJ LIYASHO](https://open.spotify.com/artist/2SGQpc5lCEo5CckFNj3gTJ), [NAKSoul](https://open.spotify.com/artist/0d6Hlgz11lT6BJH1HTXCrT), [Dot Mega](https://open.spotify.com/artist/0Wf1WjVAFRkZsuhxrXMC0r), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW) | [Tell Them To](https://open.spotify.com/album/3H11zDJ4F1gYGB32otNlfn) | 5:20 |
 | 46 | [Impi YeMpilo \- Kelvin Momo Remix](https://open.spotify.com/track/0imGefTLGfnp9ZRUbxZ4EA) | [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ), [Disciples of House](https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Impi YeMpilo \(Kelvin Momo Remix\)](https://open.spotify.com/album/308N8YmWsHZH5KcgWvYGT8) | 8:38 |
 | 47 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
 | 48 | [Bobo](https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Bobo](https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL) | 3:02 |

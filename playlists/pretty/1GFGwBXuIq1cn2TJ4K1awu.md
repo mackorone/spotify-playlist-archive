@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 40 min 29 sec
+[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 38 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 |
-| 2 | [Heart Cooks Brain](https://open.spotify.com/track/6VPmuKRODPVBazkpPRUgK5) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:02 |
-| 3 | [Make It Right](https://open.spotify.com/track/30lERIpNM6X3G4OrKDToyE) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Nosebleed Weekend](https://open.spotify.com/album/27y8R6lqiOYmJc5LDGPWbe) | 3:01 |
-| 4 | [Buzzin' Fly](https://open.spotify.com/track/5hndRoB0NwY3nwXq1pbvVf) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Buzzin' Fly](https://open.spotify.com/album/79ZP4YwsRt03H4anVBt5vd) | 5:37 |
-| 5 | [Trouble, Heartaches & Sadness](https://open.spotify.com/track/0ryoOkpaDeSQRoYQGGJAxn) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Straight from the Heart](https://open.spotify.com/album/2HGzxUUz5q4jldJkodIarf) | 2:41 |
-| 6 | [Mind Blowin'](https://open.spotify.com/track/4q6G2T3uLleqFvQnTC60NA) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 3:36 |
-| 7 | [Monkey Suite](https://open.spotify.com/track/6l3Bcu6R6Nx3h25l87gV5c) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Chrome Children Vol\. 1](https://open.spotify.com/album/5GitFcIJajt0bEZ1JXZbou) | 2:39 |
-| 8 | [Wanna Be Loved](https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:37 |
-| 9 | [You Don't Want Me](https://open.spotify.com/track/4oljCgUgf4uZ4xcszSwlZl) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Emotions and Math](https://open.spotify.com/album/2Bq3X3NF39gvmAihzX1DdK) | 2:04 |
-| 10 | [Faithless](https://open.spotify.com/track/3Jdvy13itjxVS0J8p7gzfA) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Radiant Dawn](https://open.spotify.com/album/1lvuiRfYHNrjgPXAGIaKR8) | 6:33 |
-| 11 | [Luscious Lady](https://open.spotify.com/track/23LN1l3UQ4Qjg3YPzN8Yi7) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Listen To My Song: The Music City Sessions](https://open.spotify.com/album/4wMqa7e6wOLiF0LPa4pO8q) | 3:15 |
+| 1 | [The Valley](https://open.spotify.com/track/0Ati5yZb6Z0Fk0xHhhyDDf) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [The Town and The City](https://open.spotify.com/album/5gYSTafJAtxEqWXJPzylpH) | 4:33 |
+| 2 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 |
+| 3 | [Tennessee Songbird](https://open.spotify.com/track/1VTLJQs7PPXPSCtOr16xOs) | [Hannah Juanita](https://open.spotify.com/artist/4BhOvUyS23JWzGZC7j3GbE) | [Tennessee Songbird](https://open.spotify.com/album/3zptqECPpVpJ7tSKMN4xUz) | 2:42 |
+| 4 | [These Dreams](https://open.spotify.com/track/5jfTyVVni6I5FU7ti6Csap) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life And Times](https://open.spotify.com/album/1W8lksoNXJHs8RjWsDEdpk) | 3:12 |
+| 5 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 |
+| 6 | [No Stage](https://open.spotify.com/track/10RRRKc9f6gC0aqEtjNDXS) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:18 |
+| 7 | [Electioneering](https://open.spotify.com/track/6PBHfI3G8MlQ8qdItoVoxL) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:50 |
+| 8 | [Roll Right](https://open.spotify.com/track/5tYosD9TicWDYO3kAE4ADp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 4:20 |
+| 9 | [Me More Cowboy Than You \- Demo](https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Me More Cowboy Than You \(Demo\)](https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS) | 2:43 |
+| 10 | [I Don't Wanna Be Funny Anymore](https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:43 |
+| 11 | [What a Nigga Know?](https://open.spotify.com/track/6ZClQUx5QAuTuR2v2wx37F) | [KMD](https://open.spotify.com/artist/70S4sHnxr55YQxZ53H5guq) | [Black Bastards Deluxe Edition](https://open.spotify.com/album/1gTlg0IRm6oCpdf81m52te) | 3:26 |
 
-Snapshot ID: `AAAHb+QY2diy6SrrQnMVhkaR1ioP1qfh`
+Snapshot ID: `AAAHhRoSEaBtMcCEXbgBbHZHO8NYn9oF`

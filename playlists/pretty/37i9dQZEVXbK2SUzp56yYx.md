@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 21 | [ЛАВАШ\-ГОВЯДИНА](https://open.spotify.com/track/5CS8N4Vyi078FMqBNWzdI3) | [JorikRulit](https://open.spotify.com/artist/1EUgxXPwT73a4iudRaQQzs), [YUNG FIMOZ](https://open.spotify.com/artist/3y8i7Czy6TEiGfC6Zgw7lw) | [ЛАВАШ\-ГОВЯДИНА](https://open.spotify.com/album/5aSnj3X9ASs9jFHU8bQZxV) | 1:50 |
 | 22 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
 | 23 | [DOORS LIGHT FUNK \- SLOWED](https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [DOORS LIGHT FUNK](https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV) | 1:43 |
-| 24 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 4:06 |
+| 24 | [Punkrocker \(feat\. Iggy Pop\) \- As featured in Superman](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |
 | 25 | [Confess Your Love](https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO) | 2:11 |
 | 26 | [MONTAGEM VOZES TALENTINHO \- Super Slowed](https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT) | [heapper](https://open.spotify.com/artist/7I9nmXtGIFw9XUxNG36Q7N), [DJ JUAN](https://open.spotify.com/artist/0iPVlUddVxi8XrL3Ju8GAw) | [MONTAGEM VOZES TALENTINHO](https://open.spotify.com/album/2UPwhike9Qp0u3p0OaUzcP) | 1:41 |
 | 27 | [Косил Ясь конюшину](https://open.spotify.com/track/24z68vBFYl6kpWZn4t7ns4) | [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Pesniary](https://open.spotify.com/artist/4gAsHRz5ZHcuD0skMevTdK) | [Косил Ясь конюшину](https://open.spotify.com/album/6rdc7PvMB9Q2o4WH31gprs) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [Мои глаза сияют](https://open.spotify.com/track/6OUmc3Awt5z95vCldG1tQz) | [Locked23](https://open.spotify.com/artist/39sApb6ymY4wXJ48RTrHTi) | [Loud Romance](https://open.spotify.com/album/5Z4yR1Hjen97HeBPFUn4Oj) | 1:34 |
 | 50 | [НОЛЬ МУЖСКОГО](https://open.spotify.com/track/2RWGojDKfGY8Bo4e7FjkO9) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2), [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi), [дмитрий уткин](https://open.spotify.com/artist/2ZArU8DVyHLNw15DOsK8Ce) | [НОЛЬ МУЖСКОГО](https://open.spotify.com/album/2BNbxyhmxgJOw4LZmeFhrN) | 3:02 |
 
-Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

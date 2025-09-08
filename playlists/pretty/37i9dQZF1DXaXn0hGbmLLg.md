@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:1IXhBghuEWlU4soJjaV5gH">Min Taka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,343 likes - 62 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,361 likes - 62 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 5 | [Fade Into You](https://open.spotify.com/track/1e1eEwrEB10AS63wLn5GQ9) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Fade Into You](https://open.spotify.com/album/3c9SQJHK76DoMQ7xSdwBIj) | 3:16 |
 | 6 | [Don't Break My Heart](https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Don't Break My Heart](https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN) | 2:54 |
 | 7 | [Crack My Mind](https://open.spotify.com/track/5a96ur60EMxFODZSqzfs6j) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Crack My Mind](https://open.spotify.com/album/4rIfEkwxvFQKJyWOQtgIW9) | 3:59 |
-| 8 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Bente\)](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
+| 8 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
 | 9 | [Looking For You](https://open.spotify.com/track/2FjlLyQOA4aNRytqOo6DzW) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Looking For You](https://open.spotify.com/album/3htClKO6oSJrhvagMrKp3l) | 2:51 |
 | 10 | [Shirt](https://open.spotify.com/track/6pwOKAqlSXT5fItVRXiqen) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Shirt](https://open.spotify.com/album/5HlVNBgXdZw8v2aYM6FS9z) | 2:57 |
 | 11 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 |

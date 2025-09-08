@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: TADI, Kafin Sulthan
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,475 likes - 110 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,489 likes - 110 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

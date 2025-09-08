@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Von Wegen Lisbeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,032 likes - 91 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,073 likes - 91 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

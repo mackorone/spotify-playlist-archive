@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SHIRT\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: HENRY\(헨리\)\)
 
-566 songs - 1 day 6 hr 30 min
+567 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Circle \(Feat\. Demian Love\)](https://open.spotify.com/track/4p3CNPNKYOqzCBd8uQKqA9) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Demian Love](https://open.spotify.com/artist/39ilK8sp48AGEp3Zd3mBf6) | [Circle](https://open.spotify.com/album/2nlTltFuBMgB5dDsuf6dEF) | 2:40 | 2024-01-08 | 2024-05-01 |
 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 | 2024-09-14 |
 | [City!](https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:42 | 2022-08-18 | 2023-01-21 |
+| [Closer To You](https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Closer To You](https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO) | 2:55 | 2025-09-08 |  |
 | [Closure](https://open.spotify.com/track/0owSnuNM561WS2dSicHJxw) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Closure](https://open.spotify.com/album/2dkVQHxDEujqrfrfJUlP06) | 3:34 | 2025-03-13 | 2025-06-26 |
 | [Clumsy](https://open.spotify.com/track/6Ugempi5fDLDHBRLNFPUem) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [Boy Story](https://open.spotify.com/album/6AMr72xtY2whLGWXCFKiUA) | 2:41 | 2024-08-10 | 2024-10-15 |
 | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/track/3GUcwsSSt0kGzNbKr6PAHR) | [LEVEL NINE](https://open.spotify.com/artist/4Q4MsHUCFTMr4Nnca9qChC), [Cosmograph](https://open.spotify.com/artist/4en0H7iE6PqEnZnWGmtWuK), [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/3Gni8Kq2mlijC5Im1LNkr7) | 3:54 | 2024-08-10 | 2024-10-15 |

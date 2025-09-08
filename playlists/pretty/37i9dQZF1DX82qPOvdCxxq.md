@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: DizzyEight \| Artwork: SSTEDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,576 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,592 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [So Beyond](https://open.spotify.com/track/6BH9lgUltTuhMABEIlYPAX) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [So Beyond](https://open.spotify.com/album/0NINUFWvtvWgzqHKiqKCx2) | 2:19 |
 | 100 | [Thank God for You](https://open.spotify.com/track/0h64NthkyK9bTEGeNIMUP0) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS), [Sons of David](https://open.spotify.com/artist/0G6USkLTqbeFmfA199Psbh) | [Thank God for You](https://open.spotify.com/album/77Pl3q3WqTRs7zAUTFQQiH) | 3:47 |
 
-Snapshot ID: `AAAAAFc/hlyTzki+1lDYAC6Vr7PCZOtr`
+Snapshot ID: `AAAAAKlZgd3XXW+3Z+OR4CF/aLo6yQmW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 
 > Be there and be square\. Listen to the music from A Minecraft Movie, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,927 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,311 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

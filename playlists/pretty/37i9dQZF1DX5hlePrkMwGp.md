@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,933 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,047 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 18 | [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 |
 | 19 | [Naana Thaana \(From "Thaanaa Serndha Koottam"\)](https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Best of Love : Anirudh Ravichander](https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5) | 4:19 |
 | 20 | [Oh Oh \(From "Thangamagan"\) \- The First Love of Tamizh](https://open.spotify.com/track/4QcOPoawK7LrgQ3cmN27of) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Best of Love : Anirudh Ravichander](https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5) | 4:36 |
-| 21 | [Velicha Poove \(From "Ethir Neechal"\)](https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Best of Anirudh](https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf) | 5:12 |
+| 21 | [Velicha Poove \(From "Ethir Neechal"\)](https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Best of Anirudh](https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf) | 5:12 |
 | 22 | [Nanbiye \- From "Teddy"](https://open.spotify.com/track/1AdLxSuPIZRsIp7IM743dE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Nanbiye \(From "Teddy"\)](https://open.spotify.com/album/7Cj3ixwFvCNw6Z8Xx1dkuG) | 4:26 |
 | 23 | [Idhayane](https://open.spotify.com/track/0If3UxapVCA0NUKgpJkpaj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:42 |
 | 24 | [Onnume Aagala](https://open.spotify.com/track/48ePgAy2q22QcFUPjUv53Z) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Onnume Aagala](https://open.spotify.com/album/4ZUzyasRhtS8trl5wNz3nc) | 4:12 |

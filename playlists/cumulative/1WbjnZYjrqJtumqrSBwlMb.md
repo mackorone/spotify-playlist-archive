@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,169 songs - 2 day 23 hr 35 min
+1,170 songs - 2 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Really Doe](https://open.spotify.com/track/6dHatCnuOb1TdBIeJTK3Y0) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 5:19 | 2022-12-18 |  |
 | [Reborn](https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 5:24 | 2021-10-06 |  |
 | [REBOUND!](https://open.spotify.com/track/7J8V76XTLhJXAm8hwCQKXG) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 3:44 | 2024-06-17 |  |
+| [Recently Played](https://open.spotify.com/track/4Grli0SlPSpMKAJDeZURG2) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 2:00 | 2025-09-08 |  |
 | [Reckless Serenade](https://open.spotify.com/track/1bXLpqe49cqEpj88uPR4pu) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 2:42 | 2024-06-17 |  |
 | [Red Light](https://open.spotify.com/track/1wKerz7AHHoue4sE3nGYl9) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:08 | 2025-06-26 |  |
 | [Red Light Indicates Doors Are Secured](https://open.spotify.com/track/56GFlp1dkt7dw56pQdTwqW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:23 | 2020-08-16 |  |

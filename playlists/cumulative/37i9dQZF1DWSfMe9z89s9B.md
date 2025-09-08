@@ -2,7 +2,7 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> The new school \- Alternative R&B\. Cover: Khamari
+> The new school \- Alternative R&B\. Cover: Gabriel Jacoby
 
 1,487 songs - 3 day 6 hr 23 min
 

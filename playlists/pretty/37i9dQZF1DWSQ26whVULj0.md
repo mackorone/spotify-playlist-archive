@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQ26whVULj0.md) - [plain]
 
 > Explore the familiar tunes of Mendelssohn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,158 likes - 85 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,173 likes - 85 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

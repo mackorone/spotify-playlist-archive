@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-339 songs - 21 hr 54 min
+340 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/6utQlfLooYsUkq5xUg3vxt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7) | 3:42 | 2022-12-11 |  |
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2019-02-04 |  |
 | [Now & Forever](https://open.spotify.com/track/4zLOwx1yRJXWkHKt1XzF1p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:41 | 2024-01-23 | 2025-09-06 |
+| [Oh Well](https://open.spotify.com/track/6jcvE3zmxGEqHjL2Dum8ug) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 3:24 | 2025-09-07 |  |
 | [Old wooden rafters](https://open.spotify.com/track/0KqDYr4qjE4aQ4MdiYAHSu) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapters 3+4 \(Original Game Soundtrack\)](https://open.spotify.com/album/4wsN31rpFBwGS06xi3rp1P) | 1:38 | 2025-07-01 |  |
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2020-05-22 |  |
 | [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 | 2021-07-13 |  |

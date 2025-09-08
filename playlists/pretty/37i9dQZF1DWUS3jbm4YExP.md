@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,559 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,703 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 150 | [Popoli del Mare](https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE) | [Bassolino](https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx) | [Popoli del Mare](https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6) | 4:39 |
 
-Snapshot ID: `AAAAADQ0rsPbiJfCJIwk+0pv66mZQhgZ`
+Snapshot ID: `AAAAAFVdnaICliFRLDNAzRfnbCz+Sz83`

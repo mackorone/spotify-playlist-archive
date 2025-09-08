@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Grandi Raga <s>in bicicletta </s> in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,070 likes - 79 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,073 likes - 79 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

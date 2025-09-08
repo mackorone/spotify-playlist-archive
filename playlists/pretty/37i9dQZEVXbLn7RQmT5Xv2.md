@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLn7RQmT5Xv2.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,768 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,788 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLn7RQmT5Xv2.md) - [plain]
 | 49 | [انا من غيرك](https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا من غيرك](https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o) | 3:31 |
 | 50 | [ستاموني](https://open.spotify.com/track/0D42n56xXQz7Evg8eyhVdo) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [ستاموني](https://open.spotify.com/album/4GCZrhH7O3S7UifUY4nXHk) | 3:45 |
 
-Snapshot ID: `ME+joAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

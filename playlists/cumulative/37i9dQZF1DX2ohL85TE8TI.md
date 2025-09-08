@@ -2,9 +2,9 @@
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 트라이: 우리는 기적이 된다 \(The Winning Try\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,102 songs - 2 day 18 hr 52 min
+1,103 songs - 2 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-03 | 2022-05-04 |
 | [Empty\-handed](https://open.spotify.com/track/4X4lN5MOPExYdogvyyfNTG) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Monstrous, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1d6hkx4w4dAijCqozIqI08) | 3:50 | 2022-05-03 | 2022-07-05 |
 | [End of a Day](https://open.spotify.com/track/1yjMST306VNC3OfvnMgqTp) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [End of a Day \(Crushology 101 OST Part.8\)](https://open.spotify.com/album/2td9gFveZGCT2v9JzKjWka) | 3:55 | 2025-05-12 | 2025-08-15 |
+| [End of a Day, You](https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day, You \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik) | 4:31 | 2025-09-08 |  |
 | [End The Night](https://open.spotify.com/track/3kjVMArbdPikj11THpg5YU) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Battle for Happiness, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0bts7DNOfKMfVO0QYK1OOE) | 2:51 | 2023-07-17 | 2023-11-18 |
 | [ENFP \(Back to You X Rothy\)](https://open.spotify.com/track/10L1cmcA9Pp3Katey4tA8w) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [ENFP \(Back to You X Rothy\)](https://open.spotify.com/album/7fWejPKDbEOkagtYUhvKuZ) | 3:20 | 2021-12-24 | 2022-04-13 |
 | [Enough \(Prod\. Primary\)](https://open.spotify.com/track/3LJZMmngKDvo1X04dBYG0J) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Little Women, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/58xp3aLV0FLfzuQAg4HKe3) | 3:45 | 2022-09-19 | 2023-01-14 |
@@ -1048,7 +1049,7 @@
 | [You](https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 | 2023-02-03 | 2023-06-03 |
 | [You & I](https://open.spotify.com/track/7zOvEE9tAfffU3m0QbdyIP) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 2:49 | 2024-05-24 | 2024-10-11 |
 | [You & Me](https://open.spotify.com/track/56s9zc3mWOFpU8zj882CWD) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 | 2023-11-14 | 2024-05-28 |
-| [You Are \(SUH YOUNG EUN X Cat Kiss\)](https://open.spotify.com/track/6I7LU7FlI9QSOlyxVz8G97) | [Suh Young Eun](https://open.spotify.com/artist/1uQ8BQhLtGMfK8PS3UAdNX) | [You Are \(SUH YOUNG EUN X Cat Kiss\)](https://open.spotify.com/album/57hJGiAPv9349NNjpPY8se) | 3:27 | 2025-02-10 |  |
+| [You Are \(SUH YOUNG EUN X Cat Kiss\)](https://open.spotify.com/track/6I7LU7FlI9QSOlyxVz8G97) | [Suh Young Eun](https://open.spotify.com/artist/1uQ8BQhLtGMfK8PS3UAdNX) | [You Are \(SUH YOUNG EUN X Cat Kiss\)](https://open.spotify.com/album/57hJGiAPv9349NNjpPY8se) | 3:27 | 2025-02-10 | 2025-09-08 |
 | [You Are Mine](https://open.spotify.com/track/2lS7EowakQLS1NkRj0acbM) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [You Are Mine \(A Business Proposal OST Part.2\)](https://open.spotify.com/album/77XfHNb3xBq8cv50bsRzkn) | 3:27 | 2022-03-09 | 2022-05-12 |
 | [You Are My](https://open.spotify.com/track/6MA2KOOiWZAgUmqADg3YWF) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [KING THE LAND \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7doqvezlVYzWzPDf9Ad37h) | 3:01 | 2023-07-17 | 2024-01-05 |
 | [You are my destiny](https://open.spotify.com/track/5smUgcGZp3HeWvuw9Jmmnc) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [Jinxed at First \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3fUhx3K8Z47kvOQnNDNN3P) | 3:14 | 2022-08-02 | 2022-11-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Sky Ferreira, Labyrinth Ear, Pearly Drops and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,518 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,525 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 50 | [Lost In My Bedroom](https://open.spotify.com/track/61AXzGgiu768lqCXHBHlt8) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/5p7bst30JEHSIe1VMtjbfG) | 3:13 |
 
-Snapshot ID: `aLzn7gAAAACBlkU/JUYsybrS2CgpXvHc`
+Snapshot ID: `aL4i/gAAAACibjHAwhNmmHEDbeBHR7ad`

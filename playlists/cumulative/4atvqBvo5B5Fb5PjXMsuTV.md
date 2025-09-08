@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Sep 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Sep 22:04 UTC.
 
-5,445 songs - 12 day 15 hr 31 min
+5,449 songs - 12 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Bad Tattoo](https://open.spotify.com/track/6QRZvirg2FzBXo1qfsJpsU) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Bad Tattoo](https://open.spotify.com/album/5ps668E8mAfEpi3PGq6lKp) | 3:04 | 2024-04-26 | 2024-05-01 |
 | [BAD TIME](https://open.spotify.com/track/2HrgD87YHrINdWlEU7o0gn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BAD TIME](https://open.spotify.com/album/0j8IPQxwlRChALfwro711D) | 3:30 | 2024-08-30 | 2024-09-05 |
 | [Bad Witch](https://open.spotify.com/track/3bDE0ugtiCGHlkCY03rmAH) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Bad Witch](https://open.spotify.com/album/7zS3pNxaur1JdlCgEbtPVG) | 2:25 | 2024-09-05 | 2024-09-07 |
-| [BADITUDE](https://open.spotify.com/track/5cwvqvUg378HuUo5QRrU7B) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [BADITUDE](https://open.spotify.com/album/0rrvytckaTbb4mE1H82iZ9) | 2:32 | 2025-08-27 |  |
+| [BADITUDE](https://open.spotify.com/track/5cwvqvUg378HuUo5QRrU7B) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [BADITUDE](https://open.spotify.com/album/0rrvytckaTbb4mE1H82iZ9) | 2:32 | 2025-08-27 | 2025-09-08 |
 | [Badman Season](https://open.spotify.com/track/2sOBIuHSmGcdCnfzJJhfvK) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Badman Season](https://open.spotify.com/album/1AYQOqyrJZTkXIC5u3Ly0U) | 4:01 | 2024-07-19 | 2024-07-20 |
 | [BAE](https://open.spotify.com/track/7joAgfyM2c5zbTQ32h8r5d) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [BAE](https://open.spotify.com/album/3iirGm6NJqfFTFFMS1K254) | 3:19 | 2024-07-24 | 2024-07-27 |
 | [Bakit Hindi Ka Crush Ng Crush Mo](https://open.spotify.com/track/2KuTrG1x4SYCeZh1FMDCGu) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Bakit Hindi Ka Crush Ng Crush Mo](https://open.spotify.com/album/7pvBl5IBQ2XaGccv4P9a09) | 5:37 | 2024-08-16 | 2024-08-22 |
@@ -1093,6 +1093,7 @@
 | [CUT KNUCKLES](https://open.spotify.com/track/3o53Nz7ReyvVXSfwOStWQB) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [CUT KNUCKLES](https://open.spotify.com/album/1bYbhlDpNCP7lwHDIa8mBv) | 2:15 | 2025-08-01 | 2025-08-10 |
 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 | 2025-03-15 | 2025-03-25 |
 | [CUT UP](https://open.spotify.com/track/5XlTNfXj1MdnrOXyBdRMj6) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [CUT UP](https://open.spotify.com/album/0dKJmsUf8pgf6HObLA7pDe) | 2:05 | 2024-09-26 | 2024-09-28 |
+| [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 | 2025-09-07 |  |
 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 | 2025-06-03 | 2025-06-12 |
 | [CVNTY](https://open.spotify.com/track/6Z9DLcPnRFLupsw5WJ5sLw) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [CVNTY](https://open.spotify.com/album/3YaMAbTM3kQxy5Ke6q7jVt) | 2:20 | 2024-06-22 | 2024-06-26 |
 | [CYAN](https://open.spotify.com/track/3HSxAkhvpn17foJLyN1fLH) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [CYAN](https://open.spotify.com/album/5gR1KCXF1uPCY8fjFEkN64) | 4:06 | 2024-06-06 | 2024-06-08 |
@@ -2183,6 +2184,7 @@
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-30 | 2025-08-07 |
 | [Hot Dog Hooker](https://open.spotify.com/track/5obOTPVKDnVdm9pYtyM0SQ) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Hot Dog Hooker](https://open.spotify.com/album/576xa3AgwpabuvHJaZ0xZl) | 3:11 | 2024-06-10 | 2024-06-13 |
 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 | 2025-07-25 | 2025-08-07 |
+| [Hot Goblin](https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Hot Goblin](https://open.spotify.com/album/3ehPg84etRc980Up4eqY93) | 2:38 | 2025-09-07 |  |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-02 | 2024-07-05 |
 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-01 | 2025-07-12 |
 | [hot topic](https://open.spotify.com/track/7mf6EqBXVrFZrV5sheEo35) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [hot topic](https://open.spotify.com/album/3FduwcNtEgOuz0tFjMui5U) | 1:55 | 2025-09-02 |  |
@@ -2737,7 +2739,7 @@
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-02 | 2024-08-08 |
 | [Lighthouse](https://open.spotify.com/track/5NAYUq7x7vtUxnBTNUvl9B) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [Lighthouse](https://open.spotify.com/album/5VJBkCy9ph3MqPATuPLocE) | 4:14 | 2024-12-03 | 2024-12-06 |
 | [Lights Camera Action](https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Lights Camera Action](https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf) | 2:42 | 2024-09-27 | 2024-10-03 |
-| [LIGHTS OUT](https://open.spotify.com/track/159bOtiM5I3HyHXmtfJA0U) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [LIGHTS OUT](https://open.spotify.com/album/6qmrUm5cgD5hdhuFhohonq) | 3:47 | 2025-08-28 |  |
+| [LIGHTS OUT](https://open.spotify.com/track/159bOtiM5I3HyHXmtfJA0U) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [LIGHTS OUT](https://open.spotify.com/album/6qmrUm5cgD5hdhuFhohonq) | 3:47 | 2025-08-28 | 2025-09-08 |
 | [Like 1](https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Like 1](https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO) | 3:06 | 2025-08-22 | 2025-09-02 |
 | [LIKE A CHINK BITCH](https://open.spotify.com/track/0QZbFNtvonYn5niPpK0VZG) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [LIKE A CHINK BITCH](https://open.spotify.com/album/633Dw3yMQ4LxvxKGGaDk5l) | 2:04 | 2024-08-23 | 2024-08-25 |
 | [Like a Friend](https://open.spotify.com/track/1CM2r7Tu9lD4avsuzC52yL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [Like a Friend](https://open.spotify.com/album/4rKQwAxZj5Ae0jCv08Ggo0) | 2:52 | 2024-12-09 | 2024-12-13 |
@@ -3780,6 +3782,7 @@
 | [Rap Kingpin](https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Rap Kingpin](https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V) | 2:44 | 2025-08-01 | 2025-08-12 |
 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 | 2025-07-26 | 2025-08-02 |
 | [Raspy](https://open.spotify.com/track/4NAqDim88FVAwEjUeZAE3P) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Raspy](https://open.spotify.com/album/0bplQ7UrbSw6tidOxCt7Hu) | 2:50 | 2025-08-08 | 2025-08-17 |
+| [Rasta](https://open.spotify.com/track/6g5dk4P9dFobuov46AGBic) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Rasta](https://open.spotify.com/album/0975JmGVYncmj3yMoghSXd) | 1:52 | 2025-09-07 |  |
 | [rat](https://open.spotify.com/track/1irNQBvq7AkhxtacEicIai) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [rat](https://open.spotify.com/album/1c1mJ6CwgfrDKsHtzFYSXm) | 2:53 | 2024-10-23 | 2024-10-25 |
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-05-23 | 2024-05-25 |
 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-16 | 2025-05-29 |
@@ -3853,7 +3856,7 @@
 | [Return to Winter](https://open.spotify.com/track/0dOVFMG9gc0PkVM93Vyk2X) | [False Noise](https://open.spotify.com/artist/21Gl6GJNj1nxYiL2eNUpfP) | [Return to Winter](https://open.spotify.com/album/5uWRLodHHQ99LLSYqayzSA) | 4:23 | 2024-08-14 | 2024-08-17 |
 | [Reunion](https://open.spotify.com/track/5QX1eYqwtdVl7VrSapQvcm) | [Kardashev](https://open.spotify.com/artist/5UYpPowESfmqU3fD6fJFox) | [Reunion](https://open.spotify.com/album/5K2Hm7jLC0oI8jPZOSfbHE) | 4:52 | 2025-02-28 | 2025-03-06 |
 | [REV](https://open.spotify.com/track/5YOgKyFaUMVxEXDYwB1ovq) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [REV](https://open.spotify.com/album/7jzfYMXQOSGn8rm6rbHoVx) | 3:28 | 2024-09-20 | 2024-09-25 |
-| [Revenge In Carnage](https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Revenge In Carnage](https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP) | 2:27 | 2025-08-27 |  |
+| [Revenge In Carnage](https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Revenge In Carnage](https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP) | 2:27 | 2025-08-27 | 2025-09-08 |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-27 | 2024-08-01 |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 | 2025-06-03 |
 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 | 2024-10-03 | 2024-10-05 |
@@ -4844,6 +4847,7 @@
 | [Toothache](https://open.spotify.com/track/3evEYhfiNcwYERefV2u9ps) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Toothache](https://open.spotify.com/album/6tEEA1bG0vpLFDVuCUb70p) | 3:17 | 2025-03-20 | 2025-03-30 |
 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2024-09-25 | 2024-09-28 |
 | [Toothless](https://open.spotify.com/track/2Ge0YnziuS7sZYjyLFOmTo) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Toothless](https://open.spotify.com/album/5cvz6APSYHRlxeQCOZDf38) | 3:28 | 2024-09-17 | 2024-09-19 |
+| [Top Down](https://open.spotify.com/track/4Ds9ilNivooMdSkTyovjJr) | [3Quency](https://open.spotify.com/artist/0Im6nZsuvL1W8yJg39xROA) | [Top Down](https://open.spotify.com/album/3Yis6ZkwZakLeaXW8wpPfM) | 2:10 | 2025-09-07 |  |
 | [Top Shotti ! \(Move Your Body\)](https://open.spotify.com/track/4guIgyh3E8KUgZsftZtiXz) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Top Shotti ! \(Move Your Body\)](https://open.spotify.com/album/1XPgj12GSq7FG9xAxuTZq2) | 2:08 | 2024-07-07 | 2024-07-10 |
 | [TOP TEN](https://open.spotify.com/track/0GzYHwalIEqgQVtr1oZpNz) | [YTK](https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b), [Stoic](https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t) | [TOP TEN](https://open.spotify.com/album/0ogoNdyqQSyx89XZcs92tz) | 2:03 | 2024-10-10 | 2024-10-12 |
 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 | 2025-08-11 | 2025-08-20 |
@@ -4881,7 +4885,7 @@
 | [Tree](https://open.spotify.com/track/5chlzu7Ce4hlSkp6OII5Um) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tree](https://open.spotify.com/album/3LFC9jus7TkaSDxuEEMt6r) | 4:27 | 2025-07-03 | 2025-07-13 |
 | [Trembling Level](https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Trembling Level](https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4) | 2:37 | 2025-01-29 | 2025-02-08 |
 | [Trenches](https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Trenches](https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt) | 3:16 | 2024-11-06 | 2024-11-09 |
-| [Trenches](https://open.spotify.com/track/218P4brorJq8BLcyzconqS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Trenches](https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh) | 3:32 | 2025-08-27 |  |
+| [Trenches](https://open.spotify.com/track/218P4brorJq8BLcyzconqS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Trenches](https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh) | 3:32 | 2025-08-27 | 2025-09-08 |
 | [Trenches Famous](https://open.spotify.com/track/1xKQGeyXqycHzxskC6wp1k) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Trenches Famous](https://open.spotify.com/album/4nEcb5cE141Yx7rCVSkUn2) | 3:09 | 2024-10-17 | 2024-10-19 |
 | [Trial By Fire](https://open.spotify.com/track/02DLCwqe2a5o6n9ZfQKHuR) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Trial By Fire](https://open.spotify.com/album/1VTD55qqG4845hiL2D3aWj) | 4:00 | 2024-10-31 | 2024-11-02 |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-07-29 | 2025-08-02 |

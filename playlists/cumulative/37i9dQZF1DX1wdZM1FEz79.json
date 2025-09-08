@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uad8c\uc21c\uc77c) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \ubaa8\ud2b8 (Motte)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -808,6 +808,24 @@
       "duration_ms": 217500,
       "name": "Bad dream",
       "url": "https://open.spotify.com/track/3Rzke6SYrdZWuJqzuaBsqg"
+    },
+    {
+      "album": {
+        "name": "Baila, Baila",
+        "url": "https://open.spotify.com/album/7jBDLRqPdmSQM0w8j8xbaP"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Baila, Baila",
+      "url": "https://open.spotify.com/track/2splcDjHiK8dj39ZLn6Rrm"
     },
     {
       "album": {
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-08",
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -3286,6 +3304,24 @@
       "duration_ms": 158666,
       "name": "HAAN DEMO 2",
       "url": "https://open.spotify.com/track/40pFXhQsyPJvXICzULkc8v"
+    },
+    {
+      "album": {
+        "name": "Half of Sunday (Lee O Neul X Forest Notes)",
+        "url": "https://open.spotify.com/album/1xrvpicIES6aRreMzdIRog"
+      },
+      "artists": [
+        {
+          "name": "Lee O Neul",
+          "url": "https://open.spotify.com/artist/2FL8mim5b0Dd0LUkPE9c6t"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158749,
+      "name": "Half of Sunday",
+      "url": "https://open.spotify.com/track/3ytD48qvFh6odzVcOzpeiS"
     },
     {
       "album": {
@@ -4495,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "Isle in Waves",
+        "url": "https://open.spotify.com/album/39XPD1xXFhXOdxmpt3DvVB"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231917,
+      "name": "Isle in Waves",
+      "url": "https://open.spotify.com/track/3WCqOxhcu9aqdYaIT8RpZP"
+    },
+    {
+      "album": {
         "name": "It is what it is...",
         "url": "https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO"
       },
@@ -4590,7 +4644,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-08",
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -9922,7 +9976,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-08",
       "duration_ms": 282440,
       "name": "When the World Sleeps",
       "url": "https://open.spotify.com/track/5QG2oaaLqR3SO9EgWKrBPE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: OZworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,694 likes - 95 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,699 likes - 95 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

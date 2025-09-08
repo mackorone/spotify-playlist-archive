@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,596 songs - 19 day 15 hr 7 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,610 songs - 19 day 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7604,5 +7604,19 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7594 | [Stay](https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:26 |
 | 7595 | [Sorega, Ai Deshou](https://open.spotify.com/track/61aAHMl8udl0EP4mZwhll9) | [Mikuni Shimokawa](https://open.spotify.com/artist/6hDNyaAMX0SXk2IQbqVY75) | [Full Metal Panic Fumoffu Original Soundtrack Album](https://open.spotify.com/album/6bgrmKnuW7mLZXl4FAKsM9) | 5:14 |
 | 7596 | [MEMORIA](https://open.spotify.com/track/6qpGlLv9MHaChP5hEx6Pni) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:48 |
+| 7597 | [Weight of the World Kowaretasekainouta \- Marina Kawano](https://open.spotify.com/track/2KKK5SBR1a8yCefQxnw504) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [NieR:Automata Original Soundtrack](https://open.spotify.com/album/0k7chxP5uvLMv6YOUcgVjF) | 5:44 |
+| 7598 | [君の知らない物語](https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 5:39 |
+| 7599 | [「戦場ヶ原、蕩れ」](https://open.spotify.com/track/3Q3imRo9qj57EBpfRkMCFD) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Bakemonogatari Gekihanongakushu \(Original Soundtrack\)](https://open.spotify.com/album/2sEpN2bNZaS8xgpaPDNJej) | 2:10 |
+| 7600 | [私へ](https://open.spotify.com/track/0iBIM1bNU5MFMxxGTQtu6E) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 2:06 |
+| 7601 | [STYX HELIX](https://open.spotify.com/track/2tcSz3bcJqriPg9vetvJLs) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 4:49 |
+| 7602 | [Stay Alive](https://open.spotify.com/track/5ULPf6SjZSQkWCNSUn29xO) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TVアニメ「Re:ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」](https://open.spotify.com/album/7BVqQT1IFgaSMxfDk4YFMu) | 4:27 |
+| 7603 | [Paradisus\-Paradoxum](https://open.spotify.com/track/3CrYQaVrFUppSElxRwNHJK) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:51 |
+| 7604 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 |
+| 7605 | [VORACITY](https://open.spotify.com/track/61jz3LFcAXLKU0i2JFXaSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [TVアニメ「オーバーロードⅢ」オープニングテーマ「VORACITY」](https://open.spotify.com/album/45VfXu64lsMhLEgzwOcNkZ) | 3:52 |
+| 7606 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 |
+| 7607 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
+| 7608 | [Roundabout \- 2024 Remaster](https://open.spotify.com/track/466C6kwoJHLUJ8VHG98hCY) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Super Deluxe\)](https://open.spotify.com/album/78tN6vBPHHyNk4sZYnS5X4) | 8:36 |
+| 7609 | [99.9](https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw), [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [99.9](https://open.spotify.com/album/5sjhfZ28ERosz4yEraPQ8V) | 3:08 |
+| 7610 | [99](https://open.spotify.com/track/5BWUhb5fg3yXJLddvjwXDo) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [99](https://open.spotify.com/album/5uE3e8LH5yVBTaVb9p48Nr) | 3:57 |
 
-Snapshot ID: `AAAIfX792zJ4a0CR4gBFoz2wuFrkouJn`
+Snapshot ID: `AAAIiwxPYBfUuPKriNUavO/OCrBDxkrv`

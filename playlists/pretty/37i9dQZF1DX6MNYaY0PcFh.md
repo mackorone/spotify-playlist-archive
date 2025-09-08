@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: JayaHadADream
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,284 likes - 69 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,320 likes - 69 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 321 songs - 18 hr 12 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 322 songs - 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -329,5 +329,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 319 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
 | 320 | [Set It Off](https://open.spotify.com/track/3qLgWZabS3bEZyKTjPbq5V) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Bad Azz](https://open.spotify.com/album/4UhiRogImDpkoUzy9QjlRu) | 4:44 |
 | 321 | [Back Then](https://open.spotify.com/track/5krOROgmf8adn3SJzeKLZy) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:04 |
+| 322 | [Superfly](https://open.spotify.com/track/2XUHR76nHGIbrj0Nzj8U9S) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Bad Azz Mixtape, Vol\. 2](https://open.spotify.com/album/6yQqGvxwmEHheXhcyHVrSS) | 3:32 |
 
-Snapshot ID: `AAAfCktKOCiMZYtSQQSVeyfYI3tMDXiU`
+Snapshot ID: `AAAfC7Wg39a2mqg4KF3zO/zp85n1f/tb`

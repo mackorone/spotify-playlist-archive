@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Lady Gaga, Charlotte Cardin et Tame Impala au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,283 likes - 113 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,433 likes - 113 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

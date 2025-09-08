@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,985 likes - 201 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,027 likes - 201 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 200 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 |
 | 201 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 |
 
-Snapshot ID: `AAAAABXNhAEDmJduQfhDN3eN3SoHgc3W`
+Snapshot ID: `AAAAAF1tqbNuGrVpNvVJ/2ItVGkF4hSS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=irKY8BeDQDuBPttjatD\_Qg">Surreal Sessions</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,318 likes - 62 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,343 likes - 62 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
