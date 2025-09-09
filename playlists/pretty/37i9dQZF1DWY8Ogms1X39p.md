@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain](/playlists/plain/37i9dQZF1DWY8Ogms1X39p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY8Ogms1X39p)
 
-### [Pisang FYP ](https://open.spotify.com/playlist/37i9dQZF1DWY8Ogms1X39p)
+### [Yang Penting Happy](https://open.spotify.com/playlist/37i9dQZF1DWY8Ogms1X39p)
 
-> Lagu\-lagu yang bakal didengarkan si Pisang FYP di Pestapora 2025
+> Feel good songs yang bikin kamu happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,233 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,230 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

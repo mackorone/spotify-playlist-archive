@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx5RM1jizdV.md) - [plain]
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383 likes - 18 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 18 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [殺せんせーからのスペシャルメッセージ.](https://open.spotify.com/track/6IcVKCwNJiVKH3D0mwDhvP) | [殺せんせー\(CV.福山潤\)](https://open.spotify.com/artist/1z3eNjM7kM1cXnlnhBVjKK) | [殺せんせーからのスペシャルメッセージ.](https://open.spotify.com/album/6kFrjs51WoCItJuxB1whua) | 0:28 |
+| 1 | [殺せんせーからのスペシャルメッセージ](https://open.spotify.com/track/555IwnS4XsMtNUfhG7rrNu) | [殺せんせー\(CV.福山潤\)](https://open.spotify.com/artist/1z3eNjM7kM1cXnlnhBVjKK) | [殺せんせーからのスペシャルメッセージ](https://open.spotify.com/album/5r1nnEYS5XNPT3ouxwbfJs) | 0:35 |
 | 2 | [ラストルック](https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラストルック](https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS) | 3:07 |
 | 3 | [黄色信号](https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [黄色信号](https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03) | 3:31 |
 | 4 | [ツキノフネ](https://open.spotify.com/track/67G4XvHmTW7JKg6YKzPZV2) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [ツキノフネ](https://open.spotify.com/album/3xNmkBhuHL3OIWzavob6OB) | 3:31 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx5RM1jizdV.md) - [plain]
 | 17 | [3年E組ヌルヌル音頭](https://open.spotify.com/track/0kwKxogKc98AMwEAUkums3) | [3年E組ヌル担\(渚&業&寺坂&中村\)](https://open.spotify.com/artist/6ZMRzsKL9geY0Py4Cd6ZaG) | [QUESTION](https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr) | 2:57 |
 | 18 | [始業のベル \- movie size](https://open.spotify.com/track/5MxPfVmCb6QlH8IaRPP2Vb) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [始業のベル \(movie size\)](https://open.spotify.com/album/6LOhlnc8F5qc5Rm45IBG9E) | 2:47 |
 
-Snapshot ID: `AAAAAK3QZThwwMp+9UtFnygTUlXi6Cy/`
+Snapshot ID: `AAAAAPi+zIeVWjoRk7G+LwjGPrZDwMLj`

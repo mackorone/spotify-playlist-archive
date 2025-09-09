@@ -1366,6 +1366,24 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/6fQvd3Al6Vwf8dnZYovron"
+    },
+    {
+      "album": {
+        "name": "VHS(X) (Rerecorded)",
+        "url": "https://open.spotify.com/album/3c2Te0BpRT0lqhPQ3fDWov"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 188686,
       "name": "You'll Get Yours (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"

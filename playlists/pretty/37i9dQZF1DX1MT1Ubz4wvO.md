@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Terrores Nocturnos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,965 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,951 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 12 | [A forest](https://open.spotify.com/track/4yFtOel6HX7GVelWa3nMgj) | [Los Viejos](https://open.spotify.com/artist/3AS8HtsWG2bIRM7LqI8DUk) | [A forest](https://open.spotify.com/album/4lCX4J6yqCn2kIZlVrVlQA) | 4:27 |
 | 13 | [Volver a empezar \- RPM Live Sessions](https://open.spotify.com/track/2X9zow5w4iY75v0N2gpEti) | [Corazones Eléctricos](https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP) | [Volver a empezar \(RPM Live Sessions\)](https://open.spotify.com/album/0aXF7R8Nhp3oqKYqyHlM64) | 3:49 |
 | 14 | [Estelar](https://open.spotify.com/track/5JyySUBeZkh0QxiSjPhGja) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [Estelar](https://open.spotify.com/album/3fvsQxJmPqMXxh3byuPS1l) | 4:37 |
-| 15 | [Cisne negro](https://open.spotify.com/track/4FxW5Agp9HGxBFY5ZPAPs1) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Cisne negro](https://open.spotify.com/album/6uem8FfEmG8IvtZx4VrwLM) | 2:30 |
+| 15 | [Cisne negro](https://open.spotify.com/track/4FxW5Agp9HGxBFY5ZPAPs1) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Cisne negro](https://open.spotify.com/album/6uem8FfEmG8IvtZx4VrwLM) | 2:32 |
 | 16 | [Todo Tiembla](https://open.spotify.com/track/6cDb1qFcUfDA6x6SrU0Ql7) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Todo Tiembla](https://open.spotify.com/album/6ar9hZjv9mXQBKqkhANn2g) | 3:56 |
 | 17 | [Quiero Más De Ti](https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [Quiero Más De Ti](https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG) | 2:51 |
 | 18 | [TURISTA](https://open.spotify.com/track/3YUOzmeXftEYkcEKMjctDQ) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [TURISTA](https://open.spotify.com/album/3PywphFNNtfKzSwWDFRpW4) | 2:32 |

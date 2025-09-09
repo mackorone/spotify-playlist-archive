@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 62896,
+  "num_followers": 62826,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQ8T8eDjXLJ2Z+M5WAtVk2+3PxuiKF",
+  "snapshot_id": "AAAQ9OTXBtXVkjFneGCEZoy+cteIzmvZ",
   "tracks": [
+    {
+      "added_at": "2025-09-08 08:57:29",
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/48OCw6cRFQBaBh0sSqCBlz"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 178615,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/6MAOz21OJgWz7FAe7TgdVP"
+    },
     {
       "added_at": "2025-09-03 09:41:50",
       "album": {
@@ -79,6 +95,38 @@
       "duration_ms": 147597,
       "name": "Falling on my Sword",
       "url": "https://open.spotify.com/track/2eSSWz5RIwuhLggC3sXNIU"
+    },
+    {
+      "added_at": "2025-09-08 14:06:30",
+      "album": {
+        "name": "Blue Rags, Raging Wind (Kerry McCoy Remix)",
+        "url": "https://open.spotify.com/album/7wjuwNxwLPNXBn1gtYPbAe"
+      },
+      "artists": [
+        {
+          "name": "Disiniblud",
+          "url": "https://open.spotify.com/artist/58yu67FLeWi0auMgHNfIHt"
+        },
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        },
+        {
+          "name": "Nina Keith",
+          "url": "https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i"
+        },
+        {
+          "name": "Kerry McCoy",
+          "url": "https://open.spotify.com/artist/4AqNqjaVWlVtlBRhdYGHGG"
+        },
+        {
+          "name": "Amigone",
+          "url": "https://open.spotify.com/artist/39gH7SwSwUDsT4juwR7IbK"
+        }
+      ],
+      "duration_ms": 304514,
+      "name": "Blue Rags, Raging Wind - Kerry McCoy Remix",
+      "url": "https://open.spotify.com/track/3guondbWIUF6XQEi9MPW5v"
     },
     {
       "added_at": "2025-09-03 09:41:50",

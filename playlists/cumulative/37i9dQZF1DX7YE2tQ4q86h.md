@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> Chloe Moriondo is tonight's main pop girl emergency 🆘
+> Jewels Sparkles, Lexi Love, Ariana Grande and Sam Star are a main pop girl emergency 🆘
 
-1,439 songs - 3 day 0 hr 7 min
+1,440 songs - 3 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1207,6 +1207,7 @@
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2023-09-22 | 2024-02-17 |
 | [Superhuman](https://open.spotify.com/track/0beVZzd2zliQ75XNIhTG93) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Superhuman](https://open.spotify.com/album/7LfaJ1Ar48pT5M0h06bOM0) | 3:08 | 2024-07-19 | 2024-08-10 |
 | [SUPERMODEL](https://open.spotify.com/track/1uBDtTFTVRAOn5nym9ukI0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [SUPERMODEL](https://open.spotify.com/album/3dWL8EMY0Slh1IwTaBAhUm) | 2:53 | 2025-08-01 | 2025-08-23 |
+| [supernatural](https://open.spotify.com/track/6GVSrGzoVDTHqb5n8hAIHU) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [supernatural](https://open.spotify.com/album/4FuGDyTBy2UQFdkpfJgGK3) | 2:43 | 2025-09-08 |  |
 | [SUPERNOVA](https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ) | [LEONI](https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp) | [SUPERNOVA](https://open.spotify.com/album/0LnxiZOAney6adkGRTWFPj) | 2:19 | 2024-02-26 | 2024-05-08 |
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-11 | 2025-04-12 |
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2024-10-25 | 2025-04-05 |

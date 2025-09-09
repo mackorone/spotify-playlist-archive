@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,356 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,351 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 | 40 | [Až na měsíc](https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Černobílej svět](https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx) | 3:28 |
 | 41 | [studené srdce](https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC), [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 3:56 |
 | 42 | [Safír](https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:29 |
-| 43 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
+| 43 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 44 | [Sunset](https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 2:35 |
 | 45 | [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 |
 | 46 | [Svoboda](https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 | 49 | [Džanes](https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Džanes](https://open.spotify.com/album/6ZwgDcwUzY7OH1EI1L1RwI) | 2:03 |
 | 50 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 
-Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

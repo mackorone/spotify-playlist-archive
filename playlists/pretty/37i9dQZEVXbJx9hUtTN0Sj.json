@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-09-05 17:11:08",
@@ -932,12 +932,12 @@
       },
       "artists": [
         {
-          "name": "DEJA",
-          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
-        },
-        {
           "name": "Milco",
           "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
+        },
+        {
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
         }
       ],
       "duration_ms": 158075,

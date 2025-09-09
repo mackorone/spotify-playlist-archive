@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 226894,
       "name": "LOL (LOUDNESS OF LOVE)",
       "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
@@ -5551,6 +5551,28 @@
     },
     {
       "album": {
+        "name": "Stay With Me (Feat. Ailee)",
+        "url": "https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR"
+      },
+      "artists": [
+        {
+          "name": "D.O",
+          "url": "https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj"
+        },
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Stay With Me (Feat. Ailee)",
+      "url": "https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU"
+    },
+    {
+      "album": {
         "name": "No Genre",
         "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
       },
@@ -5682,6 +5704,28 @@
       "duration_ms": 208813,
       "name": "summer blossom",
       "url": "https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH"
+    },
+    {
+      "album": {
+        "name": "summer loop",
+        "url": "https://open.spotify.com/album/1jpTQORwEXoGLrhoQkiNpD"
+      },
+      "artists": [
+        {
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W"
+        },
+        {
+          "name": "LiYoon",
+          "url": "https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276520,
+      "name": "summer loop",
+      "url": "https://open.spotify.com/track/3VYmsStRNFYMDj7OcrcMPW"
     },
     {
       "album": {
@@ -6468,7 +6512,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 253065,
       "name": "Want U 2 Know",
       "url": "https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv"

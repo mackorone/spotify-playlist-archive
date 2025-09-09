@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "All Night Days",
+        "url": "https://open.spotify.com/album/29X77czxu4Wi88sASWvKHi"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165400,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/12y97ZRl9zs5JjwSj5aEss"
+    },
+    {
+      "album": {
         "name": "WILD CHILD",
         "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat Haloo Helsinki!, Justin Bieber, Lady Gaga, Nelli Matula, Isac Elliot, costee, Olavi Uusivirta ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,926 likes - 108 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,908 likes - 108 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 508308,
+  "num_followers": 508251,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAACNS+HxC07v5FOQbKc3qXA6",
+  "snapshot_id": "aLzLAAAAAACv6EVmOp6jCpDjKkomqSOV",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carlos Rivera",
         "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 208800,
       "name": "En el Amor No Se Manda (with Yuridia)",
       "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 161880,
-      "name": "Con Toda Libertad",
-      "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
+      "duration_ms": 153373,
+      "name": "Viento y Cielo Alcanzar",
+      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 153373,
-      "name": "Viento y Cielo Alcanzar",
-      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
+      "duration_ms": 161880,
+      "name": "Con Toda Libertad",
+      "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
     }
   ],
   "unique_name": "This Is Yuridia",

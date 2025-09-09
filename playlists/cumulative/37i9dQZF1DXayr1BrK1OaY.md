@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-559 songs - 1 day 9 hr 0 min
+560 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 | 2023-02-07 | 2024-03-30 |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/0auupn5v493j5uMF0ozK97) | 3:36 | 2021-04-16 | 2022-07-17 |
 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 |  |
-| [Lost](https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Lost](https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO) | 3:44 | 2024-02-16 |  |
+| [Lost](https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Lost](https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO) | 3:44 | 2024-02-16 | 2025-09-09 |
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-06-30 | 2023-11-01 |
 | [lost in paris](https://open.spotify.com/track/1UZGx4VsQXjvWLCKYJAYFW) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [lost in paris](https://open.spotify.com/album/5J1zNVEO5PC4CZYvxpOoJq) | 3:00 | 2025-05-30 | 2025-07-05 |
 | [Loud Places](https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:43 | 2021-04-02 | 2025-02-16 |
@@ -528,6 +528,7 @@
 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 | 2024-04-19 |  |
 | [Violence \- Club Mix](https://open.spotify.com/track/5oOlKEj3vJeivb5QGYJFKt) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene](https://open.spotify.com/album/6PVARuXkH97DKHlhI5wzgq) | 4:12 | 2021-04-02 | 2022-06-01 |
 | [Visions \- jamesjamesjames Remix](https://open.spotify.com/track/7nbMyWcTfIydxb9iXAtNaE) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [First Contact \(The Remixes\)](https://open.spotify.com/album/3ROEyvvxjEl2GpS4mcL273) | 5:06 | 2021-08-14 | 2022-07-29 |
+| [Wait \(Alibi Blue\)](https://open.spotify.com/track/6UeX8EDqvDrtX3uNqIkErH) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Wait \(Alibi Blue\)](https://open.spotify.com/album/43FgYStLNAtLavSCL8Otys) | 2:38 | 2025-09-06 |  |
 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-06-20 |  |
 | [Waiting...](https://open.spotify.com/track/1rh5o3bnW0fp35g5IB5cLy) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [You Are The One](https://open.spotify.com/album/12QiOWJbaZyT6C7ssPTnhF) | 2:24 | 2024-09-13 | 2024-11-09 |
 | [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-24 |  |

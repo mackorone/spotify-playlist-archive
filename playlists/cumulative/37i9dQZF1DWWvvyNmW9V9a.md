@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Rosaline Rotwood has landed!
+> In a room full of VMAs winners, we look for you, Sombr ❤️
 
 2,311 songs - 5 day 0 hr 6 min
 

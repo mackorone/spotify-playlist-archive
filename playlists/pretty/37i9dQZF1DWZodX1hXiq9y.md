@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,228 likes - 150 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,190 likes - 150 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 65 | [There Will Never Be Another You](https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 4:45 |
 | 66 | [Love Me Or Leave Me](https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Teddy Wilson Quartet](https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c) | [Pres and Teddy](https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq) | 6:50 |
 | 67 | [Peace](https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [The Shape Of Jazz To Come](https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF) | 9:04 |
-| 68 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 |
-| 69 | [You've Come Home](https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:40 |
+| 68 | [You've Come Home](https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:40 |
+| 69 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 |
 | 70 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 |
 | 71 | [As This Moment Slips Away](https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [The Bad Plus Joshua Redman](https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3) | 6:52 |
 | 72 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 104 | [When Sunny Gets Blue](https://open.spotify.com/track/3UwGl9KiFX1XuonK1btQbQ) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk) | [The Quota](https://open.spotify.com/album/521dwYVqHB2JeJxIWUmSTy) | 6:29 |
 | 105 | [When Your Lover Has Gone](https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 6:10 |
 | 106 | [Zec](https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp) | [Steve Coleman](https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ) | [Rhythm In Mind \(The Carnegie Project\)](https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH) | 9:09 |
-| 107 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
-| 108 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
+| 107 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
+| 108 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
 | 109 | [Lady Bird](https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [The Complete Prestige Recordings](https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9) | 10:41 |
 | 110 | [I Remember You \- 2006 Digital Remaster](https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 7:29 |
 | 111 | [Vertigo \- Remastered 2000](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |

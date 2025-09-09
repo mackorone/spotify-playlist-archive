@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 207923,
       "name": "Faber",
       "url": "https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo"
@@ -2242,6 +2242,28 @@
       "duration_ms": 174000,
       "name": "Go",
       "url": "https://open.spotify.com/track/3rXRBdXLKrccDbmHq9ID2m"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4PokXbdxPuVTXnxzyJg8VO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        },
+        {
+          "name": "Zen That Beat",
+          "url": "https://open.spotify.com/artist/5tvZL3AII2rEZExWD64M2r"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217961,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0sej79DRiZ9sdldWxMU66H"
     },
     {
       "album": {

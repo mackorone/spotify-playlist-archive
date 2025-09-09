@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: ASH ISLAND)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Coogie)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
@@ -9468,7 +9468,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 185000,
       "name": "MOOD;Cloud (Prod. hyeminsong)",
       "url": "https://open.spotify.com/track/0Na5lK4xELYnL2VVbSytiB"
@@ -9622,6 +9622,24 @@
       "duration_ms": 156551,
       "name": "MT (Feat. ron, JAMIE)",
       "url": "https://open.spotify.com/track/4tjEXKfFvMYy3QfAnFeEfX"
+    },
+    {
+      "album": {
+        "name": "AFTER UPSET",
+        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "muah",
+      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
     },
     {
       "album": {
@@ -11612,7 +11630,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 161684,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/34br5IL3Lx1qjVneX5XmwP"

@@ -4,7 +4,7 @@
 
 > Tiziano Ferro \(pronto a rompere tutto\) in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-1,933 songs - 4 day 2 hr 50 min
+1,935 songs - 4 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2024-09-27 |
 | [EGWU EJI](https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EGWU EJI](https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p) | 2:52 | 2024-08-29 | 2024-09-27 |
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-05 | 2025-01-15 |
+| [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 | 2025-09-08 |  |
 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 | 2025-04-17 | 2025-05-16 |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-17 | 2024-11-15 |
 | [Empty Bench](https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Empty Bench](https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk) | 3:06 | 2024-12-05 | 2025-01-15 |
@@ -617,6 +618,7 @@
 | [Five More Seconds](https://open.spotify.com/track/3k4bu6jrWBQjzxJL0GUo2k) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Five More Seconds](https://open.spotify.com/album/5dScjnelB84gPAcNj9UX5J) | 2:37 | 2025-06-26 | 2025-07-25 |
 | [Flamenco](https://open.spotify.com/track/1VQzMeoZHuwbqV5ipcmWZP) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq), [Luna Racini](https://open.spotify.com/artist/3rVWlRzTyOPBvVzLmzGO28) | [Flamenco](https://open.spotify.com/album/5qYXYSYtWWcccwYAskD1ph) | 3:32 | 2025-02-20 | 2025-03-14 |
 | [Flash](https://open.spotify.com/track/22PKUag5iBqKXkU5ca0rnj) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Flash](https://open.spotify.com/album/2h1DEw6FrDP5qdD4qvSXrP) | 2:43 | 2024-10-17 | 2024-11-15 |
+| [FLASHBACK](https://open.spotify.com/track/57NFelBvcQDFraj1HLiJ9g) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLASHBACK](https://open.spotify.com/album/4BP2kKPtL6k5HmG13tEFq4) | 3:03 | 2025-09-08 |  |
 | [Flusso](https://open.spotify.com/track/35eCAKBukwrWdvcg7YQl5N) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Flusso](https://open.spotify.com/album/1POv74KnVw1ReEoLf3S6Kx) | 2:46 | 2025-03-06 | 2025-04-04 |
 | [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-05 | 2025-07-04 |
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-02 | 2025-01-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: 21 Promo & Pengii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,881 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,876 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 11 | [Tolgevang](https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Tolgevang](https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc) | 2:40 |
 | 12 | [Sticks & Stones](https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Sticks & Stones](https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK) | 2:46 |
 | 13 | [Tittewyt](https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Tittewyt](https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx) | 3:38 |
-| 14 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
+| 14 | [Private](https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Private](https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT) | 3:00 |
 | 15 | [Hoeveel](https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Hoeveel](https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD) | 2:03 |
-| 16 | [Private](https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Private](https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT) | 3:00 |
+| 16 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
 | 17 | [Laatie Ding Ruk](https://open.spotify.com/track/2kxE14b0z1gXb9MQJav0uC) | [Due Date](https://open.spotify.com/artist/6fzHvYDFOn6wN88ahyBlSY), [Strategist](https://open.spotify.com/artist/62bpJgAyVkkGXQi3Nrf1Om), [vinoevil](https://open.spotify.com/artist/4r8AESCAFl1cd3gSObVXr8) | [Laatie Ding Ruk](https://open.spotify.com/album/6WikxxtTKVJfKry7ztH7PA) | 5:14 |
 | 18 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
 | 19 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |

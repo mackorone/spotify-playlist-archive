@@ -9097,6 +9097,24 @@
     },
     {
       "album": {
+        "name": "WORLD END LOVESONG",
+        "url": "https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232193,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T"
+    },
+    {
+      "album": {
         "name": "Soft Vinyl",
         "url": "https://open.spotify.com/album/1emV2ajQxUfe37WkCgRyTu"
       },
@@ -19866,7 +19884,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 228050,
       "name": "\u611b\u3057\u5408\u3046\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/60eCBtq6iU3bCuaFI8bTpg"

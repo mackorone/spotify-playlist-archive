@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: ليجي\-سي
 
-1,568 songs - 3 day 15 hr 28 min
+1,569 songs - 3 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Babaat El Salam](https://open.spotify.com/track/5LzoSMQVeW8w7egv1bcdGd) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [Babaat El Salam](https://open.spotify.com/album/12mFlWmsOvnRT8vMjBlRUN) | 2:50 | 2024-06-06 | 2024-07-19 |
 | [babat salamy](https://open.spotify.com/track/6OB98f5Aj7otXeLBBn7JoF) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [babat salamy](https://open.spotify.com/album/6X9Nx5KCj2Zsr8W0CiNftG) | 3:41 | 2023-02-02 | 2023-03-18 |
 | [Baby Ma Tnamesh](https://open.spotify.com/track/3awMCENnvZKoC5hDsCy3QF) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [Baby Ma Tnamesh](https://open.spotify.com/album/3lTqLgxPfefNs2R2HDGE0X) | 3:36 | 2025-01-17 | 2025-02-18 |
+| [Bad Days](https://open.spotify.com/track/1Q1BtmfMhRbzZ6uPV3Xk1r) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 3:15 | 2025-09-08 |  |
 | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/track/0vGbKViJA6J79xBuMU4bGQ) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/album/7HiynIymuo0REPL1Udiarg) | 2:57 | 2023-06-29 | 2023-08-02 |
 | [baet wahdak](https://open.spotify.com/track/15DNX2g87vP8AgvNxF5yDa) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [baet wahdak](https://open.spotify.com/album/2KJYV0GfkiCEIHQMtkukUL) | 3:44 | 2023-01-19 | 2023-02-24 |
 | [Baftekrek Beleil](https://open.spotify.com/track/4Yzk6Ph1BGGjlXuA3id81i) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [Baftekrek Beleil](https://open.spotify.com/album/7oPA18Mt8l9SXJsU8tKaMO) | 2:40 | 2024-11-07 | 2024-12-06 |
@@ -290,7 +291,7 @@
 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 | 2023-05-08 | 2023-06-23 |
 | [El Donya Ray2a](https://open.spotify.com/track/6NWF2mXdfLwRZ4jkX6rL6S) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [El Donya Ray2a](https://open.spotify.com/album/5RLLHfOvHrCcbENPjdjOxX) | 3:01 | 2025-07-17 |  |
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-01-27 | 2022-05-02 |
-| [El Gaw Gameel](https://open.spotify.com/track/2rdNNddezAPCt5VzKuItZ6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Gaw Gameel](https://open.spotify.com/album/5gYYICpGjP5CIYIwzLdW8L) | 3:06 | 2025-06-19 |  |
+| [El Gaw Gameel](https://open.spotify.com/track/2rdNNddezAPCt5VzKuItZ6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Gaw Gameel](https://open.spotify.com/album/5gYYICpGjP5CIYIwzLdW8L) | 3:06 | 2025-06-19 | 2025-09-09 |
 | [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 | 2023-06-26 | 2023-06-28 |
 | [El Ghalta Ghalteti](https://open.spotify.com/track/1jqi105PrMSRPic5BM5bP5) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:53 | 2023-09-25 | 2023-12-30 |
 | [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 | 2022-09-01 | 2022-11-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD?si=2BamayqtRn2v0ThhAsIjSQ">LaTique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,490 likes - 59 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,437 likes - 59 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

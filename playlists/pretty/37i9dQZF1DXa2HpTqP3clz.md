@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Rhiannon Giddens & Justin Robinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,248 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,239 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 46 | [Outrun The Rain](https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab) | [Jason Carter](https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Outrun The Rain](https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP) | 4:31 |
 | 47 | [Knee Deep in Bluegrass](https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV) | [Ashby Frank](https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT) | [Knee Deep in Bluegrass](https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC) | 3:02 |
 | 48 | [Hubbardville Store](https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Hubbardville Store](https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS) | 4:12 |
-| 49 | [Willow](https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Willow](https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp) | 3:27 |
-| 50 | [For Your Love](https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Jeff White](https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48) | [For Your Love](https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3) | 5:06 |
+| 49 | [For Your Love](https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Jeff White](https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48) | [For Your Love](https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3) | 5:06 |
+| 50 | [Willow](https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Willow](https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp) | 3:27 |
 | 51 | [Get Lost](https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Jake Workman](https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx) | [Get Lost](https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM) | 4:27 |
 | 52 | [Whiskey Drinking Man \- Live](https://open.spotify.com/track/46a8OV5xLREGgIymvImALp) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Dan Tyminski: Live From The Ryman](https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh) | 4:16 |
 | 53 | [My Little Girl in Tennessee \- Live](https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA) | [Water Tower](https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0) | [My Little Girl in Tennessee \(Live\)](https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5) | 2:46 |

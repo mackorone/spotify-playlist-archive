@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Alex Warren & Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,124 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,084 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 28 | [American Nights \- Live From Foxborough](https://open.spotify.com/track/6VWLGOifAAVLZnODPilzea) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [24 \(Live\)](https://open.spotify.com/album/45X4bjgXE86wQamRz6ihLE) | 3:59 |
 | 29 | [Life In A Northern Town \- Live](https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Love On The Inside \(Deluxe Edition\)](https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl) | 4:14 |
 | 30 | [Mine \- Live/2011](https://open.spotify.com/track/7yndkPYP6YQQLBpPsizDfh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:19 |
-| 31 | [Thank God I'm a Country Boy \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:40 |
-| 32 | [I Am A Man Of Constant Sorrow \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:12 |
+| 31 | [I Am A Man Of Constant Sorrow \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:12 |
+| 32 | [Thank God I'm a Country Boy \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:40 |
 | 33 | [Record Year \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/1aaVflBoMypwij2UKVschg) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:41 |
 | 34 | [Lookin' For Love](https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:02 |
 | 35 | [Cowboy Songs \- Live](https://open.spotify.com/track/3YiAJC9QQn1BepgcM2Rybt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs \(Live\)](https://open.spotify.com/album/1UoCRTiOP2hmyYZpabI4nG) | 4:29 |

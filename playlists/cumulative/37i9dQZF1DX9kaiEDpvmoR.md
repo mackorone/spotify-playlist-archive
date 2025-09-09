@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-428 songs - 1 day 0 hr 53 min
+429 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Du lever bara en gång](https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Du lever bara en gång](https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp) | 3:04 | 2024-10-17 | 2025-04-25 |
 | [Du längtar bort](https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Du längtar bort](https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK) | 4:33 | 2025-05-29 | 2025-06-29 |
 | [Du är inte ensam](https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz) | [Michael Jeff Johnson](https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Du är inte ensam](https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu) | 3:11 | 2024-09-19 | 2024-10-08 |
-| [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 |  |
+| [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 | 2025-09-09 |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
 | [Eller hur](https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j) | [David Urwitz](https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8) | [Eller hur](https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i) | 3:14 | 2025-05-15 | 2025-06-06 |
 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 |  |
@@ -130,6 +130,7 @@
 | [Forserum](https://open.spotify.com/track/4Wpt5gCGT1SgDl4pW850DI) | [KUPLETTEN](https://open.spotify.com/artist/02EKOQPSOvw98jhKYtMcQa) | [Forserum](https://open.spotify.com/album/10HNlmUS1hpbCMFeDC4vmq) | 5:14 | 2024-10-10 | 2024-10-18 |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2024-06-27 | 2025-04-04 |
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 | 2025-09-03 |
+| [För evigt ny](https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [För evigt ny](https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW) | 4:08 | 2025-09-04 |  |
 | [Förbjudna tankar](https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Förbjudna tankar](https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 |  |
 | [Försökte tycka om dig \- Alternativ version](https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Livet är en cykeltur](https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw) | 3:01 | 2025-06-12 | 2025-07-18 |

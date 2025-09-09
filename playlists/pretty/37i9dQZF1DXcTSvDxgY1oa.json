@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: Syot ",
-  "num_followers": 1864,
+  "num_followers": 1861,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-09-04 08:03:08",
       "album": {
+        "name": "On Top/Inside",
+        "url": "https://open.spotify.com/album/140tThebpUHkI9UsQsTCFz"
+      },
+      "artists": [
+        {
+          "name": "Vampire Boyfriend",
+          "url": "https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "On Top/Inside",
+      "url": "https://open.spotify.com/track/3aZDSOAQF5AxU7Vx9QjoW2"
+    },
+    {
+      "added_at": "2025-09-04 08:03:08",
+      "album": {
         "name": "Niemand",
         "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 127148,
       "name": "The Sailor's Warning",
       "url": "https://open.spotify.com/track/3bgmoyCHa6v3bMMsgK1rWh"
-    },
-    {
-      "added_at": "2025-09-04 08:03:08",
-      "album": {
-        "name": "On Top/Inside",
-        "url": "https://open.spotify.com/album/140tThebpUHkI9UsQsTCFz"
-      },
-      "artists": [
-        {
-          "name": "Vampire Boyfriend",
-          "url": "https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "On Top/Inside",
-      "url": "https://open.spotify.com/track/3aZDSOAQF5AxU7Vx9QjoW2"
     },
     {
       "added_at": "2025-09-04 08:03:08",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-09-04 08:03:08",
       "album": {
-        "name": "Tikkende Tijdbom",
-        "url": "https://open.spotify.com/album/0Fn740gcR9WDmXlxXjoZQE"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Tikkende Tijdbom",
-      "url": "https://open.spotify.com/track/5bDag8CAXRlI0hqO0Jk99p"
-    },
-    {
-      "added_at": "2025-09-04 08:03:08",
-      "album": {
         "name": "Quiet Life",
         "url": "https://open.spotify.com/album/3zG4TpY9GMajFXgBwQSbfJ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 172800,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/2X1TY6dff8ienKQQFO4CVP"
+    },
+    {
+      "added_at": "2025-09-04 08:03:08",
+      "album": {
+        "name": "Tikkende Tijdbom",
+        "url": "https://open.spotify.com/album/0Fn740gcR9WDmXlxXjoZQE"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Tikkende Tijdbom",
+      "url": "https://open.spotify.com/track/5bDag8CAXRlI0hqO0Jk99p"
     },
     {
       "added_at": "2025-09-04 08:03:08",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-09-04 08:03:08",
       "album": {
-        "name": "Iemand Anders",
-        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
-      },
-      "artists": [
-        {
-          "name": "REINDIER",
-          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
-        }
-      ],
-      "duration_ms": 230599,
-      "name": "Iemand Anders",
-      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
-    },
-    {
-      "added_at": "2025-09-04 08:03:08",
-      "album": {
         "name": "Dom Doen",
         "url": "https://open.spotify.com/album/2WMtQfA6ZHRhdVTYL904tq"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 126000,
       "name": "Dom Doen",
       "url": "https://open.spotify.com/track/6fWOe3X6TtsOcBjmE38bSk"
+    },
+    {
+      "added_at": "2025-09-04 08:03:08",
+      "album": {
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
+      },
+      "artists": [
+        {
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
+        }
+      ],
+      "duration_ms": 230599,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
     },
     {
       "added_at": "2025-09-04 08:03:08",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-09-04 08:03:08",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
-      },
-      "artists": [
-        {
-          "name": "Luke Christoffel",
-          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
-        }
-      ],
-      "duration_ms": 192342,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
-    },
-    {
-      "added_at": "2025-09-04 08:03:08",
-      "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/14FJUOIkGTm11IVAB0KUnl"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 171254,
       "name": "XXX",
       "url": "https://open.spotify.com/track/264jM6C24wL9qBZfWuouB4"
+    },
+    {
+      "added_at": "2025-09-04 08:03:08",
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
+      },
+      "artists": [
+        {
+          "name": "Luke Christoffel",
+          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
+        }
+      ],
+      "duration_ms": 192342,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
     },
     {
       "added_at": "2025-09-04 08:03:08",

@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=SB7QTVYiSOmFPV3GM3nqmA"> Nyashinski</a>
 
-398 songs - 21 hr 34 min
+399 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Commercial](https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0) | [Commercial](https://open.spotify.com/album/6bLVLGXuoUDLXCVQhK0JWv) | 2:25 | 2023-08-25 | 2024-05-24 |
 | [Complicated](https://open.spotify.com/track/6X7vxDcau5bwndcs58owCF) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Moeazy](https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz), [Drop Boy](https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ) | [Complicated](https://open.spotify.com/album/7snX6S8N4Jmwx0qPa1qgdK) | 3:56 | 2023-11-30 | 2024-05-10 |
 | [Confirmation](https://open.spotify.com/track/0wnP35og5XijJl7yOl3HzC) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Mr Ree](https://open.spotify.com/artist/2mPAvbZaeVCxrSBv65hhU8) | [Confirmation](https://open.spotify.com/album/00bCLPSqWsUnLLzM2rSx0j) | 4:02 | 2025-04-10 |  |
+| [Confused](https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Confused](https://open.spotify.com/album/4wp3oUWbtZndvUbhk5c70y) | 3:30 | 2025-09-08 |  |
 | [Counter](https://open.spotify.com/track/6mUnSO6JfaXs7mJhrE1LEL) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Vince Keyboi](https://open.spotify.com/artist/4liMTLSRKiw99kI9w2dckV) | [Counter](https://open.spotify.com/album/5n4TN2oAgUev5OKitTplD8) | 3:03 | 2023-07-07 | 2023-11-11 |
 | [crazy](https://open.spotify.com/track/1sTJtEAnTg2IRGtWAFTtgS) | [Kakaz O6reezy](https://open.spotify.com/artist/2XF8GZ1AAvXpAr0athNym2), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [KAKAZ](https://open.spotify.com/album/3GAIFSdYhAznUqOfQrTJe5) | 2:26 | 2025-04-10 | 2025-07-26 |
 | [Da Di da](https://open.spotify.com/track/2jPDy7AEChHH2EzMXGLaE2) | [Necessary Noize](https://open.spotify.com/artist/48znaaOZUHStxTdZaCY1LM), [Jerry \-Doobeez](https://open.spotify.com/artist/1cWBrcGGueBRuHjWhrzVvv) | [Necessary Noize](https://open.spotify.com/album/7g9GII1ZylVtGegjQxBi9c) | 5:54 | 2025-08-07 | 2025-08-15 |
@@ -400,7 +401,7 @@
 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 | 2022-06-23 | 2023-04-14 |
 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 | 2022-09-29 | 2024-09-21 |
 | [Work](https://open.spotify.com/track/5NpzsGuxq03iJ0lPFKnSpK) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Work](https://open.spotify.com/album/5XbpY4u03Pptd67qtcROV6) | 2:30 | 2025-07-25 |  |
-| [Wrong Number](https://open.spotify.com/track/0x37PScSmzhTe0bYbKMbwN) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Wrong Number](https://open.spotify.com/album/5q5POBPDjToiYiLLyaKCbG) | 3:32 | 2024-10-11 |  |
+| [Wrong Number](https://open.spotify.com/track/0x37PScSmzhTe0bYbKMbwN) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Wrong Number](https://open.spotify.com/album/5q5POBPDjToiYiLLyaKCbG) | 3:32 | 2024-10-11 | 2025-09-09 |
 | [Yes Bana](https://open.spotify.com/track/08yAdXncdSCnpuQZyaJE9M) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Yes Bana](https://open.spotify.com/album/0pMLAxiWp7KvArphzkGWGu) | 4:35 | 2025-08-07 | 2025-08-15 |
 | [YKTD](https://open.spotify.com/track/43nz8zSHKEY2fZrlrx9MFL) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Terrianne Iraki](https://open.spotify.com/artist/2IQSH6zp92t5AaGMx2PltM) | [YKTD](https://open.spotify.com/album/2m9Kfunek8BbhHkTYbckpu) | 3:25 | 2023-08-17 | 2024-02-23 |
 | [Za Kimotho](https://open.spotify.com/track/2BOPAVjxcp0fXHRPgswq75) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Za Kimotho](https://open.spotify.com/album/0tBH7nKsc80CuRt6pMkldp) | 4:35 | 2025-07-25 |  |

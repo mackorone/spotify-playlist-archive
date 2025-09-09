@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 120 songs - 13 hr 8 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 123 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,8 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 | 118 | [Die Welt Wie Wir Sie Kennen](https://open.spotify.com/track/1fUaHDlXA4L8zoX9YcqeVK) | [Death of Mars](https://open.spotify.com/artist/4ZRk7tfHiyALjBS1B0XJ0E) | [Die Welt Wie Wir Sie Kennen](https://open.spotify.com/album/0vkcQKeMGi0hs04ooF9Hep) | 7:05 |
 | 119 | [Kaleidoscope](https://open.spotify.com/track/1mB1Gxy7b7CmjQalfJh676) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Touch The Sky EP](https://open.spotify.com/album/43fJmIA9tFqfpCErDVkluQ) | 5:56 |
 | 120 | [Alles Zerfällt](https://open.spotify.com/track/3Z2DU1Dy4u9HxCwcXnJ0j0) | [Ben Techy](https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT) | [Kein Vorbei](https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi) | 4:07 |
+| 121 | [I'll Take You Higher](https://open.spotify.com/track/71FLhenAHptmNH4J6KeiFG) | [Lowerzone](https://open.spotify.com/artist/08kHFbfYt54KU8xxZtqSjf) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 4:41 |
+| 122 | [Take Me Down](https://open.spotify.com/track/7aSvg2Yn8NZy63f4dLVqBE) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7), [Sosya](https://open.spotify.com/artist/4xs7ROT2oEnleHZeio5t9j) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 5:16 |
+| 123 | [Era Of Us](https://open.spotify.com/track/0AdZea91wVCpeAT1NA5YPF) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Exhale VA005](https://open.spotify.com/album/1qi1t5uTt9q8FMLMwHFV5t) | 4:32 |
 
-Snapshot ID: `AAAAgW9S/+ThxuD2Lhh/munLEsaHsu44`
+Snapshot ID: `AAAAhMjRPyrA6/AXPHT+qVCdxdGZbRSf`

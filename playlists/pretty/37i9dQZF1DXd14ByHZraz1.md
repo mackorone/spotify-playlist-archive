@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,411 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,337 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Future Hearts](https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Future Hearts](https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv) | 3:56 |
 | 50 | [Nebula](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Nebula](https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch) | 3:15 |
 
-Snapshot ID: `AAAAADvum1aseZ6sD/zXunLBHnU035BH`
+Snapshot ID: `AAAAAAazSyPLmw4rzz66jBMkd7y2+oTS`

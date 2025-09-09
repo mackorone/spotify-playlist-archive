@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAKgfhdfbJrPOLJLZLezSR9",
+  "snapshot_id": "AAAAAAAAAABHkz3jvfpC3U7WXfRoVuRx",
   "tracks": [
     {
       "added_at": "2025-09-05 04:00:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2025-09-05 04:00:00",
       "album": {
-        "name": "Shaolin Forever",
-        "url": "https://open.spotify.com/album/1i7Kod0IUAeoyMBdh1Eaxt"
-      },
-      "artists": [
-        {
-          "name": "Xay Blaq",
-          "url": "https://open.spotify.com/artist/51znedD50MBeWj1KWngnbS"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Chamber music: Trick shooter",
-      "url": "https://open.spotify.com/track/29NycechoV631eQMiNkJoS"
-    },
-    {
-      "added_at": "2025-09-05 04:00:00",
-      "album": {
         "name": "8/30",
         "url": "https://open.spotify.com/album/46ixYt5olcv7NDWKH4H9jD"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 190780,
       "name": "Kush Clouds (feat. Killer Mike) - Remix",
       "url": "https://open.spotify.com/track/2Hk9st4xff3xjME68EXLsc"
+    },
+    {
+      "added_at": "2025-09-05 04:00:00",
+      "album": {
+        "name": "Shaolin Forever",
+        "url": "https://open.spotify.com/album/1i7Kod0IUAeoyMBdh1Eaxt"
+      },
+      "artists": [
+        {
+          "name": "Xay Blaq",
+          "url": "https://open.spotify.com/artist/51znedD50MBeWj1KWngnbS"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Chamber music: Trick shooter",
+      "url": "https://open.spotify.com/track/29NycechoV631eQMiNkJoS"
     },
     {
       "added_at": "2025-09-05 04:00:00",
@@ -347,22 +347,6 @@
       "duration_ms": 294357,
       "name": "Everybody\u2019s Looking At Me",
       "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
-    },
-    {
-      "added_at": "2025-09-05 04:00:00",
-      "album": {
-        "name": "AIN'T NO DAMN WAY!",
-        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 274302,
-      "name": "SPACE INVADER",
-      "url": "https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4"
     },
     {
       "added_at": "2025-09-05 04:00:00",
@@ -499,26 +483,6 @@
     {
       "added_at": "2025-09-05 04:00:00",
       "album": {
-        "name": "Heartbeats (with Emily Brimlow)",
-        "url": "https://open.spotify.com/album/7pdJs2rUcaszZEV536cIWp"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 146040,
-      "name": "Heartbeats (with Emily Brimlow)",
-      "url": "https://open.spotify.com/track/0k2n2jHEEPGZaO68FMBzMH"
-    },
-    {
-      "added_at": "2025-09-05 04:00:00",
-      "album": {
         "name": "Run With The Pack",
         "url": "https://open.spotify.com/album/1QOPG3TVzW2tUlgl2JhuWd"
       },
@@ -623,6 +587,26 @@
       "duration_ms": 123173,
       "name": "Iron Man",
       "url": "https://open.spotify.com/track/3isstW9QHdzIrD0vDDpZLA"
+    },
+    {
+      "added_at": "2025-09-05 04:00:00",
+      "album": {
+        "name": "Escape Room",
+        "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 116973,
+      "name": "Open Invite (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k"
     },
     {
       "added_at": "2025-09-05 04:00:00",

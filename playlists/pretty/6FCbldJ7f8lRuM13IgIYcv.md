@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6FCbldJ7f8lRuM13IgIYcv.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 60 songs - 5 hr 20 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 62 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,7 @@ pretty - [cumulative](/playlists/cumulative/6FCbldJ7f8lRuM13IgIYcv.md) - [plain]
 | 58 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 | 59 | [Wir](https://open.spotify.com/track/0TgjUpA2VGAol8qZvoBJQg) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Wir](https://open.spotify.com/album/2g2VKEhYemsxc3WROc4q2E) | 5:42 |
 | 60 | [Ekstasis \- NOVAH Remix](https://open.spotify.com/track/60Edu22TFpIQ7E97oTVTfS) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Ekstasis](https://open.spotify.com/album/0izjspikvGArH1ta850YZJ) | 6:08 |
+| 61 | [IN THE SHADOWS](https://open.spotify.com/track/3azj8Vf6I6Rh39Mz7DDN1G) | [NZGÛL](https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH) | [IN THE SHADOWS](https://open.spotify.com/album/4M25OOqSQj20vMLExYJeD3) | 3:42 |
+| 62 | [Lost In Sound](https://open.spotify.com/track/2xglp7zVPpixiOqjTweWQJ) | [Noemi Black](https://open.spotify.com/artist/7aduJdjVqq0HB0NKxxLewT) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 4:58 |
 
-Snapshot ID: `AAAAULNwMUqxopDQWxOOrBwAR8d9X52X`
+Snapshot ID: `AAAAUsdhwQ3uH7FeVireddI9lJEmbv+U`

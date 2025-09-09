@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Confused",
+        "url": "https://open.spotify.com/album/4wp3oUWbtZndvUbhk5c70y"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210860,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2"
+    },
+    {
+      "album": {
         "name": "Counter",
         "url": "https://open.spotify.com/album/5n4TN2oAgUev5OKitTplD8"
       },
@@ -8432,7 +8450,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 212558,
       "name": "Wrong Number",
       "url": "https://open.spotify.com/track/0x37PScSmzhTe0bYbKMbwN"

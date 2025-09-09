@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,462 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,438 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Vai Cair Água \- Ao Vivo](https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [RESENHA NATORA \(Ao Vivo\)](https://open.spotify.com/album/4Vg8dStAaHhiE25pIIWHIv) | 2:30 |
 | 50 | [Valentino](https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5) | [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Valentino](https://open.spotify.com/album/68C4teLrfFcr8XfEZL1qa4) | 2:37 |
 
-Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

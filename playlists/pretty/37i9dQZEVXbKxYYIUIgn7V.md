@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,558 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,561 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 |
 | 50 | [INSONAMIA \(Slowed\)](https://open.spotify.com/track/1yMaQ0gJ9XPkJh3t6aMrgN) | [Ronald Figo](https://open.spotify.com/artist/5AOzeroMxe112GJoFnCcyG) | [INSONAMIA \(Slowed\)](https://open.spotify.com/album/0mCml60WkuwX5963VhM83t) | 3:23 |
 
-Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4147,6 +4147,32 @@
     },
     {
       "album": {
+        "name": "Rajagadiki (From \"Little Hearts\")",
+        "url": "https://open.spotify.com/album/5NwUl6AbvdKV0hJ53135kD"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203273,
+      "name": "Rajagadiki (From \"Little Hearts\")",
+      "url": "https://open.spotify.com/track/2ddkAoAafmEv0UocWgf2CQ"
+    },
+    {
+      "album": {
         "name": "Ranjithame (From \"Vaarasudu\") [Telugu]",
         "url": "https://open.spotify.com/album/0RC338EUYQEui7FB30Iifa"
       },
@@ -4214,7 +4240,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 273097,
       "name": "Reppal Dappul (From \"Mr. Bachchan\")",
       "url": "https://open.spotify.com/track/2WtOJI2Pwk88RAZPeTgMp0"

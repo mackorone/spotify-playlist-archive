@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123,386 likes - 500 songs - 19 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123,194 likes - 500 songs - 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 63 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 |
 | 64 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
 | 65 | [Jester's Lullaby](https://open.spotify.com/track/2aC4EzyoeHagzpbzXZpCuS) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Jester's Lullaby](https://open.spotify.com/album/1xkP2sAu2JghaXPrWuvukZ) | 1:53 |
-| 66 | [everfree](https://open.spotify.com/track/4nG1tpT3hVheAPdFSDfGW6) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [everfree](https://open.spotify.com/album/710gczhcTTGB3dilssAhr6) | 2:17 |
-| 67 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 |
+| 66 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 |
+| 67 | [everfree](https://open.spotify.com/track/4nG1tpT3hVheAPdFSDfGW6) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [everfree](https://open.spotify.com/album/710gczhcTTGB3dilssAhr6) | 2:17 |
 | 68 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 |
 | 69 | [Solitude](https://open.spotify.com/track/4mjZxP6wc7FKV3ylwblakq) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Solitude](https://open.spotify.com/album/0odJztdVdqQTnC8AcWJuz7) | 2:25 |
 | 70 | [Bulls Eye](https://open.spotify.com/track/5ciYeaDUtqtiLRoIKikPxV) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Bulls Eye](https://open.spotify.com/album/72Oi1D8ef7YOWtzbuNk12s) | 1:46 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 133 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 |
 | 134 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 |
 | 135 | [Dad's Typewriter Feels](https://open.spotify.com/track/5HnINSPgOBtvkLvCdywObE) | [Looper Boy](https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV) | [Once Again](https://open.spotify.com/album/2itZuZzqQz9q1Lojz0a6bA) | 2:48 |
-| 136 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 |
-| 137 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 |
+| 136 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 |
+| 137 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 |
 | 138 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 |
 | 139 | [New Season](https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [New Season](https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9) | 2:00 |
 | 140 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
@@ -341,11 +341,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 331 | [Sunset](https://open.spotify.com/track/6W9gBOXAzgKhBK6LjMd7JS) | [Andayo](https://open.spotify.com/artist/1DVQwJxtRAvYVMA7SdYh5o) | [Sunset](https://open.spotify.com/album/1JbYhvdPipdo6ydIOT5CYl) | 2:10 |
 | 332 | [Topinamborough](https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Topinamborough](https://open.spotify.com/album/0FaS0SL2A8oWhO9zCxRM59) | 3:04 |
 | 333 | [Allow It](https://open.spotify.com/track/4b6cxtbIeT6OwZSZkWUYuQ) | [Wizz Waxx](https://open.spotify.com/artist/3x0GWtlYHPByYQ4oHhu78v) | [Allow It](https://open.spotify.com/album/6J7qlSmP8puWinffn1sL2Q) | 2:36 |
-| 334 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 |
-| 335 | [Rush Home](https://open.spotify.com/track/1zTjVfbM1WMmbhdO8fwj0D) | [X56.aif](https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB) | [Rush Home](https://open.spotify.com/album/3nxHMoidEAyC6DDR9UNBD1) | 2:23 |
-| 336 | [City of mine](https://open.spotify.com/track/5QxeB4HGCOxLLSkM3w5MuJ) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [City of mine](https://open.spotify.com/album/5NdJ68eSbkCH8BXwubJvzk) | 1:54 |
-| 337 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
-| 338 | [Adamant](https://open.spotify.com/track/1rj0JZBZJhBa0LL2sQ7ro9) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Adamant](https://open.spotify.com/album/6U0MdTQjK0U72GYRagwHl1) | 2:15 |
+| 334 | [Rush Home](https://open.spotify.com/track/1zTjVfbM1WMmbhdO8fwj0D) | [X56.aif](https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB) | [Rush Home](https://open.spotify.com/album/3nxHMoidEAyC6DDR9UNBD1) | 2:23 |
+| 335 | [City of mine](https://open.spotify.com/track/5QxeB4HGCOxLLSkM3w5MuJ) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [City of mine](https://open.spotify.com/album/5NdJ68eSbkCH8BXwubJvzk) | 1:54 |
+| 336 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
+| 337 | [Adamant](https://open.spotify.com/track/1rj0JZBZJhBa0LL2sQ7ro9) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Adamant](https://open.spotify.com/album/6U0MdTQjK0U72GYRagwHl1) | 2:15 |
+| 338 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 |
 | 339 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 |
 | 340 | [Sun Course](https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Sun Course](https://open.spotify.com/album/64KBolf3eGaOVnzA0tv4TJ) | 1:52 |
 | 341 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [dnvn.beats](https://open.spotify.com/artist/6a7nfnO8b7WiXvVR5IkN7X) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 |

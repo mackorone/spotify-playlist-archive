@@ -4,7 +4,7 @@
 
 > Playlist
 
-603 songs - 1 day 11 hr 43 min
+605 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Care](https://open.spotify.com/track/3MklLppNRhuAupVGO3uNW2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Care](https://open.spotify.com/album/2b1U4077xOeivHAa3Jz8HY) | 2:49 | 2023-10-25 |  |
 | [Care](https://open.spotify.com/track/3rhJRXfQxGE0bS5ioXp1jM) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Videos](https://open.spotify.com/album/4VAsSrZ0Z1RJKZxpRvCnJp) | 2:49 | 2023-10-25 |  |
 | [Care 2 Share](https://open.spotify.com/track/5Dfp52MGXvAEJTogg7CtSL) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 3:51 | 2023-10-25 |  |
+| [Carry On](https://open.spotify.com/track/0oWgKNHArkOTeZIhJmuIGd) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [Carry On](https://open.spotify.com/album/3mhQamqyhqqaDzBVV7LoD5) | 2:55 | 2025-09-08 |  |
 | [Catch the Sun](https://open.spotify.com/track/3rF6stvHK5JrAN9AAfIczG) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [A Treatise on the Rainbow](https://open.spotify.com/album/0zKdvj4RESPZAzDQ006MG3) | 2:25 | 2023-10-25 |  |
 | [Celebration](https://open.spotify.com/track/5zx1ra5fqbfW1LdwZEmHsd) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Celebration](https://open.spotify.com/album/1VW03qyBcrjyShv0Q34cJm) | 4:06 | 2023-10-25 |  |
 | [Celle\-là](https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:19 | 2023-10-25 |  |
@@ -280,6 +281,7 @@
 | [Jusqu’à L’aube](https://open.spotify.com/track/6dKscoTCdjlEBoqWMchimV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:43 | 2023-10-25 |  |
 | [Just A Dream](https://open.spotify.com/track/1SfCLFcSYptvSU1XStGFOD) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Just A Dream](https://open.spotify.com/album/7BuOtWZTnbpp0BHDcvfsQf) | 4:04 | 2025-04-04 |  |
 | [Just Playing](https://open.spotify.com/track/6dq4PNyeqZ6lsrmit8P5sS) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Great Design](https://open.spotify.com/album/5jW4cU4BBp9z1nthhvPiNR) | 5:05 | 2023-10-25 |  |
+| [Just The Two Of Us](https://open.spotify.com/track/0CoA81jG3w3szPwWv5lHAX) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [Just The Two Of Us](https://open.spotify.com/album/692aoOSUy6ngdEk0s3YdNO) | 3:12 | 2025-09-08 |  |
 | [Just You](https://open.spotify.com/track/5XtV5wLK1Fvst8hUXTW69M) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Just You](https://open.spotify.com/album/1neRoJ099t3E8zSr4VXCr0) | 4:04 | 2023-10-25 |  |
 | [Kalifornia](https://open.spotify.com/track/0jtofBM0XEbFalhnvnABBZ) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 3:40 | 2023-10-25 |  |
 | [Kicking a Can](https://open.spotify.com/track/55ZLmv5OAoEwL1QROA3mYx) | [Mostly Sonny](https://open.spotify.com/artist/6R8Zc9f6T9PsQig1gDKApF) | [Kicking a Can](https://open.spotify.com/album/5IfjYRUGEzpaENmYvhmiae) | 4:21 | 2023-10-25 |  |

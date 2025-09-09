@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol"
+      },
+      "artists": [
+        {
+          "name": "Pita",
+          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182488,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY"
+    },
+    {
+      "album": {
         "name": "Let Your Name be Glorified Worship Medley",
         "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
       },

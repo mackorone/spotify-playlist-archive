@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,259 likes - 151 songs - 7 hr 31 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,258 likes - 153 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 149 | [Feel The Bass](https://open.spotify.com/track/0NtVfFAVWsyIRHTc7PlXbf) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Feel The Bass](https://open.spotify.com/album/0UFfEXUULwApuLxD5an0gl) | 2:38 |
 | 150 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 |
 | 151 | [Me And The Boys](https://open.spotify.com/track/26yigi8Zls6uVgEdrOKk42) | [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Me And The Boys](https://open.spotify.com/album/43GyKcda0rVZNZNtw6ZtwA) | 2:33 |
+| 152 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 |
+| 153 | [Le Temps Est Bon \(feat\. In\-Grid\)](https://open.spotify.com/track/6M3gx3M4AvOgxQ3HIk5Qi5) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Paolo Rossini](https://open.spotify.com/artist/2D2DjBvMJ0TjhT2eSCPgaF), [In\-Grid](https://open.spotify.com/artist/1SLFnlhgHr5lExgdr6YeoL) | [Le Temps Est Bon \(feat\. In\-Grid\)](https://open.spotify.com/album/340t3nNRrXRWijl4HTajn6) | 2:06 |
 
-Snapshot ID: `AAAKb5aOVRIrvE1gPTnyFjM2NIgdu9VC`
+Snapshot ID: `AAAKcUjReyBGqHIxiu6Otc5usKhZhVbZ`

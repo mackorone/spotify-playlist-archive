@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,667 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,655 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 7 | [Neth Manema](https://open.spotify.com/track/1fF7I9Fff0EpRKniz8QV75) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Neth Manema](https://open.spotify.com/album/1Sf8KNa7BuUUgJBnN3eyD6) | 2:59 |
 | 8 | [Ill Mahe Kurullo](https://open.spotify.com/track/40TIlpw8iCci7CXwkvOqZS) | [Nisala Kavinda](https://open.spotify.com/artist/47X8tb32Gr3Rt7Dbg3KBAQ), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR), [AKIIY](https://open.spotify.com/artist/5f4PtaXoLaZsr1dOmD4WsT) | [Ill Mahe Kurullo](https://open.spotify.com/album/77Q5hiTeLVNlipQNnvzpYL) | 3:12 |
 | 9 | [Mulawe](https://open.spotify.com/track/0KFSSZ7PgFR79z8a1NMYxZ) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/2xLKrJjiSB9xslmG73JNNH) | 3:55 |
-| 10 | [Dawasak Ewi](https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1) | [Dawasak Ewi](https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks) | 3:15 |
+| 10 | [Dawasak Ewi](https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1), [Sanduni Karunarathna](https://open.spotify.com/artist/0NKPNEKCNrHbhQ3muoQJ70) | [Dawasak Ewi](https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks) | 3:15 |
 | 11 | [Galana Ganga](https://open.spotify.com/track/7apMJLpmlv90I67HMSJGbr) | [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Galana Ganga](https://open.spotify.com/album/6x891Q8N2GwGaSsPbQmBJT) | 2:57 |
 | 12 | [Mandaaram Kathawe](https://open.spotify.com/track/0HPgrZPFOHxobYLHxLneoj) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz), [Nisal Gamage](https://open.spotify.com/artist/1M8N1mJapJj4Uj58izFWbC), [Amith Guru](https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT), [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mandaaram Kathawe](https://open.spotify.com/album/1dRosK2zVDLdWIr4TmmAbI) | 3:25 |
 | 13 | [Numba Daka Ma](https://open.spotify.com/track/19HrRQjjYXkhdWehUfCL8z) | [Sasindu Raveen](https://open.spotify.com/artist/5PtWlMsL7mHRpmJTwVVnWy) | [Numba Daka Ma](https://open.spotify.com/album/3uXNSXG8bScSDHAtypGSC0) | 3:42 |

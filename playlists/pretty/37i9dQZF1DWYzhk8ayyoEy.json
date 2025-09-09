@@ -1,13 +1,29 @@
 {
-  "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 48348,
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren at the VMAs",
+  "num_followers": 48340,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwUHzEwYAuKAYDqGloJOa7/nkID",
+  "snapshot_id": "AAAAADxysH06xnoypwqcsGaGk31lPbVC",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:27",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
@@ -89,22 +105,6 @@
       "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
     },
     {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "First Time On Earth",
-      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
-    },
-    {
       "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Dusty Bibles",
@@ -151,6 +151,22 @@
       "duration_ms": 244930,
       "name": "HEARTLAND",
       "url": "https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "First Time On Earth",
+      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
     },
     {
       "added_at": "2025-07-11 04:00:19",
@@ -307,22 +323,6 @@
       "duration_ms": 171124,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n"
-    },
-    {
-      "added_at": "2025-02-07 05:00:27",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-03-28 04:00:37",

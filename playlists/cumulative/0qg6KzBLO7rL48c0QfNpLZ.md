@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,233 songs - 2 day 6 hr 26 min
+1,234 songs - 2 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,6 +897,7 @@
 | [Remember Me](https://open.spotify.com/track/6i7p1ebvBqZGW0snZGwUiX) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX), [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [nika jane](https://open.spotify.com/artist/5SLfIyiWT3rt5EpYFeP1q2) | [Remember Me](https://open.spotify.com/album/5Cf774kUgGJj75TKa3zS31) | 2:40 | 2024-02-02 | 2024-03-16 |
 | [Remember Me?](https://open.spotify.com/track/0wn7uLLkcqIUvXw5nHCXhp) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [Zachary](https://open.spotify.com/artist/4anotBVLkOuUhrNSJYp0gh), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Remember Me?](https://open.spotify.com/album/4KVkwumfrbNuSoxKabxn73) | 2:15 | 2024-09-20 | 2024-11-21 |
 | [Reminds Me of You](https://open.spotify.com/track/4PPyZRYCgTlW6R3RPw5gl5) | [Tim Hughes](https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Reminds Me of You](https://open.spotify.com/album/4K8wd8Lnado31UoVbojVEq) | 3:09 | 2024-06-28 | 2024-08-10 |
+| [Rest Of My Life](https://open.spotify.com/track/6SXbxiJzSIVCKXF9r6zE7g) | [Lukas Goss](https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X), [Lunexis](https://open.spotify.com/artist/247dxIUoyjeSNq3JTQNSGO), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Rest Of My Life](https://open.spotify.com/album/7JqcnviqDhrfcfPGrnc57m) | 2:23 | 2025-09-08 |  |
 | [Reverie](https://open.spotify.com/track/7DTlR9h5GZHwUZk8GTyaFg) | [terro](https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g) | [Reverie](https://open.spotify.com/album/5bIr2DSR9DRlau6MCO4415) | 2:31 | 2025-06-20 | 2025-07-24 |
 | [Rhythm Of The Night](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Ruocheng](https://open.spotify.com/artist/6DBsKrGzi94Xc8zYFugP80) | [Rhythm Of The Night](https://open.spotify.com/album/5O4hSWazKtGYAVT3O0ORXq) | 2:18 | 2024-08-16 | 2025-03-08 |
 | [Rhythm of the Night](https://open.spotify.com/track/1kWQ4b5QTmQuZRMRwktyLR) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Rhythm of the Night](https://open.spotify.com/album/79OVcUWsFv4y8IFnpB4iUO) | 2:21 | 2024-07-19 | 2024-08-19 |

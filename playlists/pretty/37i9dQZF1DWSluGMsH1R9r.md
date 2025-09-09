@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,889 likes - 170 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,676 likes - 170 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 93 | [Deep Blue](https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Deep Blue](https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l) | 2:37 |
 | 94 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 |
 | 95 | [Into the Light](https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Into the Light](https://open.spotify.com/album/103ieLQ54WKXA1dqhtcif5) | 2:46 |
-| 96 | [Rowan](https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Rowan](https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw) | 2:48 |
-| 97 | [Penumbra](https://open.spotify.com/track/75RUCsqgTfDJtapy9sIxwQ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Penumbra](https://open.spotify.com/album/6Tzbh7jg6UDkELlI4sZ2NS) | 2:51 |
+| 96 | [Penumbra](https://open.spotify.com/track/75RUCsqgTfDJtapy9sIxwQ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Penumbra](https://open.spotify.com/album/6Tzbh7jg6UDkELlI4sZ2NS) | 2:51 |
+| 97 | [Rowan](https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Rowan](https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw) | 2:48 |
 | 98 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 |
 | 99 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 |
 | 100 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 |

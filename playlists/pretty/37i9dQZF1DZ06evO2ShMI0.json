@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 203782,
+  "num_followers": 203755,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAACIDA1W3F+TB1AyeY/blGvo",
+  "snapshot_id": "aLzLAAAAAACLfx+UEZqgetaIHvZWx9Oi",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 272573,
+      "name": "No Me Veras / Metro Balderas - Medley",
+      "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 245360,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/32FzCovAsFRe152kq21sJv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tracci\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 272573,
-      "name": "No Me Veras / Metro Balderas - Medley",
-      "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
     },
     {
       "added_at": null,

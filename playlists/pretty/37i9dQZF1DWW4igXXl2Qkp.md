@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:1YuG9W2X7E1yLwM0qDeGUb">Enphamus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,133 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,095 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 39 | [Way Back \- Remix](https://open.spotify.com/track/3fF080UGV7D1JArRZNpCNg) | [kay anthony](https://open.spotify.com/artist/2PydO5FppXn0EslgIcigIQ), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [RUNITUPDAY!](https://open.spotify.com/artist/2SRREhyKo8WxwdUnG56abh) | [Way Back \(Remix\)](https://open.spotify.com/album/5huZnNiqVte1R99qgHKGmp) | 3:07 |
 | 40 | [RITE NOW](https://open.spotify.com/track/5viKdpcwp05x8CtxUCzYSh) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:37 |
 | 41 | [battery back](https://open.spotify.com/track/25hZUPHHzDGVRwTHBJWtNa) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [battery back](https://open.spotify.com/album/3kbCfRlHcW2LMQrAcAjjjr) | 3:15 |
-| 42 | [I Can't](https://open.spotify.com/track/4gwTCiEpFm7z0rfwuzDG9c) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [I Can't](https://open.spotify.com/album/6oxeVg623MrsOcfrzjsyZR) | 2:08 |
+| 42 | [I Can't](https://open.spotify.com/track/4gwTCiEpFm7z0rfwuzDG9c) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [I Can't](https://open.spotify.com/album/6oxeVg623MrsOcfrzjsyZR) | 2:08 |
 | 43 | [Or Not](https://open.spotify.com/track/7r1LZd1EFKuwRgD8oiGEsx) | [International Jefe](https://open.spotify.com/artist/03GTccsF9ZKvTBsKtd7xnm) | [Or Not](https://open.spotify.com/album/3s6IEXLDo9sT5tnwJ5GkOY) | 2:22 |
 | 44 | [No More Favors](https://open.spotify.com/track/1y9oZOwSGhz4QFelamp1R7) | [ffawty](https://open.spotify.com/artist/6rYO569C4mZHQUP7Q2oiDN) | [No More Favors](https://open.spotify.com/album/2RX13sEOl5v5XrfXfYdw3V) | 2:40 |
 | 45 | [MASSACRE \(OUTRO\)](https://open.spotify.com/track/7jKkrTJ30fetEQFXFqh6S5) | [RugerRed\#09](https://open.spotify.com/artist/3wTJkqqRFdoVwvfr6Q7E98) | [JUDGEMENT DAY](https://open.spotify.com/album/1z4ZhYjmcN4t4kFTqZuhA1) | 2:17 |

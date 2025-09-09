@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！快一年了？快兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: 小男孩樂團 \(Men Envy Children\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,527 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,391 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

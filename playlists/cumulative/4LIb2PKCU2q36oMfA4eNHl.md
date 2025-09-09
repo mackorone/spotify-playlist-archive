@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-346 songs - 22 hr 21 min
+347 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Everything Blooms Around Her](https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Everything Blooms Around Her](https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU) | 3:50 | 2024-07-05 | 2024-08-24 |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-14 | 2025-08-16 |
 | [Expectation](https://open.spotify.com/track/2efNpPqbnjzd6TowF7t11x) | [Michel Botha](https://open.spotify.com/artist/37jH8mCdbE2gWInTJNSz6T) | [Expectation](https://open.spotify.com/album/2mFAkPDuFMTwaHCqRvDUXY) | 2:41 | 2025-08-22 |  |
-| [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 |  |
+| [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 | 2025-09-09 |
 | [Faber Sanctum](https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 4:49 | 2024-10-04 | 2025-01-14 |
 | [Faber Sanctum](https://open.spotify.com/track/2y83ldCh9YYX51YZPoWkpq) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:49 | 2025-08-15 |  |
 | [Faber Sanctum \- Hollie Kenniff Remix](https://open.spotify.com/track/1EGVMPMBKFXHuCGgYPu3fm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Joy Paradox \(The Remixes: Part 1\)](https://open.spotify.com/album/1nC3QvjO9DOUJHHwMl1vR2) | 3:54 | 2025-06-09 |  |
@@ -124,6 +124,7 @@
 | [Glacial](https://open.spotify.com/track/63ET2zAcWY2s8IiAYSFiq5) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:22 | 2024-01-12 | 2024-06-04 |
 | [Gliding Through Everything](https://open.spotify.com/track/2QE9lU3p7G3vF2GhaIyQsB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 4:08 | 2025-08-15 |  |
 | [Go](https://open.spotify.com/track/3rXRBdXLKrccDbmHq9ID2m) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Go](https://open.spotify.com/album/6R4b5As03b4M96c6QxyOhs) | 2:54 | 2024-11-01 |  |
+| [Golden Hour](https://open.spotify.com/track/0sej79DRiZ9sdldWxMU66H) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X), [Zen That Beat](https://open.spotify.com/artist/5tvZL3AII2rEZExWD64M2r) | [Golden Hour](https://open.spotify.com/album/4PokXbdxPuVTXnxzyJg8VO) | 3:37 | 2025-09-08 |  |
 | [Green](https://open.spotify.com/track/4EcQ8GHyJGLw45jkA9SzmD) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:48 | 2024-01-12 | 2024-02-03 |
 | [Happiness](https://open.spotify.com/track/42dXKrKWJwYf7tnRbdsrfo) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/7ugVT07wxOcRKewNgcE9J4) | 1:40 | 2023-12-08 | 2024-01-13 |
 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-02-02 | 2025-03-15 |

@@ -4,7 +4,7 @@
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-18 songs - 1 hr 11 min
+19 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [旅立ちのうた](https://open.spotify.com/track/4Dbp7OAA07e5BB23nIey7L) | [3年E組](https://open.spotify.com/artist/4cgBI22w4hmVfn5T89n7xd) | [旅立ちのうた](https://open.spotify.com/album/2HkuVRRwcHGacdstMeqOLi) | 6:03 | 2025-08-21 |  |
 | [月光](https://open.spotify.com/track/1ooeKZlmf9fSa1V9l92JYg) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [バイバイ YESTERDAY](https://open.spotify.com/album/5nnuB9aYtocIU9aESp6di9) | 4:53 | 2025-08-21 |  |
 | [欠けた月](https://open.spotify.com/track/1r1FQ64XOQSpfSDuFrbm0b) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [欠けた月](https://open.spotify.com/album/5oYVkq722Y2mWqeEef0rxo) | 4:54 | 2025-08-21 |  |
-| [殺せんせーからのスペシャルメッセージ.](https://open.spotify.com/track/6IcVKCwNJiVKH3D0mwDhvP) | [殺せんせー\(CV.福山潤\)](https://open.spotify.com/artist/1z3eNjM7kM1cXnlnhBVjKK) | [殺せんせーからのスペシャルメッセージ.](https://open.spotify.com/album/6kFrjs51WoCItJuxB1whua) | 0:28 | 2025-08-21 |  |
+| [殺せんせーからのスペシャルメッセージ](https://open.spotify.com/track/555IwnS4XsMtNUfhG7rrNu) | [殺せんせー\(CV.福山潤\)](https://open.spotify.com/artist/1z3eNjM7kM1cXnlnhBVjKK) | [殺せんせーからのスペシャルメッセージ](https://open.spotify.com/album/5r1nnEYS5XNPT3ouxwbfJs) | 0:35 | 2025-09-08 |  |
+| [殺せんせーからのスペシャルメッセージ.](https://open.spotify.com/track/6IcVKCwNJiVKH3D0mwDhvP) | [殺せんせー\(CV.福山潤\)](https://open.spotify.com/artist/1z3eNjM7kM1cXnlnhBVjKK) | [殺せんせーからのスペシャルメッセージ.](https://open.spotify.com/album/6kFrjs51WoCItJuxB1whua) | 0:28 | 2025-08-21 | 2025-09-09 |
 | [自力本願レボリューション](https://open.spotify.com/track/2jgVyvvBfdf6LC1EUSYDDM) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [自力本願レボリューション](https://open.spotify.com/album/3lChV8Q6Rs3d3Atxqc9T96) | 4:37 | 2025-08-21 |  |
 | [青春サツバツ論 \- Full size](https://open.spotify.com/track/0PY7EFmEa52bsJ12xSq4B5) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [青春サツバツ論](https://open.spotify.com/album/3arlRorn9ipIUsI1LY7ACQ) | 3:43 | 2025-08-21 |  |
 | [黄色信号](https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [黄色信号](https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03) | 3:31 | 2025-08-21 |  |

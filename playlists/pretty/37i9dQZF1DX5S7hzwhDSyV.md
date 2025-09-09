@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,349 likes - 125 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,250 likes - 125 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 55 | [The Night Has a Thousand Eyes](https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane's Sound](https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja) | 6:51 |
 | 56 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3FAweDLYCPCPac82221ULG) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 2:56 |
 | 57 | [Love For Sale \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 7:37 |
-| 58 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
-| 59 | [Alice In Wonderland \- Live At The Village Vanguard, 1961 / Take 2](https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard](https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0) | 8:35 |
+| 58 | [Alice In Wonderland \- Live At The Village Vanguard, 1961 / Take 2](https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard](https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0) | 8:35 |
+| 59 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
 | 60 | [If I Were A Bell \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Legendary Prestige Quintet Sessions](https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm) | 8:20 |
 | 61 | [These Foolish Things \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:09 |
 | 62 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 5:22 |

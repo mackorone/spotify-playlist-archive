@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26144,
+  "num_followers": 26143,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABj4UKg7Xe9r99/4BzgqOT6OrD4QMa0",
+  "snapshot_id": "AABj43PeVS56MWi/M/mUpSs7NwBLKkPq",
   "tracks": [
     {
       "added_at": "2025-09-05 12:47:24",
@@ -555,6 +555,38 @@
       "duration_ms": 176129,
       "name": "Hurt This Good",
       "url": "https://open.spotify.com/track/4aAsIfSiRysIKx6PljWFnp"
+    },
+    {
+      "added_at": "2025-09-08 20:37:52",
+      "album": {
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/2dzFwuMG1wahpzlucD3HYv"
+      },
+      "artists": [
+        {
+          "name": "A/K",
+          "url": "https://open.spotify.com/artist/0aMljpKFM4rWpxxRqhjCmy"
+        }
+      ],
+      "duration_ms": 179496,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/3PpluaSX0pWfNEISDpSWNP"
+    },
+    {
+      "added_at": "2025-09-08 20:37:51",
+      "album": {
+        "name": "Lets Unravel",
+        "url": "https://open.spotify.com/album/7lxrd4qSijoZ9wT5j1seHI"
+      },
+      "artists": [
+        {
+          "name": "Light Chaser",
+          "url": "https://open.spotify.com/artist/12o4o6nuoPQYw0QPwC7NHx"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Lets Unravel",
+      "url": "https://open.spotify.com/track/2EaQBUSUYtzHY4tilmLLtN"
     },
     {
       "added_at": "2025-09-05 12:47:24",

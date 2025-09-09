@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3UnZlY6Uz50iVWuMOUHrER.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 144 songs - 13 hr 28 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 147 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,8 @@ pretty - [cumulative](/playlists/cumulative/3UnZlY6Uz50iVWuMOUHrER.md) - [plain]
 | 142 | [Overdose Of Bass](https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Overdose Of Bass](https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN) | 3:14 |
 | 143 | [Light In The Eyes](https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Light In The Eyes](https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t) | 5:52 |
 | 144 | [Veränderung spüren](https://open.spotify.com/track/67JAkwflqz0Fg1AHFfUN3t) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Veränderung spüren](https://open.spotify.com/album/2LDAxwcSumPYcUmTTILfAB) | 3:38 |
+| 145 | [Midsommar](https://open.spotify.com/track/79JUzsH4mlxo0HQvBwECi7) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Løvehjerte](https://open.spotify.com/album/7sSy3PAvDBJHbxZxNcY95U) | 4:35 |
+| 146 | [2084](https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [2084](https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI) | 6:06 |
+| 147 | [Ivory](https://open.spotify.com/track/0qAp4Nv3f0kY3MuSQEVN8j) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Hertz](https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7) | [Ivory \(Edit\)](https://open.spotify.com/album/25QVWRqHOPZ1nAKwmQMj4Z) | 3:19 |
 
-Snapshot ID: `AAAArSjd7yD8HwNWaW2fmRXgMW7enBHN`
+Snapshot ID: `AAAAsE9Zj1dXmas4TIpSH4znKiz6Fl66`

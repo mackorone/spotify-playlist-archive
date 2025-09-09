@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142695,
+      "name": "CUANDO PIENSO EN TI",
+      "url": "https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7"
+    },
+    {
+      "album": {
         "name": "CUANDO PIENSO EN TI",
         "url": "https://open.spotify.com/album/5OH5uSG2KcwFb4OJODn0NQ"
       },
@@ -384,7 +402,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 142695,
       "name": "CUANDO PIENSO EN TI",
       "url": "https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 143132,
       "name": "HASTA EL FONDO",
       "url": "https://open.spotify.com/track/6Dj96onw1xh18NAsc8l3GY"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "Soy Aquel",
       "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"

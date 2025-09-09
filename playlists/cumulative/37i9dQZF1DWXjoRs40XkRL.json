@@ -5473,6 +5473,28 @@
     },
     {
       "album": {
+        "name": "O Piya",
+        "url": "https://open.spotify.com/album/6rVtE8mP2mw7CXu5L8rD9H"
+      },
+      "artists": [
+        {
+          "name": "Saswat Balan",
+          "url": "https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz"
+        },
+        {
+          "name": "SHA",
+          "url": "https://open.spotify.com/artist/6pdn0t0T5evvRrNk5VnyGh"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201492,
+      "name": "O Piya",
+      "url": "https://open.spotify.com/track/4xAK5ByZuVV78J2UxYu75n"
+    },
+    {
+      "album": {
         "name": "O Saawariya",
         "url": "https://open.spotify.com/album/2WUjEIjJ2LZihGXmA1V6v8"
       },
@@ -7784,7 +7806,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 618000,
       "name": "Shiva Shankara",
       "url": "https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 569 songs - 1 day 13 hr 16 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 570 songs - 1 day 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -576,6 +576,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 566 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
 | 567 | [I Am One \- Remastered 2011](https://open.spotify.com/track/4iChoIsP14WSZ575hCqcGK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Remastered\)](https://open.spotify.com/album/7wJTn94PWzZ3zE0lg3qhld) | 4:06 |
 | 568 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
-| 569 | [FutureSex / LoveSound](https://open.spotify.com/track/0B1QILlvPWfc9vovFYuUuk) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:01 |
+| 569 | [More Today](https://open.spotify.com/track/6hmpvFKplIrMc7sySSl94Q) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Blue Reminder](https://open.spotify.com/album/7GeWoOysWD8oI0BdddsMxH) | 5:07 |
+| 570 | [i hate this tune](https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:31 |
 
-Snapshot ID: `AAAHnYK1snzVUZNqE/ETO1XJtvIkyn7b`
+Snapshot ID: `AAAHoA9LIxTEwuW8yQ+FfOYhWb4H42TM`

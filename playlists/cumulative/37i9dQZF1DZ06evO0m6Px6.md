@@ -4,7 +4,7 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 12 min
+90 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Checkpoint Titanium](https://open.spotify.com/track/0SDkZDclec5PO3zt6tYM31) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 2:44 | 2023-12-13 | 2024-01-09 |
 | [Checkpoint Titanium](https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:44 | 2024-01-08 |  |
 | [Collage](https://open.spotify.com/track/2aHMHXqnnuwUGY4l7u4ws9) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 3:42 | 2023-12-20 | 2024-01-06 |
-| [Collage](https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 3:42 | 2024-01-06 | 2025-08-13 |
+| [Collage](https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 3:42 | 2024-01-06 |  |
 | [Collage](https://open.spotify.com/track/6chGck9GbRq9URHxC3jDVo) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors EP](https://open.spotify.com/album/5TfPH2ZBgw7iuQOdYDx1Bs) | 3:42 | 2025-03-28 | 2025-03-30 |
 | [Come Alive](https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Come Alive](https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB) | 2:51 | 2025-03-08 |  |
 | [Cowboys](https://open.spotify.com/track/6TlPveqZiWf1o3dp3dsDeu) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:44 | 2024-01-08 |  |
@@ -49,6 +49,7 @@
 | [Intro](https://open.spotify.com/track/0MClMpvEwvVsDCUoyekryQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 1:01 | 2023-12-13 | 2024-01-11 |
 | [Intro](https://open.spotify.com/track/57mkeOKwQQuNle97NWo2a8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 1:01 | 2024-01-10 |  |
 | [It's Okay, I Promise](https://open.spotify.com/track/6zApq99qzcylaUENzFkSk8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:57 | 2024-01-06 | 2025-08-15 |
+| [Junto a Ti](https://open.spotify.com/track/7IGAMhdsnjkhNLWImy4VLs) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Junto a Ti](https://open.spotify.com/album/4eUYffNeDLLB0QILCtLuFR) | 2:34 | 2025-09-09 |  |
 | [Like When We Were Kids](https://open.spotify.com/track/5Y7SPPrxoeYkhQBK7s6SUR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:00 | 2023-12-13 | 2024-01-09 |
 | [Like When We Were Kids](https://open.spotify.com/track/7z20eGxDtGRcsbjABomnsp) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 2:00 | 2024-01-09 |  |
 | [Lotus](https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:03 | 2024-01-07 |  |

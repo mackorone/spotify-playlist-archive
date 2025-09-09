@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,000 likes - 200 songs - 19 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,946 likes - 200 songs - 19 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 20 | [Lush 3.1](https://open.spotify.com/track/0kWWrjVHbRqEkd6j8firv4) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 5:54 |
 | 21 | [Schottkey 7th Path](https://open.spotify.com/track/6jTmcVh73XaKAklNSVX7jA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:08 |
 | 22 | [Elvism](https://open.spotify.com/track/3dhyPQeO6G4EoRw9eHa28o) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [Las Vegas](https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy) | 5:14 |
-| 23 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
-| 24 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 23 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 24 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
 | 25 | [Tendency](https://open.spotify.com/track/6Py6ERVoAbMCwQhTatlluh) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 7:21 |
 | 26 | [Dead Skin Cells](https://open.spotify.com/track/27W7GHUgfezHQ8krRZUfeX) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Lifeforms](https://open.spotify.com/album/0UcHfoo7KMso767JwePBMh) | 6:50 |
 | 27 | [Earth \(Gaia\)](https://open.spotify.com/track/120qQ1McNzHpwdB9fd7j4v) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:48 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 52 | [Foid](https://open.spotify.com/track/68SC3wbUmT18mVXLOu0RIc) | [Cylob](https://open.spotify.com/artist/3rUTj1FI3FvdUHfS1nmRv5) | [Cylobian Sunset](https://open.spotify.com/album/5F9Lilx03s7pwjZzvJhaqa) | 5:30 |
 | 53 | [T'Raenon \- Version](https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 8:57 |
 | 54 | [Lost Bliss](https://open.spotify.com/track/3IbdUptU7pxWEeeKh5QPfM) | [Chris & Cosey](https://open.spotify.com/artist/2lHpa4rwVeFbEnA0X7d0Tt) | [Collected Works 1981 \- 2000](https://open.spotify.com/album/6TAM90r7Puym0tujcDv1vr) | 5:12 |
-| 55 | [Vespers](https://open.spotify.com/track/49NQIJg4b0smvSSBJDFJx8) | [Bola](https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz) | [Mauver](https://open.spotify.com/album/5RL3y0N6yuUyDerNiiz2J1) | 6:52 |
+| 55 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 |
 | 56 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 |
-| 57 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 |
+| 57 | [Vespers](https://open.spotify.com/track/49NQIJg4b0smvSSBJDFJx8) | [Bola](https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz) | [Mauver](https://open.spotify.com/album/5RL3y0N6yuUyDerNiiz2J1) | 6:52 |
 | 58 | [Mr\. Frosty](https://open.spotify.com/track/3euakHnMLK3150TiX0Appv) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/3AeR7vn3ZkHCKgHgjNxeQK) | 6:53 |
 | 59 | [Tech7](https://open.spotify.com/track/15U2nndY86y65IRh3cm4uy) | [Abfahrt Hinwil](https://open.spotify.com/artist/7MTVlE5MFeIClfw5Zf2XoV) | [Links Berge Rechts Seen](https://open.spotify.com/album/46iV1ACnCzO6zyf6lnS8Et) | 3:56 |
 | 60 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 107 | [Transalpin](https://open.spotify.com/track/59KPifzZyuiCA61ePMILDR) | [Herrmann & Kleine](https://open.spotify.com/artist/4eAvv4YZKpFzu7O8kPYHJk) | [Transalpin](https://open.spotify.com/album/70HEIoCxykfb8Q9p76AMDp) | 6:54 |
 | 108 | [For After](https://open.spotify.com/track/3GbpiqEIrDG30tVCy8fzGL) | [Alexandroid](https://open.spotify.com/artist/4bw43S9QJtoSibzezqicmI) | [RU\. Electronic Two](https://open.spotify.com/album/3OupkRORf3783u1D9L1Wlx) | 6:28 |
 | 109 | [Heidelberger Platz](https://open.spotify.com/track/3jAg0zZ3djLfPJZUg8tqWB) | [Studio Pankow](https://open.spotify.com/artist/2u2gYNDjDWwtkkr2XYVffq) | [Linienbusse](https://open.spotify.com/album/34DqwBqIa0Vkj2RbqvZxge) | 8:27 |
-| 110 | [Stokers Motor](https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR) | [7 Hurtz](https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP) | [Audiophiliac](https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4) | 3:38 |
-| 111 | [Has Been Trying Not To Wonder](https://open.spotify.com/track/0wY9cUFQWQL0V4R3RHXV2w) | [Lexaunculpt](https://open.spotify.com/artist/503hICfx078zJ1Y4Vhl4Md) | [The Blurring Of Trees](https://open.spotify.com/album/5cFl0kAEgXRZgXROZkm94Z) | 7:55 |
+| 110 | [Has Been Trying Not To Wonder](https://open.spotify.com/track/0wY9cUFQWQL0V4R3RHXV2w) | [Lexaunculpt](https://open.spotify.com/artist/503hICfx078zJ1Y4Vhl4Md) | [The Blurring Of Trees](https://open.spotify.com/album/5cFl0kAEgXRZgXROZkm94Z) | 7:55 |
+| 111 | [Stokers Motor](https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR) | [7 Hurtz](https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP) | [Audiophiliac](https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4) | 3:38 |
 | 112 | [Untitled 3](https://open.spotify.com/track/6ANjGaPMsJMk6ZksJ2SZME) | [Richard Devine](https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv) | [Richard Coleman Devine EP](https://open.spotify.com/album/5964or0Bf3moPpXJPzIsSY) | 5:06 |
 | 113 | [Overcome](https://open.spotify.com/track/5ILNucjBUVj0CkJAP6SIDL) | [Pub](https://open.spotify.com/artist/4nQPf3rgiGFYAtwdA0f0a6) | [Do You Ever Regret Pantomime?](https://open.spotify.com/album/2qA5yOiERUs21jrwRJXKFp) | 11:13 |
 | 114 | [Salomé IV](https://open.spotify.com/track/5AwFIjasFubZ3INdLP2Pno) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Salomé](https://open.spotify.com/album/4dxPrg5hnOZwxs3rdm79tg) | 2:16 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 152 | [Striffle](https://open.spotify.com/track/0327v8BnZjCViV6EOgp4YK) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [Rojo\. Esee](https://open.spotify.com/album/39m6TRtoJjmEuyipbOsGoV) | 7:06 |
 | 153 | [GM Memory](https://open.spotify.com/track/102zS5JmV0pGRdMXZZ3K4r) | [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O) | [Hobby Industries Split EP 3](https://open.spotify.com/album/5evflGXiNO7a6pGkkhOnVW) | 4:37 |
 | 154 | [Kmsh](https://open.spotify.com/track/36oCxCuIB7e1Yl3kvOgbxP) | [EU](https://open.spotify.com/artist/4s6xCPX6SVjs3YQNN95h2z) | [Ru.electronic](https://open.spotify.com/album/05XW5eDVk2z9vC05j61ATM) | 5:20 |
-| 155 | [Pinkgreen](https://open.spotify.com/track/5XbzgsK10K48ac4UZCsVNn) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Freefloater](https://open.spotify.com/album/7bcE4tey05L4qB1wrDnTzr) | 7:49 |
-| 156 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 |
+| 155 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 |
+| 156 | [Pinkgreen](https://open.spotify.com/track/5XbzgsK10K48ac4UZCsVNn) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Freefloater](https://open.spotify.com/album/7bcE4tey05L4qB1wrDnTzr) | 7:49 |
 | 157 | [Right Time Right Place](https://open.spotify.com/track/2n5wJWJwTabSA2zJk7xEO3) | [Blectum From Blechdom](https://open.spotify.com/artist/2iDfyLGn8aPFWfY6v7yd40) | [Haus de Snaus](https://open.spotify.com/album/3GJDbkBNxLqQ3qaLe3rGan) | 2:09 |
 | 158 | [Izoterica](https://open.spotify.com/track/05SXaUnVg0TgMaz8G4Ejd6) | [Fizzarum](https://open.spotify.com/artist/1ENeg5AIor4zyCJbo6MwwW) | [Ru.electronic](https://open.spotify.com/album/05XW5eDVk2z9vC05j61ATM) | 5:34 |
 | 159 | [Ect](https://open.spotify.com/track/7EQYMmJzUj4bEp3I2ooXu0) | [Freeform](https://open.spotify.com/artist/1h7BI0EFmz74mT6aukCtM9) | [Elastic Speakers](https://open.spotify.com/album/0xZHeBRMWGdpn9ObHvC1V1) | 6:56 |

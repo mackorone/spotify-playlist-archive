@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "autotunelove",
+        "url": "https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e"
+      },
+      "artists": [
+        {
+          "name": "Azuleja",
+          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159349,
+      "name": "autotunelove",
+      "url": "https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo"
+    },
+    {
+      "album": {
         "name": "The Rebirth Of Marvin",
         "url": "https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo"
       },
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 106097,
       "name": "sunset blvd",
       "url": "https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013"

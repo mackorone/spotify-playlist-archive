@@ -2,7 +2,7 @@
 
 ### [Rock Covers](https://open.spotify.com/playlist/37i9dQZF1DX2S9rTKTX6JP)
 
-> killer rock & alternative covers\. Cover: YUNGBLUD
+> killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
 379 songs - 1 day 0 hr 26 min
 

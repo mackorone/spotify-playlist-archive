@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "AL PACINO",
+        "url": "https://open.spotify.com/album/3KBK9qe8NcvqtAGMgp03lR"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "AL PACINO",
+      "url": "https://open.spotify.com/track/32LlcNsYqf7QUg5eBup5Cs"
+    },
+    {
+      "album": {
         "name": "ALBANIA COMMANDO",
         "url": "https://open.spotify.com/album/31biyXSafVHMxOCbW6s0eF"
       },
@@ -15688,7 +15706,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 168959,
       "name": "SERVER (feat. thasup, Ghali)",
       "url": "https://open.spotify.com/track/6L4YpjLGD3rN5TVZdr0Ykd"

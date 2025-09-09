@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124999,
+  "num_followers": 124990,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUjTjLIZFn47rwrUx5lEzWe/ztBua+",
+  "snapshot_id": "AAAUj+ZJto6tEPDkQQi7in7bDy9CWlx+",
   "tracks": [
+    {
+      "added_at": "2025-09-08 13:20:03",
+      "album": {
+        "name": "Oathbreaker",
+        "url": "https://open.spotify.com/album/5k6igGirKlpB3qYyVavB9W"
+      },
+      "artists": [
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Oathbreaker",
+      "url": "https://open.spotify.com/track/4aOAyCYrwbArMtLVxCoxS7"
+    },
     {
       "added_at": "2025-09-05 14:01:59",
       "album": {
@@ -1127,26 +1143,6 @@
       "duration_ms": 206102,
       "name": "Breathing Underwater - VIP",
       "url": "https://open.spotify.com/track/5zFkF9JXxS8tlRA7Gyfl2L"
-    },
-    {
-      "added_at": "2025-06-17 15:20:34",
-      "album": {
-        "name": "Amber Sunlight Falls",
-        "url": "https://open.spotify.com/album/0JpOBCi8iRoiGSHYt9khJL"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        },
-        {
-          "name": "Cornelius SA",
-          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Amber Sunlight Falls",
-      "url": "https://open.spotify.com/track/4mcGFZGuoRJfrLocxwC11E"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

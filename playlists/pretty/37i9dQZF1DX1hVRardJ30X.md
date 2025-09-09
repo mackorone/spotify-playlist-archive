@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Manuel Turizo, Ela Taubert & Jay Wheeler, Milo j and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,918 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,823 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [Somos Peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Somos Peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
 | 13 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 | 14 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |
-| 15 | [Quemar](https://open.spotify.com/track/0BhePps16yvCPaLNKWDMPL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Cultura POPular](https://open.spotify.com/album/0dQvwB5CwAKdLgy6BvCF23) | 2:46 |
+| 15 | [Quemar](https://open.spotify.com/track/0BhePps16yvCPaLNKWDMPL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [](https://open.spotify.com/album/null) | 2:46 |
 | 16 | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/track/0UX4OC4mTZdFhmq0cnv7VX) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/album/69ECapQFcIbJLnusOe8Xje) | 2:30 |
 | 17 | [Por Amor](https://open.spotify.com/track/6OiLsc7FEiM9mLwW3W92cz) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Por Amor](https://open.spotify.com/album/1n64N2o7GxBsT700Zqvgor) | 2:16 |
 | 18 | [Kronos "Lukie"](https://open.spotify.com/track/2onoYqZCUxaQjhdbCO0un6) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [Kronos "Lukie"](https://open.spotify.com/album/62XhqsRthICZyivAZmN0QI) | 3:15 |

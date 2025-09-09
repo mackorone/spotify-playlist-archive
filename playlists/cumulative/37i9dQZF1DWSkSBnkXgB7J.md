@@ -2,7 +2,7 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nasser
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Ahlam Bakkali
 
 165 songs - 8 hr 43 min
 

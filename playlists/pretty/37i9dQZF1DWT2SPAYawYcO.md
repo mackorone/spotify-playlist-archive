@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Vance Joy, Tame Impala, Justin Bieber, Lady Gaga, The Kid LAROI, G Flip,  + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,854 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,826 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103419,
+  "num_followers": 103420,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAABurLqv9A8RbLaPC0fhNouW",
+  "snapshot_id": "aLooAAAAAABmxVANCV090KlTPw84AxeI",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "Unbelievable - Radio Edit",
+      "url": "https://open.spotify.com/track/0LEbfPqZhqWk2Pv7WJn4Nv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In It With You",
         "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 192202,
       "name": "In It With You",
       "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "Unbelievable - Radio Edit",
-      "url": "https://open.spotify.com/track/0LEbfPqZhqWk2Pv7WJn4Nv"
     },
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Over The Place (Platinum VIP Edition)",
-        "url": "https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Really Love - feat. Craig David & Digital Farm Animals",
-      "url": "https://open.spotify.com/track/6SMrCFJ0zMxDwoqOHG8Sme"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment Pt. 2",
         "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Over The Place (Platinum VIP Edition)",
+        "url": "https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Really Love - feat. Craig David & Digital Farm Animals",
+      "url": "https://open.spotify.com/track/6SMrCFJ0zMxDwoqOHG8Sme"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Time to Party",
+      "url": "https://open.spotify.com/track/6NSmOtlkUnpavCWIuLbZo8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
         "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 240704,
       "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
       "url": "https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Time to Party",
-      "url": "https://open.spotify.com/track/6NSmOtlkUnpavCWIuLbZo8"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "2 Steps Back",
+      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pete Tong Ibiza Classics",
         "url": "https://open.spotify.com/album/1Iifumy0bI5fdwItptSoGT"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 247600,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/0qUcPMLvDwAUZjprYEwGta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "2 Steps Back",
-      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
       "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 167796,
-      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+      "duration_ms": 259640,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
     },
     {
       "added_at": null,
@@ -891,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
       },
       "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 259640,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
     },
     {
       "added_at": null,
@@ -927,26 +927,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+        "name": "Addicted (Radio Edit)",
+        "url": "https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "DJ Assad",
+          "url": "https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Kirsten Joy",
-          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
+          "name": "Greg Parys",
+          "url": "https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV"
         }
       ],
-      "duration_ms": 209133,
-      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
-      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
+      "duration_ms": 214970,
+      "name": "Addicted - Radio Edit",
+      "url": "https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v"
     }
   ],
   "unique_name": "This Is Craig David",

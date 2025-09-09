@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 128066,
+  "num_followers": 127981,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -2787,26 +2787,6 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
-        "name": "Piano Recital: Rosenberger, Carol - Kabalevsky, D. / Tchaikovsky, P. (Perchance To Dream - A Lullaby Album for Children and Adults)",
-        "url": "https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Carol Rosenberger",
-          "url": "https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7"
-        }
-      ],
-      "duration_ms": 93506,
-      "name": "Album for the Young, Op. 39: No. 3, Mamma (Maman)",
-      "url": "https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ"
-    },
-    {
-      "added_at": "2025-08-22 14:20:07",
-      "album": {
         "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
         "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
@@ -2843,6 +2823,26 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
+        "name": "Piano Recital: Rosenberger, Carol - Kabalevsky, D. / Tchaikovsky, P. (Perchance To Dream - A Lullaby Album for Children and Adults)",
+        "url": "https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Carol Rosenberger",
+          "url": "https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7"
+        }
+      ],
+      "duration_ms": 93506,
+      "name": "Album for the Young, Op. 39: No. 3, Mamma (Maman)",
+      "url": "https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ"
+    },
+    {
+      "added_at": "2025-08-22 14:20:07",
+      "album": {
         "name": "Morning Piano - Debussy: Arabesque No. 1",
         "url": "https://open.spotify.com/album/0adEp5xlFx8ZbOyNn8nkPf"
       },
@@ -2863,42 +2863,6 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
-        "name": "Puccini: Vissi d'Arte (Olivia Belli Rework)",
-        "url": "https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 189471,
-      "name": "Puccini: Vissi d'Arte - Olivia Belli Rework",
-      "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
-    },
-    {
-      "added_at": "2025-08-22 14:20:07",
-      "album": {
-        "name": "Oswald: Works for Piano",
-        "url": "https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd"
-      },
-      "artists": [
-        {
-          "name": "Henrique Oswald",
-          "url": "https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW"
-        },
-        {
-          "name": "Sergio Monteiro",
-          "url": "https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "En nacelle",
-      "url": "https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0"
-    },
-    {
-      "added_at": "2025-08-22 14:20:07",
-      "album": {
         "name": "Lizst: Liebestr\u00e4ume, S. 541: No. 1, Hohe Liebe",
         "url": "https://open.spotify.com/album/1ZygzMzpSbIHGx14TavzaF"
       },
@@ -2915,6 +2879,22 @@
       "duration_ms": 367200,
       "name": "Liszt: Liebestr\u00e4ume, S. 541: No. 1 in A-Flat Major, Hohe Liebe",
       "url": "https://open.spotify.com/track/31xwm95e63OsHqopeYQlEM"
+    },
+    {
+      "added_at": "2025-08-22 14:20:07",
+      "album": {
+        "name": "Puccini: Vissi d'Arte (Olivia Belli Rework)",
+        "url": "https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 189471,
+      "name": "Puccini: Vissi d'Arte - Olivia Belli Rework",
+      "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
     },
     {
       "added_at": "2025-08-22 14:20:07",
@@ -2979,6 +2959,26 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
+        "name": "Oswald: Works for Piano",
+        "url": "https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd"
+      },
+      "artists": [
+        {
+          "name": "Henrique Oswald",
+          "url": "https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW"
+        },
+        {
+          "name": "Sergio Monteiro",
+          "url": "https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "En nacelle",
+      "url": "https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0"
+    },
+    {
+      "added_at": "2025-08-22 14:20:07",
+      "album": {
         "name": "Luna (Solo Piano Version)",
         "url": "https://open.spotify.com/album/65duo4K62WgsV073y3eyff"
       },
@@ -3011,6 +3011,26 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
+        "name": "Grieg: Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
+        "url": "https://open.spotify.com/album/3sSsJvmJ2deZICQkB6Vrpe"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Andrey Gugnin",
+          "url": "https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
+      "url": "https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv"
+    },
+    {
+      "added_at": "2025-08-22 14:20:07",
+      "album": {
         "name": "Penderecki: Sinfoniettas - Oboe Capriccio",
         "url": "https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu"
       },
@@ -3031,26 +3051,6 @@
       "duration_ms": 133160,
       "name": "3 Pieces in Old Style: No. 1, Aria",
       "url": "https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF"
-    },
-    {
-      "added_at": "2025-08-22 14:20:07",
-      "album": {
-        "name": "Grieg: Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
-        "url": "https://open.spotify.com/album/3sSsJvmJ2deZICQkB6Vrpe"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Andrey Gugnin",
-          "url": "https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
-      "url": "https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv"
     },
     {
       "added_at": "2025-08-22 14:20:07",
@@ -3555,26 +3555,6 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
-        "name": "Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Michael Endres",
-          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
-        }
-      ],
-      "duration_ms": 96253,
-      "name": "Waltz in G-Flat Major, D. 1/14 \"Kupelwieser-Walzer\"",
-      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
-    },
-    {
-      "added_at": "2025-08-22 14:20:07",
-      "album": {
         "name": "Gjeilo: The Road: 6. Husedalen",
         "url": "https://open.spotify.com/album/2kMUyWZvNwl7FwKWndIAQz"
       },
@@ -3603,6 +3583,26 @@
       "duration_ms": 198466,
       "name": "The Road: 6. Husedalen",
       "url": "https://open.spotify.com/track/1z2yoZMj4TSEwWVfRq8sqR"
+    },
+    {
+      "added_at": "2025-08-22 14:20:07",
+      "album": {
+        "name": "Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Endres",
+          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
+        }
+      ],
+      "duration_ms": 96253,
+      "name": "Waltz in G-Flat Major, D. 1/14 \"Kupelwieser-Walzer\"",
+      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
     },
     {
       "added_at": "2025-08-22 14:20:07",
@@ -3719,6 +3719,30 @@
     {
       "added_at": "2025-08-22 14:20:07",
       "album": {
+        "name": "Bridge: Berceuse",
+        "url": "https://open.spotify.com/album/75ldCnHN6Y8OB3z4xSJYYI"
+      },
+      "artists": [
+        {
+          "name": "Frank Bridge",
+          "url": "https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c"
+        },
+        {
+          "name": "Gerald Peregrine",
+          "url": "https://open.spotify.com/artist/4mpoecueQYD4qDdoj81bNF"
+        },
+        {
+          "name": "Antony Ingham",
+          "url": "https://open.spotify.com/artist/2CKDbVx8sSX0xJX2sMtDIX"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Berceuse (Version for Cello and Piano): Berceuse (Version for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1mvl7VYe5lZDheSEYiYJ22"
+    },
+    {
+      "added_at": "2025-08-22 14:20:07",
+      "album": {
         "name": "Khachaturian: 7 Recitatives & Fugues & Children's Albums Nos. 1 & 2",
         "url": "https://open.spotify.com/album/3umvKIjsD484pa9pCyPK2x"
       },
@@ -3735,26 +3759,6 @@
       "duration_ms": 96240,
       "name": "Children's Album No. 1 \"Pictures of Childhood\": No. 1, Andantino",
       "url": "https://open.spotify.com/track/1xky6QliZ0gPbdnatVdb4Q"
-    },
-    {
-      "added_at": "2025-08-22 14:20:07",
-      "album": {
-        "name": "Weber: Piano Works",
-        "url": "https://open.spotify.com/album/6f4WAMLMs6eAJFjesL8FSI"
-      },
-      "artists": [
-        {
-          "name": "Carl Maria von Weber",
-          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
-        },
-        {
-          "name": "Michael Endres",
-          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
-        }
-      ],
-      "duration_ms": 94040,
-      "name": "7 Variations on the Air Vien qua, Dorina bella by Bianchi, Op. 7, J. 53: Andante",
-      "url": "https://open.spotify.com/track/652xAJOQTkyKf7z6YaI1bf"
     }
   ],
   "unique_name": "Classical in the Background",

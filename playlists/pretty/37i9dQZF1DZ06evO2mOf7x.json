@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46458,
+  "num_followers": 46461,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAABL9LjOBd2cYww1/KMsfEve",
+  "snapshot_id": "aLooAAAAAADlrC4moeYVzAzN19Q30JWu",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Te Regalo La Lluvia",
+      "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Color Esperanza / S\u00f3lo le Pido a Dios (Versi\u00f3n M\u00e9xico)",
         "url": "https://open.spotify.com/album/1eQ25ITdG0bmvBlRCtACk2"
       },
@@ -307,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
       },
       "artists": [
         {
@@ -316,9 +332,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Te Regalo La Lluvia",
-      "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
+      "duration_ms": 244000,
+      "name": "No Llorar\u00e9",
+      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
     },
     {
       "added_at": null,
@@ -339,22 +355,6 @@
       "duration_ms": 233066,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "No Llorar\u00e9",
-      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
     },
     {
       "added_at": null,
@@ -440,13 +440,13 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         },
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 184469,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
+      "duration_ms": 239031,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
     },
     {
       "added_at": null,
@@ -487,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Me Asusta Pero Me Gusta",
-      "url": "https://open.spotify.com/track/5f4nU53KDcZc5gLUnyIKJh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 239031,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -543,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 184469,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesito Olvidarte",
         "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 184426,
       "name": "Todo Lo Aprend\u00ed De Ti",
       "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Me Asusta Pero Me Gusta",
+      "url": "https://open.spotify.com/track/5f4nU53KDcZc5gLUnyIKJh"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Besos No Se Dan En La Camisa",
         "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 208431,
       "name": "Que Ironia - Original Mix",
       "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,
@@ -819,42 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vozes",
-        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Soy La Mujer",
         "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 198853,
       "name": "Tu Ingratitud",
       "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vozes",
+        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
     },
     {
       "added_at": null,
@@ -963,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Veinticinco",
         "url": "https://open.spotify.com/album/5kMOVXa9KmVVgZSOE6xA96"
       },
@@ -999,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loca De Amar",
-        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
       },
       "artists": [
         {
@@ -1008,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Principio Y Fin",
-      "url": "https://open.spotify.com/track/5pncUsL0FvKOFlJO9uKuKV"
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     }
   ],
   "unique_name": "This Is Ana B\u00e1rbara",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,483 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,474 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 27 | [Show Me Something](https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Show Me Something](https://open.spotify.com/album/09iQb3DZanbhp8afJVzwN5) | 3:35 |
 | 28 | [English Harbour](https://open.spotify.com/track/6i5q6W92fdQgFKwQzzxepA) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Arc Iris](https://open.spotify.com/artist/5Nxn8lgy9oEXmurhiSn1v1) | [English Harbour](https://open.spotify.com/album/2pgHIFkeuHJ2yxiLaOWpdd) | 4:15 |
 | 29 | [Temporary](https://open.spotify.com/track/5FbrW2HNaBVjENmajQZUoG) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [The Hardest Things](https://open.spotify.com/album/3HAXL17NLiOvr7glkUV3jv) | 3:56 |
-| 30 | [Nature](https://open.spotify.com/track/0ZX4X4gjEpQ7AvVYTjleBn) | [Reuben Bullock](https://open.spotify.com/artist/4TpW0LrDf3abGVoNmvsJUS) | [Nature](https://open.spotify.com/album/0mL20bpj5r7ftV7i5U3Zql) | 3:25 |
+| 30 | [Nature](https://open.spotify.com/track/0ZX4X4gjEpQ7AvVYTjleBn) | [Reuben Bullock](https://open.spotify.com/artist/4TpW0LrDf3abGVoNmvsJUS), [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Nature](https://open.spotify.com/album/0mL20bpj5r7ftV7i5U3Zql) | 3:25 |
 | 31 | [Bound to Rain](https://open.spotify.com/track/0gO4tO1nr113Z1UuQDErJw) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Bound to Rain](https://open.spotify.com/album/0RHOK7rYMEQ8QE40sC83HC) | 2:59 |
 | 32 | [Slow Down](https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE) | 3:41 |
 | 33 | [Wolves of Worry](https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Wolves of Worry](https://open.spotify.com/album/1jPBK8y3CHlUCM0z4sTCux) | 3:38 |

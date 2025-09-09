@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Blowtorch Thimble",
+        "url": "https://open.spotify.com/album/0LunYm6Mr5jjjxsiat3ziP"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210438,
+      "name": "Blowtorch Thimble",
+      "url": "https://open.spotify.com/track/7dVwOXJpWMLFa3JZEOprye"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
@@ -5599,6 +5617,24 @@
     },
     {
       "album": {
+        "name": "Escorial",
+        "url": "https://open.spotify.com/album/0Yb22uGNWv2FWSznE5Tpxd"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316960,
+      "name": "Escorial",
+      "url": "https://open.spotify.com/track/02HTFXaUZENzXrc1B3heIb"
+    },
+    {
+      "album": {
         "name": "So Far so Good (Instrumental)",
         "url": "https://open.spotify.com/album/7yabVYPaxNOMolAgqOOMHO"
       },
@@ -7430,7 +7466,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 130370,
       "name": "Gin",
       "url": "https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u"
@@ -15542,7 +15578,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 249806,
       "name": "Serene",
       "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"

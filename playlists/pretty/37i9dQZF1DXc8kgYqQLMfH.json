@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1032803,
+  "num_followers": 1032494,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-09-04 06:40:23",
       "album": {
+        "name": "no ones around me",
+        "url": "https://open.spotify.com/album/4qawotHp9FiLYtTW9bmqBG"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "duration_ms": 134145,
+      "name": "no ones around me",
+      "url": "https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D"
+    },
+    {
+      "added_at": "2025-09-04 06:40:23",
+      "album": {
         "name": "growing still",
         "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2025-09-04 06:40:23",
       "album": {
-        "name": "no ones around me",
-        "url": "https://open.spotify.com/album/4qawotHp9FiLYtTW9bmqBG"
-      },
-      "artists": [
-        {
-          "name": "nearly monday",
-          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
-        }
-      ],
-      "duration_ms": 134145,
-      "name": "no ones around me",
-      "url": "https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D"
-    },
-    {
-      "added_at": "2025-09-04 06:40:23",
-      "album": {
         "name": "4:40 Am",
         "url": "https://open.spotify.com/album/3wLlEK9Hfynb0tnMzhUm0D"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-09-04 06:40:23",
       "album": {
-        "name": "In Comparison With",
-        "url": "https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP"
-      },
-      "artists": [
-        {
-          "name": "State Artefact",
-          "url": "https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "In Comparison With",
-      "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
-    },
-    {
-      "added_at": "2025-09-04 06:40:23",
-      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/5I9bGprKarAioPswkOAkjG"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 155769,
       "name": "Five",
       "url": "https://open.spotify.com/track/512iuZfygeaybuoakIeXiN"
+    },
+    {
+      "added_at": "2025-09-04 06:40:23",
+      "album": {
+        "name": "In Comparison With",
+        "url": "https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP"
+      },
+      "artists": [
+        {
+          "name": "State Artefact",
+          "url": "https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "In Comparison With",
+      "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
     },
     {
       "added_at": "2025-09-04 06:40:23",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-09-04 06:40:23",
       "album": {
-        "name": "Under The Waters",
-        "url": "https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN"
-      },
-      "artists": [
-        {
-          "name": "Hevi",
-          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Under The Waters",
-      "url": "https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57"
-    },
-    {
-      "added_at": "2025-09-04 06:40:23",
-      "album": {
         "name": "Morning Routine",
         "url": "https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 119031,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4"
+    },
+    {
+      "added_at": "2025-09-04 06:40:23",
+      "album": {
+        "name": "Under The Waters",
+        "url": "https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Under The Waters",
+      "url": "https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57"
     },
     {
       "added_at": "2025-09-04 06:40:23",

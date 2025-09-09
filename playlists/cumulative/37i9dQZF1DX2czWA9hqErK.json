@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195311,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
+    },
+    {
+      "album": {
         "name": "Songs They Told Me Weren't Singles - Part 2",
         "url": "https://open.spotify.com/album/33m4Lm71jeXL5KlArauvev"
       },
@@ -712,6 +730,24 @@
       "duration_ms": 171329,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3p3gtW1UzNZs1sGEtrNN2N"
+    },
+    {
+      "album": {
+        "name": "How to Win At Solitaire",
+        "url": "https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268735,
+      "name": "All Seven Seasons",
+      "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
     },
     {
       "album": {
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 164117,
       "name": "Autonomy",
       "url": "https://open.spotify.com/track/1zBoi3VoB7cNjeSVEF6v8L"
@@ -6952,7 +6988,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 291538,
       "name": "I Know A Place - Acoustic",
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"

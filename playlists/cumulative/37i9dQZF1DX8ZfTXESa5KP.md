@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8ZfTXESa5KP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ZfTXESa5KP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ZfTXESa5KP)
 
-### [CMA Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
+### [CMA Awards 2025](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
 
-> Congratulations to all of the nominees and winners! Cover: Megan Moroney
+> Congratulations to all of the nominees! Watch the CMA Awards live on November 19th at 8/7c on ABC! Cover: Megan Moroney
 
 195 songs - 11 hr 3 min
 

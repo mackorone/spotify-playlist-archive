@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia!](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 962 songs - 2 day 7 hr 7 min
+[lia!](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 2 likes - 962 songs - 2 day 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

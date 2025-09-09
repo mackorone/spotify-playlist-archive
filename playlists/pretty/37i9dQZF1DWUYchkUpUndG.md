@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Benji Kasule & Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,436 likes - 89 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,430 likes - 89 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

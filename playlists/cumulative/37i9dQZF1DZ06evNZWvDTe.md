@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-202 songs - 12 hr 1 min
+203 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,8 +125,9 @@
 | [Makoma](https://open.spotify.com/track/4Tmh5bkwWsz0oJpkSaOOm8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Makoma](https://open.spotify.com/album/5g6ob8kQyPRGIr0g9UQRlm) | 3:16 | 2025-09-04 | 2025-09-05 |
 | [Married To The Game \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/68vc2EUK4BQgFM3epVVlqp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:06 | 2022-10-12 | 2023-03-18 |
 | [Mary](https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:21 | 2021-12-28 |  |
+| [Me and You](https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [King](https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj) | 3:43 | 2025-09-09 |  |
 | [Me and You](https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [King](https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u) | 3:44 | 2021-12-28 | 2025-07-06 |
-| [Me and You](https://open.spotify.com/track/37gtSmRBMvDcC93rWch2by) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Me and You](https://open.spotify.com/album/4bdvQMcOC8KnIpuluKKd2s) | 3:46 | 2025-07-06 |  |
+| [Me and You](https://open.spotify.com/track/37gtSmRBMvDcC93rWch2by) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Me and You](https://open.spotify.com/album/4bdvQMcOC8KnIpuluKKd2s) | 3:46 | 2025-07-06 | 2025-09-09 |
 | [Mengye Mani](https://open.spotify.com/track/4PDkZy4qiPF5Ah3TaDLQzC) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mengye Mani](https://open.spotify.com/album/1nuFeWphoHT0yUA9opJetj) | 3:36 | 2024-04-19 | 2024-05-15 |
 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-02 |  |
 | [Mewu \(feat\. Akwaboah\)](https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:25 | 2021-12-29 |  |

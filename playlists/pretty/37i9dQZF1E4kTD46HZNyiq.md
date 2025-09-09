@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With Rhineland, Laureline, The Wild Wind and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,143 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Still Thinking About You](https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [En Masse](https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z) | 3:27 |
 | 50 | [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 |
 
-Snapshot ID: `aL5NFAAAAADCSIxiRDmPI7gg8r0ALWXt`
+Snapshot ID: `aL+ZVQAAAAACSPwZtpDcV6oO/vpL4Rq1`

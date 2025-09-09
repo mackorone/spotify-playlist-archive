@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,989 likes - 230 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,696 likes - 230 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 153 | [Brown Noise Revolution](https://open.spotify.com/track/3R0FpW9Cdoiesu5ExGknEW) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Brown Noise in Paradise](https://open.spotify.com/album/1YYm48Jbl1AHGhz0prnD4i) | 3:53 |
 | 154 | [Reduced Energy Brown Noise](https://open.spotify.com/track/4WpiXUXve9hrR0OO2I0xoH) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Sleep Sounds: Brown Noise](https://open.spotify.com/album/47q5pcy72hiv5bCM28B7rY) | 3:14 |
 | 155 | [Focus Waves](https://open.spotify.com/track/5IC2VShFePhSPFwZGjAfkj) | [Amelia Grey](https://open.spotify.com/artist/7wHdo2ARw22e933IOeebSY) | [System of the Brown](https://open.spotify.com/album/0vyY0jEYilQXGR4Et3EcAc) | 3:07 |
-| 156 | [Brown Noise Healing](https://open.spotify.com/track/4Rz5XWD97zYlummPDHYgIi) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:46 |
-| 157 | [Brown Noise Hush](https://open.spotify.com/track/05lEyUhKBZ8xzRR4o0KeBo) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 |
+| 156 | [Brown Noise Hush](https://open.spotify.com/track/05lEyUhKBZ8xzRR4o0KeBo) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 |
+| 157 | [Brown Noise Healing](https://open.spotify.com/track/4Rz5XWD97zYlummPDHYgIi) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:46 |
 | 158 | [Quiet Brown Noise](https://open.spotify.com/track/6tMXX0yekCeisaQkTTGoF9) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Quiet Brown Noise](https://open.spotify.com/album/6lPmQqQikxuJ3Do9s2Jyes) | 3:00 |
 | 159 | [Noise Dream](https://open.spotify.com/track/7s5bkyULE2gi9UXNWOippx) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:10 |
 | 160 | [Brown Noise Ambiance](https://open.spotify.com/track/2FD3wA24usVLyaEqgCCCx6) | [Relaxed Skies](https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x) | [Brown Noise Wind Chimes](https://open.spotify.com/album/59vAlFFbnLg9r6hN9Rmdo6) | 2:45 |
@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 164 | [Ocean Dark](https://open.spotify.com/track/0PpxQLCq0ZWzhrz1YxVUXD) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 3:01 |
 | 165 | [Sweet Dreams Brown Noise](https://open.spotify.com/track/1chgbFFefT55Kktd1nFAnn) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Dozy Sleepy Brown Noise](https://open.spotify.com/album/3yG3Q1PkA0htvE9eUergkh) | 3:18 |
 | 166 | [Brown Noise Zen Zone](https://open.spotify.com/track/7KTxYjX3E5pOyRv3DM6Ija) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Brown Noise Zen Zone](https://open.spotify.com/album/1sIa8ZnR0tExbhdR3yl01J) | 5:02 |
-| 167 | [Brown Noise Horizon](https://open.spotify.com/track/4ZxcC2q9oj3xkQz2RVLRdE) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Sunrise & Brown Noise](https://open.spotify.com/album/5EhhubebcvSOaQcarfHy7E) | 2:25 |
-| 168 | [Ruido De Aviones Freq 238 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/7IULbyfSZ5rViyx7qKCrdZ) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido De Aviones](https://open.spotify.com/album/4DA3h0stpjokKVyHVL0Z8y) | 3:05 |
+| 167 | [Ruido De Aviones Freq 238 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/7IULbyfSZ5rViyx7qKCrdZ) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido De Aviones](https://open.spotify.com/album/4DA3h0stpjokKVyHVL0Z8y) | 3:05 |
+| 168 | [Brown Noise Horizon](https://open.spotify.com/track/4ZxcC2q9oj3xkQz2RVLRdE) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Sunrise & Brown Noise](https://open.spotify.com/album/5EhhubebcvSOaQcarfHy7E) | 2:25 |
 | 169 | [Brown Noise Harmony](https://open.spotify.com/track/3EzgvNfxtS6so9ffIMj4DD) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Harmony](https://open.spotify.com/album/6AyAsU7Gx77bYrGBHPtmDH) | 5:04 |
 | 170 | [Brown Noise Serenade](https://open.spotify.com/track/6Vtl1vievQhBLl4cUdoPRt) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Brown Noise Serenade](https://open.spotify.com/album/79YIrOZo7uWmGMBhJK7ykO) | 5:17 |
 | 171 | [Brown Noise Calm Body](https://open.spotify.com/track/5Oc4kS5WF1SBSBenn3gcOu) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:12 |
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 184 | [Beyond Brown Noise](https://open.spotify.com/track/3VDIwdXHDmSOcHCJx5XaTL) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Beyond Brown Noise](https://open.spotify.com/album/5qkYY3XTt8WYNmAUFw4Dkv) | 2:35 |
 | 185 | [Smoothe Q Brown Noise](https://open.spotify.com/track/0jaQVsTsv3rm4xCrBHzQL5) | [Lovey Dovey Brown](https://open.spotify.com/artist/4BHm6Zj66QkUjGXkUrSf4e) | [Lay\-Back\-Noise](https://open.spotify.com/album/2yK9zXqShcOJhMzTEpL8pE) | 3:21 |
 | 186 | [Endless Brown Noise](https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:16 |
-| 187 | [Peaceful Mind Noise](https://open.spotify.com/track/3Itfj9OAXvpTF8IVOFRMHW) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:18 |
-| 188 | [Brown Noise for Relaxation](https://open.spotify.com/track/1gU8BZkkAAgyDHCzDv5obA) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Brown Noise for Relaxation](https://open.spotify.com/album/37XeeoY4EwEZhBMRl6UE9C) | 2:33 |
+| 187 | [Brown Noise for Relaxation](https://open.spotify.com/track/1gU8BZkkAAgyDHCzDv5obA) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Brown Noise for Relaxation](https://open.spotify.com/album/37XeeoY4EwEZhBMRl6UE9C) | 2:33 |
+| 188 | [Peaceful Mind Noise](https://open.spotify.com/track/3Itfj9OAXvpTF8IVOFRMHW) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:18 |
 | 189 | [Digital Brown](https://open.spotify.com/track/3e09LcVtLkB2CewFxyUDRI) | [Ambient Network](https://open.spotify.com/artist/7gDEVFSaJkRgEsy7vy8XdJ) | [Rumbling in the Deep](https://open.spotify.com/album/17QJEOxeUhmPAzlU9Q0NBN) | 2:45 |
 | 190 | [Calming Brown Noise](https://open.spotify.com/track/2WPeMK6gNeOBUtNPRnpwzo) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Rumore Marrone](https://open.spotify.com/album/1b72n5oTBZdwlfVr4gDKL1) | 3:35 |
 | 191 | [Brown Noise B](https://open.spotify.com/track/4EPPzFbJ9FCZAudY6VGvYY) | [Blazerod](https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS) | [Blazing Brown Noise](https://open.spotify.com/album/62qm479270gddWe73nvaLT) | 2:49 |

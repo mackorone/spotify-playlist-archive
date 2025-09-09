@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Aaron Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,326 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,325 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 99 | [Sold Out to Christ](https://open.spotify.com/track/2YWwEBN2yCWrgym7rI6esx) | [JBthaPreacher](https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6), [Chosen Jigg](https://open.spotify.com/artist/7qqT7RNb6rvCSp6uhQlkgJ) | [Sold Out to Christ](https://open.spotify.com/album/3EgyZPJTTWWEyOZkKZ1aH4) | 2:33 |
 | 100 | [HOLY HUH? \- Remix](https://open.spotify.com/track/5D86xyUIwt6Psyd35a54Vw) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [HOLY HUH? \(Remix\)](https://open.spotify.com/album/2pkhqoC3IhWs2zQdkCL2A5) | 3:07 |
 
-Snapshot ID: `AAAAAA26edXdNsN7m/MTIRYpZnqeRZa4`
+Snapshot ID: `AAAAAGnVbL6OFgra+KU6rH/CuF77mPzi`

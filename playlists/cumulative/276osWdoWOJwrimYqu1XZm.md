@@ -4,7 +4,7 @@
 
 > 
 
-120 songs - 13 hr 8 min
+123 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Element \- Gene Karz Remix](https://open.spotify.com/track/1Pku1Eyc6O9mhevmjbQJE4) | [SAMA](https://open.spotify.com/artist/5Xf60FmqlNrVHBkCbgH7SO) | [Element](https://open.spotify.com/album/5EQtHYMigCgCbWLBmP0QLn) | 6:36 | 2019-06-20 |  |
 | [Elevant \- Moritz Hofbauer Remix](https://open.spotify.com/track/6QLMbQBdBT53HFqVIMGnGq) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Elevant](https://open.spotify.com/album/06DQiHSeAKpVyTK0JCYUl4) | 5:56 | 2019-06-27 |  |
 | [Entropy \- Original Mix](https://open.spotify.com/track/0nEhaQrDx80SNat3YqGZoY) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Entropy](https://open.spotify.com/album/5Y313PwVkZJnGLJepUJzfT) | 7:06 | 2019-07-28 |  |
+| [Era Of Us](https://open.spotify.com/track/0AdZea91wVCpeAT1NA5YPF) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Exhale VA005](https://open.spotify.com/album/1qi1t5uTt9q8FMLMwHFV5t) | 4:32 | 2025-09-08 |  |
 | [Feiern](https://open.spotify.com/track/7sl0onMn1Nvla23M32r91s) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Out of Nowhere](https://open.spotify.com/album/4Tg1nRqNXa5cz3sEPtQPIm) | 6:56 | 2019-06-20 |  |
 | [Fenix \- Amelie Lens Remix](https://open.spotify.com/track/3dRWznkPBOLrn1xa4Tn0d6) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Involve 020](https://open.spotify.com/album/2bSwUw93yxJcnLqKJSUdbN) | 6:17 | 2019-06-14 |  |
 | [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 | 2019-06-14 |  |
@@ -61,6 +62,7 @@
 | [I See The Devil](https://open.spotify.com/track/3D4kWF3ZWcO7OtZAtY6HMS) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Global Underground \#44: Amelie Lens \- Antwerp \(Unmixed\)](https://open.spotify.com/album/57VFguN1q3fAQVdypyCiRU) | 6:18 | 2025-08-04 |  |
 | [I Still Keep Love for You \- Einmusik Remix](https://open.spotify.com/track/0MPSxyQvNW4c896GBm8TDH) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [I Still Keep Love for You \(Einmusik Remix\)](https://open.spotify.com/album/44r3bsi0JWDutZdOCDlAng) | 7:52 | 2020-07-24 |  |
 | [I'll Call U Mine \- Vocal](https://open.spotify.com/track/1pDtsyUe9vv80YBHS1yfw0) | [No\_4mat](https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213) | [I'll Call U Mine \(Vocal\)](https://open.spotify.com/album/083qnkAnlA5qemB7CTjP5N) | 8:20 | 2022-07-08 |  |
+| [I'll Take You Higher](https://open.spotify.com/track/71FLhenAHptmNH4J6KeiFG) | [Lowerzone](https://open.spotify.com/artist/08kHFbfYt54KU8xxZtqSjf) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 4:41 | 2025-09-08 |  |
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2019-07-28 |  |
 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2021-07-01 |  |
 | [Intoxication \- Original Mix](https://open.spotify.com/track/5WAcXGhyeY9VSNl4ySeBKX) | [Tham](https://open.spotify.com/artist/609hP92W6p3l5agWsi1pnb) | [Serpent Series Vol\. 2](https://open.spotify.com/album/7DYdxFMFxSVRC68t2RMcj6) | 6:39 | 2021-04-15 |  |
@@ -110,6 +112,7 @@
 | [Swell](https://open.spotify.com/track/2ebGogj6KNvAxSeh2P5QPt) | [Mattheis](https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj) | [Kindred Phenomena](https://open.spotify.com/album/2iV8qDh26lywn93NEbCuG5) | 7:09 | 2019-10-26 |  |
 | [Sysma \- Original Mix](https://open.spotify.com/track/5jUbmkU6rjKGsynCNZEct2) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Kéia EP](https://open.spotify.com/album/3pfnudllYVvPXlGnSubVGM) | 7:20 | 2019-07-28 |  |
 | [Tachykardia \- Kobosil Remix](https://open.spotify.com/track/4k7b4gCqMdY1MVE705dJB2) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Nude Remixes](https://open.spotify.com/album/13V7SBTiEGttVK8zwqd2tr) | 5:15 | 2019-10-26 |  |
+| [Take Me Down](https://open.spotify.com/track/7aSvg2Yn8NZy63f4dLVqBE) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7), [Sosya](https://open.spotify.com/artist/4xs7ROT2oEnleHZeio5t9j) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 5:16 | 2025-09-08 |  |
 | [Teach Me \- Amelie Lens Acid Mix](https://open.spotify.com/track/1BAf4QwMu4LXn6DsRH3XiU) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Teach Me \(Amelie Lens Remixes\)](https://open.spotify.com/album/54lRkxqFP3gfn1aOFsLmqV) | 5:25 | 2019-07-12 |  |
 | [The Acid \- Original Version](https://open.spotify.com/track/5EK4UC92m4WqdSHYMFwQ2B) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [The Acid \(Originial Version\)](https://open.spotify.com/album/39muBJnMdF78Iws5A82MDY) | 6:42 | 2019-12-29 |  |
 | [The Techno Code](https://open.spotify.com/track/5YbTXNgmqIPZSPy63PEqWy) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Discipline EP](https://open.spotify.com/album/3gS25hTSI1zZXXSIdYBeSV) | 8:45 | 2025-06-27 |  |

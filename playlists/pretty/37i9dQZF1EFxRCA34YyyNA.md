@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393 likes - 62 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 62 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 61 | [Porridge](https://open.spotify.com/track/1VUmV4rdl3xvgWWNAxj4BL) | [BR!DGE](https://open.spotify.com/artist/66Bbc1SY66jhHPGL6Bxi3M) | [Porridge](https://open.spotify.com/album/2eT03IF6xJ0468g7CM3yc7) | 2:06 |
 | 62 | [In Charge](https://open.spotify.com/track/2Le8ZZfiAX6qBCKC8LJc6u) | [Kelly Nova](https://open.spotify.com/artist/5b6PgL3qbqScpDZ2qM8aQr) | [Kelly Nova](https://open.spotify.com/album/6TLzKBLO1nHKUqq9dOeyXt) | 2:38 |
 
-Snapshot ID: `Ab7ngAAAAAAVrbnU4A6lMed514pQNyFD`
+Snapshot ID: `Ab7tPgAAAABPUgTDd+5O5rHru9DKcSDD`

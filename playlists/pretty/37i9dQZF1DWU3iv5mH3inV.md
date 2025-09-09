@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow pa to el mundo\. Foto: Yailín La Más Viral
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,203 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,180 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 66 | [Traime La Mujere](https://open.spotify.com/track/37vzbWoB8GS6goZDgdu1Wt) | [42palmundo](https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK), [Jay Lara](https://open.spotify.com/artist/59XTPWaMLzNHOx4TjdRGxx), [CORI PROBLEMA](https://open.spotify.com/artist/66B3Yr8k2HWQDXQECPqgJn) | [Traime La Mujere](https://open.spotify.com/album/25TMjl4OVMAqBkKxFU0a8e) | 1:59 |
 | 67 | [Chiki](https://open.spotify.com/track/6RncsLv4gLEx2dqQm0lnz9) | [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Chiki](https://open.spotify.com/album/4s7OWjqU4xTq30Ij1QwSHS) | 1:38 |
 | 68 | [Yo Mismo](https://open.spotify.com/track/0X0cP2WpxyvNhrBCs4CjUq) | [Gran Memin](https://open.spotify.com/artist/7BG2m5BOanO3yVMeSi4n7G), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Yo Mismo](https://open.spotify.com/album/6OlOyCqOt9vY2sViDnyCPF) | 2:56 |
-| 69 | [Que Rica](https://open.spotify.com/track/68u9VbS2ErUQcTyJMWDirU) | [Crazy Design](https://open.spotify.com/artist/6RLPwlujyguAwjJTBGLaVr) | [Que Rica](https://open.spotify.com/album/4Mtr0lb1zKeG108vPlhw7m) | 1:55 |
+| 69 | [Crazy Design \- Que Rica](https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Que Rica](https://open.spotify.com/album/7asfVYRPtTeyHzdBTVw133) | 1:55 |
 | 70 | [Asereje](https://open.spotify.com/track/0klnwz4FpNEC0EHcqwCFD9) | [El Mello 06](https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo), [Etervidos](https://open.spotify.com/artist/6vCXaVD6s7A3a8waYGJzlz), [Brazil21](https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm) | [Asereje](https://open.spotify.com/album/38ykaFLCRwtabwST5tAkGT) | 2:03 |
 | 71 | [YO LO GASTO](https://open.spotify.com/track/4DxpLmN0WgO95N82YFtzbP) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Brayant LR](https://open.spotify.com/artist/486BIjpmGDFqhxxMiqn1Cp) | [YO LO GASTO](https://open.spotify.com/album/0zdp5wQg0nzkCrVHxUWwgx) | 1:37 |
 | 72 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 99 | [SOY UN BAD BOY](https://open.spotify.com/track/0H62ltcrmOg1SJDKkZD95P) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [SOY UN BAD BOY](https://open.spotify.com/album/7GhXiXay9tzXwcDgj1e6cx) | 3:51 |
 | 100 | [Quiere Dembow](https://open.spotify.com/track/3sW5fJrVUCgfyRJAGo9U8I) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8) | [Quiere Dembow](https://open.spotify.com/album/5Vkyc78EWgfqOMFma485OX) | 2:07 |
 
-Snapshot ID: `AAAAAGRlCK+EqpLGIBlnI/ZNRiiBmvI0`
+Snapshot ID: `AAAAAD141NwdLmKyqSIJ7auZ/B0zMpQ2`

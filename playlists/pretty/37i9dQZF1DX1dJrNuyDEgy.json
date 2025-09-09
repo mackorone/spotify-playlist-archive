@@ -1,6 +1,6 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 219256,
+  "num_followers": 219252,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        }
+      ],
+      "duration_ms": 105293,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
         "name": "De Coraz\u00f3n",
         "url": "https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo"
       },
@@ -351,34 +367,18 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+        "name": "Exitos De Chava Flores",
+        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
+          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
         }
       ],
-      "duration_ms": 175438,
-      "name": "Torito Serrano",
-      "url": "https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
-      },
-      "artists": [
-        {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
+      "duration_ms": 115013,
+      "name": "La Bartola",
+      "url": "https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Exitos De Chava Flores",
-        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
       "artists": [
         {
-          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
-          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 115013,
-      "name": "La Bartola",
-      "url": "https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5"
+      "duration_ms": 175438,
+      "name": "Torito Serrano",
+      "url": "https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C"
     },
     {
       "added_at": "2025-09-05 21:55:59",

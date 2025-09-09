@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Malibu
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,784 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,745 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 70 | [OUT I](https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK) | [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ) | [OUT I](https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE) | 4:41 |
 | 71 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
 | 72 | [The Boat](https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [The Boat](https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r) | 7:05 |
-| 73 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
-| 74 | [Offload Flip](https://open.spotify.com/track/4ZUrz0NlqXSMnheNUpoe62) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Offload Flip](https://open.spotify.com/album/7w864eA2lFKszD3Y3Jdhsz) | 2:14 |
-| 75 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
+| 73 | [Offload Flip](https://open.spotify.com/track/4ZUrz0NlqXSMnheNUpoe62) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Offload Flip](https://open.spotify.com/album/7w864eA2lFKszD3Y3Jdhsz) | 2:14 |
+| 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
+| 75 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
 | 76 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 |
 | 77 | [O, Dark Mother](https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [O, Dark Mother](https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6) | 5:31 |
 | 78 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 82 | [Bandorai](https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [A Requiem](https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD) | 3:01 |
 | 83 | [Big Majestic](https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka) | [Big Majestic](https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq) | 4:50 |
 | 84 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
-| 85 | [Only Wish](https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2) | 5:44 |
-| 86 | [Lift Hands](https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8) | [Veryan](https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk) | [One Universal Breath](https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj) | 4:37 |
+| 85 | [Lift Hands](https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8) | [Veryan](https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk) | [One Universal Breath](https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj) | 4:37 |
+| 86 | [Only Wish](https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2) | 5:44 |
 | 87 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
 | 88 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
 | 89 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |

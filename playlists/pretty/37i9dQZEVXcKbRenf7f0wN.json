@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLUaQAAAAAAcYq67yrVs1sUWvp+OwesQ",
+  "snapshot_id": "aL5UwAAAAABPpySwt+TmqdDWij02qdPw",
   "tracks": [
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Black Celebration (Deluxe)",
-        "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
+        "name": "Violator (Deluxe)",
+        "url": "https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH"
       },
       "artists": [
         {
@@ -20,28 +20,124 @@
           "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 288600,
-      "name": "Shake the Disease",
-      "url": "https://open.spotify.com/track/0a1SoGdF8U1PNHtfKRAx91"
+      "duration_ms": 266653,
+      "name": "World In My Eyes",
+      "url": "https://open.spotify.com/track/0TBn49AjkNufCRJ2O5VJ6s"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
         }
       ],
-      "duration_ms": 270946,
-      "name": "The Rip",
-      "url": "https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC"
+      "duration_ms": 151693,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "I Saw Nothing Good so I Left",
+        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
+      },
+      "artists": [
+        {
+          "name": "Bragolin",
+          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "This Grotesque Dance",
+      "url": "https://open.spotify.com/track/0PTtvb2693IfmfXCOjT1rp"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "On A Plain",
+      "url": "https://open.spotify.com/track/2xIlEsioAFODKpsVgVNrrQ"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "Shades of Violet",
+        "url": "https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "Jungle Fever",
+        "url": "https://open.spotify.com/album/3XQ3R1AsalO7fIDYiAAqOR"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale & His Del-Tones",
+          "url": "https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/7wWIhN947etKKsGOlcTgaH"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "Birds In The Ground",
+        "url": "https://open.spotify.com/album/1DInr1e5tIB0WioPuWg4nl"
+      },
+      "artists": [
+        {
+          "name": "Eiafuawn",
+          "url": "https://open.spotify.com/artist/73su3oDG4DKZP77Jzz1CX6"
+        }
+      ],
+      "duration_ms": 125653,
+      "name": "No More Like That",
+      "url": "https://open.spotify.com/track/7K3mac0IqCjLGmbZ47jOf9"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
       "album": {
         "name": "TANGK",
         "url": "https://open.spotify.com/album/13fXtIpIyvz4D5Ny3TSHym"
@@ -61,39 +157,7 @@
       "url": "https://open.spotify.com/track/15uzP4I5pMX4dfQ9Lx72h1"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "I Saw Nothing Good so I Left",
-        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
-      },
-      "artists": [
-        {
-          "name": "Bragolin",
-          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "This Grotesque Dance",
-      "url": "https://open.spotify.com/track/0PTtvb2693IfmfXCOjT1rp"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "Rx Queen",
-      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
@@ -109,55 +173,55 @@
       "url": "https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+        "name": "Quebec",
+        "url": "https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
         }
       ],
-      "duration_ms": 257786,
-      "name": "Jealous Guy - Remastered 2010",
-      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
+      "duration_ms": 242000,
+      "name": "Tried And True",
+      "url": "https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Turn to Stone",
-      "url": "https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"
+      "duration_ms": 222383,
+      "name": "No Love Lost - 2010 Remaster",
+      "url": "https://open.spotify.com/track/3DGl2F6Rw8EZV35H4K9sgz"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Altogether",
-      "url": "https://open.spotify.com/track/1I3f8tsoYbIPEgQ1TPvJPb"
+      "duration_ms": 175533,
+      "name": "Eau D' Bedroom Dancing",
+      "url": "https://open.spotify.com/track/0MRylncmeKOjDF14R8r6eK"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
         "name": "Beautiful Tragedy",
         "url": "https://open.spotify.com/album/18muA4YucIqZ8qEG1cu2dz"
@@ -173,171 +237,135 @@
       "url": "https://open.spotify.com/track/0gRnG9TjG1pQH8JzYnvbgU"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Pet Sounds",
-        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+        "name": "X",
+        "url": "https://open.spotify.com/album/5ER0teU4lreIwR7R088E3q"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "The 69 Eyes",
+          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
         }
       ],
-      "duration_ms": 174906,
-      "name": "God Only Knows - Remastered 1996",
-      "url": "https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC"
+      "duration_ms": 199266,
+      "name": "I Love the Darkness in You",
+      "url": "https://open.spotify.com/track/5YHzUlyf07Dm5jGQJLzsQQ"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Birds In The Ground",
-        "url": "https://open.spotify.com/album/1DInr1e5tIB0WioPuWg4nl"
+        "name": "Singles Going Steady",
+        "url": "https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E"
       },
       "artists": [
         {
-          "name": "Eiafuawn",
-          "url": "https://open.spotify.com/artist/73su3oDG4DKZP77Jzz1CX6"
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
         }
       ],
-      "duration_ms": 125653,
-      "name": "No More Like That",
-      "url": "https://open.spotify.com/track/7K3mac0IqCjLGmbZ47jOf9"
+      "duration_ms": 191066,
+      "name": "Everybody's Happy Nowadays - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7xUEsVEwSSXhjgBgZG57Tl"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Movin' Out (Anthony's Song)",
-      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+      "duration_ms": 269800,
+      "name": "If You Leave - Remastered 2019",
+      "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 263880,
-      "name": "When You Die",
-      "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
+      "duration_ms": 153333,
+      "name": "Little Bitch - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7nLLWqkNxRIaU9Xg6Vn2zr"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+        "name": "As Far As Siam",
+        "url": "https://open.spotify.com/album/24xLvFKw7kxpwe3YRK00Ch"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Red Rider",
+          "url": "https://open.spotify.com/artist/4EGlaDAVZTNNknDdKHrHRp"
         }
       ],
-      "duration_ms": 194426,
-      "name": "On A Plain",
-      "url": "https://open.spotify.com/track/2xIlEsioAFODKpsVgVNrrQ"
+      "duration_ms": 263066,
+      "name": "Lunatic Fringe",
+      "url": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "The B-52's",
-        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
+        "name": "Set The World On Fire",
+        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
       },
       "artists": [
         {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Dance This Mess Around",
-      "url": "https://open.spotify.com/track/207qLd1ovrqfYVBBDrNMUM"
+      "duration_ms": 258373,
+      "name": "Sounds Good to Me",
+      "url": "https://open.spotify.com/track/0UOYytvwBiPogdJgrTOHbK"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+        "name": "Triumph And Agony",
+        "url": "https://open.spotify.com/album/36xszGjHscPl8xhyw8QkVK"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Warlock",
+          "url": "https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d"
         }
       ],
-      "duration_ms": 247600,
-      "name": "Get Gone",
-      "url": "https://open.spotify.com/track/32yottFNSCL9Nho9biIKzY"
+      "duration_ms": 242226,
+      "name": "I Rule The Ruins",
+      "url": "https://open.spotify.com/track/5NDKzxaHrykhfbd316XIqW"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+        "name": "Magnified",
+        "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
       },
       "artists": [
         {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+          "name": "Failure",
+          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Milquetoast",
-      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
+      "duration_ms": 267173,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Iron Head",
-      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Gone Daddy Gone",
-      "url": "https://open.spotify.com/track/7mVoBnU3mxV5Q6n4DmOv6K"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
         "name": "Watch You Bleed",
         "url": "https://open.spotify.com/album/14N4tnevIzrgscDGT9xoTZ"
@@ -353,79 +381,7 @@
       "url": "https://open.spotify.com/track/4JSLc69A3ZTrDOcd4E1pdI"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "The Least Worst Of",
-        "url": "https://open.spotify.com/album/1vvBwbiS6MIDWvinWsKV6i"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "Black No. 1 - Edit",
-      "url": "https://open.spotify.com/track/4YXZa5AcYlFeV9zDCfNbSJ"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "The White Stripes Greatest Hits",
-        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3zAT4htM49OptjvWwxyZMX"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
-      "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 270520,
-      "name": "Stylo (feat. Mos Def and Bobby Womack)",
-      "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
-    },
-    {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -441,68 +397,100 @@
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
+      "duration_ms": 221133,
+      "name": "Altogether",
+      "url": "https://open.spotify.com/track/1I3f8tsoYbIPEgQ1TPvJPb"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 163640,
-      "name": "La La Love You",
-      "url": "https://open.spotify.com/track/6x0cOqPP07gTXusQfK9COQ"
+      "duration_ms": 308373,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Return to Dust",
-        "url": "https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB"
+        "name": "The Night Creeper",
+        "url": "https://open.spotify.com/album/65LEVuiaFy4AJmjO56yuk1"
       },
       "artists": [
         {
-          "name": "Return to Dust",
-          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 220318,
-      "name": "Black Road",
-      "url": "https://open.spotify.com/track/7zUAKqKtqpGNNN0drkJGDS"
+      "duration_ms": 354408,
+      "name": "Melody Lane",
+      "url": "https://open.spotify.com/track/6lS2jdGhJvy0M1gDM8spDy"
     },
     {
-      "added_at": "2025-09-01 04:00:00",
+      "added_at": "2025-09-08 04:00:00",
       "album": {
-        "name": "Twin Fantasy",
-        "url": "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM"
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 304427,
-      "name": "Sober to Death",
-      "url": "https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec"
+      "duration_ms": 270946,
+      "name": "The Rip",
+      "url": "https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "The White Stripes Greatest Hits",
+        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3zAT4htM49OptjvWwxyZMX"
+    },
+    {
+      "added_at": "2025-09-08 04:00:00",
+      "album": {
+        "name": "The Least Worst Of",
+        "url": "https://open.spotify.com/album/1vvBwbiS6MIDWvinWsKV6i"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "Black No. 1 - Edit",
+      "url": "https://open.spotify.com/track/4YXZa5AcYlFeV9zDCfNbSJ"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,982 songs - 4 day 6 hr 42 min
+1,984 songs - 4 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Duolingo](https://open.spotify.com/track/1I9f4i2InzK8rvpct86djH) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Duolingo](https://open.spotify.com/album/1gguRd8uFWsYC6r8hoVIVf) | 2:06 | 2024-09-26 | 2024-10-20 |
 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 | 2024-01-25 | 2024-03-15 |
 | [Dust](https://open.spotify.com/track/6t0iX8lmj5PjV9mJbYAE1i) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust, Pt\. 1](https://open.spotify.com/album/2mCYJpGg7PU8zDCib4DrpS) | 3:40 | 2024-04-11 | 2024-05-17 |
+| [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 | 2025-09-04 |  |
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2025-03-14 |
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
@@ -632,6 +633,7 @@
 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 | 2024-01-18 | 2024-02-23 |
 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 | 2023-04-27 | 2023-10-20 |
 | [Genom livet](https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Genom livet](https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ) | 2:47 | 2024-04-04 | 2024-05-10 |
+| [Genom Livet](https://open.spotify.com/track/68z4nDnQabrnULlTyAvaCK) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Genom Livet](https://open.spotify.com/album/0ct8ntphMdMigKb79CkPlA) | 2:18 | 2025-09-04 |  |
 | [Genom Mörker](https://open.spotify.com/track/03OwhLPJ20AjijuZs8QFaO) | [CISSI](https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk) | [Genom Mörker](https://open.spotify.com/album/6BSc1JBHklhKNA15Q9jSpw) | 3:12 | 2024-04-18 | 2024-04-21 |
 | [Get Real](https://open.spotify.com/track/1Eg6JkuIMYJzgbLOwV0e79) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Get Real](https://open.spotify.com/album/6Kzdksle0ZbkKrC5EKIFmJ) | 2:24 | 2023-10-19 | 2023-10-27 |
 | [Getsnack \(feat\. Imenella\)](https://open.spotify.com/track/2IYrfyfRvvJwFGo1AQW5TO) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Getsnack \(feat\. Imenella\)](https://open.spotify.com/album/2k2kLJHgTpSVlLdXsGJ7FP) | 2:17 | 2025-04-10 | 2025-08-11 |
@@ -908,7 +910,7 @@
 | [Jag lovar](https://open.spotify.com/track/4y8EzX57AY2RB5reMQM1XX) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Jag lovar](https://open.spotify.com/album/2Yo0cj7ZMiJwsDavajoXpP) | 3:03 | 2025-09-01 |  |
 | [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 | 2023-01-13 |
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-05-09 | 2024-06-07 |
-| [Jag ringer Ruth](https://open.spotify.com/track/5lyf5LKagSgqbPFr6DxshU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Jag ringer Ruth](https://open.spotify.com/album/0zIHCwAgTfjHYkPyqHYCfd) | 4:06 | 2025-05-15 |  |
+| [Jag ringer Ruth](https://open.spotify.com/track/5lyf5LKagSgqbPFr6DxshU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Jag ringer Ruth](https://open.spotify.com/album/0zIHCwAgTfjHYkPyqHYCfd) | 4:06 | 2025-05-15 | 2025-09-09 |
 | [Jag tror du har slutat älska mig](https://open.spotify.com/track/5QJpPqRqFvIFHzqcBqQCqK) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Jag tror du har slutat älska mig](https://open.spotify.com/album/3K7la6bYx8Xjr1qvV7ICa8) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Jag tänker på dig](https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Jag tänker på dig](https://open.spotify.com/album/1jvHCCrqMFoasEOCqjxTIw) | 2:20 | 2022-03-10 | 2022-07-28 |
 | [Jag var där](https://open.spotify.com/track/1dHrBpC64uQpaHa4z3izmC) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Jag var där](https://open.spotify.com/album/7ng4qEMKvFLyYwpnTKwi2k) | 3:11 | 2024-04-18 | 2024-05-24 |
@@ -1457,7 +1459,7 @@
 | [Se mig, bara se mig](https://open.spotify.com/track/7qZRHmZgslebCewAQPR3Vz) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Se mig, bara se mig](https://open.spotify.com/album/2JyEteYRpXeV2OddjXnxgt) | 3:00 | 2021-12-16 | 2022-07-28 |
 | [SE PÅ MIG](https://open.spotify.com/track/3hpPuFukUdjPrkvP3GOce2) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [SE PÅ MIG](https://open.spotify.com/album/0Eahjmc8johiZt87JF1I9u) | 2:22 | 2024-03-21 | 2024-05-03 |
 | [Se på oss](https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP) | [Faråker](https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt) | [Se på oss](https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY) | 3:29 | 2024-08-08 | 2024-09-15 |
-| [Second Chances](https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Under Different Skies](https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL) | 3:31 | 2025-06-12 |  |
+| [Second Chances](https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Under Different Skies](https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL) | 3:31 | 2025-06-12 | 2025-09-09 |
 | [SECONDS 2 SUNRISE](https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa), [SALTI](https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e) | [SECONDS 2 SUNRISE](https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq) | 2:53 | 2022-06-23 | 2022-07-21 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 | 2024-11-13 |
 | [See Me Happy](https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Guidebook](https://open.spotify.com/album/4wb10EDsvCrbcoiVplFz9H) | 3:38 | 2024-02-08 | 2024-03-17 |

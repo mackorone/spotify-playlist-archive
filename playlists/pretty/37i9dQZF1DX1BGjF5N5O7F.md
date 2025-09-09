@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > I thought you knew
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,756 likes - 83 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,686 likes - 83 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383,474 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,567 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Main Hi Kyon](https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7) | [Main Hi Kyon](https://open.spotify.com/album/1MBWAEMYBtEPgLtSZIKDjP) | 2:33 |
 | 50 | [3,13](https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [3,13](https://open.spotify.com/album/2v8u8nllQmZhvSzW0cjb12) | 2:57 |
 
-Snapshot ID: `AAAAAPAvQ+JAgpsfA4nQ4UsiwFGNvD6o`
+Snapshot ID: `AAAAAOtW3vlR9vLwEiLG+wXI0VepRbmZ`

@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: GIRLSET",
-  "num_followers": 65186,
+  "description": "The sweetest bops. Cover: KATSEYE at the VMAs",
+  "num_followers": 65230,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALUa2gij3BQD+fcsSgJiBTzzZOa4",
+  "snapshot_id": "AAAAAFaMg/PzcjIqQvif9jJIeo1nP9/A",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
@@ -211,22 +227,6 @@
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "added_at": "2025-07-11 04:00:16",

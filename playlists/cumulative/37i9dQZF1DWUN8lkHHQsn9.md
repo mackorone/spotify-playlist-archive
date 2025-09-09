@@ -2,7 +2,7 @@
 
 ### [GLOW Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover:  <a href="spotify:artist:3aIzQGnu1l0eCZSNTsl3W9">Pan Mariuszek</a>
+> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover:  <a href="spotify:artist:6Vkhs9MXgzLQ88k1rMay1a">Aljas</a>
 
 362 songs - 20 hr 2 min
 
@@ -12,7 +12,7 @@
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-04-08 | 2024-06-11 |
 | [49 Groszy](https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [49 Groszy](https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66) | 2:20 | 2023-06-20 | 2023-08-08 |
 | [49 Groszy \- Remix](https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [4900 Groszy](https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a) | 2:09 | 2023-10-09 | 2023-11-14 |
-| [52 Kilo](https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [52 Kilo](https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr) | 2:03 | 2023-12-11 | 2024-05-13 |
+| [52 Kilo](https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [52 Kilo](https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr) | 2:03 | 2023-12-11 |  |
 | [Abstrakt \- Remix](https://open.spotify.com/track/6HLkxTGvs9mo3IvmEDmrYy) | [Gonix](https://open.spotify.com/artist/31PSukWzfjhGJwVRaunz1x), [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Abstrakt Remix](https://open.spotify.com/album/3MD5VPTa1S12ruAOTPJ1gY) | 2:39 | 2024-06-10 | 2024-08-21 |
 | [amituaż](https://open.spotify.com/track/1tBZOGtM1igr5txj7Bjw7I) | [Jakub Zaron](https://open.spotify.com/artist/0a2IhoVzXyoQp6LPI9o2yw) | [amituaż](https://open.spotify.com/album/5W5PfSAvO4sNUcYjRf7BFf) | 2:43 | 2025-06-02 | 2025-08-22 |
 | [Angelina](https://open.spotify.com/track/4F6hz1EfgsQI0GWuX1SECm) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [KURWOKSIĘSTWO](https://open.spotify.com/album/2h3JRvFkXd03QMIAgcerNW) | 2:00 | 2025-02-10 |  |
@@ -49,7 +49,7 @@
 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 | 2022-06-01 | 2023-06-07 |
 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 | 2022-06-01 |  |
 | [Cloud 9](https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Cloud 9](https://open.spotify.com/album/6sGcAgeoGQnbSaiHo77leq) | 3:02 | 2023-03-10 | 2023-08-08 |
-| [CO MAM ZROBIĆ](https://open.spotify.com/track/6JddAEkM0eTGKlWMlpFAn9) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [CO MAM ZROBIĆ](https://open.spotify.com/album/6KzezuOKK12y86nWAbezNg) | 3:32 | 2025-01-13 |  |
+| [CO MAM ZROBIĆ](https://open.spotify.com/track/6JddAEkM0eTGKlWMlpFAn9) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [CO MAM ZROBIĆ](https://open.spotify.com/album/6KzezuOKK12y86nWAbezNg) | 3:32 | 2025-01-13 | 2025-09-09 |
 | [Co się stało?](https://open.spotify.com/track/4kKvEmTip9K2ajYo0H7WkY) | [Dureń](https://open.spotify.com/artist/2xFCNJxPF8BceY47fJ8DQC) | [Co się stało?](https://open.spotify.com/album/2jcEedqQ0TRfCkQYIMuKtb) | 3:03 | 2025-04-07 | 2025-08-02 |
 | [Control](https://open.spotify.com/track/2GXT5unTnuzQ7wYAm28Y4s) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Control](https://open.spotify.com/album/5BL10vhOovuT7w7HzgxCH1) | 2:18 | 2025-05-12 |  |
 | [Czar](https://open.spotify.com/track/2sbSjNpFbHpVvgiJkDOA03) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Czar](https://open.spotify.com/album/6mbc9q7Kvg63UKFtTM4nbr) | 2:45 | 2021-06-22 | 2022-06-01 |
@@ -187,7 +187,7 @@
 | [My Wave](https://open.spotify.com/track/162A5Vk27IRAx3UL0M5tHp) | [Max Skiba](https://open.spotify.com/artist/38FJw3FjQ8Ti4gHWbHvWbd) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:48 | 2024-06-10 | 2024-06-14 |
 | [NAJGORSZE RZECZY](https://open.spotify.com/track/14IblGaBsxqjyflCxvZkls) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 4:34 | 2021-06-22 | 2022-06-01 |
 | [nawet nie wiesz](https://open.spotify.com/track/6RFJkpq8vl9rDGhNEWMaoD) | [color blue](https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd) | [nie powód do płaczu](https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE) | 3:19 | 2024-12-04 | 2025-01-14 |
-| [Nawzajem](https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok) | [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Nawzajem](https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI) | 2:22 | 2024-01-08 |  |
+| [Nawzajem](https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok) | [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Nawzajem](https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI) | 2:22 | 2024-01-08 | 2025-09-09 |
 | [Nie](https://open.spotify.com/track/2QffcGEpWlwtZXcZ1zPtGW) | [Ganczarska](https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo) | [Nie](https://open.spotify.com/album/199hvcH6xuvllSrgTu3wYE) | 3:04 | 2025-07-07 |  |
 | [nie bój się](https://open.spotify.com/track/1IXfFdokeeiqjzzKx2U51y) | [ania cringe](https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn) | [nie bój się](https://open.spotify.com/album/6XjzyFPri2WsfWYfVx1EaC) | 3:30 | 2024-01-08 | 2024-06-02 |
 | [NIE CHCĘ CIĘ ZNAĆ](https://open.spotify.com/track/6H0FBOuMvEzGzP2T6sD1wT) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [NIE CHCĘ CIĘ ZNAĆ](https://open.spotify.com/album/2S2S3x5NcK9Ze3OrHEioKC) | 3:23 | 2024-01-08 | 2024-05-07 |
@@ -361,7 +361,7 @@
 | [zostać czy odejść](https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz) | [Maura Margol](https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j) | [zostać czy odejść](https://open.spotify.com/album/6srpiYFy6SdH1fLeJBCfGz) | 2:39 | 2025-07-07 | 2025-08-24 |
 | [Zrobiłam bardzo](https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Zrobiłam bardzo](https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0) | 3:02 | 2024-10-07 | 2025-06-03 |
 | [zły](https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [zły](https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ) | 3:20 | 2025-01-13 |  |
-| [Łagodne](https://open.spotify.com/track/3yq3WZ8Rnq3xziTDQkkTZD) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Łagodne](https://open.spotify.com/album/0RDB7EfL5DRCoxS9rmxTil) | 2:33 | 2025-02-10 | 2025-06-11 |
+| [Łagodne](https://open.spotify.com/track/3yq3WZ8Rnq3xziTDQkkTZD) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Łagodne](https://open.spotify.com/album/0RDB7EfL5DRCoxS9rmxTil) | 2:33 | 2025-02-10 |  |
 | [Ślady](https://open.spotify.com/track/6ghfzdhPDc8GIrOZjZrfpt) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [IV!II](https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4) | 3:50 | 2024-10-07 | 2025-07-08 |
 | [Śliwka w kompot](https://open.spotify.com/track/1ef2r7CQTvJsbnSL8Lggrw) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Śliwka w kompot](https://open.spotify.com/album/1JYZkYFA7PzBO4jaGS5pIT) | 2:44 | 2025-08-11 |  |
 | [Śnię](https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Śnię](https://open.spotify.com/album/5o6yfjwDa19gz1GvbRvHsn) | 2:52 | 2022-06-01 | 2022-06-11 |

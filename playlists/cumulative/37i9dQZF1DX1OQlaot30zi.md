@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sick Luke, Vale Lambo, Faneto e tanti altri.
 
-6,021 songs - 11 day 3 hr 42 min
+6,023 songs - 11 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Al Capone](https://open.spotify.com/track/24TVRkzUBDzQouxitIVcT1) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Al Capone](https://open.spotify.com/album/0ig28vaKTtszNMHDnLINqu) | 2:38 | 2022-05-19 | 2022-06-03 |
 | [Al ladro](https://open.spotify.com/track/03MnE7T7IGkL6f7K7lQj2L) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Al ladro](https://open.spotify.com/album/2cA3xbw2V831gZOsFtWATb) | 2:51 | 2022-06-30 | 2022-08-05 |
 | [Al Limite \(feat\. Tony Boy\)](https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:27 | 2024-05-23 | 2024-06-14 |
+| [AL PACINO](https://open.spotify.com/track/32LlcNsYqf7QUg5eBup5Cs) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [AL PACINO](https://open.spotify.com/album/3KBK9qe8NcvqtAGMgp03lR) | 2:40 | 2025-09-08 |  |
 | [Alaska](https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Alaska](https://open.spotify.com/album/4fMG0tZOJ4VqA1nbx8WJy6) | 1:53 | 2022-10-06 | 2022-10-14 |
 | [ALBANIA COMMANDO](https://open.spotify.com/track/4GOVrqS2AHBnII3MaVLspD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [ALBANIA COMMANDO](https://open.spotify.com/album/31biyXSafVHMxOCbW6s0eF) | 2:23 | 2024-04-11 | 2024-05-03 |
 | [Albuquerque](https://open.spotify.com/track/57Ni9oqkifsawfzEOfwHr9) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Cabeleira](https://open.spotify.com/artist/7Lauhxh5gRrMpARrXzJ7dh), [Young Kid](https://open.spotify.com/artist/3fLhN3w58mHNCl7pxTbPz7) | [Albuquerque](https://open.spotify.com/album/6lal2IqeNec3CTLWLYDf8E) | 3:29 | 2023-02-24 | 2023-03-03 |
@@ -1969,6 +1970,7 @@
 | [Flash](https://open.spotify.com/track/4k3vvHNkJMg1RaAlutUhlZ) | [Pado](https://open.spotify.com/artist/17yoYB4nOBAmteYm5IJmK2) | [Flash](https://open.spotify.com/album/0M0YRYgEaIM9NxBozbTOx2) | 2:52 | 2022-08-12 | 2022-08-26 |
 | [Flash](https://open.spotify.com/track/3aGx4SlIj4I5GHYlzFi9Aw) | [Simo](https://open.spotify.com/artist/70kuex1X61vv8Yl1BfG4gs) | [Flash](https://open.spotify.com/album/2FukpyW4ixNWSlbyTprHfK) | 2:42 | 2024-07-18 | 2024-07-27 |
 | [FLASH](https://open.spotify.com/track/5UKMkdiPsmEca4XjiXXGdD) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [FLASH](https://open.spotify.com/album/3BgUOP6CPpdsrd5bHIcYnn) | 2:03 | 2024-12-26 | 2025-01-24 |
+| [FLASHBACK](https://open.spotify.com/track/57NFelBvcQDFraj1HLiJ9g) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLASHBACK](https://open.spotify.com/album/4BP2kKPtL6k5HmG13tEFq4) | 3:03 | 2025-09-08 |  |
 | [Flauti \(feat\. Radical\)](https://open.spotify.com/track/06YiBeeij6uo7YlOipgMgo) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [Flauti \(feat\. Radical\)](https://open.spotify.com/album/1tMZ0h4YpWaS0x6qtCzQvb) | 1:33 | 2023-12-21 | 2024-01-26 |
 | [Flavio Domiziano](https://open.spotify.com/track/1v95dvpvdYiJd1YnqtTYZA) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [Flavio Domiziano](https://open.spotify.com/album/1sWULGPvRpF5pFCcDqLVsF) | 2:48 | 2023-09-28 | 2023-10-20 |
 | [FLESSIONI](https://open.spotify.com/track/5U5FJrf9E2FqZg2ZcxpNkj) | [Nader Shah](https://open.spotify.com/artist/0hzphYnZcEjlCT5nesxeV1) | [FLESSIONI](https://open.spotify.com/album/6D6Z3UKRKPV16vWlWR7Trb) | 2:13 | 2025-08-28 |  |

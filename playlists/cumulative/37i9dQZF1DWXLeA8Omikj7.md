@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,119 songs - 3 day 9 hr 26 min
+1,121 songs - 3 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-05-31 |
 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 | 2021-07-27 | 2024-12-08 |
 | [Blossom](https://open.spotify.com/track/5TgbftMqsjBnkKVWXJubAl) | [Nyte](https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp) | [Blossom](https://open.spotify.com/album/4fF4pWujxTlHNb4mOJBhpd) | 5:32 | 2021-01-25 | 2022-07-28 |
+| [Blowtorch Thimble](https://open.spotify.com/track/7dVwOXJpWMLFa3JZEOprye) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Blowtorch Thimble](https://open.spotify.com/album/0LunYm6Mr5jjjxsiat3ziP) | 3:30 | 2025-09-05 |  |
 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 | 2025-05-23 |  |
 | [Blue pt.1 \- Original Mix](https://open.spotify.com/track/24CtFqmVUXFtpd3m3FAx3V) | [Viels](https://open.spotify.com/artist/7BTz2VW48rLYkzv9xzXBEI) | [Sinua EP](https://open.spotify.com/album/3aeOTToiqgL2b5DO0J2efI) | 4:49 | 2019-05-26\* | 2022-04-20 |
 | [Blueberry](https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Blueberry](https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr) | 3:32 | 2021-07-23 | 2023-01-15 |
@@ -303,6 +304,7 @@
 | [Eros](https://open.spotify.com/track/21j57YHGKnwx2DR3YWnwrC) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/5h5OESkSbpnu5nauqtbFXX) | 4:07 | 2019-06-19\* | 2020-10-22 |
 | [Erosion](https://open.spotify.com/track/7CPrLYIx5Eq49tqR2i9YG2) | [Sogyal](https://open.spotify.com/artist/13vrs3G3AJuhplIL44AjGh), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Erosion](https://open.spotify.com/album/2ylNF12LX7pM7hAmLBguCg) | 2:56 | 2020-11-13 | 2022-07-13 |
 | [Escalate](https://open.spotify.com/track/7Bc2SFowNs7ItyVTOu15Ix) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Where It Begins](https://open.spotify.com/album/7GeQYx6rwDCCVBkxjShWE2) | 2:53 | 2019-06-19\* | 2020-10-22 |
+| [Escorial](https://open.spotify.com/track/02HTFXaUZENzXrc1B3heIb) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Escorial](https://open.spotify.com/album/0Yb22uGNWv2FWSznE5Tpxd) | 5:16 | 2025-09-05 |  |
 | [Essenza \- Instrumental](https://open.spotify.com/track/662uFTHNtlgnii28wIdXQQ) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [So Far so Good \(Instrumental\)](https://open.spotify.com/album/7yabVYPaxNOMolAgqOOMHO) | 5:17 | 2024-01-19 | 2024-05-12 |
 | [Eternal](https://open.spotify.com/track/4dxCxG0bJkCuhknPwELcF3) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 1:25 | 2019-05-26\* | 2022-04-17 |
 | [Eternal](https://open.spotify.com/track/3bNDLqeXiV9jCQtpIP2QIO) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Eating Darkness](https://open.spotify.com/album/34yHPIYA4aNxsaDjzwG7zW) | 3:41 | 2021-05-09 | 2022-07-16 |
@@ -399,7 +401,7 @@
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
 | [Ghosted](https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Ghosted](https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w) | 2:37 | 2021-01-30 |  |
 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* |  |
-| [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* |  |
+| [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* | 2025-09-09 |
 | [Gjuijar](https://open.spotify.com/track/36vmHQWDFTkiihU3YTMXO5) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/1RwMFMZCSBvlr8QrPuBgC4) | 4:41 | 2021-07-23 | 2022-07-29 |
 | [Gjuijar](https://open.spotify.com/track/4bN14h0cAjKYGS7GqfKjBp) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/0mYfyjA0zCp3n6RkdB0rLC) | 4:41 | 2022-09-09 | 2023-04-02 |
 | [Glacial Lake](https://open.spotify.com/track/1y2lZj6Lrq0pOYTPmX5LXe) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacial Lake](https://open.spotify.com/album/7aHOWAhMrZn3xWiO0WlIXt) | 3:44 | 2021-02-02 | 2023-04-07 |
@@ -827,7 +829,7 @@
 | [Sens Plus Profond](https://open.spotify.com/track/45aNxjLyNAouaqI8UcVvi7) | [Coquins](https://open.spotify.com/artist/2CQkYpYeaZujTc9QnB2Hc3) | [Sens Plus Profond](https://open.spotify.com/album/6pWZEPPdyDClZD3nvDQ7yy) | 3:42 | 2019-06-19\* |  |
 | [September Sun](https://open.spotify.com/track/4EsMNnijTIfsL3y3qzK50F) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/7nGozHMt2PFfQHUbUBVUWR) | 3:29 | 2021-07-05 | 2022-10-14 |
 | [September Sun](https://open.spotify.com/track/7pe5y4jwqdFuGZenu7Fnal) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 3:29 | 2022-09-09 | 2024-04-19 |
-| [Serene](https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Serene](https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC) | 4:09 | 2025-02-14 |  |
+| [Serene](https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Serene](https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC) | 4:09 | 2025-02-14 | 2025-09-09 |
 | [Serious Mood](https://open.spotify.com/track/6KdqE1loutetHOOJCTt0qc) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/3DwWwVJ52qLRAlWEo1JSQt) | 3:39 | 2019-06-19\* | 2020-10-22 |
 | [Session](https://open.spotify.com/track/5KNJ2qBD92lNfdcdcHmzEY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:23 | 2019-07-25 | 2020-08-26 |
 | [Seven](https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven](https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3) | 5:55 | 2024-05-10 | 2024-08-06 |

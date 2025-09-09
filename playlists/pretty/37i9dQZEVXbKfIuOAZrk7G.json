@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-09-05 17:11:04",
@@ -72,12 +72,12 @@
       },
       "artists": [
         {
-          "name": "DEJA",
-          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
-        },
-        {
           "name": "Milco",
           "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
+        },
+        {
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
         }
       ],
       "duration_ms": 158075,
@@ -771,8 +771,8 @@
     {
       "added_at": "2025-09-05 17:11:04",
       "album": {
-        "name": "Soft Machine (U.S. Version)",
-        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
       },
       "artists": [
         {
@@ -785,8 +785,8 @@
         }
       ],
       "duration_ms": 246786,
-      "name": "Punkrocker (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
       "added_at": "2025-09-05 17:11:04",
@@ -956,7 +956,7 @@
       "added_at": "2025-09-05 17:11:04",
       "album": {
         "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+        "url": "https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv"
       },
       "artists": [
         {
@@ -966,7 +966,7 @@
       ],
       "duration_ms": 164400,
       "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+      "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
     },
     {
       "added_at": "2025-09-05 17:11:04",

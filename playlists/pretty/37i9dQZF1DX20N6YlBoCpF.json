@@ -1,12 +1,12 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met Appel, Irene-Louise Van Wyk, Dassie, GSTRiNG en meer!",
-  "num_followers": 39543,
+  "num_followers": 39507,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjFWj98gbdEc8ZUAq9gIqssPG9e",
+  "snapshot_id": "AAAAAF4tdrb5LBdNxKRTnUg+kMQIPomX",
   "tracks": [
     {
       "added_at": "2025-09-04 22:00:22",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/0W6rk6Nz3u2jKzZeFDfeJG"
     },
     {
+      "added_at": "2025-09-08 08:51:10",
+      "album": {
+        "name": "Gatiep en Meraai",
+        "url": "https://open.spotify.com/album/6YJBEyDMoMREYcIYyKeG3F"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "duration_ms": 200675,
+      "name": "Gatiep en Meraai",
+      "url": "https://open.spotify.com/track/0COQDz0HFwXrOerTj8iI1I"
+    },
+    {
       "added_at": "2025-09-04 22:00:22",
       "album": {
         "name": "Langpad (Afrikaans Wil Dans Remix)",
@@ -171,6 +187,58 @@
       "duration_ms": 223250,
       "name": "Carina Malan",
       "url": "https://open.spotify.com/track/6lbRiFSxYAiw97BumTMjcF"
+    },
+    {
+      "added_at": "2025-09-08 08:51:10",
+      "album": {
+        "name": "Tyd Vir Als",
+        "url": "https://open.spotify.com/album/23t9CIbgwDPv6Bo0tQO9mQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sonskyn",
+          "url": "https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "Tyd Vir Als",
+      "url": "https://open.spotify.com/track/0X3W61A8VZrLramtdy52A1"
+    },
+    {
+      "added_at": "2025-09-08 08:51:10",
+      "album": {
+        "name": "Alleen Na Desember",
+        "url": "https://open.spotify.com/album/1ixpbY9HFzlzR2s0QUP39Y"
+      },
+      "artists": [
+        {
+          "name": "Simeon Kriel",
+          "url": "https://open.spotify.com/artist/6gMmN8h1L9X9H6dVllgltp"
+        },
+        {
+          "name": "Alleen Na Desember",
+          "url": "https://open.spotify.com/artist/3Rsnw9ucAh383CLWoZip5w"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Groen Radio",
+      "url": "https://open.spotify.com/track/1KZBgmpGw1rNBP0pb8jprd"
+    },
+    {
+      "added_at": "2025-09-08 08:51:10",
+      "album": {
+        "name": "Gita Blom",
+        "url": "https://open.spotify.com/album/2DwK877p4Z4Uj5dL4TTjvw"
+      },
+      "artists": [
+        {
+          "name": "Gian Groen",
+          "url": "https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg"
+        }
+      ],
+      "duration_ms": 235212,
+      "name": "Gita Blom",
+      "url": "https://open.spotify.com/track/4rpjCRMOJCQz1csklMnf1l"
     },
     {
       "added_at": "2025-09-04 22:00:22",

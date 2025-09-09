@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 158 songs - 12 hr 56 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 162 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,5 +166,9 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 | 156 | [Why Can’t We Live Forever?](https://open.spotify.com/track/6UVMbsN3o13f4LriXGsAmU) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:31 |
 | 157 | [Veränderung spüren](https://open.spotify.com/track/67JAkwflqz0Fg1AHFfUN3t) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Veränderung spüren](https://open.spotify.com/album/2LDAxwcSumPYcUmTTILfAB) | 3:38 |
 | 158 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
+| 159 | [Twin Souls](https://open.spotify.com/track/7q0uAZzbO232QlYZsl716J) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/7uYTYAQsXBeVriJopyhpV9) | 7:29 |
+| 160 | [Forever Melancholia](https://open.spotify.com/track/6ZWYsvOTYigBYoHMpFOyoA) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/7uYTYAQsXBeVriJopyhpV9) | 7:01 |
+| 161 | [Deliverance](https://open.spotify.com/track/14F0P1p8fnJhlIgMdg6NyK) | [K90](https://open.spotify.com/artist/18YUfYOHNEVvQitsvzoUrm) | [Deliverance](https://open.spotify.com/album/1mjxue8XsTKW1JffR8PLfJ) | 3:38 |
+| 162 | [LEGACY](https://open.spotify.com/track/0ZY1TYRRPpEAu1KUuxnaKM) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [LEGACY](https://open.spotify.com/album/5o4rfjlvkETwHpsMpaAaF3) | 3:25 |
 
-Snapshot ID: `AAABXN9Oz+QKY+nJU4RR/On5igYwxJI+`
+Snapshot ID: `AAABYI+Jj2D7Z8SxQzuv9pCOFsDTK15L`

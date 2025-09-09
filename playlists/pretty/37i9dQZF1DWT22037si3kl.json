@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Brand\u00e3o85",
-  "num_followers": 147409,
+  "num_followers": 147396,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-08-22 17:17:23",
       "album": {
+        "name": "Eu Meto Bronca",
+        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Eu Meto Bronca",
+      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
+    },
+    {
+      "added_at": "2025-08-22 17:17:23",
+      "album": {
         "name": "SEMR\u00c9H",
         "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 147967,
       "name": "SEMR\u00c9H",
       "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
-    },
-    {
-      "added_at": "2025-08-22 17:17:23",
-      "album": {
-        "name": "Eu Meto Bronca",
-        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Eu Meto Bronca",
-      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
     },
     {
       "added_at": "2025-08-22 17:17:23",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2025-08-22 17:17:23",
       "album": {
-        "name": "Diesel Dior",
-        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Diesel Dior",
-      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
-    },
-    {
-      "added_at": "2025-08-22 17:17:23",
-      "album": {
         "name": "A Vida De Um G\u00e2ngster",
         "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 230015,
       "name": "Afli\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
+    },
+    {
+      "added_at": "2025-08-22 17:17:23",
+      "album": {
+        "name": "Diesel Dior",
+        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Diesel Dior",
+      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2025-08-22 17:17:23",

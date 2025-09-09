@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-503 songs - 1 day 5 hr 57 min
+504 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Insensible](https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Insensible](https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH) | 3:27 | 2021-01-03\* | 2022-07-29 |
 | [Inutuulunga \- 2024 Remastered Version](https://open.spotify.com/track/0svw50fDE5pcpcqjjMVu5I) | [Taima](https://open.spotify.com/artist/49Hbj5LLNXQvttMwpApN0r) | [Inutuulunga \(2024 Remastered Version\)](https://open.spotify.com/album/7uxWJQzCCYAz1TlJe7gpi6) | 3:20 | 2024-06-21 | 2024-11-19 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
+| [Islands in the Stream](https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Islands in the Stream](https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8) | 3:14 | 2025-09-05 |  |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 | 2023-10-24 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:33 | 2023-10-20 | 2025-02-25 |
 | [it takes 2](https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [it takes 2](https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn) | 3:40 | 2024-04-05 |  |
@@ -199,7 +200,7 @@
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 |  |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |
-| [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 | 2025-09-03 |
+| [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 |  |
 | [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-03-08 | 2025-02-08 |
 | [Km Zéro](https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi) | [Monsieur Raph](https://open.spotify.com/artist/3tCGkAQa2Q8ukkefsgrrYw) | [Le sens de la dérive](https://open.spotify.com/album/7mZATbXPGxVWhXROjmvIa6) | 3:25 | 2021-01-03\* | 2022-07-23 |
 | [L'alinéa](https://open.spotify.com/track/4rhW9OC2pFIqF5KRAWC10c) | [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [L'alinéa](https://open.spotify.com/album/29dDpTCBFs9pHzCMT39VcU) | 4:36 | 2023-11-10 | 2025-04-11 |
@@ -243,7 +244,7 @@
 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 | 2025-07-08 |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
-| [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 |  |
+| [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 | 2025-09-09 |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 | 2021-01-03\* |  |
 | [Le pont](https://open.spotify.com/track/2zj9ku9XufSFWYNKLLK1fC) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Le pont](https://open.spotify.com/album/4H87yefc5YdOCyBgk5CRal) | 4:18 | 2021-03-19 | 2021-05-07 |
@@ -338,7 +339,7 @@
 | [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 | 2023-08-25 |  |
 | [nina](https://open.spotify.com/track/0FqFijwbC5IHuEjV5awDZQ) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 | 2022-02-11 |  |
-| [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 | 2021-01-15 |  |
+| [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 | 2021-01-15 | 2025-09-09 |
 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 | 2021-01-03\* | 2025-06-20 |
 | [Nos détours](https://open.spotify.com/track/1jMceI8njQF9cYm0Udvpla) | [Guillaume Beaulac](https://open.spotify.com/artist/69x9nmYbBPXbFNk3aEY6CG) | [Guillaume Beaulac](https://open.spotify.com/album/2i2J1pgs153PSHAZlI67uS) | 3:45 | 2021-05-08 | 2021-09-10 |
 | [Nos larmes](https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs) | [Guillaume Beauregard](https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T) | [Disparition](https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2) | 4:32 | 2021-01-15 | 2022-07-18 |

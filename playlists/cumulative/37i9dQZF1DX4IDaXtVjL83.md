@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Yves & PinkPantheress\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: NMIXX &Pabllo Vittar\)
 
-251 songs - 13 hr 14 min
+252 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 | 2022-05-18 | 2024-10-09 |
 | [Mayday \(Feat\. Ty Dolla $ign\)](https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:25 | 2024-10-08 |  |
 | [Memu Aagamu](https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [Memu Aagamu](https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh) | 2:47 | 2022-08-29 | 2024-08-14 |
+| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-09-08 |  |
 | [missed call](https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [missed call](https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q) | 2:21 | 2025-07-11 |  |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-15 | 2025-03-07 |
 | [My Love](https://open.spotify.com/track/3mhrwbSKg78tx8Klzal2mC) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [Francine Diaz](https://open.spotify.com/artist/38dzzX7PgHPXNHbMQDXi7l) | [My Love](https://open.spotify.com/album/4mVY5zUQmYI10LZMiVO94T) | 3:03 | 2024-03-08 |  |
@@ -255,7 +256,7 @@
 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2023-08-04 | 2025-06-28 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-29 | 2024-10-18 |
 | [如果可以 \(韓文版\) \- 電影"月老"主題曲](https://open.spotify.com/track/579jTwYxNQ1dKQjcKGXPy3) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(韓文版\) \[電影"月老"主題曲\]](https://open.spotify.com/album/3dPvM0IdO54j1m3zFjU8hv) | 4:34 | 2022-03-10 | 2023-02-17 |
-| [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 | 2023-08-04 |  |
+| [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 | 2023-08-04 | 2025-09-09 |
 | [妳在哪裡 \(WYA\) Remix \(Feat\. pH\-1, Lexie Liu, ØZI, Masiwei\)](https://open.spotify.com/track/07dT7SCgoq9ntHReX3bbqQ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [妳在哪裡 \(WYA\) Remix](https://open.spotify.com/album/7gxJr2sZru2NyUT7fNtbU4) | 4:09 | 2023-08-18 | 2025-07-19 |
 | [雨恋](https://open.spotify.com/track/7IhPNuQ9Wofe1wnvksz0a3) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [雨恋](https://open.spotify.com/album/5vZyHXMwvNbgCQACWO2lHm) | 3:51 | 2021-12-20 | 2022-03-05 |
 | [나란히 나란히 \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/track/33UW0S5w5bBTaB5GD96RW7) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [나란히 나란히 \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/album/1rlMLLKihzjtrNCmSZ5eyH) | 3:44 | 2025-06-20 |  |

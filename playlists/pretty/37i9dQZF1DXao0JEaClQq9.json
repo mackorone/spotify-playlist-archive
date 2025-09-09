@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Blood Orange",
-  "num_followers": 1658552,
+  "num_followers": 1657821,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 356333,
-      "name": "How to Disappear Completely",
-      "url": "https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
@@ -423,22 +407,6 @@
       "duration_ms": 117364,
       "name": "Clearblue",
       "url": "https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
-        "name": "Close Range",
-        "url": "https://open.spotify.com/album/4USUstWxap4sq9pHQPbVPI"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Close Range",
-      "url": "https://open.spotify.com/track/7cHlNnLJD0RPhALmesnneD"
     },
     {
       "added_at": "2025-07-29 23:33:32",
@@ -459,6 +427,22 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
+        "name": "Close Range",
+        "url": "https://open.spotify.com/album/4USUstWxap4sq9pHQPbVPI"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Close Range",
+      "url": "https://open.spotify.com/track/7cHlNnLJD0RPhALmesnneD"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 356333,
+      "name": "How to Disappear Completely",
+      "url": "https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6"
     },
     {
       "added_at": "2025-07-29 23:33:32",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
         "name": "The Path Less Travelled",
         "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
       "added_at": "2025-07-29 23:33:32",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2025-07-29 23:33:32",

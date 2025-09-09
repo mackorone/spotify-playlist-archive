@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Haaland936
 
-109 songs - 4 hr 43 min
+110 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Big Boy](https://open.spotify.com/track/3lviRnxqGTGtOZu90fvqgw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Big Boy](https://open.spotify.com/album/6YRiKZgNzHLq23shJOCIqR) | 2:46 | 2025-07-24 | 2025-09-05 |
 | [BLING BLING](https://open.spotify.com/track/5QfjKQjACPTsHUFryqh1Fu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [BLING BLING](https://open.spotify.com/album/1VU8Yqh6lv2GDJcFxLptn8) | 2:27 | 2025-07-17 | 2025-07-25 |
 | [Bonzeneltern](https://open.spotify.com/track/3h9RWKFJ50an9X3xOhJ54g) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Bonzeneltern](https://open.spotify.com/album/7IEWyYdEviyfbWwRgf7FbJ) | 2:57 | 2025-07-31 |  |
-| [BORN SPINNER](https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [BORN SPINNER](https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8) | 3:03 | 2025-08-07 |  |
+| [BORN SPINNER](https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [BORN SPINNER](https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8) | 3:03 | 2025-08-07 | 2025-09-09 |
 | [BOTTEGA](https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BOTTEGA](https://open.spotify.com/album/1nTDLd7iju1cTk1fiWm5tS) | 2:25 | 2025-07-17 | 2025-08-09 |
 | [Bubblegum](https://open.spotify.com/track/1dW3Cd4MshbzcUSIRktqGz) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Bubblegum](https://open.spotify.com/album/6lXWGv7kjGhyH5IUxASWNs) | 1:51 | 2025-08-28 |  |
 | [BWL](https://open.spotify.com/track/6eBS8edAI8MXMJ1nPKlrUk) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [BWL](https://open.spotify.com/album/0qVVMhGTR9cQcBG2C4FerU) | 3:35 | 2025-07-17 | 2025-07-25 |
@@ -75,6 +75,7 @@
 | [Morgen](https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Morgen](https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp) | 3:10 | 2025-07-17 | 2025-08-09 |
 | [MOVIE](https://open.spotify.com/track/1CSlgSrUz9xQ5onBCay1I2) | [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [MOVIE](https://open.spotify.com/album/0zqZbS2MfrtdZGsZu56l3s) | 2:40 | 2025-07-17 |  |
 | [MS\. FATTY](https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MS\. FATTY](https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv) | 2:31 | 2025-07-17 |  |
+| [NIEMALS GEDACHT](https://open.spotify.com/track/4M7uBg4aK1rXUgRT6bbJPM) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [NUR DAMIT DU WEISST 2](https://open.spotify.com/album/24Oq72JnkdXeUgxZhKRxFr) | 3:07 | 2025-09-08 |  |
 | [OCEAN](https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [OCEAN](https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE) | 2:25 | 2025-08-07 |  |
 | [oOo](https://open.spotify.com/track/6x58eQswkUamSgBR0rxp8m) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [LOLO79](https://open.spotify.com/artist/7xgkElWT6dfv1abAt4cyC6) | [oOo](https://open.spotify.com/album/00RMHijNadRMWrgAtUJwbk) | 2:52 | 2025-07-31 | 2025-08-15 |
 | [PARFUM](https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [PARFUM](https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq) | 2:40 | 2025-07-17 | 2025-09-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlokfnSMeHT.md) - [plain]
 
 > Enjoy the Stray Kids Seoul world tour LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,992 likes - 36 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,706 likes - 36 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

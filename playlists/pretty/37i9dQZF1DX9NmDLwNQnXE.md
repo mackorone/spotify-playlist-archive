@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 
 > Relax to the sound of a storm setting in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,978 likes - 275 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,793 likes - 275 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 138 | [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 |
 | 139 | [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 |
 | 140 | [Breathe Out](https://open.spotify.com/track/5PEATiUtV0CSiIczAYLSUx) | [Michael Pole](https://open.spotify.com/artist/5QOg8xdFwY9ttJgSXlp8Jk) | [Relaxation Storm](https://open.spotify.com/album/6YGgvY6PR6WN4Go2sm5BfK) | 2:02 |
-| 141 | [Calming Rain Sounds](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [Sound FX of Nature](https://open.spotify.com/artist/27nw1ldFoK3yTpcm3BGKcs) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 |
-| 142 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 |
+| 141 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 |
+| 142 | [Calming Rain Sounds](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [Sound FX of Nature](https://open.spotify.com/artist/27nw1ldFoK3yTpcm3BGKcs) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 |
 | 143 | [Storm Is Building Up](https://open.spotify.com/track/13yZWnQQjc3VrHXh16ujky) | [Weather Man](https://open.spotify.com/artist/5znXlYkm0Dv19ioN2utZFv) | [Low Pressure](https://open.spotify.com/album/36Bvfz1AnAQaBYOVZjmf96) | 2:36 |
 | 144 | [Longing for rain](https://open.spotify.com/track/3UGkG7AQidJX6tZs61sO15) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Longing for rain](https://open.spotify.com/album/3UfahjT8MpQBn96FWzGN53) | 2:27 |
 | 145 | [Rain Sky Samples 1](https://open.spotify.com/track/6xIpFNG8oUqoclkjMLEhKu) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Rain Sky Samples](https://open.spotify.com/album/79baeTtmEP140NIkW9JdRY) | 2:52 |
@@ -235,10 +235,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 225 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 |
 | 226 | [Eternal Storm](https://open.spotify.com/track/0QRdzBl9GDhegqN22xI0lz) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Eternal Storm](https://open.spotify.com/album/4AJCJmgWWXCmhkKvnJk24n) | 3:36 |
 | 227 | [Deep Rumble](https://open.spotify.com/track/6VBbtB6SJVmhCnRnqSt9Ec) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Deep Rumble](https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz) | 2:15 |
-| 228 | [Let the Storm Pass](https://open.spotify.com/track/4pi0xQcZkKVpTiLBuxcJYm) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Let the Storm Pass](https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy) | 2:06 |
-| 229 | [Summer Storms](https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp) | [Isamu](https://open.spotify.com/artist/6NzWkEWVUXwO7TTXOEjdP7) | [Cloud Electric](https://open.spotify.com/album/2Bm92hW5xK14uff2UR8K9Y) | 2:39 |
-| 230 | [Stormy Rain](https://open.spotify.com/track/2ovzsu0useW9oyDCoDPxKe) | [DreamDrops](https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za) | [Fairytale Rain](https://open.spotify.com/album/7qZG7K1lwjwOzgRZZeyiPL) | 2:56 |
-| 231 | [Healing Storm](https://open.spotify.com/track/4twYB7FXbZMS5a0e6GN5Tc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Healing Storm](https://open.spotify.com/album/1qH3TM556rYoUusvBU0V1t) | 3:28 |
+| 228 | [Healing Storm](https://open.spotify.com/track/4twYB7FXbZMS5a0e6GN5Tc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Healing Storm](https://open.spotify.com/album/1qH3TM556rYoUusvBU0V1t) | 3:28 |
+| 229 | [Let the Storm Pass](https://open.spotify.com/track/4pi0xQcZkKVpTiLBuxcJYm) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Let the Storm Pass](https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy) | 2:06 |
+| 230 | [Summer Storms](https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp) | [Isamu](https://open.spotify.com/artist/6NzWkEWVUXwO7TTXOEjdP7) | [Cloud Electric](https://open.spotify.com/album/2Bm92hW5xK14uff2UR8K9Y) | 2:39 |
+| 231 | [Stormy Rain](https://open.spotify.com/track/2ovzsu0useW9oyDCoDPxKe) | [DreamDrops](https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za) | [Fairytale Rain](https://open.spotify.com/album/7qZG7K1lwjwOzgRZZeyiPL) | 2:56 |
 | 232 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 |
 | 233 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 |
 | 234 | [Pouring Some Thunder](https://open.spotify.com/track/64dYaCKeQk2Dki02HFoWOi) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Pouring Some Thunder](https://open.spotify.com/album/320FxgsXWekHkC6tuCJE6Z) | 2:50 |
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 254 | [Coastal Thunderstorm](https://open.spotify.com/track/3cwiM6XTcRivq8bIMa6lJZ) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Tranquil Rain Sounds](https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS) | 2:32 |
 | 255 | [Go With the Flow](https://open.spotify.com/track/4hcuR9G66aV0v53j8fVLuE) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:13 |
 | 256 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 |
-| 257 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 |
-| 258 | [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 |
+| 257 | [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 |
+| 258 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 |
 | 259 | [Relaxing Forest Clappering](https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp) | [Emotion Noise](https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 2:27 |
 | 260 | [Stormy Winds](https://open.spotify.com/track/6x8Ht8WoIxNNi3dhZn2skp) | [Lumo](https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK) | [Storm Therapy Session 1](https://open.spotify.com/album/5Q2Y7RUwMIoRsDeQz785tm) | 2:58 |
 | 261 | [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 |

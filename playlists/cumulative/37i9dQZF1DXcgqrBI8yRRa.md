@@ -2,7 +2,7 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> SIYENZE NJANI??
+> As heard on the FYP\.  Cover: Love is Eazi
 
 875 songs - 2 day 1 hr 12 min
 

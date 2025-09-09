@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-175 songs - 10 hr 33 min
+177 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-07-04 |  |
 | [Butterfly](https://open.spotify.com/track/1wMWUyEEPNqKW5sVOZKUOk) | [Joshua](https://open.spotify.com/artist/3WEyV00BslpJ11cnVmJaJx) | [Your Questions, My Answers](https://open.spotify.com/album/0EhxVCLBEpfhTPEL7GbZYk) | 3:01 | 2022-07-04 |  |
 | [Can't Hold You](https://open.spotify.com/track/1w5EcRVPlydRogxrmrQpvY) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [From the day we loved to the day we said goodbye](https://open.spotify.com/album/06NnMNvwMAgpuznCmaKHzC) | 3:42 | 2022-11-01 |  |
+| [Closer To You](https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Closer To You](https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO) | 2:55 | 2025-09-08 |  |
 | [Daydreaming](https://open.spotify.com/track/1hOahzGzbUO28mcIfHWhOE) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:22 | 2024-03-08 |  |
 | [Daydreaming](https://open.spotify.com/track/6xHK3zWW1AwpRQbsOuc4f0) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ryXl7IIN877fqTwfalFwT) | 3:22 | 2022-07-04 | 2024-04-19 |
 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/5uDOFfun6IFetdabIi7n01) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 | 2023-11-02 |  |
@@ -121,6 +122,7 @@
 | [Sad Ending](https://open.spotify.com/track/78APQTb2q1QA0hLNxwOgYj) | [Haku](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/3qfh85jIr3P7G6lS9S8WaK) | 3:15 | 2022-07-04 |  |
 | [Sad Ending](https://open.spotify.com/track/2GlWK4iniHxyFvVSWYsC4j) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/5ZgWAPNaBkkZ6huR1caLv3) | 3:15 | 2023-08-05 | 2024-04-19 |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-08-05 |  |
+| [Say Yes](https://open.spotify.com/track/5T4nddv8CILpP0L4hrJPsZ) | [ZIWOO](https://open.spotify.com/artist/6K2BIZB567KHNAVN36iMCT) | [Say Yes](https://open.spotify.com/album/27laGXIddGGuTMLBaARGJc) | 3:18 | 2025-09-08 |  |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-04 | 2024-04-19 |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2024-03-08 |  |
 | [Shining, My 2006](https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [2006](https://open.spotify.com/album/6lumjI581TEGHeTviSikrm) | 4:49 | 2022-07-04 |  |

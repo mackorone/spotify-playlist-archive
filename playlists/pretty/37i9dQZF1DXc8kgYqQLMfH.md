@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,803 likes - 149 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,494 likes - 149 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 19 | [Blume](https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Blume](https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B) | 2:34 |
 | 20 | [florale](https://open.spotify.com/track/2CZf8wYy8bkDYDnEyBiA2J) | [jean opal](https://open.spotify.com/artist/4vSheQ1c3KW4v7MOrPE7ql) | [florale](https://open.spotify.com/album/6B8hAqpnaGr72Ve6OQJwLL) | 2:22 |
 | 21 | [Drifting](https://open.spotify.com/track/0CCvZTfKcwHvC1oiNqfxrJ) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Drifting](https://open.spotify.com/album/0ti1e5rTEzrzxqR5lXftEg) | 2:09 |
-| 22 | [growing still](https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [growing still](https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx) | 2:46 |
-| 23 | [water lilies](https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [water lilies](https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa) | 2:42 |
-| 24 | [no ones around me](https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [no ones around me](https://open.spotify.com/album/4qawotHp9FiLYtTW9bmqBG) | 2:14 |
+| 22 | [no ones around me](https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [no ones around me](https://open.spotify.com/album/4qawotHp9FiLYtTW9bmqBG) | 2:14 |
+| 23 | [growing still](https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [growing still](https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx) | 2:46 |
+| 24 | [water lilies](https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [water lilies](https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa) | 2:42 |
 | 25 | [4:40 Am](https://open.spotify.com/track/2v0GqtA4G9tGqx13rtDs4h) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [4:40 Am](https://open.spotify.com/album/3wLlEK9Hfynb0tnMzhUm0D) | 1:52 |
-| 26 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
-| 27 | [Five](https://open.spotify.com/track/512iuZfygeaybuoakIeXiN) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Five](https://open.spotify.com/album/5I9bGprKarAioPswkOAkjG) | 2:35 |
+| 26 | [Five](https://open.spotify.com/track/512iuZfygeaybuoakIeXiN) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Five](https://open.spotify.com/album/5I9bGprKarAioPswkOAkjG) | 2:35 |
+| 27 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
 | 28 | [moonlit](https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [moonlit](https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ) | 2:42 |
 | 29 | [Hidden Cataract](https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Hidden Cataract](https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr) | 3:03 |
 | 30 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 107 | [Street Corner](https://open.spotify.com/track/520PlbPkPfid9BLZykHs0t) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Street Corner](https://open.spotify.com/album/57FwtUtghQ1fi0CcDm5QC7) | 2:17 |
 | 108 | [Sensations](https://open.spotify.com/track/3rXKDTaZe8U8RVeSL88eJ4) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Sensations](https://open.spotify.com/album/3SIkmz1TSE0ReBKTZZ9x3E) | 2:39 |
 | 109 | [Shimmer](https://open.spotify.com/track/79FvTJvLURJtsgbaD0JbEx) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Shimmer](https://open.spotify.com/album/2EdLiIm0Gr8wkimnQJwtvX) | 2:48 |
-| 110 | [Under The Waters](https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Under The Waters](https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN) | 1:56 |
-| 111 | [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 |
+| 110 | [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 |
+| 111 | [Under The Waters](https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Under The Waters](https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN) | 1:56 |
 | 112 | [Damped Clocks](https://open.spotify.com/track/4AOj72u1p1cJeVEq8HqnCK) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [Alex Wars](https://open.spotify.com/artist/54lWa7qI424Ib2ZakrIDDg) | [Damped Clocks](https://open.spotify.com/album/4HdH4uBnMQ2igE2MTPbTfX) | 2:13 |
 | 113 | [Tadar](https://open.spotify.com/track/3bbzTSD6TSfjbn6kiWOogR) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:49 |
 | 114 | [The Snake](https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [The Snake](https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi) | 2:08 |

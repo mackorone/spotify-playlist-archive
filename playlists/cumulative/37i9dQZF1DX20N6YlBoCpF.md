@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Appel, Irene\-Louise Van Wyk, Dassie, GSTRiNG en meer!
 
-1,990 songs - 4 day 14 hr 45 min
+1,994 songs - 4 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,6 +599,7 @@
 | [Frikkie vir 'n Rukkie](https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Frikkie vir 'n Rukkie](https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj) | 2:55 | 2023-06-29 | 2023-09-15 |
 | [Gap\-jaar](https://open.spotify.com/track/7L0bZEC2dibboyXfBEkUTw) | [Lila Swift](https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo) | [Gap\-jaar](https://open.spotify.com/album/2cUskcQeTMY7yfKXdX6YDQ) | 3:17 | 2023-03-16 | 2023-04-07 |
 | [Gat In Jou Sak](https://open.spotify.com/track/2rYnthFlKKbV2VHhaQW7BF) | [JACOBUS](https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt) | [Gat In Jou Sak](https://open.spotify.com/album/5k0M1lOOTdkiRSDhusuMTg) | 3:30 | 2025-05-15 | 2025-06-13 |
+| [Gatiep en Meraai](https://open.spotify.com/track/0COQDz0HFwXrOerTj8iI1I) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Gatiep en Meraai](https://open.spotify.com/album/6YJBEyDMoMREYcIYyKeG3F) | 3:20 | 2025-09-08 |  |
 | [Gebore om 'n wenner te wees](https://open.spotify.com/track/2CgOzOuC5ur0xC9HLPIC03) | [André Van Wyngaardt](https://open.spotify.com/artist/37zpTgPGK8vPj3PLrGVmNk) | [Gebore om 'n wenner te wees](https://open.spotify.com/album/748o2xaIsukmJ4wgqz9U7L) | 2:18 | 2025-02-27 | 2025-03-07 |
 | [Gebore Om Te Wen](https://open.spotify.com/track/3Zn4nlL5dgsfA4GG0wrYXu) | [Edinia Citwa](https://open.spotify.com/artist/2HwyPcgBWoAwDaEkodDOpD) | [Gebore Om Te Wen](https://open.spotify.com/album/1G8cVdY7OedxhDPoE5DCwg) | 2:59 | 2025-06-19 | 2025-06-27 |
 | [Gebore Vir Kuns](https://open.spotify.com/track/2tgxEdHbSnieZ0oDvwwHuh) | [Ruan Jordaan](https://open.spotify.com/artist/4U1HGpCBaswacsIq1KwkY1) | [Gebore Vir Kuns](https://open.spotify.com/album/2oRLjH4iZAXhpKZAxvEZbG) | 3:57 | 2023-06-29 | 2023-07-14 |
@@ -622,6 +623,7 @@
 | [Ghost Rider](https://open.spotify.com/track/7yY19ftTx7KgHBnAvpWBXx) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Ghost Rider](https://open.spotify.com/album/0LDEZkdEjgsc4xyvWtEuY6) | 2:37 | 2025-04-10 | 2025-04-25 |
 | [Gister Is Vandag Se Gewete](https://open.spotify.com/track/1s9cuJPl1fnExdldYifWoR) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Gister Is Vandag Se Gewete](https://open.spotify.com/album/7qsoPGoW46cvRpMzabHLIW) | 4:18 | 2023-11-30 | 2023-12-15 |
 | [Gisteraand](https://open.spotify.com/track/5BXyxGP29VxbOIopmOpdBN) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:24 | 2023-12-29 | 2024-01-06 |
+| [Gita Blom](https://open.spotify.com/track/4rpjCRMOJCQz1csklMnf1l) | [Gian Groen](https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg) | [Gita Blom](https://open.spotify.com/album/2DwK877p4Z4Uj5dL4TTjvw) | 3:55 | 2025-09-08 |  |
 | [Glaskas](https://open.spotify.com/track/0ttom5DU6qAvHvguRtJoTT) | [SHY!](https://open.spotify.com/artist/7lsZGTHjhhQdoxIeBkiKAh) | [Glaskas](https://open.spotify.com/album/0XuhJ748EIr3zBJdTKJH4g) | 3:34 | 2024-04-18 | 2024-05-10 |
 | [Glinster](https://open.spotify.com/track/2CtGNWXqUIVpHG8ykYYwgS) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Sosiale Kwessies](https://open.spotify.com/album/2wbNkr4K3mNDeosWdE492M) | 3:07 | 2024-07-04 | 2024-07-27 |
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 | 2022-10-28 |
@@ -640,6 +642,7 @@
 | [Gooi Mielies](https://open.spotify.com/track/5Tub26jRC56EaTXb7mCz3C) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Al Die Ysters](https://open.spotify.com/album/69iTs5usYIqkK6VHgBdh0H) | 3:33 | 2022-12-27 | 2023-01-02 |
 | [Gravitasie](https://open.spotify.com/track/3L1P70FX3retz1KLQO6ZRM) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ), [SAMPAULE](https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8) | [Gravitasie](https://open.spotify.com/album/53RW8Y057HZRb4xmmo6JiN) | 2:34 | 2024-04-04 | 2024-04-12 |
 | [Groeipyne \(feat\. Die Piesangskille\)](https://open.spotify.com/track/2G6OnOnHviWZy9LPl38wyw) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Groeipyne \(feat\. Die Piesangskille\)](https://open.spotify.com/album/2twBO549njTa165ndnDqIK) | 2:42 | 2024-10-10 | 2024-12-13 |
+| [Groen Radio](https://open.spotify.com/track/1KZBgmpGw1rNBP0pb8jprd) | [Simeon Kriel](https://open.spotify.com/artist/6gMmN8h1L9X9H6dVllgltp), [Alleen Na Desember](https://open.spotify.com/artist/3Rsnw9ucAh383CLWoZip5w) | [Alleen Na Desember](https://open.spotify.com/album/1ixpbY9HFzlzR2s0QUP39Y) | 3:30 | 2025-09-08 |  |
 | [Groenlig](https://open.spotify.com/track/02LfA4rOmSeVgk9koPe3y9) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Groenlig](https://open.spotify.com/album/7x5N6Oh2It2xKLGjhq6r7h) | 3:23 | 2023-10-26 | 2023-11-17 |
 | [Grondboontjiebotter](https://open.spotify.com/track/1h23aEgO97G14Mhz9KCX8r) | [Tuimeltrein](https://open.spotify.com/artist/5FZPyeJJIsm4Js3HqzXNJR) | [Grondboontjiebotter](https://open.spotify.com/album/2Xoe7TR3avw0S1GieIDeG4) | 3:51 | 2024-05-16 | 2024-06-14 |
 | [Grondpad \(Remix\)](https://open.spotify.com/track/517fb3CYQCiAPhuL8VvlcT) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Grondpad \(Remix\)](https://open.spotify.com/album/1wU228hicQzgnixAB3Kjiw) | 3:45 | 2023-02-16 | 2023-02-24 |
@@ -1760,6 +1763,7 @@
 | [Tyd](https://open.spotify.com/track/32CqbE1RpPOyNI4yTav0Pf) | [Richann Brüssow](https://open.spotify.com/artist/6Oj09J13TIKZrR0n18DAom) | [Tyd](https://open.spotify.com/album/7xc6c49t6VPbvKGqfFGM1A) | 3:42 | 2025-05-08 | 2025-06-13 |
 | [Tyd](https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Klein Wêreld](https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A) | 3:38 | 2023-07-13 | 2023-07-21 |
 | [Tyd Om Te Groet](https://open.spotify.com/track/22CVV1ydVrq7FDrpy2z0oc) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds) | [Tyd Om Te Groet](https://open.spotify.com/album/3qCakDS2gUbw9UHC1cjcl7) | 3:49 | 2024-10-10 | 2024-11-01 |
+| [Tyd Vir Als](https://open.spotify.com/track/0X3W61A8VZrLramtdy52A1) | [Leo Sonskyn](https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu) | [Tyd Vir Als](https://open.spotify.com/album/23t9CIbgwDPv6Bo0tQO9mQ) | 3:42 | 2025-09-08 |  |
 | [Tydbom](https://open.spotify.com/track/6t7k0sK7VRK6uwch22bCqv) | [Alba Vorster](https://open.spotify.com/artist/6uj3llpVrZTu3fOoicbkS6), [Janie Bay](https://open.spotify.com/artist/4ozFrkAkEFTl723Z9u5aHy) | [Tydbom](https://open.spotify.com/album/0zgLTTxBqjYyqJHxG8sPyO) | 2:53 | 2023-12-08 | 2024-01-26 |
 | [tydjie\-roer\-my\-nie](https://open.spotify.com/track/3dE7Dp2WMkoiLOsl06jge8) | [lfde.](https://open.spotify.com/artist/0LQNg2BnNjABDnzkNrRkO3) | [tydjie\-roer\-my\-nie](https://open.spotify.com/album/48Z2PP0RvxbaTrS6OX0WXb) | 2:52 | 2024-04-25 | 2024-05-10 |
 | [Tydloos](https://open.spotify.com/track/5rAsPBK1KpPgI9kKFv5lpV) | [Dihandri](https://open.spotify.com/artist/5reNv6Cu8TwdDummDRisdI) | [Tydloos](https://open.spotify.com/album/6EKUmZzOH1I1gn4OuqkkFs) | 2:18 | 2023-04-27 | 2023-05-12 |

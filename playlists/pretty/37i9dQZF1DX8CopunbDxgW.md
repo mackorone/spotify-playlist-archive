@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > we're loving this new Cut Copy album ✂️ ❤️ it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,434 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,224 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Green Lights](https://open.spotify.com/track/2Ei88nNdS8u8U7W2eDQ9ht) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Green Lights](https://open.spotify.com/album/07tMXxjf1ldSFWcS86a5bM) | 3:27 |
 | 100 | [Broken Dreams](https://open.spotify.com/track/6jBwae7P8LQKjEvdaddgLU) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Peter and Kerry](https://open.spotify.com/artist/1rF521dtu6ReJEyMureStC) | [Broken Dreams](https://open.spotify.com/album/7ErN0dBIRuQt76VwbXyfK3) | 2:34 |
 
-Snapshot ID: `AAAAAGX6tNNReNdgI5gqLgclhJeH4vSy`
+Snapshot ID: `AAAAAAPV2YISZ8ZnrZIO9isfGidQm03k`

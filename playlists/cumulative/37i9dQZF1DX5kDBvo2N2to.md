@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-393 songs - 21 hr 5 min
+395 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Ce Soir?](https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Ce Soir?](https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1) | 3:18 | 2024-08-22 | 2024-11-09 |
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-28 | 2024-09-20 |
 | [Cold As Ice](https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cold As Ice](https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO) | 3:30 | 2025-01-16 | 2025-06-27 |
-| [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-15 |  |
+| [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-15 | 2025-09-09 |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-28 | 2024-08-16 |
 | [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 | 2025-03-09 |
 | [Damned](https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Damned](https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn) | 2:34 | 2025-09-04 |  |
@@ -195,6 +195,7 @@
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-10-24 | 2025-03-21 |
 | [In My Feelings](https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N) | [Shenie Fogo](https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy) | [In My Feelings](https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5) | 3:04 | 2024-08-15 | 2024-09-22 |
 | [In Terms Of You](https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [In Terms Of You](https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW) | 2:30 | 2025-06-26 | 2025-07-15 |
+| [IN YOUR BLUE](https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [4Eternity](https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1) | 2:16 | 2025-09-04 |  |
 | [INATT IGEN](https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [INATT IGEN](https://open.spotify.com/album/4w83t50g9487UwORpDiCOh) | 2:19 | 2025-03-27 |  |
 | [Inge mer fun](https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Inge mer fun](https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m) | 4:01 | 2024-06-28 | 2024-08-23 |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-28 | 2024-08-30 |
@@ -304,6 +305,7 @@
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2025-04-25 |
 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 | 2025-01-17 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-07-31 |  |
+| [Same Old Dirt](https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Same Old Dirt](https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM) | 3:06 | 2025-09-04 |  |
 | [Samma gamla visa](https://open.spotify.com/track/5jTrzpI1DiIoTscfjiaXh4) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Samma gamla visa](https://open.spotify.com/album/462nFJ44ve1KbMzotNYWep) | 3:13 | 2025-05-08 | 2025-07-07 |
 | [Samma Sak](https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Samma Sak](https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW) | 2:29 | 2024-10-24 | 2025-05-30 |
 | [Scenic Route](https://open.spotify.com/track/4QgU8OOYkBIgCtL7b2PWCT) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Scenic Route](https://open.spotify.com/album/5pY9QTvDI1YZ7NORuL6qqS) | 3:43 | 2024-10-24 | 2025-01-10 |
@@ -350,7 +352,7 @@
 | [Svårt](https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Svårt](https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9) | 2:59 | 2025-06-12 |  |
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-19 | 2025-04-25 |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 | 2025-05-09 |
-| [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 | 2025-06-19 |  |
+| [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 | 2025-06-19 | 2025-09-09 |
 | [Ta honom](https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Ta honom](https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4) | 2:08 | 2025-07-31 |  |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-28 | 2025-04-18 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-13 | 2025-04-25 |

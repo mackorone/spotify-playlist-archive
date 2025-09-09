@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: El Michels Affair
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,421 likes - 188 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,381 likes - 188 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

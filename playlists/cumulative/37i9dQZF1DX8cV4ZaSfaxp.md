@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-388 songs - 23 hr 50 min
+390 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Line](https://open.spotify.com/track/0cDFJrzqAHigqpxRQH4Inq) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Line](https://open.spotify.com/album/1th3Qqi0o1gFS22ArZTOt2) | 3:55 | 2022-05-11 | 2022-07-17 |
 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 | 2022-05-11 |  |
 | [Live In Sunset](https://open.spotify.com/track/70cXtcSahvPBsnGZ4pj5m1) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Let Me Dive Into This Moment](https://open.spotify.com/album/2fjEagdPnRw9CpjStW75y1) | 3:24 | 2022-05-11 | 2022-07-24 |
-| [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 | 2024-04-19 |  |
+| [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 | 2024-04-19 | 2025-09-09 |
 | [Lonely Night](https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1) | [JuJu Secret](https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9) | [Lonely Night](https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg) | 3:14 | 2023-03-28 |  |
 | [Lonesome](https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv) | [zai.ro](https://open.spotify.com/artist/6HbvERy3ULYCot6g8Sp2ol) | [Lonesome](https://open.spotify.com/album/3Yz8zD0Uw4x3PfvCeLhAYC) | 4:51 | 2022-05-11 | 2022-07-29 |
 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 | 2022-05-11 | 2025-05-09 |
@@ -301,6 +301,7 @@
 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 | 2022-07-22 |  |
 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 | 2022-05-11 |  |
 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 | 2022-07-22 |  |
+| [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 | 2025-09-08 |  |
 | [Step By Step](https://open.spotify.com/track/1DSDmBpBFHObaeKo1WTstK) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:29 | 2025-05-16 |  |
 | [Still Remains](https://open.spotify.com/track/0us4oVyisqSbMZjADF7iXt) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Still Remains](https://open.spotify.com/album/1aOhL5p8upjGvwWVTYta2O) | 3:17 | 2025-06-19 | 2025-07-21 |
 | [Submarine \(K\)](https://open.spotify.com/track/1sCaM4p8zmxv6H3YPHXfEE) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/6z9lCCimp8FEG6az48jEik) | 3:46 | 2022-05-11 | 2022-07-29 |
@@ -308,6 +309,7 @@
 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 | 2022-07-22 | 2024-04-19 |
 | [Suddenly Digging Club Seoul Version](https://open.spotify.com/track/03Ge4c8LmFTq95vjxc5iYq) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/6TpfVMxQlg9WFYJWIZy7cA) | 4:12 | 2022-05-11 | 2022-07-29 |
 | [summer blossom](https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [summer blossom](https://open.spotify.com/album/2o2I9habr191db2ke30BAx) | 3:28 | 2022-05-11 | 2024-09-13 |
+| [summer loop](https://open.spotify.com/track/3VYmsStRNFYMDj7OcrcMPW) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [summer loop](https://open.spotify.com/album/1jpTQORwEXoGLrhoQkiNpD) | 4:36 | 2025-09-08 |  |
 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 | 2023-05-05 | 2024-01-25 |
 | [SUMMER LOVE…](https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu) | 4:10 | 2022-08-12 | 2022-11-13 |
 | [SUMMER LOVE…](https://open.spotify.com/track/2RfnRrDzHrrlHwkNDmhbYU) | [CSVC 치스비치](https://open.spotify.com/artist/3giVZjriL2C3Gn798Eciez), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [SUMMER LOVE…](https://open.spotify.com/album/1gquEqskA7QSxOnxeXZoY8) | 4:10 | 2022-05-11 | 2022-07-29 |
@@ -348,7 +350,7 @@
 | [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 | 2025-04-24 |  |
 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-11 | 2022-07-29 |
 | [Vivid LaLa Love](https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 4:00 | 2025-07-17 |  |
-| [Want U 2 Know](https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Want U 2 Know](https://open.spotify.com/album/0bO9A3V6xf4LFqwFSB7XWY) | 4:13 | 2025-02-14 |  |
+| [Want U 2 Know](https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Want U 2 Know](https://open.spotify.com/album/0bO9A3V6xf4LFqwFSB7XWY) | 4:13 | 2025-02-14 | 2025-09-09 |
 | [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 | 2024-04-19 |  |
 | [What′re you doing tonight?](https://open.spotify.com/track/7yNjqinAMvuduSc5q99ePd) | [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [What're you doing tonight? \(Minyoung X Blooming project\)](https://open.spotify.com/album/4mcCilXiRvmf5z78w06NyU) | 3:11 | 2025-07-10 |  |
 | [When My Loneliness Calls You](https://open.spotify.com/track/1wV9pJyx8kCoB20nbRI3R5) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/33o1YsuLhGhY1HCq6TKd9X) | [When My Loneliness Calls You \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/2H4grijt12bvvaeJyLcXCc) | 4:17 | 2022-05-11 | 2022-07-29 |

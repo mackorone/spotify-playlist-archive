@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Medium Build
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,372,449 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371,773 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,9 +132,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 122 | [Constantinople](https://open.spotify.com/track/3y0p22Pm8cYqdarysqbkzC) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF) | [Constantinople](https://open.spotify.com/album/7ErjZ7TCyUNUkoD9vYdJgd) | 2:51 |
 | 123 | [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 |
 | 124 | [Birds Will Fall](https://open.spotify.com/track/6JVhkuPp4Q93VsAZkmPOhK) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Birds Will Fall](https://open.spotify.com/album/0DRrjOZDZjGrBNXyakFQVC) | 4:10 |
-| 125 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
-| 126 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
-| 127 | [I Imagine You Are Happy](https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [I Imagine You Are Happy](https://open.spotify.com/album/3aEZw35iy4byUNEc6vcK25) | 3:37 |
+| 125 | [I Imagine You Are Happy](https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [I Imagine You Are Happy](https://open.spotify.com/album/3aEZw35iy4byUNEc6vcK25) | 3:37 |
+| 126 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
+| 127 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
 | 128 | [Sylvia](https://open.spotify.com/track/0dLFlKIw6up52Aftqd88Mx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sylvia](https://open.spotify.com/album/1PqBRShBcNCi2gKM7CHfd5) | 2:20 |
 | 129 | [colour in life](https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [colour in life](https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A) | 4:48 |
 | 130 | [Mecca](https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 4:51 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 142 | [Seed \- In Bloom](https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi), [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Seed \(In Bloom\)](https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB) | 2:37 |
 | 143 | [Dizzy Spin](https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 4:45 |
 | 144 | [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 |
-| 145 | [Real Life](https://open.spotify.com/track/5DXmEcaXQFVofJg7Wv0zGi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [If Only I Knew, Pt\. 1](https://open.spotify.com/album/6ysHDsq5wXeI4zCC93tRrI) | 4:10 |
-| 146 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 |
+| 145 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 |
+| 146 | [Real Life](https://open.spotify.com/track/5DXmEcaXQFVofJg7Wv0zGi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [If Only I Knew, Pt\. 1](https://open.spotify.com/album/6ysHDsq5wXeI4zCC93tRrI) | 4:10 |
 | 147 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 | 148 | [Second Sun](https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm) | [Jodie Nicholson](https://open.spotify.com/artist/3UKeJqND3iyFxGOUPLq9Be) | [Second Sun](https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak) | 5:00 |
 | 149 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 |

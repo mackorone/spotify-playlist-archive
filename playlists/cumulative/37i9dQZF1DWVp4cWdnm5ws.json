@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2025. Cover: Justin Vasquez\n",
+  "description": "Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from the Philippines!",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD"
+    },
+    {
+      "album": {
         "name": "Blah Blah",
         "url": "https://open.spotify.com/album/31kpkJ759PVIOlUOZEONrR"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 192380,
       "name": "Dilaw",
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
@@ -1468,6 +1486,24 @@
       "duration_ms": 252456,
       "name": "Gayuma",
       "url": "https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe"
+    },
+    {
+      "album": {
+        "name": "PAGTATAG!",
+        "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232621,
+      "name": "GENTO",
+      "url": "https://open.spotify.com/track/6RYhIHur2unkQv28fcinNO"
     },
     {
       "album": {
@@ -2046,6 +2082,24 @@
       "duration_ms": 191009,
       "name": "Ikaw Pa Rin",
       "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
+    },
+    {
+      "album": {
+        "name": "7th Sense",
+        "url": "https://open.spotify.com/album/6fLn0CW5g9nLSplYDfomyl"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/61ZPj8acfZj0H6zGxkr6K4"
     },
     {
       "album": {
@@ -2688,7 +2742,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
@@ -2934,7 +2988,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
@@ -3302,7 +3356,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 225466,
       "name": "Pantropiko",
       "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
@@ -3414,6 +3468,32 @@
       "duration_ms": 255810,
       "name": "Pasahili (para sa hindi pinili)",
       "url": "https://open.spotify.com/track/2VHGzij5109MdX6PJDsMuO"
+    },
+    {
+      "album": {
+        "name": "bahay namin maliit lamang",
+        "url": "https://open.spotify.com/album/6b7JoLvVTnTzqqyUcKmrjp"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        },
+        {
+          "name": "Unotheone",
+          "url": "https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc"
+        },
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190562,
+      "name": "pasulyap-sulyap",
+      "url": "https://open.spotify.com/track/1emtJRLd5henLeHVOQnOyI"
     },
     {
       "album": {
@@ -4100,7 +4180,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
@@ -4420,6 +4500,24 @@
       "duration_ms": 189717,
       "name": "Takaw Tingin",
       "url": "https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF"
+    },
+    {
+      "album": {
+        "name": "TAKE ALL THE LOVE",
+        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "TAKE ALL THE LOVE",
+      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
     },
     {
       "album": {

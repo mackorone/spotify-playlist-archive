@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n De Oro: Mis Mejores Corridos, Vol. 1",
+        "url": "https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161343,
+      "name": "Corrido De Rosalino",
+      "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
+    },
+    {
+      "album": {
         "name": "Chalino S\u00e1nchez Canta Corridos Al Estilo Culiac\u00e1n",
         "url": "https://open.spotify.com/album/23yzFm7WENzQArdhWNGoQK"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 218673,
       "name": "Por Una Rencilla Vieja",
       "url": "https://open.spotify.com/track/2CMcLBaFgUFVkMeHnyhNGR"

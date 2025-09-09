@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BUNT., The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,405 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,360 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 34 | [When It Kicks](https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [When It Kicks](https://open.spotify.com/album/04ybXlfPtu2JdmXOrI2yTG) | 3:20 |
 | 35 | [Make a Livin'](https://open.spotify.com/track/4MmW5ztOkunJHFQoTZRNP7) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W), [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB) | [Make a Livin'](https://open.spotify.com/album/6L8IwjcSK33WVwYZjTQUT5) | 2:49 |
 | 36 | [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 |
-| 37 | [Akasha](https://open.spotify.com/track/2Skgxo0g8xcXzqJyspPzq1) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF) | [Elements Of Africa](https://open.spotify.com/album/11rX2GUJfDJeeQ8v8ch625) | 3:41 |
+| 37 | [Akasha](https://open.spotify.com/track/2Skgxo0g8xcXzqJyspPzq1) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF) | [](https://open.spotify.com/album/null) | 3:41 |
 | 38 | [Lovesick](https://open.spotify.com/track/75pu8WH3GrYAEZzjjAAMmI) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Lovesick](https://open.spotify.com/album/1OB3GavKPH14lqhRHAMmX7) | 2:20 |
 | 39 | [Sound Vibrate](https://open.spotify.com/track/5DppI12CQjr4C3skiU7jfG) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Sound Vibrate](https://open.spotify.com/album/1aviL7sKxs6tr5hjp9jtGb) | 4:08 |
 | 40 | [Lost In The Feeling](https://open.spotify.com/track/2kd4ZH9lnGrbK2TitSAcgu) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Lost In The Feeling](https://open.spotify.com/album/08D9OBoc7YxJcga9YZz6LZ) | 3:16 |

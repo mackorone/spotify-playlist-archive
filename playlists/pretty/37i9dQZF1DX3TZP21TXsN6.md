@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Rz, Nafas, Def en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,577 likes - 36 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,556 likes - 36 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 35 | [IJskoud Affiliated](https://open.spotify.com/track/6Fdzhh2rgpGHC1HK3qOrBq) | [W19](https://open.spotify.com/artist/5016jZ4DoKPDuKy5xZyUpU), [PB](https://open.spotify.com/artist/2TnfeQKbvmQMhIb3XK0rkJ), [Gina](https://open.spotify.com/artist/0Uk9zTPdKWZxctyvybqRkI), [Jaïr](https://open.spotify.com/artist/6vG755giuevRw6BkA3ZQLB) | [IJskoud Affiliated](https://open.spotify.com/album/2eSiJDAIPajc0U3M78pYbP) | 3:04 |
 | 36 | [GUCCI TAS](https://open.spotify.com/track/7MVUH7OApPNjZI4rbuSeAO) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [GUCCI TAS](https://open.spotify.com/album/2G3bjDMjIW3yLRP7piQWIW) | 3:30 |
 
-Snapshot ID: `AAAAAIveRdhAR/Hj4E3WWsk1rsOh+vFy`
+Snapshot ID: `AAAAAEAVeejbtzkS719H9Un/DPG+ILhP`

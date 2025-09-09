@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > Takeover: Candelabrum Metal Fest 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,548 likes - 120 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,495 likes - 120 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 77 | [Only the Brave](https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Tygers of Pan Tang](https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO) | 5:03 |
 | 78 | [Damnation/Onslaught \(Power from Hell\)](https://open.spotify.com/track/6WIvaXHYjD176dVAvnj7kI) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Power from Hell](https://open.spotify.com/album/5HF361yRizBaO5yE3OkBh6) | 5:21 |
 | 79 | [The Blade](https://open.spotify.com/track/4q5uxbEKHg7EvpXrOYGVBU) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Blood Offerings](https://open.spotify.com/album/0hpGhj6drVKP0wOEQ6vR9g) | 5:55 |
-| 80 | [Still Burns in Fire \- Remastered](https://open.spotify.com/track/1W3jlTrbYVvzuHmtw2MLFg) | [Pyogenesis](https://open.spotify.com/artist/6bGNUCfRbd1JkMqRsYTURk) | [Ignis Creatio \- The Creation of Fire \(20th Anniversary Edition\)](https://open.spotify.com/album/2uImb3NmkLzjrj7CFOTRfK) | 6:24 |
+| 80 | [Still Burn in Fire \- Remastered](https://open.spotify.com/track/1W3jlTrbYVvzuHmtw2MLFg) | [Pyogenesis](https://open.spotify.com/artist/6bGNUCfRbd1JkMqRsYTURk) | [Ignis Creatio \- The Creation of Fire \(20th Anniversary Edition\)](https://open.spotify.com/album/2uImb3NmkLzjrj7CFOTRfK) | 6:24 |
 | 81 | [Spellbound](https://open.spotify.com/track/4DKEW5ZfwDAVuHt4xnAvhD) | [A Canorous Quintet](https://open.spotify.com/artist/2Ckpbo5shtUafg3Sqd5Odf) | [Silence Of The World Beyond](https://open.spotify.com/album/4gPOBx8lYCM7iF65v1nHFJ) | 3:45 |
 | 82 | [Iron Witch](https://open.spotify.com/track/0y5J5gjAwO5a7AyMRUaxLy) | [Split Heaven](https://open.spotify.com/artist/1FwqOes5j6yr8rfbupcpJp) | [Psycho Samurai](https://open.spotify.com/album/54CxWtPlwpKpY7iRcuf3Hq) | 4:43 |
 | 83 | [Glorious Moments](https://open.spotify.com/track/3uZkyOLPgW6bL27lFd0blI) | [Black Hate](https://open.spotify.com/artist/1YK9suOewtPHgPf3DbMbQG) | [The Glorious Moments](https://open.spotify.com/album/17rJ7ob5D19BPmHfzU74cj) | 8:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,009 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,979 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 67 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 68 | [Hund und Katze](https://open.spotify.com/track/75wYu5BBtsTFp6yaguVJO3) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Unter meinem Bett 6](https://open.spotify.com/album/5T56fAdOETGPwEWYReIesL) | 3:57 |
 | 69 | [Sommerbrille](https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Sommerbrille](https://open.spotify.com/album/42Zwv4MVwF55fo7GAjPtgO) | 2:36 |
-| 70 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
+| 70 | [Raumschiff](https://open.spotify.com/track/0LqVqtvi6cnPEIOpxIVN1I) | [Anton](https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte), [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [Raumschiff](https://open.spotify.com/album/0RvaLDbmx9L8P3gLvQU69N) | 3:03 |
 
 Snapshot ID: `AAAAAL879AKLjxguEczm31TUV8oBj77n`

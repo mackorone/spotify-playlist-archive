@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Benjamin Amaru
 
-394 songs - 20 hr 20 min
+395 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 | 2024-06-27 | 2024-07-16 |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 |  |
 | [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 | 2024-09-13 |  |
-| [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-05-22 |  |
+| [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-05-22 | 2025-09-09 |
 | [Power](https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Power](https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D) | 2:44 | 2025-04-05 |  |
 | [POWERTRIP!](https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [POWERTRIP!](https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf) | 2:52 | 2024-10-18 | 2024-11-18 |
 | [Pretty Girl Thriller](https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Pretty Girl Thriller](https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL) | 2:55 | 2025-05-22 |  |
@@ -348,6 +348,7 @@
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-14 |
+| [Time to Shine](https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Time to Shine](https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt) | 2:43 | 2025-09-08 |  |
 | [Todas Las Flores](https://open.spotify.com/track/3nUMWn4xuHsP3gM23lVvZr) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Las Flores De Mi Barrio](https://open.spotify.com/album/1aXrU0R7Xgf3YYqPNlFx60) | 2:52 | 2025-04-24 | 2025-05-02 |
 | [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 |  |
 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 |  |

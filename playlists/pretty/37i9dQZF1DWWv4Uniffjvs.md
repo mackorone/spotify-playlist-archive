@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,940 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,920 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 51 | [Do U Want Me](https://open.spotify.com/track/1zIsT7mLBtdL4JK0vQwioP) | [Headhigh](https://open.spotify.com/artist/5qixwxwNJ9oiSxc5m7rZHc) | [Do U Want Me](https://open.spotify.com/album/0bxywmBGlyBCQqRDuP4qJc) | 5:10 |
 | 52 | [TAKE SOME](https://open.spotify.com/track/0XR9tB0hAjmhcexAQ9S00V) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [SESH](https://open.spotify.com/artist/5PJunO0egNrIx5RY2z7J8a) | [Take Some](https://open.spotify.com/album/6CY3zdhko7TaKxAAUl9At5) | 4:21 |
 
-Snapshot ID: `AAAAAL4F3Xv3w3yYhwC75QCHBbHxAhKZ`
+Snapshot ID: `AAAAAKYliA/+3txe3FM0BlyVjihuYeEU`

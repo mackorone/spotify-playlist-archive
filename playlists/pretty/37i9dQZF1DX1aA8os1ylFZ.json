@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 296998,
+  "num_followers": 296996,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 195319,
-      "name": "WAY IT IS",
-      "url": "https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Holy Blindfold",
         "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
       },
@@ -335,18 +315,22 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "peter pan.",
-        "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 184614,
-      "name": "peter pan.",
-      "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
+      "duration_ms": 195319,
+      "name": "WAY IT IS",
+      "url": "https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -363,6 +347,22 @@
       "duration_ms": 166894,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "peter pan.",
+        "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 184614,
+      "name": "peter pan.",
+      "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "worst behaviour (feat. Kehlani)",
-        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 159986,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "do what i say",
-        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+      "duration_ms": 162051,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -595,18 +595,18 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO"
+        "name": "do what i say",
+        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 162051,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "GOLIATH",
-        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "**GOLIATH**",
-      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
         "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196439,
       "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "**GOLIATH**",
+      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "TWIN FLAME",
         "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "JUST LIKE THAT (with Ari Lennox)",
-        "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
         }
       ],
-      "duration_ms": 163640,
-      "name": "JUST LIKE THAT (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
+      "duration_ms": 164571,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -887,6 +867,26 @@
       "duration_ms": 189866,
       "name": "No Secrets",
       "url": "https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "JUST LIKE THAT (with Ari Lennox)",
+        "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "JUST LIKE THAT (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "INFINITY",
         "url": "https://open.spotify.com/album/7FUUeTnlcCJ78stxTPvPkI"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 154979,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1083,6 +1083,26 @@
       "duration_ms": 176442,
       "name": "Favorite One",
       "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "RAIN",
+          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
+        }
+      ],
+      "duration_ms": 174232,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        },
-        {
-          "name": "RAIN",
-          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
-        }
-      ],
-      "duration_ms": 174232,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Club",
         "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
       },
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "125 Degrees",
-        "url": "https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp"
+        "name": "Never Return",
+        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
       },
       "artists": [
         {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
         }
       ],
-      "duration_ms": 163636,
-      "name": "125 Degrees",
-      "url": "https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i"
+      "duration_ms": 172410,
+      "name": "Never Return",
+      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1255,6 +1255,22 @@
       "duration_ms": 183463,
       "name": "From A Distance",
       "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "125 Degrees",
+        "url": "https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "125 Degrees",
+      "url": "https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1311,6 +1327,22 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
+        "name": "Find My Lover",
+        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 129013,
+      "name": "Find My Lover",
+      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn"
       },
@@ -1327,22 +1359,6 @@
       "duration_ms": 147957,
       "name": "Options",
       "url": "https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
-        "name": "Never Return",
-        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 172410,
-      "name": "Never Return",
-      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
-      },
-      "artists": [
-        {
-          "name": "Tamara Mneney",
-          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
-        }
-      ],
-      "duration_ms": 230276,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Glad You Came",
         "url": "https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 145517,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
+      },
+      "artists": [
+        {
+          "name": "Tamara Mneney",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 230276,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1427,22 +1443,6 @@
       "duration_ms": 281099,
       "name": "Lying (feat. Dylan Sinclair)",
       "url": "https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
-        "name": "Find My Lover",
-        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 129013,
-      "name": "Find My Lover",
-      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
+        "name": "Major Minor",
+        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
+      },
+      "artists": [
+        {
+          "name": "Donna Lugassy",
+          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Major Minor",
+      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
         "name": "A Forest Fire",
         "url": "https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Major Minor",
-        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
       },
       "artists": [
         {
-          "name": "Donna Lugassy",
-          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
         }
       ],
-      "duration_ms": 149647,
-      "name": "Major Minor",
-      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
+      "duration_ms": 175183,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1547,22 +1563,6 @@
       "duration_ms": 152727,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
-        "name": "Pussy",
-        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 175183,
-      "name": "Pussy",
-      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "yk, i'm good",
-        "url": "https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "yk, i'm good",
-      "url": "https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Drive It",
         "url": "https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 141211,
       "name": "Drive It",
       "url": "https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "yk, i'm good",
+        "url": "https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "yk, i'm good",
+      "url": "https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY"
     },
     {
       "added_at": "2025-09-04 22:00:32",

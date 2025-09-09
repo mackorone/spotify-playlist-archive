@@ -2,7 +2,7 @@
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart.
+> Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren at the VMAs
 
 184 songs - 10 hr 16 min
 

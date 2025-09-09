@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Focalistic, Ch'cco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,205 likes - 65 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,669 likes - 65 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

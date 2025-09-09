@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: CMAT
 
-2,191 songs - 4 day 20 hr 11 min
+2,193 songs - 4 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-02-07 | 2025-03-16 |
 | [97 Jag](https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:49 | 2025-06-27 | 2025-08-09 |
 | [9teen](https://open.spotify.com/track/7fzDvKpwihEVm18rRgdmYi) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [9teen](https://open.spotify.com/album/62PVXROIVspBU0cScSq2hN) | 2:40 | 2020-10-13\* | 2021-05-23 |
-| [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 |  |
+| [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 | 2025-09-09 |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-07 | 2022-04-19 |
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-17 | 2024-10-26 |
 | [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-14 | 2024-01-20 |
@@ -276,7 +276,7 @@
 | [Bottle Rocket](https://open.spotify.com/track/68gaqJVyRXTE5qanrZ9hZN) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/6yxiHB4TtWMLSpvnvlxSDW) | 3:25 | 2024-01-12 | 2024-04-24 |
 | [Boundary Street](https://open.spotify.com/track/30DKmospmuSgNijNNQGXeb) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:05 | 2020-11-27 | 2021-01-31 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-09-24 | 2022-04-13 |
-| [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-20 |  |
+| [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-20 | 2025-09-09 |
 | [Boxes](https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [Boy Bi](https://open.spotify.com/track/3OWK4KWwpo7prKUk8ytwCp) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Boy Bi](https://open.spotify.com/album/1l2hi6hUws5BHtf7ILgdsm) | 2:22 | 2022-03-18 | 2022-04-21 |
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-09-08 | 2023-12-21 |
@@ -561,6 +561,7 @@
 | [Don't Play Pretend](https://open.spotify.com/track/2h2xz9EWgGASYWSv3mSpBU) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Broken Perfection](https://open.spotify.com/album/5LHftTy5Aqf2pk3ut49Y6g) | 3:07 | 2020-10-16 | 2020-11-03 |
 | [Don't Say That](https://open.spotify.com/track/2JAZdnv9oWBOZKIwlH3xVN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Don't Say That](https://open.spotify.com/album/7sW98APvoZheutXl6AlOlP) | 3:42 | 2023-05-19 | 2023-07-08 |
 | [Don't Wanna](https://open.spotify.com/track/68AkRyS65QIHiYwDZoVn5p) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Don't Wanna](https://open.spotify.com/album/0oY9L7WxJLDzhQcqIPHYhg) | 3:21 | 2021-02-08 | 2021-05-27 |
+| [DON'T WANNA](https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:45 | 2025-09-05 |  |
 | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/track/4YclYSWapHdn8vgX7oiFez) | [SAVI MINDS](https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd) | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/album/55MdLhIW8009bP54fhkQcU) | 3:40 | 2021-02-23 | 2021-02-27 |
 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 | 2024-08-23 | 2024-10-12 |
 | [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 | 2022-06-24 | 2022-08-06 |
@@ -2006,6 +2007,7 @@
 | [To the Ground](https://open.spotify.com/track/748KtqPgj2bwznX2GSbWQu) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [To The Ground](https://open.spotify.com/album/1gfpjv2Xu9GjMD7gW19j9r) | 2:58 | 2022-04-15 | 2022-04-24 |
 | [To The Ground](https://open.spotify.com/track/4Mw9ttlAEtIlrrfeRj0m3c) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [To The Ground](https://open.spotify.com/album/0VUPw9fUqV6FvqWX05ATBx) | 2:58 | 2022-04-15 | 2022-07-29 |
 | [Toast with the Butter](https://open.spotify.com/track/34hdwAVK7oA3OswpGv5gVX) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [How Did We Get Here?](https://open.spotify.com/album/05SVSMRmcL2ESnkwQFlgyt) | 3:26 | 2021-03-06 | 2021-10-19 |
+| [tolerance](https://open.spotify.com/track/6hCHlNGUPq5nAUSVPGPEhT) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [tolerance](https://open.spotify.com/album/4sIcBCrZRD6yStBxSF3BnE) | 3:13 | 2025-09-05 |  |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-04 |  |
 | [TONIGHT](https://open.spotify.com/track/2lPmo9YAf3am3Y8IkN4QLJ) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [TONIGHT](https://open.spotify.com/album/5E8bNRJ8zfuiCLn5pKqwAX) | 2:34 | 2022-06-17 | 2022-07-26 |
 | [Too Fast](https://open.spotify.com/track/5MJ47IaaEMMKsgUqYEaCCv) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Too Fast](https://open.spotify.com/album/7xeKLRPVHhBn5WoJAAK8a8) | 2:33 | 2020-10-13\* | 2021-06-02 |

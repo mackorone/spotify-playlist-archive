@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 191351,
       "name": "BABA VANGA",
       "url": "https://open.spotify.com/track/4hTvdIteawXqHjPHzI3CDx"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 149606,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 124500,
       "name": "Boca",
       "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 137837,
       "name": "Caraibe",
       "url": "https://open.spotify.com/track/1fhlMbJa5XtxbGiqxmRYq8"
@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
+    },
+    {
+      "album": {
         "name": "Como El Agua",
         "url": "https://open.spotify.com/album/3y0N6BewyYnCKSCcnxXLVb"
       },
@@ -1550,6 +1568,32 @@
       "duration_ms": 171162,
       "name": "CONTACT FATAL 3",
       "url": "https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7"
+    },
+    {
+      "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/6ho5WPkvpVDliLbZrfEhVB"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Cristi Minculescu",
+          "url": "https://open.spotify.com/artist/5JJ9wazR5aGc0MHAjiCTF0"
+        },
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196749,
+      "name": "Contra timp",
+      "url": "https://open.spotify.com/track/3PIs8Nuv0JAcgFzXvNvOVI"
     },
     {
       "album": {
@@ -3426,7 +3470,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 203295,
       "name": "Ieri Erai",
       "url": "https://open.spotify.com/track/41lsQBb4EaK9SF3rTeOhtH"
@@ -4062,7 +4106,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 151217,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/3c8dkiHFyD4dXS7pdP0hFc"
@@ -4570,7 +4614,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 182400,
       "name": "NAVODARI",
       "url": "https://open.spotify.com/track/3BVEP558yMOKYC6rzMqTNo"
@@ -5727,6 +5771,36 @@
     },
     {
       "album": {
+        "name": "Shake It To The Max (FLY) (Remix)",
+        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Shake It To The Max (FLY) - Remix",
+      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
+    },
+    {
+      "album": {
         "name": "Shot",
         "url": "https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE"
       },
@@ -6469,6 +6543,24 @@
     },
     {
       "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
@@ -6938,7 +7030,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"

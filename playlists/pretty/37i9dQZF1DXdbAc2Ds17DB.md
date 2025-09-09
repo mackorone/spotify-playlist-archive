@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Enjoy the JANNABI CONCERT \[All the Boys and Girls\] LIVE SET including the voices of them on stage! \(잔나비의 무대 멘트와 목소리가 포함된 \[모든소년소녀들\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 > With STYXVII, Joshua Lanuarii, UrvTek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 604 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [measuring cup!](https://open.spotify.com/track/7HDqKQ6OReu83T28EqZ0OP) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [measuring cup!](https://open.spotify.com/album/11xRzmkHSSvqXv7lr06hLy) | 1:06 |
 | 50 | [HOW TO FORGET YOU \(destroy you\)](https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:54 |
 
-Snapshot ID: `aL4l8gAAAACbcg/+06If/F5idBwcHb5J`
+Snapshot ID: `aL+gkAAAAAAnWcbGEVAFF1pftQLykuLK`

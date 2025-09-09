@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,831 songs - 8 day 16 hr 26 min
+3,833 songs - 8 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1900,6 +1900,7 @@
 | [Let's Ride Away \- MEDUZA For Tim Edit](https://open.spotify.com/track/5ajmGn2nwM4hwGcFop92FK) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Let's Ride Away \(MEDUZA For Tim Remix\)](https://open.spotify.com/album/3jhvkeBmvGhB3BPOz9qhKc) | 2:40 | 2025-06-06 | 2025-06-14 |
 | [Let's Save The Night](https://open.spotify.com/track/2TRTCZJKPWwx6DUm82MlhM) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Kosmonova](https://open.spotify.com/artist/2XuUpb7uqPRFkw22ff4cQF), [Interactive](https://open.spotify.com/artist/6Jr95uSN9oixu78phrpdqF) | [Let's Save The Night](https://open.spotify.com/album/3vYT27KqnATKWXjZ2L0hzu) | 3:34 | 2025-01-10 | 2025-01-18 |
 | [Lethal Industry \(Rose Ringed Remix\)](https://open.spotify.com/track/7G4XrZlnEUpng7NrRXOnb8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rose Ringed](https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj) | [Lethal Industry \(Rose Ringed Remix\)](https://open.spotify.com/album/0Cqne3jR9G6Pjx1LG8VZIC) | 3:02 | 2025-01-03 | 2025-01-11 |
+| [Lets Unravel](https://open.spotify.com/track/2EaQBUSUYtzHY4tilmLLtN) | [Light Chaser](https://open.spotify.com/artist/12o4o6nuoPQYw0QPwC7NHx) | [Lets Unravel](https://open.spotify.com/album/7lxrd4qSijoZ9wT5j1seHI) | 3:41 | 2025-09-08 |  |
 | [Letting Go](https://open.spotify.com/track/4iQFexCu2T1PhIUS7Tg2fV) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Letting Go](https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF) | 3:19 | 2025-07-20 | 2025-07-26 |
 | [Letting Go Breeze](https://open.spotify.com/track/3MY97SYmvxt5sLPoGiUo5L) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Letting Go Breeze](https://open.spotify.com/album/5XwGpDaYqyq5INBzX941y8) | 3:16 | 2025-05-02 | 2025-05-10 |
 | [LETTING GO!!!!!!](https://open.spotify.com/track/6Awklofcfez6m31GH7ZXSJ) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [AN INTRODUCTION TO WHOLESOME RIDDIM](https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY) | 3:00 | 2025-05-29 | 2025-06-07 |
@@ -3597,6 +3598,7 @@
 | [Waiting](https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Waiting](https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE) | 2:47 | 2025-08-01 | 2025-08-09 |
 | [Waiting](https://open.spotify.com/track/1gUXzeQSdiuAsAJ36B7Ukg) | [TVLI](https://open.spotify.com/artist/5HuSOEpwCwZOEVcMNSq1Hj) | [Waiting](https://open.spotify.com/album/0YxJo8sv833tz90YWpiKgU) | 3:04 | 2025-04-18 | 2025-04-25 |
 | [Waiting For a Train \- Instrumental Version](https://open.spotify.com/track/0UjTjH3MIO9uqr2OuPdXPO) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Waiting For a Train \(Instrumental Version\)](https://open.spotify.com/album/7JolAbZxN5RvKcAWkGYfWs) | 4:03 | 2025-04-21 | 2025-04-25 |
+| [Waiting For Me](https://open.spotify.com/track/3PpluaSX0pWfNEISDpSWNP) | [A/K](https://open.spotify.com/artist/0aMljpKFM4rWpxxRqhjCmy) | [Waiting For Me](https://open.spotify.com/album/2dzFwuMG1wahpzlucD3HYv) | 2:59 | 2025-09-08 |  |
 | [Waiting on the World](https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Waiting on the World](https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz) | 3:53 | 2025-06-06 | 2025-06-14 |
 | [Waiting On This Day Forever](https://open.spotify.com/track/0C1NSDqt7Vr6OxfoiBprOS) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Siberia](https://open.spotify.com/artist/5AezLZZAw28r0FhLbbL1b2), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Waiting On This Day Forever](https://open.spotify.com/album/0prOosQFge1HKryicdbaZ1) | 3:32 | 2025-05-09 | 2025-05-17 |
 | [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:08 | 2025-01-31 | 2025-02-07 |

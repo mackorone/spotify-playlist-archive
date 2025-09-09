@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine Berdin
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,292 likes - 156 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,279 likes - 156 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

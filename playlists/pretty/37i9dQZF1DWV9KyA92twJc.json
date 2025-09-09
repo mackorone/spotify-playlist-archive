@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-08-29 15:10:05",
       "album": {
+        "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW"
+    },
+    {
+      "added_at": "2025-08-29 15:10:05",
+      "album": {
         "name": "\u05dc\u05d4\u05ea\u05d7\u05ea\u05df \u05d0\u05d9\u05ea\u05d9",
         "url": "https://open.spotify.com/album/0j28xwE1gMIBRsDHGlVK9u"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 166530,
       "name": "\u05dc\u05d4\u05ea\u05d7\u05ea\u05df \u05d0\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/1YgeLm7V5s6BlIrALkqDjj"
-    },
-    {
-      "added_at": "2025-08-29 15:10:05",
-      "album": {
-        "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8"
-      },
-      "artists": [
-        {
-          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 193278,
-      "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW"
     },
     {
       "added_at": "2025-08-29 15:10:05",

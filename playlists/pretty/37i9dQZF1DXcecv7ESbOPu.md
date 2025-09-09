@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Justin Bieber, Håkan Hellström, Lady Gaga, Lov1 med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,042 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,015 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 64 | [TECHNO TOWN](https://open.spotify.com/track/0JIG40nYHl7bouUWsGcDWv) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [TECHNO TOWN](https://open.spotify.com/album/5Mnq7tCnXls4qG2lf4pHuD) | 2:25 |
 | 65 | [Techno Trance](https://open.spotify.com/track/1lMxKk2oWSpZ15hqxkhdb8) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [D\-Shake](https://open.spotify.com/artist/1VH9xeQo3W6s20EBaW9ipJ) | [Techno Trance](https://open.spotify.com/album/7AaqOJ5kEjUdpD8FKV0E5N) | 3:36 |
 | 66 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 |
-| 67 | [Cute Aggression](https://open.spotify.com/track/6L4b4Xmspqzc4285p4ALdA) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 2:36 |
+| 67 | [Cute Aggression](https://open.spotify.com/track/6L4b4Xmspqzc4285p4ALdA) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [](https://open.spotify.com/album/null) | 2:36 |
 | 68 | [STORA](https://open.spotify.com/track/4YKmbn2gdqMBKhpmLMdi0r) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STORA](https://open.spotify.com/album/0T6UxQCTWiu0mTPwjB9orO) | 2:02 |
 | 69 | [Good Girls](https://open.spotify.com/track/7CaSVJhPJRo0VxIMThSLP7) | [Michelle Eysm](https://open.spotify.com/artist/5h5bNgn7BwLh43xZa71dgS), [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Good Girls](https://open.spotify.com/album/5d3TXTnTFFVVufv5WlkQro) | 2:09 |
 | 70 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [Too Late For Love](https://open.spotify.com/track/4OLWRYr3C9JpXPr4MxpdgR) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Too Late For Love](https://open.spotify.com/album/24ukN9bNTmzvHCUch4Hvj2) | 2:19 |
 | 101 | [Back to Blue](https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Back to Blue](https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm) | 2:12 |
 | 102 | [BLÅST](https://open.spotify.com/track/0mShuzpXpvDkAdwy3qEDeQ) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [BLÅST](https://open.spotify.com/album/6FBMQBfSe6ShJpDo6OxEye) | 2:48 |
-| 103 | [PANG! PANG! \(WILD WEST\)](https://open.spotify.com/track/7a9RANLddtB1e7XWA09ChD) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [PANG PANG \(wild west\)](https://open.spotify.com/album/3ySNzz0jFvsa3TmlVh7m6z) | 2:12 |
+| 103 | [PANG! PANG! \(WILD WEST\)](https://open.spotify.com/track/7a9RANLddtB1e7XWA09ChD) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [PANG! PANG! \(WILD WEST\)](https://open.spotify.com/album/3ySNzz0jFvsa3TmlVh7m6z) | 2:12 |
 | 104 | [Tragiskt](https://open.spotify.com/track/1P2xQUXFfI0wFPiCOfFmQu) | [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv), [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [Tragiskt](https://open.spotify.com/album/7qe775N3IIC6b9gLEWQYos) | 2:19 |
 | 105 | [NEED ME](https://open.spotify.com/track/4p2hNGbDAdzpMx6gG08heG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [NEED ME](https://open.spotify.com/album/1mxHJofAum7U9VzXVNxq9b) | 3:30 |
 | 106 | [Last Forever](https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Last Forever](https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg) | 3:43 |

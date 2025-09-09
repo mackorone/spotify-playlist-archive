@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,615 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,612 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [El Mismo Aire](https://open.spotify.com/track/2McSOWA5zlh0y5Gfv9lBhs) | [Tiziano El Bombón de la Cumbia](https://open.spotify.com/artist/3VQ35PnyCi0bUcfF9P2sxs) | [El Mismo Aire](https://open.spotify.com/album/3LFzFmKr1znDRqb5tX6ZVY) | 2:55 |
 | 50 | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr) | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/album/3W3S0gSwBs27p6bE64BxHo) | 3:00 |
 
-Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

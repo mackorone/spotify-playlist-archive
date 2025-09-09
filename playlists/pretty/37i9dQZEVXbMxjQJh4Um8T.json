@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-09-05 17:11:06",
@@ -411,22 +411,22 @@
     {
       "added_at": "2025-09-05 17:11:06",
       "album": {
-        "name": "Vaitimbora",
-        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/37g2RDYi2MBI7tBkAIFYfd"
       },
       "artists": [
         {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        },
-        {
           "name": "Trinix",
           "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         }
       ],
-      "duration_ms": 135131,
+      "duration_ms": 135013,
       "name": "Vaitimbora",
-      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+      "url": "https://open.spotify.com/track/5DuOB5sAi9wiFABXTYHOx1"
     },
     {
       "added_at": "2025-09-05 17:11:06",

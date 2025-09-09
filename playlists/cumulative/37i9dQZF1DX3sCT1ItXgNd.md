@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Juan Magán, Abraham Mateo
 
-779 songs - 1 day 15 hr 5 min
+780 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 | 2024-04-12 | 2024-04-24 |
 | [Atrinchera2](https://open.spotify.com/track/6rx8ePKSOryW7jIUSdvhnj) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Atrinchera2](https://open.spotify.com/album/2dw4YjjlRkGb8iEgm50fXQ) | 3:09 | 2024-10-28 | 2024-12-03 |
 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 | 2024-08-26 | 2024-11-30 |
-| [aunque no estés](https://open.spotify.com/track/4rhQimAhsIg3TH7RIW0dFa) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [aunque no estés](https://open.spotify.com/album/20CJeKt93f8cL6OKCLq7Vu) | 2:44 | 2025-08-05 |  |
+| [aunque no estés](https://open.spotify.com/track/4rhQimAhsIg3TH7RIW0dFa) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [aunque no estés](https://open.spotify.com/album/20CJeKt93f8cL6OKCLq7Vu) | 2:44 | 2025-08-05 | 2025-09-09 |
 | [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 | 2023-08-28 | 2023-09-29 |
 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 | 2025-07-08 | 2025-08-06 |
 | [b.o.b.o.](https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [b.o.b.o.](https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC) | 2:22 | 2023-11-02 | 2024-01-09 |
@@ -467,6 +467,7 @@
 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 | 2025-02-17 | 2025-05-06 |
 | [Mátame](https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Mátame](https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq) | 2:35 | 2023-05-30 | 2023-07-05 |
 | [Mía](https://open.spotify.com/track/4iVvZOJiBmQXZHKTdLTh7C) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Como Ves, No Siempre He Sido Mía...](https://open.spotify.com/album/6xRDlcSpp3keEbXgRtFiPa) | 3:27 | 2024-01-08 | 2024-02-02 |
+| [Mírame Ahora \- Salud mi Reina](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora \(Salud mi Reina\)](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 | 2025-09-08 |  |
 | [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 | 2023-03-21 | 2023-04-18 |
 | [NADA QUE DECIR](https://open.spotify.com/track/2Qnjj1OqW9NDTzBeanuXIP) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [NADA QUE DECIR](https://open.spotify.com/album/4CIjghQcVgXkYJscGKEQKF) | 3:33 | 2023-03-13 | 2023-04-20 |
 | [NADA QUE DECIR](https://open.spotify.com/track/3XtPNo0r7Zy9Z6A2tK77Ld) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:33 | 2023-06-01 | 2023-07-05 |

@@ -4463,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Elodie",
+        "url": "https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171962,
+      "name": "Elodie",
+      "url": "https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV"
+    },
+    {
+      "album": {
         "name": "empatia",
         "url": "https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6"
       },

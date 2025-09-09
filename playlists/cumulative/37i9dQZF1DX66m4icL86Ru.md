@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: BIA & Young Miko
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Sexyy Red & Rosé
 
 575 songs - 1 day 3 hr 34 min
 

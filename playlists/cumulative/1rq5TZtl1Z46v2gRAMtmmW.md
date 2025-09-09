@@ -4,7 +4,7 @@
 
 > 
 
-438 songs - 1 day 5 hr 12 min
+442 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-24 |  |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-05 | 2024-08-29 |
 | [Besties](https://open.spotify.com/track/0YYzpKaPJL4xArcaWR7g1u) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 3:36 | 2025-03-04 |  |
+| [Better](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [Better](https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX) | 3:58 | 2025-09-08 |  |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-02 | 2022-07-14 |
 | [big daddy ya](https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:09 | 2022-06-20 | 2022-11-01 |
 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 | 2023-10-17 | 2024-06-01 |
@@ -185,6 +186,7 @@
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 | 2024-04-24 |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-04 |  |
 | [Happy Days](https://open.spotify.com/track/5bjpTPQnLh73Tw5AoME0KL) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 3:47 | 2025-06-13 |  |
+| [HEAD FIRST](https://open.spotify.com/track/3RvxN3fgpLakmVJTm0qNE0) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [Nsanshi](https://open.spotify.com/artist/2iKCXsQRyA1pq7lurLM7Id) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:34 | 2025-09-08 |  |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-07-08 | 2023-02-04 |
 | [Heather Park \- salute Remix](https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Heather Park \(salute Remix\)](https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa) | 6:15 | 2025-01-21 |  |
 | [heaven in your arms](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [heaven in your arms](https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n) | 4:08 | 2024-11-13 |  |
@@ -278,6 +280,7 @@
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 | 2024-09-12 |
 | [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 | 2025-07-18 |  |
 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 | 2025-04-25 |  |
+| [MOVEMENT](https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:27 | 2025-09-08 |  |
 | [Mr Rain](https://open.spotify.com/track/2YuezDnHILhFMwwvZoWv0m) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Mr Rain](https://open.spotify.com/album/5yqR98yFe70XgYfBOe4iAg) | 3:44 | 2025-03-26 | 2025-04-01 |
 | [munerah](https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:42 | 2023-03-24 | 2023-07-29 |
 | [Munitions](https://open.spotify.com/track/58iAMQaKz7UqvFyhknuyAY) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Munitions](https://open.spotify.com/album/7tTVaKHuBq94fj2RBplMYo) | 3:44 | 2023-10-03 | 2023-10-17 |
@@ -300,6 +303,7 @@
 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 | 2023-03-09 | 2023-03-25 |
 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2024-03-01 | 2024-04-09 |
 | [Open At Noon](https://open.spotify.com/track/3xhfFEHJOnXfsMGKKrUsz9) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Alma’s Cove](https://open.spotify.com/album/4YMU4V3o2VqhlI5TEu1d8i) | 3:56 | 2025-06-20 |  |
+| [OPEN UP THAT DOOR](https://open.spotify.com/track/1CoS445LRHPTqQS7yOJwJA) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [OPEN UP THAT DOOR](https://open.spotify.com/album/0tkEwTYP4NM6Xiv2VOoOj2) | 3:56 | 2025-09-08 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-30 | 2023-07-11 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-13 | 2023-07-19 |
 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 | 2024-10-02 |  |

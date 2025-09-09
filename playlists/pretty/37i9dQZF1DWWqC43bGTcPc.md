@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 張語噥 \(Sammy Chang\) x 宏兒 \(Kuan Hong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,192 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,907 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [好好吃飯](https://open.spotify.com/track/7cWYLUAThDaMeIXAL8icm0) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [Jeryl Lee](https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE) | [好好吃飯](https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml) | 3:41 |
 | 50 | [夙愿 \- 影视剧《锦月如歌》宿命羁绊曲](https://open.spotify.com/track/0GFUJVn8Vg8H1mUjn7Qr2r) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [夙愿 \(影视剧《锦月如歌》宿命羁绊曲\)](https://open.spotify.com/album/6cEJ6HufwqptaVyo7WELNN) | 3:17 |
 
-Snapshot ID: `AAAAALfGWDIJCNftruJgzLmM4IwV+cfB`
+Snapshot ID: `AAAAAAld1oXGWg2JRPZNTuih0LAxxmgp`

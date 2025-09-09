@@ -4,7 +4,7 @@
 
 > 
 
-60 songs - 5 hr 20 min
+62 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,10 @@
 | [Hard Gaan](https://open.spotify.com/track/5G9eGKVbyX9G2lhT5M9fD5) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Church of Clubmusic](https://open.spotify.com/album/3Ji4igo2WBzCC7Vlz72FCv) | 3:33 | 2020-01-01 |  |
 | [Highrise 49](https://open.spotify.com/track/7jSTFLVAxwCAepKDz2092j) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [FJAAK 007](https://open.spotify.com/album/4pvSURGDoi3dDk42I5CZAz) | 7:09 | 2020-10-18 |  |
 | [I Can't Sleep](https://open.spotify.com/track/0ryI3kx1bXHtrfZk3leEjy) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [I Can't Sleep](https://open.spotify.com/album/4tX6oM4kkZCySjN53xWcIe) | 7:12 | 2020-10-18 |  |
+| [IN THE SHADOWS](https://open.spotify.com/track/3azj8Vf6I6Rh39Mz7DDN1G) | [NZGÛL](https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH) | [IN THE SHADOWS](https://open.spotify.com/album/4M25OOqSQj20vMLExYJeD3) | 3:42 | 2025-09-08 |  |
 | [Lehmann Club](https://open.spotify.com/track/0VkDJuw8fCuaLFRk8L7O3w) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS01LEHMANNCLUB](https://open.spotify.com/album/3QiooDugj3219S5ftxD7L4) | 4:52 | 2020-06-28 |  |
 | [Leid \- Kobosil Suffer Mix](https://open.spotify.com/track/0GKYCBmN3mK9F05akMDPAA) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0), [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Rr6](https://open.spotify.com/album/58VKDX87M9ssajLvzIPT1K) | 5:52 | 2021-10-04 |  |
+| [Lost In Sound](https://open.spotify.com/track/2xglp7zVPpixiOqjTweWQJ) | [Noemi Black](https://open.spotify.com/artist/7aduJdjVqq0HB0NKxxLewT) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 4:58 | 2025-09-08 |  |
 | [LOVE 4 RAVE](https://open.spotify.com/track/2jjw8APg1tTkH23uB0AmM1) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [LOVE 4 RAVE](https://open.spotify.com/album/65CYSd8fqzKYUyYtQdKDhK) | 5:53 | 2021-10-01 |  |
 | [m.A.A.d city](https://open.spotify.com/track/3qX1dqmDdmMvvfMVfsx4Bh) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 5:50 | 2019-08-23 |  |
 | [Master of Puppets \- Live at Brixton Academy](https://open.spotify.com/track/5gKxcDDRIEmGPrX6hxwI3r) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Live at Brixton Academy](https://open.spotify.com/album/3bdC6SSUENC7jNrybImFDu) | 1:34 | 2019-10-05 |  |

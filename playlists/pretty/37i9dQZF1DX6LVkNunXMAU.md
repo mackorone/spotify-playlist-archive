@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Inbal Comedi
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,212 likes - 95 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,199 likes - 95 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 7 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 8 | [Matilda](https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV) | [Vipisita](https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32) | [Matilda](https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY) | 2:40 |
 | 9 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
-| 10 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
-| 11 | [Me Gustas Tanto \- Remix](https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [Me Gustas Tanto \(Remix\)](https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4) | 3:28 |
+| 10 | [Me Gustas Tanto \- Remix](https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [Me Gustas Tanto \(Remix\)](https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4) | 3:28 |
+| 11 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
 | 12 | [Casa \- Reversión](https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:08 |
 | 13 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
 | 14 | [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 88 | [Me Fui](https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Me Fui](https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w) | 4:45 |
 | 89 | [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 |
 | 90 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
-| 91 | [Caparazón](https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Caparazón](https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp) | 3:07 |
-| 92 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 |
-| 93 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 |
-| 94 | [Mi lugar en el mundo](https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Mi lugar en el mundo](https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC) | 3:32 |
-| 95 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 |
+| 91 | [Trance](https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Trance](https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ) | 4:01 |
+| 92 | [Caparazón](https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Caparazón](https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp) | 3:07 |
+| 93 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 |
+| 94 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 |
+| 95 | [Mi lugar en el mundo](https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Mi lugar en el mundo](https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC) | 3:32 |
 
 Snapshot ID: `AAAAAEIkmGM8rPLbHNXCBZ2ZtsC/gfjl`

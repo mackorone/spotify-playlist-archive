@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse muziek vind je hier! Met o.a. Kensington (cover), Frenna, Noano, Bilal Wahib en meer",
-  "num_followers": 7836,
+  "num_followers": 7834,
   "original_name": "Nederlandse Hits 2025 | Best of Nederland | Top songs Netherlands",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAAbp2P30T/c3t50tyla3MqL9BsYE9yr",
+  "snapshot_id": "AAAbsxtLuAi1vmy6RwwSv5yXMEsRY29o",
   "tracks": [
     {
       "added_at": "2025-09-05 09:41:33",
@@ -63,26 +63,6 @@
     {
       "added_at": "2025-09-05 09:41:33",
       "album": {
-        "name": "Tranen",
-        "url": "https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU"
-      },
-      "artists": [
-        {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
-        },
-        {
-          "name": "Gerson Main",
-          "url": "https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7"
-        }
-      ],
-      "duration_ms": 199074,
-      "name": "Tranen",
-      "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
-    },
-    {
-      "added_at": "2025-09-05 09:41:33",
-      "album": {
         "name": "Nachtenlang",
         "url": "https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh"
       },
@@ -99,26 +79,6 @@
       "duration_ms": 175614,
       "name": "Nachtenlang",
       "url": "https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936"
-    },
-    {
-      "added_at": "2025-09-05 09:41:33",
-      "album": {
-        "name": "Sparen Voor De Nacht",
-        "url": "https://open.spotify.com/album/4NqNVbz0Hxl9jRtYsy3qCx"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        },
-        {
-          "name": "MAKSIM",
-          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
-        }
-      ],
-      "duration_ms": 154627,
-      "name": "Sparen Voor De Nacht",
-      "url": "https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -201,6 +161,26 @@
       "url": "https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ"
     },
     {
+      "added_at": "2025-09-08 13:04:58",
+      "album": {
+        "name": "Gin & Tonic",
+        "url": "https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "duration_ms": 158430,
+      "name": "Gin & Tonic",
+      "url": "https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn"
+    },
+    {
       "added_at": "2025-09-05 09:41:33",
       "album": {
         "name": "Love Of My Life",
@@ -215,22 +195,6 @@
       "duration_ms": 175691,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/5tGhe8VgcjJgSdJZox5Ur0"
-    },
-    {
-      "added_at": "2025-09-05 09:41:33",
-      "album": {
-        "name": "A Moment",
-        "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 203545,
-      "name": "A Moment",
-      "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -251,6 +215,22 @@
       "duration_ms": 177758,
       "name": "Matcha Coco",
       "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
+    },
+    {
+      "added_at": "2025-09-08 13:06:17",
+      "album": {
+        "name": "Bad Bitches Luisteren Def",
+        "url": "https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "duration_ms": 95728,
+      "name": "Bad Bitches Luisteren Def",
+      "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -287,6 +267,26 @@
       "duration_ms": 192125,
       "name": "Paarse nachten",
       "url": "https://open.spotify.com/track/2s1Kn9W1rG2kkIGYFDVcQs"
+    },
+    {
+      "added_at": "2025-09-05 09:41:33",
+      "album": {
+        "name": "Tranen",
+        "url": "https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        },
+        {
+          "name": "Gerson Main",
+          "url": "https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7"
+        }
+      ],
+      "duration_ms": 199074,
+      "name": "Tranen",
+      "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -371,22 +371,22 @@
     {
       "added_at": "2025-09-05 09:41:33",
       "album": {
-        "name": "Ik Wil Dat Je Liegt",
-        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
+        "name": "Sparen Voor De Nacht",
+        "url": "https://open.spotify.com/album/4NqNVbz0Hxl9jRtYsy3qCx"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
         },
         {
           "name": "MAKSIM",
           "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
         }
       ],
-      "duration_ms": 174953,
-      "name": "Ik Wil Dat Je Liegt",
-      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
+      "duration_ms": 154627,
+      "name": "Sparen Voor De Nacht",
+      "url": "https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -567,18 +567,22 @@
     {
       "added_at": "2025-09-05 09:41:33",
       "album": {
-        "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
+        "name": "Ik Wil Dat Je Liegt",
+        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
       },
       "artists": [
         {
           "name": "Hannah Mae",
           "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
         }
       ],
-      "duration_ms": 171932,
-      "name": "Waterdicht",
-      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
+      "duration_ms": 174953,
+      "name": "Ik Wil Dat Je Liegt",
+      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -635,6 +639,22 @@
       "duration_ms": 160301,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"
+    },
+    {
+      "added_at": "2025-09-05 09:41:33",
+      "album": {
+        "name": "A Moment",
+        "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 203545,
+      "name": "A Moment",
+      "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
     },
     {
       "added_at": "2025-09-05 09:41:33",
@@ -831,22 +851,6 @@
     {
       "added_at": "2025-09-05 09:41:33",
       "album": {
-        "name": "I Like You (Me Gustas Tu)",
-        "url": "https://open.spotify.com/album/4NuRFkgbhr5WADRRHQwUlh"
-      },
-      "artists": [
-        {
-          "name": "JONI",
-          "url": "https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "I Like You (Me Gustas Tu)",
-      "url": "https://open.spotify.com/track/1LS2VGqz4RRH2NbxOmLtcm"
-    },
-    {
-      "added_at": "2025-09-05 09:41:33",
-      "album": {
         "name": "Hard Work Pays Off 2",
         "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
       },
@@ -943,22 +947,6 @@
     {
       "added_at": "2025-09-05 09:41:33",
       "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/25njr0QYUTovQ1721TkeRx"
-      },
-      "artists": [
-        {
-          "name": "BZN",
-          "url": "https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S"
-        }
-      ],
-      "duration_ms": 230472,
-      "name": "Thanks",
-      "url": "https://open.spotify.com/track/42yCCeC5rpEzhkz7BUcfgh"
-    },
-    {
-      "added_at": "2025-09-05 09:41:33",
-      "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF"
       },
@@ -971,6 +959,22 @@
       "duration_ms": 178779,
       "name": "Have A Little Faith",
       "url": "https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti"
+    },
+    {
+      "added_at": "2025-09-05 09:41:33",
+      "album": {
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
     },
     {
       "added_at": "2025-09-05 09:41:33",

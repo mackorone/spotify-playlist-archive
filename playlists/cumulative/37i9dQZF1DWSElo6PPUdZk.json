@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Simran Kaur Dhadli",
+  "description": "Catch the queens of Punjabi Pop. Cover: Simiran Kaur Dhadli",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -3351,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Queen Of Calli (From \"Aapocalypse\")",
+        "url": "https://open.spotify.com/album/2DxY8Csi4QmR3hnh5wxhjP"
+      },
+      "artists": [
+        {
+          "name": "Raman Romana",
+          "url": "https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv"
+        },
+        {
+          "name": "Verse",
+          "url": "https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148163,
+      "name": "Queen Of Calli (From \"Aapocalypse\")",
+      "url": "https://open.spotify.com/track/6RMI0sZiFkdhOrgOsnD8en"
+    },
+    {
+      "album": {
         "name": "Raah",
         "url": "https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy"
       },
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 234104,
       "name": "Sajjan Chale Gaye",
       "url": "https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb"

@@ -5165,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Hola MaRinaaAAA",
+        "url": "https://open.spotify.com/album/7Mr4BqjF3904aP6bqurgSn"
+      },
+      "artists": [
+        {
+          "name": "Marina Daza",
+          "url": "https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141304,
+      "name": "Hola MaRinaaAAA",
+      "url": "https://open.spotify.com/track/1I0XGkdTxico04E73ITKyu"
+    },
+    {
+      "album": {
         "name": "HOTEL EN HOTEL",
         "url": "https://open.spotify.com/album/0RmPX6LnQOD10bpCDIFma8"
       },
@@ -5344,6 +5362,24 @@
       "duration_ms": 129062,
       "name": "i GOT",
       "url": "https://open.spotify.com/track/10UAil3yHf66nY1vSIHVka"
+    },
+    {
+      "album": {
+        "name": "I GOTTA FEELING",
+        "url": "https://open.spotify.com/album/4HBAxET1UPevacaDrAGI0F"
+      },
+      "artists": [
+        {
+          "name": "Drew K.",
+          "url": "https://open.spotify.com/artist/7fqX79zrGOAWU1TJ9ozntW"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120839,
+      "name": "I GOTTA FEELING",
+      "url": "https://open.spotify.com/track/3sGCHZuFJLMKkxrjezyvGJ"
     },
     {
       "album": {
@@ -6020,7 +6056,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 125986,
       "name": "LA GUARDIA",
       "url": "https://open.spotify.com/track/0m1GcvmuavUSXIHqRsXTjV"
@@ -9138,7 +9174,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 96000,
       "name": "Omega",
       "url": "https://open.spotify.com/track/4s2oHgm5XcnSgEHPJYNMMA"

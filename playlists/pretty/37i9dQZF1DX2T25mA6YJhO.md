@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Amor Líquido, Las Petunias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,659 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,651 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 20 | [La matanza de Texas](https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa), [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [La matanza de Texas](https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR) | 3:00 |
 | 21 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 22 | [De Viaje](https://open.spotify.com/track/3LMI65OUMtvYj0jVU55maX) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:30 |
-| 23 | [Cisne negro](https://open.spotify.com/track/4FxW5Agp9HGxBFY5ZPAPs1) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Cisne negro](https://open.spotify.com/album/6uem8FfEmG8IvtZx4VrwLM) | 2:30 |
+| 23 | [Cisne negro](https://open.spotify.com/track/4FxW5Agp9HGxBFY5ZPAPs1) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Cisne negro](https://open.spotify.com/album/6uem8FfEmG8IvtZx4VrwLM) | 2:32 |
 | 24 | [Los Managers](https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Los Managers](https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT) | 3:43 |
 | 25 | [Elegante](https://open.spotify.com/track/6YeaXPb86tGmdlgpizacvb) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Elegante](https://open.spotify.com/album/2a0yaEpQbmjBMxkjwKW9qS) | 2:22 |
 | 26 | [Ella quiere tocarme el pelo](https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Ella quiere tocarme el pelo](https://open.spotify.com/album/3ZsloSV4M7bd7IKef9BxwJ) | 2:18 |

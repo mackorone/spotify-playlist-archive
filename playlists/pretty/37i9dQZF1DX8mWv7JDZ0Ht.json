@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Mariana Nolasco",
-  "num_followers": 437415,
+  "num_followers": 437388,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,26 @@
     {
       "added_at": "2025-09-01 15:16:21",
       "album": {
+        "name": "Em Mim Tamb\u00e9m Doeu",
+        "url": "https://open.spotify.com/album/48RKNc7bYaa9Y5MkgLqMGC"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        }
+      ],
+      "duration_ms": 148548,
+      "name": "Em Mim Tamb\u00e9m Doeu",
+      "url": "https://open.spotify.com/track/5hYRN8g0wjMA7AoVezrX1p"
+    },
+    {
+      "added_at": "2025-09-01 15:16:21",
+      "album": {
         "name": "Croch\u00ea",
         "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 216887,
       "name": "Nossa Estrela",
       "url": "https://open.spotify.com/track/1rI16UAU31APDnEPiujDy5"
-    },
-    {
-      "added_at": "2025-09-01 15:16:21",
-      "album": {
-        "name": "Em Mim Tamb\u00e9m Doeu",
-        "url": "https://open.spotify.com/album/48RKNc7bYaa9Y5MkgLqMGC"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        }
-      ],
-      "duration_ms": 148548,
-      "name": "Em Mim Tamb\u00e9m Doeu",
-      "url": "https://open.spotify.com/track/5hYRN8g0wjMA7AoVezrX1p"
     },
     {
       "added_at": "2025-09-01 15:16:21",

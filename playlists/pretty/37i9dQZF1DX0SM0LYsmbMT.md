@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,234,600 likes - 300 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,234,479 likes - 300 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 147 | [Worn Out](https://open.spotify.com/track/3L4lHBy6v9QPDyep6H7lFm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [Worn Out](https://open.spotify.com/album/5dyGbWLIxKFomU8pJGL4V8) | 1:43 |
 | 148 | [Nuevo](https://open.spotify.com/track/617zXIHQjwQI0FS1oSczGV) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Nuevo](https://open.spotify.com/album/2VGEd4mhPNuyWLMYsjy3iD) | 1:34 |
 | 149 | [Sunset Dribble](https://open.spotify.com/track/2pvgG3NaReC49uScWHI0pY) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [Sunset Dribble](https://open.spotify.com/album/6w8n6xQ0MTY548Dj2vuXpQ) | 2:24 |
-| 150 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Les Jardíns](https://open.spotify.com/artist/1KmgcJvdi7bqvZMrCr9z8a) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 |
+| 150 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 |
 | 151 | [Autumn Leaves](https://open.spotify.com/track/6rzBDEJ3V3VRuc42OeRe9f) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [WOX](https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9) | [Autumn Leaves](https://open.spotify.com/album/5f9eCZ7zM4nymYWZzwH67x) | 2:22 |
 | 152 | [Keep It Up](https://open.spotify.com/track/4HseTAkmR3lvidL8ut0NvB) | [Spurendieb](https://open.spotify.com/artist/2ZkqHfi77hI8mhB7TymaZX), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Keep It Up](https://open.spotify.com/album/4Zh7aRDCcRqi2ATNs66Q5R) | 2:20 |
 | 153 | [cycles](https://open.spotify.com/track/55nIFLXoWJDzwbTyT3v6tu) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [cycles](https://open.spotify.com/album/0wbo43jLQ902v4wSimCh1u) | 2:12 |

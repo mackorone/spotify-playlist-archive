@@ -2,7 +2,7 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Urumi
 
 403 songs - 1 day 1 hr 13 min
 

@@ -389,7 +389,7 @@
     },
     {
       "album": {
-        "name": "Enfermo",
+        "name": "Enfermo De Amor",
         "url": "https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH"
       },
       "artists": [
@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 224173,
       "name": "Desn\u00fadame Con La Boca",
       "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Zona De Peligro",
+        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182960,
+      "name": "Permaneces En M\u00ed",
+      "url": "https://open.spotify.com/track/4hBKlTsn1rW7DxvEwgriaQ"
+    },
+    {
+      "album": {
         "name": "Zona de Peligro",
         "url": "https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA"
       },
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 182960,
       "name": "Permaneces en M\u00ed",
       "url": "https://open.spotify.com/track/4p5UDTUZXr7T8ctt1X1zg0"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 250133,
       "name": "Te Voy A Amar - En Vivo",
       "url": "https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0"

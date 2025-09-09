@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Focalistic & Ch'cco, Sjava, Will Linley and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,508 likes - 74 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,445 likes - 74 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

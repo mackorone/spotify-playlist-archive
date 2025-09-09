@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-126 songs - 7 hr 4 min
+127 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 | 2025-01-13 |  |
 | [Mince Meat](https://open.spotify.com/track/4bCBiFAPiK7rquriyiHByb) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 2:32 | 2025-03-04 |  |
 | [Molasses \(feat\. RZA\)](https://open.spotify.com/track/7lhkOb0VNnTlshwifCEoSr) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:16 | 2025-02-06 | 2025-04-20 |
+| [Mother I Sober \(feat\. Beth Gibbons of Portishead\)](https://open.spotify.com/track/346SJSEbB6pNZMpwovxDiu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 6:46 | 2025-09-09 |  |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2025-03-24 |  |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2025-04-15 |  |
 | [Next Levels](https://open.spotify.com/track/58MeeOMk6PMQxXWY9YCNPD) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [John Robinson](https://open.spotify.com/artist/2vyB0oUbcyIaoBVgUwhxZL), [Stahhr](https://open.spotify.com/artist/6wkhmi47U2W7idLK5sl91l), [Stacy Epps](https://open.spotify.com/artist/59liBbbghYBWqX9dN68XYH), [Invizible Handz](https://open.spotify.com/artist/4O8gN5lYpDVo6wGzmC14mq) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:49 | 2025-03-06 |  |

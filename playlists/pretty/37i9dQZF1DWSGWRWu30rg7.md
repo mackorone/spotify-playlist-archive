@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover:notyourwife
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,273 likes - 110 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,272 likes - 110 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 3 | [Sendiri Untuk Hati](https://open.spotify.com/track/3LPn7vWBpDSVBy8zIo1DUw) | [Tesa Daguww](https://open.spotify.com/artist/1IJPBv70cMQtiiQM2OvWFs) | [Sendiri Untuk Hati](https://open.spotify.com/album/05cq9SdCmkvWMKdwvDZ506) | 4:16 |
 | 4 | [Tahan Amarah](https://open.spotify.com/track/5JhvzQI8o71NNKSveOHHmg) | [Alyssaza](https://open.spotify.com/artist/1i7isW4rGJ22fxsQVbFnJi) | [Tahan Amarah](https://open.spotify.com/album/7HeVyVOjvB61pmp2yKq0td) | 3:11 |
 | 5 | [Weekend Kilat](https://open.spotify.com/track/6A10XdX5KBwNJP4sXZbUoA) | [Perang Batin](https://open.spotify.com/artist/2Sb2r2HQdUONz09GpkfDtv) | [Weekend Kilat](https://open.spotify.com/album/1WJC1Rm1TEWLLG6imNNWKy) | 1:54 |
-| 6 | [Fight](https://open.spotify.com/track/6iqbG03WIAgWBP6ngZBb1C) | [Revaldo](https://open.spotify.com/artist/1nnoVrnO1XpFJHUn2Tohet) | [Fight](https://open.spotify.com/album/1e57FIhA3pUHQYGebO151H) | 2:39 |
+| 6 | [Fight \- From "My Husband Secret Identity"](https://open.spotify.com/track/6iqbG03WIAgWBP6ngZBb1C) | [Revaldo](https://open.spotify.com/artist/1nnoVrnO1XpFJHUn2Tohet) | [Fight \(From "My Husband Secret Identity"\)](https://open.spotify.com/album/1e57FIhA3pUHQYGebO151H) | 2:39 |
 | 7 | [Retakan](https://open.spotify.com/track/0asjxS2GU2lbrf8VLV5ln7) | [Seraya](https://open.spotify.com/artist/2Tku7hQLzVI98zSTBfZzBA) | [Retakan](https://open.spotify.com/album/4HVRcUo7RBVgNYg1QA4VcS) | 2:47 |
 | 8 | [sudah](https://open.spotify.com/track/3NJgoy5FAgneipobnTqn6z) | [Ara Lumi](https://open.spotify.com/artist/384l5rdCDZQFnH4P3rDQ5R) | [by Ara](https://open.spotify.com/album/08Z6LGtD20bmMj1HRhgPg3) | 4:01 |
 | 9 | [Macet Boss!](https://open.spotify.com/track/7C7TQvVZ1JkwAe6qkXO951) | [Arshrn\_](https://open.spotify.com/artist/0WwUIfFUwDqoK5sBtadTD3) | [Macet Boss!](https://open.spotify.com/album/6cKGapmsMFTBwUIZO8qLmX) | 2:31 |

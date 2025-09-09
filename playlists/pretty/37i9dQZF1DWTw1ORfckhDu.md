@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa Sara Bee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,213 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,204 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 5 | [Nuori Mut Ei Tyhmä](https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nuori Mut Ei Tyhmä](https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0) | 2:39 |
 | 6 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
 | 7 | [Mun Maailma](https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Mun Maailma](https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj) | 2:38 |
-| 8 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 |
-| 9 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
+| 8 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
+| 9 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 |
 | 10 | [Ms\. Bad](https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ms\. Bad](https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ) | 3:00 |
 | 11 | [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 |
 | 12 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [PAPA \(feat\. Davy\)](https://open.spotify.com/track/1iAS0t6WrGqM4v9xnVxKHk) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PAPA \(feat\. Davy\)](https://open.spotify.com/album/30LlVSSfc2Yt2Lgd2YdsyW) | 2:27 |
 | 50 | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN) | 3:17 |
 
-Snapshot ID: `AAAAAA9W04fz/7D/+CMlEP5NxMGpOYdx`
+Snapshot ID: `AAAAAK6pv7upsvIF1GAdGWt0/pap7Yg6`

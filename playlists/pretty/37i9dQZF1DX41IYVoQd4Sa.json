@@ -763,6 +763,22 @@
     {
       "added_at": "2025-09-04 21:00:21",
       "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "added_at": "2025-09-04 21:00:21",
+      "album": {
         "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
         "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
@@ -783,18 +799,22 @@
     {
       "added_at": "2025-09-04 21:00:21",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+        "name": "\u05d1\u05d7\u05d6\u05e8\u05d4 \u05dc\u05d0\u05e8\u05d5\u05df",
+        "url": "https://open.spotify.com/album/2wM0XTYE5UDr2dlgs6OqWp"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "\u05e0\u05d5\u05d2\u05d4",
+          "url": "https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc"
+        },
+        {
+          "name": "Lava Dome",
+          "url": "https://open.spotify.com/artist/7cyXcAXjpUsTLIvBqsmIEC"
         }
       ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+      "duration_ms": 178367,
+      "name": "\u05d7\u05d5\u05e8\u05dc\u05d0",
+      "url": "https://open.spotify.com/track/3C7jJyJwgICuugBmm0ydGM"
     },
     {
       "added_at": "2025-09-04 21:00:21",
@@ -815,26 +835,6 @@
       "duration_ms": 180661,
       "name": "Running Out of Time",
       "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
-    },
-    {
-      "added_at": "2025-09-04 21:00:21",
-      "album": {
-        "name": "\u05d1\u05d7\u05d6\u05e8\u05d4 \u05dc\u05d0\u05e8\u05d5\u05df",
-        "url": "https://open.spotify.com/album/2wM0XTYE5UDr2dlgs6OqWp"
-      },
-      "artists": [
-        {
-          "name": "\u05e0\u05d5\u05d2\u05d4",
-          "url": "https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc"
-        },
-        {
-          "name": "Lava Dome",
-          "url": "https://open.spotify.com/artist/7cyXcAXjpUsTLIvBqsmIEC"
-        }
-      ],
-      "duration_ms": 178367,
-      "name": "\u05d7\u05d5\u05e8\u05dc\u05d0",
-      "url": "https://open.spotify.com/track/3C7jJyJwgICuugBmm0ydGM"
     },
     {
       "added_at": "2025-09-04 21:00:21",

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-582 songs - 1 day 23 hr 3 min
+583 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Gospel Gyration Praise](https://open.spotify.com/track/5Xlvp9uxsGS05pUoFyqIHF) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Gospel Gyration Praise](https://open.spotify.com/album/6a86EokSQpzN3wluTEnBFB) | 5:55 | 2025-05-23 | 2025-06-13 |
 | [Grace found me](https://open.spotify.com/track/4FlUY7iLdtfyHbbGVvpqM5) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [Grace found me](https://open.spotify.com/album/1I4ijFE5XwsOzAqRbGQT5x) | 9:06 | 2025-07-18 |  |
 | [Grateful](https://open.spotify.com/track/7eb7nSuU857g6I0BaTobzz) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Grateful](https://open.spotify.com/album/6Fh8l7FYm4ao0tFYJ9X3R9) | 5:34 | 2025-06-13 | 2025-06-27 |
+| [Great and Mighty](https://open.spotify.com/track/0Xpb7quWmjbEUtMolZKuBr) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Great and Mighty](https://open.spotify.com/album/2NM3BD949dyy9SA5b5rN4s) | 6:35 | 2025-08-29 |  |
 | [GREAT AND MIGHTY](https://open.spotify.com/track/5UHI8GBPVcjN84itGHxVQF) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [GREAT AND MIGHTY](https://open.spotify.com/album/00H1U0v6a4YIIsa51RqMMm) | 2:55 | 2025-05-16 | 2025-06-20 |
 | [Great I Am](https://open.spotify.com/track/3y3x4S2SIinqdfSGn0gDF4) | [Prosper King](https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A) | [Great I Am](https://open.spotify.com/album/1QwUFrZEGrQsiKAZtOM7co) | 4:42 | 2025-08-08 | 2025-08-30 |
 | [GREAT IS YOUR NAME](https://open.spotify.com/track/3kF3grLSpjIEY4PWGuAdwW) | [Pekkie Martynz](https://open.spotify.com/artist/2kBhUMGzobcyaJZIV8IS3s) | [GREAT IS YOUR NAME](https://open.spotify.com/album/5A00N0IrVMDAMoAvVNnSMl) | 5:15 | 2025-06-27 | 2025-07-15 |
@@ -191,7 +192,7 @@
 | [Hallowed be Your name](https://open.spotify.com/track/46rcEw6HHRMHISqGI0U5ZZ) | [Deborah\-Divine](https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ) | [Hallowed be Your name](https://open.spotify.com/album/7LFyb6Flt2msg9R00Ufnw5) | 5:35 | 2025-07-11 | 2025-08-26 |
 | [He Won't \(Worship Medley\)](https://open.spotify.com/track/0zGdGRc5Cv0b89wx3HfiNn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [He Won't \(Worship Medley\)](https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR) | 11:49 | 2025-03-28 | 2025-06-20 |
 | [HE'S HERE \(THE KABOD\)](https://open.spotify.com/track/2a4wzlyRLx0zvz71WgseXN) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [HE'S HERE \(THE KABOD\)](https://open.spotify.com/album/7Cekl5I7lIp501IHTHOSru) | 7:40 | 2024-03-01 | 2025-06-06 |
-| [Heal](https://open.spotify.com/track/2Uf3cKXiFkyGee73C8og1G) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Heal](https://open.spotify.com/album/21cNfAyXPr5Nt5kKXPvyBd) | 2:33 | 2025-06-20 |  |
+| [Heal](https://open.spotify.com/track/2Uf3cKXiFkyGee73C8og1G) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Heal](https://open.spotify.com/album/21cNfAyXPr5Nt5kKXPvyBd) | 2:33 | 2025-06-20 | 2025-09-09 |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 | 2025-06-20 |
 | [Heaven's Got My Back](https://open.spotify.com/track/0CxtJRvWV4wx9PgtpPuaII) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Heaven's Got My Back](https://open.spotify.com/album/50RExeqQJQuzvidZovHFQ2) | 2:30 | 2025-08-08 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 | 2024-08-17 |

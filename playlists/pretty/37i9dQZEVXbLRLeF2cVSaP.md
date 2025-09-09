@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,134 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,135 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Пусто](https://open.spotify.com/track/3xtXsrdgC3G0Qg2DEntVVb) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf), [Bollo](https://open.spotify.com/artist/57ZUR83yoB6QYFnPKUXahT) | [Сатпаева 32](https://open.spotify.com/album/2TgHpBzTIBOvch9Pqd7563) | 3:22 |
 | 50 | [я молодой вампир vamp](https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:31 |
 
-Snapshot ID: `MFD1IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

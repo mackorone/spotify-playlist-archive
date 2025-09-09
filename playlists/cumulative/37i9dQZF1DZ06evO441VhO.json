@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 183282,
       "name": "When Both Sides Suck, We're All Winners",
       "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 183282,
       "name": "When Both Sides Suck, We\u2019re All Winners",
       "url": "https://open.spotify.com/track/3zxYNAUaz1gqFgINPBqjv8"
@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "You Don't Know Anything About Me",
+      "url": "https://open.spotify.com/track/0Bfi4xUfHr3R8GnfYr2rcz"
+    },
+    {
+      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 164782,
       "name": "You Don\u2019t Know Anything About Me",
       "url": "https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm"

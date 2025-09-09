@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain](/playlists/plain/37i9dQZF1DX8ZfTXESa5KP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ZfTXESa5KP)
 
-### [CMA Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
+### [CMA Awards 2025](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
 
-> Congratulations to all of the nominees and winners! Cover: Megan Moroney
+> Congratulations to all of the nominees! Watch the CMA Awards live on November 19th at 8/7c on ABC! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,213 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,230 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 54 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
 | 55 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 |
 
-Snapshot ID: `AAAAAM/N0jAaYBHHJoq5dblHoP71t5PS`
+Snapshot ID: `AAAAAFvtPGzdxbaWdbECjpu6cJh1+Tu6`

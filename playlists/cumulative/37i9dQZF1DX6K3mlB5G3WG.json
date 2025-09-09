@@ -10603,6 +10603,24 @@
     },
     {
       "album": {
+        "name": "Elodie",
+        "url": "https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171962,
+      "name": "Elodie",
+      "url": "https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV"
+    },
+    {
+      "album": {
         "name": "empatia",
         "url": "https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6"
       },
@@ -11944,6 +11962,24 @@
       "duration_ms": 163459,
       "name": "Flash",
       "url": "https://open.spotify.com/track/22PKUag5iBqKXkU5ca0rnj"
+    },
+    {
+      "album": {
+        "name": "FLASHBACK",
+        "url": "https://open.spotify.com/album/4BP2kKPtL6k5HmG13tEFq4"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "FLASHBACK",
+      "url": "https://open.spotify.com/track/57NFelBvcQDFraj1HLiJ9g"
     },
     {
       "album": {

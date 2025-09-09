@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 224813,
       "name": "(Ghost) Riders in the Sky",
       "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 308373,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 220318,
       "name": "Black Road",
       "url": "https://open.spotify.com/track/7zUAKqKtqpGNNN0drkJGDS"
@@ -9038,7 +9038,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 151693,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
@@ -9712,7 +9712,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 276560,
       "name": "Dance This Mess Around",
       "url": "https://open.spotify.com/track/207qLd1ovrqfYVBBDrNMUM"
@@ -12733,6 +12733,24 @@
     },
     {
       "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "Eau D' Bedroom Dancing",
+      "url": "https://open.spotify.com/track/0MRylncmeKOjDF14R8r6eK"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf"
       },
@@ -14440,7 +14458,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Everybody's Happy Nowadays - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7xUEsVEwSSXhjgBgZG57Tl"
@@ -15200,7 +15218,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 208653,
       "name": "Fight For Your Right",
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
@@ -16668,7 +16686,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 247600,
       "name": "Get Gone",
       "url": "https://open.spotify.com/track/32yottFNSCL9Nho9biIKzY"
@@ -16992,7 +17010,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 174906,
       "name": "God Only Knows - Remastered 1996",
       "url": "https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC"
@@ -17118,7 +17136,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 186066,
       "name": "Gone Daddy Gone",
       "url": "https://open.spotify.com/track/7mVoBnU3mxV5Q6n4DmOv6K"
@@ -20122,7 +20140,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "I Love the Darkness in You",
       "url": "https://open.spotify.com/track/5YHzUlyf07Dm5jGQJLzsQQ"
@@ -20252,6 +20270,24 @@
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
+    },
+    {
+      "album": {
+        "name": "Triumph And Agony",
+        "url": "https://open.spotify.com/album/36xszGjHscPl8xhyw8QkVK"
+      },
+      "artists": [
+        {
+          "name": "Warlock",
+          "url": "https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "I Rule The Ruins",
+      "url": "https://open.spotify.com/track/5NDKzxaHrykhfbd316XIqW"
     },
     {
       "album": {
@@ -20824,7 +20860,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 269800,
       "name": "If You Leave - Remastered 2019",
       "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
@@ -21940,7 +21976,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 251200,
       "name": "Iron Head",
       "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
@@ -22378,7 +22414,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 257786,
       "name": "Jealous Guy - Remastered 2010",
       "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
@@ -24028,7 +24064,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 163640,
       "name": "La La Love You",
       "url": "https://open.spotify.com/track/6x0cOqPP07gTXusQfK9COQ"
@@ -25331,6 +25367,24 @@
     },
     {
       "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Little Bitch - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7nLLWqkNxRIaU9Xg6Vn2zr"
+    },
+    {
+      "album": {
         "name": "El Camino (2021 Remaster)",
         "url": "https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8"
       },
@@ -26378,6 +26432,24 @@
       "duration_ms": 202320,
       "name": "Luna - 2011 Remaster",
       "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"
+    },
+    {
+      "album": {
+        "name": "As Far As Siam",
+        "url": "https://open.spotify.com/album/24xLvFKw7kxpwe3YRK00Ch"
+      },
+      "artists": [
+        {
+          "name": "Red Rider",
+          "url": "https://open.spotify.com/artist/4EGlaDAVZTNNknDdKHrHRp"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263066,
+      "name": "Lunatic Fringe",
+      "url": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr"
     },
     {
       "album": {
@@ -27461,6 +27533,24 @@
     },
     {
       "album": {
+        "name": "The Night Creeper",
+        "url": "https://open.spotify.com/album/65LEVuiaFy4AJmjO56yuk1"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354408,
+      "name": "Melody Lane",
+      "url": "https://open.spotify.com/track/6lS2jdGhJvy0M1gDM8spDy"
+    },
+    {
+      "album": {
         "name": "Antemasque (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7j0PqNbiAhgq3qNyNHf4z0"
       },
@@ -27814,7 +27904,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 233000,
       "name": "Milquetoast",
       "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
@@ -27922,7 +28012,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 134933,
       "name": "Misirlou",
       "url": "https://open.spotify.com/track/7wWIhN947etKKsGOlcTgaH"
@@ -28492,7 +28582,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 210760,
       "name": "Movin' Out (Anthony's Song)",
       "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
@@ -30218,7 +30308,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 208266,
       "name": "No Distance Left to Run",
       "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
@@ -30348,7 +30438,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 222383,
       "name": "No Love Lost - 2010 Remaster",
       "url": "https://open.spotify.com/track/3DGl2F6Rw8EZV35H4K9sgz"
@@ -33002,7 +33092,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O"
@@ -36268,7 +36358,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 268026,
       "name": "Rx Queen",
       "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
@@ -37756,7 +37846,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 288600,
       "name": "Shake the Disease",
       "url": "https://open.spotify.com/track/0a1SoGdF8U1PNHtfKRAx91"
@@ -39424,7 +39514,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 304427,
       "name": "Sober to Death",
       "url": "https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec"
@@ -39892,7 +39982,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 258373,
       "name": "Sounds Good to Me",
       "url": "https://open.spotify.com/track/0UOYytvwBiPogdJgrTOHbK"
@@ -41168,7 +41258,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 270520,
       "name": "Stylo (feat. Mos Def and Bobby Womack)",
       "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
@@ -46628,7 +46718,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Tried And True",
       "url": "https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH"
@@ -46866,7 +46956,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 229093,
       "name": "Turn to Stone",
       "url": "https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"
@@ -47464,7 +47554,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 267173,
       "name": "Undone",
       "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
@@ -49704,7 +49794,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 263880,
       "name": "When You Die",
       "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
@@ -50526,7 +50616,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 266653,
       "name": "World In My Eyes",
       "url": "https://open.spotify.com/track/0TBn49AjkNufCRJ2O5VJ6s"

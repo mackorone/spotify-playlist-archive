@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,806 likes - 300 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,711 likes - 300 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 68 | [capricorn](https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [capricorn](https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG) | 2:04 |
 | 69 | [Gameboy](https://open.spotify.com/track/69Wy5L5OTVYeQDztAIQQEf) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Gameboy](https://open.spotify.com/album/2Hjq6BNgblfylZkW3LJjsJ) | 1:48 |
 | 70 | [have u ever](https://open.spotify.com/track/2AAoaN6bnREdznndvohdSw) | [snarewallet](https://open.spotify.com/artist/0oqkXt30H4WWfXLYxYWn0G) | [have u ever](https://open.spotify.com/album/1iMSdxwawP1tkc9DifLXrf) | 1:54 |
-| 71 | [Blue Skies](https://open.spotify.com/track/0XA711CN95SCkCwMsQvIR6) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Blue Skies](https://open.spotify.com/album/3BtBTdhmL7fg1RchxUWnoK) | 1:56 |
-| 72 | [abuela loca](https://open.spotify.com/track/3JC4V3lcxJmM9tADSUGtwa) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [abuela loca](https://open.spotify.com/album/1NmesN5FuVxihPCWY0xYwR) | 1:25 |
-| 73 | [Green Cascade](https://open.spotify.com/track/3RpuDYXAtud2yNQF1Xa3JD) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Green Cascade](https://open.spotify.com/album/4Oa7Ba1NWIGoCo3X1jcobF) | 2:35 |
-| 74 | [The Blue Wood forest](https://open.spotify.com/track/4oU6oP8h6MxwHdxpH9H4Fg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [The Blue Wood forest](https://open.spotify.com/album/7e11EFr7SNBz1Y9Bq6cxWI) | 2:19 |
-| 75 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 |
+| 71 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 |
+| 72 | [Blue Skies](https://open.spotify.com/track/0XA711CN95SCkCwMsQvIR6) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Blue Skies](https://open.spotify.com/album/3BtBTdhmL7fg1RchxUWnoK) | 1:56 |
+| 73 | [abuela loca](https://open.spotify.com/track/3JC4V3lcxJmM9tADSUGtwa) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [abuela loca](https://open.spotify.com/album/1NmesN5FuVxihPCWY0xYwR) | 1:25 |
+| 74 | [Green Cascade](https://open.spotify.com/track/3RpuDYXAtud2yNQF1Xa3JD) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Green Cascade](https://open.spotify.com/album/4Oa7Ba1NWIGoCo3X1jcobF) | 2:35 |
+| 75 | [The Blue Wood forest](https://open.spotify.com/track/4oU6oP8h6MxwHdxpH9H4Fg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [The Blue Wood forest](https://open.spotify.com/album/7e11EFr7SNBz1Y9Bq6cxWI) | 2:19 |
 | 76 | [My Treat](https://open.spotify.com/track/3s66gdZkMGrpjY04UyU5yX) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [My Treat](https://open.spotify.com/album/2YNRCzDh6HNNQmDFOOLJu5) | 2:02 |
 | 77 | [Im Like Ice, Buddy](https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4) | [Cosmoo](https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG) | [Im Like Ice, Buddy](https://open.spotify.com/album/7limCyVYGVJjik6yeFef92) | 2:04 |
 | 78 | [Khushi](https://open.spotify.com/track/5JqTBl0Dx1lnXiryzSzABE) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Yaatra](https://open.spotify.com/album/2QTCNSD0a6ihWvp0oOo0ck) | 2:21 |
@@ -168,11 +168,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 158 | [Fresco](https://open.spotify.com/track/6nd7AMvNXFfddy1MKGD8ZI) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [Fresco](https://open.spotify.com/album/241THgorrjY74D3VBe0ViG) | 2:18 |
 | 159 | [b side](https://open.spotify.com/track/6hUbKFoBqMOGJG5rnQ8qpd) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [b side](https://open.spotify.com/album/17LmbYfU3fBzqxWG9miISo) | 1:50 |
 | 160 | [The Simple Life](https://open.spotify.com/track/5YO3Vqve61SxDVy9kynuas) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [The Simple Life](https://open.spotify.com/album/6gGfQHr7DT0Z52DXDFosgq) | 1:56 |
-| 161 | [una giornata al parco](https://open.spotify.com/track/5HzOxWnen6pE6l9KbSEQaq) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 3](https://open.spotify.com/album/4lqmoKeBB92p6Aq8WTJFLN) | 2:07 |
-| 162 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 |
-| 163 | [Hangout](https://open.spotify.com/track/5MVwjrJ6J1dcLNfeyV2WAR) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Hangout](https://open.spotify.com/album/3j5tmSS8YJ3XUYYr1H46Kz) | 2:11 |
-| 164 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
-| 165 | [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 |
+| 161 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 |
+| 162 | [Hangout](https://open.spotify.com/track/5MVwjrJ6J1dcLNfeyV2WAR) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Hangout](https://open.spotify.com/album/3j5tmSS8YJ3XUYYr1H46Kz) | 2:11 |
+| 163 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
+| 164 | [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 |
+| 165 | [una giornata al parco](https://open.spotify.com/track/5HzOxWnen6pE6l9KbSEQaq) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 3](https://open.spotify.com/album/4lqmoKeBB92p6Aq8WTJFLN) | 2:07 |
 | 166 | [mango and strawberries](https://open.spotify.com/track/1D0lFM7EgG31Ew697rfQRd) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [mango and strawberries](https://open.spotify.com/album/7vbbI83S7N05GUX6baD6tS) | 2:15 |
 | 167 | [Bianco d'artista](https://open.spotify.com/track/7bkPzA3XGV8boGQI4GdkDX) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Bianco d'artista](https://open.spotify.com/album/3al0VWHYGdWnJN4iGqPff2) | 2:01 |
 | 168 | [Free](https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Free](https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt) | 2:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,837 likes - 195 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,525 likes - 195 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 124 | [Calming Encounter \(nature\)](https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Calming Encounter](https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK) | 3:17 |
 | 125 | [Tantra](https://open.spotify.com/track/2yxNtcqRXXLPpUroUaKYAh) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 1:46 |
 | 126 | [Inmensity](https://open.spotify.com/track/1CgVfTgDI5C0KtupDqLpbq) | [Linamla](https://open.spotify.com/artist/6x1wKPLWjpLNeTZT2WxdRj) | [Inmensity](https://open.spotify.com/album/6lccCDR7O0mLxyK62DuvGn) | 2:19 |
-| 127 | [Deeper Calm](https://open.spotify.com/track/2BpU0v43DOa2MlVcj2OWiw) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Deeper Calm](https://open.spotify.com/album/5Vwn2s4MmjXlJBbrqXuhXJ) | 2:28 |
-| 128 | [Sostenuto](https://open.spotify.com/track/5qD6H1TpKDs9oHobHFymJw) | [Asanka](https://open.spotify.com/artist/5UhSxhd4fYQX6TkzBK0EEF) | [Sostenuto](https://open.spotify.com/album/5W9F1QyOghWMU7vln1Lvhn) | 4:29 |
+| 127 | [Sostenuto](https://open.spotify.com/track/5qD6H1TpKDs9oHobHFymJw) | [Asanka](https://open.spotify.com/artist/5UhSxhd4fYQX6TkzBK0EEF) | [Sostenuto](https://open.spotify.com/album/5W9F1QyOghWMU7vln1Lvhn) | 4:29 |
+| 128 | [Deeper Calm](https://open.spotify.com/track/2BpU0v43DOa2MlVcj2OWiw) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Deeper Calm](https://open.spotify.com/album/5Vwn2s4MmjXlJBbrqXuhXJ) | 2:28 |
 | 129 | [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 |
 | 130 | [Healing Stream \(432 Hz\)](https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Healing Stream \(432 Hz\)](https://open.spotify.com/album/1YL9uNSBY8dLqbVHXzS9ZI) | 3:25 |
 | 131 | [Mindful Movement](https://open.spotify.com/track/09ueGKqwkpHXhAQjMbCrOL) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Mindful Movement](https://open.spotify.com/album/1lXseNRj9i3E24O1DfEQQQ) | 3:15 |

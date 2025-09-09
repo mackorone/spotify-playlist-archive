@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Peak IBZ szn has arrived!
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,889 likes - 324 songs - 21 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,801 likes - 324 songs - 21 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

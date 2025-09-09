@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t?si=zwSiOBQ8T\-GlcY0bXH\-XJw"> FEYI</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,647 likes - 531 songs - 1 day 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,601 likes - 531 songs - 1 day 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -540,4 +540,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 530 | [Let Me Grow](https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Let Me Grow](https://open.spotify.com/album/14O5OciGC6vcuE6h17l3aC) | 3:35 |
 | 531 | [September](https://open.spotify.com/track/1OC7RsmwnawzA8tZpL5kFQ) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [September](https://open.spotify.com/album/3eFOUZZGqMdcVX4sPEFAih) | 4:04 |
 
-Snapshot ID: `AAAAAEROddUyPg+cNdMZMa4IcpyWK2uA`
+Snapshot ID: `AAAAAPVoXxFjtgKSwp7/cRWOnD9cEp0a`

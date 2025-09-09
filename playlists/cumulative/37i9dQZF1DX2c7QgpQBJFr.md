@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  ceneri in cover
 
-789 songs - 1 day 13 hr 7 min
+790 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [echo](https://open.spotify.com/track/3ifNyXqb7qGcG3py1IyAo3) | [leoluca](https://open.spotify.com/artist/6uoBNsycy2K9rz6rxUE20h) | [echo](https://open.spotify.com/album/3YXyCF3bGireRzLGkfIHJj) | 3:01 | 2025-01-09 | 2025-01-31 |
 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 | 2025-02-13 | 2025-05-02 |
 | [Eco](https://open.spotify.com/track/61dcUcm498MpM19fP2JhAR) | [Najma](https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk) | [Eco](https://open.spotify.com/album/0DTKnBQlcpKuCrhAQmtcLu) | 3:50 | 2025-05-01 | 2025-06-13 |
+| [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 | 2025-09-08 |  |
 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 | 2025-04-17 | 2025-05-23 |
 | [Erano More](https://open.spotify.com/track/5QPnP4B7BWPV2bnePCG8L2) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Erano More](https://open.spotify.com/album/1OPHsPlARIB1UoHcLQKm1z) | 3:14 | 2024-12-12 | 2025-02-12 |
 | [Erba](https://open.spotify.com/track/6k61p53Pg6sQ5scWD5mTpm) | [Basim](https://open.spotify.com/artist/06VrZAhcffLACn4VGBBspO) | [Erba](https://open.spotify.com/album/5h7v1bTaCBjweTVCocaPov) | 2:55 | 2025-07-24 |  |

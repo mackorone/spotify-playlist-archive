@@ -803,6 +803,32 @@
     },
     {
       "album": {
+        "name": "Bas Tera",
+        "url": "https://open.spotify.com/album/1j49gObVKmDIryLarBYHGT"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rishabh Kant",
+          "url": "https://open.spotify.com/artist/4HcgirZVhxfnxOGYfyaqtT"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236304,
+      "name": "Bas Tera",
+      "url": "https://open.spotify.com/track/4Z7A6HSaZQIuZzJTtmuLpg"
+    },
+    {
+      "album": {
         "name": "Bavajud",
         "url": "https://open.spotify.com/album/1Rrm5dhLeJGn0QEp4goHco"
       },
@@ -2008,10 +2034,40 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 142968,
       "name": "Gori",
       "url": "https://open.spotify.com/track/1T7gg2gjy2wS0PHApXDsES"
+    },
+    {
+      "album": {
+        "name": "Gulabi Saawariya (From \"Ek Chatur Naar\")",
+        "url": "https://open.spotify.com/album/6L1pHtYbI7vi7jrJdxtSc4"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193104,
+      "name": "Gulabi Saawariya (From \"Ek Chatur Naar\")",
+      "url": "https://open.spotify.com/track/0z1tASvEcqTHGbZ9HMkDFr"
     },
     {
       "album": {
@@ -3562,7 +3618,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 164181,
       "name": "Mera Aasmaan",
       "url": "https://open.spotify.com/track/7EGUWx4v8Z8WbI0cOAtdhT"

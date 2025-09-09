@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 762,
+  "num_followers": 761,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAACTgSUe4IyfxlAL0XVvew2H",
+  "snapshot_id": "aLooAAAAAABiH/Ml1kn+mg16bVDGODR/",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "The Hatch",
+      "url": "https://open.spotify.com/track/1mleJhqMVmUEIRYzh0RUXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
       },
@@ -348,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 80493,
-      "name": "Roy's Gift",
-      "url": "https://open.spotify.com/track/2RA6or9ARt4HvluVyETjBo"
+      "duration_ms": 143893,
+      "name": "LaBelle Opera",
+      "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

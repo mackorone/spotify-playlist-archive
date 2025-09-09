@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 7419,
+  "num_followers": 7383,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "HIT EM WHERE IT HURTS",
-        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 165499,
-      "name": "HIT EM WHERE IT HURTS",
-      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Get In With Me",
         "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 262387,
       "name": "Tangled dreams",
       "url": "https://open.spotify.com/track/5PCoCu7jl8FJTm6rKAmFDZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "HIT EM WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blue Tequila",
-        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1o",
-          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Blue Tequila",
-      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 173619,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blue Tequila",
+        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Blue Tequila",
+      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Alcal\u00e1 Norte",
-        "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
-      },
-      "artists": [
-        {
-          "name": "Alcal\u00e1 Norte",
-          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "La Vida Ca\u00f1\u00f3n",
-      "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 177176,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Alcal\u00e1 Norte",
+        "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "La Vida Ca\u00f1\u00f3n",
+      "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5"
-      },
-      "artists": [
-        {
-          "name": "STE",
-          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
-        }
-      ],
-      "duration_ms": 134302,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 212093,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "duration_ms": 134302,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "U\u00e7urum",
         "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 150000,
       "name": "U\u00e7urum",
       "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 207307,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Liham Sa Ulap",
-        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
-      },
-      "artists": [
-        {
-          "name": "KYLIX",
-          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
-        }
-      ],
-      "duration_ms": 188664,
-      "name": "Liham Sa Ulap",
-      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Koszulka",
         "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 252226,
       "name": "Koszulka",
       "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Liham Sa Ulap",
+        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "duration_ms": 188664,
+      "name": "Liham Sa Ulap",
+      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "THE RUSH",
-        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130515,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -2411,6 +2395,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "THE RUSH",
+        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
       },
@@ -2423,6 +2423,22 @@
       "duration_ms": 196352,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Headz Gone West",
+        "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142628,
+      "name": "Headz Gone West",
+      "url": "https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2447,18 +2463,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Headz Gone West",
-        "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
         }
       ],
-      "duration_ms": 142628,
-      "name": "Headz Gone West",
-      "url": "https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg"
+      "duration_ms": 172773,
+      "name": "gimme all ur luv",
+      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2475,26 +2491,6 @@
       "duration_ms": 138311,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6a6JDEQbXdxkWFRIA0pRqL"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Khayaal",
-        "url": "https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Khayaal",
-      "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

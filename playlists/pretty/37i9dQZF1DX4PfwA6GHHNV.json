@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21832,
+  "num_followers": 21817,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqqGZrsYb1sevokXbP/ifzlkfdI",
+  "snapshot_id": "AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm",
   "tracks": [
     {
       "added_at": "2025-08-22 17:11:08",
@@ -975,6 +975,26 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 182448,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-08-22 17:11:08",

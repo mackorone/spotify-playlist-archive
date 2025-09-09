@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "All You Show",
+        "url": "https://open.spotify.com/album/1algA8DpFyTmlzqyjx7YF3"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "All You Show",
+      "url": "https://open.spotify.com/track/7Do8ZdOYHngMkRkiUycVJT"
+    },
+    {
+      "album": {
         "name": "Alright Now",
         "url": "https://open.spotify.com/album/403fgfbKYFiRZJJ1mOXwIk"
       },
@@ -2805,6 +2823,28 @@
     },
     {
       "album": {
+        "name": "Gold Tongue",
+        "url": "https://open.spotify.com/album/4uzuL7L0YlFsIOWeqydhBB"
+      },
+      "artists": [
+        {
+          "name": "Husky Gawenda",
+          "url": "https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W"
+        },
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371381,
+      "name": "Gold Tongue",
+      "url": "https://open.spotify.com/track/1WGHpZPCp5METVQJiKl27O"
+    },
+    {
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/1ThEPBGdF3IYzkZwnTlBW4"
       },
@@ -3636,7 +3676,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 231301,
       "name": "Insect Bite",
       "url": "https://open.spotify.com/track/7IuZzy0YM0Y1G1PH2OlslB"
@@ -5854,7 +5894,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 235690,
       "name": "Some Things Distinct & Some Things Whole",
       "url": "https://open.spotify.com/track/35yUrXoiylgFOca4BZzV7E"
@@ -6233,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/47sEjajsjiq4i2KugE6ECz"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264319,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2aVADnbKwE8qwflEFUKWFa"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1BiAqfL0yr37s439GYSNKd"
       },
@@ -6382,7 +6440,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-09",
       "duration_ms": 197632,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy"

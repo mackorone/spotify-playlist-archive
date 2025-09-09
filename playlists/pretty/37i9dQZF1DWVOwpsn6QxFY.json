@@ -1,6 +1,6 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 160716,
+  "num_followers": 160685,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAMIr8oQFzA+ItUyLgvNRTHxg3xO2",
   "tracks": [
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "The Florist",
         "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Crazymad, For Me",
-        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Phone Me",
-      "url": "https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Is It?",
         "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 315040,
       "name": "Days Of Lantana",
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Phone Me",
+      "url": "https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Long Sardine",
-        "url": "https://open.spotify.com/album/4FkksDPhOFsEy4fIxX9SSv"
-      },
-      "artists": [
-        {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Long Sardine",
-      "url": "https://open.spotify.com/track/3yuJOJZufKps4PAQsSXv6Q"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 232866,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/1lppreanVHIEN8yW2LtdPx"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Long Sardine",
+        "url": "https://open.spotify.com/album/4FkksDPhOFsEy4fIxX9SSv"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Long Sardine",
+      "url": "https://open.spotify.com/track/3yuJOJZufKps4PAQsSXv6Q"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Dumb Feeling",
-        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 190264,
-      "name": "Dumb Feeling",
-      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 222776,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Dumb Feeling",
+        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Dumb Feeling",
+      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
     },
     {
       "added_at": "2025-03-28 19:49:12",

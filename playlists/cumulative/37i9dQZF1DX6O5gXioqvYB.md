@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Colombre e Maria Antonietta
 
-779 songs - 1 day 15 hr 29 min
+780 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [EDICOLA](https://open.spotify.com/track/0BHaqa6jXS1gFtLVSRIRCZ) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [EDICOLA](https://open.spotify.com/album/3XPtwyU11RxENQgYp8WGsb) | 2:52 | 2025-08-21 |  |
 | [EFFETTO](https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh), [Scarico](https://open.spotify.com/artist/0liPKMwmHmA0LbtC6wLy47) | [EFFETTO](https://open.spotify.com/album/4Imt4cGkSFmo3p9AJsS6lB) | 2:43 | 2024-06-27 | 2024-07-19 |
 | [Einveceno](https://open.spotify.com/track/4fCxE5XuOZbexL8iKjzEbj) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Einveceno](https://open.spotify.com/album/6FyezqD5XixCa6pPw2c7WG) | 2:46 | 2025-01-30 | 2025-04-04 |
+| [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 | 2025-09-08 |  |
 | [Equilibrista](https://open.spotify.com/track/7ugXe2KFUEKrsqIHVhShCC) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Equilibrista](https://open.spotify.com/album/424j0Ox8F3MDoOv9HYV9uF) | 2:42 | 2024-12-17 | 2025-01-10 |
 | [ergastolo](https://open.spotify.com/track/4q6NZoC8u2Am6WljSZZKiR) | [paolo.alneon](https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd) | [TELEPAZIENZA](https://open.spotify.com/album/611rMJtqzkpd7Iyp0lPi7r) | 2:52 | 2024-12-17 | 2025-01-03 |
 | [Eroi](https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Eroi](https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP) | 3:28 | 2024-10-17 | 2024-12-18 |

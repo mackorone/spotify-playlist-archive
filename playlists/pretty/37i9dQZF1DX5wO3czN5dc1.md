@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4?si=WjYi6otfSNyrJv9kq4X4jg">Murumba Pitch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,171 likes - 60 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,141 likes - 60 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

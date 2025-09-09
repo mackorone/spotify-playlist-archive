@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 889 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 49 | [HORA DOURADA](https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:48 |
 | 50 | [Sem Distração](https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Manoela Fortuna](https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:23 |
 
-Snapshot ID: `aLjWgAAAAAD0qiJV4V3/cwkov4L07Vs3`
+Snapshot ID: `aLzLAAAAAABFSX3VPdj7JWsAeNFtZEHA`

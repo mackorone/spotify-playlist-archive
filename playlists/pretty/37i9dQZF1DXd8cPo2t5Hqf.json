@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 399523,
+  "num_followers": 399407,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u79d8\u5bc6\u8b66\u5bdf",
-        "url": "https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe"
-      },
-      "artists": [
-        {
-          "name": "Buriru",
-          "url": "https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u79d8\u5bc6\u8b66\u5bdf",
-      "url": "https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "SIGNALOID BOX",
         "url": "https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 277013,
       "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
       "url": "https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u79d8\u5bc6\u8b66\u5bdf",
+        "url": "https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe"
+      },
+      "artists": [
+        {
+          "name": "Buriru",
+          "url": "https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u79d8\u5bc6\u8b66\u5bdf",
+      "url": "https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "Re:Package",
+        "url": "https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu"
+      },
+      "artists": [
+        {
+          "name": "livetune",
+          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 380636,
+      "name": "Last Night, Good Night",
+      "url": "https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59"
       },
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Re:Package",
-        "url": "https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu"
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
       },
       "artists": [
         {
-          "name": "livetune",
-          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "Yuuyu",
+          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
         }
       ],
-      "duration_ms": 380636,
-      "name": "Last Night, Good Night",
-      "url": "https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO"
+      "duration_ms": 238390,
+      "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1151,22 +1167,6 @@
       "duration_ms": 219259,
       "name": "SPiCa",
       "url": "https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
-          "name": "Yuuyu",
-          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
-        }
-      ],
-      "duration_ms": 238390,
-      "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
-      },
-      "artists": [
-        {
-          "name": "HoneyWorks",
-          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
-        }
-      ],
-      "duration_ms": 285813,
-      "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
         "url": "https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 265846,
       "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
       "url": "https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+      },
+      "artists": [
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+        }
+      ],
+      "duration_ms": 285813,
+      "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "Neko seT",
+        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
+      },
+      "artists": [
+        {
+          "name": "daniwellP",
+          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
+        }
+      ],
+      "duration_ms": 234404,
+      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "Obscure Questions(\u30aa\u30d6\u30b9\u30ad\u30e5\u30a2 \u30af\u30a8\u30b9\u30c1\u30e7\u30f3\u30ba) [feat. Hatsune Miku]",
         "url": "https://open.spotify.com/album/62tr8ONXURBl4kxqLGjbMO"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 200900,
       "name": "\u3042\u308a\u3075\u308c\u305f\u305b\u304b\u3044\u305b\u3044\u3075\u304f feat.\u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "Neko seT",
-        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
-      },
-      "artists": [
-        {
-          "name": "daniwellP",
-          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u7a7a\u60f3\u30e1\u30e2\u30e9\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm"
-      },
-      "artists": [
-        {
-          "name": "Marasy",
-          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Conti New",
         "url": "https://open.spotify.com/album/1XoKyOWzKCe40zGmSjNpqt"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 178941,
       "name": "\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u30cf\u30fc\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3NgUFrDBCFaALlH0wRVWV9"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u7a7a\u60f3\u30e1\u30e2\u30e9\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
-        "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
-      },
-      "artists": [
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
-        }
-      ],
-      "duration_ms": 302135,
-      "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8",
-      "url": "https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u76f8\u611b\u6027\u7406\u8ad6",
         "url": "https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 264400,
       "name": "\u611b\u8a00\u8449",
       "url": "https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
+      },
+      "artists": [
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
+        }
+      ],
+      "duration_ms": 302135,
+      "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8",
+      "url": "https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf"
     },
     {
       "added_at": "2021-05-26 02:37:36",

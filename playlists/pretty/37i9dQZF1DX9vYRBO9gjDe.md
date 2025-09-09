@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月4日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,797 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,752 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [希望の轍](https://open.spotify.com/track/2UYBoHQfheo5OtnjRd9by1) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [稲村ジェーン](https://open.spotify.com/album/6m30t2ICXcWO4rDjIXqfeM) | 4:16 |
 | 50 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 |
 
-Snapshot ID: `AAAAAL4x4kmKmhtO1O8so9xqgA+ULjPl`
+Snapshot ID: `AAAAAHJjXYOFArrYy0WKXPsiVrDEwxK1`

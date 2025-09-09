@@ -2,7 +2,7 @@
 
 ### [Great Female Voices](https://open.spotify.com/playlist/37i9dQZF1DX9loJQLuEvap)
 
-> Celebrating some of the most greatest female voices of all time\. Cover: Laufey
+> Celebrating some of the most greatest female voices of all time\. Cover: Mariah Carey
 
 138 songs - 9 hr 9 min
 

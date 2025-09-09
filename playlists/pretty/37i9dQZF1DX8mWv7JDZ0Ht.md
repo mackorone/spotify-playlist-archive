@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Mariana Nolasco
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,415 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,388 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 5 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |
 | 6 | [Como Nunca Antes](https://open.spotify.com/track/3sULbVqK8S16Rikxaqbjzs) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Como Nunca Antes](https://open.spotify.com/album/3GoCIQTqdERn3h2qVf2jnA) | 3:32 |
 | 7 | [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 |
-| 8 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
-| 9 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
-| 10 | [Nossa Estrela](https://open.spotify.com/track/1rI16UAU31APDnEPiujDy5) | [LARA](https://open.spotify.com/artist/5BA4kZY0VCx5tyvJBrEjLg) | [Nossa Estrela](https://open.spotify.com/album/7iQZdCTZzJ09QTKfRia7Ep) | 3:36 |
-| 11 | [Em Mim Também Doeu](https://open.spotify.com/track/5hYRN8g0wjMA7AoVezrX1p) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Em Mim Também Doeu](https://open.spotify.com/album/48RKNc7bYaa9Y5MkgLqMGC) | 2:28 |
+| 8 | [Em Mim Também Doeu](https://open.spotify.com/track/5hYRN8g0wjMA7AoVezrX1p) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Em Mim Também Doeu](https://open.spotify.com/album/48RKNc7bYaa9Y5MkgLqMGC) | 2:28 |
+| 9 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
+| 10 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 11 | [Nossa Estrela](https://open.spotify.com/track/1rI16UAU31APDnEPiujDy5) | [LARA](https://open.spotify.com/artist/5BA4kZY0VCx5tyvJBrEjLg) | [Nossa Estrela](https://open.spotify.com/album/7iQZdCTZzJ09QTKfRia7Ep) | 3:36 |
 | 12 | [Amar é dor](https://open.spotify.com/track/0KGzsjWpPi3Wjre5DaJQ5t) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Amar é dor](https://open.spotify.com/album/60UzUxJuZurdsMLBnkFqgX) | 2:29 |
 | 13 | [Cócegas](https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim \(Deluxe\)](https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy) | 2:12 |
 | 14 | [Beijo Doce](https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [Doce](https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x) | 2:21 |

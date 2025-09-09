@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Irama e Elodie in cover
 
-362 songs - 18 hr 25 min
+363 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [ancora \(feat\. Geolier\)](https://open.spotify.com/track/7dOicN7jFw9HSdorxASiPu) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [radio vega](https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ) | 3:08 | 2025-04-10 |  |
 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 | 2025-02-18 | 2025-05-29 |
 | [Anni d'Oro](https://open.spotify.com/track/37YDdw3l1sXORgYXkBiS5j) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Anni d'Oro](https://open.spotify.com/album/4xCB4r3uNA1C0MaoayXLWs) | 3:18 | 2025-03-20 | 2025-04-04 |
-| [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 | 2025-04-24 |  |
+| [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 | 2025-04-24 | 2025-09-09 |
 | [Arrogante](https://open.spotify.com/track/3UuwtjGqAUXecKbpoLrrpp) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Arrogante](https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8) | 2:23 | 2025-02-27 | 2025-04-04 |
 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 | 2025-04-17 | 2025-05-16 |
 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 | 2025-06-05 | 2025-08-15 |
@@ -129,6 +129,7 @@
 | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/track/7GGNubArnL3x9nCxUKdgIq) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/album/4yVlbRV12SRiBbpsCZSyhe) | 2:25 | 2025-03-13 | 2025-05-30 |
 | [Fino al Blackout](https://open.spotify.com/track/3wcwQwRNqdSmQwmgXYFFQb) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Fino al Blackout](https://open.spotify.com/album/07IMbmQoLqaTH4zgLi4Fof) | 2:40 | 2024-07-01 | 2024-07-05 |
 | [Fiore mio](https://open.spotify.com/track/6k4YlI8dZl4zFoLnKtGlSd) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Uomo Donna](https://open.spotify.com/album/7mbmWEBCikkfjMU8lAnIJP) | 3:53 | 2025-06-12 | 2025-07-01 |
+| [FLASHBACK](https://open.spotify.com/track/57NFelBvcQDFraj1HLiJ9g) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLASHBACK](https://open.spotify.com/album/4BP2kKPtL6k5HmG13tEFq4) | 3:03 | 2025-09-08 |  |
 | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/track/4RV9fq4QKnW346GRdZRIje) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/album/4f2kBU9QkpvEh5RpRwkCg2) | 3:20 | 2025-02-20 | 2025-03-14 |
 | [Follia Mediterranea](https://open.spotify.com/track/70J0MAAql6vnj4NszRhjgi) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Follia Mediterranea](https://open.spotify.com/album/1l99QDzynhF6kLdDBfOvJ0) | 2:51 | 2025-06-19 | 2025-08-29 |
 | [FRANCESCA](https://open.spotify.com/track/2ywWLlsgT68eJZ3FvFUcEj) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [FRANCESCA](https://open.spotify.com/album/5e6GLIP3PrDGcsvI1mPJvf) | 3:15 | 2025-05-29 | 2025-09-05 |

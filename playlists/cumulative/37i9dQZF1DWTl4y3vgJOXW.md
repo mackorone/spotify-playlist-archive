@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Josh Allen and Lamar Jackson
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Josh Allen and Keon Coleman
 
 843 songs - 1 day 19 hr 11 min
 

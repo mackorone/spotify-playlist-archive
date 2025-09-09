@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,065 songs - 2 day 11 hr 38 min
+1,066 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-21 | 2022-07-01 |
 | [Always Running](https://open.spotify.com/track/3otra9el4GhzYrql7RGjGc) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Always Running](https://open.spotify.com/album/10EtmPqHir1tKuUlpT1gY4) | 2:58 | 2022-09-09 | 2022-11-11 |
 | [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 | 2023-07-14 |
-| [Amber Sunlight Falls](https://open.spotify.com/track/4mcGFZGuoRJfrLocxwC11E) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Amber Sunlight Falls](https://open.spotify.com/album/0JpOBCi8iRoiGSHYt9khJL) | 3:02 | 2025-06-17 |  |
+| [Amber Sunlight Falls](https://open.spotify.com/track/4mcGFZGuoRJfrLocxwC11E) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Amber Sunlight Falls](https://open.spotify.com/album/0JpOBCi8iRoiGSHYt9khJL) | 3:02 | 2025-06-17 | 2025-09-09 |
 | [Amsterdam](https://open.spotify.com/track/6tUgBw8ml19l5t3LFfF131) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Amsterdam](https://open.spotify.com/album/0yAzOCMzpDPd7yaAL4JV2e) | 3:23 | 2025-08-01 |  |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-25 | 2022-11-01 |
 | [Animal](https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf) | [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [M.D.E](https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9) | 3:53 | 2025-07-18 |  |
@@ -668,6 +668,7 @@
 | [Não Sei Parar \- Mojjo Remix](https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Não Sei Parar \(Mojjo Remix\)](https://open.spotify.com/album/1OUJtYZFBjqViGP0WPHXPl) | 2:51 | 2023-12-07 | 2024-03-21 |
 | [Oasis](https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [Oasis](https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi) | 2:43 | 2022-11-01 | 2023-01-26 |
 | [oasis](https://open.spotify.com/track/7HhIdybSANaTYHeI9gCFFg) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [oasis](https://open.spotify.com/album/5ZocVGcuWcErR1NEnZuigN) | 2:59 | 2023-03-03 | 2023-05-30 |
+| [Oathbreaker](https://open.spotify.com/track/4aOAyCYrwbArMtLVxCoxS7) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Oathbreaker](https://open.spotify.com/album/5k6igGirKlpB3qYyVavB9W) | 3:35 | 2025-09-08 |  |
 | [Oblivion](https://open.spotify.com/track/0QHo2C0zCM4paxa04PsJhU) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Oblivion](https://open.spotify.com/album/1sZLwBJEGFLtRDHtrS2Xl2) | 2:32 | 2025-02-20 | 2025-05-17 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |
 | [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 | 2022-12-10 |
