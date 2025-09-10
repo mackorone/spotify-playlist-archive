@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Justin Bieber, Lady Gaga, Ramón, Ina Wroldsen og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,068 likes - 103 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,075 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 82 | [4Life](https://open.spotify.com/track/4LeniRFvwcdR2PSBfSuAxA) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [4Life](https://open.spotify.com/album/7jn2X2VAW52JXzShOYTkcJ) | 3:02 |
 | 83 | [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 |
 | 84 | [Keep Spinning](https://open.spotify.com/track/02Wo8zbCzhhw7qKgs3bBPe) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Keep Spinning](https://open.spotify.com/album/3eG68GTT9nOBE9IgBxUewF) | 3:06 |
-| 85 | [Lägenhet](https://open.spotify.com/track/2D8g7zq3FJJABDoDOyjzgE) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Lägenhet](https://open.spotify.com/album/42DgTQe0SAFvMOsSAYCYTV) | 2:40 |
+| 85 | [Lägenhet](https://open.spotify.com/track/2D8g7zq3FJJABDoDOyjzgE) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Lägenhet](https://open.spotify.com/album/42DgTQe0SAFvMOsSAYCYTV) | 2:40 |
 | 86 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 |
 | 87 | [Hagesalg](https://open.spotify.com/track/6ldOgRfsbgSxm1BxIOJnqb) | [Sunnihvem](https://open.spotify.com/artist/2tSvkfuClpgE88QIHBa2Hi) | [Hagesalg](https://open.spotify.com/album/4hAJT37JyFkx6nyk1onui6) | 4:07 |
 | 88 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |

@@ -2359,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "What Ifs (Remix) (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/4RmJM37fQjrPCuJ1E6oBIh"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191202,
+      "name": "What Ifs (Remix) (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX"
+    },
+    {
+      "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
@@ -2550,7 +2572,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"

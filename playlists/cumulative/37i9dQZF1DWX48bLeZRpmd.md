@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! ©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-121 songs - 9 hr 1 min
+122 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [好きよ ～Two Hearts～](https://open.spotify.com/track/6sca0eXXbetvZO4HLbSifu) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:36 | 2022-05-24 |  |
 | [希望](https://open.spotify.com/track/32sa4RnRp5LL1q6uVTK7FK) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁∬」 オリジナル・サウンドトラック vol.2](https://open.spotify.com/album/1i2lqyQzOAiPPUcskSsRJC) | 2:18 | 2022-05-24 |  |
 | [思い返せば](https://open.spotify.com/track/51HkVnvpV6ks4QXw79H8cy) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁∬」 オリジナル・サウンドトラック vol.2](https://open.spotify.com/album/1i2lqyQzOAiPPUcskSsRJC) | 2:14 | 2022-05-24 | 2024-09-18 |
+| [明日へ](https://open.spotify.com/track/4W6VTQH1FgRQocygQNG2vi) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [明日へ](https://open.spotify.com/album/0KlcTrk33GcoNoxGBNezTD) | 4:19 | 2025-09-09 |  |
 | [素直にOpen heart ～五つ数えて～ \- PandaBoY Drum'n'Bass Edit](https://open.spotify.com/track/1uEMcItdtg2bAHoSBo6pZT) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 3:22 | 2022-05-24 | 2024-09-18 |
 | [素直にOpen heart～五つ数えて～](https://open.spotify.com/track/54Hi7PjFXgzKUdEyX2lydK) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [「五等分の花嫁」キャラクターソング ミニアルバム](https://open.spotify.com/album/2Z1Pg4QCi4ruqEhnfivyGc) | 3:56 | 2022-05-24 |  |
 | [色褪せない気持ち](https://open.spotify.com/track/5s3J4QFnkXlRKXaX3IVNZH) | [Futaro Uesugi\(CV:Yoshitsugu Matsuoka\)](https://open.spotify.com/artist/5H7HUR5M9vERWcXhIhlEHf) | [色褪せない気持ち](https://open.spotify.com/album/1D3IykVkMb2VrinfV2Z3LZ) | 4:59 | 2024-04-28 |  |

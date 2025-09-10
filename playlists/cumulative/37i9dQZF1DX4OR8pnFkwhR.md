@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
+> Spotifyが注目するニューカマー・プレイリスト。 Cover: AKASAKI
 
 2,019 songs - 5 day 2 hr 2 min
 

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Charlotte Cardin",
-  "num_followers": 46004,
+  "num_followers": 46018,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
       },
@@ -675,18 +691,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
       "artists": [
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+      "duration_ms": 159545,
+      "name": "SELEK",
+      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -707,26 +727,6 @@
       "duration_ms": 142640,
       "name": "Zota (feat. Tayc)",
       "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "SELEK",
-      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",

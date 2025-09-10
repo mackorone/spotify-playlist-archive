@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Focalistic & Ch'cco, Sjava, Will Linley and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,445 likes - 74 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,557 likes - 74 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Born in the U.S.A\. \- Electric Nebraska](https://open.spotify.com/track/48gTzjCPe7A6Zs59indY51) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born in the U.S.A\. \(Electric Nebraska\)](https://open.spotify.com/album/0IHUbONeBL2gGvD5rSXsPR) | 3:30 |
 | 74 | [P.I.C\. \(Partner In Crime\)](https://open.spotify.com/track/4mu0ljS8JBtPwCAKr0QUsc) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [P.I.C\. \(Partner In Crime\)](https://open.spotify.com/album/5Y8aBnfXBe9t3KrsUgkazZ) | 2:47 |
 
-Snapshot ID: `AAAAAEHtD+4Kypp7PsQlUZnRYrHJU7vg`
+Snapshot ID: `AAAAADjdSf/fbfzQHR9/WxGFuNgD2jDz`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 147302,
+  "num_followers": 147351,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLzLAAAAAADfEq+Eb57giCGah/fSCO0G",
+  "snapshot_id": "aL4cgAAAAABFbffpmpsMM8CupBbSw+vY",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Triumph Of A Heart",
-      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagan Poetry",
         "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 146200,
       "name": "Batabid",
       "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     },
     {
       "added_at": null,

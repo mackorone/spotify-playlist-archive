@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: I\. Jordan
 
-1,627 songs - 4 day 23 hr 28 min
+1,628 songs - 4 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-05-31 | 2024-08-09 |
 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 | 2023-10-20 | 2023-12-15 |
 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 | 2023-12-07 | 2024-04-26 |
+| [Amour Armour](https://open.spotify.com/track/3BeT0aKDJdMdsAXBeTpstR) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Amour Armour](https://open.spotify.com/album/5EBkaQAyQM8oXV7xkE6pzB) | 5:00 | 2025-09-04 |  |
 | [Ana No Ne](https://open.spotify.com/track/5hSgzx9QofLSdwUxMFLeB1) | [Mamazu](https://open.spotify.com/artist/2i2cIAyoGVR5fXsShUJiNM), [YO.AN](https://open.spotify.com/artist/3a3lf8fklv5bvteFCf8F0e) | [Ana No Ne](https://open.spotify.com/album/54vwvZkwznJ7mjQCATvi1A) | 6:30 | 2025-04-24 | 2025-06-06 |
 | [And I Loved You](https://open.spotify.com/track/3BqYst33zIgk7VAJ35bNMk) | [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5) | [And I Loved You](https://open.spotify.com/album/6FhTKOEm1lpjp29P36AQyV) | 7:36 | 2023-08-24 | 2023-11-02 |
 | [and the colour red](https://open.spotify.com/track/07is4mDimzU5oHHO6hG8kj) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [and the colour red](https://open.spotify.com/album/74LqsMz0RZ2ESyz99Aqsmo) | 5:42 | 2023-04-08 | 2023-06-09 |

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Aminé\)
 
-3,034 songs - 6 day 9 hr 8 min
+3,035 songs - 6 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,6 +726,7 @@
 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 | 2023-07-18 | 2023-08-04 |
 | [Dog Food](https://open.spotify.com/track/6pHxg0eyXdMhizrVv2kyPM) | [MAMMOTH.](https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1), [chub.e](https://open.spotify.com/artist/2I0enPORehTwnQLXx33rjl) | [Dog Food](https://open.spotify.com/album/2sDStg3QB5NkyX7bWepuWH) | 2:09 | 2023-05-11 | 2023-06-16 |
 | [Dog House](https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Growing Pains](https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr) | 3:32 | 2024-03-15 | 2024-05-10 |
+| [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 | 2025-09-09 |  |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-30 | 2023-05-19 |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-11-29 | 2024-01-05 |
 | [Doin' Right](https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Doin' Right](https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn) | 2:35 | 2022-08-04 | 2022-09-02 |

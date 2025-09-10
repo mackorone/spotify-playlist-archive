@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 659401,
+  "num_followers": 659532,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAACy7yV9/wyo35Xv85oC3pm3",
+  "snapshot_id": "aL4cgAAAAAAnqdqjILymVvA7RwtG2zjz",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grey Gorilla",
         "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 192809,
       "name": "Grey Gods",
       "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106971,
+      "name": "Putrid Pride",
+      "url": "https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goodnight Lovell",
         "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 145202,
       "name": "JOAN OF ARC",
       "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106971,
-      "name": "Putrid Pride",
-      "url": "https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww"
     },
     {
       "added_at": null,

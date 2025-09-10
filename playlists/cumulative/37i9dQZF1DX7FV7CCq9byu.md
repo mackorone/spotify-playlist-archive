@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,100 songs - 2 day 8 hr 2 min
+1,101 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [In Every Photograph](https://open.spotify.com/track/70HmqOGAfCDHGYjEF15krZ) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [In Every Photograph](https://open.spotify.com/album/3YpKPSbZ80nkVtUCIOw0fo) | 3:25 | 2025-08-14 |  |
 | [In kom en ängel](https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [In kom en ängel](https://open.spotify.com/album/7LewFkBppvrPUZsnGLK8Hg) | 2:56 | 2024-10-17 | 2025-01-10 |
 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 | 2025-08-14 |  |
+| [IN YOUR BLUE](https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [4Eternity](https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1) | 2:16 | 2025-09-09 |  |
 | [INATT IGEN](https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [INATT IGEN](https://open.spotify.com/album/4w83t50g9487UwORpDiCOh) | 2:19 | 2025-03-27 | 2025-05-02 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-11 | 2025-02-28 |
 | [Ingen garanti](https://open.spotify.com/track/3USDJqWIstDheez4sJDODG) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ingen garanti](https://open.spotify.com/album/59DbW4BL5Yo0etEUE8QqJR) | 2:42 | 2025-05-29 | 2025-07-04 |
@@ -592,7 +593,7 @@
 | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/track/4kSXfaTJzXGkEdGBQBl0MB) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/album/5ypPFVTmsSQ5Os2hqHVxTM) | 2:37 | 2025-04-24 | 2025-05-23 |
 | [Lyckligare](https://open.spotify.com/track/2SDbJoXltdMXhbNJV6DLmj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Lyckligare](https://open.spotify.com/album/76GeIVJrmA70LssidhFh0W) | 2:59 | 2024-08-29 | 2024-10-11 |
 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 | 2025-05-29 | 2025-08-01 |
-| [Lägenhet](https://open.spotify.com/track/2D8g7zq3FJJABDoDOyjzgE) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Lägenhet](https://open.spotify.com/album/42DgTQe0SAFvMOsSAYCYTV) | 2:40 | 2025-09-04 |  |
+| [Lägenhet](https://open.spotify.com/track/2D8g7zq3FJJABDoDOyjzgE) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Lägenhet](https://open.spotify.com/album/42DgTQe0SAFvMOsSAYCYTV) | 2:40 | 2025-09-04 |  |
 | [Längesen](https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Längesen](https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy) | 2:39 | 2025-01-02 | 2025-02-21 |
 | [Längtan Bor I Mina Steg](https://open.spotify.com/track/3IpklZ9RHOaCtchJDtnP5u) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Alice](https://open.spotify.com/album/1hvd6IcbUFo4VV3tlRCUDF) | 3:29 | 2024-09-05 | 2024-10-25 |
 | [Lät dig gå](https://open.spotify.com/track/1g40cny7c9aWjsdlzZYcxE) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE PT.1](https://open.spotify.com/album/2GJqKh5nAW3FuRJouYilKU) | 3:15 | 2024-07-04 | 2024-08-23 |

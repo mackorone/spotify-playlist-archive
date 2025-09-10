@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2478981,
+  "num_followers": 2479273,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,18 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Isa lang",
-        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
+        "name": "Soapdish Reloaded",
+        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Soapdish",
+          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
         }
       ],
-      "duration_ms": 269256,
-      "name": "Isa lang",
-      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
+      "duration_ms": 196693,
+      "name": "Tensionado",
+      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -95,18 +95,18 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Soapdish Reloaded",
-        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
       "artists": [
         {
-          "name": "Soapdish",
-          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 196693,
-      "name": "Tensionado",
-      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Dalangin",
-        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Dalangin",
-      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
         "name": "BANDROOM SESSIONS EPISODE 1",
         "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 234500,
       "name": "Alipin",
       "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
+        "name": "Dalangin",
+        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Dalangin",
+      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23"
-      },
-      "artists": [
-        {
-          "name": "Over October",
-          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Ikot",
-      "url": "https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Ikot",
+      "url": "https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Kisame",
-        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
       "artists": [
         {
-          "name": "rhodessa",
-          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
         }
       ],
-      "duration_ms": 212608,
-      "name": "Kisame",
-      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
     }
   ],
   "unique_name": "OPM Favorites",

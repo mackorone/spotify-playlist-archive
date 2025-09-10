@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 229364,
+  "num_followers": 229428,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLzLAAAAAADm4OVZkQfdYXbBooyYK9TT",
+  "snapshot_id": "aL4cgAAAAAAGVeXDStGxgGeLsy7OQKvr",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ganadero",
-        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 222516,
-      "name": "El Ganadero",
-      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ganadero",
+        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 222516,
+      "name": "El Ganadero",
+      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
     },
     {
       "added_at": null,

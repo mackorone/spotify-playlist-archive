@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-415 songs - 1 day 4 hr 13 min
+416 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 | 2024-03-01 | 2025-03-10 |
 | [Drama](https://open.spotify.com/track/1w1fXDEHLeXbkSdfNoWivr) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha) | [Drama Suspended](https://open.spotify.com/album/3X0cn7R7CiSfYa2YjSjKWV) | 5:54 | 2022-06-20 | 2022-07-27 |
 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 | 2025-08-28 |  |
-| [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/track/1WCiaKkadXRQjK5LapkGtu) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/album/7bKZYeSRw6XQVdbEdO22Ei) | 4:14 | 2025-07-17 |  |
+| [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/track/1WCiaKkadXRQjK5LapkGtu) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/album/7bKZYeSRw6XQVdbEdO22Ei) | 4:14 | 2025-07-17 | 2025-09-10 |
 | [Dreams](https://open.spotify.com/track/3Cuz7jz5Yn47VruSGaFlSe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Dreams](https://open.spotify.com/album/5pG7kzA0VmDWcXjMnZ4DJ5) | 3:17 | 2022-06-20 | 2022-10-29 |
 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 | 2024-08-22 |  |
 | [Dynamic Reflections](https://open.spotify.com/track/55lh69p2wdcwKlNd7wvbDc) | [DJ Crisps](https://open.spotify.com/artist/0rgmU5SJvHMWARMPDL6b80) | [Dynamic Reflections](https://open.spotify.com/album/1t4LNyjODTfgUpwJgpGnYd) | 6:54 | 2021-11-24 | 2022-07-07 |
@@ -304,6 +304,7 @@
 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2023-09-22 | 2024-08-09 |
 | [Reality Refresh](https://open.spotify.com/track/7uL8DUexl0UASMEbv9saBt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh](https://open.spotify.com/album/6GqUKRbYWhE8z6yzYu2HUM) | 5:52 | 2021-11-24 | 2022-05-17 |
 | [Reflect](https://open.spotify.com/track/7Cjwgp1aDa7gcbWKJDQAgC) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Reflect](https://open.spotify.com/album/5HX1I06K15jFjyYAkS445E) | 5:25 | 2021-11-24 | 2023-01-15 |
+| [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 | 2025-08-28 |  |
 | [Repetition](https://open.spotify.com/track/0i4wuiCiNjXizN9vy4wfHF) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Repetition](https://open.spotify.com/album/6S6bz3lwphnaP5wPqMxqIe) | 5:50 | 2022-04-21 | 2022-06-09 |
 | [Replica](https://open.spotify.com/track/1nnqBFkojZ8gTazMJc7rn1) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Oddyssey](https://open.spotify.com/album/3e3Y0xzqF6CGHFeGolUVsE) | 5:21 | 2021-11-24 | 2022-07-23 |
 | [Repose Tactics](https://open.spotify.com/track/14UZicXINbASANbsPRkDai) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Repose Tactics](https://open.spotify.com/album/1T1eGduaUejoA02GvpnRti) | 3:11 | 2021-11-24 | 2022-06-30 |

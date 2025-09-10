@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-211 songs - 19 hr 3 min
+212 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Be Yourself](https://open.spotify.com/track/0HMv8OP3Qi3KzU5XfKrzoP) | [Air Power](https://open.spotify.com/artist/0mT60BtukP61nUHNuN8rZT) | [Open Soul](https://open.spotify.com/album/6LgHuqPUp1Te0JnUdq3Tk3) | 6:16 | 2025-01-13 |  |
 | [Beats & Djembe \- Original Mix](https://open.spotify.com/track/1agdGq6IqLMKcs2UuQFZEy) | [Christos Fourkis](https://open.spotify.com/artist/4IQHUz0kIZfHNEOyPQwI7J) | [Beats & Djembe](https://open.spotify.com/album/19U8Ex8UpY8jGAE7RyAT91) | 5:44 | 2023-12-27 | 2025-01-14 |
 | [Beige 70 \- Domenique Dumont Bilingual Remix](https://open.spotify.com/track/6rT4TqKqUQFRf7E0iEWHVA) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Beige 70 \(Domenique Dumont Bilingual Remix\)](https://open.spotify.com/album/4z4HIROmHVq1LGLpE0nxVS) | 4:22 | 2024-05-14 | 2025-01-14 |
-| [Belo Horizonte](https://open.spotify.com/track/4XnouQny7aIzgzsdrhgYKX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Now, Then & Forever](https://open.spotify.com/album/5YeUWgu0ljI6RPQ0LTYh5p) | 1:50 | 2025-01-13 |  |
+| [Belo Horizonte](https://open.spotify.com/track/4XnouQny7aIzgzsdrhgYKX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Now, Then & Forever](https://open.spotify.com/album/5YeUWgu0ljI6RPQ0LTYh5p) | 1:50 | 2025-01-13 | 2025-09-10 |
 | [Better Love \- Main Vocal Mix \- Jovonn](https://open.spotify.com/track/78Fay5pwhYMa5rBK1D330a) | [Jovonn](https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V), [Krystine Walker](https://open.spotify.com/artist/7vIdFYJfSe3MFdjFhJHDEg) | [Better Love](https://open.spotify.com/album/6cClgKz3zMtbJYvfs68Hzs) | 4:53 | 2023-12-27 | 2024-03-23 |
 | [Boogie](https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko) | 5:48 | 2025-01-13 |  |
 | [Bounce For Me \- Lauhaus Remix](https://open.spotify.com/track/2bhBU1IsXAdjPTbCpGMRnj) | [Ramirez](https://open.spotify.com/artist/3L2lU6nCrPOkLUyJKZ3ksY), [Tolfrey](https://open.spotify.com/artist/42GIouXsaSc67y5mTC8rvP), [Lauhaus](https://open.spotify.com/artist/1l2GFopy7a4QZ64Dl2zVw4) | [Bounce for Me](https://open.spotify.com/album/56NxcS8DrtDLjlwH5w6dwD) | 7:24 | 2023-12-27 |  |
@@ -84,6 +84,7 @@
 | [Good Busy](https://open.spotify.com/track/0ma6Ox94AYsayWWv7bARCt) | [2000 And One](https://open.spotify.com/artist/030NUgrxJxZPLc7cXUhgvD) | [Good Busy](https://open.spotify.com/album/5oiWaokFvWgHIezLzOf2j3) | 7:21 | 2023-12-27 | 2024-05-15 |
 | [Heart of Flesh](https://open.spotify.com/track/01L2AgrILDfAruUAFG6Ut5) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [Heart of Flesh](https://open.spotify.com/album/2DSPKc94LfH1TwohFlbiA5) | 7:19 | 2023-12-27 |  |
 | [Hey Policeman!](https://open.spotify.com/track/0JjwQLQDrCEVYYafRBSQvs) | [Intrinsic Trance](https://open.spotify.com/artist/4GzfeCFpkeW3iPDSHwa4Jj) | [Psychemagik Presents Magik Cyrkles](https://open.spotify.com/album/42NgJC6J91ndKnuxQRJQHz) | 3:16 | 2025-01-13 |  |
+| [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 | 2025-09-09 |  |
 | [House At The Sea \- Psychemagik Edit](https://open.spotify.com/track/2qjlbKvi4oXQkoKIDJGWWZ) | [Goya](https://open.spotify.com/artist/4yyBSiTM3xCGBHKmTSPcP7), [Psychemagik](https://open.spotify.com/artist/3Mo1LckxhZk6jwf3pjamD0) | [Psychemagik Presents Magik Cyrkles](https://open.spotify.com/album/42NgJC6J91ndKnuxQRJQHz) | 6:54 | 2024-05-14 |  |
 | [House Inferno](https://open.spotify.com/track/6mICmwxQJMK7xWrCtI162S) | [Roy Davis Jr.](https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8) | [Soul Electrica](https://open.spotify.com/album/2JoqFawKGxCikhx1sHHtGU) | 11:17 | 2024-03-22 | 2025-01-14 |
 | [House Music \- Pasta Boys Instrumental](https://open.spotify.com/track/1b728UJESqc1uPdUbKYTYi) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS), [Sabrina Johnston](https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8) | [House Music](https://open.spotify.com/album/6UKQQND8OLG0qIyxEc3OdB) | 8:31 | 2023-12-27 | 2025-01-14 |

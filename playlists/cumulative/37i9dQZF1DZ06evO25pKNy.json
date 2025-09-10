@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "El Ivan",
+      "url": "https://open.spotify.com/track/74KBam4TcjMhg5EBbMW3Cy"
+    },
+    {
+      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 135711,
       "name": "Gorra De Tijuana",
       "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"

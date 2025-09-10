@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-113 songs - 6 hr 34 min
+114 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Crimson](https://open.spotify.com/track/15wcW2UsA4LLXF9xsB3gZQ) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [Crimson](https://open.spotify.com/album/5U79Q8A1GDHehzlYjOM07j) | 2:47 | 2025-03-10 | 2025-03-29 |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-29 | 2022-06-30 |
 | [David's Writings](https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 2:57 | 2022-02-14 |  |
+| [Dawn \(Arr\. Webb for Harp\) \- From "Pride and Prejudice"](https://open.spotify.com/track/3ggawwYXbbJBfQwvf5NpDb) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Dawn \(Arr\. Webb for Harp\) \[From "Pride and Prejudice"\]](https://open.spotify.com/album/0EF7j3XXP8ZR6NMYQkdRW4) | 3:23 | 2025-09-09 |  |
 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 | 2022-02-14 |  |
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2022-02-14 |  |
 | [drivers license \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [drivers license \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF) | 4:02 | 2022-02-14 |  |

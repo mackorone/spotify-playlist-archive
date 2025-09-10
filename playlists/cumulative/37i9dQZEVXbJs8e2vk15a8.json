@@ -18850,7 +18850,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -19350,7 +19350,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 175523,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/2McSOWA5zlh0y5Gfv9lBhs"
@@ -24148,7 +24148,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -25220,7 +25220,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 193493,
       "name": "Golden / Dorada - Cover en Espa\u00f1ol",
       "url": "https://open.spotify.com/track/6CDcermYklHdgRm5SLR3Jc"
@@ -30950,7 +30950,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 163282,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
@@ -31458,7 +31458,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 76066,
       "name": "La Mazamorra",
       "url": "https://open.spotify.com/track/5u7FyEcNDbWN2VB9lMi1pd"
@@ -31938,6 +31938,42 @@
       "duration_ms": 263183,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/5wslflNJXn11yXV5qtAmUh"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/7bE0BibLASaxDBY7vCRDP5"
+      },
+      "artists": [
+        {
+          "name": "Los Frescos",
+          "url": "https://open.spotify.com/artist/4ZHR3evaonEmPN2zxU0NYC"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "La Rosa Con el Clavel:",
+      "url": "https://open.spotify.com/track/2MbWN9QQRWnaj0LNDou9fU"
+    },
+    {
+      "album": {
+        "name": "Esta Es Mi Cueca Se\u00f1ores",
+        "url": "https://open.spotify.com/album/2R5BKZYOXUNy8dYqLKtR6V"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Tierra Chilena",
+          "url": "https://open.spotify.com/artist/428T75gmrM1Bbx57eayX5p"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111950,
+      "name": "La Rosa y El Clavel",
+      "url": "https://open.spotify.com/track/6UM2aBhuP210kJtvSQy8Zg"
     },
     {
       "album": {
@@ -57984,7 +58020,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -63336,7 +63372,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 156118,
       "name": "T\u00edpica Argentina",
       "url": "https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9"

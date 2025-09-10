@@ -4,7 +4,7 @@
 
 > 
 
-62 songs - 5 hr 29 min
+63 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 | 2025-05-19 |  |
 | [Welcome Back Mama \- FJAAK Remix](https://open.spotify.com/track/4jcBUBPHAGCKU71FjaVfoK) | [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Brighten Up Bunny EP](https://open.spotify.com/album/1tRyYUr916TXFn3amQg5hc) | 6:00 | 2019-10-26 |  |
 | [Weltschmerz](https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Weltschmerz](https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3) | 6:24 | 2021-04-16 |  |
+| [What U Get](https://open.spotify.com/track/1S0349dksTP24Q8SLkmydd) | [LEY MAR](https://open.spotify.com/artist/0eENi8jQmC7UzT8Yga8itW) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 6:58 | 2025-09-09 |  |
 | [WINGS](https://open.spotify.com/track/7lLw9MfBhYUpTs1YqLKlHp) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [WINGS](https://open.spotify.com/album/0neDpsrfxMU14tTGf4gUpX) | 3:20 | 2023-03-30 |  |
 | [Wir](https://open.spotify.com/track/0TgjUpA2VGAol8qZvoBJQg) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Wir](https://open.spotify.com/album/2g2VKEhYemsxc3WROc4q2E) | 5:42 | 2025-08-04 |  |
 | [Your Mind](https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/07lumzt0xDO5eyuWwvevAJ) | 8:22 | 2019-08-23 |  |

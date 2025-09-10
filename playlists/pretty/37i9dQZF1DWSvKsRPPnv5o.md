@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,451 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,426 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 13 | [Party On The East Cide PT\. 2](https://open.spotify.com/track/0FcmuSpk09TdUtu9TFMz94) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [P1](https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Mr\. Nobody](https://open.spotify.com/album/50pRrR5Uju8MajY2TrhBfA) | 3:59 |
 | 14 | [RED LIGHT GREEN LIGHT](https://open.spotify.com/track/13aKmELu9MI3b7IyApqF29) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [JUCO](https://open.spotify.com/album/7DPpGKFT2NvSYoPuiGHnVm) | 1:34 |
 | 15 | [SHE WIT US](https://open.spotify.com/track/1MmaBiacZsxgB66vslBzVl) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [LAMBORGHINI](https://open.spotify.com/album/62WO9fJjwQYeAqrcgFNyEw) | 2:11 |
-| 16 | [Bikini Bottom](https://open.spotify.com/track/0MuPgMtGurEJMNpMMLVc7l) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Bikini Bottom](https://open.spotify.com/album/2kJ9nzPae4KMpxzKLsm5wx) | 3:45 |
+| 16 | [Bikini Bottom](https://open.spotify.com/track/0MuPgMtGurEJMNpMMLVc7l) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [damn james!](https://open.spotify.com/artist/2Ahty5bOrdHdSY8ZSDq4IU) | [Bikini Bottom](https://open.spotify.com/album/2kJ9nzPae4KMpxzKLsm5wx) | 3:45 |
 | 17 | [2P'z](https://open.spotify.com/track/58ndKIwwjOfufedfaGa6Sy) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2P'z](https://open.spotify.com/album/5FEakeLZVHBkv2rClSQ0uN) | 2:51 |
 | 18 | [Before Hip Hop](https://open.spotify.com/track/5tvhe6QEo4G4aqiK87WW2T) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Before Hip Hop](https://open.spotify.com/album/4yoBokARQaKPyDiAgoH6e2) | 3:50 |
 | 19 | [on point](https://open.spotify.com/track/5ACLmSuZx4c4o30LrFVy5n) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [on point](https://open.spotify.com/album/3dlofBqQQIfd7dEy4n7d9L) | 2:31 |

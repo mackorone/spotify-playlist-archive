@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,270 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,293 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 71 | [麗しのナイチンゲール](https://open.spotify.com/track/6uZmHyyfFbDr7seMwmUSfz) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [Valkyrie「Acanthe」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc) | 4:31 |
 | 72 | [You're Speculation](https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 3:41 |
 | 73 | [Never\-ending Stage!!!!](https://open.spotify.com/track/5ffokDDdlgoH7w89eCdZ03) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [fine「恋はプリマヴェーラ！」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7wDfQ1BPee7MYgMi9fW8uB) | 4:52 |
-| 74 | [ハンズクラフト](https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM) | [MaM/三毛縞斑\(CV.鳥海浩輔\)](https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd) | [Double Face「No name yet」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb) | 4:48 |
-| 75 | [POLYPHONIC WORLD](https://open.spotify.com/track/4sh3mB7Q34gkxAEJbQAl43) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [2wink「Swee2wink Love Letter」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z) | 4:15 |
+| 74 | [Wonderful Happiness](https://open.spotify.com/track/2RGEPzjh4pkN0mX89P4tTD) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 3:46 |
+| 75 | [My Sunshine, You’re Moonlight](https://open.spotify.com/track/5qfvCRrYR5tXbas6BmgPsH) | [朔間 凛月\(CV.山下 大輝\)](https://open.spotify.com/artist/7ir1mefb6IQNMPZ5Co21Np) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:07 |
 
-Snapshot ID: `AAAAAOa8NhYiJ8Qloxb+mpjjueO4AGbS`
+Snapshot ID: `AAAAAM0cOagTMrYJvSA1Wn8RFC4Ue6i2`

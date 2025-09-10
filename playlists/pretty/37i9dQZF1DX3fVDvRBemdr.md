@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Joey Nicolay
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,971 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,987 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kroegtijger](https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kroegtijger](https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi) | 2:49 |
-| 2 | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF) | 3:12 |
-| 3 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 |
-| 4 | [Goede Slechte Tijden](https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Goede Slechte Tijden](https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1) | 2:28 |
-| 5 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 |
-| 6 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 |
-| 7 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 |
+| 2 | [Goede Slechte Tijden](https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Goede Slechte Tijden](https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1) | 2:28 |
+| 3 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 |
+| 4 | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF) | 3:12 |
+| 5 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 |
+| 6 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 |
+| 7 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 |
 | 8 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
 | 9 | [1000 vragen](https://open.spotify.com/track/1068pajBnU9TzDLktx4SVT) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [1000 vragen](https://open.spotify.com/album/2shhEsmp7pBWIdCzcS0sZR) | 2:46 |
 | 10 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 89 | [Sex Mannen & Geld](https://open.spotify.com/track/1mQKhMDXMDETCjR0l7dFbV) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Sex Mannen & Geld](https://open.spotify.com/album/4L2IjcvpFPStmN56rAtRAt) | 2:22 |
 | 90 | [Wie Is De Mol](https://open.spotify.com/track/62SrmfifnwvjVnSbViCvYM) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Wie Is De Mol](https://open.spotify.com/album/1ypTCxANIb4Lo0SSg1dw93) | 2:47 |
 
-Snapshot ID: `AAAAAJgyJ67DDmcxj17r186h6DqpPGU8`
+Snapshot ID: `AAAAAJsyzhl9VUdYHuQ66nmjQvmD3L36`

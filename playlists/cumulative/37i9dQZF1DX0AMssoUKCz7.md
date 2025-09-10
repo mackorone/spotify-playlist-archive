@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-746 songs - 1 day 13 hr 35 min
+747 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Angels](https://open.spotify.com/track/4KwcBCwtLql3ioOmmY8dwX) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Angels](https://open.spotify.com/album/4CEFJYar9wG5YFz9rKBLUo) | 2:38 | 2022-04-01 |  |
 | [Another Love](https://open.spotify.com/track/3XoNXct7zTtKFoExkw2yhw) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Another Love](https://open.spotify.com/album/22YNnuYYZs7nPNjk6N4JYu) | 2:05 | 2024-01-02 |  |
 | [Another You](https://open.spotify.com/track/3G2XO4Ax0Wbv5s83cLqLFa) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Another You](https://open.spotify.com/album/49eB2ryZNiNPXJ9DI6ZRJi) | 2:33 | 2022-06-10 | 2023-10-28 |
-| [Anymore](https://open.spotify.com/track/5dHVdvmMAse7yVWILKU9Im) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Anymore](https://open.spotify.com/album/0f6RPKrjMUyyKXle2eBLg2) | 2:45 | 2025-04-25 |  |
+| [Anymore](https://open.spotify.com/track/5dHVdvmMAse7yVWILKU9Im) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Anymore](https://open.spotify.com/album/0f6RPKrjMUyyKXle2eBLg2) | 2:45 | 2025-04-25 | 2025-09-10 |
 | [Anymore](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Anymore](https://open.spotify.com/album/0136dl7WXw7P8tptO4Ir2t) | 2:21 | 2023-01-13 |  |
 | [Anymore \- Lost Frequencies Remix](https://open.spotify.com/track/5Ov2PopcdXsm6ja4j9AsHE) | [Alphabet](https://open.spotify.com/artist/1xZ8LaJNR2DBajdssEXR5I), [Arc](https://open.spotify.com/artist/5Pn4LlS7nV31TtEvkriCdx), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Anymore \(Lost Frequencies Remix\)](https://open.spotify.com/album/5HBxEZk4nDUlYBZYD0iJPa) | 3:06 | 2022-01-21 | 2022-04-09 |
 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 | 2025-02-28 | 2025-07-09 |
@@ -574,6 +574,7 @@
 | [Sexual Healing \- Kygo Remix](https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Sexual Healing \(Kygo Remix\)](https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5) | 6:08 | 2022-01-14 |  |
 | [Shakin'](https://open.spotify.com/track/4w7FCJ8IpOIaQl6EQROMRx) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Shakin'](https://open.spotify.com/album/2PaKysj7IvH3q7TplsxqWi) | 3:01 | 2022-06-17 | 2023-01-10 |
 | [Shatterproof \- Sebastian Davidson Remix](https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Shatterproof \(Sebastian Davidson Remix\)](https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu) | 2:46 | 2024-05-03 |  |
+| [She Drives Me Crazy \- Flight Facilities Rework](https://open.spotify.com/track/3j1SntYaD51ScArVsxEGg8) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [She Drives Me Crazy \(Flight Facilities Rework\)](https://open.spotify.com/album/35MOupjVC2Re0Po6nW78QO) | 3:50 | 2025-09-05 |  |
 | [She Told Me](https://open.spotify.com/track/1BIoRbf6n3h2Rk7BpRGIQX) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [She Told Me](https://open.spotify.com/album/0v3ecJO3wgYWoHEg0sjdsj) | 2:41 | 2022-10-07 | 2023-09-24 |
 | [She's the One](https://open.spotify.com/track/556P6w24JljQnqoCnWLtRW) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [She's the One](https://open.spotify.com/album/3lqTmcDnS935qAjOPTcYJP) | 2:31 | 2022-01-14 | 2023-04-16 |
 | [Show Me](https://open.spotify.com/track/3USDDlXk3S0u4xFnv3NeaX) | [YVO](https://open.spotify.com/artist/7a0a89o7fM8Qz6DK1PQNFM) | [Show Me](https://open.spotify.com/album/1BUODyl5YARStGJg6tg5y0) | 2:02 | 2022-06-10 | 2025-04-30 |

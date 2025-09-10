@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Baila, Baila",
+        "url": "https://open.spotify.com/album/7jBDLRqPdmSQM0w8j8xbaP"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Baila, Baila",
+      "url": "https://open.spotify.com/track/2splcDjHiK8dj39ZLn6Rrm"
+    },
+    {
+      "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7"
       },
@@ -1036,6 +1054,24 @@
       "duration_ms": 311000,
       "name": "COSMONAUT",
       "url": "https://open.spotify.com/track/2UHzboHhUa6xBGtJBZAKRG"
+    },
+    {
+      "album": {
+        "name": "Madame Coucou Vol.3",
+        "url": "https://open.spotify.com/album/1b27OMnldnCHHcauwsk5T6"
+      },
+      "artists": [
+        {
+          "name": "U.BAR.E",
+          "url": "https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/0X5S0n9710zbQgbMurM45J"
     },
     {
       "album": {
@@ -1826,7 +1862,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 140031,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/7odKBZr3NcHzff5ZEEZpCl"
@@ -4072,7 +4108,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 329842,
       "name": "The photo album",
       "url": "https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO"

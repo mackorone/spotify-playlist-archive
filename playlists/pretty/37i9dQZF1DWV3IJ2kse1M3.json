@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002",
-  "num_followers": 186046,
+  "num_followers": 186048,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
+        "name": "\u964c\u751f\u4eba",
+        "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 234120,
+      "name": "\u964c\u751f\u4eba",
+      "url": "https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
         "name": "\u771f\u5be6",
         "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 286239,
       "name": "\u8a18\u5f97",
       "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
-        "name": "\u964c\u751f\u4eba",
-        "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 234120,
-      "name": "\u964c\u751f\u4eba",
-      "url": "https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u7f6a\u60e1\u611f",
-        "url": "https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 296573,
-      "name": "\u62ff\u8d70\u4e86\u4ec0\u9ebc",
-      "url": "https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "Just Sing It",
         "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 248573,
       "name": "\u8857\u89d2\u7684\u795d\u798f",
       "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u7f6a\u60e1\u611f",
+        "url": "https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 296573,
+      "name": "\u62ff\u8d70\u4e86\u4ec0\u9ebc",
+      "url": "https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u5fd8\u8a18\u64c1\u62b1 (\u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/38iYwBktjKRQoZHk423hxl"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 281935,
-      "name": "\u5fd8\u8a18\u64c1\u62b1 - \u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/2nnsEg2pjJLXjhoeFPscfa"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
         "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 349541,
       "name": "\u82ac\u862d\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u5fd8\u8a18\u64c1\u62b1 (\u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/38iYwBktjKRQoZHk423hxl"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 281935,
+      "name": "\u5fd8\u8a18\u64c1\u62b1 - \u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2nnsEg2pjJLXjhoeFPscfa"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
         "name": "\u64e6\u8072\u800c\u904e",
         "url": "https://open.spotify.com/album/7z7KNMXDU1qjXBxPVEMnV7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 295613,
       "name": "\u96e2\u4eba",
       "url": "https://open.spotify.com/track/5rwEzOpDovuwZ12wAUbzQi"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
-        "name": "\u82e5\u4f60\u78b0\u5230\u4ed6",
-        "url": "https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "\u62cb\u7269\u7dda",
-      "url": "https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
+        "name": "\u82e5\u4f60\u78b0\u5230\u4ed6",
+        "url": "https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 307506,
+      "name": "\u62cb\u7269\u7dda",
+      "url": "https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
         "name": "\u4ef0\u671b",
         "url": "https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 330866,
       "name": "\u6211\u5011\u90fd\u50bb",
       "url": "https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
     },
     {
       "added_at": "2025-06-25 03:23:28",

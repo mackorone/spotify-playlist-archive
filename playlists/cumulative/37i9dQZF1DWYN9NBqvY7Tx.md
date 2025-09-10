@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-689 songs - 1 day 11 hr 29 min
+690 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-05-06 | 2022-07-29 |
 | [N9](https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [N9](https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c) | 3:45 | 2024-08-16 | 2024-09-07 |
 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 | 2022-05-06 | 2023-08-19 |
-| [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 | 2024-03-08 |  |
+| [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 | 2024-03-08 | 2025-09-10 |
 | [Never Let Me Go](https://open.spotify.com/track/59EZP9EeX60qeXpYuYkyZY) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Never Let Me Go](https://open.spotify.com/album/4ftWvf6rrlY2Nq6kymXsgC) | 3:30 | 2024-06-24 | 2024-08-17 |
 | [Never Let You Go \(feat\. Sofia Reyes\) \- EVE Re\-Imagination](https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [EVE](https://open.spotify.com/artist/4EtmcpFzg2YAY2T81sJxtK) | [Never Let You Go \(feat\. Sofia Reyes\) \[EVE Re\-Imagination\]](https://open.spotify.com/album/0VinylAsvPl3hgxOuoSPQ2) | 4:21 | 2022-05-06 | 2022-07-28 |
 | [Neverland \(From Japan\)](https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Neverland \(From Japan\)](https://open.spotify.com/album/4zPZDCB6p9Jv2YyqdCuhSH) | 3:10 | 2025-04-18 | 2025-06-27 |
@@ -460,6 +460,7 @@
 | [Pill](https://open.spotify.com/track/2e3wKwNMrYIvMgAS484EXQ) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT), [Emma Sameth](https://open.spotify.com/artist/0hac78iy32k7qYWLp6RPaz), [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq) | [Pill](https://open.spotify.com/album/707RNXJxcKVtqr2JPukjB0) | 2:14 | 2023-07-18 | 2024-03-19 |
 | [Play](https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3) | [Play](https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5) | 2:47 | 2022-07-14 | 2023-07-19 |
 | [PLAY](https://open.spotify.com/track/1fRadkuwHEqwMuiY5ns15C) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PLAY](https://open.spotify.com/album/1dVqxYQRLfTQt1DFkUfY1e) | 3:03 | 2022-05-06 | 2022-07-29 |
+| [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 | 2025-08-22 |  |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-07-04 | 2022-07-08 |
 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2025-07-16 |  |
 | [Postman](https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Postman](https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP) | 3:11 | 2025-03-19 |  |

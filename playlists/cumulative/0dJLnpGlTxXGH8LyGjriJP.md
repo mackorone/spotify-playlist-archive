@@ -4,7 +4,7 @@
 
 > 
 
-895 songs - 1 day 21 hr 45 min
+897 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Can't Have Everything](https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:48 | 2025-05-28 |  |
 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 | 2023-03-23 |  |
 | [CAN'T SAY](https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:18 | 2022-12-21 |  |
+| [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 | 2025-09-09 |  |
 | [CAPO](https://open.spotify.com/track/1KjQPDJQCUuqDj3AmfSBCa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CAPO](https://open.spotify.com/album/0sVtqTsZSHTYL8O150Twfl) | 3:12 | 2022-06-02 |  |
 | [Cappers \(feat\. Lil Roc4TS\)](https://open.spotify.com/track/4aLoOmwOZO464cyCdzigPq) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Lil Roc4TS](https://open.spotify.com/artist/6yrvvcwhHZ8sJmaIXatnYN) | [Cappers \(feat\. Lil Roc4TS\)](https://open.spotify.com/album/59qjjC7OA13ooKDUYKMkEV) | 2:24 | 2022-10-25 |  |
 | [Captions \(Outro\)](https://open.spotify.com/track/7x8r5KER2SjUwHbCWH72XC) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 1:26 | 2023-03-18 |  |
@@ -877,6 +878,7 @@
 | [WHAT U NEED](https://open.spotify.com/track/2qh7a7RwoAUodnwAbHPECP) | [void](https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF), [BABY BOI](https://open.spotify.com/artist/0ICav5bjbDMIrFMa4BGS1d) | [ANARCHY](https://open.spotify.com/album/6RU352ZToxkhvPq9LrpD3V) | 2:22 | 2025-05-08 |  |
 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 | 2023-05-10 |  |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2024-08-16 |  |
+| [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2025-09-09 |  |
 | [Whatever She Wants](https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML) | [Rlr Slime](https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ), [Lil Bryson Tillerr](https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef) | [Whatever She Wants](https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52) | 2:10 | 2024-01-27 |  |
 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 | 2023-10-21 |  |
 | [Where I'm From \(feat\. BlocBoy JB and Polo G\)](https://open.spotify.com/track/1kqPPHbFzfG4Bue2SaicoC) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [From the Neighborhood to the Stage](https://open.spotify.com/album/2s19QcF1PIILzRfS6Jjni3) | 3:25 | 2022-10-25 |  |

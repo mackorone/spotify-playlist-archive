@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-143 songs - 8 hr 13 min
+144 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Rain Forest \(Bird Sounds\)](https://open.spotify.com/track/0gyems769d3r5O3CqBOGzG) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:58 | 2021-12-08 | 2025-07-16 |
 | [Rain Forest Bird Sounds](https://open.spotify.com/track/05lsppV4srCvaDYOh7XeOB) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 2:48 | 2021-12-08 | 2022-07-05 |
 | [Rain Forest Birds](https://open.spotify.com/track/15ovQxV8biA0iMQMrkJg6q) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 1:48 | 2021-12-08 | 2022-07-05 |
-| [Rain Forest Birds](https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT) | [Swedish\-Bird\-Sounds](https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD) | [Swedish Morning Birds](https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF) | 3:00 | 2021-12-22 |  |
+| [Rain Forest Birds](https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT) | [Swedish\-Bird\-Sounds](https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD) | [Swedish Morning Birds](https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF) | 3:00 | 2021-12-22 | 2025-09-10 |
 | [Rainforest Life](https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:38 | 2025-07-24 |  |
 | [Relaxing Morning in the Woods](https://open.spotify.com/track/1f8quOyC5GgsdYzYem5ipJ) | [101 Noise](https://open.spotify.com/artist/4DFZxJir9eDvJM7Tbr4HYI), [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx), [Nature Therapy](https://open.spotify.com/artist/0i427rmFO91za6EZmhbSCh) | [Birds in Nature, Whistling Birds, Nature Sounds for Deep Sleep](https://open.spotify.com/album/762pFiHP51wPNr8b7IgPUw) | 2:04 | 2025-07-21 |  |
 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 | 2023-06-19 |  |
@@ -146,6 +146,7 @@
 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 | 2023-06-20 | 2025-07-03 |
 | [The Days of Sleep](https://open.spotify.com/track/0Zll35HIjOvk4RvK733uR8) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:34 | 2021-12-08 | 2022-01-07 |
 | [The Forest Birds](https://open.spotify.com/track/6TGkow07McOM0ApOrBZAwh) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 1:55 | 2023-12-20 | 2024-08-20 |
+| [The Millpond VII](https://open.spotify.com/track/2dNizJkyRarfT8qtOBLsHm) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VII](https://open.spotify.com/album/7rditgWAg73FfmUDMAUmY9) | 2:18 | 2025-07-24 |  |
 | [The Sounds of the Sky](https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [A Winged World](https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig) | 2:08 | 2023-06-19 | 2024-01-24 |
 | [Up Above, Where Birds Sing](https://open.spotify.com/track/7o5sqfEC5qffpmWxctGPAX) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Birdopia](https://open.spotify.com/album/3e6UQ4ZftjswTJFXTfAdmO) | 15:09 | 2021-12-08 | 2022-07-05 |
 | [Vogelgezwitscher](https://open.spotify.com/track/1g6cnSGhFUyP3XIJ1Jku1f) | [Berlin Rain](https://open.spotify.com/artist/367WqYA55AUDT7u8TMBVsy) | [Vogelgezwitscher](https://open.spotify.com/album/3d2efairwF2VEGbYPjDigj) | 2:56 | 2021-12-08 | 2022-07-05 |

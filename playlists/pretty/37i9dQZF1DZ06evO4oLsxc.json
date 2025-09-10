@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 838,
+  "num_followers": 853,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAAAL2Jp4GLf5+nYtn36P4NRm",
+  "snapshot_id": "aL4cgAAAAAC+heWbmhG+qj5djjjmTZ4X",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "'99",
+      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
       },
@@ -235,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
       "artists": [
         {
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 188466,
-      "name": "'99",
-      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
+      "duration_ms": 40013,
+      "name": "Yoshi\u2019 Intro",
+      "url": "https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy"
     },
     {
       "added_at": null,
@@ -267,6 +283,26 @@
       "duration_ms": 227435,
       "name": "Mystics (feat. Venna) - Live at Joshua Tree",
       "url": "https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Mount Shasta",
+      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
     },
     {
       "added_at": null,
@@ -295,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 70346,
+      "name": "S\u00e3o Paulo\u2019 Interlude",
+      "url": "https://open.spotify.com/track/1KzaKXtkmo6UROkEHcp6GP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prophet",
         "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
       },
@@ -311,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Mount Shasta",
-      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,
@@ -355,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
       "artists": [
         {
@@ -364,29 +412,9 @@
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
+      "duration_ms": 118706,
+      "name": "+Star101",
+      "url": "https://open.spotify.com/track/1Te1WjWNktTVf9L1wmmTSz"
     },
     {
       "added_at": null,
@@ -411,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -427,6 +475,94 @@
       "duration_ms": 212520,
       "name": "Perfect Divide",
       "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 101920,
+      "name": "Raggo Rock",
+      "url": "https://open.spotify.com/track/1jm7i31XQpaSumkH7Kuzmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr Popular (feat. Smino)",
+        "url": "https://open.spotify.com/album/4nO2YRNaNBas9gLW54LVyR"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Mr Popular (feat. Smino)",
+      "url": "https://open.spotify.com/track/0CXpWhsS40RVRx81TgreI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nag champa",
+        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
+      },
+      "artists": [
+        {
+          "name": "agajon",
+          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "so simple",
+      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 131146,
+      "name": "Zazu",
+      "url": "https://open.spotify.com/track/5c8RVrqykEO8NTlAai5xCc"
     },
     {
       "added_at": null,
@@ -455,42 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Showbiz!",
-        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 173021,
-      "name": "Artist of the Century",
-      "url": "https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
       },
@@ -515,22 +615,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "nag champa",
-        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
+        "name": "Showbiz!",
+        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
       },
       "artists": [
         {
-          "name": "agajon",
-          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         },
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 172190,
-      "name": "so simple",
-      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
+      "duration_ms": 173021,
+      "name": "Artist of the Century",
+      "url": "https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 252653,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Eli Preiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,481 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,521 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [PRIVILEG](https://open.spotify.com/track/6FBjOetu1LzrfZ9bM5Ko6E) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [PRIVILEG](https://open.spotify.com/album/0H9FLEBrGN0itLpO1PIE6Q) | 1:55 |
 | 11 | [50 stufen grau](https://open.spotify.com/track/5byb8ihCSCwtDnmCxjJl2q) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [50 stufen grau](https://open.spotify.com/album/4d48G0AFCqq3fVYFDYZn3r) | 2:28 |
 | 12 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 |
-| 13 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
-| 14 | [Heimweh nach mir](https://open.spotify.com/track/4b11bvUyrYMEwRsNdxZ9je) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Heimweh nach mir](https://open.spotify.com/album/3De2K5IyZin56BVK2rX2Ij) | 2:38 |
+| 13 | [Heimweh nach mir](https://open.spotify.com/track/4b11bvUyrYMEwRsNdxZ9je) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Heimweh nach mir](https://open.spotify.com/album/3De2K5IyZin56BVK2rX2Ij) | 2:38 |
+| 14 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
 | 15 | [\(von hier bis\) Tokio](https://open.spotify.com/track/0NAkVz4iCHuMO7SDV0JFXM) | [prodbypengg](https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [\(von hier bis\) Tokio](https://open.spotify.com/album/6WCeaUL3BzjGgNNd9mxEvE) | 2:44 |
 | 16 | [Freibadpommes](https://open.spotify.com/track/32QhIks9oWNU67KeciR6Ns) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:02 |
 | 17 | [hanni & nanni](https://open.spotify.com/track/6FUAKmPbSl1mgwiMmumPik) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [hanni & nanni](https://open.spotify.com/album/7urFnsVP3nk1qj4CR47zw4) | 2:27 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [rewe](https://open.spotify.com/track/0pJAqvwEz4d2yPdqpdqkAl) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [rewe](https://open.spotify.com/album/08BXhW2eMp3dE9nGYzEWuv) | 1:47 |
 | 22 | [Tanzen](https://open.spotify.com/track/1jp14TUFD8mIIcSZDuFyV4) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Tanzen](https://open.spotify.com/album/1MGQXlrIoxlcUZlO93hdVB) | 2:25 |
 | 23 | [Angst](https://open.spotify.com/track/5flXEtnmx7VsADuAYdEiIO) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Dreiundzwanzig](https://open.spotify.com/album/6i6I3dfo8SHBqLq9MHfJt4) | 3:00 |
-| 24 | [Fertig](https://open.spotify.com/track/65EXwQy9ulFhVtjF2AcQfF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Indecisive Shawty Mixtape](https://open.spotify.com/album/76INGKhnUjQkVGBhu9CMW0) | 2:53 |
+| 24 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 |
 | 25 | [LVL UP](https://open.spotify.com/track/4kxdyFBmxr4ue3Ip2n2vjH) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [Tschickgott](https://open.spotify.com/artist/6sqqInzatrr51ZdgQ4xVvF) | [LVL UP](https://open.spotify.com/album/6t7eGVJzT9C6NMix8p7L9y) | 2:23 |
-| 26 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 |
+| 26 | [Fertig](https://open.spotify.com/track/65EXwQy9ulFhVtjF2AcQfF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Indecisive Shawty Mixtape](https://open.spotify.com/album/76INGKhnUjQkVGBhu9CMW0) | 2:53 |
 | 27 | [Seltsame Welt](https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seltsame Welt](https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU) | 2:42 |
-| 28 | [Young](https://open.spotify.com/track/6fsVB1jCa4gSCP0EAlfiSB) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Young](https://open.spotify.com/album/5I1pGM2CLrHKUNOXQnwYKL) | 2:39 |
-| 29 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 |
+| 28 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 |
+| 29 | [Young](https://open.spotify.com/track/6fsVB1jCa4gSCP0EAlfiSB) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Young](https://open.spotify.com/album/5I1pGM2CLrHKUNOXQnwYKL) | 2:39 |
 | 30 | [Everybody Knows](https://open.spotify.com/track/41CZBcABG1VKlQ3b9VLhgi) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Everybody Knows](https://open.spotify.com/album/1CXEsKrvQkYYZImAwoVidy) | 4:48 |
 | 31 | [weiter](https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [weiter](https://open.spotify.com/album/7uGyrhdX7Ur8pR9ohGTwwg) | 2:44 |
 | 32 | [Everywhere You Are](https://open.spotify.com/track/5uypKQtzkR8KFNnqjusjOc) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [Everywhere You Are](https://open.spotify.com/album/4Y1W7RNx4fCreNDiptzSzp) | 3:33 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 39 | [MP3](https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo) | [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW) | [MP3 M1XTAPE](https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz) | 1:53 |
 | 40 | [Andre Art von Glücklich](https://open.spotify.com/track/5PbQE6ZywqZ0i5pfDpSAi7) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [Andre Art von Glücklich](https://open.spotify.com/album/0rPw3GoLxq0Gc09xEoMfeg) | 2:20 |
 | 41 | [lüge](https://open.spotify.com/track/1JiUWjoYn3GVwJg4dw6dMR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [lüge](https://open.spotify.com/album/4lcZB8nIcnn07Doc32lDqv) | 2:59 |
-| 42 | [Vermiss](https://open.spotify.com/track/1p4rgMDWkD8aSybsJBvHpV) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Vermiss](https://open.spotify.com/album/0iEd8CqblYubrizJ7SQNEK) | 2:09 |
+| 42 | [If I Could](https://open.spotify.com/track/5VH0fpVOtSoHvQELP5eXC8) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [rankha](https://open.spotify.com/artist/6xuAZX4CSfHNSnR0duyQoZ) | [If I Could](https://open.spotify.com/album/5rJld2oRbk2lvJEtkZ1Iiw) | 3:31 |
 | 43 | [stimme](https://open.spotify.com/track/4GOb7WvehrH8lFPqBww7JE) | [Selina Yek](https://open.spotify.com/artist/21RQN1fw7nfCaNLmQ7WgV2) | [stimme](https://open.spotify.com/album/1oYMrX8E0343TGBZN1g0YR) | 2:36 |
-| 44 | [If I Could](https://open.spotify.com/track/5VH0fpVOtSoHvQELP5eXC8) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [rankha](https://open.spotify.com/artist/6xuAZX4CSfHNSnR0duyQoZ) | [If I Could](https://open.spotify.com/album/5rJld2oRbk2lvJEtkZ1Iiw) | 3:31 |
-| 45 | [Shoot](https://open.spotify.com/track/3q8D7qwRdEOUelrY9aeGTb) | [ALYZAH](https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM) | [Shoot](https://open.spotify.com/album/3bud9A2uc4dqlaK2CVmERw) | 1:55 |
+| 44 | [Shoot](https://open.spotify.com/track/3q8D7qwRdEOUelrY9aeGTb) | [ALYZAH](https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM) | [Shoot](https://open.spotify.com/album/3bud9A2uc4dqlaK2CVmERw) | 1:55 |
+| 45 | [Vermiss](https://open.spotify.com/track/1p4rgMDWkD8aSybsJBvHpV) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Vermiss](https://open.spotify.com/album/0iEd8CqblYubrizJ7SQNEK) | 2:09 |
 | 46 | [Schweben](https://open.spotify.com/track/2t7W57lDEEbXHMpE9K4T3Z) | [LVLV](https://open.spotify.com/artist/4f1nPBKEn1GBmx64v3r4uc) | [Schweben](https://open.spotify.com/album/5UtF05Pd0ZPIWUQwI6R7xa) | 2:44 |
 | 47 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
 | 48 | [wenn du mit mir redest](https://open.spotify.com/track/10oXOgXQYOdxdQ6BxSeTMn) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd) | [wenn du mit mir redest](https://open.spotify.com/album/4byuzG7btyW12bhpEfmDMb) | 2:29 |

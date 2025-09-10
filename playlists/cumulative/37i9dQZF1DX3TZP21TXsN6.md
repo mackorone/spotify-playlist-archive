@@ -4,7 +4,7 @@
 
 > Nieuw: Rz, Nafas, Def en meer...
 
-97 songs - 4 hr 6 min
+100 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Biggie Doen](https://open.spotify.com/track/3brdVfw3eyXHcSXXwua6Q1) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Biggie Doen](https://open.spotify.com/album/7lY4DNPL8Br8vCADS7mLJu) | 2:33 | 2025-07-17 | 2025-08-29 |
 | [Blauwsel](https://open.spotify.com/track/0LHvMSawK2h9a28UtU2sld) | [Harry Femer](https://open.spotify.com/artist/5hAFdBmJbhDaDHOICibLfI), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Blauwsel](https://open.spotify.com/album/6Tq671NwxFaJ3YkcXJrkCN) | 2:05 | 2025-07-17 | 2025-08-29 |
 | [Borderline](https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Borderline](https://open.spotify.com/album/6HJ6xLe9h0jfT1wbIbHKYR) | 2:24 | 2025-08-14 | 2025-08-29 |
+| [Broekzak](https://open.spotify.com/track/0H59aVh4LI9aswzjR2JlJK) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Brokkenpiloot](https://open.spotify.com/album/4cPZs6g5lmcMIeyyNMZ1T4) | 2:17 | 2025-09-08 |  |
 | [Call Me](https://open.spotify.com/track/7htHKkSHvbWR9IuBTumNux) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [Call Me](https://open.spotify.com/album/5RoeNCapTkAX4wIuMDTNS1) | 3:12 | 2025-08-14 |  |
 | [Chardonnay](https://open.spotify.com/track/3YZKZksIl2jQuFZFW9Jkcl) | [Ibrah](https://open.spotify.com/artist/3YeXFlCeJsYudHaerLcLkz), [Givi](https://open.spotify.com/artist/2pR2mSn8yL7BUuaCrTbuwc) | [Chardonnay](https://open.spotify.com/album/68SJbVrRlITUArMOcY9jrQ) | 2:12 | 2025-08-07 |  |
 | [Clones](https://open.spotify.com/track/20dmVqeA3OVLCezOmQgwhF) | [Seffelinie](https://open.spotify.com/artist/2rYxEnHjY4kAGMy2muATL0) | [Ze Besseffeliniet](https://open.spotify.com/album/6UBV34Nh4roLWDJ4jaZzZO) | 2:53 | 2025-07-17 | 2025-08-15 |
@@ -93,12 +94,14 @@
 | [Summertime babe](https://open.spotify.com/track/2zuh3CXSXeEkp2GZSNPKCV) | [KraagBoyz](https://open.spotify.com/artist/1zvXk8JqqlvmjEtVRVxeBh), [Monsif](https://open.spotify.com/artist/2zGNNkuDbxiDVcIdt5fUUk), [24k Water](https://open.spotify.com/artist/08zCPe6ID8PSsFK1q4D037), [Flavio](https://open.spotify.com/artist/52H0eJ4FUfYYbWb8Dc32BU) | [Summertime babe](https://open.spotify.com/album/4JevY7W75wEjjUwqwzHnvz) | 2:08 | 2025-08-14 |  |
 | [Team](https://open.spotify.com/track/7JVfx9A6NQv9iFPpviuAXK) | [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Foncé](https://open.spotify.com/artist/2VYoSgP5JVmpOMm3h9Hb1m), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO) | [Team](https://open.spotify.com/album/5tikz6VjPbVvvsc0e6OaaI) | 2:24 | 2025-07-17 | 2025-08-29 |
 | [These Dayz](https://open.spotify.com/track/6RTkAAd7wTqLZunCzUIjwi) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [These Dayz](https://open.spotify.com/album/1coKPJ6hARR3PuF4h4ASKd) | 2:42 | 2025-07-17 | 2025-08-15 |
+| [Thuisbasis](https://open.spotify.com/track/3TlIlIjY45oQMTNyp0kqOw) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [Thuisbasis](https://open.spotify.com/album/3GQOty3Q4xmoMPFVzvUosr) | 2:22 | 2025-09-08 |  |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Trenches](https://open.spotify.com/track/2hbtk7UT9d3v7Tqba50i8I) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Trenches](https://open.spotify.com/album/1MEqUhx1oixOQ4tC06K25q) | 2:56 | 2025-07-17 | 2025-08-15 |
 | [Tweestrijd](https://open.spotify.com/track/1TLnw07bMuCKMWiIanLmiR) | [Opium Lotus](https://open.spotify.com/artist/1hdlDnJu1jX9mLpR2XiTQm) | [Tweestrijd](https://open.spotify.com/album/3JitLU8YuoVprOWFpPbnqZ) | 3:29 | 2025-07-17 | 2025-08-15 |
 | [Uit De Gutter](https://open.spotify.com/track/2YvyZdrW3djsduCxqf6oAN) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Uit De Gutter](https://open.spotify.com/album/59pQQvUVkHsqGXDb7soirf) | 2:44 | 2025-07-17 | 2025-08-29 |
 | [UNLIMITED SPACE](https://open.spotify.com/track/7HEpCldsVF6J9sw2B9spSK) | [Banlieue](https://open.spotify.com/artist/5EyLdw2I6fw5hAlS2JUq3a), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [UNLIMITED SPACE](https://open.spotify.com/album/2e9g63lvz83vZLhnm3zpe7) | 2:08 | 2025-07-17 | 2025-08-15 |
 | [Vinicius](https://open.spotify.com/track/6U90pgMCZGlZ8wN9PzUWIF) | [Nafas](https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq) | [Vinicius](https://open.spotify.com/album/12jBtupJZ9A9v4VeH13TTb) | 2:28 | 2025-07-17 | 2025-08-15 |
+| [Vogue Magazine](https://open.spotify.com/track/1DZYU6fPxiRktWbWXwSpcX) | [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [Jerragamo](https://open.spotify.com/album/3k3bonrtncSa6OofenPOQA) | 2:33 | 2025-09-08 |  |
 | [What’s Love](https://open.spotify.com/track/3Oydm6UCELxS3EtXHPsXHQ) | [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [What’s Love](https://open.spotify.com/album/1YpHk1zm8qG280NDliArx1) | 2:57 | 2025-07-17 | 2025-08-15 |
 | [Yade Lauren](https://open.spotify.com/track/69ht6FNdOsRVTqKh0O0Iia) | [Jezz](https://open.spotify.com/artist/6zWmVW0Cn33S8IP0bw1JNJ) | [Yade Lauren](https://open.spotify.com/album/3d01JLmrEfwcTMoe5YaizH) | 2:00 | 2025-08-28 |  |
 | [Yusu](https://open.spotify.com/track/13LmE9mWU4T3GDUaQnhafs) | [Tamika Naomi](https://open.spotify.com/artist/2n1mMxsGOKnQ19vNJmoBW1) | [Yusu](https://open.spotify.com/album/2iCp4w7ubcdI3OyfdlODbr) | 2:45 | 2025-07-17 | 2025-08-15 |

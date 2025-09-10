@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: אגם בוחבוט
 
-442 songs - 23 hr 13 min
+443 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 |  |
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 | 2025-07-11 |
 | [מקום בחייך](https://open.spotify.com/track/3odiIlhzbc43pFUiUXQSwH) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [מקום בחייך](https://open.spotify.com/album/2JoZx4ITfjtsyT1IZ0ObZ2) | 2:56 | 2024-06-27 | 2024-08-02 |
+| [מקרב הלבבות](https://open.spotify.com/track/3ES3Vi993SR3JvoDVryv8A) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מקרב הלבבות](https://open.spotify.com/album/1ByKzpw1vbLsBgQiMOo9qR) | 2:24 | 2025-09-04 |  |
 | [מרים](https://open.spotify.com/track/6moQ2s76T6ZArk9q5Z6Zhc) | [האילנות 41](https://open.spotify.com/artist/0lAvR04m9U9bhfyjn62V6l), [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [נעשה ונשמע](https://open.spotify.com/album/5KA4tfoDRZ8A1O5MXcnEEn) | 2:23 | 2025-06-12 | 2025-07-11 |
 | [משה](https://open.spotify.com/track/3Kl3XgSevg4Z0774K9Mj1t) | [Omer Datz](https://open.spotify.com/artist/5cNps5wYsmy9J7E2tGWcH7) | [באהבה שלנו](https://open.spotify.com/album/4Ymz4jv1xwNnADNcPT6S81) | 3:42 | 2024-08-08 | 2024-08-23 |
 | [משהו אחר](https://open.spotify.com/track/7cqdH5LgHJsorTvwtAMmYF) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [משהו אחר](https://open.spotify.com/album/3sRSX68JBe65QH4N1ip1wW) | 2:31 | 2025-05-15 | 2025-08-22 |

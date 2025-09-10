@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Sep 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Sep 22:03 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUk3OgKHoKY7i8fYVr9Y0FNSMeWBSv",
+  "snapshot_id": "AAAUl0VcYJec/boPqhszfyi1qfeKJoiQ",
   "tracks": [
+    {
+      "added_at": "2025-09-09 13:03:48",
+      "album": {
+        "name": "When You Left (One Way! 3)",
+        "url": "https://open.spotify.com/album/5nRZvptYSovwcoaz75pMUU"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "When You Left (One Way! 3)",
+      "url": "https://open.spotify.com/track/5HCOyUceNUxZupTjt3G3aw"
+    },
     {
       "added_at": "2025-09-09 03:04:27",
       "album": {
@@ -135,6 +151,22 @@
       "duration_ms": 112941,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q"
+    },
+    {
+      "added_at": "2025-09-09 22:03:38",
+      "album": {
+        "name": "girls with gills",
+        "url": "https://open.spotify.com/album/4bLta3L54y2UFGJ7tGPjsK"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 137203,
+      "name": "girls with gills",
+      "url": "https://open.spotify.com/track/31BP9sLVR9bY0zFvxdZbIJ"
     },
     {
       "added_at": "2025-09-05 08:04:10",
@@ -299,6 +331,22 @@
       "duration_ms": 150476,
       "name": "Prophet",
       "url": "https://open.spotify.com/track/6a1aIVUbb5hYXgrM0N5pu0"
+    },
+    {
+      "added_at": "2025-09-09 13:03:48",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/5FjG9LSC2UWyqQY2qM4olP"
+      },
+      "artists": [
+        {
+          "name": "Jerskin Fendrix",
+          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
+        }
+      ],
+      "duration_ms": 434786,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/2v2mx2Giw8iN2wkYZWKTWu"
     },
     {
       "added_at": "2025-09-04 18:04:02",
@@ -791,54 +839,6 @@
       "duration_ms": 248523,
       "name": "Hype Man",
       "url": "https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv"
-    },
-    {
-      "added_at": "2025-08-31 18:04:33",
-      "album": {
-        "name": "NAKED",
-        "url": "https://open.spotify.com/album/2E9m50Y6IaXTewP1sT6ZP6"
-      },
-      "artists": [
-        {
-          "name": "Zheani",
-          "url": "https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY"
-        }
-      ],
-      "duration_ms": 194664,
-      "name": "NAKED",
-      "url": "https://open.spotify.com/track/23FE8L9m7gFYt9UBpWfJCo"
-    },
-    {
-      "added_at": "2025-09-02 22:05:02",
-      "album": {
-        "name": "Past It",
-        "url": "https://open.spotify.com/album/6I2kj1L1jb39NEc0DDkNpT"
-      },
-      "artists": [
-        {
-          "name": "Lexa Gates",
-          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
-        }
-      ],
-      "duration_ms": 145713,
-      "name": "Past It",
-      "url": "https://open.spotify.com/track/1zrHVd6OvuzBIDsApojH24"
-    },
-    {
-      "added_at": "2025-08-29 13:05:36",
-      "album": {
-        "name": "Outbound",
-        "url": "https://open.spotify.com/album/04PB5ijhEf7SJnQp1D1G9K"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Outbound",
-      "url": "https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK"
     }
   ],
   "unique_name": "New Singles Now",

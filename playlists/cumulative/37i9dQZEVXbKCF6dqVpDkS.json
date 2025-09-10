@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 151493,
       "name": "100%",
       "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
@@ -5392,6 +5392,28 @@
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+    },
+    {
+      "album": {
+        "name": "Boccaccio",
+        "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "Boccaccio",
+      "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
     },
     {
       "album": {
@@ -31308,7 +31330,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 282362,
       "name": "Schweinsteiger",
       "url": "https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk"
@@ -39184,7 +39206,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 182352,
       "name": "Waterkant",
       "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
@@ -40078,7 +40100,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
@@ -41306,6 +41328,24 @@
       "duration_ms": 187977,
       "name": "Zij aan zij",
       "url": "https://open.spotify.com/track/5QGGDdqiTjGA8u8TS1xQRI"
+    },
+    {
+      "album": {
+        "name": "Zij heeft het",
+        "url": "https://open.spotify.com/album/1pZSABgu2d8HjTs4K0Bvg1"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Lake",
+          "url": "https://open.spotify.com/artist/3mQHrWl5C7GlT27Ad6rdW3"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157503,
+      "name": "Zij heeft het",
+      "url": "https://open.spotify.com/track/4BnpYN4JYWKN624Yk2Zkkz"
     },
     {
       "album": {

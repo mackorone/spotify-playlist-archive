@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,765 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,847 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 29 | [Meu Bom Pastor](https://open.spotify.com/track/32cJjkGYD5AknqQADWjWFK) | [Leandro Soares](https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr) | [Meu Bom Pastor](https://open.spotify.com/album/5lNbqUbFYOpIM5ZQhbW2V2) | 2:56 |
 | 30 | [Maior Amor \- Ao Vivo](https://open.spotify.com/track/3KnL7gzxgCJZ41c0Urgqnl) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Maior Amor \(Ao Vivo\)](https://open.spotify.com/album/2ObTG5orfmbDwGSLZTjf0n) | 3:12 |
 | 31 | [Rei do Universo \- Ao Vivo](https://open.spotify.com/track/56VFlGZdPsdGLADLseOp39) | [Elizeu Negrinne](https://open.spotify.com/artist/5LlaPS2OOcpyGx2bfqeyv4), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Rei do Universo \(Ao Vivo\)](https://open.spotify.com/album/5Ugz2T3Y1cwKFGKRYRiFED) | 9:02 |
-| 32 | [Mostra\-me Tua Glória \- Ao Vivo](https://open.spotify.com/track/1VNtmoqVyVv35os4nDhZPp) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Mostra\-me Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/2RV858WzGRA6PeKzke141G) | 10:51 |
+| 32 | [Mostra\-me Tua Glória \- Versão Estendida \- Ao Vivo](https://open.spotify.com/track/1VNtmoqVyVv35os4nDhZPp) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Mostra\-me Tua Glória \- Versão Estendida \(Ao Vivo\)](https://open.spotify.com/album/2RV858WzGRA6PeKzke141G) | 10:51 |
 | 33 | [Nunca Foi Sorte \- Ao Vivo](https://open.spotify.com/track/3otB3TbgPaWRYVIPoFljXh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Nunca Foi Sorte \(Ao Vivo\)](https://open.spotify.com/album/5q72pPdFnoQbVMSG4Qd1dZ) | 7:29 |
 | 34 | [Em Aliança \- Ao Vivo](https://open.spotify.com/track/1ky4nuhl8aUaZGvrHxFA7a) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w), [Aproxime\-Se](https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT) | [Em Aliança \(Ao Vivo\)](https://open.spotify.com/album/3q57SOIycDvyCkA1FXNM80) | 7:49 |
 | 35 | [Ageu 2 \- Ao Vivo](https://open.spotify.com/track/6VoFFHNIjZQGBEDAL3LZWA) | [Esther Fiaux](https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ageu 2 \(Ao Vivo\)](https://open.spotify.com/album/5YtzWPbDcuCmQIoHK6r9sg) | 6:17 |

@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-256 songs - 16 hr 30 min
+257 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,10 +78,11 @@
 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:00 | 2024-01-17 |  |
 | [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 | 2021-09-26 | 2024-04-03 |
 | [Giudizi universali](https://open.spotify.com/track/5bOE9NDX7dO6q7ZzGKXhiT) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/2RU2nSMerlc8qvcUMvgPqQ) | 3:55 | 2021-09-26 | 2022-07-29 |
-| [Giulia](https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X) | [Gianni Togni](https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL) | [Cari Amori Miei](https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY) | 4:47 | 2025-01-23 |  |
+| [Giulia](https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X) | [Gianni Togni](https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL) | [Cari Amori Miei](https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY) | 4:47 | 2025-01-23 | 2025-09-10 |
 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 | 2021-09-26 | 2024-04-19 |
 | [Gli ostacoli del cuore \- feat\. Ligabue](https://open.spotify.com/track/2BpBgGDyko7wzwIXSxjiUB) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/00NzMobGESLy9zbrJD8FUw) | 4:26 | 2021-09-26 | 2022-07-29 |
 | [Gli uomini non cambiano \- Original Version](https://open.spotify.com/track/7gAeZi9rKJO40bOWaNAY3b) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Lacrime](https://open.spotify.com/album/72bFFJcHfGO1ptRnfQ0guS) | 4:07 | 2021-09-26 | 2022-07-17 |
+| [Grande, grande, grande \- 2001 Remaster](https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina \(2001 Remaster\)](https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg) | 4:00 | 2025-09-04 |  |
 | [Guardami amore](https://open.spotify.com/track/0UmmSFh7Kpk50unE55OdOm) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:45 | 2021-09-26 | 2022-07-25 |
 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 | 2023-02-07 |  |
 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 | 2021-09-26 |  |

@@ -8721,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "4Eternity",
+        "url": "https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1"
+      },
+      "artists": [
+        {
+          "name": " louii lane",
+          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136451,
+      "name": "IN YOUR BLUE",
+      "url": "https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO"
+    },
+    {
+      "album": {
         "name": "INATT IGEN",
         "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
       },
@@ -11086,7 +11104,7 @@
       },
       "artists": [
         {
-          "name": "Lov1",
+          "name": "Lovet",
           "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
         }
       ],

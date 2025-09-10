@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,612 likes - 119 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,607 likes - 119 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

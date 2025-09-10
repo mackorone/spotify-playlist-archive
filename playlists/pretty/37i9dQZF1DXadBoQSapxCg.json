@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319025,
+  "num_followers": 319032,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
         "name": "100 por Hora",
         "url": "https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
     },
     {
       "added_at": "2025-08-01 19:15:40",
@@ -863,30 +863,6 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Apela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Chibatinha",
-          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Apela\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
         "name": "Nenhuma Outra Mulher",
         "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 190122,
       "name": "Vira E Mexe",
       "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
+        "name": "Apela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Chibatinha",
+          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Apela\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
     },
     {
       "added_at": "2025-08-01 19:15:40",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "temporal",
-        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 216299,
-      "name": "temporal",
-      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
         "name": "Esse \u00c9 Meu Mundo",
         "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Na Sua Rua",
-        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
+        "name": "temporal",
+        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
       },
       "artists": [
         {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Na Sua Rua",
-      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
+      "duration_ms": 216299,
+      "name": "temporal",
+      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
     },
     {
       "added_at": "2025-08-01 19:15:40",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Tenho Voc\u00ea",
-        "url": "https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm"
+        "name": "Na Sua Rua",
+        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
       },
       "artists": [
         {
-          "name": "Davi Sabbag",
-          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
         }
       ],
-      "duration_ms": 185139,
-      "name": "Tenho Voc\u00ea",
-      "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
+      "duration_ms": 208000,
+      "name": "Na Sua Rua",
+      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
     },
     {
       "added_at": "2025-08-01 19:15:40",
@@ -1187,6 +1171,22 @@
       "duration_ms": 161927,
       "name": "Toque Na Pele",
       "url": "https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
+        "name": "Tenho Voc\u00ea",
+        "url": "https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm"
+      },
+      "artists": [
+        {
+          "name": "Davi Sabbag",
+          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+        }
+      ],
+      "duration_ms": 185139,
+      "name": "Tenho Voc\u00ea",
+      "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
     },
     {
       "added_at": "2025-08-01 19:15:40",

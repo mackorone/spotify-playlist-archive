@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,518 songs - 5 day 11 hr 34 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,520 songs - 5 day 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2526,5 +2526,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2516 | [Cocaina](https://open.spotify.com/track/4s0tWln80WeTU1sv6e2EwZ) | [Midori](https://open.spotify.com/artist/0V0jE7vDLq7Qqo8dIBrkOj) | [Rave Generator: Part III](https://open.spotify.com/album/71VLFYBaWSXSGUgcDuJJCu) | 3:12 |
 | 2517 | [Dragonball](https://open.spotify.com/track/1oEsMsV7qFz7VEGCbQpVtt) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Gregor Le Dahl](https://open.spotify.com/artist/4md0Mvy3YEhabnP9fv7Omm) | [Happy Meets Core](https://open.spotify.com/album/47JS6qb7Iv36JbdGp7AEAV) | 3:26 |
 | 2518 | [Slave To The Rave](https://open.spotify.com/track/4IGQAA1P00U9il8wtu1SSo) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Slave To The Rave](https://open.spotify.com/album/1EFBwkTKs2TLiD1Yah9lNE) | 2:36 |
+| 2519 | [Endless Lights](https://open.spotify.com/track/3lD2ugOwbX8tX9MnCRRfLS) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Endless Lights](https://open.spotify.com/album/1j4Wv1VuqK86eTk6IOllEE) | 2:59 |
+| 2520 | [Let The Bass Pump](https://open.spotify.com/track/0usDNqnYYCPF5T677ZMcW4) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [Let The Bass Pump](https://open.spotify.com/album/2TFAFWqLI1fN2YyCsWBu0K) | 3:13 |
 
-Snapshot ID: `AAAKHEKg4requ+zlSTLdxDLeVbai/pkV`
+Snapshot ID: `AAAKHnPIbrGcZOkS7khvkbh7tXJffQWu`

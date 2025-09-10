@@ -2,9 +2,9 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد
+> تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-418 songs - 1 day 4 hr 43 min
+420 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 | 2023-07-27 | 2024-02-10 |
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-11-17 | 2023-05-26 |
 | [Wfr Alathar](https://open.spotify.com/track/7AByqTA1IoxIjUYODUrjK9) | [Emarat Art](https://open.spotify.com/artist/2HBZw1oHSJLodozzPFVV7k) | [Golo](https://open.spotify.com/album/5eYv9T9otfSlmJOIjNhDEA) | 5:24 | 2022-10-27 | 2023-02-03 |
+| [Wsh Rayek](https://open.spotify.com/track/125BdPTq6okVCzPf3lU1iM) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Wsh Rayek](https://open.spotify.com/album/1AjD2aGHzHW3jcIDQaRZpT) | 4:52 | 2025-09-09 |  |
 | [Wtemshi](https://open.spotify.com/track/45NyIkdO8ekR4ExNEExbl3) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Wtemshi](https://open.spotify.com/album/3CU7jIMrqIu3sTMuOdWacn) | 4:24 | 2023-01-15 | 2023-07-02 |
 | [Ya Galbi يا قلبي](https://open.spotify.com/track/2ovHJYDE1TRLa408yGdEfS) | [Jawad Al Ali](https://open.spotify.com/artist/2rYfn64Ri8zWtfyo2jGR8Z) | [Ya Galbi يا قلبي](https://open.spotify.com/album/2lM194nFCsFIBmtzWvZZ7H) | 4:47 | 2023-01-18 | 2023-07-01 |
 | [Ya Ghaeba](https://open.spotify.com/track/133pYgsSCKjNL09LSOSZ2r) | [Abdullah Tariq](https://open.spotify.com/artist/5ZZAY6x3JLcusD13tjQzQg) | [Ya Ghaeba](https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX) | 5:01 | 2022-03-17 | 2022-08-27 |
@@ -400,6 +401,7 @@
 | [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 | 2025-01-31 | 2025-02-14 |
 | [مالوم الناس](https://open.spotify.com/track/61szNkyIQza7TQpGrx3fzv) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [مالوم الناس](https://open.spotify.com/album/0set9x3J9VJr6fZGHTVTq3) | 4:36 | 2025-04-07 | 2025-07-01 |
 | [متى تفضى](https://open.spotify.com/track/0nYo79a7sX6c7RhzwZjoBa) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [متى تفضى](https://open.spotify.com/album/50iI82dgzSK0xl747eXz4L) | 5:43 | 2025-04-07 | 2025-07-01 |
+| [مثل البحر](https://open.spotify.com/track/0g3lVcXih3qn1ByJvpnxI2) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [الرقم الصعب 2025](https://open.spotify.com/album/03IcTc5E05u5XFcV7OPIO4) | 3:49 | 2025-09-09 |  |
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 | 2023-11-16 |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |

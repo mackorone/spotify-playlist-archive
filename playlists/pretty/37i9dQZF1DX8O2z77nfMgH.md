@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Farruko, Louis BPM
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,723 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,311 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 63 | [Lágrimas En La Playa](https://open.spotify.com/track/649ghezPxFFHVNQ0oQDgM2) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Lágrimas En La Playa](https://open.spotify.com/album/2LSgnEx852PPMBZq7GSgG5) | 2:42 |
 | 64 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 |
 
-Snapshot ID: `AAAAAHkfdvI2qaIionQUaeDT2icwaucz`
+Snapshot ID: `AAAAAAwyrvuXcQRRpy155lR/5YtZ86bT`

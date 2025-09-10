@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 183745,
+  "num_followers": 183794,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-09-04 22:01:13",
       "album": {
+        "name": "Canzoni",
+        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
+      },
+      "artists": [
+        {
+          "name": "Mietta",
+          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
+        },
+        {
+          "name": "Amedeo Minghi",
+          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Vattene amore (feat. Amedeo Minghi)",
+      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+    },
+    {
+      "added_at": "2025-09-04 22:01:13",
+      "album": {
         "name": "Albachiara",
         "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
-    },
-    {
-      "added_at": "2025-09-04 22:01:13",
-      "album": {
-        "name": "Canzoni",
-        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
-      },
-      "artists": [
-        {
-          "name": "Mietta",
-          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
-        },
-        {
-          "name": "Amedeo Minghi",
-          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Vattene amore (feat. Amedeo Minghi)",
-      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
     },
     {
       "added_at": "2025-09-04 22:01:13",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-09-04 22:01:13",
       "album": {
+        "name": "Mina (2001 Remaster)",
+        "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Grande, grande, grande - 2001 Remaster",
+      "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
+    },
+    {
+      "added_at": "2025-09-04 22:01:13",
+      "album": {
         "name": "Oh, Vita!",
         "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 239906,
       "name": "Chiaro Di Luna",
       "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
-    },
-    {
-      "added_at": "2025-09-04 22:01:13",
-      "album": {
-        "name": "Cari Amori Miei",
-        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
-      },
-      "artists": [
-        {
-          "name": "Gianni Togni",
-          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
-        }
-      ],
-      "duration_ms": 287466,
-      "name": "Giulia",
-      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
     }
   ],
   "unique_name": "Canzoni d'amore italiane",

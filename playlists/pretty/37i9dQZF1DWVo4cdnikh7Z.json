@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Madharaasi",
-  "num_followers": 721359,
+  "num_followers": 721454,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADr10VwHxlFhV7ESYgV2c1odGVFk",
+  "snapshot_id": "AAAAAIzJGQu/TD0fucK80BMaxLL4+nH1",
   "tracks": [
     {
       "added_at": "2025-07-31 13:51:13",
@@ -325,6 +325,30 @@
       "url": "https://open.spotify.com/track/268QzVxQvBG6neINWb8lJz"
     },
     {
+      "added_at": "2025-09-09 07:56:18",
+      "album": {
+        "name": "Kumaara Sambavam",
+        "url": "https://open.spotify.com/album/36Hzqp8kOqLmOgB380mT3X"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "duration_ms": 228776,
+      "name": "Idhu Devadhai Nerame",
+      "url": "https://open.spotify.com/track/7i65HSYgxKsZOv9znKh0tY"
+    },
+    {
       "added_at": "2025-08-27 13:55:57",
       "album": {
         "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
@@ -497,6 +521,54 @@
       "url": "https://open.spotify.com/track/6cyet3dduffZ3CxIFgjHKY"
     },
     {
+      "added_at": "2025-09-09 07:56:18",
+      "album": {
+        "name": "Jaithraya (From \"Mirai\") [Tamil]",
+        "url": "https://open.spotify.com/album/48UnCemwHYT4VUWmbUc6LN"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Ram Thirupalli",
+          "url": "https://open.spotify.com/artist/5eQIaYIbSVKqipR2L6uX4F"
+        },
+        {
+          "name": "Sabitha Selvakumar",
+          "url": "https://open.spotify.com/artist/4pijrT2eFMOrbx1llouKnp"
+        },
+        {
+          "name": "Sunandhan",
+          "url": "https://open.spotify.com/artist/1TdX02ny0RNoEGgNERMEEc"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Jaithraya (From \"Mirai\") [Tamil]",
+      "url": "https://open.spotify.com/track/1yr6EVk5jsnbXN6E0iiUMs"
+    },
+    {
+      "added_at": "2025-09-09 07:56:18",
+      "album": {
+        "name": "Kumaara Sambavam",
+        "url": "https://open.spotify.com/album/36Hzqp8kOqLmOgB380mT3X"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Balaji Venugopal",
+          "url": "https://open.spotify.com/artist/2AgNfl8BFrDlCLKeZgBZli"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Vidiyatha Iravondru",
+      "url": "https://open.spotify.com/track/41Rhp3lHn9EEvOgpK9IQmf"
+    },
+    {
       "added_at": "2025-07-24 12:35:04",
       "album": {
         "name": "Maarudho (From \"Shakthi Thirumagan\")",
@@ -587,42 +659,6 @@
       "duration_ms": 182173,
       "name": "SOL",
       "url": "https://open.spotify.com/track/5v7QZFYm665ZYc4QAkJLfb"
-    },
-    {
-      "added_at": "2025-09-01 08:15:57",
-      "album": {
-        "name": "Yelelo adi yelelo adi (Original Motion Picture Soundtrack) (Francis Chapter 1)",
-        "url": "https://open.spotify.com/album/1nK3CCXZRpHJ8SgXZbb1bM"
-      },
-      "artists": [
-        {
-          "name": "Sridhar Premkumar",
-          "url": "https://open.spotify.com/artist/3QN56koz8FUWTUmTIbDfc0"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Yelelo adi yelelo adi (Original Motion Picture Soundtrack) (Francis Chapter 1)",
-      "url": "https://open.spotify.com/track/4LcsjcNOaIcdQZmjTo8d3z"
-    },
-    {
-      "added_at": "2025-09-01 08:08:28",
-      "album": {
-        "name": "Smile Please (From \"Evidence#8\")",
-        "url": "https://open.spotify.com/album/15hu9PEXZMmbakZ66tm8QR"
-      },
-      "artists": [
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Ron Ethan Yohann",
-          "url": "https://open.spotify.com/artist/0AojazIcemdBzAX3LqAGFF"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Smile Please - From \"Evidence#8\"",
-      "url": "https://open.spotify.com/track/1KDwcgxhJQaa01KZjOgG22"
     },
     {
       "added_at": "2025-08-28 13:30:26",
@@ -751,26 +787,6 @@
       "duration_ms": 183000,
       "name": "Nerungatta (From \"Couple Friendly\")(Tamil)",
       "url": "https://open.spotify.com/track/2tFF4xvkbnJta7ZL5lkWX1"
-    },
-    {
-      "added_at": "2025-08-27 14:04:17",
-      "album": {
-        "name": "Kuttram Pudhithu",
-        "url": "https://open.spotify.com/album/5Saao8oi3p96oPLFeNl3Kk"
-      },
-      "artists": [
-        {
-          "name": "Ananthu",
-          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
-        },
-        {
-          "name": "Krish",
-          "url": "https://open.spotify.com/artist/5sBxBdbmZbKbCO0TaSe6Ie"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Kaiveesum",
-      "url": "https://open.spotify.com/track/0V4I6IE7ZefyB00mpgMfLR"
     },
     {
       "added_at": "2025-08-18 13:28:03",

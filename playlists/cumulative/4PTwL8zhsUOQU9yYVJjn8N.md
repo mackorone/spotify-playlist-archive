@@ -4,7 +4,7 @@
 
 > YAYAY 303 SAVESSS
 
-189 songs - 6 hr 12 min
+190 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [bewildered \- Instrumental](https://open.spotify.com/track/6dVlXN7z0BXQQ80nl8vS8M) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [bewildered](https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT) | 2:52 | 2023-12-05 |  |
 | [blending in](https://open.spotify.com/track/5egVnvG8bUNzDl6knzzjUY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [blending in](https://open.spotify.com/album/7DAUGgCvjKpw6dxMqHIXxv) | 1:09 | 2023-12-05 |  |
 | [blending in \- Instrumental](https://open.spotify.com/track/5EHX4CO5vD0IPIJYCXyKrL) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [blending in](https://open.spotify.com/album/7DAUGgCvjKpw6dxMqHIXxv) | 1:09 | 2023-12-05 |  |
+| [BOARD GAME](https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [BOARD GAME](https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7) | 1:57 | 2025-09-09 |  |
 | [break stuff](https://open.spotify.com/track/0ll2Wkt2es0W8KCRkCa6Th) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [break stuff](https://open.spotify.com/album/1iQn9UGhVpgNm2rh7ayJsS) | 1:44 | 2024-06-30 |  |
 | [broken dream](https://open.spotify.com/track/14qLjGDICy21a5xY9ED6bp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:27 | 2023-12-05 |  |
 | [bumpin' tails](https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:31 | 2025-07-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 52117,
+  "num_followers": 52134,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2021-03-29 13:28:49",
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Come Together - Remastered 2009",
-      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
-    },
-    {
       "added_at": "2020-04-20 05:39:13",
       "album": {
         "name": "If You Can Believe Your Eyes & Ears",
@@ -107,6 +91,22 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+    },
+    {
+      "added_at": "2021-03-29 13:28:49",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered 2009",
+      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "The Rolling Stones Singles Collection: The London Years",
         "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 376800,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
-      },
-      "artists": [
-        {
-          "name": "Het",
-          "url": "https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Ik Heb Geen Zin Om Op Te Staan",
-      "url": "https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Little Green Bag",
         "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 182680,
       "name": "Dear Ann",
       "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Het",
+          "url": "https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Ik Heb Geen Zin Om Op Te Staan",
+      "url": "https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1552,22 +1552,6 @@
       "added_at": "2020-04-20 05:39:13",
       "album": {
         "name": "Golden Years Of Dutch Pop Music",
-        "url": "https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "If You Leave Me",
-      "url": "https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Golden Years Of Dutch Pop Music",
         "url": "https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8"
       },
       "artists": [
@@ -1579,6 +1563,22 @@
       "duration_ms": 178146,
       "name": "Keep On Trying",
       "url": "https://open.spotify.com/track/6VSXC6SvYdypAhGbjAADZa"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Golden Years Of Dutch Pop Music",
+        "url": "https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "If You Leave Me",
+      "url": "https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Cuby - Collected",
-        "url": "https://open.spotify.com/album/1FX0zx769ckZgOnVssCY7W"
-      },
-      "artists": [
-        {
-          "name": "Cuby & The Blizzards",
-          "url": "https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/1G0cjvfO783vTJbxs9U3h4"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Golden Years Of Dutch Pop Music",
         "url": "https://open.spotify.com/album/7eRovpHKZNEsz3keP5wT4J"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 225400,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1RaOhyXRMVEvK2OgRfuwp6"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Cuby - Collected",
+        "url": "https://open.spotify.com/album/1FX0zx769ckZgOnVssCY7W"
+      },
+      "artists": [
+        {
+          "name": "Cuby & The Blizzards",
+          "url": "https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/1G0cjvfO783vTJbxs9U3h4"
     }
   ],
   "unique_name": "60's Allerbeste",

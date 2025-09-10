@@ -9278,7 +9278,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 176193,
       "name": "FACE2FACE",
       "url": "https://open.spotify.com/track/6FKShQYniVE3TlGPRXuPVw"
@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -13030,7 +13030,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 143298,
       "name": "I Think I Like You Better When You\u2019re Gone",
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
@@ -16826,7 +16826,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -18348,7 +18348,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
@@ -23050,7 +23050,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 164307,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2JRsev5j783NgLMhztR95V"
@@ -25472,7 +25472,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -32972,7 +32972,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 147776,
       "name": "\u015ea\u0219k\u0131n",
       "url": "https://open.spotify.com/track/19ueEPBwOhHPqX6VPnn9g8"
@@ -33813,6 +33813,28 @@
     },
     {
       "album": {
+        "name": "\u0414\u0430\u043b\u0435 \u0434\u0430\u043b\u0435",
+        "url": "https://open.spotify.com/album/7CRtx8ujJFVrTLRYNkjknI"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        },
+        {
+          "name": "Tomas",
+          "url": "https://open.spotify.com/artist/6Pu7616ebCHHPJkcpuiBZd"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "\u0414\u0430\u043b\u0435 \u0434\u0430\u043b\u0435",
+      "url": "https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC"
+    },
+    {
+      "album": {
         "name": "\u0414\u0430\u043b\u0438, \u0434\u0430\u043b\u0438",
         "url": "https://open.spotify.com/album/11r3DS1gQu28mwK4AcT2Kp"
       },
@@ -34144,7 +34166,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 159500,
       "name": "\u0416\u0435\u043d\u0430 \u043c\u0435\u0447\u0442\u0430",
       "url": "https://open.spotify.com/track/6JTldNn6ud4WATdzK2hNdD"
@@ -34516,7 +34538,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 172800,
       "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
       "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
@@ -35448,7 +35470,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 130778,
       "name": "\u041d\u0430\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u043e",
       "url": "https://open.spotify.com/track/5XIoRdNKbhG3uFDB0UXWuw"
@@ -37203,6 +37225,28 @@
     },
     {
       "album": {
+        "name": "\u0428\u043f\u0430\u043b\u0438\u0440",
+        "url": "https://open.spotify.com/album/6eBEeXkcLxrJRr58HBvUEt"
+      },
+      "artists": [
+        {
+          "name": "Jluch",
+          "url": "https://open.spotify.com/artist/1u5aZFA7fAmHyKsn5EkyW3"
+        },
+        {
+          "name": "TromBobby",
+          "url": "https://open.spotify.com/artist/6DupBkxoyANnvNNGLaafc2"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223437,
+      "name": "\u0428\u043f\u0430\u043b\u0438\u0440",
+      "url": "https://open.spotify.com/track/6ScfFcKe8hThWGvqidmtDD"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/7qeU87OyZMWrBW5RQhH4fQ"
       },
@@ -37634,7 +37678,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

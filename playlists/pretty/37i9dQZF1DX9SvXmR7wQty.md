@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,004 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,018 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 34 | [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 |
 | 35 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
 | 36 | [Laponie](https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Alba](https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl) | 2:40 |
-| 37 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
-| 38 | [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 |
-| 39 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
-| 40 | [SELEK](https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:39 |
+| 37 | [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 |
+| 38 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
+| 39 | [SELEK](https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:39 |
+| 40 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
 | 41 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 42 | [COMÈTE](https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [COMÈTE](https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s) | 2:26 |
 | 43 | [Plus pareil \(feat\. Gazo\)](https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [HAYATI \(Episode 1 : Du sable et du sang\)](https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd) | 2:58 |

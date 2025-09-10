@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 138950,
+  "num_followers": 138966,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAADb9rF1OA3sCsKW5UFaYgSC",
+  "snapshot_id": "aL4cgAAAAAAwqXdyPkJlvpiN5pwhQzQo",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 486933,
-      "name": "Call Me - Theme From \"American Gigolo\" / Remastered 2001",
-      "url": "https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 176560,
       "name": "Picture This - Remastered",
       "url": "https://open.spotify.com/track/3NnnLiWlTvsscc6xZ5AkBJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 486933,
+      "name": "Call Me - Theme From \"American Gigolo\" / Remastered 2001",
+      "url": "https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Girl",
-        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Sunday Girl - French Version",
-      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 259493,
       "name": "Fun",
       "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Girl",
+        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Sunday Girl - French Version",
+      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Loud",
-        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
+        "name": "Heart of Glass",
+        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
       },
       "artists": [
         {
-          "name": "Just Loud",
-          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
+          "name": "Kingston Sound System",
+          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
         },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Soul Train",
-      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+      "duration_ms": 185716,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
     }
   ],
   "unique_name": "This Is Blondie",

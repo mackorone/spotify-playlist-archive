@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: MERO x Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,528 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,660 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 22 | [NABARSIN?](https://open.spotify.com/track/1ATsWdiFLfVHOocRQ4BIZi) | [Stap](https://open.spotify.com/artist/3R27mVPp04i87RNmvysZfY) | [NABARSIN?](https://open.spotify.com/album/0sdW82oZF2TMK7mYJHLHeA) | 2:45 |
 | 23 | [AQUAFINA](https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [AQUAFINA](https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj) | 2:27 |
 | 24 | [Korkum Bundan](https://open.spotify.com/track/4cMhZPKncrQSWNnfWk6Ob1) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Korkum Bundan](https://open.spotify.com/album/7hm2b1Q3UTpr6FVbdWP5iL) | 2:29 |
-| 25 | [Kuyumcu Değiliz](https://open.spotify.com/track/5unnm5RqmRP1A7sJk2zkYu) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Kuyumcu Değiliz](https://open.spotify.com/album/2EpCDKfqRjaOvbW3xNuPla) | 2:06 |
+| 25 | [Kuyumcu Değiliz](https://open.spotify.com/track/5unnm5RqmRP1A7sJk2zkYu) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [MVMİ](https://open.spotify.com/artist/3uZKnPNLiZGVmt67hIvGbx) | [Kuyumcu Değiliz](https://open.spotify.com/album/2EpCDKfqRjaOvbW3xNuPla) | 2:06 |
 | 26 | [nOrmaLE](https://open.spotify.com/track/5nNY30flzMARoyH5I86avH) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [nOrmaLE](https://open.spotify.com/album/5zGhAEw0PVDZwDIlMLnMny) | 1:40 |
 | 27 | [ketojenik](https://open.spotify.com/track/58QSOYAIOBR6DTYwhLUEMh) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [ketojenik](https://open.spotify.com/album/0pDKtMxJJzNrvYFPtZWddu) | 2:33 |
 | 28 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |

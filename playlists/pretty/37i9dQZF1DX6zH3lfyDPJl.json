@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7325,
+  "num_followers": 7349,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -9,7 +9,59 @@
   "snapshot_id": "AAAAAG0RWSp9HwpFyJh4pyQEjkDXMbuM",
   "tracks": [
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Dream Age",
+        "url": "https://open.spotify.com/album/2mYhQdT3IPYP5OX0riiLvK"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Inside a Dream (feat. prettyhappy)",
+      "url": "https://open.spotify.com/track/4gzLhua7QMpnF1arrhQgul"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2wFgvSTbDeT9TaXq4nfpbs"
+      },
+      "artists": [
+        {
+          "name": "JEONG SEWOON",
+          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4FkJCAsrCLPkKePw4zkOip"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Everything's okay",
         "url": "https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Annie",
         "url": "https://open.spotify.com/album/2SQtjYXd0phPc8rUERwIVD"
@@ -41,39 +93,7 @@
       "url": "https://open.spotify.com/track/4cr0ygULVC2CQdz4lnNoim"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Deep night",
-        "url": "https://open.spotify.com/album/5kuKKjzwQlRqzUt4Ar7gdh"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 235904,
-      "name": "Deep night",
-      "url": "https://open.spotify.com/track/27qH8mnTdm86KYkbeI1hQW"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "flaws",
-        "url": "https://open.spotify.com/album/2Adt1TBWz0YWzCD0JBVAme"
-      },
-      "artists": [
-        {
-          "name": "Thomas Ng",
-          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
-        }
-      ],
-      "duration_ms": 203558,
-      "name": "flaws",
-      "url": "https://open.spotify.com/track/0V4sLTiyku7aRDsrpKyHYv"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "5.0",
         "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
@@ -89,7 +109,39 @@
       "url": "https://open.spotify.com/track/1fJ4oq1PhCd4HmncFKTi5M"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "flaws",
+        "url": "https://open.spotify.com/album/2Adt1TBWz0YWzCD0JBVAme"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "duration_ms": 203558,
+      "name": "flaws",
+      "url": "https://open.spotify.com/track/0V4sLTiyku7aRDsrpKyHYv"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Deep night",
+        "url": "https://open.spotify.com/album/5kuKKjzwQlRqzUt4Ar7gdh"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "duration_ms": 235904,
+      "name": "Deep night",
+      "url": "https://open.spotify.com/track/27qH8mnTdm86KYkbeI1hQW"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Hangang",
         "url": "https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU"
@@ -109,87 +161,7 @@
       "url": "https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "nervous",
-        "url": "https://open.spotify.com/album/76D3s0Tyv80NQISLIIryEx"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 214875,
-      "name": "nervous",
-      "url": "https://open.spotify.com/track/1IoFHQNdaIlQWR9tJ9Oj5Q"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Law and The City, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
-      },
-      "artists": [
-        {
-          "name": "DOKO",
-          "url": "https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Can i love u?",
-      "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Alonica",
-      "url": "https://open.spotify.com/track/25wNGoRO6hViX3AIPPFjpo"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "nswy: dream edits",
-        "url": "https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 249944,
-      "name": "free love - dream edit",
-      "url": "https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
@@ -205,7 +177,7 @@
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
@@ -221,7 +193,7 @@
       "url": "https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
@@ -237,7 +209,7 @@
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
@@ -253,7 +225,7 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
@@ -269,7 +241,7 @@
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
@@ -285,7 +257,7 @@
       "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -301,7 +273,7 @@
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
@@ -317,39 +289,7 @@
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Shouldn't Be",
-        "url": "https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "Shouldn't Be",
-      "url": "https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
@@ -365,7 +305,39 @@
       "url": "https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Shouldn't Be",
+        "url": "https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "Shouldn't Be",
+      "url": "https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "do you think you could love me?",
         "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
@@ -381,7 +353,7 @@
       "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
@@ -397,23 +369,7 @@
       "url": "https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Next Semester",
-      "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -429,23 +385,23 @@
       "url": "https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
-        "name": "Blood Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 237979,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "THE LONELIEST",
         "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
@@ -461,23 +417,7 @@
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Never Not",
-      "url": "https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Pistol",
         "url": "https://open.spotify.com/album/5nvVm89VAndk8QoIwKBB3I"
@@ -493,23 +433,39 @@
       "url": "https://open.spotify.com/track/36pMQRacz9p99OevARrvVs"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+        "name": "Blood Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+      "duration_ms": 237979,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Never Not",
+      "url": "https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
@@ -525,7 +481,7 @@
       "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
@@ -541,7 +497,7 @@
       "url": "https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
@@ -557,7 +513,23 @@
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx"
@@ -573,7 +545,7 @@
       "url": "https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
@@ -589,7 +561,23 @@
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/25wNGoRO6hViX3AIPPFjpo"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
@@ -605,7 +593,7 @@
       "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
@@ -621,7 +609,7 @@
       "url": "https://open.spotify.com/track/7GXcuBE3Aiu8gUJjX8PSlV"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
@@ -637,23 +625,7 @@
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "The Craving (Jenna's version)",
-      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
@@ -669,7 +641,7 @@
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
@@ -685,7 +657,7 @@
       "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
@@ -701,7 +673,23 @@
       "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "The Craving (Jenna's version)",
+      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "WHOEVER",
         "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
@@ -717,7 +705,23 @@
       "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
@@ -733,7 +737,7 @@
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
@@ -749,23 +753,7 @@
       "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
-      "album": {
-        "name": "The Craving",
-        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "The Craving - single version",
-      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
-    },
-    {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Holidays",
         "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
@@ -781,7 +769,7 @@
       "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "TEAM BABY",
         "url": "https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY"
@@ -797,7 +785,7 @@
       "url": "https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw"
     },
     {
-      "added_at": "2025-08-19 07:58:59",
+      "added_at": "2025-09-08 08:28:09",
       "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
@@ -811,6 +799,26 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "Medicate Me",
+        "url": "https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 167454,
+      "name": "Medicate Me",
+      "url": "https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE"
     }
   ],
   "unique_name": "\ubb3c \uba4d",

@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WÁ
 
-298 songs - 17 hr 28 min
+299 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Grow Old Together](https://open.spotify.com/track/7Fg5ZfzagPmxs7HmaXSF8H) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Grow Old Together](https://open.spotify.com/album/3VtpgX5kRLYSfNCXULBSI2) | 2:58 | 2024-03-01 | 2025-08-29 |
 | [Hamna aibu](https://open.spotify.com/track/1wc0SjXzsP5HmcgIJkBbEi) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Hamna aibu](https://open.spotify.com/album/5fWs62FSv3RsMhuhfYioa3) | 2:01 | 2021-10-07 | 2023-09-29 |
 | [Heartbreaker](https://open.spotify.com/track/5yX2b0p2F3JuTmGqbwz29o) | [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [Heartbreaker](https://open.spotify.com/album/2Pi2ZiUR6koGI6a5yZO9oO) | 2:26 | 2025-08-28 |  |
+| [Heaven](https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 3:19 | 2025-08-28 |  |
 | [Heya](https://open.spotify.com/track/1cK4YKVjfBdk6xR4U7cRSx) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Heya](https://open.spotify.com/album/7D2ZtohV2KRQ3TNIm7l4ZY) | 2:16 | 2023-02-03 | 2023-03-31 |
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2025-03-21 |
 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 | 2023-05-04 | 2024-04-26 |
@@ -243,7 +244,7 @@
 | [Stay as You Are](https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts](https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy) | 3:22 | 2023-03-10 | 2024-03-01 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-08 | 2023-10-13 |
 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 | 2021-10-28 | 2024-01-26 |
-| [Streets Say](https://open.spotify.com/track/75EFhE2N1WAdE6xxR0yYe2) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Streets Say](https://open.spotify.com/album/3Ie0JkHmVK6allUK42Qz6s) | 2:57 | 2025-06-20 |  |
+| [Streets Say](https://open.spotify.com/track/75EFhE2N1WAdE6xxR0yYe2) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Streets Say](https://open.spotify.com/album/3Ie0JkHmVK6allUK42Qz6s) | 2:57 | 2025-06-20 | 2025-09-10 |
 | [Sugar Rush](https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Sugar Rush](https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL) | 2:58 | 2025-08-28 |  |
 | [Sun Spot](https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu), [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Sun Spot](https://open.spotify.com/album/0dMANuJKGeHXJ6BsXd60jy) | 3:51 | 2021-10-28 | 2023-04-15 |
 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 | 2024-07-12 |  |

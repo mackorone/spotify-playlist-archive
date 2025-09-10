@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Fade To Black EP",
+        "url": "https://open.spotify.com/album/1CuBDDWPdzNolcPtYGAT8N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260437,
+      "name": "Fade To Black",
+      "url": "https://open.spotify.com/track/2VcK9l2rGaxUw6cI4u5zxy"
+    },
+    {
+      "album": {
         "name": "Fanfa",
         "url": "https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1"
       },
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 173538,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man) - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm"

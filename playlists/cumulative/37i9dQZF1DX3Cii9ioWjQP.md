@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-266 songs - 18 hr 38 min
+268 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Artemis In My Pluto](https://open.spotify.com/track/3leuAjdy8RnqLKgvlvPqLT) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/0TFlnShNuQwOiePmTlx8CF) | 3:09 | 2023-04-14 | 2024-04-19 |
 | [Audrey](https://open.spotify.com/track/4a3NQxkOngZHj3b3zwMa1I) | [Yeri Kang](https://open.spotify.com/artist/0dO41bAMVabROIYUSbbhL9) | [Audrey](https://open.spotify.com/album/5HTXudQOdLtmZvDNawqwMW) | 3:06 | 2024-04-18 | 2025-02-19 |
 | [Autumn Leaves](https://open.spotify.com/track/4MYcqL8XKOQ9BM2F3z3FgI) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW), [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Holiday gift from MOON](https://open.spotify.com/album/69y8tMlfVNtZKE45phqDHF) | 4:30 | 2025-04-03 |  |
+| [Baila, Baila](https://open.spotify.com/track/2splcDjHiK8dj39ZLn6Rrm) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Baila, Baila](https://open.spotify.com/album/7jBDLRqPdmSQM0w8j8xbaP) | 3:08 | 2025-09-09 |  |
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2022-05-03 | 2023-10-05 |
 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 | 2022-05-03 | 2023-10-05 |
 | [Being](https://open.spotify.com/track/6eJX1JLQJe7VcPCz7enWgJ) | [Jo Esther](https://open.spotify.com/artist/1wMZi9Tu0zEWhR5npdwG65) | [Being](https://open.spotify.com/album/1GzPpe2LvhN0PrY83KYtG8) | 5:12 | 2023-10-04 | 2024-11-07 |
@@ -63,6 +64,7 @@
 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 | 2022-07-08 | 2024-04-19 |
 | [Continuum](https://open.spotify.com/track/0e0H9w9UvDk5LkqNS4OkSl) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [Extraordinary](https://open.spotify.com/album/0sNQgCPq9IidNOikkedQJ3) | 6:04 | 2023-11-14 | 2024-11-07 |
 | [COSMONAUT](https://open.spotify.com/track/2UHzboHhUa6xBGtJBZAKRG) | [Sun Kim](https://open.spotify.com/artist/4J0PZFEnEr8Yn6482aEcWY) | [COSMONAUT](https://open.spotify.com/album/5ut5JBpa629u5pRsAHKoDJ) | 5:11 | 2022-05-03 | 2022-05-19 |
+| [Coucou](https://open.spotify.com/track/0X5S0n9710zbQgbMurM45J) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Madame Coucou Vol.3](https://open.spotify.com/album/1b27OMnldnCHHcauwsk5T6) | 3:49 | 2025-09-09 |  |
 | [Dead End](https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Dead End](https://open.spotify.com/album/4TDJGeuPpmfvd49P7GWCQ8) | 4:16 | 2022-11-11 | 2024-09-20 |
 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 | 2023-02-07 | 2024-11-07 |
 | [Desperate](https://open.spotify.com/track/4Bv3tVAF9tnusOb8POzngj) | [Zion](https://open.spotify.com/artist/2m5s6yCAoi5kvykCll3BLU) | [Desperate](https://open.spotify.com/album/2leypAJ4IVrcSHVAw7WQFc) | 3:28 | 2022-05-03 | 2023-02-08 |
@@ -105,7 +107,7 @@
 | [I Will Never Fall In Love](https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [I Will Never Fall In Love](https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb) | 3:02 | 2023-12-12 | 2024-08-11 |
 | [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 | 2023-10-11 | 2024-11-07 |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |
-| [Impatient](https://open.spotify.com/track/7odKBZr3NcHzff5ZEEZpCl) | [정상헌](https://open.spotify.com/artist/3UI0f7gP8Er2mE79EBlqsx) | [Impatient](https://open.spotify.com/album/3qBZXH0Exl3yFx6Ue2w9pn) | 2:20 | 2024-11-07 |  |
+| [Impatient](https://open.spotify.com/track/7odKBZr3NcHzff5ZEEZpCl) | [정상헌](https://open.spotify.com/artist/3UI0f7gP8Er2mE79EBlqsx) | [Impatient](https://open.spotify.com/album/3qBZXH0Exl3yFx6Ue2w9pn) | 2:20 | 2024-11-07 | 2025-09-10 |
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 | 2024-08-11 |
 | [Intrinsic nature](https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5) | [Jung Sumin](https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1) | [Intrinsic nature](https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo) | 8:18 | 2023-09-20 | 2024-11-07 |
 | [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 | 2023-07-24 | 2024-04-19 |
@@ -224,7 +226,7 @@
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 | 2024-09-20 |
 | [The moon is mooning](https://open.spotify.com/track/2KTHo0Y3FSmC4winA0xs9b) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [The Divorce Insurance, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1Sosc6QfPb6YQoWPN1EzVo) | 2:28 | 2025-05-07 |  |
 | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \- Big Band ver.](https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul) | [Yoo Geunho](https://open.spotify.com/artist/3qZ6sXsOvArciJpBmTZz4g), [Ahn Seo Jin](https://open.spotify.com/artist/3vNsicv6rbMD90Mp3OPno6) | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \[Big Band ver.\]](https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f) | 3:37 | 2024-11-27 |  |
-| [The photo album](https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO) | [Modal](https://open.spotify.com/artist/7kao384lpsOV5S3UKdu403) | [Modalism](https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF) | 5:29 | 2024-09-13 |  |
+| [The photo album](https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO) | [Modal](https://open.spotify.com/artist/7kao384lpsOV5S3UKdu403) | [Modalism](https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF) | 5:29 | 2024-09-13 | 2025-09-10 |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 | 2023-02-08 |
 | [Think About The Jazz](https://open.spotify.com/track/7dLZSRwgD7eY31RDeDmlxO) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Danny Sings](https://open.spotify.com/album/0gXvaL4A4zK6XnkbdqAAbm) | 2:35 | 2025-03-28 |  |

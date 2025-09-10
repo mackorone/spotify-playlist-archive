@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,066 songs - 2 day 11 hr 42 min
+1,067 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 | 2022-09-23 |
 | [Driving](https://open.spotify.com/track/4MWNzOV01xBWQ5bUNWbfUL) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Driving](https://open.spotify.com/album/4nqtyvb07LoYrEBFMWU51F) | 3:21 | 2024-06-25 | 2024-09-18 |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
+| [Drops Of Dew](https://open.spotify.com/track/3KxMOw5dxLpoUfOpmyad30) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Drops Of Dew](https://open.spotify.com/album/3OmvaJOSGrLWjn4JH5Nbiv) | 2:46 | 2025-09-09 |  |
 | [Drowning](https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Drowning](https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo) | 3:49 | 2023-02-24 | 2023-05-18 |
 | [drunk on u](https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX) | [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [drunk on u](https://open.spotify.com/album/3uZkt4BhHKIkVlgUz0mQfB) | 2:12 | 2025-03-20 | 2025-06-13 |
 | [Duality](https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality](https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8) | 3:30 | 2022-12-08 | 2023-03-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en volks. Cover: Joey Nicolay",
-  "num_followers": 152971,
+  "num_followers": 152987,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgyJ67DDmcxj17r186h6DqpPGU8",
+  "snapshot_id": "AAAAAJsyzhl9VUdYHuQ66nmjQvmD3L36",
   "tracks": [
     {
       "added_at": "2025-09-04 22:00:32",
@@ -23,6 +23,38 @@
       "duration_ms": 169040,
       "name": "Kroegtijger",
       "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "Goede Slechte Tijden",
+        "url": "https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1"
+      },
+      "artists": [
+        {
+          "name": "Joeri Plaizier",
+          "url": "https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Goede Slechte Tijden",
+      "url": "https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "Avond 2.0",
+        "url": "https://open.spotify.com/album/0BVSguaWW08ymbT39URufK"
+      },
+      "artists": [
+        {
+          "name": "Martijn Stam",
+          "url": "https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1"
+        }
+      ],
+      "duration_ms": 207304,
+      "name": "Avond 2.0",
+      "url": "https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -71,22 +103,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Goede Slechte Tijden",
-        "url": "https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1"
-      },
-      "artists": [
-        {
-          "name": "Joeri Plaizier",
-          "url": "https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Goede Slechte Tijden",
-      "url": "https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "Heb Je Al Genoeg Genoten",
         "url": "https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 131124,
       "name": "Dans Met Jou",
       "url": "https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
-        "name": "Avond 2.0",
-        "url": "https://open.spotify.com/album/0BVSguaWW08ymbT39URufK"
-      },
-      "artists": [
-        {
-          "name": "Martijn Stam",
-          "url": "https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1"
-        }
-      ],
-      "duration_ms": 207304,
-      "name": "Avond 2.0",
-      "url": "https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o"
     },
     {
       "added_at": "2025-09-04 22:00:32",

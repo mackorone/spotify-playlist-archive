@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-552 songs - 1 day 2 hr 51 min
+553 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,8 +398,9 @@
 | [Other Side](https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Other Side](https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi) | 2:51 | 2023-04-07 | 2023-05-13 |
 | [Out Of Time](https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Out Of Time](https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM) | 3:23 | 2023-12-01 | 2024-01-27 |
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
-| [Oxygen](https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Oxygen](https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi) | 2:46 | 2025-05-16 |  |
+| [Oxygen](https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Oxygen](https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi) | 2:46 | 2025-05-16 | 2025-09-10 |
 | [Paradise](https://open.spotify.com/track/3KcUTtzg9W5Hse7RknCSZr) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Paradise](https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf) | 2:53 | 2021-10-29 | 2022-06-11 |
+| [Party After Party](https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [Tim Bell](https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY) | [Party After Party](https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd) | 2:39 | 2025-09-05 |  |
 | [Party All The Time \- D.O.D Remix](https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Party All The Time \(D.O.D Remix\)](https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg) | 2:14 | 2023-11-24 |  |
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-08 | 2024-09-13 |
 | [Party in My Head \- Taiki Nulight Remix](https://open.spotify.com/track/1a9X5nPkX5ovOnlsywMHll) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Party in My Head \(Taiki Nulight Remix\)](https://open.spotify.com/album/0xTRAVjbQijRcD8F2YaDy8) | 3:13 | 2023-11-10 | 2023-11-25 |

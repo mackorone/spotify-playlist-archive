@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2500,
+  "num_followers": 2501,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAADQ9DYcQJPaYM90AdaDozeB",
+  "snapshot_id": "aL4cgAAAAACbNLjHm+C2ISLjDwohHxdr",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trillion$ (feat. bludnymph)",
-        "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 123681,
-      "name": "Trillion$ (feat. bludnymph)",
-      "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6izarre RAVE (with 6arelyhuman)",
         "url": "https://open.spotify.com/album/1sivAzc3StL99nZrQ89oTq"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 168000,
       "name": "6izarre RAVE (with 6arelyhuman)",
       "url": "https://open.spotify.com/track/7zy9giuWVVJPCalGuWciBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trillion$ (feat. bludnymph)",
+        "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 123681,
+      "name": "Trillion$ (feat. bludnymph)",
+      "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
     },
     {
       "added_at": null,

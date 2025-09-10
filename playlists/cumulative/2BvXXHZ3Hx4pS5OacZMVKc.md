@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-415 songs - 21 hr 30 min
+416 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-08-11 |
 | [Love Me](https://open.spotify.com/track/13b1CS1bUJOJD9HanXSs3c) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [FERGO](https://open.spotify.com/artist/2vlOppSBEJkAVos6JTshXF) | [Love Me](https://open.spotify.com/album/0yEscGCEQmz8G7GGyySaz5) | 2:12 | 2022-02-03 | 2022-09-15 |
 | [lover online](https://open.spotify.com/track/2aY8NZFKKsixbUWuYMDKqC) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [lover online](https://open.spotify.com/album/4ONhyG8weWEGcbqSGuAsel) | 1:37 | 2025-05-22 |  |
+| [lucy](https://open.spotify.com/track/2l2SwNMa5iKuCUa5909YNY) | [criticaleye](https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr), [EVILDXER](https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH) | [lucy](https://open.spotify.com/album/2a5ltRkgmcm8pRKAz0QYU4) | 3:03 | 2025-09-09 |  |
 | [Luna \- Mendum Remix](https://open.spotify.com/track/6ubM8S8Dn9vT5Xq1DVROnS) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [GalaxyTones](https://open.spotify.com/artist/49Ue58UGhN03frcpvJsHnH), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Luna \(Mendum Remix\)](https://open.spotify.com/album/50H2keG7LNU0oSNsBuiXem) | 3:25 | 2022-02-04 | 2022-09-15 |
 | [Lush](https://open.spotify.com/track/0g82uyFC1x6a4nGuETAHvG) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Holly Drummond](https://open.spotify.com/artist/24O8Ftz6AqboC3Uawbiw4r) | [Lush](https://open.spotify.com/album/2C1OgIBCi0xGFCQE6olvDV) | 4:00 | 2023-08-10 |  |
 | [Made For The Game](https://open.spotify.com/track/4M6Qer7eszDU3cwpYSXA2C) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jessee](https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Made For The Game](https://open.spotify.com/album/00YuUtVX0wMgJsxGlwEIXi) | 2:59 | 2025-04-25 |  |

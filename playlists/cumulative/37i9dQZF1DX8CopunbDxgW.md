@@ -4,7 +4,7 @@
 
 > we're loving this new Cut Copy album ✂️ ❤️ it's all the best indie dance tracks of the moment
 
-1,996 songs - 5 day 1 hr 35 min
+1,997 songs - 5 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [Half Asleep](https://open.spotify.com/track/5gyq4DZgDBNG2zZWQ6LWUl) | [Leyya](https://open.spotify.com/artist/0uG3hwOGxuGEOAyocfCwfl) | [Half Asleep](https://open.spotify.com/album/0tbs4xecIFHPCfeHO1N6A2) | 3:29 | 2024-04-12 | 2024-05-18 |
 | [Half Myself Without You](https://open.spotify.com/track/4K06K6bbQD2a58ssP82w35) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Half Myself Without You](https://open.spotify.com/album/5yUDNcVmZuE0ABewQRktsz) | 4:00 | 2024-10-11 | 2024-10-26 |
 | [Halo Flip](https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Halo Flip](https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz) | 6:55 | 2023-11-10 | 2024-01-27 |
-| [Happy Days \- Edit](https://open.spotify.com/track/0lPnmGoJ4iSDIflLs1Vchl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 1:54 | 2025-06-13 |  |
+| [Happy Days \- Edit](https://open.spotify.com/track/0lPnmGoJ4iSDIflLs1Vchl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 1:54 | 2025-06-13 | 2025-09-10 |
 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 | 2023-12-29 | 2024-01-27 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-08 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-09 | 2023-07-29 |
@@ -1839,6 +1839,7 @@
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-29 | 2024-01-20 |
 | [Under The Light \- Remix](https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Remix\)](https://open.spotify.com/album/7djxJDYoeQfrH6haKtws8c) | 4:28 | 2023-12-08 | 2024-01-13 |
 | [Under The Moon](https://open.spotify.com/track/1fdMHlBPWbG35CJXrGWInp) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Under The Moon](https://open.spotify.com/album/0Sq8hy4kCoJUNp6yNG6rAz) | 2:32 | 2025-03-21 | 2025-05-10 |
+| [Under The Surface \(feat\. Phoebe Green\)](https://open.spotify.com/track/72r2R2nVbvdhXJDtG11D4Q) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Under The Surface \(feat\. Phoebe Green\)](https://open.spotify.com/album/4oMdJFOQ6jLjX7VhokRBiH) | 4:14 | 2025-09-08 |  |
 | [Under Water / In Air \- feat\. Ruth Radelet](https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU), [Ruth Radelet](https://open.spotify.com/artist/2Evpx6HIhl4ahwPKjAPvox) | [Parallel Realms \(Deluxe Edition\)](https://open.spotify.com/album/3BMXL9PrShspDkVlCEvAfO) | 3:08 | 2024-09-06 | 2024-11-09 |
 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 | 2021-08-27 | 2022-07-29 |
 | [UNDO REDO](https://open.spotify.com/track/2w3v8tbN2kmpuzmUe7YhVl) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 4:38 | 2022-05-13 | 2022-05-20 |

@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Day One (feat. Madeline Merlo)",
+        "url": "https://open.spotify.com/album/5rqh44JK6xLVMndd2ODnD2"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152748,
+      "name": "Day One (feat. Madeline Merlo)",
+      "url": "https://open.spotify.com/track/1UykuOxBRThpGGvgtOlIAC"
+    },
+    {
+      "album": {
         "name": "Dear Me",
         "url": "https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky"
       },

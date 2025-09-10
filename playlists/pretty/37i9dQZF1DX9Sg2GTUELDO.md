@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: sica
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,139 likes - 550 songs - 1 day 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,150 likes - 550 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

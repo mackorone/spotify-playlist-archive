@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 296996,
+  "num_followers": 296971,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "From A Distance",
-        "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
-      },
-      "artists": [
-        {
-          "name": "Luna Mae",
-          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "From A Distance",
-      "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
-    },
-    {
-      "added_at": "2025-09-04 22:00:32",
-      "album": {
         "name": "125 Degrees",
         "url": "https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 163636,
       "name": "125 Degrees",
       "url": "https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i"
+    },
+    {
+      "added_at": "2025-09-04 22:00:32",
+      "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
+      },
+      "artists": [
+        {
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+        }
+      ],
+      "duration_ms": 183463,
+      "name": "From A Distance",
+      "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
     },
     {
       "added_at": "2025-09-04 22:00:32",
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2025-09-04 22:00:32",
       "album": {
-        "name": "Spend some time",
-        "url": "https://open.spotify.com/album/5yaGvNLiXWKVkkwlsSe5eR"
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
       },
       "artists": [
         {
-          "name": "ROMAN S",
-          "url": "https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE"
-        },
-        {
-          "name": "Zachery V",
-          "url": "https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd"
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
         }
       ],
-      "duration_ms": 176388,
-      "name": "Spend some time",
-      "url": "https://open.spotify.com/track/21RBeGlVeQ06UYqE5ZVKKz"
+      "duration_ms": 192000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
     }
   ],
   "unique_name": "R&B Magic",

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Royal Lynn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,240 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,407 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
-| 2 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
-| 3 | [Purpose: Be Myself](https://open.spotify.com/track/2xFjaKa3TK6ouhbPTnC3Rd) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Purpose: Be Myself](https://open.spotify.com/album/0K8GA4QEyyXVGESlj6q7qR) | 3:00 |
-| 4 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 |
-| 5 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
-| 6 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 7 | [Still Not Okay](https://open.spotify.com/track/5f7IRH8wTF06rYgDPZPwDu) | [OCEANS](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Still Nøt Okay](https://open.spotify.com/album/6Co3nRnCM8Uu6bo8O5Kv4r) | 3:19 |
-| 8 | [THE VEIL](https://open.spotify.com/track/6GI38SAryXGJdXtZSljOSy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [ERIK SEIME](https://open.spotify.com/artist/4sySRuh2u7W8V04xkWNPg5) | [THE VEIL](https://open.spotify.com/album/1uF3KzT84qsZJYmXVu7nqp) | 3:52 |
-| 9 | [Neighbors](https://open.spotify.com/track/09ni95bc8G2j4OOPopdyYl) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Neighbors](https://open.spotify.com/album/1frmqPMR3tVEO8qieXinbf) | 2:46 |
+| 1 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 2 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 |
+| 3 | [Neighbors](https://open.spotify.com/track/09ni95bc8G2j4OOPopdyYl) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Neighbors](https://open.spotify.com/album/1frmqPMR3tVEO8qieXinbf) | 2:46 |
+| 4 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
+| 5 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
+| 6 | [Purpose: Be Myself](https://open.spotify.com/track/2xFjaKa3TK6ouhbPTnC3Rd) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Purpose: Be Myself](https://open.spotify.com/album/0K8GA4QEyyXVGESlj6q7qR) | 3:00 |
+| 7 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
+| 8 | [Still Not Okay](https://open.spotify.com/track/5f7IRH8wTF06rYgDPZPwDu) | [OCEANS](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Still Nøt Okay](https://open.spotify.com/album/6Co3nRnCM8Uu6bo8O5Kv4r) | 3:19 |
+| 9 | [THE VEIL](https://open.spotify.com/track/6GI38SAryXGJdXtZSljOSy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [ERIK SEIME](https://open.spotify.com/artist/4sySRuh2u7W8V04xkWNPg5) | [THE VEIL](https://open.spotify.com/album/1uF3KzT84qsZJYmXVu7nqp) | 3:52 |
 | 10 | [Salt The Slug](https://open.spotify.com/track/2e1qmA8cwKfGjc2hfby0Ly) | [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P), [Tumaggz](https://open.spotify.com/artist/56kfj4Dao75l6Dfjqxvobd) | [Salt The Slug](https://open.spotify.com/album/2Vyn1plKT5LjjhCmiG3V4j) | 3:30 |
 | 11 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |
 | 12 | [A.I.R\. Max](https://open.spotify.com/track/1v7u8zuJQ6ligdZsqnWQTo) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [A.I.R\. Max](https://open.spotify.com/album/5TjsAPIKNMZQR0xlkvC5vA) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 79 | [Still Playin' For Keeps \(Big Umbrella Remix\)](https://open.spotify.com/track/3xGn1XZ7Jb0g2jPtyXi0Wf) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Jay Royale](https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW), [Pro Dillinger](https://open.spotify.com/artist/27rHpyfeuJ7Rtka10jBojd) | [Still Playin' For Keeps \(Big Umbrella Remix\)](https://open.spotify.com/album/3yjQkaQ9z1yzeej72nsB74) | 3:46 |
 | 80 | [Merciless](https://open.spotify.com/track/3JVa8Bai4qTtm6vkip0IFW) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Merciless](https://open.spotify.com/album/4BMssodRLk2w2YFGGxxGmv) | 3:18 |
 
-Snapshot ID: `AAAAAAcHHJzIyDBEfGL5QC8CiGo7BsAh`
+Snapshot ID: `AAAAAEDpCB20VcdB/ehARBQnKEKSZVOa`

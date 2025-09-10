@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,745 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,794 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 72 | [Domenica](https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:21 |
 | 73 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 |
 | 74 | [Una Su 1.000.000](https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [La Vasca](https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f) | 2:56 |
-| 75 | [Albachiara](https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Albachiara](https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7) | 4:05 |
-| 76 | [Come saprei](https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Come Thelma E Louise](https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj) | 5:00 |
-| 77 | [Vattene amore \(feat\. Amedeo Minghi\)](https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L) | [Mietta](https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP), [Amedeo Minghi](https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ) | [Canzoni](https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs) | 4:01 |
+| 75 | [Vattene amore \(feat\. Amedeo Minghi\)](https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L) | [Mietta](https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP), [Amedeo Minghi](https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ) | [Canzoni](https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs) | 4:01 |
+| 76 | [Albachiara](https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Albachiara](https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7) | 4:05 |
+| 77 | [Come saprei](https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Come Thelma E Louise](https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj) | 5:00 |
 | 78 | [Il mio giorno più bello nel mondo](https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Tempo Reale Extra](https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi) | 3:37 |
 | 79 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 |
 | 80 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 96 | [T'appartengo](https://open.spotify.com/track/1PIxiDD82CyJLeB7GteWek) | [Ambra Angiolini](https://open.spotify.com/artist/4tXAwRjj2QRMsEImebS2vG) | [T'appartengo](https://open.spotify.com/album/5pW2d9bppftATKKN8Eq6lO) | 3:26 |
 | 97 | [La Descrizione Di Un Attimo](https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [La Descrizione Di Un Attimo](https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj) | 4:29 |
 | 98 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
-| 99 | [Chiaro Di Luna](https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Oh, Vita!](https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK) | 3:59 |
-| 100 | [Giulia](https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X) | [Gianni Togni](https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL) | [Cari Amori Miei](https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY) | 4:47 |
+| 99 | [Grande, grande, grande \- 2001 Remaster](https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina \(2001 Remaster\)](https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg) | 4:00 |
+| 100 | [Chiaro Di Luna](https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Oh, Vita!](https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK) | 3:59 |
 
 Snapshot ID: `AAAAAH5qI/IWUucdyPUWhCyIEsgVqN6C`

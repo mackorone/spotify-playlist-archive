@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lusaint
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,791 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,848 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 15 | [Bibimbop](https://open.spotify.com/track/0eRg65r2d4t5kNslt2MnJ0) | [Rémi Panossian Trio](https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh) | [88888888](https://open.spotify.com/album/4WwttsAd1YugSde7LufoHO) | 4:07 |
 | 16 | [Just Like You](https://open.spotify.com/track/1Mr8z0evbafjEIqH2RpESs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Just Like You](https://open.spotify.com/album/0gTKZUy948X2MFOTVxlWRq) | 2:30 |
 | 17 | [Stella by Starlight](https://open.spotify.com/track/7rUK6bTeusEoi2H3OBqonl) | [George Coleman](https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH) | [George Coleman with Strings](https://open.spotify.com/album/41wKiy9wqpTVTpeEG3i7V1) | 5:24 |
-| 18 | [Uno Mas](https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [Uno Mas](https://open.spotify.com/album/2RNQQzCON8BrrWffXVRMUy) | 2:39 |
+| 18 | [Uno Mas](https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ) | [Uno Mas](https://open.spotify.com/album/2RNQQzCON8BrrWffXVRMUy) | 2:39 |
 | 19 | [Tegucigalpa 72](https://open.spotify.com/track/5Dsxl7aOX1Z2w4fWqfJkoV) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7) | [Tegucigalpa 72](https://open.spotify.com/album/6XwZdlGJn1M84r7uVQ7xXU) | 3:03 |
 | 20 | [Sorhag \(Le rossignol et le faucon\)](https://open.spotify.com/track/4hrjQJGmh5LmyHPMYlfg8H) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v), [Arpi Alto](https://open.spotify.com/artist/087N2pg0qGcKoHYyVMdUrb) | [Sorhag \(Le rossignol et le faucon\)](https://open.spotify.com/album/5s4ikHxffsA8fjrpY3OOBC) | 3:33 |
 | 21 | [Camino](https://open.spotify.com/track/2h7K0LBQKpytOWcSqidNPH) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Vincent Peirani](https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO) | [Sou Kora \(Ballaké Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani\)](https://open.spotify.com/album/3dXHtglO4eOzd9RI378mmV) | 5:48 |

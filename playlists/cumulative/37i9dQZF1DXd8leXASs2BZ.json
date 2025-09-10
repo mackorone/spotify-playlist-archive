@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Litty",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AIRIE",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 170588,
       "name": "2000",
       "url": "https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD"
@@ -2360,6 +2360,24 @@
       "duration_ms": 183157,
       "name": "BEST",
       "url": "https://open.spotify.com/track/481mYYB6IEJkG9zEuqnC7w"
+    },
+    {
+      "album": {
+        "name": "Best Take",
+        "url": "https://open.spotify.com/album/3wurqSaKnVF15EioU6X7Kx"
+      },
+      "artists": [
+        {
+          "name": "Back Street Blues",
+          "url": "https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176022,
+      "name": "Best Take",
+      "url": "https://open.spotify.com/track/7MIMHHINYv1Vn9lSv2pExr"
     },
     {
       "album": {
@@ -7906,7 +7924,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 108000,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/1oY5ZxYdICMef7DkjrXQPa"
@@ -11974,7 +11992,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 207931,
       "name": "Metaphysics",
       "url": "https://open.spotify.com/track/7JRMo8FHdalUJIvcRCTThS"
@@ -12010,7 +12028,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 148293,
       "name": "Michikusa",
       "url": "https://open.spotify.com/track/0RRJ9Z80mZYLo2KVD46Nqm"
@@ -12068,6 +12086,32 @@
       "duration_ms": 141145,
       "name": "MINT",
       "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
+    },
+    {
+      "album": {
+        "name": "Miracle Body",
+        "url": "https://open.spotify.com/album/0UO7ZgEt2DK6186EQQu7Sx"
+      },
+      "artists": [
+        {
+          "name": "nakamura minami",
+          "url": "https://open.spotify.com/artist/2tjvUXbw9nH3lOxmifmbLi"
+        },
+        {
+          "name": "MEZZ",
+          "url": "https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu"
+        },
+        {
+          "name": "andrew",
+          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172168,
+      "name": "Miracle Body",
+      "url": "https://open.spotify.com/track/6r89aYI6Z3JduJQPcRooEW"
     },
     {
       "album": {
@@ -12400,6 +12444,32 @@
       "duration_ms": 178841,
       "name": "My Basket",
       "url": "https://open.spotify.com/track/1Ke5YFxyRPVtOdRX6fIa99"
+    },
+    {
+      "album": {
+        "name": "My Good fellas",
+        "url": "https://open.spotify.com/album/4SWkCpnuuHIjR6ksZLN7Bc"
+      },
+      "artists": [
+        {
+          "name": "SHIMPEI",
+          "url": "https://open.spotify.com/artist/2jCoZYNRWun3yVYwvHWCD3"
+        },
+        {
+          "name": "Rejin",
+          "url": "https://open.spotify.com/artist/21Kbcja7eEHdG5m8Zd1OO6"
+        },
+        {
+          "name": "dakkeycresson",
+          "url": "https://open.spotify.com/artist/5xtsyf0nfk6fCOB9riBFma"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "My Good fellas",
+      "url": "https://open.spotify.com/track/2rH9AL1FFY6IIEB65hcMl6"
     },
     {
       "album": {
@@ -16002,6 +16072,24 @@
       "duration_ms": 176000,
       "name": "Runner (feat. Tete & RH JayDee)",
       "url": "https://open.spotify.com/track/5k9FLQNEVmsj8vOXMyAxUz"
+    },
+    {
+      "album": {
+        "name": "Runnin' Out",
+        "url": "https://open.spotify.com/album/41ocYSorg2ccPLzCVDwSwu"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147547,
+      "name": "Runnin' Out",
+      "url": "https://open.spotify.com/track/1ZHFRdoknRywefniSsZTWN"
     },
     {
       "album": {
@@ -19701,6 +19789,24 @@
     },
     {
       "album": {
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/4xT7EaOdsJZ72dbmPFYewS"
+      },
+      "artists": [
+        {
+          "name": "AIRIE",
+          "url": "https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/7j2CumhXcOyrRLy56yTi1F"
+    },
+    {
+      "album": {
         "name": "Wasurenaide",
         "url": "https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI"
       },
@@ -20704,7 +20810,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 192004,
       "name": "YUKI",
       "url": "https://open.spotify.com/track/5KjyspvAkdJu7YwcV1Fz6f"

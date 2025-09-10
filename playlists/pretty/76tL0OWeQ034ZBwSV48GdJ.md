@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 231 songs - 21 hr 50 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 230 songs - 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,10 +234,9 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 224 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 | 225 | [Light In The Eyes](https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Light In The Eyes](https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t) | 5:52 |
 | 226 | [Körper & Seele](https://open.spotify.com/track/0iISCNMw4cfaPNxleUkZnL) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Körper & Seele](https://open.spotify.com/album/0s9X88y489yDTutmcV4wBt) | 3:05 |
-| 227 | [Midsommar](https://open.spotify.com/track/79JUzsH4mlxo0HQvBwECi7) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Løvehjerte](https://open.spotify.com/album/7sSy3PAvDBJHbxZxNcY95U) | 4:35 |
-| 228 | [Echoes of Us](https://open.spotify.com/track/7v2XOrBkkzPzmd8jm48m17) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NEAV](https://open.spotify.com/artist/1mcmAn0sb6qWnVXUrxFT7W) | [Echoes of Us](https://open.spotify.com/album/0IGhU4eaou6Avj9iZw3LXb) | 3:41 |
-| 229 | [2084](https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [2084](https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI) | 6:06 |
-| 230 | [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 |
-| 231 | [Close to the Edge](https://open.spotify.com/track/0jhOH11JC88ldXcf6gOuvv) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Incomplete](https://open.spotify.com/album/2psTE65dgUGrvM8RVAUy6I) | 5:08 |
+| 227 | [Echoes of Us](https://open.spotify.com/track/7v2XOrBkkzPzmd8jm48m17) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NEAV](https://open.spotify.com/artist/1mcmAn0sb6qWnVXUrxFT7W) | [Echoes of Us](https://open.spotify.com/album/0IGhU4eaou6Avj9iZw3LXb) | 3:41 |
+| 228 | [2084](https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [2084](https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI) | 6:06 |
+| 229 | [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 |
+| 230 | [Close to the Edge](https://open.spotify.com/track/0jhOH11JC88ldXcf6gOuvv) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Incomplete](https://open.spotify.com/album/2psTE65dgUGrvM8RVAUy6I) | 5:08 |
 
-Snapshot ID: `AAABFvjGU41bb1VCLMg9M2jCM0VW3gT7`
+Snapshot ID: `AAABF5bbkjKq9dQQKXRANd9eqe9tN3XP`

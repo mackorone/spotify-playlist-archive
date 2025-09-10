@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Amour Armour",
+        "url": "https://open.spotify.com/album/5EBkaQAyQM8oXV7xkE6pzB"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300847,
+      "name": "Amour Armour",
+      "url": "https://open.spotify.com/track/3BeT0aKDJdMdsAXBeTpstR"
+    },
+    {
+      "album": {
         "name": "Ana No Ne",
         "url": "https://open.spotify.com/album/54vwvZkwznJ7mjQCATvi1A"
       },

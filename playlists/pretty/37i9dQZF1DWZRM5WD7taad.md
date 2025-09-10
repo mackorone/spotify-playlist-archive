@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Hispana en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,579 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,600 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 27 | [Amor Bonito](https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Mari Polé](https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY) | [Escándalo](https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK) | 3:22 |
 | 28 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
 | 29 | [No Era para Mí](https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [No Era para Mí](https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc) | 1:57 |
-| 30 | [PERO NAH!](https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [PERO NAH!](https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk) | 2:09 |
+| 30 | [PERO NAH!](https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Mari La Carajita](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [PERO NAH!](https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk) | 2:09 |
 | 31 | [656](https://open.spotify.com/track/27comOxPr6YJtb2Vz1pQIQ) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [656](https://open.spotify.com/album/48sacF04X9DxDlb00v5ZkX) | 3:00 |
 | 32 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 |
 | 33 | [Voilà](https://open.spotify.com/track/3grAT7ft8f7XMMYXmtpLT2) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Voilà](https://open.spotify.com/album/6eC2Nai4U0PfwT3OASBxUL) | 2:15 |

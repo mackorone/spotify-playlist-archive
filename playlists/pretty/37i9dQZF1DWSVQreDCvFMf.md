@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine Berdin
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,279 likes - 156 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,331 likes - 156 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 52 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 53 | [Ayoko Magmadali](https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Ayoko Magmadali](https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW) | 2:24 |
 | 54 | [Tunay](https://open.spotify.com/track/05jB2EjtotNv4schTAcb4a) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Tunay](https://open.spotify.com/album/2oW8IH7dqReTFtoLFQ6fhq) | 2:54 |
-| 55 | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 |
+| 55 | [Ano Ba Talaga Tayo?](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 |
 | 56 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 57 | [LASING NA SA'YO](https://open.spotify.com/track/30ceUZfn5o5m0v2e0A4yEq) | [LU](https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [LASING NA SA'YO](https://open.spotify.com/album/7qR85SeauTbSnHXDDl0vP7) | 4:07 |
 | 58 | [boarding gate](https://open.spotify.com/track/0mihFDUGIA5Aybxg0rFXXt) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [the world is so small \(after all\)](https://open.spotify.com/album/3sR3y2tVR2T2gIkXMgsfYY) | 3:46 |

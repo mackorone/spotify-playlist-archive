@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAFsi27ZaQRHjYdq9oG8+7TlpXlJdzT",
+  "snapshot_id": "AAAFwX9C3yC6+TfzZKXDrBsMDhGsc5XE",
   "tracks": [
+    {
+      "added_at": "2025-09-09 08:32:29",
+      "album": {
+        "name": "\u30dd\u30b8\u30c6\u30a3\u30d6\u661f\u4eba",
+        "url": "https://open.spotify.com/album/5Q52Wg6oT8KG2Igrzsjs5D"
+      },
+      "artists": [
+        {
+          "name": "\u3081\u308d\u304f\u308b",
+          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
+        },
+        {
+          "name": "\u590f\u8272\u82b1\u68a8",
+          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
+        }
+      ],
+      "duration_ms": 178392,
+      "name": "\u30dd\u30b8\u30c6\u30a3\u30d6\u661f\u4eba (feat. \u590f\u8272\u82b1\u68a8)",
+      "url": "https://open.spotify.com/track/6Jd8i2krveJI9UTxBmki5d"
+    },
+    {
+      "added_at": "2025-09-09 08:32:39",
+      "album": {
+        "name": "\u9752\u6625\u30e8\u30af\u30d0\u30ea\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/7kwTOaJUlrQkWX9WPWt2uq"
+      },
+      "artists": [
+        {
+          "name": "\u3057\u3083\u3044\u3068",
+          "url": "https://open.spotify.com/artist/4aVCiCYKjY00z3HYXjiKsK"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "\u9752\u6625\u30e8\u30af\u30d0\u30ea\u30ba\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0Yip4xFaRX7YNXo2aT2SOQ"
+    },
+    {
+      "added_at": "2025-09-09 08:32:50",
+      "album": {
+        "name": "\u5984\u60f3invitation",
+        "url": "https://open.spotify.com/album/1Vz34nsmbOkqfXRl7ojs1a"
+      },
+      "artists": [
+        {
+          "name": "\u2200studio",
+          "url": "https://open.spotify.com/artist/2Q83HdKRXht6lWglq749s5"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 251712,
+      "name": "\u5984\u60f3invitation (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1Wa47CEUOXo6Dbe6wGu0Da"
+    },
+    {
+      "added_at": "2025-09-09 08:33:01",
+      "album": {
+        "name": "\u30ec\u30b4\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/0F2TA1H7O1poxO6OBwPxdY"
+      },
+      "artists": [
+        {
+          "name": "BCNO",
+          "url": "https://open.spotify.com/artist/24phm8J2V68m162CRCIw7b"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 180317,
+      "name": "\u30ec\u30b4\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/2n9Teos1dYkdw91JrjXX9Z"
+    },
+    {
+      "added_at": "2025-09-09 08:33:12",
+      "album": {
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+        "url": "https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 178383,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+      "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
+    },
     {
       "added_at": "2025-09-02 08:15:59",
       "album": {
@@ -731,106 +827,6 @@
       "duration_ms": 177433,
       "name": "\u51db\u3068\u3057\u3066 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/7nMiP2tZa0uiXrkkxZ8aI1"
-    },
-    {
-      "added_at": "2025-04-25 05:31:17",
-      "album": {
-        "name": "\u30cf\u30e9\u30da\u30b3\u30b9\u30ca\u30a4\u30d1\u30fc",
-        "url": "https://open.spotify.com/album/0vwl4PwWjHWnVnP1jpQn8W"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u304b\u3081",
-          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "\u30cf\u30e9\u30da\u30b3\u30b9\u30ca\u30a4\u30d1\u30fc (feat. \u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/6hrhGJh8Og2OtBjlY9cmza"
-    },
-    {
-      "added_at": "2025-04-25 05:31:36",
-      "album": {
-        "name": "\u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30d7\u30ea\u30f3\u30bb\u30b9-2025 SP Edit-",
-        "url": "https://open.spotify.com/album/0Wi7rZ4mWcBEavYugSjKWe"
-      },
-      "artists": [
-        {
-          "name": "Kid P",
-          "url": "https://open.spotify.com/artist/3ZpU4v2TxHDybEBEh0Y15U"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        }
-      ],
-      "duration_ms": 208599,
-      "name": "\u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30d7\u30ea\u30f3\u30bb\u30b9-2025 SP Edit- (feat. \u93e1\u97f3\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/4KCQgXzey2I4kgA7ApsbmD"
-    },
-    {
-      "added_at": "2025-04-25 05:31:51",
-      "album": {
-        "name": "\u3082\u3048\u304d\u3085\u3093!\u5927\u4f5c\u6226",
-        "url": "https://open.spotify.com/album/0Ionmw9qtS5Jxv4om4bRNG"
-      },
-      "artists": [
-        {
-          "name": "MURASAKI",
-          "url": "https://open.spotify.com/artist/3iC8uRRIPmnEXSTKmYQSBe"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "\u3082\u3048\u304d\u3085\u3093!\u5927\u4f5c\u6226 (feat. \u521d\u97f3\u30df\u30af&\u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/3a1i6iti2pQm45dUg5draT"
-    },
-    {
-      "added_at": "2025-04-25 05:32:05",
-      "album": {
-        "name": "Cyclic",
-        "url": "https://open.spotify.com/album/1gwVaZNJ2Ez8oUTDV1zYqU"
-      },
-      "artists": [
-        {
-          "name": "Clean Tears",
-          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 264869,
-      "name": "Cyclic (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7D7bECadbvxTKjZjOCrKkH"
-    },
-    {
-      "added_at": "2025-04-25 05:32:19",
-      "album": {
-        "name": "\u885b\u661f\u901a\u4fe1",
-        "url": "https://open.spotify.com/album/71IeQcUgfx7kMCexOaaWcO"
-      },
-      "artists": [
-        {
-          "name": "Adeliae",
-          "url": "https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 200217,
-      "name": "\u885b\u661f\u901a\u4fe1 (feat. GUMI)",
-      "url": "https://open.spotify.com/track/6ZKsntwnGJScyHAjUsBq75"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Ninajirachi
 
-436 songs - 1 day 0 hr 18 min
+437 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [92 Purebred](https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [92 Purebred](https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3) | 3:22 | 2025-01-23 | 2025-03-05 |
 | [95s](https://open.spotify.com/track/2wnYDbY2UeySCpWG2EQ4ah) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [95s](https://open.spotify.com/album/4eNPrBfL6nQH61uEZLD6Mj) | 3:18 | 2025-05-15 | 2025-05-23 |
 | [\[REDACTED\]](https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\[REDACTED\]](https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E) | 2:24 | 2025-06-19 | 2025-06-27 |
+| [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-04 |  |
 | [A Country Heart Can](https://open.spotify.com/track/7HYok2NXE23LtYygubuvIO) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [A Country Heart Can](https://open.spotify.com/album/18ly6QslPPTJFkE5XBwjmS) | 3:43 | 2025-05-29 | 2025-06-06 |
 | [A Telephone Rings](https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [The Accident](https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw) | 2:46 | 2024-11-28 | 2025-01-26 |
 | [A.A.](https://open.spotify.com/track/0tnvYx9kZElB3wWkpSmDTp) | [Teenager](https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [A.A.](https://open.spotify.com/album/14aC9p7pJbgaJFTfsyiwIf) | 3:31 | 2025-05-29 | 2025-06-06 |
@@ -204,7 +205,7 @@
 | [Isso](https://open.spotify.com/track/0IKjSt4MiTBvC0ogVKgBJC) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [MC Pânico](https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr) | [Isso](https://open.spotify.com/album/0hyAgPcABjcgMCV7WNw1E3) | 3:12 | 2025-05-15 | 2025-05-23 |
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2024-12-06 |
 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 |  |
-| [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 |  |
+| [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |
 | [Jaded](https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Jaded](https://open.spotify.com/album/2VlOUIDEK7G2hhggMVpUr6) | 2:47 | 2025-04-17 | 2025-04-25 |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2025-02-19 |
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-24 |  |

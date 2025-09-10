@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Alfa Mist
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,552 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,549 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Marvis](https://open.spotify.com/track/1soYxnn6pCmMq932V0woh0) | [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Marvis](https://open.spotify.com/album/1oEBaWEUVQuHP03GokahL3) | 2:56 |
 | 100 | [Bonita's Place](https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM), [Dale Bruning](https://open.spotify.com/artist/5P4yuRXGXvpmkDzcIikF9u), [Nick Forster](https://open.spotify.com/artist/1dzljRFpEm5yZvL0EIKsY8) | [Life Lessons](https://open.spotify.com/album/5umlnOLijmNTnpUpmwFV8b) | 3:04 |
 
-Snapshot ID: `AAAAAHNBTQ3pxc5EytaQ4eg/Bcv4CKHH`
+Snapshot ID: `AAAAAB6QoVgpvFgB4fUBgKXsWCLf7JIC`

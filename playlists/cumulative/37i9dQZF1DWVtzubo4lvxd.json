@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 159275,
       "name": "Birth",
       "url": "https://open.spotify.com/track/2IuahHLicmQfUD0JgZk5ME"
@@ -2704,6 +2704,24 @@
       "duration_ms": 110000,
       "name": "Linden",
       "url": "https://open.spotify.com/track/3ly2OfaKp8wRb124D2Idam"
+    },
+    {
+      "album": {
+        "name": "Lofi Smoke and Pass Out",
+        "url": "https://open.spotify.com/album/5nyNkedLe5CAEED8c2nDyt"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Lofi Smoke and Pass Out",
+      "url": "https://open.spotify.com/track/6cK2p8SINJhAtZWjljXzqg"
     },
     {
       "album": {

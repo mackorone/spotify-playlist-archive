@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-706 songs - 1 day 9 hr 31 min
+707 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Saying Goodbye \- Piano Solo / From ''Cyrano'' Soundtrack](https://open.spotify.com/track/2LttX2qhl2Sr3Hhigw6hRs) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Saying Goodbye \(Piano Solo / From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/2ZCIiItnYB4Ha7tmvLdfuU) | 1:26 | 2021-12-20 | 2024-10-02 |
 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/7sQAaSaESzHulF3xt0aLtE) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [Scherzo for a Flightless Bird \(The Penguin Theme\) \[from "The Penguin"\]](https://open.spotify.com/album/21sLLNt7hoR9ceMYUKIJ9C) | 3:14 | 2024-10-01 | 2025-06-14 |
 | [Scoop](https://open.spotify.com/track/49aZEyiIZbbL8Btgh1UhCK) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr), [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Scoop \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/45qRgBjHHp7r65f2xTYKX8) | 1:45 | 2024-04-05 | 2025-04-19 |
+| [Score Suite](https://open.spotify.com/track/734WuFbTDxTPMU1lBP6e0M) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:00 | 2025-09-08 |  |
 | [Searching \(Foundation Track\)](https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The Underground Railroad: Volume 1 \(Amazon Original Series Score\)](https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC) | 3:25 | 2021-12-20 | 2024-09-14 |
 | [Searching for Ada](https://open.spotify.com/track/5EUrYdpiK0JNbbBa6v503X) | [Tóti Guðnason](https://open.spotify.com/artist/0kaJrGb5y76paoIX6A8SWc) | [Lamb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34mQBYF5JSeX2j9YsJg2xh) | 2:24 | 2021-12-20 | 2024-09-14 |
 | [Secrets of the Penguins Main Titles](https://open.spotify.com/track/106VoObcPD0M9h32DgNxjk) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [Secrets of the Penguins \(Original Series Soundtrack\)](https://open.spotify.com/album/0PJnaQaFqh2Sbqo1pqbYzs) | 2:54 | 2025-04-18 |  |

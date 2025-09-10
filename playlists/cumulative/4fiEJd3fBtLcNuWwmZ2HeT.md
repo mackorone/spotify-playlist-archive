@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-345 songs - 19 hr 42 min
+348 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Full Moon Full Life](https://open.spotify.com/track/3Jl2LQmRwbXEF2lO1RTvxn) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:53 | 2024-05-08 |  |
 | [Gaikotsu Gakudan To Riria](https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC) | [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Seitou No Marche \(Standard Edition\)](https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ) | 3:21 | 2025-01-02 |  |
 | [GAME](https://open.spotify.com/track/3fp4ozT7rzn1Vax1OUOMtJ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [DOLL](https://open.spotify.com/album/5JxQndpUT8K1ySB3EbFGhA) | 2:50 | 2024-06-03 |  |
+| [Gekka No Yasoukyoku](https://open.spotify.com/track/721KUzd7jt8eUV1Xp25N5l) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Gekka No Yasoukyoku](https://open.spotify.com/album/6WxenSfRkZvHBclA99ZnMp) | 3:52 | 2025-09-09 |  |
 | [Go Go Wonderland](https://open.spotify.com/track/5WIuky12ctllWM8lAGFfVo) | [noiseless\-world](https://open.spotify.com/artist/1fzPkOEEMTM3S2RWteQjTj) | [2018](https://open.spotify.com/album/4j6gQbX2DOnPnP4gi5FdBu) | 3:55 | 2023-12-24 |  |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2024-02-06 |  |
 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 | 2025-05-27 |  |
@@ -83,7 +84,7 @@
 | [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 | 2025-04-03 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-11-25 |  |
 | [Hatsukoisou \- Selfcover](https://open.spotify.com/track/10FzsPAEgBULrpWLyEoOzO) | [FLG4](https://open.spotify.com/artist/63MKBngdiEGvCJhGfCDjMD) | [Hatsukoisou \(Selfcover\)](https://open.spotify.com/album/3an0xFEBWz03yNv8tON518) | 2:51 | 2024-07-29 |  |
-| [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr\. Asyu](https://open.spotify.com/artist/1RJXUJYZGrX9fGK92SjecX) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 | 2024-12-08 |  |
+| [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr.Asyu](https://open.spotify.com/artist/2x76aeXcs6SJ32Sjn2stDh) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 | 2024-12-08 |  |
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2024-03-11 |  |
 | [HELP!!](https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [HELP!!](https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB) | 3:07 | 2024-04-08 |  |
 | [hikikomori rock](https://open.spotify.com/track/5XO5F5m9ji7Rpz6qvy57JO) | [Haze](https://open.spotify.com/artist/6v19P1N5sEhOnyVK6zasl1) | [hikikomori rock](https://open.spotify.com/album/63CfE3uTFJxSsnw9tkf2ct) | 3:00 | 2023-01-02 |  |
@@ -105,6 +106,7 @@
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2024-01-24 |  |
 | [JINGO JUNGLE](https://open.spotify.com/track/1unlscICXb88LMbFxlMlWy) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」](https://open.spotify.com/album/3VBaCgrD7i77Y0P3wiOol1) | 3:49 | 2023-03-28 |  |
 | [just saying, the body is honest.](https://open.spotify.com/track/4z1O8W35JfmFjPlD9KYvid) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [just saying, the body is honest.](https://open.spotify.com/album/7grI8AGOeBtLLcmSPFHqvp) | 2:23 | 2025-05-20 |  |
+| [Just want to be loved](https://open.spotify.com/track/0xi0R1BxoTDQWvR7WNiNzx) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Just want to be loved](https://open.spotify.com/album/2diwMijpMjbeELSNjsQn0a) | 2:14 | 2025-09-09 |  |
 | [Karma](https://open.spotify.com/track/2s0UNcumDtAj7rKPZ4zjeO) | [달의하루](https://open.spotify.com/artist/6qAno6xjJxkwEdWMNFCUap) | [Karma](https://open.spotify.com/album/21roL9Zk29chd89R6G70lL) | 4:31 | 2024-01-22 |  |
 | [KARMA \(VIVINOS \- ALNST Original Soundtrack Part.10\)](https://open.spotify.com/track/54YECaZMpGfvWWaWH3UtQ8) | [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo), [C!naH](https://open.spotify.com/artist/0vA45SriohIjcLXbwPhF2p) | [KARMA \(VIVINOS \- ALNST Original Soundtrack Part.10\)](https://open.spotify.com/album/6bLgRTjG8EttXtntAEupjE) | 5:36 | 2025-07-18 |  |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2023-12-03 |  |
@@ -237,6 +239,7 @@
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 | 2022-08-27 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |
+| [カリスマティック・スーパードゥーパー・ロックスター](https://open.spotify.com/track/0lZbtgvlgjamaFfqLI27EL) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:39 | 2025-09-09 |  |
 | [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 | 2025-05-25 |  |
 | [カルメン](https://open.spotify.com/track/2trg5QP7LvutSwDmApo7JN) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [カルメン](https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY) | 2:27 | 2023-09-07 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-08-18 |  |

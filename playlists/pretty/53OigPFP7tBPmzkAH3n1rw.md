@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 
 > Listen to the Ginny &amp; Georgia Official Playlist\. <a href="https://www.netflix.com/title/81025696">Watch only on Netflix</a>
 
-[Netflix](https://open.spotify.com/user/netflixmusic) - 130,329 likes - 404 songs - 21 hr 17 min
+[Netflix](https://open.spotify.com/user/netflixmusic) - 130,375 likes - 404 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

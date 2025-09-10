@@ -4,7 +4,7 @@
 
 > This is Madeline Merlo\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 5 min
+38 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Bar Fight](https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:12 | 2025-06-07 |  |
 | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 | 2025-06-07 |  |
 | [Crush](https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:27 | 2025-06-07 |  |
+| [Day One \(feat\. Madeline Merlo\)](https://open.spotify.com/track/1UykuOxBRThpGGvgtOlIAC) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Day One \(feat\. Madeline Merlo\)](https://open.spotify.com/album/5rqh44JK6xLVMndd2ODnD2) | 2:32 | 2025-09-10 |  |
 | [Dear Me](https://open.spotify.com/track/5wj7pNgQbLABItpzF3yH8U) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Dear Me](https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky) | 2:40 | 2025-06-07 |  |
 | [Girl Where He Grew Up](https://open.spotify.com/track/53Osviolix5BVUSWf6qMbd) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 | 2025-06-07 |  |
 | [Good Grief](https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:22 | 2025-06-07 |  |

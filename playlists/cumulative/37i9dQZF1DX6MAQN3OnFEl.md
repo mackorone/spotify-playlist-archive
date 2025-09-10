@@ -2,7 +2,7 @@
 
 ### [y2k](https://open.spotify.com/playlist/37i9dQZF1DX6MAQN3OnFEl)
 
-> On October 3rd he asked me what day it was
+> A Hilary Duff renaissance? This is what dreams are made of.
 
 202 songs - 12 hr 25 min
 

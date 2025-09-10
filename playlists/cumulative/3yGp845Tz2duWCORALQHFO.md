@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,833 songs - 8 day 16 hr 33 min
+3,834 songs - 8 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2731,6 +2731,7 @@
 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-23 | 2024-08-31 |
 | [Recharge \- Club Mix](https://open.spotify.com/track/3u003Qn8YdEc5mO1atzKWc) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg) | [Recharge \- Club Mixes](https://open.spotify.com/album/2ixJUHKhmDVbsDkrOMHaV1) | 3:50 | 2024-10-04 | 2024-10-12 |
 | [Recognition](https://open.spotify.com/track/2Eo7oRk5f9KeE3216KTpcu) | [Allan Berndtz](https://open.spotify.com/artist/2UuaZxIPL8Sgt01MM6V096) | [Recognition](https://open.spotify.com/album/0AtuVmPW6z296IUPlp9Jey) | 3:25 | 2025-04-08 | 2025-04-12 |
+| [Red Sun \- Original Mix](https://open.spotify.com/track/45PAFiMiXH2bIGzInuG0Fr) | [CEEJAY](https://open.spotify.com/artist/2JCvYYdgDsrzL6DTwKV0WI) | [Red Sun](https://open.spotify.com/album/14P5RimYJnaW6Po17auOIB) | 6:41 | 2025-09-09 |  |
 | [Rediscover](https://open.spotify.com/track/52SROlX6fPqfrqZsUYkA3j) | [Misja Helsloot](https://open.spotify.com/artist/4V0bDVKeoOi3fwzTtjGeOu) | [Rediscover](https://open.spotify.com/album/7AKLKn0afNMogJL5xHo9iZ) | 3:50 | 2024-10-04 | 2024-10-12 |
 | [Reflections](https://open.spotify.com/track/6jCa9Umnj7vgY7KXeYzBgQ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Reflections](https://open.spotify.com/album/74JwcvoCw7QnIEpFsA4fjl) | 7:04 | 2025-02-21 | 2025-03-01 |
 | [Reflections](https://open.spotify.com/track/7Lu42P39lHOpozgCUBP0SW) | [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid), [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Reflections](https://open.spotify.com/album/1lMA5J1i0cEjA3j3B6RkpJ) | 3:20 | 2025-02-13 | 2025-02-22 |
@@ -3764,7 +3765,7 @@
 | [Wondering \[Your Love Leaves Me\]](https://open.spotify.com/track/0inHq902JVcOzJcrk2m0a1) | [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Wondering \[Your Love Leaves Me\]](https://open.spotify.com/album/2qz8oSUPifxUsbCuHASyaM) | 4:11 | 2024-07-25 | 2024-08-02 |
 | [Wonderland](https://open.spotify.com/track/2zt0GhjCmtyGcWBpxOYVCk) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Wonderland](https://open.spotify.com/album/1Nd3R3IzckDa6btg3GCSb5) | 2:57 | 2024-10-30 | 2024-11-09 |
 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 | 2025-05-09 | 2025-05-17 |
-| [Won’t Let Me Down Feat\. Teddy Bee](https://open.spotify.com/track/32159t5a24N9hqjyKk09E2) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Won’t Let Me Down Feat\. Teddy Bee](https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf) | 2:59 | 2025-09-05 |  |
+| [Won’t Let Me Down](https://open.spotify.com/track/32159t5a24N9hqjyKk09E2) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Won’t Let Me Down](https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf) | 2:59 | 2025-09-05 |  |
 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 | 2024-08-23 | 2024-08-31 |
 | [WOOK WHISTLE](https://open.spotify.com/track/3I1wg4f8LQB5Pl0NjUm0zT) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb) | 3:40 | 2024-09-26 | 2024-10-05 |
 | [Work \(feat\. Yeat\)](https://open.spotify.com/track/6Xl6w3XXqVCcUAfMPQbMMJ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Work \(feat\. Yeat\)](https://open.spotify.com/album/7LPf96K385oNFUmCbQlstu) | 2:54 | 2025-04-08 | 2025-04-12 |

@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002cover: \u85e4\u4e95 \u98a8",
-  "num_followers": 28072,
+  "num_followers": 28104,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 299492,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
         "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
         "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 216169,
       "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
       "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
-        "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
-        "url": "https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 134869,
-      "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
-      "url": "https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "hikari",
-        "url": "https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP"
+        "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
+        "url": "https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit"
       },
       "artists": [
         {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 189357,
-      "name": "hikari",
-      "url": "https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr"
+      "duration_ms": 134869,
+      "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
+      "url": "https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
         }
       ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
+      "duration_ms": 189357,
+      "name": "hikari",
+      "url": "https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -423,6 +423,22 @@
       "duration_ms": 228965,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/4nL8jwv3UC2QnwU58mCmRS"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -463,6 +479,26 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
+        "name": "\u8cb4\u65b9\u306b\u6674\u308c",
+        "url": "https://open.spotify.com/album/7xIO23B2CNepcjbHdXWYd7"
+      },
+      "artists": [
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        },
+        {
+          "name": "Yuta Hashimoto",
+          "url": "https://open.spotify.com/artist/1POqojlFdpitdDlQl2vO81"
+        }
+      ],
+      "duration_ms": 262660,
+      "name": "\u8cb4\u65b9\u306b\u6674\u308c",
+      "url": "https://open.spotify.com/track/0a9RMOhvRn08ntMP3ndQXu"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -483,26 +519,6 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
-        "name": "\u8cb4\u65b9\u306b\u6674\u308c",
-        "url": "https://open.spotify.com/album/7xIO23B2CNepcjbHdXWYd7"
-      },
-      "artists": [
-        {
-          "name": "Rin\u97f3",
-          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
-        },
-        {
-          "name": "Yuta Hashimoto",
-          "url": "https://open.spotify.com/artist/1POqojlFdpitdDlQl2vO81"
-        }
-      ],
-      "duration_ms": 262660,
-      "name": "\u8cb4\u65b9\u306b\u6674\u308c",
-      "url": "https://open.spotify.com/track/0a9RMOhvRn08ntMP3ndQXu"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -587,22 +603,6 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
-      },
-      "artists": [
-        {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
         "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
         "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
       },
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
         "name": "\u6708\u5149\u6d74",
         "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
       },
@@ -639,30 +655,6 @@
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
-        "name": "098RADIO vol.2 Hosted by Awich",
-        "url": "https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i"
-      },
-      "artists": [
-        {
-          "name": "\u67ca\u4eba",
-          "url": "https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "Chouji",
-          "url": "https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "\u597d\u304d\u306a\u3053\u3068 - Remix",
-      "url": "https://open.spotify.com/track/7qU0zH4eG1f6JZolLL6kjw"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -707,6 +699,30 @@
       "duration_ms": 141145,
       "name": "MINT",
       "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
+        "name": "098RADIO vol.2 Hosted by Awich",
+        "url": "https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u4eba",
+          "url": "https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "Chouji",
+          "url": "https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "\u597d\u304d\u306a\u3053\u3068 - Remix",
+      "url": "https://open.spotify.com/track/7qU0zH4eG1f6JZolLL6kjw"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -791,22 +807,6 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
-        "url": "https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
-      "url": "https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
         "name": "\u5207\u611b",
         "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
+        "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
+        "url": "https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
+      "url": "https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
         "name": "\u30ab\u30bf\u30b3\u30c8",
         "url": "https://open.spotify.com/album/6Kga2QgL5PJGfn3v7aKJ2w"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 158888,
       "name": "\u30ab\u30bf\u30b3\u30c8",
       "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
-        "name": "\u785d\u5b50\u7a93",
-        "url": "https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 217817,
-      "name": "\u785d\u5b50\u7a93",
-      "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

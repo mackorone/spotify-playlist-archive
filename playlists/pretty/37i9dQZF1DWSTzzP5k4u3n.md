@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Olavi Uusivirta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,454 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,442 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jumalat juhlivat öisin](https://open.spotify.com/track/1cTUxnoy0BqVpSs43J3mpV) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Jumalat juhlivat öisin](https://open.spotify.com/album/2oj7x1lNyktgT53TG3eJdv) | 2:53 |
-| 2 | [Kesävieraat](https://open.spotify.com/track/5nrCMYvV23bw9THeTgGFrW) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kesävieraat](https://open.spotify.com/album/5a8scIkc9EqfeJtpMnQmlL) | 3:06 |
-| 3 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 2 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 3 | [Kesävieraat](https://open.spotify.com/track/5nrCMYvV23bw9THeTgGFrW) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kesävieraat](https://open.spotify.com/album/5a8scIkc9EqfeJtpMnQmlL) | 3:06 |
 | 4 | [Sä voit itkee](https://open.spotify.com/track/0HQfgBheIBbj4fwveSdEwW) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Sä voit itkee](https://open.spotify.com/album/6iTlU8fhVjCYAHylCd10Q2) | 3:17 |
 | 5 | [Pidin sinusta](https://open.spotify.com/track/5DNjIfIGquwE9fsHZNkRnF) | [Kauko Röyhkä & Riku Mattila](https://open.spotify.com/artist/0EXksZ0trRoQXfaOd6ZPM1) | [Meidät pelastaa vain rakkaus](https://open.spotify.com/album/1WttJdsukNnV11envnC6Q5) | 3:09 |
 | 6 | [Ei vielä](https://open.spotify.com/track/1xyVk2IqrvRmSrnf44NEoQ) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Ei vielä](https://open.spotify.com/album/5vcZIYiuiHY8zoOIL0r8bi) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Uudestaan](https://open.spotify.com/track/2ab2Mm6924CLFQVmzXKdSd) | [Henrik Väki](https://open.spotify.com/artist/18dZ7EjXgJUCcfas2Sy0zX) | [Uudestaan](https://open.spotify.com/album/6Veva1N2QC7T3pwkHnMS7W) | 2:34 |
 | 80 | [Eero Rivera](https://open.spotify.com/track/3OzOl4yUW2o9nXQBlN28hd) | [Eero Rivera](https://open.spotify.com/artist/0X4YpLbMH9LdgbwbBBlHdy) | [Eero Rivera](https://open.spotify.com/album/6phfE2Uqg5s6QLyoCPUmhp) | 2:36 |
 
-Snapshot ID: `AAAAAMNS0v7AHsarEa+8cHNmFHcH1psp`
+Snapshot ID: `AAAAAGbx6PrKMnmRnDE1L2ZQIIXqCgyS`

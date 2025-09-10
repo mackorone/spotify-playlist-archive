@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: MONSTA X
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: CORTIS
 
-705 songs - 1 day 14 hr 52 min
+708 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Aonooto](https://open.spotify.com/track/5uHoSGdji2lJjpZ4AtcpEw) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Aonooto](https://open.spotify.com/album/27CGUNOwhGV5NG46hXXYCV) | 4:00 | 2025-07-08 | 2025-08-05 |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-02-20 | 2024-06-03 |
 | [ask yourself](https://open.spotify.com/track/6cKw9KNIBTLWYM6mt1VAI3) | [Knight A \- 騎士A \-](https://open.spotify.com/artist/7lTVLJ639bRVqzC8Q0RjHH) | [EDEN \(Special Edition\)](https://open.spotify.com/album/5gANRSC7vTCgWtwM4nCCXm) | 4:00 | 2024-03-26 | 2024-04-17 |
+| [Asymmetry](https://open.spotify.com/track/4sGEup106ElpyxtGf1E2xG) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Asymmetry / Black Nightmare](https://open.spotify.com/album/4C3unjsV19S8ecEwys19hs) | 4:05 | 2025-09-09 |  |
 | [Attention](https://open.spotify.com/track/7DFVius346ZQvS0pHP0Ikb) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Attention](https://open.spotify.com/album/3cQpHAvc9rGSraAxsDPX8t) | 2:55 | 2025-05-06 | 2025-05-28 |
 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-23 | 2024-01-16 |
 | [B.A.D\(Breaking All Destinations\)](https://open.spotify.com/track/6EO38NaQkdWAKwa7YwH83e) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [JET BOY](https://open.spotify.com/album/2GRXjgMP9EFKteSdwahJvp) | 3:34 | 2025-02-04 | 2025-02-19 |
@@ -117,7 +118,7 @@
 | [Clutch](https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO) | 3:21 | 2023-12-12 | 2023-12-14 |
 | [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 | 2025-09-01 |  |
 | [Come Alive](https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Come Alive](https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh) | 3:33 | 2023-11-23 | 2024-02-21 |
-| [Confidence](https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Confidence](https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy) | 2:24 | 2025-06-24 |  |
+| [Confidence](https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Confidence](https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy) | 2:24 | 2025-06-24 | 2025-09-10 |
 | [Count To Love](https://open.spotify.com/track/1JcrxF5NysDqpik9nZ1Sa4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYLIFE](https://open.spotify.com/album/5tjXMOy3wo9R6Y5YUMF1cj) | 2:38 | 2025-08-18 |  |
 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 | 2025-04-21 | 2025-07-25 |
 | [Counterattack](https://open.spotify.com/track/39Jr3uGUyooQvBEOF1vyo4) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Counterattack](https://open.spotify.com/album/2mPY33iJ5So2RSJnYR9YfG) | 3:19 | 2024-06-04 | 2024-10-20 |
@@ -203,7 +204,7 @@
 | [FUN](https://open.spotify.com/track/2IkUO4UhrUvVhfy6fGawYe) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [FUN](https://open.spotify.com/album/7MQN91PFTzXHmA4uUukZ4B) | 3:17 | 2024-07-09 | 2024-07-31 |
 | [Furete](https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [Furete](https://open.spotify.com/album/3Mgfnr0yrpFMMVAm4mBEIu) | 3:41 | 2024-04-16 | 2024-04-19 |
 | [GBAD](https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [GBAD](https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve) | 3:10 | 2025-03-27 | 2025-04-16 |
-| [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-15 |  |
+| [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-15 | 2025-09-10 |
 | [Gelato](https://open.spotify.com/track/3qShJFAJ6OMCGrHzx2ze4u) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Gelato](https://open.spotify.com/album/7pdXgSitr9RAF9gDDbGG3L) | 2:56 | 2025-05-15 | 2025-05-30 |
 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 | 2025-01-28 | 2025-03-26 |
 | [GET STUPID](https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [GET STUPID](https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7) | 2:40 | 2024-06-18 | 2024-06-26 |
@@ -311,6 +312,7 @@
 | [Lemonade](https://open.spotify.com/track/1DcQF23V9BaAUufunxz0G5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4r37jJb40Y8tVuFXayxK0v) | 3:41 | 2025-08-19 |  |
 | [Lesson Ⅱ](https://open.spotify.com/track/5VAZjE3mpt7Y2Hi5L7YVmH) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Lesson Ⅱ](https://open.spotify.com/album/05vnwKKGA1YDgzUijgJmGs) | 3:24 | 2023-11-23 | 2024-02-14 |
 | [Let Me Kiss U](https://open.spotify.com/track/1XrmJHvtsx7eHBFkU9fF4n) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [Let Me Kiss U](https://open.spotify.com/album/6YNinPRBgr1TH73hJgycRj) | 2:28 | 2024-07-30 | 2024-09-04 |
+| [Let's Dance](https://open.spotify.com/track/3Ha8dfi47Gh5LSXE1751Yy) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Let's Dance](https://open.spotify.com/album/6kv8kVpO3Cc75wQdlKzoYM) | 2:59 | 2025-09-09 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/03a7zJD7KAV5h1xanMVaPb) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [CyberHelix](https://open.spotify.com/album/4PqYD6bve8Qt0GhJr7evuN) | 2:45 | 2024-05-07 | 2024-06-13 |
 | [Letters](https://open.spotify.com/track/1uGSFblwtIIvje1iJXbpFT) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Letters](https://open.spotify.com/album/33enKMlM08AOwYBvnMWeqc) | 3:24 | 2025-02-11 | 2025-05-09 |
 | [Level Up](https://open.spotify.com/track/4Z4kahJkqehluTeVsmsAd0) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Level Up](https://open.spotify.com/album/0ZLDryLhoPw3rJwxbLTDhe) | 3:28 | 2024-11-05 | 2024-12-04 |
@@ -448,6 +450,7 @@
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-03-06 | 2025-05-16 |
 | [R&B ME](https://open.spotify.com/track/4a3IJKPfJLG8JulXasAKU5) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin of Stray Kids](https://open.spotify.com/artist/1Ocr2yc1gR3a2a16yqNqal) | [Dear my muse](https://open.spotify.com/album/6w2g6hQzeb5OBJmpIip5ir) | 2:38 | 2025-09-01 |  |
 | [RAINBOWxPATROL](https://open.spotify.com/track/3XIbyNrlsz7pUvGSmP62sH) | [AMPTAKxCOLORS](https://open.spotify.com/artist/2ZdbtKGxrjGGn8xFp5V5e8) | [RAINBOWxPATROL \(Special Edition\)](https://open.spotify.com/album/7ibYbymQeDEPORP2mq1nK2) | 3:36 | 2024-03-19 | 2024-03-27 |
+| [READY 2 RUMBLE](https://open.spotify.com/track/1Vj1oP3Z1PJXsU2HpgEPvO) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [VCF](https://open.spotify.com/album/3mNJ0XCdr6TbY3TPN0k0tn) | 2:54 | 2025-09-09 |  |
 | [Ready to Jump](https://open.spotify.com/track/1pATsjibjLcbIZEYQjB11j) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:21 | 2023-11-23 | 2023-11-29 |
 | [REALLY LOVE](https://open.spotify.com/track/4VWa5wRCtiHRwmN4nTppp7) | [Ryuji Imaichi](https://open.spotify.com/artist/70OLJdY31J0j1JgNcLsvSc) | [R](https://open.spotify.com/album/75QefD9UMZNVTj90r0RXW5) | 2:07 | 2024-06-25 | 2024-07-31 |
 | [Reason](https://open.spotify.com/track/7qqxXmYJxkWzDFyVisW5Cm) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [Reason](https://open.spotify.com/album/3O9KOYys6M3UjMJzyV30ll) | 3:23 | 2023-11-23 | 2024-02-14 |
@@ -627,7 +630,7 @@
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
 | [Youth Spark](https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Youth Spark](https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC) | 3:05 | 2024-07-30 | 2024-09-25 |
 | [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 | 2024-11-27 |
-| [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh) | 2:56 | 2025-07-10 |  |
+| [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh) | 2:56 | 2025-07-10 | 2025-09-10 |
 | [หายใจทิ้ง \(boys just wanna be boys\) \- Japanese Version \[From Bussing Japan\]](https://open.spotify.com/track/18XxgNvcigiisOhyFi2zpY) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [หายใจทิ้ง \(boys just wanna be boys\) \[Japanese Version \[From บัส ซิ่ง เจแปน\]\]](https://open.spotify.com/album/00cRcTZEi3VuPGBw4bzuqS) | 3:54 | 2025-08-22 |  |
 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 | 2025-05-29 | 2025-07-11 |
 | [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-399 songs - 1 day 2 hr 7 min
+400 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 | 2025-03-07 |  |
 | [Every Night](https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:05 | 2023-08-11 |  |
 | [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 | 2023-09-29 | 2024-10-26 |
+| [Fade To Black](https://open.spotify.com/track/2VcK9l2rGaxUw6cI4u5zxy) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fade To Black EP](https://open.spotify.com/album/1CuBDDWPdzNolcPtYGAT8N) | 4:20 | 2025-09-05 |  |
 | [Fanfa](https://open.spotify.com/track/0CdXVtDuGEHSqwkeeNRvlg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fanfa](https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1) | 4:50 | 2021-07-24 | 2022-07-29 |
 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 | 2022-06-20 | 2023-05-20 |
 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-02-16 |  |
@@ -223,7 +224,7 @@
 | [Love In C Minor \- Franc Moody Remix](https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Love In C Minor \(Franc Moody Remix\)](https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF) | 3:05 | 2023-08-04 | 2025-04-27 |
 | [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 | 2024-06-21 |  |
 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 | 2024-06-28 |  |
-| [Lovers In A Past Life \(with Rag'n'Bone Man\) \- LP Giobbi Remix](https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[LP Giobbi Remix\]](https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn) | 2:53 | 2024-04-26 |  |
+| [Lovers In A Past Life \(with Rag'n'Bone Man\) \- LP Giobbi Remix](https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[LP Giobbi Remix\]](https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn) | 2:53 | 2024-04-26 | 2025-09-10 |
 | [Lovin You](https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Lovin You](https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL) | 2:43 | 2023-06-16 | 2023-09-24 |
 | [Magic](https://open.spotify.com/track/4oJF0tKuwU26s6MZkQ2ahU) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I) | [Magic](https://open.spotify.com/album/6qc6UpI52MHNnisCAZkArm) | 3:22 | 2023-05-26 | 2023-06-11 |
 | [Magnifique](https://open.spotify.com/track/1OP6p9TKmaodXmWzmAUutq) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Magnifique](https://open.spotify.com/album/3GYGoKojtPlcQYtxGPXWR5) | 3:48 | 2025-01-31 | 2025-03-20 |

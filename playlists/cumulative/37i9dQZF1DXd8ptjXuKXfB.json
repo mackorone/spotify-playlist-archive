@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 378000,
       "name": "A Maszk Alatt",
       "url": "https://open.spotify.com/track/1mQq4ZDtiE3xMZCGpMWWwn"
@@ -714,10 +714,28 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 196782,
       "name": "Balatoni l\u00e1ny",
       "url": "https://open.spotify.com/track/2Diim2iaFdFX6IQC5FLLIW"
+    },
+    {
+      "album": {
+        "name": "BALH\u00c9",
+        "url": "https://open.spotify.com/album/43YHtHQZ3agNx3DLATzsGI"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83307,
+      "name": "BALH\u00c9",
+      "url": "https://open.spotify.com/track/7lkiBT3ApypEEk1TYOHqVQ"
     },
     {
       "album": {
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 194761,
       "name": "B\u00facs\u00faz\u00f3ul",
       "url": "https://open.spotify.com/track/0O7gWSHzq5BH164IrjbpJc"
@@ -7483,6 +7501,28 @@
     },
     {
       "album": {
+        "name": "Vadnyugati",
+        "url": "https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O"
+      },
+      "artists": [
+        {
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
+        },
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202065,
+      "name": "Vadnyugati",
+      "url": "https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn"
+    },
+    {
+      "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
       },
@@ -7834,6 +7874,28 @@
       "duration_ms": 219999,
       "name": "ZHA MAJ DUR",
       "url": "https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw"
+    },
+    {
+      "album": {
+        "name": "\u00c1lmodoztam",
+        "url": "https://open.spotify.com/album/1DCHE0C8eaSVBw5j9v3zph"
+      },
+      "artists": [
+        {
+          "name": "V-Tech",
+          "url": "https://open.spotify.com/artist/22ErxB8hIzcnxwJ6Ns5GBs"
+        },
+        {
+          "name": "Lotfi Begi",
+          "url": "https://open.spotify.com/artist/5iAyJ9oWG7fGCxppLihaZa"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "\u00c1lmodoztam",
+      "url": "https://open.spotify.com/track/46GLF8kK08PMs9vzpXRCVL"
     },
     {
       "album": {

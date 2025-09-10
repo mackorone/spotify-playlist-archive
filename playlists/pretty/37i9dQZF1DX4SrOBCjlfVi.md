@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Drake & PARTYNEXTDOOR, Don Toliver, Latto and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,757 likes - 48 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,881 likes - 48 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

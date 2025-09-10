@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/2nLBp0HJCDsDw0s3iQtql4"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132307,
+      "name": "Astro",
+      "url": "https://open.spotify.com/track/36turkUfMuI2OMPZeArmZr"
+    },
+    {
+      "album": {
         "name": "Ava",
         "url": "https://open.spotify.com/album/5JGVhdDkLkzGPL1H7ZGPnF"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 135903,
       "name": "Boketto",
       "url": "https://open.spotify.com/track/7xos61THl5pg88dpoV5mnZ"
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 184800,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2iaBVvvaWxMEpc7aUzcsaw"
@@ -3400,6 +3418,24 @@
       "duration_ms": 299758,
       "name": "Fire In Detroit",
       "url": "https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3"
+    },
+    {
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6nHBcLtECyu7wF22rID8LI"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277328,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2LPgGH5CXD29xRIciZsWIz"
     },
     {
       "album": {
@@ -9226,7 +9262,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 121379,
       "name": "Show Me Your Style",
       "url": "https://open.spotify.com/track/0glLQ2TjhPQ1QEts10butk"
@@ -9288,6 +9324,28 @@
       "duration_ms": 137666,
       "name": "Sista Dansen",
       "url": "https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm"
+    },
+    {
+      "album": {
+        "name": "Sky High",
+        "url": "https://open.spotify.com/album/4GkQtsEIgkYRmlsbMnMIxF"
+      },
+      "artists": [
+        {
+          "name": "Axian",
+          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
+        },
+        {
+          "name": "SoBe",
+          "url": "https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136202,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/1ngO3LQD2sKuy5AhHHejs7"
     },
     {
       "album": {
@@ -11560,7 +11618,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 115443,
       "name": "Toucanet",
       "url": "https://open.spotify.com/track/5B8HcOF0JaoHhddYEUCABv"
@@ -12446,7 +12504,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 134709,
       "name": "What's Good",
       "url": "https://open.spotify.com/track/3VDfWzstfrPQSnDirjhBsk"

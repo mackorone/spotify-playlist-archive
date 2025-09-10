@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 曽根麻央
 
-442 songs - 1 day 11 hr 50 min
+443 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Missing My Bird \- 2024 Ver.](https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [Missing My Bird \(2024 Ver.\)](https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8) | 4:23 | 2024-08-27 | 2024-09-23 |
 | [Momentary Moment](https://open.spotify.com/track/2yGOXnM6w60GJL6hWcxBxX) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Momentary Moment](https://open.spotify.com/album/6WDajxi9F39Lyo4MwcEaqX) | 4:46 | 2024-01-09 | 2024-05-29 |
 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 | 2024-02-20 | 2024-09-18 |
-| [Moon River](https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Carry On](https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW) | 5:55 | 2024-10-08 |  |
+| [Moon River](https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Carry On](https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW) | 5:55 | 2024-10-08 | 2025-09-10 |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2022-09-06 | 2024-12-18 |
 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 | 2023-07-11 |  |
 | [Morning Bread](https://open.spotify.com/track/6hvdH8mYINFsY9YtbhD1DU) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Morning Bread](https://open.spotify.com/album/6N2j5KkTBIEtq8IrdJa0BA) | 3:17 | 2024-01-30 | 2024-07-10 |
@@ -388,6 +388,7 @@
 | [YAMASTE](https://open.spotify.com/track/4lVjEChJOqqCVombMMAGX1) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [YAMASTE](https://open.spotify.com/album/06qraiNnSSgsInRH7HBlcl) | 4:46 | 2025-07-29 | 2025-08-24 |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-15 |  |
 | [Zero](https://open.spotify.com/track/1T0uAWnsevRr7Nk8E7TI4w) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Zero](https://open.spotify.com/album/54KW9F6MVh6tOL74EC8evT) | 3:41 | 2025-01-28 | 2025-04-23 |
+| [Ⅰ\. Overture](https://open.spotify.com/track/6oFZMYre73OreKIuM38oeM) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG), [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13), [Hironori Suzuki](https://open.spotify.com/artist/4rU87g1ZAPPONOyteoFoRv) | [８つの小品](https://open.spotify.com/album/6ZoKCcmVkTm2mjx2imdE6U) | 5:04 | 2025-09-09 |  |
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 | 2024-11-13 |
 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 | 2024-05-28 | 2024-12-18 |

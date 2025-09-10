@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Racing Mount Pleasant on the cover.
 
-59 songs - 4 hr 32 min
+60 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [goop](https://open.spotify.com/track/3Wgbbu9iHJ0kQtokHnCCfl) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 3:20 | 2025-07-10 |  |
 | [Gymnopédie](https://open.spotify.com/track/2nG9BddUCV1MsPnmQ5U00f) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:50 | 2025-07-10 |  |
 | [Harry and the Jets](https://open.spotify.com/track/6lSAHuOAfFC5DtSQrCsfE3) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Harry and the Jets](https://open.spotify.com/album/6FQ9I0d2e7pvddqHb3UgIC) | 4:16 | 2025-07-18 |  |
+| [Hattrick](https://open.spotify.com/track/4Qh12Dgv4ZkNCfnC7oSgEw) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Hattrick](https://open.spotify.com/album/4614NZ99KGlxn9I2A1nHnn) | 5:40 | 2025-09-09 |  |
 | [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 | 2025-07-10 |  |
 | [I Was Here](https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [I Was Here](https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm) | 3:38 | 2025-07-18 |  |
 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 | 2025-07-10 |  |

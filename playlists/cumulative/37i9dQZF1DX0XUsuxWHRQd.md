@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Don Toliver, Trippie Redd and Latto.
+> New music from Don Toliver,  Drake and Latto.
 
 2,494 songs - 5 day 9 hr 19 min
 

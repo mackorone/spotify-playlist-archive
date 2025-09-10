@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,623 songs - 19 day 17 hr 6 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,624 songs - 19 day 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7631,5 +7631,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7621 | [軌跡](https://open.spotify.com/track/3QFhZ0lCZRcT9zLRQHmMdu) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/6qpvaZAmX8QxKpnRDiKVi6) | 5:10 |
 | 7622 | [Opera of the Wasteland](https://open.spotify.com/track/5mjEUc5Gfx0lmy7tqB5oxv) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Opera of the Wasteland](https://open.spotify.com/album/1z79MahFX9ES0H0uv7y0CH) | 4:46 |
 | 7623 | [“UNIONS” Road](https://open.spotify.com/track/1zbq544S6WpgYchXYQLbnw) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [約束](https://open.spotify.com/album/0R00Jr5GZwQpm32hknzYIl) | 5:09 |
+| 7624 | [Jealous](https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 3:43 |
 
-Snapshot ID: `AAAImvRuOCxwz2aidAFAXZtqbpnvEunI`
+Snapshot ID: `AAAIm6Y3l38mn/GecdL6eEfM8/atOjzk`

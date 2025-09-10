@@ -4,7 +4,7 @@
 
 > 
 
-123 songs - 13 hr 23 min
+124 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Athena \- Demon Noise Remix](https://open.spotify.com/track/0hXtVyXPQCfiE7vrG4BZ2a) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Demon Noise](https://open.spotify.com/artist/0bIOCVFnNDbixFxTdPjE7R) | [Athena Remixes](https://open.spotify.com/album/37OhMXLThf2Zxm2N5O9Mcq) | 6:35 | 2022-02-21 |  |
 | [Bad Generator \- Kevin De Vries Remix](https://open.spotify.com/track/6w5vjVTTZxP5UJo3Vw6IFu) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Bad Generator](https://open.spotify.com/album/70Qy12URBS84RxHDBDjGZ9) | 7:37 | 2019-06-20 |  |
 | [Badlands](https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Badlands](https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD) | 4:00 | 2023-05-30 |  |
+| [Before I Forget Your Voice](https://open.spotify.com/track/5yNlRRPQCG05GVNzUM3PWH) | [Krl Mx](https://open.spotify.com/artist/49e9A9elFAUS9sCDMTyiWC) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 5:24 | 2025-09-09 |  |
 | [Bei Nacht H \(178\)](https://open.spotify.com/track/6sQyqKibyhVGm34VgLCl9Z) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [105](https://open.spotify.com/album/6oeqsVGULLUnyMOjpYpTEQ) | 5:07 | 2019-11-17 |  |
 | [Border Country \- Adam Beyer & Bart Skils Remix / Radio Edit](https://open.spotify.com/track/0QW72xSoeXVkPj6dLmAzpx) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [Ø \[Phase\]](https://open.spotify.com/artist/0mMCjSZUnt7dQBzZdCd2ez), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Border Country \(The Remixes\)](https://open.spotify.com/album/6cUU9a9esA8J1D5aLiVPkx) | 5:42 | 2021-02-16 |  |
 | [Brennende Erde](https://open.spotify.com/track/5TnFD95yJxM3z2Mem86Dcg) | [SHDW & Obscure Shape](https://open.spotify.com/artist/3pqHn0bHhBjL0duQ5xesFe) | [Exhale VA001](https://open.spotify.com/album/0po0rc9aEPhTZG6yTgmHgn) | 5:26 | 2020-11-28 |  |

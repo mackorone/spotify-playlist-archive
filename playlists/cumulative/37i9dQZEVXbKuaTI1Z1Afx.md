@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,308 songs - 9 day 14 hr 55 min
+4,309 songs - 9 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1787,7 +1787,8 @@
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-07 | 2023-01-11 |
 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2025-01-15 | 2025-01-29 |
 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 | 2025-08-05 | 2025-08-13 |
-| [I'm a Dog](https://open.spotify.com/track/5avNO4NZBxtf44hlPMzoY0) | [Sister Tana1653](https://open.spotify.com/artist/1hFE5HqYesPZ6pjDpFRNz3), [2 phones Really Gate](https://open.spotify.com/artist/7GqzCOQrXsv7n2X58Mbo4O) | [I'm a Dog](https://open.spotify.com/album/52YYepian40oN800wl8cLZ) | 2:28 | 2025-09-02 |  |
+| [I'm a Dog](https://open.spotify.com/track/5avNO4NZBxtf44hlPMzoY0) | [Sister Tana1653](https://open.spotify.com/artist/1hFE5HqYesPZ6pjDpFRNz3), [2 phones Really Gate](https://open.spotify.com/artist/7GqzCOQrXsv7n2X58Mbo4O) | [I'm a Dog](https://open.spotify.com/album/52YYepian40oN800wl8cLZ) | 2:28 | 2025-09-02 | 2025-09-10 |
+| [I'm a Dog](https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA) | [Sister Tana1653](https://open.spotify.com/artist/1hFE5HqYesPZ6pjDpFRNz3), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm a Dog](https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ) | 2:28 | 2025-09-05 |  |
 | [I'm A Little Crazy](https://open.spotify.com/track/2zIl3eEUd51KdtqGyJw1sg) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:19 | 2025-05-22 | 2025-05-25 |
 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-04-08 | 2025-04-23 |
 | [I'm A Star \- From "Wish"](https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re) | [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [I'm A Star \(From "Wish"\)](https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8) | 2:54 | 2023-11-28 | 2023-12-04 |

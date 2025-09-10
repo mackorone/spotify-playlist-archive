@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 81 likes - 50 songs - 1 hr 58 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 78 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

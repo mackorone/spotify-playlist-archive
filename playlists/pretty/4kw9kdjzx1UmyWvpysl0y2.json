@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124990,
+  "num_followers": 124991,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUj+ZJto6tEPDkQQi7in7bDy9CWlx+",
+  "snapshot_id": "AAAUkJl5ROgBlY6yu94fBL3NewPmvnrz",
   "tracks": [
+    {
+      "added_at": "2025-09-09 13:59:42",
+      "album": {
+        "name": "Drops Of Dew",
+        "url": "https://open.spotify.com/album/3OmvaJOSGrLWjn4JH5Nbiv"
+      },
+      "artists": [
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        },
+        {
+          "name": "Enviado Vida",
+          "url": "https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Drops Of Dew",
+      "url": "https://open.spotify.com/track/3KxMOw5dxLpoUfOpmyad30"
+    },
     {
       "added_at": "2025-09-08 13:20:03",
       "album": {

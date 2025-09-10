@@ -4,7 +4,7 @@
 
 > Weekly update for Indie releases\. Cover: Royel Otis
 
-561 songs - 1 day 8 hr 53 min
+562 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Look Out The Window](https://open.spotify.com/track/3mDAGAopab6uVP8vUIPNr5) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Bad Luck Is Two Yellow Flowers](https://open.spotify.com/album/048xumyYIDYkwp7yxnHmDd) | 3:28 | 2025-05-16 | 2025-08-05 |
 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 | 2025-08-08 |  |
 | [Lose Myself](https://open.spotify.com/track/0NgxNRkuEfytKKf89f12h9) | [Áslaug](https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz) | [Lose Myself](https://open.spotify.com/album/6pSh0WsivEGbF1utMlDBSN) | 3:08 | 2024-10-03 | 2024-11-15 |
+| [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-09 |  |
 | [Lost](https://open.spotify.com/track/6Yw1uTYCVpbMag0Djw6z7d) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [Lost](https://open.spotify.com/album/2U3QalgJYkL8r8BHJ0Qxzu) | 3:58 | 2025-05-01 | 2025-07-11 |
 | [Lost in Some Dream](https://open.spotify.com/track/5800FfpvzRObVCdIYOrDtJ) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Lost in Some Dream](https://open.spotify.com/album/0qpe8DnGxrth4rWMeMcMs1) | 3:27 | 2024-06-24 | 2024-10-04 |
 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-02-17 | 2025-05-07 |

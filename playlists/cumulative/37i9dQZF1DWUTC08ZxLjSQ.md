@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-442 songs - 23 hr 30 min
+443 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Not Sure](https://open.spotify.com/track/1nEu8odxpQOSoGhI3xOlbs) | [Zamzam](https://open.spotify.com/artist/40t0g2yYoi3XGYAIibe3UZ) | [Not Sure](https://open.spotify.com/album/3zQnmCch1nC6WElnzHNPpp) | 3:12 | 2022-10-19 | 2023-03-22 |
 | [Novacane](https://open.spotify.com/track/1yNlHjQG9oCwkRzMjlrXQ8) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Novacane](https://open.spotify.com/album/20UY9yYwSUAt15SqbXeoAv) | 2:31 | 2022-10-11 | 2023-03-08 |
 | [Nowhere To Hide](https://open.spotify.com/track/1sNXgwTc5yfPqTbOgW3Lud) | [Japan, Man](https://open.spotify.com/artist/54MEW8n5kP8oN7qSvb72Nb) | [Nowhere To Hide](https://open.spotify.com/album/3XeyOY3regBOt5t7SdYqHT) | 3:31 | 2023-08-01 | 2024-02-21 |
-| [NSAY](https://open.spotify.com/track/11VT3trAQIQEu7eoAohlgu) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [NSAY](https://open.spotify.com/album/0gPZzBI5DxJPzSxH75EuIR) | 3:47 | 2025-01-22 |  |
+| [NSAY](https://open.spotify.com/track/11VT3trAQIQEu7eoAohlgu) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [NSAY](https://open.spotify.com/album/0gPZzBI5DxJPzSxH75EuIR) | 3:47 | 2025-01-22 | 2025-09-10 |
 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 | 2024-01-16 | 2024-05-23 |
 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 | 2022-12-13 | 2023-05-03 |
 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 | 2023-03-07 | 2023-07-19 |
@@ -364,6 +364,7 @@
 | [sxcbnda](https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 2:54 | 2023-07-18 | 2024-05-01 |
 | [Talin \- Acoustic Version](https://open.spotify.com/track/0vdUf2a33S0jgvwMwh6Odp) | [Qaboo](https://open.spotify.com/artist/7zE3Yn6mU7yAGmbGf1zYQ4) | [Talin](https://open.spotify.com/album/0Dk18GCO3jBWJnPrDEMeOP) | 2:32 | 2024-01-31 | 2024-06-27 |
 | [Taqa](https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN) | [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Taqa](https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x) | 2:30 | 2022-10-25 | 2023-01-18 |
+| [TASBEERA](https://open.spotify.com/track/4JI685NlUgHbrA5na1UIyh) | [Amira Adeeb](https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137) | [TASBEERA](https://open.spotify.com/album/1QbRiW31k6VzjpNZ9wkb7l) | 1:52 | 2025-09-09 |  |
 | [Teir \- طير](https://open.spotify.com/track/6EziVG42FHekYp7n7jh4Le) | [Butternotes](https://open.spotify.com/artist/3Mm7FLQW1CVB9cq9mAUtDh) | [Teir \- طير](https://open.spotify.com/album/4L511OfeV85rEemy9cUTid) | 4:17 | 2024-11-06 | 2025-06-18 |
 | [Tekram](https://open.spotify.com/track/1wtMuXGeiJwZPaN1Av2txT) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Tekram](https://open.spotify.com/album/4Kcu6Yv1DjQfv0b35PvIaP) | 2:36 | 2024-06-26 | 2024-09-12 |
 | [Telephone](https://open.spotify.com/track/4Z14OEDS8ryZxcr2co4P9U) | [Louis LS](https://open.spotify.com/artist/3sN5oyOnNGOETUpAA50xYW) | [Telephone](https://open.spotify.com/album/14KtnblxrNmq7ToGOp0PBq) | 2:21 | 2024-05-14 | 2024-09-12 |

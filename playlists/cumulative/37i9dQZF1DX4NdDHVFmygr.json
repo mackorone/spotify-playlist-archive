@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Den Den,",
+        "url": "https://open.spotify.com/album/19aaWkC2gOyf2dNkJA4yPl"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153489,
+      "name": "Den Den,",
+      "url": "https://open.spotify.com/track/7qTWQLYFi7dp0arSyQ3V1X"
+    },
+    {
+      "album": {
         "name": "Denbi",
         "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
       },
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 177600,
       "name": "Jarh 9Dim",
       "url": "https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD"
@@ -6924,7 +6942,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 170895,
       "name": "PRINCESSA",
       "url": "https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd"
@@ -6946,6 +6964,28 @@
       "duration_ms": 182773,
       "name": "Psychologue",
       "url": "https://open.spotify.com/track/0qS4qhRKL177FnJofUIwQx"
+    },
+    {
+      "album": {
+        "name": "Quand elle danse",
+        "url": "https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K"
+      },
+      "artists": [
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        },
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191723,
+      "name": "Quand elle danse",
+      "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
     },
     {
       "album": {

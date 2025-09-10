@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u3067\u304b\u304f\u3066\u307e\u308b\u3044\u3002",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 245666,
       "name": "Baby You",
       "url": "https://open.spotify.com/track/55xmWmHvGp531gpndhlyQk"
@@ -3373,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Golden Beaver / Never Looking Back",
+        "url": "https://open.spotify.com/album/4NW93bCpBy9BYVCnWRQKzU"
+      },
+      "artists": [
+        {
+          "name": "AIRFLIP",
+          "url": "https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156958,
+      "name": "Golden Beaver",
+      "url": "https://open.spotify.com/track/5RVtVNi6VRfTZc0e5dgXZ5"
+    },
+    {
+      "album": {
         "name": "Good Feelin'",
         "url": "https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU"
       },
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 202047,
       "name": "Happy Nante",
       "url": "https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN"
@@ -8980,7 +8998,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 214500,
       "name": "STAY GROUND",
       "url": "https://open.spotify.com/track/594mWwCmEPEUdbTylWSr5p"
@@ -9442,6 +9460,24 @@
       "duration_ms": 127852,
       "name": "Take Off!!",
       "url": "https://open.spotify.com/track/5KOyDAveuaIds6qRoU0M26"
+    },
+    {
+      "album": {
+        "name": "Talent",
+        "url": "https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262432,
+      "name": "Talent",
+      "url": "https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP"
     },
     {
       "album": {
@@ -12458,7 +12494,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 236839,
       "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
       "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"

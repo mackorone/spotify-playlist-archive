@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Sweet Sweet Boy",
+        "url": "https://open.spotify.com/album/4TNPuw1Zvpod0S3ApJTZyr"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Sweet Sweet Boy",
+      "url": "https://open.spotify.com/track/2CM2PanuxrVfUeTTFeuDCv"
+    },
+    {
+      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/3iN6gt0GlkJPdVymrbCD3Q"
       },
@@ -2947,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "\u4e0b\u5728\u5fc3\u88e1\u7684\u96e8",
+        "url": "https://open.spotify.com/album/6YBfb8PjfFxiOVLCMDEPue"
+      },
+      "artists": [
+        {
+          "name": "KRAY",
+          "url": "https://open.spotify.com/artist/1Vknqy3noTujdCjbI3xxF1"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164788,
+      "name": "\u4e0b\u5728\u5fc3\u88e1\u7684\u96e8",
+      "url": "https://open.spotify.com/track/1rsBXrcibmIsUunC0VJmAZ"
+    },
+    {
+      "album": {
         "name": "\u4e0b\u8f29\u5b50 (Remix)",
         "url": "https://open.spotify.com/album/5vI5LKjr1uwk16WmxnxwTR"
       },
@@ -3273,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "LOVE WEI BACK Vol.1",
+        "url": "https://open.spotify.com/album/6MVj0eyoUeIiOhNGT6ZOMu"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241458,
+      "name": "\u4e0d\u8b8a",
+      "url": "https://open.spotify.com/track/2zFHUikOdpKfmwchWvWjkR"
+    },
+    {
+      "album": {
         "name": "\u4e16\u754c\u8d08\u4e88\u6211\u7684",
         "url": "https://open.spotify.com/album/2tLZC1zk23L95zY6D2dqjK"
       },
@@ -3584,7 +3638,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 253833,
       "name": "\u4f60\u5230\u5e95\u5728\u9078\u64c7\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7"
@@ -4786,6 +4840,28 @@
       "duration_ms": 222352,
       "name": "\u5176\u5b9e\u90fd\u6ca1\u6709",
       "url": "https://open.spotify.com/track/1w3iXvTL1LRBxl6vEdLNgP"
+    },
+    {
+      "album": {
+        "name": "\u5343\u5a1c\u821e\u53f0\u79c0 - \u5f7c\u6bb5\u904e\u53bb\u7d93\u904e\u962e\u515c\u53e3",
+        "url": "https://open.spotify.com/album/7F7BmtwT1rCKVvDwYvTOAv"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5343\u5a1c",
+          "url": "https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb"
+        },
+        {
+          "name": "\u9ec3\u5947\u658c",
+          "url": "https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259032,
+      "name": "\u518d\u6703\u5566\u5fc3\u611b\u7684\u7121\u7de3\u7684\u4eba",
+      "url": "https://open.spotify.com/track/7HPtnWLoTWpNvQrM8bYBlO"
     },
     {
       "album": {
@@ -6082,7 +6158,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 197796,
       "name": "\u5919\u613f - \u5f71\u89c6\u5267\u300a\u9526\u6708\u5982\u6b4c\u300b\u5bbf\u547d\u7f81\u7eca\u66f2",
       "url": "https://open.spotify.com/track/0GFUJVn8Vg8H1mUjn7Qr2r"
@@ -7094,7 +7170,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 221972,
       "name": "\u5c31\u8b93\u6211\u518d\u966a\u4f60",
       "url": "https://open.spotify.com/track/7BFnxun8jv30AMFYvAFORN"
@@ -8818,7 +8894,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 184553,
       "name": "\u6211\u559c\u6b61\u6211",
       "url": "https://open.spotify.com/track/6xSTphVc86dhex73ZryENf"
@@ -12954,7 +13030,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 208956,
       "name": "\u7a7a\u8361\u8361",
       "url": "https://open.spotify.com/track/6D7hDhCq07RCcdFGKHgI61"
@@ -14882,6 +14958,24 @@
       "duration_ms": 252000,
       "name": "\u9019\u9ebc\u591a\u5e74 - \u96fb\u5f71\u300a\u6211\u60f3\u548c\u4f60\u5728\u4e00\u8d77\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo"
+    },
+    {
+      "album": {
+        "name": "\u901e\u5f37\u7684\u9762\u5b54",
+        "url": "https://open.spotify.com/album/0PpwcwJ8YA8f9Zw9E19iQC"
+      },
+      "artists": [
+        {
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "\u901e\u5f37\u7684\u9762\u5b54",
+      "url": "https://open.spotify.com/track/5H4OaaGcuhYZSp4EydKYMF"
     },
     {
       "album": {

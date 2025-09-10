@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-453 songs - 1 day 4 hr 17 min
+454 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 | 2021-12-24 | 2024-04-19 |
 | [Feliz Navidad](https://open.spotify.com/track/0d9T0mGXQeXZbocFTdu9uk) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 2:54 | 2021-12-24 | 2024-04-19 |
 | [Feliz Navidad](https://open.spotify.com/track/1cFWVdLbsXwDZx73LxReFv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Christmas: Joy To The World](https://open.spotify.com/album/6CDNJL0wwcpY56ppfHBtPr) | 2:54 | 2021-12-24 | 2022-07-28 |
+| [For Christmas](https://open.spotify.com/track/2K5L19xTS09Qsdr2Mvq339) | [Peach Goldman](https://open.spotify.com/artist/4qgHER4TOUytmdRhGoyBP4) | [For Christmas](https://open.spotify.com/album/18Xu2i44ccwmZ9QGImqP6Y) | 2:47 | 2024-12-13 |  |
 | [For Unto Us a Child Is Born/Open the Eyes of My Heart](https://open.spotify.com/track/2zdie7CHg1v4LZsg5YTphr) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [Christmas Worship, Vol\. 2](https://open.spotify.com/album/0Oebjw58B0C8Jx5tuJiDuS) | 3:27 | 2021-12-24 |  |
 | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-24 | 2022-11-27 |
 | [From Heaven To Earth \(Joy To The World\)](https://open.spotify.com/track/0PrGjIdocNthK35qFKShB4) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God With Us](https://open.spotify.com/album/5mOQwwrpwCqlkFIMpuPVcX) | 3:48 | 2021-12-24 |  |
@@ -156,7 +157,7 @@
 | [Good King Wenceslas](https://open.spotify.com/track/4WM0DbMzh0oph7NMEYHgkg) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Good King Wenceslas](https://open.spotify.com/album/2O90tt21lbxx341mb2VnDy) | 3:43 | 2021-12-24 | 2024-08-02 |
 | [Gratitude / Worthy of it All / You’re Worthy of My Praise \(feat\. Brandon Lake, Natalie Grant & Mav City Gospel Choir\)](https://open.spotify.com/track/0KWGmjdgmpuovXuwWDrDt4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 13:12 | 2021-12-24 |  |
 | [Greatest Gift](https://open.spotify.com/track/6CBTf1E86Jth5ST7A3Ujua) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Greatest Gift](https://open.spotify.com/album/5fDcphCt8L8Tw06ICVP1ZQ) | 3:33 | 2023-11-27 | 2024-08-02 |
-| [Guiding Star \(Christmas Eve\)](https://open.spotify.com/track/7nLzbSjJHcWyYd4LerohV4) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Guiding Star \(Christmas Eve\)](https://open.spotify.com/album/50Kg9ugDonIsbl2tYi6hfD) | 3:05 | 2022-11-26 |  |
+| [Guiding Star \(Christmas Eve\)](https://open.spotify.com/track/7nLzbSjJHcWyYd4LerohV4) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Guiding Star \(Christmas Eve\)](https://open.spotify.com/album/50Kg9ugDonIsbl2tYi6hfD) | 3:05 | 2022-11-26 | 2025-09-10 |
 | [Hallelujah \(He Has Come\) \- Acoustic](https://open.spotify.com/track/0TyrmbOblW90TD3wFnIulL) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Hallelujah \(He Has Come\) \[Acoustic\]](https://open.spotify.com/album/1cuqOGBT3EiHLA6cpDx9A7) | 3:43 | 2023-11-27 | 2024-08-02 |
 | [Hallelujah \- Acoustic](https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Hallelujah \(Acoustic\)](https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN) | 2:53 | 2023-12-02 |  |
 | [Hallelujah \- Live](https://open.spotify.com/track/4GZtpNptZnzGlC8LrfpQsK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 3:18 | 2021-12-24 | 2024-08-01 |

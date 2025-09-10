@@ -4,7 +4,7 @@
 
 > 
 
-2,522 songs - 5 day 11 hr 47 min
+2,524 songs - 5 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Emotions](https://open.spotify.com/track/6PyJm8FfVzjz0eevABchS2) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD), [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM) | [Emotions](https://open.spotify.com/album/5VOLlR7GUHdul5lt5L28Ap) | 3:00 | 2024-10-11 |  |
 | [Empty Pistols](https://open.spotify.com/track/3mW5ck7bEj6TJJn8WZm2jj) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Empty Pistols](https://open.spotify.com/album/1DYs1RKHXbfVJGCIuo3leb) | 3:18 | 2025-08-10 |  |
 | [Empty Promises](https://open.spotify.com/track/7lfHS7cz2P8B9LxUJyXKvR) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Arkiida](https://open.spotify.com/artist/3krw0I7tGVNLc4q5oJMnwP) | [Empty Promises](https://open.spotify.com/album/0NPHJsCYDFZqp91OPJu3MM) | 3:50 | 2022-02-17 |  |
+| [Endless Lights](https://open.spotify.com/track/3lD2ugOwbX8tX9MnCRRfLS) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Endless Lights](https://open.spotify.com/album/1j4Wv1VuqK86eTk6IOllEE) | 2:59 | 2025-09-09 |  |
 | [Endlessly \- Extended Mix](https://open.spotify.com/track/32amg4jeTq0FFVLrk1YFTZ) | [Scoot](https://open.spotify.com/artist/073p67yGPo5t2NKYuH42fb), [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM) | [Endlessly](https://open.spotify.com/album/4JB7K8hv7m7JHUnqIfjNhV) | 5:09 | 2023-05-13 |  |
 | [ENEMIES](https://open.spotify.com/track/34E8ceVLk2JaPGmVdaTrVZ) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn), [JudaX](https://open.spotify.com/artist/5BROkuTipn94KP5u2iGO1D), [Crazykill](https://open.spotify.com/artist/4QLmWEIwct9xPbFrHPAEbh), [Retri](https://open.spotify.com/artist/1Ezw6isnNbg0YStlFhZ2PL) | [ENEMIES](https://open.spotify.com/album/5613exl1rIVIZgBRnkrKdE) | 2:02 | 2024-05-10 |  |
 | [Enemies](https://open.spotify.com/track/2z21iXRB86rdgR7AJ6yr3k) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [Enemies](https://open.spotify.com/album/6c4o8dyDmryTy0ieDOLtfe) | 2:15 | 2024-12-14 |  |
@@ -1283,6 +1284,7 @@
 | [Let Me Know](https://open.spotify.com/track/4U4ePKfIEaakJ5DvkGI5p2) | [Hartshorn](https://open.spotify.com/artist/26CaaT8FqbEIzi3hlD8MKc) | [Let Me Know](https://open.spotify.com/album/5Dmoy9lAuZcjioPvqULm2q) | 3:46 | 2022-11-21 |  |
 | [Let Me Know](https://open.spotify.com/track/1j67pM7Rcf0GPoW2a4MlZO) | [Xelerate](https://open.spotify.com/artist/0gPwvAURbtqpxkdMWh3iko), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Let Me Know](https://open.spotify.com/album/5IiBLpthp9Ir2hKKt6UJK9) | 2:38 | 2025-06-10 |  |
 | [LET THE BASS GO](https://open.spotify.com/track/6Nu8Ek8HhQLthr9OcoqZKe) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [LOCO / LET THE BASS GO](https://open.spotify.com/album/0A5BBNeMiYjoFu2gaON8cW) | 2:09 | 2023-06-09 |  |
+| [Let The Bass Pump](https://open.spotify.com/track/0usDNqnYYCPF5T677ZMcW4) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [Let The Bass Pump](https://open.spotify.com/album/2TFAFWqLI1fN2YyCsWBu0K) | 3:13 | 2025-09-09 |  |
 | [Let the Music Take Control](https://open.spotify.com/track/1wMK3UMlBqSUzUgeBeAT9r) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Let the Music Take Control](https://open.spotify.com/album/1QQovynrzb6OmP3qlUYbnI) | 2:37 | 2025-03-09 |  |
 | [Let You Go](https://open.spotify.com/track/4stHUglyODej8EeAWwr7r5) | [Div Eadie](https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P), [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW), [Slice N Dice](https://open.spotify.com/artist/3WidLZ58DQjM525pYif1VW), [Sebastian Hansson](https://open.spotify.com/artist/54UEo4InT0mMpgLJj18mG7) | [Let You Go](https://open.spotify.com/album/0oJfPAysgFF0KUKs3aZzBB) | 4:08 | 2024-11-24 |  |
 | [Let You Go](https://open.spotify.com/track/0hcu80huViWXXgblBH9STD) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Let You Go](https://open.spotify.com/album/1T23jgHKLzraqMGiIa5c4L) | 4:41 | 2022-08-14 |  |

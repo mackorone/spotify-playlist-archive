@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-785 songs - 2 day 3 hr 54 min
+788 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [memories \- from CrosSing](https://open.spotify.com/track/0vD9j6PakpVJPluXl5Lqow) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [memories \- from CrosSing](https://open.spotify.com/album/1fj0u0jghJul6YZNoKbSgE) | 4:23 | 2024-01-30 | 2024-02-01 |
 | [Memories \- From CrosSing](https://open.spotify.com/track/0xnJ9seuo8polxcsURVsYd) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [Memories \- From CrosSing](https://open.spotify.com/album/7alk8DcgMSlaETvPZSZ9UE) | 4:23 | 2024-01-30 | 2024-02-09 |
 | [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 | 2024-09-12 | 2025-02-12 |
-| [Minty Smile](https://open.spotify.com/track/0BAFEOhuPzxbpKn8SyFyV3) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Re:birthday](https://open.spotify.com/album/2cdWnUtFHzIqsmwqTfHHUf) | 5:01 | 2025-07-22 |  |
+| [Minty Smile](https://open.spotify.com/track/0BAFEOhuPzxbpKn8SyFyV3) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Re:birthday](https://open.spotify.com/album/2cdWnUtFHzIqsmwqTfHHUf) | 5:01 | 2025-07-22 | 2025-09-10 |
 | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D) | 4:18 | 2023-11-16 | 2023-12-20 |
 | [Moonlight Magic](https://open.spotify.com/track/71OPYknlGaRHqKrgIrLLwt) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 4:09 | 2022-06-09 | 2022-07-25 |
 | [MOONWORK](https://open.spotify.com/track/3TDHoVJgHjsU9Ky2v1cZ07) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [MOONWORK](https://open.spotify.com/album/2NK3lfUUWC0oB8omR53KxM) | 4:44 | 2025-06-03 | 2025-07-19 |
@@ -459,6 +459,7 @@
 | [はなれない距離](https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [はなれない距離](https://open.spotify.com/album/0kA9ILc9xJDnoJl3HXiRnH) | 3:41 | 2022-06-09 | 2022-07-24 |
 | [ひかり、ひかり](https://open.spotify.com/track/77di5Jekbdai0aPybpcDOU) | [相坂優歌](https://open.spotify.com/artist/3s96N2VlNLmsyVyDoG8vyS) | [屋上の真ん中 で君の心は青く香るまま](https://open.spotify.com/album/2IYqL8Oei8sUMUFhHAuULL) | 3:36 | 2022-06-12 | 2022-07-10 |
 | [ひかりのディスコ](https://open.spotify.com/track/02lbewNkGqHLr06Irt4wvW) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ひかりのディスコ](https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI) | 5:24 | 2022-06-24 | 2022-06-28 |
+| [ひとえに壊れて](https://open.spotify.com/track/0e8SZnCimK0ESALP61L3Dc) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [ひとえに壊れて](https://open.spotify.com/album/0S8w6MVn1fdFCuowqBUrar) | 3:48 | 2025-09-09 |  |
 | [ひとりじゃないから](https://open.spotify.com/track/1gqPfUzCXKQ4SaMYcRPK8G) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [ひとりじゃないから](https://open.spotify.com/album/1Rf7oYP5gF5iXSTFk5WsaE) | 4:55 | 2022-07-07 | 2022-07-29 |
 | [ひとりじゃないよ](https://open.spotify.com/track/2P95rrQ5wUiU7uvv1vPZU6) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [ひとりじゃないよ](https://open.spotify.com/album/7hXNUkElCgqvqCaSayR459) | 4:10 | 2023-10-17 | 2023-11-18 |
 | [ひろがるスカイ!プリキュア \~Hero Girls\~](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 | 2023-05-14 | 2023-06-09 |
@@ -575,7 +576,7 @@
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 | 2025-03-12 |
 | [ブルースター](https://open.spotify.com/track/63Inh89k5OmQRLaQlMdDgw) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [ブルースター](https://open.spotify.com/album/7dm61RWHQFUhP1Lyqv8Bul) | 3:54 | 2024-03-26 | 2024-04-17 |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |
-| [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2025-08-21 |  |
+| [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2025-08-21 | 2025-09-10 |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2022-06-24 | 2022-06-29 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |
 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 | 2025-07-22 |  |
@@ -634,7 +635,7 @@
 | [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/2wN2axCnXxq2QuVzySGCb5) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 | 2024-01-23 | 2024-02-14 |
 | [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 | 2024-01-25 |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-09 | 2025-01-31 |
-| [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 | 2025-05-01 |  |
+| [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 | 2025-05-01 | 2025-09-10 |
 | [夜明けのバス停](https://open.spotify.com/track/155LBRYos91aUEQ4cR1Xfd) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [文学少女の歌集Ⅲ\-文学少女と夜明けのバス停\-](https://open.spotify.com/album/47889iRswOSEolfMkkxYUg) | 3:35 | 2024-07-03 | 2024-07-10 |
 | [夜空](https://open.spotify.com/track/7q1QFyrWDoUsTUq9NZV7XL) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [2nd アルバム 上ミノ](https://open.spotify.com/album/7pcXlp17zWFKLfsgc791fO) | 4:35 | 2022-06-24 | 2022-07-21 |
 | [夢が僕らの太陽さ](https://open.spotify.com/track/56T729MtBKjclAQx3rOeBK) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:26 | 2022-06-14 | 2022-07-09 |
@@ -686,6 +687,7 @@
 | [旅の途中](https://open.spotify.com/track/1M9G7rtS145mE3KLwErInn) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [十九色](https://open.spotify.com/album/7MuoD3uNuZGStZn3S9Iljv) | 4:53 | 2022-06-14 | 2022-07-03 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 | 2024-02-14 |
 | [明弦音](https://open.spotify.com/track/1enc7tpwG5F49UFgov1vwJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 4:03 | 2024-12-17 | 2025-01-31 |
+| [明日へ](https://open.spotify.com/track/4W6VTQH1FgRQocygQNG2vi) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [明日へ](https://open.spotify.com/album/0KlcTrk33GcoNoxGBNezTD) | 4:19 | 2025-09-09 |  |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-02 | 2024-02-14 |
 | [春日影 \(MyGO!!!!! ver.\)](https://open.spotify.com/track/2GC2OsWhRm9ltfxWBKuHhE) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/00NGDnA59dl4yGhGBn4gnx) | 4:16 | 2025-01-30 | 2025-05-13 |
 | [春紛い](https://open.spotify.com/track/64YVoI1cPawlsjmnSXgxAH) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Ayuni D](https://open.spotify.com/artist/73IyP7qAS0gk2yz1D25nzh), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [春紛い](https://open.spotify.com/album/3KMRnceSDKE2YTO92fCq8b) | 3:12 | 2024-04-16 | 2024-07-03 |
@@ -725,6 +727,7 @@
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2022-06-09 | 2023-01-11 |
 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 | 2024-04-23 | 2024-07-27 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-04 |
+| [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 | 2025-09-09 |  |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
 | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/track/6r6rI9OtzyCMTGa15gobsy) | [藤田咲](https://open.spotify.com/artist/0Su3XhLar720uSpX1mGSBD) | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/album/4tvOivGCX5TQcZWZJyM1hl) | 4:21 | 2025-01-21 | 2025-01-31 |
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-30 |  |

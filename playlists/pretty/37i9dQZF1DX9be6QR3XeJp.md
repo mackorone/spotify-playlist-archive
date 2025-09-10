@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Demae
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,963 likes - 251 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,951 likes - 251 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

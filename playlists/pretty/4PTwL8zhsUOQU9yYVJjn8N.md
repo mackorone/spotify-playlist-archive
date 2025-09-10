@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > YAYAY 303 SAVESSS
 
-[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 326 likes - 188 songs - 6 hr 11 min
+[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 326 likes - 189 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,5 +196,6 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 186 | [smile of urs](https://open.spotify.com/track/0R7JCPm0YatKBn4zfoxmNC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 3:06 |
 | 187 | [bumpin' tails](https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:31 |
 | 188 | [w](https://open.spotify.com/track/6qZglgzWHfGbyXODLz2x8l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 1:34 |
+| 189 | [BOARD GAME](https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [BOARD GAME](https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7) | 1:57 |
 
-Snapshot ID: `AAAAidywZPnVTfIIJb9B3PXjHcZ2IYio`
+Snapshot ID: `AAAAioYoG1Q1sL3ncewS7sxsBkl+k0Aw`

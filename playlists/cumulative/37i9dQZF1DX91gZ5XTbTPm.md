@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Veeze
 
-1,337 songs - 2 day 13 hr 9 min
+1,338 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,7 +836,7 @@
 | [Onnat Biz](https://open.spotify.com/track/1FEdqLSnstw0OSGjvrjy4q) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Onnat Biz](https://open.spotify.com/album/7akwVNiCbePQQgvLdFShGK) | 2:09 | 2025-08-22 |  |
 | [Oowop Guwop](https://open.spotify.com/track/4iqFJdgfIWXAq6F6BocYz4) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Oowop Guwop](https://open.spotify.com/album/1VfRutyYv8Y25TmcfeUP9i) | 1:41 | 2025-07-25 |  |
 | [Opera](https://open.spotify.com/track/7vClKaQbBBJAmkuw3bkx3x) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [FREE ANDY III](https://open.spotify.com/album/4VpECJnw47G8Un9QDTx2Tx) | 2:10 | 2025-04-25 | 2025-07-26 |
-| [Opiate](https://open.spotify.com/track/2vIxd21sesIFNmCR86rFtm) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/3yIoR95GUrZRdQr4HujvaF) | 2:56 | 2025-08-22 |  |
+| [Opiate](https://open.spotify.com/track/2vIxd21sesIFNmCR86rFtm) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/3yIoR95GUrZRdQr4HujvaF) | 2:56 | 2025-08-22 | 2025-09-10 |
 | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/4neQVPkami7MzzLoOHIA6c) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [OH REALLY](https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W) | 3:36 | 2022-02-11 | 2022-06-18 |
 | [Opportunist](https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Opportunist](https://open.spotify.com/album/6DfPfun9gjXfKQfPTe6i5P) | 2:36 | 2024-10-18 | 2025-03-29 |
 | [Opps Block](https://open.spotify.com/track/7yDzPmFZ356mCmahvNZXHD) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Opps Block](https://open.spotify.com/album/5tto8sTQ3BiRHE80AbAW8T) | 1:54 | 2022-04-01 | 2022-04-05 |
@@ -1258,6 +1258,7 @@
 | [Vanish Mode](https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:03 | 2025-03-28 | 2025-07-12 |
 | [Vanish Mode](https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 1:57 | 2022-11-11 | 2023-02-18 |
 | [VENUS](https://open.spotify.com/track/2uozsmBhvnNaRIFNgOB0E0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VENUS](https://open.spotify.com/album/47A08e2HHoLNPnC80nxTae) | 3:16 | 2024-08-23 | 2024-08-27 |
+| [Vibes](https://open.spotify.com/track/6vQehAvj6jRrdxNRtJfM3b) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Vibes](https://open.spotify.com/album/2rkKDsxQdt0A9qvK5OlLwx) | 2:21 | 2025-09-09 |  |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-04-04 | 2022-10-15 |
 | [WAIT A MINUTE](https://open.spotify.com/track/4MoYy077MFhf3q2RsBOhcN) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [WAIT A MINUTE](https://open.spotify.com/album/0KfYCcMAGKb0TiQULOnOS8) | 2:15 | 2022-02-11 | 2022-03-26 |
 | [walk em down](https://open.spotify.com/track/0lWT3Gp2l0qcpqc8R1RpmF) | [k3](https://open.spotify.com/artist/6FhM9cnSGHVmJ7qNLJndMx), [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC) | [walk em down](https://open.spotify.com/album/5deSIdVfrHTB3FMlGETH7c) | 2:48 | 2025-02-12 | 2025-04-12 |

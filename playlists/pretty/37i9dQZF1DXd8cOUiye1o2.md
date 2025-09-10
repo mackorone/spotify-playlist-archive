@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > High voltage nostalgia ahead! ‘Bijuria’ from ‘Sunny Sanskari Ki Tulsi Kumari’ is out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,668 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,968 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 74 | [Baadal](https://open.spotify.com/track/3tVyOXUe5o1IHBJVcZpfr6) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baadal](https://open.spotify.com/album/6FFYCsPEg7DSD0zNEknVmC) | 2:55 |
 | 75 | [Bade Din Huye \(From "Love In Vietnam"\)](https://open.spotify.com/track/1S3MoKHNaCtCnuh1dQygMn) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bade Din Huye \(From "Love In Vietnam"\)](https://open.spotify.com/album/4mqnUxPyfxKxKM7Gb8GmqK) | 5:53 |
 
-Snapshot ID: `AAAAAEfzOJtssaj7oliN19Ue1GFW9LxI`
+Snapshot ID: `AAAAAO9vxZF+kbg30OrAN8xErFXdv6iW`

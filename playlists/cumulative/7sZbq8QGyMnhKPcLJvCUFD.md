@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-757 songs - 1 day 14 hr 3 min
+758 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 | 2024-01-16 | 2024-08-28 |
 | [Love You \(Anyway\)](https://open.spotify.com/track/1IW2vOjLuuydvReY90arGE) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Love You \(Anyway\)](https://open.spotify.com/album/2lg5LxHMW3lRS81RFDYzNh) | 2:33 | 2024-07-19 |  |
 | [lover online](https://open.spotify.com/track/2aY8NZFKKsixbUWuYMDKqC) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [lover online](https://open.spotify.com/album/4ONhyG8weWEGcbqSGuAsel) | 1:37 | 2025-05-22 |  |
+| [lucy](https://open.spotify.com/track/2l2SwNMa5iKuCUa5909YNY) | [criticaleye](https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr), [EVILDXER](https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH) | [lucy](https://open.spotify.com/album/2a5ltRkgmcm8pRKAz0QYU4) | 3:03 | 2025-09-09 |  |
 | [Made For The Game](https://open.spotify.com/track/4M6Qer7eszDU3cwpYSXA2C) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jessee](https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Made For The Game](https://open.spotify.com/album/00YuUtVX0wMgJsxGlwEIXi) | 2:59 | 2025-04-25 |  |
 | [Magnetic](https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw) | [springs!](https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn) | [Magnetic](https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE) | 2:03 | 2024-10-08 |  |
 | [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2023-08-08 | 2024-02-21 |

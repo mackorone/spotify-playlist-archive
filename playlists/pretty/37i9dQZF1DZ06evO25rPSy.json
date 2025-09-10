@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 24866,
+  "num_followers": 24869,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLzLAAAAAACmUXIs1T2MNO3CqhzAVV4V",
+  "snapshot_id": "aL4cgAAAAAB6eT0puOlbDRsBSPzXbO8P",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        },
+        {
+          "name": "Juan Diego Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT"
+        }
+      ],
+      "duration_ms": 290853,
+      "name": "Nadia",
+      "url": "https://open.spotify.com/track/4xYudpej4u6zZ7p797iICc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -512,25 +532,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 290626,
-      "name": "Nadia (feat. Juan Diego Florez)",
-      "url": "https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 256413,
-      "name": "T\u00fanel del Tiempo",
-      "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
+      "duration_ms": 283440,
+      "name": "Ponerme a volar",
+      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
     },
     {
       "added_at": null,
@@ -567,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 283440,
-      "name": "Ponerme a volar",
-      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas (Uncut)",
         "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
@@ -592,9 +580,25 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 317933,
-      "name": "Maril\u00f3",
-      "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
+      "duration_ms": 256413,
+      "name": "T\u00fanel del Tiempo",
+      "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -631,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Maril\u00f3",
+      "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -640,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,
@@ -688,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 236186,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
     },
     {
       "added_at": null,
@@ -720,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Amazonas",
-      "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
+      "duration_ms": 215640,
+      "name": "Estoy cansado de llorar",
+      "url": "https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn"
     },
     {
       "added_at": null,
@@ -739,22 +759,6 @@
       "duration_ms": 193186,
       "name": "Hoy Me Llenar\u00e9 de Valor (Tema de Tereso)",
       "url": "https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Estoy cansado de llorar",
-      "url": "https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

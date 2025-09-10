@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 吳汶芳 \(Fang Wu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,602 likes - 129 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,612 likes - 129 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 43 | [Colourbration](https://open.spotify.com/track/6rOtcm4d8TjbZf66CLwLtt) | [Straw 林水草](https://open.spotify.com/artist/4J9NMdvmSkuuD8ZgoBcTdv) | [Colourbration](https://open.spotify.com/album/3VYoCAmw16y857qOukiITb) | 3:01 |
 | 44 | [開學歌](https://open.spotify.com/track/3ElxfqRecyEr1fG6GrVGtb) | [晉萱總部 JSHQ](https://open.spotify.com/artist/1xfCWLNzQn9rFSZyzdXC3b) | [開學歌](https://open.spotify.com/album/2Xa6fgJgmFZRVgNlBQkmTm) | 3:08 |
 | 45 | [《右先生》Mr Right](https://open.spotify.com/track/6RtE4MSOGZgMyZFMjWrb47) | [Sheron Tan](https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph), [黄湘淋](https://open.spotify.com/artist/4aHnpdagCMoZKf8XgRxG5t) | [《右先生》Mr Right](https://open.spotify.com/album/6f0N4CejAj2OtC8oAoXLVf) | 3:59 |
-| 46 | [Love or Not \(Prod\. OUBA MUSIC\) \[Inst.\]](https://open.spotify.com/track/7CWl2KBAmfUh1gcGRGQDli) | [연보라](https://open.spotify.com/artist/5tqQnI5RJFm7gfTAxMuY5y) | [Love or Not \(Prod\. OUBA MUSIC\) \[Inst.\]](https://open.spotify.com/album/08E4KPGRSVe8nkEct1cF4M) | 2:53 |
+| 46 | [Love or Not \(Prod\. OUBA MUSIC\)](https://open.spotify.com/track/7CWl2KBAmfUh1gcGRGQDli) | [연보라](https://open.spotify.com/artist/5tqQnI5RJFm7gfTAxMuY5y) | [Love or Not \(Prod\. OUBA MUSIC\)](https://open.spotify.com/album/08E4KPGRSVe8nkEct1cF4M) | 2:53 |
 | 47 | [Forgive Me](https://open.spotify.com/track/7CgRk24wIh4HQu463dP6tb) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [Forgive Me](https://open.spotify.com/album/4cKWyfBhPO84yu1twZjgrp) | 2:34 |
 | 48 | [地熱](https://open.spotify.com/track/7lhelUf7ZohO1RSVkHiybW) | [YN2](https://open.spotify.com/artist/0p1YyG3TemkwfQO6OpB4KV), [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9), [SOWUT](https://open.spotify.com/artist/7moEUZ6Zu2o5F8XQxQphRn) | [地熱](https://open.spotify.com/album/6eWzyAIcOky87iowiVqun3) | 2:08 |
 | 49 | [Used To](https://open.spotify.com/track/3ppZXxT9ICn1qq69873y50) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Used To](https://open.spotify.com/album/6hXJpOaGyo7v2JDLGrjRgV) | 2:53 |

@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Bad Bitches Luisteren Def",
+        "url": "https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95728,
+      "name": "Bad Bitches Luisteren Def",
+      "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
+    },
+    {
+      "album": {
         "name": "Beetje Van Mij",
         "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
       },
@@ -188,6 +206,28 @@
       "duration_ms": 139737,
       "name": "Blauwe Maandag",
       "url": "https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF"
+    },
+    {
+      "album": {
+        "name": "Boccaccio",
+        "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "Boccaccio",
+      "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
     },
     {
       "album": {
@@ -282,7 +322,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 131279,
       "name": "Bro Code",
       "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
@@ -714,7 +754,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 144661,
       "name": "Haver Cappu (feat. Milolaathetlukken & ADF Samski)",
       "url": "https://open.spotify.com/track/645mR9ln7ISijLQJDq1a3M"

@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,275 songs - 12 day 7 hr 2 min
+5,277 songs - 12 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Addington Square](https://open.spotify.com/track/6un5oUXBz9cblPadYgu2TS) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [Addington Square](https://open.spotify.com/album/6Rmnk0wps1l5AD5iX6VdrD) | 3:20 | 2023-05-14 | 2023-06-02 |
 | [ADEWALE: The Crown Came Home](https://open.spotify.com/track/6504LGDygo8qrkbrbDPY66) | [Rari Lu](https://open.spotify.com/artist/2lNMZGfSuiBzqSvNJTSTd3), [Sim C](https://open.spotify.com/artist/188EDLQnjQB8XGywRcrnez) | [JADESOLA: Come Out Into Wealth](https://open.spotify.com/album/3lla6EKrocSzgJWqRKAHwY) | 3:15 | 2024-12-19 | 2024-12-31 |
 | [affection](https://open.spotify.com/track/0tNCYxUnH8bc9YElueyNAm) | [rl](https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw), [Asect](https://open.spotify.com/artist/0WaibLALSTpeNZCn9hpxtf) | [lost](https://open.spotify.com/album/4MHnQLnoBjnCaQRLGL6cyD) | 3:22 | 2024-08-07 | 2024-08-19 |
+| [Affillele](https://open.spotify.com/track/5HsX6VMVdg1tsNGPcZ4uiC) | [MUZIG](https://open.spotify.com/artist/2jwPteq80dFbeimmms4H8F) | [Affillele](https://open.spotify.com/album/7LrXjIOnUu5ldW3ENMgieu) | 3:16 | 2025-09-09 |  |
 | [Affinity](https://open.spotify.com/track/6qPe8aLtxdGH3xfTJBh0sl) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Affinity](https://open.spotify.com/album/4y4bBrQWEhqVgXWwbmKgA7) | 3:12 | 2022-11-02 | 2022-11-21 |
 | [Afraid Of Love](https://open.spotify.com/track/3bAw3BSH1bEiQkKDI7PrMe) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Afraid Of Love](https://open.spotify.com/album/6SUkomHCMylDL1QnhWfHxq) | 2:50 | 2024-03-12 | 2024-10-23 |
 | [After All \- Radio Edit](https://open.spotify.com/track/3o3dy08AQwxYuEKfoY6TQ3) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV), [Roni Tran](https://open.spotify.com/artist/0tefsWejwv0Z61sfWzlUe6) | [After All](https://open.spotify.com/album/2QrelLyiYbgwOY1tuH9c17) | 3:34 | 2021-03-19 | 2021-04-04 |
@@ -1882,6 +1883,7 @@
 | [GRAVITY](https://open.spotify.com/track/6pNAPYUhgW37LkhERB5sN5) | [DJ Waffles](https://open.spotify.com/artist/0gTSg7t0kA2d7pUV9shk5F), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Matthew Joseph](https://open.spotify.com/artist/5PxSj1MNCMFn6alZjrvV3V) | [GRAVITY](https://open.spotify.com/album/4DLqCX2S3txfXDN0R4CbPm) | 4:13 | 2023-04-14 | 2023-05-06 |
 | [GRAVITY](https://open.spotify.com/track/1goy8Z0Za78DkdunULD1L3) | [Syren's Belle](https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a) | [P<$$$Y & PURRRFUME \(Transcended Edition\)](https://open.spotify.com/album/0mkUKy9VEHF22qeDq1Krdp) | 4:08 | 2024-04-26 | 2024-05-22 |
 | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 | 2021-02-02 | 2021-03-09 |
+| [Gravity/Infinity](https://open.spotify.com/track/4qIRItcp9IlYEfE9jfJjZk) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Gravity/Infinity](https://open.spotify.com/album/1fH955IUJmkYpC3yJdYEkJ) | 3:02 | 2025-09-09 |  |
 | [Greater Things](https://open.spotify.com/track/0T41wbSczxDsYwFXVSu2zR) | [Albert Rosen](https://open.spotify.com/artist/60fotBvjBjjhZSgwHlfxZ4), [Josephine Rued](https://open.spotify.com/artist/4vlCMKLAD0iLlDhT90qWtD) | [Greater Things](https://open.spotify.com/album/2mUsqMT2P5fF6IB7kIvrg5) | 3:05 | 2024-04-27 | 2024-05-09 |
 | [Greedy for Your Eyes](https://open.spotify.com/track/0DxoriINemcdAY2g0z2cH8) | [Tara Formosa](https://open.spotify.com/artist/3zh3k0gdPUh1iJ7Q0UqtUx) | [Confessional](https://open.spotify.com/album/6NiildnXauuZ4zYhTgEav6) | 2:50 | 2025-04-30 | 2025-05-12 |
 | [Green Bikini](https://open.spotify.com/track/4oMJ9iH6mLXqOLBrF2grqO) | [Niecesandnephews](https://open.spotify.com/artist/7fWMgDDxLKBDvlmYBpiDSZ) | [Green Bikini](https://open.spotify.com/album/5zrdtaZeMCzsZUsfv2nEnW) | 4:21 | 2024-03-09 | 2024-03-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/p/DOJdzu7Dits/?igsh=NTc4MTIwNjQ2YQ==">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,776 likes - 160 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,530 likes - 160 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 159 | [97 Jag](https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:49 |
 | 160 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
 
-Snapshot ID: `AAAAAJHfhjqNjCGduQ8ANMxiG8AqiC+N`
+Snapshot ID: `AAAAAKJHyAnUcDQn6wn8hOphnYEi+tdR`

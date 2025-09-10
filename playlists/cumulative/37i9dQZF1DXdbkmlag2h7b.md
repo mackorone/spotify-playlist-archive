@@ -4,13 +4,13 @@
 
 > Drift away with enthralling instrumentals.
 
-295 songs - 15 hr 16 min
+298 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [432hz Rays of Life](https://open.spotify.com/track/2cGbys5Hw56TAWWIHg5Ynk) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 4:18 | 2021-12-09 | 2022-07-29 |
 | [6 Figures](https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [6 Figures](https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW) | 3:05 | 2025-06-03 |  |
-| [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-26 |  |
+| [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-26 | 2025-09-10 |
 | [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 | 2024-07-12 | 2025-03-06 |
 | [A Higher Presence](https://open.spotify.com/track/5ZQ2hn58jULkkRLCbEH0ZY) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 2:15 | 2021-12-09 | 2022-07-29 |
 | [a light that never goes out](https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [flora](https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo) | 2:37 | 2025-07-09 |  |
@@ -52,7 +52,7 @@
 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 | 2024-03-07 | 2025-03-10 |
 | [Biochronology](https://open.spotify.com/track/2pnRMiWB04QS4737ZQrpY6) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Biochronology](https://open.spotify.com/album/1RkzLanW9bqfB3RIHgB1Gl) | 3:08 | 2025-03-05 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2021-12-09 | 2024-02-18 |
-| [Blissful](https://open.spotify.com/track/4GvBEsgZmbbLZlEliKOhRi) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Blissful](https://open.spotify.com/album/6GbYWulzEnDA0pVKHsLZyD) | 3:47 | 2025-06-03 |  |
+| [Blissful](https://open.spotify.com/track/4GvBEsgZmbbLZlEliKOhRi) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Blissful](https://open.spotify.com/album/6GbYWulzEnDA0pVKHsLZyD) | 3:47 | 2025-06-03 | 2025-09-10 |
 | [Blooming Daze](https://open.spotify.com/track/2IK0o41yNFBaBvO4dRGEP9) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Blooming Daze](https://open.spotify.com/album/6O8NndYqdd8GgQWIs8A0Xa) | 3:32 | 2025-03-05 |  |
 | [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 | 2022-12-09 | 2024-03-01 |
 | [Bother To Care](https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Bother To Care](https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo) | 3:10 | 2025-03-05 |  |
@@ -60,6 +60,7 @@
 | [Burgeon](https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Burgeon](https://open.spotify.com/album/63OxZ1kqFKqftIwuwKTAEl) | 2:48 | 2024-01-31 | 2024-07-20 |
 | [By The Pond](https://open.spotify.com/track/4ZJzL8tq3rNVRpf4IZOMrb) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [By The Pond](https://open.spotify.com/album/4d9iknIMa3nWwdnZjLMyrB) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Calm Retreat](https://open.spotify.com/track/0b0xU3Qgi88KHTduT89d6N) | [Diphthong](https://open.spotify.com/artist/6rFQdN2p2yfZ9rk88nKYTY) | [Calm Retreat](https://open.spotify.com/album/6quDXt0rHWUURagbWIKIAK) | 2:56 | 2025-06-03 |  |
+| [Calmide](https://open.spotify.com/track/0eeunnn5H9Z5ftKNRYL0MP) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Calmide](https://open.spotify.com/album/695DmgQgDDaajkKYULps0e) | 3:13 | 2025-09-09 |  |
 | [Carousel](https://open.spotify.com/track/4dUdnalJalKkzu2fKDM3NF) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 2:50 | 2021-12-09 | 2022-06-26 |
 | [Celestial](https://open.spotify.com/track/1FPjiDSqB5qYzLy77eQqMU) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Celestial](https://open.spotify.com/album/42vrYOv2bbFPQp9pku4loa) | 2:51 | 2025-04-01 |  |
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2021-12-09 | 2025-01-15 |
@@ -100,6 +101,7 @@
 | [Eventide](https://open.spotify.com/track/5zCFuB2hlS85wzZGpdbM8H) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0urqmPjvhqU7BqEDZ0C0Hs) | 4:31 | 2022-07-22 | 2022-12-01 |
 | [Eventide](https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG) | 4:31 | 2022-12-02 | 2024-02-03 |
 | [Eventide](https://open.spotify.com/track/7v2yfaJ1RcMIW6zI2bjJW3) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0bXWZEmeWEIVGQZ420Jn8R) | 4:31 | 2021-12-09 | 2022-07-29 |
+| [Everchange](https://open.spotify.com/track/15zFGTCgTVoNGLKsTOZKoL) | [Icarus Lost](https://open.spotify.com/artist/3Qa3b4M89t9VWBDXfiS8Gb) | [Everchange](https://open.spotify.com/album/3kRxsNJ7yYorRXvNlufWvA) | 2:14 | 2025-09-09 |  |
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2021-12-09 | 2023-10-06 |
 | [Faded Years](https://open.spotify.com/track/6gZexfxBmAqMiQ4KJOxHvD) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Faded Years](https://open.spotify.com/album/1mpt0f45e3ln9qazTfubfz) | 2:50 | 2025-03-05 |  |
 | [Fading Flower](https://open.spotify.com/track/6Le5BN8jcZCjbgWnJ8eieA) | [Peaceful Island](https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh) | [Fading Flower](https://open.spotify.com/album/2ujwedv4Md5KK7jsADjRnq) | 2:22 | 2025-01-28 | 2025-08-04 |
@@ -175,6 +177,7 @@
 | [Minism](https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/5lZVMWi7YF0XBeRqDlRojo) | 3:47 | 2021-12-09 | 2023-04-06 |
 | [Minism](https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU) | 3:47 | 2023-05-05 | 2024-04-19 |
 | [Moment Beyond Time](https://open.spotify.com/track/7HuJuKCIqFkELXzSWlqaXw) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Moment Beyond Time](https://open.spotify.com/album/6ygD85IX4tNe6vjqk3U5Kw) | 2:57 | 2025-01-28 | 2025-03-06 |
+| [Moon Wake](https://open.spotify.com/track/0MDmycrY0Lxs4CUwRTbjT8) | [IRYS BLÜM](https://open.spotify.com/artist/0xTRcF2DC50DxYq2BoPqOp) | [LUNA](https://open.spotify.com/album/3GmFvfQd4M0ogUYLY5BFjJ) | 2:55 | 2025-09-09 |  |
 | [Moonlit Breaths](https://open.spotify.com/track/6sfWfIhAsEEEPuJHnQrea0) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Moonlit Breaths](https://open.spotify.com/album/1xlcbS5hmEjprGUqZ1gDBS) | 3:05 | 2025-03-05 |  |
 | [Morgongåva](https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:46 | 2023-02-25 | 2025-04-18 |
 | [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 | 2023-06-02 | 2024-04-27 |
@@ -297,7 +300,7 @@
 | [Willow](https://open.spotify.com/track/6qPbMb9YrB4gYwzvHnbndK) | [Weep Year](https://open.spotify.com/artist/2dY44RNmNsg8vrWHiP7PPq) | [Willow](https://open.spotify.com/album/7dt3AXpHUjGmYpBrbCPVVj) | 3:06 | 2025-06-03 |  |
 | [Winter Night Mist](https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Winter Night Mist](https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s) | 3:13 | 2022-12-20 | 2024-02-26 |
 | [Within Light](https://open.spotify.com/track/10UgsXGEFjEMAOYDGmxvZM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Within Light](https://open.spotify.com/album/0llAwfdqzKLSPQlSpeHCEC) | 2:40 | 2025-03-05 |  |
-| [Within Us, Without Us](https://open.spotify.com/track/5i6xT5TruUCIIzYElcX4w7) | [Izzi Dunn](https://open.spotify.com/artist/3UZ6XGvkHtSbiVRfRF7eqz) | [The Hours After Midnight](https://open.spotify.com/album/4f6kFgxxnpt6UHzF6SZDHA) | 3:24 | 2025-06-03 |  |
+| [Within Us, Without Us](https://open.spotify.com/track/5i6xT5TruUCIIzYElcX4w7) | [Izzi Dunn](https://open.spotify.com/artist/3UZ6XGvkHtSbiVRfRF7eqz) | [The Hours After Midnight](https://open.spotify.com/album/4f6kFgxxnpt6UHzF6SZDHA) | 3:24 | 2025-06-03 | 2025-09-10 |
 | [Would I Bother](https://open.spotify.com/track/52k9R9dNiac9kik66wod1g) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Would I Bother](https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2) | 2:40 | 2021-12-09 | 2025-03-06 |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 | 2025-03-15 |
 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 | 2022-11-17 | 2025-07-13 |

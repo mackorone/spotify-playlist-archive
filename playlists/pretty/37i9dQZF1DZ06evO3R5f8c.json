@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 179038,
+  "num_followers": 179136,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLzLAAAAAAC8eEMPO5ZO4oobKDP2gJ61",
+  "snapshot_id": "aL4cgAAAAADG8KkiMVUrNXS7HJpcCzIL",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "duration_ms": 478310,
+      "name": "We Are One - Black Coffee Original Dub",
+      "url": "https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 490540,
       "name": "Love On Fire (feat. Lungi Naidoo & Ribatone)",
       "url": "https://open.spotify.com/track/2Yy3BzdOdn9uqMpeVePtL1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Are One",
-        "url": "https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
-        }
-      ],
-      "duration_ms": 478310,
-      "name": "We Are One - Black Coffee Original Dub",
-      "url": "https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U"
     },
     {
       "added_at": null,

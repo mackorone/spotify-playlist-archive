@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,327 songs - 3 day 9 hr 9 min
+1,328 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Ec/Ipse](https://open.spotify.com/track/6xCLgbXmprUUysjJ8hRwOl) | [A Foreign Affair](https://open.spotify.com/artist/4NOuZCUwNl6YQdacAxI12k), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Ec/Ipse](https://open.spotify.com/album/31fxEimj9Fkz4Yh4izeAZ1) | 3:27 | 2025-05-09 | 2025-08-02 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-12-17 | 2022-07-23 |
 | [Echo Sonata](https://open.spotify.com/track/4yOc2McIhLZBZ1hHgASxHl) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Echo Sonata](https://open.spotify.com/album/7y9cbRKISAjs0Rdgnh4EoU) | 4:28 | 2025-07-18 |  |
-| [Echoes](https://open.spotify.com/track/3ziTknZahiwT3RTAlwN5a1) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 3:17 | 2024-10-18 | 2025-09-06 |
+| [Echoes](https://open.spotify.com/track/3ziTknZahiwT3RTAlwN5a1) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 3:17 | 2024-10-18 |  |
 | [Echoes](https://open.spotify.com/track/56x8vgcLcbsnfVTcxuNCK7) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Echoes](https://open.spotify.com/album/1PGYKp7eI6CflkDMpc8Gse) | 3:24 | 2024-10-18 | 2024-11-23 |
 | [Echoes of War](https://open.spotify.com/track/1JjdZ1ajBGvwAEsl5Nzj9Z) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Echoes Of War](https://open.spotify.com/album/5nfUn569lakwsSD7n4a6d0) | 3:58 | 2025-01-17 | 2025-02-01 |
 | [Echoes of War](https://open.spotify.com/track/2rPZK6eDDi1coX1yeluYEX) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Tragedy of The Commons](https://open.spotify.com/album/5N2Asaw4Vv1TGCOuUYO8s4) | 3:58 | 2025-01-31 | 2025-04-27 |
@@ -569,6 +569,7 @@
 | [Heritage](https://open.spotify.com/track/3xe8iwcUdR0joiuHaG4fap) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Heritage](https://open.spotify.com/album/1KPoWP9JGpfSR6a14L7VML) | 3:05 | 2022-04-15 | 2022-05-28 |
 | [HIDE FROM THE LIGHT](https://open.spotify.com/track/2dFuqBk3nECBZMgq8a7vF7) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/3VNtgL7gm3PC5nYbDy58yI) | 2:57 | 2025-05-09 | 2025-05-24 |
 | [Hideous](https://open.spotify.com/track/5tqhz6V5vVrEitYkTGqAGa) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Hideous](https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG) | 4:14 | 2022-07-13 | 2022-07-23 |
+| [Hiding In Plain Sight](https://open.spotify.com/track/3EIBXSn6RpBdtyvb6G7UPw) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Hiding In Plain Sight](https://open.spotify.com/album/3WXl0Tv7jMZBhRSJLWEqxI) | 4:00 | 2025-09-05 |  |
 | [Hip To Be Scared](https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Shower Scene Playlist](https://open.spotify.com/album/273LyHQV9St48MzqO73UkX) | 3:25 | 2022-10-14 | 2023-04-01 |
 | [Hivemind](https://open.spotify.com/track/7lRciDLcZY0MKaMyakkvu0) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Hivemind](https://open.spotify.com/album/22ZNSrE7hmUqmoXtR4uhIl) | 4:07 | 2023-02-17 | 2024-03-02 |
 | [HIVEMIND](https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [HIVEMIND](https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e) | 3:12 | 2024-02-23 | 2024-07-21 |
@@ -861,7 +862,7 @@
 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-09-16 | 2022-12-17 |
 | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 | 2022-09-30 | 2022-12-17 |
 | [Pain Remains III: In a Sea of Fire](https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 9:12 | 2022-10-28 | 2022-12-17 |
-| [Palace Of Dread](https://open.spotify.com/track/28qVrI7GRtl3ljXt25DRnw) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Palace Of Dread](https://open.spotify.com/album/7wy4FlaT1ZxX8lp6KBWDM7) | 3:36 | 2025-05-30 |  |
+| [Palace Of Dread](https://open.spotify.com/track/28qVrI7GRtl3ljXt25DRnw) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Palace Of Dread](https://open.spotify.com/album/7wy4FlaT1ZxX8lp6KBWDM7) | 3:36 | 2025-05-30 | 2025-09-10 |
 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 | 2023-08-18 | 2024-02-10 |
 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 | 2025-04-25 |  |
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |
@@ -1192,7 +1193,7 @@
 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 | 2024-02-23 | 2024-04-13 |
 | [To The Grave](https://open.spotify.com/track/67GONGzUfUcWyr1pu8QjSF) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [To The Grave](https://open.spotify.com/album/5PL8XHRC49Do7mmLisGNUJ) | 4:07 | 2024-04-12 | 2024-07-13 |
 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-06-04 |  |
-| [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 | 2025-03-14 |  |
+| [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 | 2025-03-14 | 2025-09-10 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-12-20 | 2025-01-18 |
 | [Total Protonic Reversal](https://open.spotify.com/track/69lvjewaJxRQloAi5j7hma) | [Killitorous](https://open.spotify.com/artist/0aiK7nPFPKzrpv3R3pWOIw) | [Total Protonic Reversal](https://open.spotify.com/album/5Jf0ykUIAgOPZpSWTzCfOT) | 3:50 | 2022-07-13 | 2022-07-20 |
 | [tourniquet.](https://open.spotify.com/track/5iDoUNLLzsm2449t3kdSqh) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [tourniquet.](https://open.spotify.com/album/4S71SzLECiDlNvjepzyKHv) | 3:25 | 2024-11-22 | 2025-02-01 |

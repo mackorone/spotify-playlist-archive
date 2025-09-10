@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Colony House",
-  "num_followers": 1191530,
+  "num_followers": 1191143,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKsWKNcKj9NE112dQY2UEcqRMaR",
+  "snapshot_id": "AAAAAP90tiLmOI98JRVCJ3HYtBxarC7H",
   "tracks": [
     {
       "added_at": "2025-09-05 04:00:10",
@@ -273,20 +273,20 @@
       "url": "https://open.spotify.com/track/4s1rGbXjdZ6zF35189dxDE"
     },
     {
-      "added_at": "2025-09-05 04:00:10",
+      "added_at": "2025-09-09 22:47:33",
       "album": {
-        "name": "True Believer",
-        "url": "https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Teenage Disaster",
+          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
         }
       ],
-      "duration_ms": 274000,
-      "name": "True Believer",
-      "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
+      "duration_ms": 153277,
+      "name": "inside",
+      "url": "https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx"
     },
     {
       "added_at": "2025-09-05 04:00:10",
@@ -431,6 +431,22 @@
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+    },
+    {
+      "added_at": "2025-09-05 04:00:10",
+      "album": {
+        "name": "True Believer",
+        "url": "https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "True Believer",
+      "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
     },
     {
       "added_at": "2025-09-05 04:00:10",
@@ -2371,38 +2387,6 @@
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
-    },
-    {
-      "added_at": "2025-09-05 04:00:10",
-      "album": {
-        "name": "Vice City Magic",
-        "url": "https://open.spotify.com/album/4nYVLUVhQb9bD7l1QlYoFS"
-      },
-      "artists": [
-        {
-          "name": "Mustard Service",
-          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-        }
-      ],
-      "duration_ms": 131726,
-      "name": "Yucky's Song",
-      "url": "https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr"
-    },
-    {
-      "added_at": "2025-09-05 04:00:10",
-      "album": {
-        "name": "Buckwild",
-        "url": "https://open.spotify.com/album/6cAYNmrhsPfBV5KLKQdc1m"
-      },
-      "artists": [
-        {
-          "name": "Anamanaguchi",
-          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
-        }
-      ],
-      "duration_ms": 238319,
-      "name": "Buckwild",
-      "url": "https://open.spotify.com/track/1kZPSulbpNMcEO7B3Ag1XI"
     }
   ],
   "unique_name": "The New Alt",

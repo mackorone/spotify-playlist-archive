@@ -3367,6 +3367,28 @@
     },
     {
       "album": {
+        "name": "EVERLAST",
+        "url": "https://open.spotify.com/album/3uhmWIgY6nHnIaPlh0DMCf"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136836,
+      "name": "Lammbo",
+      "url": "https://open.spotify.com/track/50Q0cU2WsIXDT9lFCvFcCL"
+    },
+    {
+      "album": {
         "name": "LEVEL",
         "url": "https://open.spotify.com/album/2LGsxAFGP9c2BPgP9r2m5M"
       },
@@ -5466,7 +5488,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 168000,
       "name": "Thaapi",
       "url": "https://open.spotify.com/track/6CYUm0BYIkhY1KO1d0JuFw"

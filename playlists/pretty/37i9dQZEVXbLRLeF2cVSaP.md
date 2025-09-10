@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,135 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,140 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 5 | [Шёлк](https://open.spotify.com/track/3chb0SAouU1FtBPR5NPHWX) | [Ваня Дмитриенко](https://open.spotify.com/artist/1kxqshyCqWuOQJNCTgHKzM) | [Шёлк](https://open.spotify.com/album/4k9gEkLvJHBzTIkw7L1Qep) | 2:26 |
 | 6 | [aromat](https://open.spotify.com/track/5R7rlvOCZj7JvhHZPxilbZ) | [gotlibgotlibgotlib](https://open.spotify.com/artist/60BuDy9NuubibSQWzvE3w1) | [aromat](https://open.spotify.com/album/6PoHuiMica95pJamBC3u16) | 1:19 |
 | 7 | [так похуй](https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:48 |
-| 8 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 |
+| 8 | [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 |
 | 9 | [ты че обиделась](https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:30 |
 | 10 | [Катюха](https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV) | [whitek3d](https://open.spotify.com/artist/3IWgGXUSjXN8Lc2fJkAMsP) | [Катюха](https://open.spotify.com/album/1SfskVJm321ZlEFV3YFrVM) | 1:17 |
 | 11 | [Контракт](https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Контракт](https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Пусто](https://open.spotify.com/track/3xtXsrdgC3G0Qg2DEntVVb) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf), [Bollo](https://open.spotify.com/artist/57ZUR83yoB6QYFnPKUXahT) | [Сатпаева 32](https://open.spotify.com/album/2TgHpBzTIBOvch9Pqd7563) | 3:22 |
 | 50 | [я молодой вампир vamp](https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:31 |
 
-Snapshot ID: `MFJGoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFOYIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

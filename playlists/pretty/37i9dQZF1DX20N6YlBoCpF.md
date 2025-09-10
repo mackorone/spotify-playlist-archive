@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Appel, Irene\-Louise Van Wyk, Dassie, GSTRiNG en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,507 likes - 121 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,550 likes - 121 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

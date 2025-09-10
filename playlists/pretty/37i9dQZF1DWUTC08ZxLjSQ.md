@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,999 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,002 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,22 +13,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 3 | [Eclipse](https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr) | [Ryukk](https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP) | [Eclipse](https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy) | 3:45 |
 | 4 | [QARFS MERI](https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC) | [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD), [DOKHAN](https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1) | [Z!EN GPT](https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3) | 1:46 |
 | 5 | [Ahla Fatra](https://open.spotify.com/track/3B7k93zvmcv1Hpp12mp8i7) | [Tiara](https://open.spotify.com/artist/309yiZvAiPiOfeVlP6xtzV) | [Ahla Fatra](https://open.spotify.com/album/7eskDINZek9yKt5pwJlPq0) | 2:58 |
-| 6 | [God bless](https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE) | [LUCA MUS!C](https://open.spotify.com/artist/1pmog6ubPtj97LYSJuwOIb), [yuubthegoat](https://open.spotify.com/artist/0tcF4m3aeLFcdtwW5Vk5zI) | [VISION INFINIE](https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg) | 2:02 |
-| 7 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 |
-| 8 | [Esh El 3amal](https://open.spotify.com/track/3EPHHuYAamviSf9vpNcoLx) | [El Nashmy](https://open.spotify.com/artist/4NqKM04BHakFHqu0wkDXKB) | [Esh El 3amal](https://open.spotify.com/album/3ae4huO0tae1B2hU7Xs1tS) | 2:28 |
-| 9 | [weily weily weily](https://open.spotify.com/track/29iUFCOui4EQiOOdjozX6e) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [weily weily weily](https://open.spotify.com/album/0mbFYz2BHc098iFKNghOrQ) | 2:14 |
-| 10 | [Midnight Cruising](https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe) | [Bdeey](https://open.spotify.com/artist/1pacZxvVuPGfVPYDHuoZ7i) | [Midnight Cruising](https://open.spotify.com/album/3XcNPRMIAvKsZsOT7XkUo5) | 3:00 |
-| 11 | [Lwad Wadi](https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE) | [JAMRAH جَمْرَهْ](https://open.spotify.com/artist/0xyOmQLLbfLXZ47KdwjDa4) | [Lwad Wadi](https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT) | 3:42 |
-| 12 | [TOI](https://open.spotify.com/track/4AqD1uOd2cxH5Ojsx0V8k5) | [PH41](https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU) | [TOI](https://open.spotify.com/album/7bgDdteb46zRePQ1c57Vbl) | 3:32 |
-| 13 | [مالي وإن أغمضت عيني \- Mali](https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [مالي وإن أغمضت عيني \- Mali](https://open.spotify.com/album/3VrcJI3i6uGeDkfHLrHIwa) | 3:02 |
-| 14 | [I'll Never Change You](https://open.spotify.com/track/3plZxhttIYQ0puQ76WCPP3) | [Hemes](https://open.spotify.com/artist/5vvJXaobeLAyZvQ9jLSOzl) | [I'll Never Change You](https://open.spotify.com/album/2BvsoILgnhyu47tFMLUSvy) | 2:59 |
-| 15 | [القناع \(THE MASK\)](https://open.spotify.com/track/5mMP2k6GgsnRchvZM0jfDj) | [Al9ine](https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o) | [القناع \(THE MASK\)](https://open.spotify.com/album/40H4BmmB4isI4Ow5FfEA02) | 2:25 |
-| 16 | [ODABLE](https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj) | [ODA](https://open.spotify.com/artist/3OtJ7fVZzFiLcwxNoYOMou), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [ODABLE](https://open.spotify.com/album/1SMPHOgcnPyeWtHFIFB9IX) | 2:11 |
-| 17 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
-| 18 | [RAW.](https://open.spotify.com/track/1HCVrcQcxDf7zBdviW0GuH) | [LOCO.](https://open.spotify.com/artist/68vnFjXn3omf0eIRqqfUED), [Lordie the Goat](https://open.spotify.com/artist/3gIR2RoLWyl8mbV1b3U8YK) | [SUPERLOCO 2](https://open.spotify.com/album/5L3eW3AySJvXIcNeB75IAb) | 2:48 |
-| 19 | [EXODUS](https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0) | [PH41](https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU), [Clouchae](https://open.spotify.com/artist/05VV7hjJM9ZDRtqwW5RoRt) | [EXODUS](https://open.spotify.com/album/7FsW7ddJp00smOK5adJH2E) | 4:21 |
-| 20 | [هما سابونا](https://open.spotify.com/track/7oTnx9O7DubWLOvjYn8tai) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [الخوف](https://open.spotify.com/album/4FXMWjo5IxroKIZSjaS0v9) | 3:02 |
-| 21 | [NSAY](https://open.spotify.com/track/11VT3trAQIQEu7eoAohlgu) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [NSAY](https://open.spotify.com/album/0gPZzBI5DxJPzSxH75EuIR) | 3:47 |
+| 6 | [TASBEERA](https://open.spotify.com/track/4JI685NlUgHbrA5na1UIyh) | [Amira Adeeb](https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137) | [TASBEERA](https://open.spotify.com/album/1QbRiW31k6VzjpNZ9wkb7l) | 1:52 |
+| 7 | [God bless](https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE) | [LUCA MUS!C](https://open.spotify.com/artist/1pmog6ubPtj97LYSJuwOIb), [yuubthegoat](https://open.spotify.com/artist/0tcF4m3aeLFcdtwW5Vk5zI) | [VISION INFINIE](https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg) | 2:02 |
+| 8 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 |
+| 9 | [Esh El 3amal](https://open.spotify.com/track/3EPHHuYAamviSf9vpNcoLx) | [El Nashmy](https://open.spotify.com/artist/4NqKM04BHakFHqu0wkDXKB) | [Esh El 3amal](https://open.spotify.com/album/3ae4huO0tae1B2hU7Xs1tS) | 2:28 |
+| 10 | [weily weily weily](https://open.spotify.com/track/29iUFCOui4EQiOOdjozX6e) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [weily weily weily](https://open.spotify.com/album/0mbFYz2BHc098iFKNghOrQ) | 2:14 |
+| 11 | [Midnight Cruising](https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe) | [Bdeey](https://open.spotify.com/artist/1pacZxvVuPGfVPYDHuoZ7i) | [Midnight Cruising](https://open.spotify.com/album/3XcNPRMIAvKsZsOT7XkUo5) | 3:00 |
+| 12 | [Lwad Wadi](https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE) | [JAMRAH جَمْرَهْ](https://open.spotify.com/artist/0xyOmQLLbfLXZ47KdwjDa4) | [Lwad Wadi](https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT) | 3:42 |
+| 13 | [TOI](https://open.spotify.com/track/4AqD1uOd2cxH5Ojsx0V8k5) | [PH41](https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU) | [TOI](https://open.spotify.com/album/7bgDdteb46zRePQ1c57Vbl) | 3:32 |
+| 14 | [مالي وإن أغمضت عيني \- Mali](https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [مالي وإن أغمضت عيني \- Mali](https://open.spotify.com/album/3VrcJI3i6uGeDkfHLrHIwa) | 3:02 |
+| 15 | [I'll Never Change You](https://open.spotify.com/track/3plZxhttIYQ0puQ76WCPP3) | [Hemes](https://open.spotify.com/artist/5vvJXaobeLAyZvQ9jLSOzl) | [I'll Never Change You](https://open.spotify.com/album/2BvsoILgnhyu47tFMLUSvy) | 2:59 |
+| 16 | [القناع \(THE MASK\)](https://open.spotify.com/track/5mMP2k6GgsnRchvZM0jfDj) | [Al9ine](https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o) | [القناع \(THE MASK\)](https://open.spotify.com/album/40H4BmmB4isI4Ow5FfEA02) | 2:25 |
+| 17 | [ODABLE](https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj) | [ODA](https://open.spotify.com/artist/3OtJ7fVZzFiLcwxNoYOMou), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [ODABLE](https://open.spotify.com/album/1SMPHOgcnPyeWtHFIFB9IX) | 2:11 |
+| 18 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
+| 19 | [RAW.](https://open.spotify.com/track/1HCVrcQcxDf7zBdviW0GuH) | [LOCO.](https://open.spotify.com/artist/68vnFjXn3omf0eIRqqfUED), [Lordie the Goat](https://open.spotify.com/artist/3gIR2RoLWyl8mbV1b3U8YK) | [SUPERLOCO 2](https://open.spotify.com/album/5L3eW3AySJvXIcNeB75IAb) | 2:48 |
+| 20 | [EXODUS](https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0) | [PH41](https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU), [Clouchae](https://open.spotify.com/artist/05VV7hjJM9ZDRtqwW5RoRt) | [EXODUS](https://open.spotify.com/album/7FsW7ddJp00smOK5adJH2E) | 4:21 |
+| 21 | [هما سابونا](https://open.spotify.com/track/7oTnx9O7DubWLOvjYn8tai) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [الخوف](https://open.spotify.com/album/4FXMWjo5IxroKIZSjaS0v9) | 3:02 |
 | 22 | [قصة مزيفة](https://open.spotify.com/track/5KUNZ148oHYGRnJcr3bzfN) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [قصة مزيفة](https://open.spotify.com/album/0WobgoHP2uoUsLzmLCFdpt) | 3:39 |
 | 23 | [انا وانت](https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [Badran](https://open.spotify.com/artist/00OR5zC9Om6wu6xRg2WGqP) | [انا وانت](https://open.spotify.com/album/7gLVh02tmLj3XfCxn15jc3) | 3:19 |
 | 24 | [Hayni Hoon](https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Hayni Hoon](https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Kansayn Ghi Nahr Ysali](https://open.spotify.com/track/154GLlVoLeHokWHM8HHBSf) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [Outdoor](https://open.spotify.com/album/5ohgIZXSMggtFJexLYTUPr) | 3:03 |
 | 50 | [Babrio](https://open.spotify.com/track/2biC9PP13QlanDL0Jb1Q20) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [Babrio](https://open.spotify.com/album/6zJ7PQ9Glv74Y7wxsj3xyU) | 3:45 |
 
-Snapshot ID: `AAAAAP5D2KQT6pNQA6N0o0WIqy5s4V7c`
+Snapshot ID: `AAAAAOCSGONMV/1SAfXZ9GNqZjEa2vkp`

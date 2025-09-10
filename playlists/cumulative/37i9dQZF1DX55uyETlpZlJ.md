@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-549 songs - 1 day 7 hr 13 min
+550 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [YENO AGIDHE\-2](https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [YENO AGIDHE\-2](https://open.spotify.com/album/4qrvxKZpcx8gEcCTJTteAi) | 2:48 | 2024-03-01 | 2024-07-13 |
 | [YETHAKE](https://open.spotify.com/track/3WLAXeHYLcmsIQrS9EUOXR) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [YETHAKE](https://open.spotify.com/album/1osvJxXuOInCyOKbBJuH2C) | 3:07 | 2025-02-06 | 2025-06-07 |
 | [Yochane](https://open.spotify.com/track/2brkkHIqBkOyFbBhliF4VI) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Yochane](https://open.spotify.com/album/4vq6pnKd7sBJZXuXzLkthV) | 3:15 | 2024-12-09 | 2025-03-29 |
+| [Yuva Sambhrama](https://open.spotify.com/track/48cN3waamNlLU3i0089NkQ) | [P\. Neethu Ninaad](https://open.spotify.com/artist/5PGPXV2zwP3FiE4Ara6bB8), [Somashekhar G\. S.](https://open.spotify.com/artist/3SPzAYByqDjVRy9NRbJ3XY), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Yuva Sambhrama](https://open.spotify.com/album/6PzxSApJvoUrvoGq4A7cqe) | 2:49 | 2025-09-09 |  |
 | [Zari Zari Panche Uttu DJ \- DJ Version](https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf) | [Madeen SK](https://open.spotify.com/artist/5Fus9DmicWjQslWMQlVNgB), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx), [Tony Kick](https://open.spotify.com/artist/5dmuoctzzOKykZWLw1n5Wu), [Dj Srinu](https://open.spotify.com/artist/0kHjYVT8TNPF5PFf6rJrNz) | [Zari Zari Panche Uttu DJ \(DJ Version\)](https://open.spotify.com/album/3OP4xJCLZPC3uiqjGFVzP0) | 3:52 | 2023-06-21 | 2024-01-23 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

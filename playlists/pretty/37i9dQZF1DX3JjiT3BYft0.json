@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 77960,
+  "num_followers": 77985,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINZAUuP+xEnwRZM+iBkr1/rFHwK",
+  "snapshot_id": "AAAAAOKJh79aQW1T4BNEYr4z2tul18Ss",
   "tracks": [
     {
       "added_at": "2025-08-26 15:00:26",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
+        "name": "\u512a\u52dd",
+        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "\u512a\u52dd",
+      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
+    },
+    {
+      "added_at": "2025-08-26 15:00:26",
+      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089 (\u30d1\u30e9\u30ec\u30ebver.)",
         "url": "https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 238333,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089 (\u30d1\u30e9\u30ec\u30ebver.)",
       "url": "https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT"
-    },
-    {
-      "added_at": "2025-08-26 15:00:26",
-      "album": {
-        "name": "\u512a\u52dd",
-        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "\u512a\u52dd",
-      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 244200,
-      "name": "Crow Song - Cover",
-      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
+      "duration_ms": 196666,
+      "name": "\u30ab\u30b5\u30d6\u30bf - Cover",
+      "url": "https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 196666,
-      "name": "\u30ab\u30b5\u30d6\u30bf - Cover",
-      "url": "https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13"
+      "duration_ms": 244200,
+      "name": "Crow Song - Cover",
+      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 243766,
-      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
-      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
+      "duration_ms": 228833,
+      "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
+      "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 228833,
-      "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
-      "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
+      "duration_ms": 243766,
+      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
+      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
     },
     {
       "added_at": "2025-08-26 15:00:26",

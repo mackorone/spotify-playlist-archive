@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Faneto in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,365 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,361 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Hula Hoop \(feat\. IvanBi\)](https://open.spotify.com/track/6sK1IEOiCLt263QN4rGX75) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [Piscina D'Argento \(925\)](https://open.spotify.com/album/3PhzD8Tnz8hWm5gImXetm6) | 3:16 |
 | 50 | [IQOS](https://open.spotify.com/track/2t1klH00saryeMmbnW9NuJ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [IQOS](https://open.spotify.com/album/2Y0WIj8r6FRT9ley1oUeJl) | 2:59 |
 
-Snapshot ID: `AAAAAEGhN2Lz1l3ks0/78ga7EdydSGw5`
+Snapshot ID: `AAAAAPz7JoqlhGj0TxpgEjAIF+0ZfmZH`

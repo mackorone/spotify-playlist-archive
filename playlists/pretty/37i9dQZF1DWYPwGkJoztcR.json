@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 392626,
+  "num_followers": 392663,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
-      },
-      "artists": [
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -323,6 +307,22 @@
       "duration_ms": 218440,
       "name": "Just Say Aye",
       "url": "https://open.spotify.com/track/2FUWdMp90MAPCc1zV0CtQd"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -359,38 +359,6 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
-      },
-      "artists": [
-        {
-          "name": "Opera Alaska",
-          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
-        }
-      ],
-      "duration_ms": 172852,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
       },
@@ -403,6 +371,22 @@
       "duration_ms": 160000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -423,18 +407,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
       },
       "artists": [
         {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+          "name": "Opera Alaska",
+          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
         }
       ],
-      "duration_ms": 194675,
-      "name": "Last Forever - Acoustic",
-      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+      "duration_ms": 172852,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -467,6 +451,22 @@
       "duration_ms": 215261,
       "name": "25",
       "url": "https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 194675,
+      "name": "Last Forever - Acoustic",
+      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
         "name": "Old Summers",
         "url": "https://open.spotify.com/album/3tRCgORe1F5ilqUzRPKudV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219968,
       "name": "Old Summers (feat. philine)",
       "url": "https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Dark Harvest, Pt. 1",
-        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
+        "name": "Nowhere Land",
+        "url": "https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Deborah Parlor",
+          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
         }
       ],
-      "duration_ms": 292148,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
+      "duration_ms": 191443,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Nowhere Land",
-        "url": "https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL"
+        "name": "Dark Harvest, Pt. 1",
+        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
       "artists": [
         {
-          "name": "Deborah Parlor",
-          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 191443,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03"
+      "duration_ms": 292148,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Story Of My Life",
-        "url": "https://open.spotify.com/album/047ig9T3051aPN4dltfBu0"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
       "artists": [
         {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 198578,
-      "name": "Story Of My Life",
-      "url": "https://open.spotify.com/track/3RPBET4z96fUukQd6cNESv"
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -943,6 +927,22 @@
       "duration_ms": 168991,
       "name": "Never Fall In Love Again",
       "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Story Of My Life",
+        "url": "https://open.spotify.com/album/047ig9T3051aPN4dltfBu0"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 198578,
+      "name": "Story Of My Life",
+      "url": "https://open.spotify.com/track/3RPBET4z96fUukQd6cNESv"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "In my cluttered head",
-        "url": "https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC"
-      },
-      "artists": [
-        {
-          "name": "Werner Bekker",
-          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
       },
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "I Look For You",
-        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
+        "name": "In my cluttered head",
+        "url": "https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC"
       },
       "artists": [
         {
-          "name": "BYNK",
-          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
         }
       ],
-      "duration_ms": 211704,
-      "name": "I Look For You",
-      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
+      "duration_ms": 203346,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+      },
+      "artists": [
+        {
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1259,34 +1259,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Here's To Forever",
-        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+        "name": "I Look For You",
+        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
       },
       "artists": [
         {
-          "name": "Bart van Liemt",
-          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+          "name": "BYNK",
+          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
         }
       ],
-      "duration_ms": 184883,
-      "name": "Here's To Forever",
-      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
+      "duration_ms": 211704,
+      "name": "I Look For You",
+      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1327,18 +1311,34 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Suddenly Forever",
-        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
+        "name": "Groundwork Rising",
+        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
       },
       "artists": [
         {
-          "name": "Selwyn",
-          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Suddenly Forever",
-      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
+      "duration_ms": 252080,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Groundwork Rising",
-        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
+        "name": "Suddenly Forever",
+        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
       },
       "artists": [
         {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+          "name": "Selwyn",
+          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
         }
       ],
-      "duration_ms": 252080,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
+      "duration_ms": 200000,
+      "name": "Suddenly Forever",
+      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
       },
       "artists": [
         {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
         }
       ],
-      "duration_ms": 291706,
-      "name": "Julianne",
-      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
+      "duration_ms": 169993,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1523,6 +1523,22 @@
       "duration_ms": 189711,
       "name": "skipping stone",
       "url": "https://open.spotify.com/track/6gD86nnXjZPG6bMoJdPEu8"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Julianne",
+      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
-      },
-      "artists": [
-        {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
-        }
-      ],
-      "duration_ms": 169993,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
         "name": "Amen (Acoustic)",
         "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 210000,
       "name": "Amen - Acoustic",
       "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
-    },
-    {
-      "added_at": "2025-09-03 22:00:03",
-      "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2025-09-03 22:00:03",
@@ -1639,18 +1623,34 @@
     {
       "added_at": "2025-09-03 22:00:03",
       "album": {
-        "name": "Brotherhood",
-        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
       "artists": [
         {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+    },
+    {
+      "added_at": "2025-09-03 22:00:03",
+      "album": {
+        "name": "something i can't fake",
+        "url": "https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ"
+      },
+      "artists": [
+        {
+          "name": "Lara Samira",
+          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Something I Can't Fake",
+      "url": "https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6"
     }
   ],
   "unique_name": "'t Koffiehuis",

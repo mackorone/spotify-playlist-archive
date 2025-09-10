@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Hattrick",
+        "url": "https://open.spotify.com/album/4614NZ99KGlxn9I2A1nHnn"
+      },
+      "artists": [
+        {
+          "name": "The Orchestra (For Now)",
+          "url": "https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340066,
+      "name": "Hattrick",
+      "url": "https://open.spotify.com/track/4Qh12Dgv4ZkNCfnC7oSgEw"
+    },
+    {
+      "album": {
         "name": "Bohemian Clutter",
         "url": "https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLzLAAAAAAAd9ru9sjhafAdng35VeZT+",
+  "snapshot_id": "aL4cgAAAAACgwyQW6lrDM0T1ggtnK1kc",
   "tracks": [
     {
       "added_at": null,
@@ -271,42 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 212231,
-      "name": "Si Estoy Contigo - Bachata",
-      "url": "https://open.spotify.com/track/2wYbPVYt2C7GKSTDCCKnHm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tan Tan Brazil (Remix)",
         "url": "https://open.spotify.com/album/20SsDjA1SLq0j3CDCoIz6w"
       },
@@ -347,6 +311,42 @@
       "duration_ms": 337846,
       "name": "Tan Tan Brazil - Remix",
       "url": "https://open.spotify.com/track/4lCjpDhelnVjEjJBzYYLph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 212231,
+      "name": "Si Estoy Contigo - Bachata",
+      "url": "https://open.spotify.com/track/2wYbPVYt2C7GKSTDCCKnHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
     },
     {
       "added_at": null,

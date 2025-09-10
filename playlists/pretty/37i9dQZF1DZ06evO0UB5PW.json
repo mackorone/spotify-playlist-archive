@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 61491,
+  "num_followers": 61529,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAACce1k6+ja39W/cYiOBMOb2",
+  "snapshot_id": "aL4cgAAAAAChaHr9Ja81Q1U/7F2KjmRP",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 654293,
-      "name": "The Czar: Usurper / Escape / Martyr / Spiral",
-      "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
+      "duration_ms": 354306,
+      "name": "Crack the Skye",
+      "url": "https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 354306,
-      "name": "Crack the Skye",
-      "url": "https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B"
+      "duration_ms": 654293,
+      "name": "The Czar: Usurper / Escape / Martyr / Spiral",
+      "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunter",
-        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 317720,
-      "name": "The Hunter",
-      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
+      "duration_ms": 220133,
+      "name": "Curl of the Burl",
+      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
       },
       "artists": [
         {
@@ -728,25 +728,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Curl of the Burl",
-      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Crusher Destroyer",
-      "url": "https://open.spotify.com/track/46xkUxIP9eWmQcYh42b2Bm"
+      "duration_ms": 317720,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
     }
   ],
   "unique_name": "This Is Mastodon",

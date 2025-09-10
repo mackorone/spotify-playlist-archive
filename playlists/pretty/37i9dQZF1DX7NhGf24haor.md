@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,602 likes - 94 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,766 likes - 94 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Berlin](https://open.spotify.com/track/4Klqg0c57uvGY24rlrEDi3) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Berlin](https://open.spotify.com/album/0YjzlHiQcyr1XKDE9UAmoi) | 3:37 |
 | 2 | [The Approach](https://open.spotify.com/track/0R0xwSPf9ZxPbnvzogVkxq) | [B\-Frontliner](https://open.spotify.com/artist/0ED8bqJRLouBDutozC1RxR), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Approach](https://open.spotify.com/album/2hHJyvDThP61LvZ6VnQmrm) | 3:01 |
-| 3 | [Won’t Let Me Down Feat\. Teddy Bee](https://open.spotify.com/track/32159t5a24N9hqjyKk09E2) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Won’t Let Me Down Feat\. Teddy Bee](https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf) | 2:59 |
+| 3 | [Won’t Let Me Down](https://open.spotify.com/track/32159t5a24N9hqjyKk09E2) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Won’t Let Me Down](https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf) | 2:59 |
 | 4 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe) | 2:14 |
 | 5 | [VENGEANCE](https://open.spotify.com/track/1yTt1HIX2ytmOjiFjJLADs) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [VENGEANCE](https://open.spotify.com/album/4yQXehYjwZQtJN9euJSAmM) | 2:48 |
 | 6 | [Cornflakes](https://open.spotify.com/track/0srjHiMVx5GWL3nIK6Gf56) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Cornflakes](https://open.spotify.com/album/1lxsotpRESvh43wXTaHSfV) | 2:47 |

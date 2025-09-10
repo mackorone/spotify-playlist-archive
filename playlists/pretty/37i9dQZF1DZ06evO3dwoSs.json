@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 564287,
+  "num_followers": 564393,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLzLAAAAAABdOV8s8mAzrSTQ0oS2mUqb",
+  "snapshot_id": "aL4cgAAAAAAmKt9wDs8eApNsO/QyLqCw",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way of the Fist",
-        "url": "https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Capitalist",
         "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 203813,
       "name": "The Pride",
       "url": "https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
     },
     {
       "added_at": null,

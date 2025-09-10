@@ -4,7 +4,7 @@
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-188 songs - 9 hr 47 min
+189 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Abrakha Min Sa'a](https://open.spotify.com/track/2R8dOkDTAOFOYPdSeuA84J) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S), [Nasser Al Kubaisi](https://open.spotify.com/artist/0fC7bynVVOrhri9VhNG6Gu) | [Abrakha Min Sa'a](https://open.spotify.com/album/6ekaaw1ifb9mc5max3CIhA) | 2:23 | 2024-03-11 | 2025-03-29 |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2025-03-28 |  |
 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 | 2024-04-08 | 2025-01-29 |
-| [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 | 2025-03-28 |  |
+| [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 | 2025-03-28 | 2025-09-10 |
 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 | 2024-04-08 | 2024-04-19 |
 | [Al Eid Gaa](https://open.spotify.com/track/5ra4kmbcUvek1OdmMcDRm5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/3TwvfliTWcoaU3lc3PzGHu) | 1:49 | 2024-04-10 | 2025-01-29 |
 | [Al Kol Yafnny](https://open.spotify.com/track/0DP3o17gDVEe6ADkpHi8FD) | [Ahmed Hamdy](https://open.spotify.com/artist/7rwf98k7PayJKQCzFpm0xD) | [Ya Rasoul Allah](https://open.spotify.com/album/008HEgbo9fydgwkr7krc2W) | 3:27 | 2024-03-25 | 2025-03-29 |
@@ -146,6 +146,7 @@
 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-03-28 |  |
 | [الرحمن](https://open.spotify.com/track/2XXC0lGlrKrBvy3nO3pSxU) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [من أسماء الله الحسنى](https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi) | 1:22 | 2025-02-20 | 2025-03-29 |
 | [السلام](https://open.spotify.com/track/4Njx6uC3m76cjF6iax3SaQ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [من أسماء الله الحسنى](https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi) | 1:12 | 2025-02-20 | 2025-03-29 |
+| [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 | 2025-03-28 |  |
 | [الله](https://open.spotify.com/track/7KwKmMYnNGOTm30se4NpHB) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [من أسماء الله الحسنى](https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi) | 1:09 | 2025-02-20 | 2025-03-29 |
 | [الله الله](https://open.spotify.com/track/3WDlyo0gaRSRn3Tv3Ak8Rk) | [Yousef Al Ayoub](https://open.spotify.com/artist/3JenNVbS5aTA7XGTUd25Rg) | [قلبي لك](https://open.spotify.com/album/1AzVpX6KTObe8rX2CoT8Td) | 2:54 | 2024-03-11 | 2025-03-29 |
 | [الله يالله](https://open.spotify.com/track/1Hu5Sz7RwYCEiwOfOnb2Sl) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [الله يالله](https://open.spotify.com/album/2bl9q3lmc69MeyLFwNhAJi) | 4:26 | 2024-03-11 | 2025-03-29 |

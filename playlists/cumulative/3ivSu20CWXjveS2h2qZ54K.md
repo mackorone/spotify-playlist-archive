@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,218 songs - 12 day 0 hr 30 min
+5,219 songs - 12 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1817,6 +1817,7 @@
 | [Ginger](https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Ginger](https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af) | 2:33 | 2025-07-04 | 2025-07-12 |
 | [Gira Gira](https://open.spotify.com/track/3ZFJzlq0rl5GrA0BI71npG) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Gira Gira](https://open.spotify.com/album/2nVj5Iw2MdLiA7sc1AiDoA) | 3:58 | 2025-07-25 | 2025-08-02 |
 | [Girl](https://open.spotify.com/track/07DapAVEtfc5KvHVpORuUn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Girl](https://open.spotify.com/album/4qROVm5bhCJAhkM4AW7pNt) | 3:32 | 2025-02-28 | 2025-03-08 |
+| [Girl, so confusing \- Cover](https://open.spotify.com/track/2VGS2fuYuxtbDNeKRCuYL0) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Girl, so confusing \(Cover\)](https://open.spotify.com/album/0dU5WQsbGV9z8A5YEWrCDv) | 3:34 | 2025-09-09 |  |
 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-25 | 2025-08-02 |
 | [Girls](https://open.spotify.com/track/6GazyJYhSCbucrUZBrifUQ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girls](https://open.spotify.com/album/71MnN9SxX2YOh3Q2MVDAmD) | 3:01 | 2025-08-15 | 2025-08-23 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-27 | 2024-07-13 |

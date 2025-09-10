@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAAAnqAHu+IKwfdhuSr8tjUeH",
+  "snapshot_id": "aL4cgAAAAADo6X8+IM7yzPFNw10R8AEL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Damn Baby",
+        "url": "https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 192744,
+      "name": "God Damn Baby",
+      "url": "https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t"
+    },
     {
       "added_at": null,
       "album": {
@@ -75,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "breakup with a friend",
         "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
       },
       "artists": [
         {
@@ -116,9 +116,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,
@@ -139,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
       "artists": [
         {
@@ -148,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,

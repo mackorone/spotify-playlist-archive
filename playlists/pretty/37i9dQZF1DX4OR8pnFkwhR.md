@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
+> Spotifyが注目するニューカマー・プレイリスト。 Cover: AKASAKI
 
 [Spotify](https://open.spotify.com/user/spotify) - 74,186 likes - 60 songs - 3 hr 31 min
 
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 |
 | 60 | [addicted](https://open.spotify.com/track/6pbFoDKhAFfnlGy63ob2mf) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [sublimated](https://open.spotify.com/album/35yXAuUTisaemSxBiyFGVP) | 2:38 |
 
-Snapshot ID: `AAAAAEeEW0bQFYqGZWOPGN5spirI+iMo`
+Snapshot ID: `AAAAAKXb6UWz7VQMpRtroMlljWgKC7QK`

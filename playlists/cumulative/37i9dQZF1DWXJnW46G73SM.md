@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: ليجي\-سي
+> أحدث الأغاني المصرية هنا 🤩 الغلاف:  عمرو جابر
 
-1,569 songs - 3 day 15 hr 31 min
+1,571 songs - 3 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1248,7 +1248,7 @@
 | [راحت أيامه](https://open.spotify.com/track/0F7zIQlo4DFp0VGI4E2ObA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 3:59 | 2025-04-17 | 2025-06-10 |
 | [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 | 2025-06-19 |  |
 | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 | 2023-07-28 |
-| [ربنا يديم اللي بينا](https://open.spotify.com/track/4mNrjSRltYpmyvtlk6dtVQ) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [حاسة بيأس](https://open.spotify.com/album/2aKyIE23O1FKCo4QJAJYLx) | 3:26 | 2025-06-19 |  |
+| [ربنا يديم اللي بينا](https://open.spotify.com/track/4mNrjSRltYpmyvtlk6dtVQ) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [حاسة بيأس](https://open.spotify.com/album/2aKyIE23O1FKCo4QJAJYLx) | 3:26 | 2025-06-19 | 2025-09-10 |
 | [رجوع ناهيناه](https://open.spotify.com/track/649djuWvB675nD9GVRV3FZ) | [Alhassan Adel](https://open.spotify.com/artist/1rSKg6fabB8hw5y1rcxYdk) | [رجوع ناهيناه](https://open.spotify.com/album/25cuEfXaDmdn2rN5R2ojqx) | 3:12 | 2025-02-07 | 2025-05-02 |
 | [رحيل](https://open.spotify.com/track/6iKmpbDPX61wXJJ4aQUPNR) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [رحيل](https://open.spotify.com/album/4pvkQYbYlvz88nS1skKpgp) | 0:50 | 2024-05-02 | 2024-06-01 |
 | [رقصة الوداع](https://open.spotify.com/track/0UrrIFaHxqEDok5K9XUEzT) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [رقصة الوداع](https://open.spotify.com/album/0wPUCPmfiiv5EgFnf7aJqP) | 3:10 | 2025-01-30 | 2025-03-05 |
@@ -1292,10 +1292,11 @@
 | [صباحك فل](https://open.spotify.com/track/30hyzpcZJhX0EumCQl2mW5) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [صباحك فل](https://open.spotify.com/album/63bYgOsTB5xPlTMfQhXv3V) | 3:00 | 2023-10-11 | 2024-01-19 |
 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 | 2025-03-04 | 2025-06-10 |
 | [صدقونا](https://open.spotify.com/track/4PnLVm1FmAZtq0IWY5HYsA) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صدقونا](https://open.spotify.com/album/4SAXz6gJcUj3M0a9eZQbnS) | 3:01 | 2023-02-16 | 2023-04-21 |
-| [ضاع خيري](https://open.spotify.com/track/1MNfuN5Atuzp8fQ3ATsdND) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ضاع خيري](https://open.spotify.com/album/2s2zt2ILbKBV91Jy71Hb1L) | 4:16 | 2025-06-23 |  |
+| [ضاع خيري](https://open.spotify.com/track/1MNfuN5Atuzp8fQ3ATsdND) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ضاع خيري](https://open.spotify.com/album/2s2zt2ILbKBV91Jy71Hb1L) | 4:16 | 2025-06-23 | 2025-09-10 |
 | [ضرب نار \- تتر بداية المسلسل](https://open.spotify.com/track/1m0IonlGzhsZwYfuaMlvdI) | [Mohamed El helw](https://open.spotify.com/artist/3dcqyPdXEFFEYsVkgJpqJK), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [ضرب نار \(تتر بداية المسلسل\)](https://open.spotify.com/album/5KCPJ0yrhgiA7j50Zn1Fn5) | 3:37 | 2023-04-05 | 2023-05-19 |
 | [ضعت منك](https://open.spotify.com/track/3V9KgBiz5uP7SacDMfy6KZ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [ضعت منك](https://open.spotify.com/album/4uBlwNfBEpGGj2wdBTsWb5) | 3:10 | 2025-04-17 | 2025-06-10 |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2021-12-23 | 2022-02-12 |
+| [ضيّ \- من فيلم سيرة أهل الضيّ](https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [ضيّ \(من فيلم سيرة أهل الضيّ\)](https://open.spotify.com/album/64RVTyZIEphCJygPD5Luhq) | 3:16 | 2025-09-09 |  |
 | [طباخ](https://open.spotify.com/track/3B54o4HHnxF5Z9ahXy9XI4) | [خيري](https://open.spotify.com/artist/69Dj8KlJcp4FNOTVQVdLnZ) | [طباخ](https://open.spotify.com/album/70NQn5O93jkh125hOoRAkG) | 2:23 | 2024-10-18 | 2024-11-29 |
 | [طمنها](https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [طمنها](https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh) | 4:04 | 2023-08-15 | 2023-10-06 |
 | [طمنوني](https://open.spotify.com/track/0v3mouuIIh0XrzN6vmYI1v) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Asmaa Elgamal](https://open.spotify.com/artist/2Y8SZOvkkfWMs6TKUP8Kit) | [طمنوني](https://open.spotify.com/album/2F2YUKy3j4nH2Nm6B5RfrA) | 4:19 | 2022-09-05 | 2022-12-02 |
@@ -1395,6 +1396,7 @@
 | [كلمة رجوعنا](https://open.spotify.com/track/57rNoEZbQ4KT8kyfrTLunG) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كلمة رجوعنا](https://open.spotify.com/album/4DoX4XWbfVh88LRRXqqtGL) | 4:20 | 2024-01-02 | 2024-02-08 |
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |
 | [كلمني عن نفسك](https://open.spotify.com/track/0Y52u3T0C9sroUFFtY0UQ1) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [كلمني عن نفسك](https://open.spotify.com/album/1tg6iaoch6dNDoHJ3bBk1Z) | 2:36 | 2024-07-25 | 2024-09-13 |
+| [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 | 2025-09-09 |  |
 | [كنا معديين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معديين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 | 2024-07-29 | 2024-08-16 |
 | [كنت ضامنى](https://open.spotify.com/track/1OAaZoAVWkJkOBsOueXuRO) | [Mohamady](https://open.spotify.com/artist/2sHmMy5vLRwAfjNI9MEiuH) | [كنت ضامنى](https://open.spotify.com/album/119bWdkk7KS7XkEnJOqLXR) | 3:49 | 2025-05-22 | 2025-07-11 |
 | [لأ ثوانى](https://open.spotify.com/track/4uAN5mpBgzxOzK0qbTrumK) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [لأ ثوانى](https://open.spotify.com/album/687gIsuuNRehoRPmBmFM9d) | 4:17 | 2025-01-09 | 2025-02-19 |

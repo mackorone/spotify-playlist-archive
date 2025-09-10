@@ -1,13 +1,41 @@
 {
   "description": "w\u00f6chentliche handverlesene empfehlungen des archivs. no industry bs",
-  "num_followers": 930,
+  "num_followers": 931,
   "original_name": "die hip hop empfehlung",
   "owner": {
     "name": "hiphoparchiv",
     "url": "https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q"
   },
-  "snapshot_id": "AAAAlTB2ozHYrmP+9o+6M6KzoDaH1Dvu",
+  "snapshot_id": "AAAAmcR6rxS1tpvl9trfGlLMn2yMYhNH",
   "tracks": [
+    {
+      "added_at": "2025-09-09 10:51:05",
+      "album": {
+        "name": "Glam Life",
+        "url": "https://open.spotify.com/album/2d9p2JJaelYNJ9n9TJzRaP"
+      },
+      "artists": [
+        {
+          "name": "Da Playaz",
+          "url": "https://open.spotify.com/artist/7c4KTyZM7icu8bSlWHRhPL"
+        },
+        {
+          "name": "Pierre Sonality",
+          "url": "https://open.spotify.com/artist/0niBEgx0rRNWoTXgiJIiwA"
+        },
+        {
+          "name": "Young Krillin",
+          "url": "https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ"
+        },
+        {
+          "name": "Crack Ignaz",
+          "url": "https://open.spotify.com/artist/1RzvREvTenKGPYk6laaGdD"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Glam Life",
+      "url": "https://open.spotify.com/track/7M2uEtGTwbnZo6CBxug6TA"
+    },
     {
       "added_at": "2025-09-04 22:11:31",
       "album": {
@@ -268,8 +296,8 @@
           "url": "https://open.spotify.com/artist/0iBPo5G7p75d519oJ6MqqZ"
         },
         {
-          "name": "Prod. 2b2b",
-          "url": "https://open.spotify.com/artist/5w8mbFflla68bo1BRzIJ9S"
+          "name": "Prod. 2B2B",
+          "url": "https://open.spotify.com/artist/6F3t3MXsMxzZ68F6ovLHWV"
         }
       ],
       "duration_ms": 153247,

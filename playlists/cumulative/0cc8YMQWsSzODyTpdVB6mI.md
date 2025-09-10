@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Kitsuné Musique Essentials For Summer](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Café Kitsuné Airlines](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> Dive into Kitsuné’s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.☀️🎶
+> Music around the world ✈️
 
 155 songs - 8 hr 56 min
 

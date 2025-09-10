@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6FCbldJ7f8lRuM13IgIYcv.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 62 songs - 5 hr 29 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 63 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/6FCbldJ7f8lRuM13IgIYcv.md) - [plain]
 | 60 | [Ekstasis \- NOVAH Remix](https://open.spotify.com/track/60Edu22TFpIQ7E97oTVTfS) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Ekstasis](https://open.spotify.com/album/0izjspikvGArH1ta850YZJ) | 6:08 |
 | 61 | [IN THE SHADOWS](https://open.spotify.com/track/3azj8Vf6I6Rh39Mz7DDN1G) | [NZGÛL](https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH) | [IN THE SHADOWS](https://open.spotify.com/album/4M25OOqSQj20vMLExYJeD3) | 3:42 |
 | 62 | [Lost In Sound](https://open.spotify.com/track/2xglp7zVPpixiOqjTweWQJ) | [Noemi Black](https://open.spotify.com/artist/7aduJdjVqq0HB0NKxxLewT) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 4:58 |
+| 63 | [What U Get](https://open.spotify.com/track/1S0349dksTP24Q8SLkmydd) | [LEY MAR](https://open.spotify.com/artist/0eENi8jQmC7UzT8Yga8itW) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 6:58 |
 
-Snapshot ID: `AAAAUsdhwQ3uH7FeVireddI9lJEmbv+U`
+Snapshot ID: `AAAAUwNDiOdOZCJ0+MDiYdcxiOpr8eqr`

@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-385 songs - 21 hr 12 min
+388 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
 | [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 | 2025-08-21 |
 | [Arisa](https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 2:40 | 2024-07-02 |  |
-| [Asae](https://open.spotify.com/track/6PHoZl6LhZE1L9WSUIc6eB) | [Maiso Linua](https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd) | [Place of Purity](https://open.spotify.com/album/702Hkapn7IYhXPCRhPa6cj) | 3:39 | 2025-07-11 |  |
+| [Asae](https://open.spotify.com/track/6PHoZl6LhZE1L9WSUIc6eB) | [Maiso Linua](https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd) | [Place of Purity](https://open.spotify.com/album/702Hkapn7IYhXPCRhPa6cj) | 3:39 | 2025-07-11 | 2025-09-10 |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 | 2024-11-16 |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 | 2024-07-02 |  |
@@ -114,7 +114,7 @@
 | [First Snow](https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS) | [Kerusu](https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8) | [First Snow](https://open.spotify.com/album/4KAi8bUw6awTKrAcTPGsPz) | 3:11 | 2024-07-02 |  |
 | [Flower Dance](https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW) | [DJ Okawari](https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9) | [Libyus Music Sound History 2004－2010](https://open.spotify.com/album/6LpqRBVORv0OScaWKm1eV2) | 4:25 | 2024-07-02 |  |
 | [Flower of Truth](https://open.spotify.com/track/6SZkrYkOPWC97UJ4wbjAfs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Echoes of Edo](https://open.spotify.com/album/7KQtJCW0vXqJf7EfZ09Udd) | 2:37 | 2025-04-25 | 2025-05-16 |
-| [flowers at midnight](https://open.spotify.com/track/4my2pCttiX5EsXxzcr3NPC) | [seasalt](https://open.spotify.com/artist/2r3Q4OY6WzezIAHqtxHsBo) | [cacti](https://open.spotify.com/album/094jG0cKUrz4jb4NYUnIEy) | 2:45 | 2024-07-02 |  |
+| [flowers at midnight](https://open.spotify.com/track/4my2pCttiX5EsXxzcr3NPC) | [seasalt](https://open.spotify.com/artist/2r3Q4OY6WzezIAHqtxHsBo) | [cacti](https://open.spotify.com/album/094jG0cKUrz4jb4NYUnIEy) | 2:45 | 2024-07-02 | 2025-09-10 |
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2022-05-03 | 2022-09-09 |
 | [Flutters](https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:39 | 2024-07-02 |  |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2022-12-09 | 2024-07-03 |
@@ -171,7 +171,7 @@
 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 | 2024-07-02 |  |
 | [Koi](https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6) | [Gyvus](https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn) | [Chillhop Essentials Spring 2017](https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i) | 2:32 | 2025-07-18 |  |
 | [Koi Lake](https://open.spotify.com/track/7f9oIe1k6vFJ4Tp5nA1yZe) | [Cotard Beatz](https://open.spotify.com/artist/7jmEQhBTQ9WVTdHmclo7GC), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [Koi Lake](https://open.spotify.com/album/1rTdevjdQR11A5GffklArF) | 2:10 | 2024-07-02 | 2025-01-18 |
-| [Konnichiwa \(Chapter 2\)](https://open.spotify.com/track/1dTfwB9DcpSlcdtPoEjPXC) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Travel](https://open.spotify.com/album/2ZtFHkSh3IwuLUyxga7WKU) | 4:00 | 2024-07-02 |  |
+| [Konnichiwa \(Chapter 2\)](https://open.spotify.com/track/1dTfwB9DcpSlcdtPoEjPXC) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Travel](https://open.spotify.com/album/2ZtFHkSh3IwuLUyxga7WKU) | 4:00 | 2024-07-02 | 2025-09-10 |
 | [Koto Memories](https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Kyefii](https://open.spotify.com/artist/6jTxLqHhCNVbodPAJB77Sw) | [Koto Memories](https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU) | 2:19 | 2024-07-02 |  |
 | [Land of the Samurai](https://open.spotify.com/track/5ZGHtzC1oawmCYAHXYQoNK) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Gaijin](https://open.spotify.com/album/3Mz0drsWHgVg5zTm60ncdl) | 5:13 | 2025-06-09 | 2025-07-05 |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-07 | 2024-07-03 |
@@ -209,6 +209,7 @@
 | [Motorbikes in Sapa](https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Motorbikes in Sapa](https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo) | 2:52 | 2024-07-02 |  |
 | [Mountain Onsen](https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Mountain Onsen](https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n) | 2:41 | 2024-07-02 | 2025-08-08 |
 | [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 | 2024-07-02 |  |
+| [Mt Fuji](https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Mt Fuji](https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA) | 1:56 | 2025-09-09 |  |
 | [Mujinas Ramen Shop](https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Yokai](https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r) | 2:41 | 2025-07-25 |  |
 | [Muramasa](https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Legends of the Past](https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3) | 2:24 | 2024-07-02 | 2025-08-23 |
 | [muse](https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [isolation](https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb) | 1:57 | 2024-07-02 |  |
@@ -284,6 +285,7 @@
 | [Shukumei](https://open.spotify.com/track/5Yh6bCE7FhGAXpa1cLhIc3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Shukumei](https://open.spotify.com/album/67IP6RzANksSy3VH6XKfKg) | 3:18 | 2025-05-23 | 2025-06-10 |
 | [Shuriken](https://open.spotify.com/track/6cc2EcISyOVGAyIub0Xl8z) | [Naga](https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1), [Azuku](https://open.spotify.com/artist/45JKsJ0fN2Ur7q9hAG6g5s) | [Shuriken](https://open.spotify.com/album/0U1Lgqy5h5yb5u47Xw1uX8) | 2:22 | 2025-07-25 | 2025-08-22 |
 | [sigh](https://open.spotify.com/track/53pxxjKIvaIxQwOpIeCLdk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:22 | 2022-06-20 | 2022-07-24 |
+| [Silk Road](https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3), [Symoo](https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV) | [Tokyo Skyline](https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO) | 2:54 | 2025-09-09 |  |
 | [Silver Lake](https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Stillness in Motion](https://open.spotify.com/album/1x2Ij0PiGeGJCuja8H2KA7) | 3:01 | 2024-07-02 | 2025-06-01 |
 | [Sipping My life \(Bonus Track\)](https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [INNER CHILD](https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg) | 3:46 | 2022-05-03 | 2024-07-03 |
 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 | 2022-05-03 | 2024-07-03 |
@@ -346,6 +348,7 @@
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2022-05-03 | 2024-07-03 |
 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 | 2024-07-02 | 2024-08-08 |
 | [Voyage](https://open.spotify.com/track/0yx0epwNvHMprGpqQPTaI2) | [Kim Jiwoo](https://open.spotify.com/artist/5VCISWkGAsjEvjQpIXAfgD) | [Memories of Summer](https://open.spotify.com/album/2wIpyWKUKna6nnLTV3AXST) | 4:44 | 2022-05-03 | 2022-07-18 |
+| [Waiting To Board](https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK) | [vhskid.](https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq) | [Waiting To Board](https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl) | 2:18 | 2025-09-09 |  |
 | [Walking with you](https://open.spotify.com/track/7cvu0T8jjJTk2RpzKsmn8t) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 3:51 | 2022-05-03 | 2022-07-26 |
 | [Waltz For You](https://open.spotify.com/track/0cpZV7KdlhDT4dYmp8jQ4Q) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Waltz For You \(Single Edition 1\)](https://open.spotify.com/album/6ay1zLT4ok3MT3mnQW4qzh) | 3:27 | 2022-05-03 | 2022-07-28 |
 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 | 2022-05-03 | 2024-06-22 |

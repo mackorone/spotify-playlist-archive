@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,877 likes - 62 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,902 likes - 62 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 61 | [coffee](https://open.spotify.com/track/5kDfr6gBG4ygrk4KOufFzW) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [thikaana](https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe) | 2:36 |
 | 62 | [Heartbreak Kid](https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 4:04 |
 
-Snapshot ID: `AAAAAETXlVjRF+6xmy3qaMPwVbWkOoFJ`
+Snapshot ID: `AAAAACWclSgl8gvwdLGPuqYt3r8cbB58`

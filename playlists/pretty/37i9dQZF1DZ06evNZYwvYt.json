@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19126,
+  "num_followers": 19140,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAADwmNURUMgvdujuRSPCnZ36",
+  "snapshot_id": "aL4cgAAAAAD/NiRWbY5xK2B8SxLts2Cp",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Respeta el Flow",
         "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 161964,
       "name": "Respeta el Flow",
       "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/4Lo4iwz1lesfagfTNUro1p"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "No me atrevo a preguntar",
-      "url": "https://open.spotify.com/track/0yAyBaaE0ZGGwSnhh98SiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/4Lo4iwz1lesfagfTNUro1p"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "No me atrevo a preguntar",
+      "url": "https://open.spotify.com/track/0yAyBaaE0ZGGwSnhh98SiF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Bueno De Morir De Amor",
         "url": "https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sombras Destino (Demo 2008)",
-        "url": "https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 244475,
-      "name": "Sombras Destino - Demo 2008",
-      "url": "https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 297106,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sombras Destino (Demo 2008)",
+        "url": "https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 244475,
+      "name": "Sombras Destino - Demo 2008",
+      "url": "https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9"
     },
     {
       "added_at": null,

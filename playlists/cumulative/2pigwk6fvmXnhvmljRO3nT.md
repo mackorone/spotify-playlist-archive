@@ -4,7 +4,7 @@
 
 > 
 
-7,697 songs - 19 day 21 hr 10 min
+7,698 songs - 19 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3044,6 +3044,7 @@
 | [JC Elton's](https://open.spotify.com/track/0tJjBnSuI8DOOqQsBfVfxi) | [Garoad](https://open.spotify.com/artist/1oMOdABcJgXgiplesecR1U) | [VA\-11 Hall\-A \(Original Soundtrack: Second Round\)](https://open.spotify.com/album/666rsOsL45p68o5BzooByj) | 1:45 | 2025-08-12 |  |
 | [JD](https://open.spotify.com/track/6wwPtKxaMEbQYc6atQmhTE) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 1:45 | 2024-12-05 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2025-04-27 |  |
+| [Jealous](https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 3:43 | 2025-09-09 |  |
 | [Jealous \- Remix](https://open.spotify.com/track/5NQJnRpJHRaupdegphntQT) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 3:42 | 2025-04-11 |  |
 | [Jealousy](https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Jealousy](https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c) | 2:53 | 2025-01-15 |  |
 | [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-27 |  |

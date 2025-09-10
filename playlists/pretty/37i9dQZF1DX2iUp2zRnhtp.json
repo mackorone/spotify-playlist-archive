@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 195012,
+  "num_followers": 195044,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 162070,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
         "name": "Fredagsbarn",
         "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 190946,
       "name": "Fredagsbarn",
       "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 162070,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
     },
     {
       "added_at": "2025-09-04 22:00:27",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
-        "name": "Sinekyre 3",
-        "url": "https://open.spotify.com/album/6Ths4hYYkTUDcnVCBf78pc"
-      },
-      "artists": [
-        {
-          "name": "Cezinando",
-          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Valentines",
-      "url": "https://open.spotify.com/track/1ane1ChBkbMgPL6mFkAFK5"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
         "name": "99 Problemer",
         "url": "https://open.spotify.com/album/4jv7JUXugDpAu0bHx89Q4n"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 152158,
       "name": "99 Problemer",
       "url": "https://open.spotify.com/track/4GrN08TEmpFC93cOf0S4sE"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
+        "name": "Sinekyre 3",
+        "url": "https://open.spotify.com/album/6Ths4hYYkTUDcnVCBf78pc"
+      },
+      "artists": [
+        {
+          "name": "Cezinando",
+          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Valentines",
+      "url": "https://open.spotify.com/track/1ane1ChBkbMgPL6mFkAFK5"
     },
     {
       "added_at": "2025-09-04 22:00:27",

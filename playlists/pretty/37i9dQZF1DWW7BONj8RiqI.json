@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 237359,
+  "num_followers": 237469,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Mood (feat. Kes)",
-        "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 217009,
-      "name": "Mood (feat. Kes)",
-      "url": "https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Same 24 Riddim",
         "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 158250,
       "name": "Payroll",
       "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Mood (feat. Kes)",
+        "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 217009,
+      "name": "Mood (feat. Kes)",
+      "url": "https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -707,18 +707,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+        "name": "Alien Head Riddim",
+        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         }
       ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+      "duration_ms": 145500,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -739,22 +743,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Alien Head Riddim",
-        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
       },
       "artists": [
         {
-          "name": "V'ghn",
-          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Explore",
-      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
-      },
-      "artists": [
-        {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
-        }
-      ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+      },
+      "artists": [
+        {
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+        }
+      ],
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -871,18 +871,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+        "name": "One Degree Hotter",
+        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+      "duration_ms": 158413,
+      "name": "Fling It Up",
+      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -903,22 +907,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "One Degree Hotter",
-        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Fling It Up",
-      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 238032,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+        "name": "Long Live Soca",
+        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+      "duration_ms": 225251,
+      "name": "Long Live Soca",
+      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Long Live Soca",
-        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
       "artists": [
         {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 225251,
-      "name": "Long Live Soca",
-      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 258666,
       "name": "Hot-Hot-Hot",
       "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Dingolay",
-        "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 207034,
-      "name": "Dingolay",
-      "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Front Yard Wet",
         "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
@@ -1587,6 +1567,26 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Dingolay",
+        "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 207034,
+      "name": "Dingolay",
+      "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 206609,
       "name": "Search Party",
       "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Hot and Groovy",
+        "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
+      },
+      "artists": [
+        {
+          "name": "Militant",
+          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
+        }
+      ],
+      "duration_ms": 282567,
+      "name": "Hot and Groovy",
+      "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1627,22 +1643,6 @@
       "duration_ms": 138034,
       "name": "Fou Le Bordel",
       "url": "https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Hot and Groovy",
-        "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
-      },
-      "artists": [
-        {
-          "name": "Militant",
-          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
-        }
-      ],
-      "duration_ms": 282567,
-      "name": "Hot and Groovy",
-      "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
-      },
-      "artists": [
-        {
-          "name": "Militant",
-          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
-        }
-      ],
-      "duration_ms": 256210,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Whale Fu See",
         "url": "https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 207000,
       "name": "Whale Fu See",
       "url": "https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
+      },
+      "artists": [
+        {
+          "name": "Militant",
+          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
+        }
+      ],
+      "duration_ms": 256210,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
     }
   ],
   "unique_name": "Massive Soca Hits",

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:5qK8WYVzvkaBcoe4CDfuyY">KUNTARI</a> on cover\. Artwork by Thami Nabil
 
-2,089 songs - 6 day 18 hr 31 min
+2,090 songs - 6 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,7 @@
 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 | 2022-01-12 | 2022-03-21 |
 | [Et quart](https://open.spotify.com/track/0qDsMkTla75n5Drd78ERc5) | [Simone Provencher](https://open.spotify.com/artist/1irk8yesuKyeCxWRrhbHxw) | [Et quart](https://open.spotify.com/album/7A2EPBRqLNWRT02uLFj7Hv) | 2:35 | 2021-03-17 | 2021-03-23 |
 | [Eternal Whisper](https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI) | [C O N T X T](https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW) | [Lone Memory](https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno) | 4:39 | 2023-05-17 | 2023-08-31 |
-| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 |  |
+| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 | 2025-09-10 |
 | [Ett visst fängelse](https://open.spotify.com/track/40qQK6EwccUHakM0Cdn2uQ) | [VED](https://open.spotify.com/artist/2gJZDY6Eow1T1T4Cb9cVYm) | [Ett visst fängelse](https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP) | 4:37 | 2021-04-15 | 2021-06-24 |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2022-05-18 | 2022-08-04 |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2022-10-05 |
@@ -1065,6 +1065,7 @@
 | [Lulala](https://open.spotify.com/track/66MFk8bSS0sphKrUHTfaqV) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Lulala](https://open.spotify.com/album/6c8wEQjrciMpfViwTubnwF) | 2:26 | 2021-09-16 | 2021-12-02 |
 | [Lumbago](https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j) | [\[BORDERS\]](https://open.spotify.com/artist/1R9x7GaOIBxNsWsUo8KRdu) | [Lumbago](https://open.spotify.com/album/5VdPz6FNMsqG1zkipJgxiB) | 2:43 | 2023-01-11 | 2023-03-23 |
 | [M185\-2SYS1M](https://open.spotify.com/track/4QEF9akZQoJmsmYk69QUT3) | [MPU101](https://open.spotify.com/artist/2P7CNpfHB0cOsqu0Gwl8he) | [Mpu101](https://open.spotify.com/album/4jBuDEeDfgZjsT5veRoV42) | 8:07 | 2021-08-26 | 2021-12-01 |
+| [M29](https://open.spotify.com/track/2Qs0YnwrRRHoggAqR0LxCR) | [The Delay in the Universal Loop](https://open.spotify.com/artist/1gGgZFg6XipWjLJ1fdfdeG) | [M29](https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja) | 3:08 | 2025-09-05 |  |
 | [Macrocosmic](https://open.spotify.com/track/7qTolx0KStURABh9ipO1bm) | [33EMYBW](https://open.spotify.com/artist/0faVPXr9Sui0OWJl2hRDQT) | [Trans\-Aeon Express](https://open.spotify.com/album/34vMtaLPSyIefHo5pL3XBG) | 4:29 | 2022-04-06 | 2022-06-30 |
 | [MADE OF CLAY](https://open.spotify.com/track/6PhbV6u1G9tGZIqf2xbWT2) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0) | [NON\-BACKGROUND MUSIC](https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF) | 3:01 | 2022-11-30 | 2023-03-02 |
 | [MADE OF CLAY](https://open.spotify.com/track/7FEd0fYhvhMsBgxFmz0SlU) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0) | [MADE OF CLAY](https://open.spotify.com/album/2MDOJO9U0igiRAr11hirtH) | 3:01 | 2022-03-31 | 2022-06-30 |

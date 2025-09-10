@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Jewels Sparkles, Lexi Love, Ariana Grande and Sam Star are a main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,454 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,582 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,407 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,553 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 | 38 | [Solo Flight](https://open.spotify.com/track/1lEl4lpzCizjGuSAj9LScd) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Edge of Tomorrow: Original Motion Picture Soundtrack](https://open.spotify.com/album/0OLSUkWKfruT1g96p466lP) | 3:11 |
 | 39 | [Song on the Beach](https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 3:35 |
 | 40 | [Elena's Sound\-World](https://open.spotify.com/track/5E8YGnOFlnKXO2anBSuHoJ) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5xrI7yn0HPrGKFYODgMtES) | 5:10 |
-| 41 | [Earth](https://open.spotify.com/track/1iZ1nPS3fNaN68uZRUJPmV) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Prometheus](https://open.spotify.com/album/6EBKizssvnyirTMsefFuXh) | 2:35 |
+| 41 | [Earth](https://open.spotify.com/track/1iZ1nPS3fNaN68uZRUJPmV) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM), [Ben Foster](https://open.spotify.com/artist/6Gp8BbKAqPO3R0UAYkm8J0), [Metro Voices](https://open.spotify.com/artist/1xOu87MVQLtCUObGJCOaEG), [The Bach Choir](https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM), [Apollo Voices](https://open.spotify.com/artist/2qzv3PmWtIAcLFAWVsrw0N) | [Prometheus](https://open.spotify.com/album/6EBKizssvnyirTMsefFuXh) | 2:35 |
 | 42 | [Prawnkus](https://open.spotify.com/track/7BcP7BxG7eu9PxTckz1jz6) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [District 9 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3F4kQDXbqW842P77PeXcaR) | 4:00 |
 | 43 | [Everything Comes Around](https://open.spotify.com/track/5CdOCKgKWUxNRaVS3P9o9t) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Looper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5agtjIi8N9Eklm32TC8pa8) | 2:38 |
 | 44 | [The Thing \- From "The Thing"](https://open.spotify.com/track/3prpCQntkUBMO4AYhHlGZr) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Gareth Williams](https://open.spotify.com/artist/6FEm5Itid5H7ppKPEEMhuu) | [The Essential Ennio Morricone](https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn) | 4:28 |

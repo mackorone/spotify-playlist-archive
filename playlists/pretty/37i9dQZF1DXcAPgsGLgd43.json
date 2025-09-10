@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 97014,
+  "num_followers": 97124,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "Pliva",
-        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 244570,
-      "name": "Pliva",
-      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
-    },
-    {
-      "added_at": "2025-09-05 04:00:17",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2025-09-05 04:00:17",
-      "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 155202,
       "name": "Magalenha",
       "url": "https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2025-09-05 04:00:17",
-      "album": {
         "name": "OBSESION",
         "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 217500,
       "name": "OBSESION",
       "url": "https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "LA RUTA X M\u00c9XICO, Vol. 2",
-        "url": "https://open.spotify.com/album/4kcuB1PlOpKl56AuiS8Cly"
+        "name": "Capitale",
+        "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
       },
       "artists": [
         {
-          "name": "FLAKO STIK",
-          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
         }
       ],
-      "duration_ms": 229302,
-      "name": "APRETADITA",
-      "url": "https://open.spotify.com/track/0Tw7c8S3WomBBM39cKJgxz"
+      "duration_ms": 203520,
+      "name": "Capitale",
+      "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1775,22 +1775,6 @@
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2025-09-05 04:00:17",
-      "album": {
-        "name": "Capitale",
-        "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
-      },
-      "artists": [
-        {
-          "name": "Illyus Barrientos ",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Capitale",
-      "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1831,6 +1815,22 @@
       "duration_ms": 165123,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "LA RUTA X M\u00c9XICO, Vol. 2",
+        "url": "https://open.spotify.com/album/4kcuB1PlOpKl56AuiS8Cly"
+      },
+      "artists": [
+        {
+          "name": "FLAKO STIK",
+          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+        }
+      ],
+      "duration_ms": 229302,
+      "name": "APRETADITA",
+      "url": "https://open.spotify.com/track/0Tw7c8S3WomBBM39cKJgxz"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1907,22 +1907,18 @@
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
       },
       "artists": [
         {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Benja (NL)",
-          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 160000,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
+      "duration_ms": 185650,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1947,38 +1943,22 @@
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
-        "name": "Bailame",
-        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 185650,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
-    },
-    {
-      "added_at": "2025-09-05 04:00:17",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
         },
         {
-          "name": "Morry",
-          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
         }
       ],
-      "duration_ms": 120120,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
+      "duration_ms": 160000,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -2003,6 +1983,26 @@
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2025-09-05 04:00:17",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+        }
+      ],
+      "duration_ms": 120120,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
     },
     {
       "added_at": "2025-09-05 04:00:17",

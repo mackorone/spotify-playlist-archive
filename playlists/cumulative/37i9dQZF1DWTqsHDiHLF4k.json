@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 805047,
+      "name": "Litanic Cloth Wrung",
+      "url": "https://open.spotify.com/track/2Z6xsVQXXfp6rZMrdc4EXY"
+    },
+    {
+      "album": {
         "name": "Sonido C\u00f3smico",
         "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
       },

@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "God Damn Baby",
+        "url": "https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192744,
+      "name": "God Damn Baby",
+      "url": "https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t"
+    },
+    {
+      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },

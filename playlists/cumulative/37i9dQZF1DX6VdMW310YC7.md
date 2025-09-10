@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,809 songs - 5 day 3 hr 5 min
+1,810 songs - 5 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 | 2020-03-20 | 2020-07-03 |
 | [Dusk](https://open.spotify.com/track/1EfvfZvqp2XqmoxjKYzmie) | [OKO](https://open.spotify.com/artist/3OhUF302MItZZi3UsCr2Nd) | [Afterlight](https://open.spotify.com/album/0eMEGygqg8kTzzy21T6ubq) | 1:28 | 2020-08-06 | 2020-08-20 |
 | [Early Summer](https://open.spotify.com/track/4HkWtJ0xN3bHxxXUEdTTGT) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:43 | 2020-05-18 | 2021-03-06 |
-| [easy](https://open.spotify.com/track/3IaiBk51hqgCSuwEdRKPdz) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i wish u stayed](https://open.spotify.com/album/7qxf7x7y1ci7UAqR5u7PkC) | 2:12 | 2025-07-25 |  |
+| [easy](https://open.spotify.com/track/3IaiBk51hqgCSuwEdRKPdz) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i wish u stayed](https://open.spotify.com/album/7qxf7x7y1ci7UAqR5u7PkC) | 2:12 | 2025-07-25 | 2025-09-10 |
 | [Easy \- Mild Minds Remix](https://open.spotify.com/track/2VpJB1vzL9ZadZ3gF8GQBv) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [Easy \(Mild Minds Remix\)](https://open.spotify.com/album/1wPZA3sgmTciBOhylvZNmv) | 5:56 | 2020-11-20 | 2022-05-03 |
 | [Easy On My Love](https://open.spotify.com/track/42vz4Q29BTq6MH4HFDtsi1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Easy On My Love](https://open.spotify.com/album/3FL3JphfQUd1U0TCmToEnU) | 3:04 | 2020-05-18 | 2020-07-03 |
 | [Echo](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb) | [Echo](https://open.spotify.com/album/6vKDIm7hQAZXncP0Amssaj) | 2:26 | 2024-09-20 | 2025-02-05 |
@@ -1169,6 +1169,7 @@
 | [Off the Grid \- Mastrovita Remix Edit](https://open.spotify.com/track/6vrrOd2wEt0gXlWBwuzEEK) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Mastrovita](https://open.spotify.com/artist/4XU8dozOz0okhDgr9Fq3eN) | [Off the Grid \(Mastrovita Remix\)](https://open.spotify.com/album/4hZTx54cIDanVGHKCUK5A7) | 4:12 | 2020-03-28 | 2020-05-22 |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2021-01-15 | 2023-09-23 |
 | [Omni DX](https://open.spotify.com/track/0f0VD49YdgKYG1e0ASVmJz) | [Christopher Ledger](https://open.spotify.com/artist/7E23JdeLeRkzJFuIY5KUwA) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 4:22 | 2020-08-20 | 2020-10-09 |
+| [On A Clear Day, You Can See Forever \- Edit](https://open.spotify.com/track/7fR7zOZyrIHUvP1zMOcLbk) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [On A Clear Day, You Can See Forever](https://open.spotify.com/album/3FoFmPO5kxgqonzSGWQ8IW) | 3:39 | 2025-09-05 |  |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/01W0uSuNffDSC2RT8Cjha3) | 6:11 | 2020-08-06 | 2020-10-09 |
 | [On My Mind \- Billy Kenny Remix](https://open.spotify.com/track/4wdUnILEeWFzbB6tEaw3cH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Billy Kenny](https://open.spotify.com/artist/4vOWtH59x00IhY805tdf74) | [On My Mind \(Billy Kenny Remix\)](https://open.spotify.com/album/5dUpZKc2pZ0mEAWOhiG3f8) | 3:16 | 2020-05-18 | 2020-08-20 |
 | [On My Way Up](https://open.spotify.com/track/2JViNGfwCV8wdoJn0kRWOH) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [On My Way Up](https://open.spotify.com/album/0C7s5jlJsgQhGOEthEaogL) | 3:16 | 2020-05-18 | 2020-07-03 |

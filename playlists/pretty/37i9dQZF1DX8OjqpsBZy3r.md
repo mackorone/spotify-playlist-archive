@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Jake Banfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,774 likes - 91 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,771 likes - 91 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

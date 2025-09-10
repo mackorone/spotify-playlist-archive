@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Jordan Patterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,077 likes - 251 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,238 likes - 251 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

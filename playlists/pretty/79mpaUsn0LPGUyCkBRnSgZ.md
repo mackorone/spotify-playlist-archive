@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 570 songs - 1 day 13 hr 21 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 578 songs - 1 day 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -572,11 +572,19 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 562 | [Everything's Fine](https://open.spotify.com/track/61yVt2xUIrwYI53xY3jSFE) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Everything's Fine](https://open.spotify.com/album/51WZxnoOPfdGY2yUwfCLhf) | 1:07 |
 | 563 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 |
 | 564 | [Look At You](https://open.spotify.com/track/5eA4dnhQQbUVRohOqK2AWd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 2:59 |
-| 565 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z), [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 |
-| 566 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
-| 567 | [I Am One \- Remastered 2011](https://open.spotify.com/track/4iChoIsP14WSZ575hCqcGK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Remastered\)](https://open.spotify.com/album/7wJTn94PWzZ3zE0lg3qhld) | 4:06 |
-| 568 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
-| 569 | [More Today](https://open.spotify.com/track/6hmpvFKplIrMc7sySSl94Q) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Blue Reminder](https://open.spotify.com/album/7GeWoOysWD8oI0BdddsMxH) | 5:07 |
-| 570 | [i hate this tune](https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:31 |
+| 565 | [So Long Tomorrow](https://open.spotify.com/track/384wU9PSPK2iFuG2w1uQLm) | [Liam Kazar](https://open.spotify.com/artist/0wovYvR7eYIDf61MWmxjX9) | [Due North](https://open.spotify.com/album/76tlE2bLEsZmJq4SgZYbQt) | 4:20 |
+| 566 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z), [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 |
+| 567 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
+| 568 | [I Am One \- Remastered 2011](https://open.spotify.com/track/4iChoIsP14WSZ575hCqcGK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Remastered\)](https://open.spotify.com/album/7wJTn94PWzZ3zE0lg3qhld) | 4:06 |
+| 569 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
+| 570 | [More Today](https://open.spotify.com/track/6hmpvFKplIrMc7sySSl94Q) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Blue Reminder](https://open.spotify.com/album/7GeWoOysWD8oI0BdddsMxH) | 5:07 |
+| 571 | [i hate this tune](https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:31 |
+| 572 | [Morbid Stuff](https://open.spotify.com/track/19Sozc70q82PgkezdFv80F) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 2:44 |
+| 573 | [Leather Jacket](https://open.spotify.com/track/1Ngmwr134PMuIAToxIjoRb) | [Thunderbitch](https://open.spotify.com/artist/5sucRI2dyTcvYWnW0VkRip) | [Thunderbitch](https://open.spotify.com/album/2iG70Yjy6X5DmWGvNNNjkE) | 3:19 |
+| 574 | [Cactus People](https://open.spotify.com/track/50G4xuYM2BW4Z16N7ZHlPV) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [End of Everything](https://open.spotify.com/album/0WXRuxDKpoZgbBeEsD2Umx) | 3:30 |
+| 575 | [Undesigned](https://open.spotify.com/track/671aKYHCinUvphO3iL6u9H) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi) | [Performing Belief](https://open.spotify.com/album/46lAvJ3wAf4lE27vCUMwPW) | 4:59 |
+| 576 | [Mood Ring](https://open.spotify.com/track/644FhkwUGzrUwTZKCU1GYS) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 3:53 |
+| 577 | [Prelude](https://open.spotify.com/track/7KIWUT6JRWPgXMFeNLTyS4) | [Typhoon](https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl) | [White Lighter](https://open.spotify.com/album/4O1WEqjRcJqSjF0HhQPm31) | 0:17 |
+| 578 | [Ashes in the Snow \- Remastered](https://open.spotify.com/track/6ieH021IWLGOGifX0FUzsM) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 11:44 |
 
-Snapshot ID: `AAAHoA9LIxTEwuW8yQ+FfOYhWb4H42TM`
+Snapshot ID: `AAAHqfC/IfKTvnSl1dDgZiqwAuy7BV8t`

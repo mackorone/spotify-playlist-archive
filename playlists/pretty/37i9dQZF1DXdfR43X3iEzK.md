@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,134 likes - 88 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,125 likes - 88 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

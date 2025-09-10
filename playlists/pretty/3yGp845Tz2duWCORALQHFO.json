@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABj43PeVS56MWi/M/mUpSs7NwBLKkPq",
+  "snapshot_id": "AABj5kBTY15cnLJ/Z37oiVk7lxJ/3hSg",
   "tracks": [
     {
       "added_at": "2025-09-05 12:47:24",
@@ -27,30 +27,6 @@
       "duration_ms": 219087,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
-    },
-    {
-      "added_at": "2025-09-05 18:46:54",
-      "album": {
-        "name": "Better days",
-        "url": "https://open.spotify.com/album/4eerkYPr8sRneKaF9ODWE5"
-      },
-      "artists": [
-        {
-          "name": "EVERSS",
-          "url": "https://open.spotify.com/artist/12a2buyQmgUAKYPOZD4VZE"
-        },
-        {
-          "name": "Arcadia 87",
-          "url": "https://open.spotify.com/artist/2jpmNgnkk4qMIB153BRLfT"
-        },
-        {
-          "name": "Krysta Youngs",
-          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Better days",
-      "url": "https://open.spotify.com/track/1lfcqRvYm1r8OieBMNwgSr"
     },
     {
       "added_at": "2025-09-05 12:47:24",
@@ -313,6 +289,30 @@
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
+      "added_at": "2025-09-05 18:46:54",
+      "album": {
+        "name": "Better days",
+        "url": "https://open.spotify.com/album/4eerkYPr8sRneKaF9ODWE5"
+      },
+      "artists": [
+        {
+          "name": "EVERSS",
+          "url": "https://open.spotify.com/artist/12a2buyQmgUAKYPOZD4VZE"
+        },
+        {
+          "name": "Arcadia 87",
+          "url": "https://open.spotify.com/artist/2jpmNgnkk4qMIB153BRLfT"
+        },
+        {
+          "name": "Krysta Youngs",
+          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Better days",
+      "url": "https://open.spotify.com/track/1lfcqRvYm1r8OieBMNwgSr"
+    },
+    {
       "added_at": "2025-09-05 12:47:24",
       "album": {
         "name": "When It Kicks",
@@ -503,6 +503,22 @@
       "duration_ms": 201716,
       "name": "Charma",
       "url": "https://open.spotify.com/track/0K7SkpnKer4yv8gDF1t0EF"
+    },
+    {
+      "added_at": "2025-09-09 12:36:51",
+      "album": {
+        "name": "Red Sun",
+        "url": "https://open.spotify.com/album/14P5RimYJnaW6Po17auOIB"
+      },
+      "artists": [
+        {
+          "name": "CEEJAY",
+          "url": "https://open.spotify.com/artist/2JCvYYdgDsrzL6DTwKV0WI"
+        }
+      ],
+      "duration_ms": 401860,
+      "name": "Red Sun - Original Mix",
+      "url": "https://open.spotify.com/track/45PAFiMiXH2bIGzInuG0Fr"
     },
     {
       "added_at": "2025-09-05 12:47:24",
@@ -1191,7 +1207,7 @@
     {
       "added_at": "2025-09-05 12:47:24",
       "album": {
-        "name": "Won\u2019t Let Me Down Feat. Teddy Bee",
+        "name": "Won\u2019t Let Me Down",
         "url": "https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf"
       },
       "artists": [
@@ -1205,7 +1221,7 @@
         }
       ],
       "duration_ms": 179901,
-      "name": "Won\u2019t Let Me Down Feat. Teddy Bee",
+      "name": "Won\u2019t Let Me Down",
       "url": "https://open.spotify.com/track/32159t5a24N9hqjyKk09E2"
     },
     {

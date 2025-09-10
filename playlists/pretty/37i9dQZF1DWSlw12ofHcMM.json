@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1371111,
+  "num_followers": 1370993,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Hawk",
-        "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
-      },
-      "artists": [
-        {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
-        },
-        {
-          "name": "Mark Lanegan",
-          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Snake Song",
-      "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Ain't No Angel",
         "url": "https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F"
       },
@@ -827,18 +807,38 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/60QwS2TtQfyLMdMcbc6ayo"
+        "name": "Hawk",
+        "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
       "artists": [
         {
-          "name": "Striking Matches",
-          "url": "https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar"
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
         }
       ],
-      "duration_ms": 205106,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/17KeHeGWyRNkbGnZxGBPl7"
+      "duration_ms": 168066,
+      "name": "Snake Song",
+      "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wild Horses",
+        "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
+      },
+      "artists": [
+        {
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
     }
   ],
   "unique_name": "Swagger",

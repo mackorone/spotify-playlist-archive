@@ -2945,6 +2945,28 @@
     },
     {
       "album": {
+        "name": "Cloud9",
+        "url": "https://open.spotify.com/album/7DaOuJSWAfL98jLvZZk46D"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162700,
+      "name": "Cloud9",
+      "url": "https://open.spotify.com/track/1wNA3wgfFjnCiyHYxP1ikT"
+    },
+    {
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
       },
@@ -6696,7 +6718,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 182143,
       "name": "Hangang (feat. heyden)",
       "url": "https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh"
@@ -6924,6 +6946,24 @@
       "duration_ms": 244560,
       "name": "Heavy Going - Single Ver.",
       "url": "https://open.spotify.com/track/2o3wx46DLWC0kUiS6js2OJ"
+    },
+    {
+      "album": {
+        "name": "Hello, Goodbye",
+        "url": "https://open.spotify.com/album/0HONgJtedOHoxfciPlocSQ"
+      },
+      "artists": [
+        {
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161563,
+      "name": "Hello, Goodbye",
+      "url": "https://open.spotify.com/track/6MKJgg1iFKGOOpqge8vhhD"
     },
     {
       "album": {
@@ -9994,7 +10034,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 285568,
       "name": "Love Is Ever",
       "url": "https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I"

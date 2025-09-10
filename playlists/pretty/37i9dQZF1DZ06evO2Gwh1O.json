@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLjWgAAAAADH2vxkfVCWlFBTx42x303n",
+  "snapshot_id": "aL4cgAAAAAD1MtkRLON3P/8trJE4vHhh",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter and Verse (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2Kiv01tDOjJHfdrKMaMdiB"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 172484,
+      "name": "Inequality - Acoustic",
+      "url": "https://open.spotify.com/track/2tAhyUBTov0FYhC1CWnpL7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memory and Humanity",
         "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
       },
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/44eng7ExTQkaFF4LynNel6"
+      "duration_ms": 216280,
+      "name": "Medicated",
+      "url": "https://open.spotify.com/track/5YzLBe3IOcWlZLcqLFh5MM"
     },
     {
       "added_at": null,

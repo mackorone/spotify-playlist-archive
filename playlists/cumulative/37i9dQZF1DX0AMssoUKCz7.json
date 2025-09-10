@@ -620,7 +620,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 165250,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5dHVdvmMAse7yVWILKU9Im"
@@ -12242,6 +12242,28 @@
       "duration_ms": 166693,
       "name": "Shatterproof - Sebastian Davidson Remix",
       "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
+    },
+    {
+      "album": {
+        "name": "She Drives Me Crazy (Flight Facilities Rework)",
+        "url": "https://open.spotify.com/album/35MOupjVC2Re0Po6nW78QO"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230978,
+      "name": "She Drives Me Crazy - Flight Facilities Rework",
+      "url": "https://open.spotify.com/track/3j1SntYaD51ScArVsxEGg8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 339 songs - 19 hr 16 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 342 songs - 19 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,7 +264,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 254 | [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [只野 楓](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 |
 | 255 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 |
 | 256 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 |
-| 257 | [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr\. Asyu](https://open.spotify.com/artist/1RJXUJYZGrX9fGK92SjecX) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 |
+| 257 | [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr.Asyu](https://open.spotify.com/artist/2x76aeXcs6SJ32Sjn2stDh) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 |
 | 258 | [終末ランデブー](https://open.spotify.com/track/3WFtirwUP1iD3bfd6tIt5y) | [KIBAKO](https://open.spotify.com/artist/52FeDz9u9qzZ6bUtQVXyJA), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [終末ランデブー](https://open.spotify.com/album/6yomWJFxoRLd0IuHlBBDJT) | 3:14 |
 | 259 | [ラプラスショコラ](https://open.spotify.com/track/1peOsJELHn8Clf4kjX9g71) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [ラプラスショコラ](https://open.spotify.com/album/7fRf7AoKjsuAMstix32dwX) | 2:17 |
 | 260 | [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 |
@@ -347,5 +347,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 337 | [Marionette](https://open.spotify.com/track/6yrpCHRQ3ToeqhuT9L1il9) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 3:53 |
 | 338 | [Après Midi あるパリの午後で](https://open.spotify.com/track/1NzZbipnZxnXkQiMvBqF1O) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Après Midi あるパリの午後で](https://open.spotify.com/album/6fz8W3GN3EelNG8EKo19Jk) | 5:21 |
 | 339 | [Que Sera Sera](https://open.spotify.com/track/4IZg9U48i5a3gv3NBJdXeq) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [Succubus≒incubuS](https://open.spotify.com/album/2CMCQdf27MEYtVxyzSFYX7) | 4:49 |
+| 340 | [Just want to be loved](https://open.spotify.com/track/0xi0R1BxoTDQWvR7WNiNzx) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Just want to be loved](https://open.spotify.com/album/2diwMijpMjbeELSNjsQn0a) | 2:14 |
+| 341 | [Gekka No Yasoukyoku](https://open.spotify.com/track/721KUzd7jt8eUV1Xp25N5l) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Gekka No Yasoukyoku](https://open.spotify.com/album/6WxenSfRkZvHBclA99ZnMp) | 3:52 |
+| 342 | [カリスマティック・スーパードゥーパー・ロックスター](https://open.spotify.com/track/0lZbtgvlgjamaFfqLI27EL) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:39 |
 
-Snapshot ID: `AAAJRmlCIxZjy9WSifl0K4xELR5/F/T+`
+Snapshot ID: `AAAJSxpQ9rCgl5zN68nhN965IJ6odcn7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 慶祝全球RADAR 藝人突破 1千，回顧前RADAR 藝人歌曲，以及2025新聲！Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,563 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,562 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2091,
+  "num_followers": 2090,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLooAAAAAAB9uw+zcz0bdafX0tkxPawZ",
+  "snapshot_id": "aL4cgAAAAACm4AJh4qI/kSwtI0gyJw07",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
-        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
-      },
-      "artists": [
-        {
-          "name": "Jared Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 163370,
-      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
-      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electromorbo",
         "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 175121,
       "name": "Electromorbo",
       "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
+        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
+      },
+      "artists": [
+        {
+          "name": "Jared Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
+      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
     },
     {
       "added_at": null,

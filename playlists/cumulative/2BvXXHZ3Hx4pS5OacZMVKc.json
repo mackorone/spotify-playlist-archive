@@ -4481,6 +4481,28 @@
     },
     {
       "album": {
+        "name": "lucy",
+        "url": "https://open.spotify.com/album/2a5ltRkgmcm8pRKAz0QYU4"
+      },
+      "artists": [
+        {
+          "name": "criticaleye",
+          "url": "https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr"
+        },
+        {
+          "name": "EVILDXER",
+          "url": "https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183208,
+      "name": "lucy",
+      "url": "https://open.spotify.com/track/2l2SwNMa5iKuCUa5909YNY"
+    },
+    {
+      "album": {
         "name": "Luna (Mendum Remix)",
         "url": "https://open.spotify.com/album/50H2keG7LNU0oSNsBuiXem"
       },

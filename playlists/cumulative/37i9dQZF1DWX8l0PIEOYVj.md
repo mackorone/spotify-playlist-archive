@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with ILLENIUM and HAYLA
 
-806 songs - 2 day 0 hr 7 min
+807 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-07-08 | 2024-05-08 |
 | [Forever](https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Forever](https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL) | 3:28 | 2024-08-09 | 2025-08-10 |
 | [Forever \(feat\. Elley Duhé\)](https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Forever](https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp) | 3:07 | 2022-10-28 | 2024-07-27 |
-| [Forever Now](https://open.spotify.com/track/4mKr1vziKTFOHjQknnHjUS) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Forever Now](https://open.spotify.com/album/4OTVrwP6x0I5TEZvnoNz0p) | 3:16 | 2024-02-16 |  |
+| [Forever Now](https://open.spotify.com/track/4mKr1vziKTFOHjQknnHjUS) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Forever Now](https://open.spotify.com/album/4OTVrwP6x0I5TEZvnoNz0p) | 3:16 | 2024-02-16 | 2025-09-10 |
 | [Forever Weather](https://open.spotify.com/track/3wCsfRHQyIQy9FILG0QwmS) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Forever Weather](https://open.spotify.com/album/06pwFXiNwMAmtHIRSiBOJD) | 3:50 | 2024-11-06 | 2024-12-31 |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-07-08 | 2023-04-09 |
 | [forevermore](https://open.spotify.com/track/7soCYKOcLTUdtzgOYuLHiI) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:51 | 2025-02-28 | 2025-07-12 |
@@ -728,6 +728,7 @@
 | [Too Long \(feat\. Cruel Youth\)](https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Cruel Youth](https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG) | [Too Long \(feat\. Cruel Youth\)](https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430) | 4:41 | 2023-03-03 | 2024-06-18 |
 | [Toxic](https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Toxic](https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg) | 3:17 | 2023-09-01 | 2024-08-03 |
 | [Trailblazer](https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Trailblazer](https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr) | 3:58 | 2024-07-26 |  |
+| [Transcend](https://open.spotify.com/track/1CWRGFM8aTjZqZAGaXNnRI) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd) | [Transcend](https://open.spotify.com/album/1bgfmOhcYX9Die6K8Lx1fr) | 3:47 | 2025-09-05 |  |
 | [Treading Water](https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Treading Water](https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [Treading Water](https://open.spotify.com/track/4iQnJ1nbzIqRirVI1Q2ig8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:33 | 2022-07-29 | 2024-04-19 |
 | [Treading Water](https://open.spotify.com/track/7vQb9oBfIo2q8IggQ4Bkjy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:33 | 2022-07-08 | 2022-08-04 |

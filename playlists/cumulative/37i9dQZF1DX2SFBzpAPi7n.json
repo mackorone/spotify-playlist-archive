@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "25 Degrees",
+        "url": "https://open.spotify.com/album/44MAHGCmFvYOMpZCLITnIt"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "25 Degrees",
+      "url": "https://open.spotify.com/track/3IEKV05dKEd2vpxmkfm4ig"
+    },
+    {
+      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/5rdXLxhpGKj3IchwANaYCT"
       },
@@ -4352,7 +4370,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 207000,
       "name": "Eternal Comet",
       "url": "https://open.spotify.com/track/3keRGUVp2RfdDi1Jgtk2Id"
@@ -6284,6 +6302,24 @@
       "duration_ms": 189934,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
+    },
+    {
+      "album": {
+        "name": "HAPPY END",
+        "url": "https://open.spotify.com/album/4oeu1FxKhrHHCdh806ONd1"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250299,
+      "name": "HAPPY END",
+      "url": "https://open.spotify.com/track/4zGVzGt73dO1xaiPu0Wd1E"
     },
     {
       "album": {
@@ -9986,6 +10022,24 @@
       "duration_ms": 169026,
       "name": "Midnight's Cat",
       "url": "https://open.spotify.com/track/2BZLUI9quqfN84GvUlu0ZY"
+    },
+    {
+      "album": {
+        "name": "Yamako Romance",
+        "url": "https://open.spotify.com/album/6IWL2gi1MYShUDZ27u7zEf"
+      },
+      "artists": [
+        {
+          "name": "Binn",
+          "url": "https://open.spotify.com/artist/7phylm2pxN4pWFuGAbSzW3"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232097,
+      "name": "midsummer",
+      "url": "https://open.spotify.com/track/5lOnGtpKkct2faM1SdFHQ2"
     },
     {
       "album": {
@@ -18334,7 +18388,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 296000,
       "name": "Your Letter",
       "url": "https://open.spotify.com/track/3w1Q9xlMlm4NeG5ydVSfwP"
@@ -18478,7 +18532,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-10",
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"

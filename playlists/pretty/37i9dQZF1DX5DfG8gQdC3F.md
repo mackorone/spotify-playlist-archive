@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Justin Bieber, Drake & PARTYNEXTDOOR, Lady Gaga, Calvin Harris & Jessie Reyez,  Goldie Boutilier and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,058 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,213 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

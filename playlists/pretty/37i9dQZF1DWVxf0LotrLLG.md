@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Farruko & Louis BPM
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,954 likes - 315 songs - 16 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,953 likes - 315 songs - 16 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment\. Cover: 7ari, Ramoon
+> Les hits du moment\. Cover: DJ Snake
 
 464 songs - 1 day 0 hr 46 min
 
