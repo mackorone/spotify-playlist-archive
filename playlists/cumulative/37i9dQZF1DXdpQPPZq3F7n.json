@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 260133,
       "name": "Aashiqui Aa Gayi",
       "url": "https://open.spotify.com/track/7Bnc9gWHdjZAmjSuTY42CJ"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 259736,
       "name": "Bas Ek Dhadak - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/1aV0CbIZbMGpYRFyTh4apW"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 202864,
       "name": "Bheegi Saree - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/3z47FzesU0MyJKwpCGxOMp"
@@ -6728,6 +6728,28 @@
       "duration_ms": 314239,
       "name": "Ye Tune Kya Kiya",
       "url": "https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL"
+    },
+    {
+      "album": {
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241636,
+      "name": "Yeh Dooriyan",
+      "url": "https://open.spotify.com/track/6L4QbsQrP9ZiZdz9SfOSGV"
     },
     {
       "album": {

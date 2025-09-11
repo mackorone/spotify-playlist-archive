@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 73591,
+  "num_followers": 73645,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABdNK0YhcVDVWyZyvbHAaqb",
+  "snapshot_id": "aL9uAAAAAAAjWiCRwe3JL5c67Buzoht+",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 314186,
-      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life (The Prodigy Remix)",
         "url": "https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 300133,
       "name": "Lust For Life - The Prodigy Remix",
       "url": "https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "He's Frank (Slight Return)",
         "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 197013,
       "name": "He's Frank - Slight Return",
       "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Everybody's Talkin'",
-      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -523,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
       "artists": [
         {
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 126720,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
       "duration_ms": 240407,
       "name": "SHE",
       "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 271171,
-      "name": "James Bond",
-      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
+      "duration_ms": 271171,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
     },
     {
       "added_at": null,
@@ -703,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clair Obscur",
-        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
       },
       "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 245866,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -739,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+        "name": "Clair Obscur",
+        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
       "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+      "duration_ms": 245866,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
     },
     {
       "added_at": null,
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
     },
     {
       "added_at": null,
@@ -799,6 +783,42 @@
       "duration_ms": 366896,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181880,
+      "name": "Supermarket",
+      "url": "https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o"
     },
     {
       "added_at": null,
@@ -823,26 +843,6 @@
       "duration_ms": 206266,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skull Ring",
-        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "Supermarket",
-      "url": "https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o"
     },
     {
       "added_at": null,

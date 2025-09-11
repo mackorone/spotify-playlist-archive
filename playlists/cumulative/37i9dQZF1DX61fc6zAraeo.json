@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 161250,
       "name": "Combo",
       "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
@@ -4868,6 +4868,32 @@
       "duration_ms": 212238,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0fXkGPdyKItK9Lr6uHpRsZ"
+    },
+    {
+      "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120578,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
     },
     {
       "album": {

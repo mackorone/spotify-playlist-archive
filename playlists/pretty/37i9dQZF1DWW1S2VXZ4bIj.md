@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,597 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,722 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

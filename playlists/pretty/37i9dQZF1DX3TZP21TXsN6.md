@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Rz, Nafas, Def en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,541 likes - 39 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,535 likes - 39 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

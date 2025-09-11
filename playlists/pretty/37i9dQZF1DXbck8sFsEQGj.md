@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,413 likes - 45 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,783 likes - 45 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 | 40 | [Malang](https://open.spotify.com/track/31I8REXZtDjD1J4KrySTN8) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:37 |
 | 41 | [To Kia Hua](https://open.spotify.com/track/34sMJsoOUgj5g27ctBX1bj) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 4:37 |
 | 42 | [School Di Kitaab](https://open.spotify.com/track/0UNm31fHupWTaG5OACUyEV) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:01 |
-| 43 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |
+| 43 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |
 | 44 | [Na Tutteya Ve](https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Wajiha Naqvi](https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Sehar Gul Khan](https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk) | [Na Tutteya Ve](https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD) | 4:47 |
 | 45 | [Dil Khirki](https://open.spotify.com/track/6YrKCcOXiZQHHU6YxWUHZj) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Dil Khirki](https://open.spotify.com/album/3K9z78A8qaaJ2W4IZ8BRcY) | 3:24 |
 

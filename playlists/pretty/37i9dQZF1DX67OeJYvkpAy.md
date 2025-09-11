@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,322 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,311 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 49 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
 | 50 | [duck duck goose](https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr) | [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [J2](https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Dylan Hingston](https://open.spotify.com/artist/2ZtU4IjCSv0IspRu1xO6al) | [duck duck goose](https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR) | 3:12 |
 | 51 | [Bait](https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [Bait](https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22) | 2:13 |
-| 52 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
-| 53 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
+| 52 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
+| 53 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
 | 54 | [No Hook](https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [No Hook](https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz) | 2:19 |
 | 55 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
 | 56 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
@@ -87,20 +87,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 77 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
 | 78 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
 | 79 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
-| 80 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
-| 81 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
+| 80 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
+| 81 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
 | 82 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 83 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
 | 84 | [Love Don't Change](https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus) | [K5ive](https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM) | [Love Don't Change](https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5) | 3:34 |
 | 85 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
-| 86 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
+| 86 | [She Comes & Goes](https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp) | 3:19 |
 | 87 | [No Pain](https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb) | 2:45 |
 | 88 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
 | 89 | [Late Night Trips](https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Late Night Trips](https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE) | 1:37 |
 | 90 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
-| 91 | [She Comes & Goes](https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp) | 3:19 |
-| 92 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
-| 93 | [No Emotions](https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ) | 2:48 |
+| 91 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
+| 92 | [No Emotions](https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ) | 2:48 |
+| 93 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
 | 94 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 95 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
 | 96 | [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 |

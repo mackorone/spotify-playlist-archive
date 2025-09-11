@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 99531,
+  "num_followers": 99543,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Cuero Caliente",
-        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "El Momento En Que Est\u00e1s",
-      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Bajo Belgrano",
         "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 155466,
       "name": "Maribel Se Durmi\u00f3",
       "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Cuero Caliente",
+        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "El Momento En Que Est\u00e1s",
+      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
     },
     {
       "added_at": "2024-06-12 23:42:51",

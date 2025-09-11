@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,088 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,098 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 6 | [Púrpura \(Púrpura Session\)](https://open.spotify.com/track/3eFmZfGLtUO9s4NebDww5E) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Púrpura \(Púrpura Session\)](https://open.spotify.com/album/5kVyJetMKiKWmCqo2DUtqp) | 3:10 |
 | 7 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 8 | [Tenha Calma](https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:41 |
-| 9 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
+| 9 | [VAI DAR BOM](https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Vai dar Bom](https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5) | 3:24 |
 | 10 | [Pavão](https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:26 |
-| 11 | [VAI DAR BOM](https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Vai dar Bom](https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5) | 3:24 |
+| 11 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
 | 12 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 13 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
 | 14 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |

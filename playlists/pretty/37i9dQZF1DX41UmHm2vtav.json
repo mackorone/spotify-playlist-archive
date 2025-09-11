@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 490173,
+  "num_followers": 490255,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
     },
     {
       "added_at": "2025-08-29 03:01:04",

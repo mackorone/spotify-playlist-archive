@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 183546,
+  "num_followers": 183749,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 181640,
+      "name": "Sonora Y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -787,22 +803,6 @@
       "duration_ms": 282885,
       "name": "Yo Quisiera Entrar",
       "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Sonora Y Sus Ojos Negros",
-      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 169920,
-      "name": "Qu\u00e9 No Dar\u00eda",
-      "url": "https://open.spotify.com/track/6zWWMgNPLMHokpH2gRzyeS"
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+      "duration_ms": 169920,
+      "name": "Qu\u00e9 No Dar\u00eda",
+      "url": "https://open.spotify.com/track/6zWWMgNPLMHokpH2gRzyeS"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
+      "duration_ms": 216293,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
     },
     {
       "added_at": "2024-10-23 17:24:42",

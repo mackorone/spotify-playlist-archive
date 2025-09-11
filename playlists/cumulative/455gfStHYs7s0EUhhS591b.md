@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-214 songs - 12 hr 43 min
+215 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Midnight Sun](https://open.spotify.com/track/6Uorl6c3LQsYW7BOGr6uSX) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Chill Executive Officer \(CEO\), Vol\. 33 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4FsporRoDDvNkuv1jbMfTV) | 3:24 | 2025-07-18 |  |
 | [Moments](https://open.spotify.com/track/0BVCCuHQTb2z2XPbNIukLM) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Moments](https://open.spotify.com/album/12NHn5Y54ykNvSvwFrwV24) | 2:04 | 2025-07-18 |  |
 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Grow \(The Remixes\)](https://open.spotify.com/album/3dOltzM79aOC0iyFpxoZ9B) | 4:10 | 2025-07-18 |  |
+| [Most Precious Love](https://open.spotify.com/track/0ggvWBJsXvs2eHuPbuIwPK) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/1ZOKEIxWal7useozipXnXf) | 3:23 | 2025-09-10 |  |
 | [Music In You](https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Music In You](https://open.spotify.com/album/2XvXKXxsvh1OKl2KPkf1r8) | 3:05 | 2025-07-18 |  |
 | [Mystic Lands](https://open.spotify.com/track/3ASVcJLNtTfTEHeqOny2tf) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Mystic Lands](https://open.spotify.com/album/10DeLctLwEdDTZG8sO0te3) | 2:50 | 2025-09-05 |  |
 | [Nautique](https://open.spotify.com/track/7g7wn540OwEVUlC5AhgChj) | [Budakid](https://open.spotify.com/artist/2MNTXvxPuFuHRYSMN7EEFL), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Nautique](https://open.spotify.com/album/0Izz0xflKHaPgg27IgaIDF) | 3:36 | 2025-07-18 |  |

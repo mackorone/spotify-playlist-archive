@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,107 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,097 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 68 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 69 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 70 | [Something Stupid](https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Something Stupid](https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax) | 2:20 |
-| 71 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
-| 72 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
+| 71 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
+| 72 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 73 | [Six Degrees](https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA) | 3:14 |
 | 74 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 |
 | 75 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 80 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 81 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
 | 82 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 |
-| 83 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
-| 84 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
+| 83 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
+| 84 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 85 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 |
 | 86 | [Ambivalence](https://open.spotify.com/track/5VPnV3cj5awKANUS936zdj) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Ambivalence](https://open.spotify.com/album/2dRFudjIAnXpASi3YCZHb9) | 4:32 |
 | 87 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,538 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,551 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 38 | [Ready to Go \(Get Me Out of My Mind\)](https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:37 |
 | 39 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
 | 40 | [She Had the World](https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:47 |
-| 41 | [Trade Mistakes](https://open.spotify.com/track/62lc21zAcKWs11pbSOabO9) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:36 |
+| 41 | [Hurricane](https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:25 |
 | 42 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 |
 | 43 | [Do You Know What I'm Seeing?](https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:14 |
 
-Snapshot ID: `aL4cgAAAAAD+RzjWXV5NEbvUXKsG1Isk`
+Snapshot ID: `aL9uAAAAAACYuGrUoTPVe2C8VGFayXCA`

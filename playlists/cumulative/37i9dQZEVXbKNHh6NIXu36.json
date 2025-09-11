@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 163601,
       "name": "ALL IN (Lieblingslieder)",
       "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
@@ -9348,7 +9348,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -9366,7 +9366,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -27572,7 +27572,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 164426,
       "name": "JUPITER",
       "url": "https://open.spotify.com/track/4BFBtKLma6Vg8ylaOq0jAw"
@@ -49998,7 +49998,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -51355,6 +51355,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -51666,7 +51684,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -54382,7 +54400,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 138032,
       "name": "Unsicher",
       "url": "https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ"
@@ -54484,7 +54502,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -55746,7 +55764,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"

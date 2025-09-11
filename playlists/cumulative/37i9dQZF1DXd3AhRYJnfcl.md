@@ -4,12 +4,13 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  تووليت
 
-396 songs - 23 hr 4 min
+397 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [123](https://open.spotify.com/track/4BldduAq7YmZn3mimYdFZp) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [123](https://open.spotify.com/album/03yI5mAo2O493JwT1kfTbw) | 2:44 | 2024-10-02 | 2025-01-16 |
 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 | 2024-01-03 | 2024-06-22 |
+| [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 | 2025-09-09 |  |
 | [3amalna Ema](https://open.spotify.com/track/17JMZQiLWe3NxHGBv80ll3) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [3amalna Ema](https://open.spotify.com/album/3Udz2hgIlmKqxSW8c0mYJm) | 4:17 | 2023-09-01 | 2023-09-03 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-02 |
 | [3atma](https://open.spotify.com/track/47dZKuQLD7ubcY0TT0Q04x) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [3atma](https://open.spotify.com/album/0BDmbzmtap74a1IbNieQr1) | 3:19 | 2023-09-01 | 2024-01-21 |
@@ -397,7 +398,7 @@
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-09 | 2023-05-19 |
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-16 | 2023-08-19 |
 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-02-16 | 2024-06-14 |
-| [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 | 2025-05-13 |  |
+| [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 | 2025-05-13 | 2025-09-11 |
 | [يا نهار أبيض](https://open.spotify.com/track/2an88boj0ZLFW2fuR8rU62) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [يا نهار أبيض](https://open.spotify.com/album/5djktdDUUImWkep7ffYj9v) | 2:24 | 2024-09-09 | 2024-11-01 |
 | [ياما ليالى وانت مش معايا](https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [ياما ليالى وانت مش معايا](https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3) | 3:36 | 2024-12-12 |  |
 | [ياما ليالي وانت مش معايا](https://open.spotify.com/track/4OCP9kY5Mnyv3AprGs9Zsk) | [Sara Haitham](https://open.spotify.com/artist/754hCO2owSoa0vKgRiGTq0) | [ياما ليالي وانت مش معايا](https://open.spotify.com/album/7CRtNqX3fCBubRoNUO3JjG) | 3:51 | 2024-09-09 | 2025-03-13 |

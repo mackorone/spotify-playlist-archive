@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : I Am God
 
-1,689 songs - 4 day 6 hr 50 min
+1,690 songs - 4 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1525,6 +1525,7 @@
 | [Sundaravaaytu Mana](https://open.spotify.com/track/08DBdSiBJdXxLfeZWpjFCW) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Keshav Kumar](https://open.spotify.com/artist/6jv9y9YxviyybO5vk93QlJ), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Dear Sathya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JNVOyeDSU1PrAZlgEkml6) | 3:53 | 2022-02-28 | 2022-03-18 |
 | [Sundari](https://open.spotify.com/track/74FxChWHek6fCSz4JbHlxQ) | [Srikar Athreya](https://open.spotify.com/artist/25FU01YImlPAbLEGvp6E5X), [VIJAY LALITAA SURYA](https://open.spotify.com/artist/7501n7bptKE38lfFRj95QW), [Ranjan](https://open.spotify.com/artist/5DCVwNu8GwH5XNIXBLOKag) | [Sundari](https://open.spotify.com/album/13dbNOJ3Cmo5NrmueNZNFh) | 3:31 | 2024-05-13 | 2024-07-11 |
 | [Sundari Sukumaari \- From "Rajarathnakara"](https://open.spotify.com/track/6kvXJxDkFVhQjncC3f4nez) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Manjunath S Rao](https://open.spotify.com/artist/7jdzxNppAjTdrWWACfDBt2), [Harsha Vardhan Raaj](https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc) | [Sundari Sukumaari \(From "Rajarathnakara"\)](https://open.spotify.com/album/52o0S85G34NXNYsdOFJ0ms) | 3:00 | 2025-04-09 | 2025-06-30 |
+| [Sundari Sundari \- From "Peter \(Kannada\)"](https://open.spotify.com/track/4CKgFIA0Z0Qoy9yALIWOf0) | [Ritvik Muralidhar](https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sunidhi Ganesh](https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Sundari Sundari \[From "Peter \(Kannada\)"\]](https://open.spotify.com/album/4fcUiN0EQoITawDymBq0bI) | 4:42 | 2025-09-10 |  |
 | [Super Figaru Macchi \( From "Crush" \)](https://open.spotify.com/track/2Y4xtL9wCKGVpdiSKgMAXQ) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Vineeth Raj Menon](https://open.spotify.com/artist/6oqmm7nNRyAfBdevvHaJ7d) | [Super Figaru Macchi \( From "Crush" \)](https://open.spotify.com/album/5nM8B9vlyKlNIHCBcJAKwM) | 3:14 | 2024-02-01 | 2024-04-09 |
 | [Super Figure Figure Da \- From" Geleya"](https://open.spotify.com/track/1P0W8Z4iHDlTVIN8gbgxef) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [M.S.Thyagaraja](https://open.spotify.com/artist/5rCZqUof0PAWaGGwFIoZY4) | [Super Figure Figure Da \(From" Geleya"\)](https://open.spotify.com/album/6fF8yXAy7xXkQt48bs4U5j) | 2:08 | 2022-11-04 | 2022-11-22 |
 | [SuperHero HanuMan \(From "HanuMan"\) \[Kannada\]](https://open.spotify.com/track/6lp827xJFe7epEZXdZNvA9) | [Sai Veda Vagdevi](https://open.spotify.com/artist/581Act09xZmnig5orCHZpw), [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [SuperHero HanuMan \(From "HanuMan"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3gKVuxzjwOCtG7yVNsaRSb) | 3:48 | 2023-11-14 | 2024-01-20 |

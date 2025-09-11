@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 
 > Todo hits veraniegos para la mejor fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,002 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,219 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 | 56 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
 | 57 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 58 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
-| 59 | [Si Se Da \- Remix](https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Si Se da Remix](https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6) | 5:32 |
-| 60 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
+| 59 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
+| 60 | [Si Se Da \- Remix](https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Si Se da Remix](https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6) | 5:32 |
 | 61 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 |
 | 62 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
 | 63 | [Traicionera](https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:49 |

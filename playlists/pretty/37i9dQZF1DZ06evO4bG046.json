@@ -1,13 +1,29 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35361,
+  "num_followers": 35371,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACDqJG8xZ1POELvVblC6lEa",
+  "snapshot_id": "aL9uAAAAAAD948rBL9VeSzl86xNCyNmo",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
+    },
     {
       "added_at": null,
       "album": {
@@ -307,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Hijos de la Tierra",
-      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Bar-Restaurant \"Lo Que Nunca Se Supo\"",
         "url": "https://open.spotify.com/album/6U7nBpYnjEoCZih1oL2ohZ"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 205493,
       "name": "La Vida M\u00e1gica \u00a1Ay Si! (En Vivo, Concierto en Londres 1979)",
       "url": "https://open.spotify.com/track/4A8IFmoeWBY7cHtAdUllur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Antigua Am\u00e9rica",
-      "url": "https://open.spotify.com/track/08d3JzTtDDivrdsOGuiv35"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Antigua Am\u00e9rica",
+      "url": "https://open.spotify.com/track/08d3JzTtDDivrdsOGuiv35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palomita Blanca",
-        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Verg\u00fcenza Ajena",
-      "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
+      "duration_ms": 270200,
+      "name": "En el Tren a Paisand\u00fa",
+      "url": "https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 270200,
-      "name": "En el Tren a Paisand\u00fa",
-      "url": "https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8"
+      "duration_ms": 170160,
+      "name": "Verg\u00fcenza Ajena",
+      "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 667266,
-      "name": "Arauco Tiene una Pena",
-      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+      "duration_ms": 667266,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
     },
     {
       "added_at": null,

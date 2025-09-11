@@ -1959,8 +1959,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "L\u00f6ve",
+        "url": "https://open.spotify.com/album/2CDqcAkDKn72rvj9NqUmXD"
       },
       "artists": [
         {
@@ -6014,24 +6014,6 @@
       "duration_ms": 139836,
       "name": "Toxic Luv",
       "url": "https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Okazaki Taiiku",
-          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
-        }
-      ],
-      "date_added": "2025-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/229F87HvG0tcw4YcWE4jWx"
     },
     {
       "album": {
@@ -11162,6 +11144,24 @@
       "duration_ms": 243177,
       "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
       "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/7KQ4YQYSyE7yIA6qEGbr1b"
+      },
+      "artists": [
+        {
+          "name": "Okazaki Taiiku",
+          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171560,
+      "name": "\u4ffa\u306b\u544a\u3050",
+      "url": "https://open.spotify.com/track/229F87HvG0tcw4YcWE4jWx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,902 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,918 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 16 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
 | 17 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 |
 | 18 | [Al Son de la Marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...Un Poco Más](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
-| 19 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
+| 19 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
 | 20 | [Activo De Guayaba](https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 6:06 |
-| 21 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
+| 21 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
 | 22 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |
 | 23 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 |
 | 24 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 34 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
 | 35 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
 | 36 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
-| 37 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
-| 38 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 37 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 38 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
 | 39 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 40 | [La Franca](https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 3:18 |
 | 41 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |

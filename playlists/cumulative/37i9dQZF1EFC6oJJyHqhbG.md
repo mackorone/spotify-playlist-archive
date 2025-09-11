@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 9 hr 33 min
+163 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 | 2024-02-27 |  |
 | [C'Mon](https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:34 | 2024-02-27 |  |
 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 | 2024-02-27 |  |
+| [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 | 2025-09-10 |  |
 | [California Winter](https://open.spotify.com/track/2akuQ9Xn81ItF0WmkdH1TJ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [California Winter](https://open.spotify.com/album/4DJNjsg51k5nCZN4vQNfOV) | 4:05 | 2024-02-27 |  |
 | [Chokehold](https://open.spotify.com/track/3T1B6mWbCuNUTdoXt7xPYK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:51 | 2024-02-27 |  |
 | [Cold Heart](https://open.spotify.com/track/3l5lhKAXRyISZ1NOBEMRhO) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Fight for Love](https://open.spotify.com/album/5jjrd3mUF01Da1FITGf8fY) | 3:34 | 2024-02-27 |  |
@@ -95,6 +96,7 @@
 | [Long Distance](https://open.spotify.com/track/3xd8hdab4Y2NqhhZmJhuCv) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Long Distance](https://open.spotify.com/album/2R03toQwJHDzU2Cjx7mcAd) | 3:49 | 2024-02-27 |  |
 | [Lovebird](https://open.spotify.com/track/5r1kvURT9BqVwX0Jcsv1C9) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:30 | 2024-02-27 |  |
 | [Mad Mad World](https://open.spotify.com/track/7dHWQyP9o3JoZK8FLYqt9b) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Mad Mad World](https://open.spotify.com/album/0FMnyy6VTNMgtOzTJbIfQV) | 3:25 | 2024-02-27 |  |
+| [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 | 2025-09-10 |  |
 | [Map](https://open.spotify.com/track/4NkChmX8CyyCON0YqqVeze) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/5rPJM6RayMaqtseiNvhGqv) | 3:46 | 2024-02-27 |  |
 | [Miracle Man](https://open.spotify.com/track/57rqeUy6NV7Qlf5VNrqS7D) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:28 | 2024-02-27 |  |
 | [Naked](https://open.spotify.com/track/4gPUnZW8IT1mmF9aj9NLF7) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:42 | 2024-02-27 |  |
@@ -166,6 +168,7 @@
 | [When I’m Alone](https://open.spotify.com/track/5lNMIRdkJZn2Wzvel1SMH2) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:23 | 2024-02-27 |  |
 | [Wide Awake](https://open.spotify.com/track/1rUQmXEy41tXwHIKFECNTa) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:40 | 2024-02-27 |  |
 | [Wish U Were Here \- Acoustic](https://open.spotify.com/track/4812NLW48dCoABairmUF0p) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise \(Expanded\)](https://open.spotify.com/album/66SngXhMQwIwDa6MDOjNzQ) | 3:36 | 2024-02-27 |  |
+| [Wonderland](https://open.spotify.com/track/3Ox52uziYKxQ5uqX8pk69i) | [Dream Ami](https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX) | [Wonderland](https://open.spotify.com/album/3eR756wzD7pNX5Os9NIeSx) | 3:43 | 2025-09-10 |  |
 | [Worst in Me](https://open.spotify.com/track/4trfqZ3V0XpLvPL6h6Wr2s) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:42 | 2024-06-02 |  |
 | [Your Love's A Drug](https://open.spotify.com/track/3QXTAcrADGmjVYUrFK0Lr2) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Your Love's A Drug](https://open.spotify.com/album/3JncbprTRVQovfmsw4rfFe) | 2:37 | 2024-02-27 |  |
 

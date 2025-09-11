@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,848,387 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,848,709 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 30 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 31 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
 | 32 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
-| 33 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
-| 34 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
+| 33 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
+| 34 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
 | 35 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
 | 36 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
 | 37 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:01 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 42 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
 | 43 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
 | 44 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
-| 45 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
-| 46 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
+| 45 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
+| 46 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 47 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 48 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 |
 | 49 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 70 | [I Say a Little Prayer](https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:32 |
 | 71 | [Strawberry Letter 23](https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 3:59 |
 | 72 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
-| 73 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 8:06 |
+| 73 | [Soup for One](https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 5:35 |
 | 74 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 | 75 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
 | 76 | [Family Affair \- Single Version](https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 3:05 |
-| 77 | [I'd Rather Be with You](https://open.spotify.com/track/42rFOQqHmXf9IkdwVqkooK) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 4:57 |
-| 78 | [Soup for One](https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 5:35 |
-| 79 | [So Ruff, so Tuff](https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:35 |
+| 77 | [So Ruff, so Tuff](https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:35 |
+| 78 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 8:06 |
+| 79 | [I'd Rather Be with You](https://open.spotify.com/track/42rFOQqHmXf9IkdwVqkooK) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 4:57 |
 | 80 | [Hard Times](https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM) | [Baby Huey](https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv) | [The Baby Huey Story: The Living Legend](https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T) | 3:23 |
 
 Snapshot ID: `AAAAAHmPFx7BkZFgvTvHm/vPqqE7qFSa`

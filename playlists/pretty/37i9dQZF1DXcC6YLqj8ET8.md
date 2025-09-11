@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,153 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,163 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 28 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
 | 29 | [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 |
 | 30 | [İz](https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Arabic Trap, Pt\. 3](https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v) | 3:05 |
-| 31 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 |
-| 32 | [Get It Poppin \- Original Mix](https://open.spotify.com/track/0slgFvDaJE9xxF0IXQoe81) | [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF), [Vaigandt](https://open.spotify.com/artist/2Yg9H6o3ge1uOiq3o4xLRk) | [Get It Poppin'](https://open.spotify.com/album/0sZMAjVIVLwP8sg5ptuh81) | 3:37 |
+| 31 | [Get It Poppin \- Original Mix](https://open.spotify.com/track/0slgFvDaJE9xxF0IXQoe81) | [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF), [Vaigandt](https://open.spotify.com/artist/2Yg9H6o3ge1uOiq3o4xLRk) | [Get It Poppin'](https://open.spotify.com/album/0sZMAjVIVLwP8sg5ptuh81) | 3:37 |
+| 32 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 |
 | 33 | [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 |
 | 34 | [Serengeti \- Chihaka Remix](https://open.spotify.com/track/4OdRW0NHk3YEomB1yQvcUz) | [Pole Folder](https://open.spotify.com/artist/6wRhh29ZNdh6Aq8nKd4aDr), [Chihaka](https://open.spotify.com/artist/7FRiCnyEVWqX5TywH7p622) | [Serengeti \(Particles Edition\)](https://open.spotify.com/album/2iNIwGPgRMHJR2256l23GH) | 7:56 |
 | 35 | [Dystopia](https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV) | [Ahmed Romel](https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs) | [Dystopia](https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ) | 3:32 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 40 | [Mirage](https://open.spotify.com/track/7mjsDtb6oMFXi6IL069UED) | [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Mirage](https://open.spotify.com/album/4XLJx1Q55pQ80Pp0krcLlb) | 3:07 |
 | 41 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |
 | 42 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 |
-| 43 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
-| 44 | [Menak](https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/3OAa3rZQFhA37EPn9mGMic) | 2:24 |
+| 43 | [Menak](https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/3OAa3rZQFhA37EPn9mGMic) | 2:24 |
+| 44 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
 | 45 | [Odyssey](https://open.spotify.com/track/2R2H8r2X1MCJFvvLx6DYZy) | [Żwirek](https://open.spotify.com/artist/4PCOizPKIqh6TnlGcx3mDb) | [Odyssey](https://open.spotify.com/album/4z1b97XrbtSt3iz5qgwBfJ) | 4:05 |
 | 46 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 |
 | 47 | [Kyojin](https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Kyojin](https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq) | 2:30 |

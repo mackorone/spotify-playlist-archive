@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,588 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,108 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 46 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 47 | [Ripple](https://open.spotify.com/track/6PDAMw0YAGfO7ioXAgP2YW) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 4:10 |
 | 48 | [Stuck in the Middle with You \(Rerecorded\)](https://open.spotify.com/track/4eZw1gC3TAus5bZCKi3l5j) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stuck in the Middle with You](https://open.spotify.com/album/6xF30dvvjy7ZF8vWknwmej) | 3:21 |
-| 49 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
+| 49 | [Dreams \- Sessions, Roughs & Outtakes](https://open.spotify.com/track/23hieFLBMATmL2HseI2nBL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:21 |
 | 50 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/5aN9SeqAtly2NriV7tMjrI) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 2:35 |
-| 51 | [Dreams \- Sessions, Roughs & Outtakes](https://open.spotify.com/track/23hieFLBMATmL2HseI2nBL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:21 |
+| 51 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
 | 52 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
 | 53 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 |
 | 54 | [Walkin' Back to Georgia](https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:50 |

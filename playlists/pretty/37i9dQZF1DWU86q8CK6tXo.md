@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Madilyn Mei
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,146 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,162 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,22 +43,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
 | 34 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
 | 35 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
-| 36 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
-| 37 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
+| 36 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
+| 37 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 38 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 |
 | 39 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |
 | 40 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
 | 41 | [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 |
-| 42 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
-| 43 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 |
-| 44 | [Anyways, Whatever](https://open.spotify.com/track/4b6kGhWarTvoIHNIsRVkUs) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Anyways, Whatever](https://open.spotify.com/album/2Sj9vpeGbkV0GpH4vrcokn) | 2:23 |
+| 42 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 |
+| 43 | [Anyways, Whatever](https://open.spotify.com/track/4b6kGhWarTvoIHNIsRVkUs) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Anyways, Whatever](https://open.spotify.com/album/2Sj9vpeGbkV0GpH4vrcokn) | 2:23 |
+| 44 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 45 | [Marlboro Man](https://open.spotify.com/track/6Wzl4TwDZLRDmFmv1KHyp5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Marlboro Man](https://open.spotify.com/album/76zkHW7rcIRtQ8h9Cc2YTW) | 3:35 |
 | 46 | [Born to Fly](https://open.spotify.com/track/3XKuIEGQ1boUlHDdEGopOQ) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Born to Fly EP](https://open.spotify.com/album/79rPw6bPRYr0VsjY3YfX80) | 3:32 |
 | 47 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 | 48 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
-| 49 | [SMYLM](https://open.spotify.com/track/4JRbEcUs01JZCFjN9hGE1E) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [SMYLM](https://open.spotify.com/album/47HatR4NP5jlPZs2VaX7aw) | 3:07 |
-| 50 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
-| 51 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
+| 49 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
+| 50 | [SMYLM](https://open.spotify.com/track/4JRbEcUs01JZCFjN9hGE1E) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [SMYLM](https://open.spotify.com/album/47HatR4NP5jlPZs2VaX7aw) | 3:07 |
+| 51 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
 | 52 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 |
 | 53 | [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 |
 | 54 | [Fall in Love](https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Fall in Love](https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6) | 2:47 |

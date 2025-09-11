@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/39nfFsklbXE8R5eGhRkbNF"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "SpaceYeti",
+          "url": "https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS"
+    },
+    {
+      "album": {
         "name": "AGONIZE",
         "url": "https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx"
       },

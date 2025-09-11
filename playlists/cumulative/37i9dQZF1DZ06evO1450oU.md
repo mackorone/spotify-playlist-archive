@@ -18,7 +18,7 @@
 | [High Horse](https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:31 | 2023-05-29 |  |
 | [High Horse](https://open.spotify.com/track/6RMgjx8n8USSkiXjt0Mzfr) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [High Horse](https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh) | 3:31 | 2022-09-16 | 2025-08-27 |
 | [Highway Lights](https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 3:54 | 2022-09-16 |  |
-| [INVU](https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:55 | 2022-09-16 | 2025-09-04 |
+| [INVU](https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:55 | 2022-09-16 |  |
 | [Lock the Doors](https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Our Own World](https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh) | 3:38 | 2022-09-16 |  |
 | [On Your Road](https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Our Own World](https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh) | 3:59 | 2022-09-16 |  |
 | [Phase](https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:24 | 2022-09-16 |  |
@@ -33,7 +33,7 @@
 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 | 2022-09-16 |  |
 | [What You Would Hear](https://open.spotify.com/track/0y8ZgAL8HcICloQ5WBkCd9) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 3:55 | 2022-09-16 |  |
 | [What You Would Hear](https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [What You Would Hear](https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR) | 3:55 | 2023-07-04 | 2025-09-10 |
-| [Where is the Sun](https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:48 | 2022-10-24 |  |
+| [Where is the Sun](https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:48 | 2022-10-24 | 2025-09-11 |
 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

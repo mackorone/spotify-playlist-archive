@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Hits",
+        "url": "https://open.spotify.com/album/7pPmYc4CJLup6CHjRt0z9d"
+      },
+      "artists": [
+        {
+          "name": "Remake Masters",
+          "url": "https://open.spotify.com/artist/1DQADFdcc7O4DR1Syvnv8w"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196022,
+      "name": "Best Damn Night - Tribute to Six D",
+      "url": "https://open.spotify.com/track/27r4IUgKduUcKcjZjlXvsJ"
+    },
+    {
+      "album": {
         "name": "Up the Bass",
         "url": "https://open.spotify.com/album/4xjejt0o3teDn6rcDqOFZQ"
       },
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 204160,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"

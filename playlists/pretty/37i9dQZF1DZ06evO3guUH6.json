@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1049404,
+  "num_followers": 1049724,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADLxqN8U8f6iO1srvDvBQZV",
+  "snapshot_id": "aL9uAAAAAADX1Ml1unZ5Flq5sXtxjR80",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Seguramente",
-      "url": "https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Siga La Fiesta",
         "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 235253,
       "name": "Los Lujos Del R.",
       "url": "https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Seguramente",
+      "url": "https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,135 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,274 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 36 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
 | 37 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
 | 38 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 |
-| 39 | [Gallos Y Caballos](https://open.spotify.com/track/1pn82sWTAmrP709W07VImY) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gallos Y Caballos](https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl) | 2:38 |
+| 39 | [Mexicano Soy](https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mexicano Soy](https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY) | 2:32 |
 | 40 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 |
-| 41 | [Mexicano Soy](https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mexicano Soy](https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY) | 2:32 |
+| 41 | [Gallos Y Caballos](https://open.spotify.com/track/1pn82sWTAmrP709W07VImY) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gallos Y Caballos](https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl) | 2:38 |
 | 42 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 | 43 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 44 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |

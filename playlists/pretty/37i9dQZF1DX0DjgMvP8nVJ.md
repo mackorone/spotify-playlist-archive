@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,832 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,917 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 61 | [Love Me Dead](https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 4:20 |
 | 62 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
 | 63 | [Time to Run](https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M) | 5:23 |
-| 64 | [Don't Kill My Vibe](https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:04 |
-| 65 | [Hit and Run](https://open.spotify.com/track/5NyA9sbbbRbjBeoJqFw1th) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Hit and Run](https://open.spotify.com/album/6lXAh5S4jE0AzBCi5yrcEM) | 3:04 |
+| 64 | [Hit and Run](https://open.spotify.com/track/5NyA9sbbbRbjBeoJqFw1th) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Hit and Run](https://open.spotify.com/album/6lXAh5S4jE0AzBCi5yrcEM) | 3:04 |
+| 65 | [Don't Kill My Vibe](https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:04 |
 | 66 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
 | 67 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 68 | [BMO](https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 2:26 |
@@ -85,21 +85,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 75 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
 | 76 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
 | 77 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
-| 78 | [Shark In The Water](https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j) | 3:04 |
-| 79 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
+| 78 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
+| 79 | [Shark In The Water](https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j) | 3:04 |
 | 80 | [Charlie](https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY) | 3:10 |
 | 81 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 82 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
-| 83 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
-| 84 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
+| 83 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
+| 84 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 85 | [Good Day](https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:26 |
 | 86 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:24 |
 | 87 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 |
 | 88 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 89 | [Perfect Someone](https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:39 |
 | 90 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
-| 91 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
-| 92 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 91 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 92 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
 | 93 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
 | 94 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
 | 95 | [Fingers Crossed](https://open.spotify.com/track/7f0SiAYG8XjOoQyfGvgbLA) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:23 |

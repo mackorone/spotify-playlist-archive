@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Margo Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,568 likes - 114 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,598 likes - 114 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

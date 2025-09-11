@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 12 hr 25 min
+215 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bang Bang Bang \(feat\. MNDR\)](https://open.spotify.com/track/44AL9Xok81qGEOZdPQpUnM) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 3:53 | 2024-06-11 | 2025-06-28 |
 | [Beg For It](https://open.spotify.com/track/3ugAI8vlmz6y4T9BlKhytz) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 3:44 | 2024-06-11 |  |
 | [Bessie](https://open.spotify.com/track/0lioD2CwKJ6SNJiWuTgtUC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:43 | 2024-12-11 |  |
+| [Best Damn Night \- Tribute to Six D](https://open.spotify.com/track/27r4IUgKduUcKcjZjlXvsJ) | [Remake Masters](https://open.spotify.com/artist/1DQADFdcc7O4DR1Syvnv8w) | [Ultimate Hits](https://open.spotify.com/album/7pPmYc4CJLup6CHjRt0z9d) | 3:16 | 2025-09-10 |  |
 | [Bi Polar](https://open.spotify.com/track/7bGpmO50tBC3pRBl4iIjly) | [Phillips](https://open.spotify.com/artist/0fGlytfhhIc0FpMtADAf2K) | [Up the Bass](https://open.spotify.com/album/4xjejt0o3teDn6rcDqOFZQ) | 5:51 | 2024-06-11 | 2025-07-10 |
 | [Birds Fly \(feat\. Mr\. Probz\)](https://open.spotify.com/track/2xScjew1nGldhk7eM2qsCv) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:27 | 2024-06-11 | 2025-08-06 |
 | [Birds Fly \(feat\. Mr\. Probz\)](https://open.spotify.com/track/6FOdMb3uO2ew0OpukN06O7) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [United We Are](https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3) | 3:27 | 2025-08-06 |  |
@@ -190,7 +191,7 @@
 | [Things I Never Said](https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:49 | 2024-12-11 |  |
 | [Thot Thoughts \(feat\. Sukihana\)](https://open.spotify.com/track/1ZXo3QiTqtQdZnO1t1oyCJ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:34 | 2024-06-11 |  |
 | [Thumbs](https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:36 | 2024-06-11 |  |
-| [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2024-06-11 |  |
+| [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2024-06-11 | 2025-09-11 |
 | [Time](https://open.spotify.com/track/1fX5QlNmnqd8mqDGpaNihh) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:37 | 2024-06-11 |  |
 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 | 2024-06-11 |  |
 | [Time to Move On](https://open.spotify.com/track/62tQqcU5KUIL8ES3T0Udxi) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [American Nights](https://open.spotify.com/album/04spQ6Xvmym46ohPvZlebg) | 3:03 | 2024-06-11 |  |

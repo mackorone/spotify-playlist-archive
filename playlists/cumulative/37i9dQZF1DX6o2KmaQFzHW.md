@@ -4,7 +4,7 @@
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-277 songs - 16 hr 4 min
+278 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D) | 12:50 | 2023-03-31 | 2024-04-19 |
 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 | 2021-07-23 |  |
 | [Añoranzas](https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Las Chacareras Vol.1](https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh) | 2:51 | 2021-07-23 | 2024-11-14 |
+| [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 | 2025-09-10 |  |
 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan Vol\. II](https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t) | 3:38 | 2021-07-23 |  |
 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan, Vol\. 2](https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU) | 3:38 | 2022-02-21 | 2024-04-19 |
 | [Balderrama](https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Balderrama](https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz) | 4:10 | 2024-04-25 | 2024-11-26 |

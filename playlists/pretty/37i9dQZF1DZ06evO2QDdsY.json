@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16353,
+  "num_followers": 16358,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAnuvz68s8G3KRgllSFcDln",
+  "snapshot_id": "aL9uAAAAAAA1EGxH+dOeqXJdTg04YPJb",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Owls, Omens, and Oracles",
-        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 233573,
-      "name": "Endless Tree",
-      "url": "https://open.spotify.com/track/4mYAxNUCvuUqAQj5Qh3Poq"
+      "duration_ms": 280640,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 280640,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Owls, Omens, and Oracles",
         "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
       },
@@ -200,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 157986,
-      "name": "Sweet Things Just for You",
-      "url": "https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i"
+      "duration_ms": 233573,
+      "name": "Endless Tree",
+      "url": "https://open.spotify.com/track/4mYAxNUCvuUqAQj5Qh3Poq"
     },
     {
       "added_at": null,
@@ -223,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy, Joy!",
         "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
       },
@@ -255,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U"
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
       "artists": [
         {
@@ -264,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 198586,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": null,
@@ -280,9 +248,25 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 142586,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC"
+      "duration_ms": 157986,
+      "name": "Sweet Things Just for You",
+      "url": "https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Owls, Omens, and Oracles",
+        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 244146,
       "name": "Slip Slide On By",
       "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Owls, Omens, and Oracles",
-        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "I Am In Love",
-      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Owls, Omens, and Oracles",
+        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 254866,
       "name": "The Front Door",
       "url": "https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Owls, Omens, and Oracles",
-        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Owls, Omens, and Oracles",
+        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Under Cover",
         "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
@@ -459,6 +459,38 @@
       "duration_ms": 205760,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Why The Bright Stars Glow",
+      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Trials, Troubles, Tribulations",
+      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
     },
     {
       "added_at": null,
@@ -483,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Why The Bright Stars Glow",
-      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Armageddon In A Summer Dress",
         "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
       },
@@ -519,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
       "artists": [
         {
@@ -528,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Trials, Troubles, Tribulations",
-      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
+      "duration_ms": 251333,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Two Roads",
-      "url": "https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7"
+      "duration_ms": 229668,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 229668,
-      "name": "The Hour",
-      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
+      "duration_ms": 259799,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 182099,
       "name": "High Note [Feat. Stax Music Academy]",
       "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
     },
     {
       "added_at": null,

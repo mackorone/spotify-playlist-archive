@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95918,
+  "num_followers": 95929,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABHZuT4j+3smEuiV0FBgViO",
+  "snapshot_id": "aL9uAAAAAABlxm+eOXyw+6NjQm4HIIVt",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fall Back (feat. NAV)",
-      "url": "https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 179371,
       "name": "Run It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Fall Back (feat. NAV)",
+      "url": "https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz"
     },
     {
       "added_at": null,
@@ -779,22 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL ME",
-        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 187213,
-      "name": "REAL ME (WITH METRO BOOMIN)",
-      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
+      "duration_ms": 165013,
+      "name": "NOTHING 4 FREE (feat. NAV)",
+      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
     },
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+        "name": "REAL ME",
+        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 165013,
-      "name": "NOTHING 4 FREE (feat. NAV)",
-      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
+      "duration_ms": 187213,
+      "name": "REAL ME (WITH METRO BOOMIN)",
+      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
     },
     {
       "added_at": null,
@@ -883,22 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 128071,
-      "name": "No Debate (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": null,
@@ -919,22 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
+      "duration_ms": 128071,
+      "name": "No Debate (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,035 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,073 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 28 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
 | 29 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
 | 30 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 |
-| 31 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
-| 32 | [Convoycito de Huancayo](https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX) | [Estudiantina Perú](https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:57 |
+| 31 | [Convoycito de Huancayo](https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX) | [Estudiantina Perú](https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:57 |
+| 32 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
 | 33 | [Tomando Cerveza](https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 3:00 |
 | 34 | [Un Pasajero en Tú Camino](https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8) | [La Nueva Expresión del Folklore de Bolivia](https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU) | 4:00 |
 | 35 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 36 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
-| 37 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
-| 38 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
+| 37 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
+| 38 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
 | 39 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 40 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
 | 41 | [Koka kintucha](https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 3:58 |

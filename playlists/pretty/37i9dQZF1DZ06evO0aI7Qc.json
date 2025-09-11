@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 375341,
+  "num_followers": 375459,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAfk4yizWE6TRIf0UkrZpZq",
+  "snapshot_id": "aL9uAAAAAAD6sAUqzPhTnhutHUVt6t/r",
   "tracks": [
     {
       "added_at": null,
@@ -228,13 +228,13 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 148573,
-      "name": "Sin Tanto Royo",
-      "url": "https://open.spotify.com/track/2ieCamPuL76ipKH1cLH7tH"
+      "duration_ms": 140987,
+      "name": "Fresas Con Crema",
+      "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
     },
     {
       "added_at": null,
@@ -308,33 +308,13 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 140987,
-      "name": "Fresas Con Crema",
-      "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "CDN",
-      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
+      "duration_ms": 148573,
+      "name": "Sin Tanto Royo",
+      "url": "https://open.spotify.com/track/2ieCamPuL76ipKH1cLH7tH"
     },
     {
       "added_at": null,
@@ -359,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Scar",
         "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
       },
@@ -375,26 +375,6 @@
       "duration_ms": 299381,
       "name": "Un Scar",
       "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 131793,
-      "name": "NIMODO QUE NO",
-      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
     },
     {
       "added_at": null,
@@ -419,26 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         },
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas - En Vivo",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+      "duration_ms": 131793,
+      "name": "NIMODO QUE NO",
+      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
     },
     {
       "added_at": null,
@@ -467,26 +443,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEMBOW B\u00c9LICO",
-        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         },
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 126522,
-      "name": "DEMBOW B\u00c9LICO",
-      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+      "duration_ms": 260285,
+      "name": "Malas Rachas - En Vivo",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "added_at": null,
@@ -531,6 +507,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 174863,
       "name": "Me Met\u00ed En El Ruedo",
       "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 235061,
-      "name": "Pixelados",
-      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "added_at": null,
@@ -583,6 +563,26 @@
       "duration_ms": 183797,
       "name": "El Menos Visto",
       "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Cuide",
-        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Que Se Cuide",
-      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El De La Selva",
-        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 118067,
-      "name": "El De La Selva",
-      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Compas Vol. 1",
         "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 177900,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El De La Selva",
+        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 118067,
+      "name": "El De La Selva",
+      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
     },
     {
       "added_at": null,

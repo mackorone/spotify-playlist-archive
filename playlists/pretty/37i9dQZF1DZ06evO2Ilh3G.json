@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 118139,
+  "num_followers": 118161,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABg5gPr4HwD2/ChUlgsdZMo",
+  "snapshot_id": "aL9uAAAAAACF3ZY8E57oTW2Ziir94nL0",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 175799,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/7iI9Ra8uBjdu8yA5lXOyiU"
+      "duration_ms": 192649,
+      "name": "Love You Down",
+      "url": "https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 100397,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/5cmtJa1p1s64KW6ULRT477"
+      "duration_ms": 175799,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/7iI9Ra8uBjdu8yA5lXOyiU"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 192649,
-      "name": "Love You Down",
-      "url": "https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH"
+      "duration_ms": 100397,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/5cmtJa1p1s64KW6ULRT477"
     },
     {
       "added_at": null,
@@ -570,11 +570,15 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 96013,
-      "name": "ON THE RIVER",
-      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": null,
@@ -639,6 +643,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 244941,
+      "name": "Legacy (feat. Travis Scott & 21 Savage)",
+      "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 96013,
+      "name": "ON THE RIVER",
+      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -667,46 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+        "name": "Big Grim Reaper: The Return",
+        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
         },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 244941,
-      "name": "Legacy (feat. Travis Scott & 21 Savage)",
-      "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
+      "duration_ms": 202783,
+      "name": "Fantasy (feat. Offset)",
+      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
       "added_at": null,
@@ -735,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Grim Reaper: The Return",
-        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
       "artists": [
-        {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
-        },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 202783,
-      "name": "Fantasy (feat. Offset)",
-      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
+      "duration_ms": 241440,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+        "name": "KIARI:OFFSET",
+        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
+      "duration_ms": 158740,
+      "name": "Athlete",
+      "url": "https://open.spotify.com/track/49FJesHfwQXqZS3qTPL90k"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 205266,
       "name": "Danger (Spider) (Offset & JID)",
       "url": "https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIARI:OFFSET",
-        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "Athlete",
-      "url": "https://open.spotify.com/track/49FJesHfwQXqZS3qTPL90k"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIARI:OFFSET",
+        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1TlN08I8jGQ1K5KRIIuvJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIARI:OFFSET",
-        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "History",
-      "url": "https://open.spotify.com/track/1TlN08I8jGQ1K5KRIIuvJt"
     },
     {
       "added_at": null,

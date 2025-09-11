@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 443683,
+  "num_followers": 444459,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7dqhrhbMtX23XENYiIliak+Anb",
+  "snapshot_id": "AAAAAKPxFS413Mg7uJLF9NYs62+seTI5",
   "tracks": [
     {
       "added_at": "2025-08-04 05:46:30",
@@ -85,6 +85,34 @@
       "url": "https://open.spotify.com/track/6cd9eJFXIl72tDwLguJxSp"
     },
     {
+      "added_at": "2025-09-10 11:02:42",
+      "album": {
+        "name": "Little Hearts",
+        "url": "https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Sony Komanduri",
+          "url": "https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW"
+        },
+        {
+          "name": "Ss Kanchi",
+          "url": "https://open.spotify.com/artist/7rvLs5nPIsizHBgGq5aSxr"
+        },
+        {
+          "name": "Swaroop Goli",
+          "url": "https://open.spotify.com/artist/5t4EqHFDQYIHNGjkXrCSAH"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Khathyayani",
+      "url": "https://open.spotify.com/track/2mbJs7Lst8tAyJ3DIkfLiI"
+    },
+    {
       "added_at": "2025-08-22 07:23:49",
       "album": {
         "name": "Vibe Undi (From \"Mirai\") [Telugu]",
@@ -107,30 +135,6 @@
       "duration_ms": 202361,
       "name": "Vibe Undi (From \"Mirai\") [Telugu]",
       "url": "https://open.spotify.com/track/2N4dA1J0EkkXU7mRxtnfKv"
-    },
-    {
-      "added_at": "2025-09-08 06:06:41",
-      "album": {
-        "name": "Rajagadiki (From \"Little Hearts\")",
-        "url": "https://open.spotify.com/album/5NwUl6AbvdKV0hJ53135kD"
-      },
-      "artists": [
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Rajagadiki (From \"Little Hearts\")",
-      "url": "https://open.spotify.com/track/2ddkAoAafmEv0UocWgf2CQ"
     },
     {
       "added_at": "2025-08-25 10:02:31",
@@ -227,6 +231,30 @@
       "duration_ms": 261133,
       "name": "Mallika Gandha (From \"Telusu Kada\")",
       "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
+    },
+    {
+      "added_at": "2025-09-08 06:06:41",
+      "album": {
+        "name": "Rajagadiki (From \"Little Hearts\")",
+        "url": "https://open.spotify.com/album/5NwUl6AbvdKV0hJ53135kD"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Rajagadiki (From \"Little Hearts\")",
+      "url": "https://open.spotify.com/track/2ddkAoAafmEv0UocWgf2CQ"
     },
     {
       "added_at": "2025-08-05 10:16:25",
@@ -383,26 +411,6 @@
       "duration_ms": 224299,
       "name": "Daripontothundu",
       "url": "https://open.spotify.com/track/3ilUMXzt17n2l4SUAw3jPo"
-    },
-    {
-      "added_at": "2025-07-04 07:13:48",
-      "album": {
-        "name": "Naa Koduka (From \"Kuberaa\")",
-        "url": "https://open.spotify.com/album/0JxKqcHCJxXQpQybrEIBdm"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Naa Koduka (From \"Kuberaa\")",
-      "url": "https://open.spotify.com/track/4fSA5Q1sA6jMiqROJ4R3Qo"
     },
     {
       "added_at": "2023-11-06 11:12:57",

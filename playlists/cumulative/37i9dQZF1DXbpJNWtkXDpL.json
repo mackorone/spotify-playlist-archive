@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Doony Graff ",
+  "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
   "name": "RADAR M\u00e9xico",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 142277,
       "name": "Al Infinito y M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx"
@@ -656,6 +656,24 @@
       "duration_ms": 140146,
       "name": "Aqu\u00ed No Hay Suerte",
       "url": "https://open.spotify.com/track/42K8b2MTsQS7IWLXTvpz6R"
+    },
+    {
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113506,
+      "name": "arrancame los labios",
+      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
     },
     {
       "album": {
@@ -1345,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Cambia La Jugada",
+        "url": "https://open.spotify.com/album/6byBj4FsbspEgByM6InRcR"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o De Sonora",
+          "url": "https://open.spotify.com/artist/3YXDZJUoctPqlc7oIB3Dhr"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159551,
+      "name": "Cambia La Jugada",
+      "url": "https://open.spotify.com/track/5mAuDbMCDJWDI9kSMZWpr8"
+    },
+    {
+      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -1396,6 +1432,28 @@
       "duration_ms": 155818,
       "name": "Cartier en Mano",
       "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+    },
+    {
+      "album": {
+        "name": "T.V ADDICT",
+        "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161657,
+      "name": "cash cash",
+      "url": "https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q"
     },
     {
       "album": {
@@ -1560,7 +1618,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 166285,
       "name": "Cocodrilos",
       "url": "https://open.spotify.com/track/4wlEzNBPccyqMESEq1IS7B"
@@ -1600,7 +1658,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 194648,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa"
@@ -2100,7 +2158,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 130188,
       "name": "DEJAVU",
       "url": "https://open.spotify.com/track/7CcN56ZTdzTIwIEE9gOowm"
@@ -2122,7 +2180,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 165959,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
@@ -2158,7 +2216,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 169500,
       "name": "DESAYUNO CONTINENTAL",
       "url": "https://open.spotify.com/track/084OQhMV7UzdHBK4htw3CM"
@@ -2180,7 +2238,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 153250,
       "name": "desintoxicar",
       "url": "https://open.spotify.com/track/3PjgeNbJtNnbfTgNNwN4PG"
@@ -2914,6 +2972,32 @@
       "duration_ms": 173408,
       "name": "Fabulosa de Paris",
       "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
+    },
+    {
+      "album": {
+        "name": "Fall\u00e9",
+        "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135874,
+      "name": "Fall\u00e9",
+      "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
     },
     {
       "album": {
@@ -3660,7 +3744,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 98400,
       "name": "KAWAGHI freestyle",
       "url": "https://open.spotify.com/track/1a0VN10KkRNWFlgZ9cQ7Ys"
@@ -4098,7 +4182,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 206000,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ"
@@ -4258,7 +4342,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 154500,
       "name": "Loquequiero (nunca me lo das)",
       "url": "https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU"
@@ -4334,6 +4418,24 @@
       "duration_ms": 153711,
       "name": "LSNC",
       "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
+    },
+    {
+      "album": {
+        "name": "inconformidable",
+        "url": "https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5"
+      },
+      "artists": [
+        {
+          "name": "luego luego",
+          "url": "https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "luego",
+      "url": "https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC"
     },
     {
       "album": {
@@ -4545,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Ma\u00f1ana Hablamos (1154)",
+        "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Ma\u00f1ana Hablamos (1154)",
+      "url": "https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv"
+    },
+    {
+      "album": {
         "name": "Me Dejaste en Cero",
         "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
       },
@@ -4581,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Me Levant\u00e9 de la Cama",
+        "url": "https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Me Levant\u00e9 de la Cama",
+      "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
+    },
+    {
+      "album": {
         "name": "Me mandaron por tortillas",
         "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
       },
@@ -4596,6 +4734,24 @@
       "duration_ms": 162000,
       "name": "Me mandaron por tortillas",
       "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
+    },
+    {
+      "album": {
+        "name": "so\u00f1\u00e9 que me llevabas",
+        "url": "https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c"
+      },
+      "artists": [
+        {
+          "name": "incluso si nunca despiertas",
+          "url": "https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177686,
+      "name": "me olvidar\u00e1s (como lo haces ya)",
+      "url": "https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3"
     },
     {
       "album": {
@@ -4948,6 +5104,28 @@
       "duration_ms": 144406,
       "name": "Modo St1ngy",
       "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
+    },
+    {
+      "album": {
+        "name": "MOMENTO",
+        "url": "https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Prayers",
+          "url": "https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "MOMENTO",
+      "url": "https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd"
     },
     {
       "album": {
@@ -5351,6 +5529,58 @@
     },
     {
       "album": {
+        "name": "No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135433,
+      "name": "No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"
+    },
+    {
+      "album": {
+        "name": "No Puedo M\u00e1s!",
+        "url": "https://open.spotify.com/album/4w6iDKx4YeVos7TNC4rVG4"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130014,
+      "name": "No Puedo M\u00e1s!",
+      "url": "https://open.spotify.com/track/7kuD6jCULueRvdZCiaJd3a"
+    },
+    {
+      "album": {
         "name": "No Quedan M\u00e1s Intentos",
         "url": "https://open.spotify.com/album/5FHzCb9rvGokUXPwawcbCp"
       },
@@ -5362,7 +5592,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 154586,
       "name": "No Quedan M\u00e1s Intentos",
       "url": "https://open.spotify.com/track/7uIKxrKFYuwA6AbB8twqzB"
@@ -5511,6 +5741,28 @@
     },
     {
       "album": {
+        "name": "Obsesionado Contigo",
+        "url": "https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131608,
+      "name": "Obsesionado Contigo",
+      "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
+    },
+    {
+      "album": {
         "name": "Y Te Lo Digo Yo",
         "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
       },
@@ -5526,6 +5778,28 @@
       "duration_ms": 137400,
       "name": "Olvidarte",
       "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
+    },
+    {
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
     },
     {
       "album": {
@@ -7968,7 +8242,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 164942,
       "name": "Tropezar",
       "url": "https://open.spotify.com/track/4w3byyP9z4d9jm92ngRuI1"
@@ -8186,7 +8460,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 145604,
       "name": "Un Altar a Tu Nombre",
       "url": "https://open.spotify.com/track/5L6RL6SZt6rscyADpsQzgs"
@@ -8594,7 +8868,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 196107,
       "name": "Viento Feroz",
       "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
@@ -8818,6 +9092,24 @@
       "duration_ms": 179600,
       "name": "Ya No Estoy Dolido",
       "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
+    },
+    {
+      "album": {
+        "name": "Ya no queda nada nada",
+        "url": "https://open.spotify.com/album/1TdeqMkRrs3bVX4FHaOZK6"
+      },
+      "artists": [
+        {
+          "name": "Maria Nastenka",
+          "url": "https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Ya no queda nada nada",
+      "url": "https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0"
     },
     {
       "album": {

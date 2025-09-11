@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Tramaine Hawkins, Kurt Carr and more
+> With Tramaine Hawkins, Whitney Houston, Sunday Service Choir and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 251 likes - 50 songs - 4 hr 26 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [I Never Lost My Praise \(feat\. Patrick Lundy & The Ministers of Music\) \- Live](https://open.spotify.com/track/1yqYkI2m0cdlPTGYuX1pfn) | [Tremaine Hawkins](https://open.spotify.com/artist/3M1PmcDzfnpqb7HAFqHaL0), [Patrick Lundy & The Ministers of Music](https://open.spotify.com/artist/0HWNNGh4bB0Y49KFzq3QeN) | [I Never Lost My Praise Live](https://open.spotify.com/album/2459lwrnbK7j12NscbU833) | 8:36 |
 | 50 | [Revelations 19:1](https://open.spotify.com/track/4pSUxkUKeWFyFNkzl7XoBU) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 5:33 |
 
-Snapshot ID: `aMDwLwAAAAC7UHsezTN0bL+VLpivnbf3`
+Snapshot ID: `aMJF8gAAAAChiAoE3MQvy3OLNZd14tI5`

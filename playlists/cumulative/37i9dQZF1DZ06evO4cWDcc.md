@@ -4,7 +4,7 @@
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-93 songs - 6 hr 19 min
+94 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Spanish Castle Magic](https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:03 | 2022-11-04 |  |
 | [Star Spangled Banner \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/5nJ9WqiiVz9Rz6a2xLhHlZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:46 | 2023-07-06 | 2024-07-24 |
 | [Still Raining, Still Dreaming](https://open.spotify.com/track/0xKcrFF5ed7U4EPdG6vE4f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:25 | 2024-05-26 | 2024-06-03 |
+| [Stone Free / Up From The Skies \- Demo](https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Stone Free / Up From The Skies \(Demo\)](https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp) | 2:17 | 2025-09-11 |  |
 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 | 2024-10-07 |  |
 | [Sweet Angel](https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:54 | 2022-11-04 |  |
 | [Tax Free \- Live at the Los Angeles Forum, Inglewood, CA \- April 26, 1969](https://open.spotify.com/track/6aafnoN8DyLju1SVjN3YVH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Los Angeles Forum \- April 26, 1969 \(Live\)](https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT) | 15:34 | 2022-11-30 | 2023-03-29 |
@@ -99,7 +100,7 @@
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 | 2022-11-04 |  |
 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 | 2022-11-04 |  |
 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 | 2022-11-06 |  |
-| [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 | 2022-11-04 |  |
+| [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 | 2022-11-04 | 2025-09-11 |
 | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/track/70rXufdV46M4efDKvJbtHV) | [Curtis Knight & The Squires](https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl), [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l) | 0:56 | 2024-01-27 | 2024-08-25 |
 
 \*This playlist was first scraped on 2022-11-05. Prior content cannot be recovered.

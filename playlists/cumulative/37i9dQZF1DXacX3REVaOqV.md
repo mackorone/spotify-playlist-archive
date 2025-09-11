@@ -4,7 +4,7 @@
 
 > The best in house music
 
-663 songs - 1 day 19 hr 28 min
+664 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 | 2025-06-05 |  |
 | [Sofia Sophia](https://open.spotify.com/track/4teeeFbKulnpTSUjSromct) | [KEANU](https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3), [Gianni Rota](https://open.spotify.com/artist/4QCnCsNS6EMIUbIccfZobj) | [Sofia Sophia \(Maria Mariah\)](https://open.spotify.com/album/6QP00C9sCVoLS5dOhYcSwp) | 2:40 | 2024-11-22 | 2024-12-04 |
 | [Solid Ground \- Brian Tappert for the Heads Remix](https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB) | [Rony Breaker](https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL), [Chinua Hawk](https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0), [Brian Tappert](https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A) | [Solid Ground](https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy) | 6:01 | 2025-01-30 |  |
+| [Some Time](https://open.spotify.com/track/0SyvcPgEiq2ogFWmOZ7crs) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Some Time EP](https://open.spotify.com/album/0ayGMCf1QlDUFlm0cuNoOu) | 3:51 | 2025-09-04 |  |
 | [Somebody \- Radio Edit](https://open.spotify.com/track/4R5HDTBHkbpcEBahlXp4nw) | [Flauschig](https://open.spotify.com/artist/5CVT4MatAs67At9O7u10S0) | [Somebody](https://open.spotify.com/album/5EZIJJ6DoAaYRjMgUCNG6d) | 3:28 | 2024-09-12 | 2025-06-28 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-22 | 2024-09-13 |
 | [Soul](https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Soul](https://open.spotify.com/album/3DgN8lFMK6cX8eJ5pIeUob) | 2:42 | 2024-03-04 | 2025-01-31 |
@@ -612,7 +613,7 @@
 | [TTU](https://open.spotify.com/track/0BScVEYVWBGSHawklryBvw) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Naken](https://open.spotify.com/artist/3d6wRkDg0fLEgLhbCbWhAf) | [TTU](https://open.spotify.com/album/3Qu6Xln3jxxe1tNdAe5CEN) | 2:43 | 2025-09-04 |  |
 | [Tunnel](https://open.spotify.com/track/4Q9NKKycjy7cEDETJfE2EJ) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 5:10 | 2022-04-14 | 2022-07-29 |
 | [Tunnel](https://open.spotify.com/track/4at0npP4QkdIUulFZIsYft) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 5:10 | 2022-07-28 | 2023-04-13 |
-| [Turntable Truth](https://open.spotify.com/track/362ZxQJ3XC8K7lo19ysDow) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm) | [Turntable Truth](https://open.spotify.com/album/6GrtcsJyvo6zxwE6T20snD) | 3:23 | 2025-04-17 |  |
+| [Turntable Truth](https://open.spotify.com/track/362ZxQJ3XC8K7lo19ysDow) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm) | [Turntable Truth](https://open.spotify.com/album/6GrtcsJyvo6zxwE6T20snD) | 3:23 | 2025-04-17 | 2025-09-11 |
 | [Two Hearts \- Original Mix](https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Two Hearts EP](https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF) | 3:39 | 2024-04-11 | 2025-03-21 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2022-07-28 | 2022-09-16 |
 | [Underground Is My Home \- Crazibiza Extended Remix](https://open.spotify.com/track/7sHc06j8kOJyTrL93zqBHn) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Tyrone Ellis](https://open.spotify.com/artist/5FHBSx3jc1kM55Un6eUfSl), [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1) | [Underground Is My Home \(Remixes\)](https://open.spotify.com/album/2DpgFLoVgAu9McgyeZQeY5) | 6:00 | 2024-03-14 | 2024-04-10 |

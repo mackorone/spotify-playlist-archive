@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6728,
+  "num_followers": 6731,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAM/pNQFi7iV0777bYCJCVd",
+  "snapshot_id": "aL9uAAAAAADQqI8cBVrLXEO9dvP/Ca9/",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La V\u00edbora Peligrosa",
-        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
       "artists": [
         {
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 149084,
-      "name": "La V\u00edbora Peligrosa",
-      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 156831,
       "name": "No Sigas Llorando",
       "url": "https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,

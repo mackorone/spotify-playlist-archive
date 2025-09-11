@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 86720,
+  "num_followers": 86793,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "added_at": "2025-09-04 22:00:27",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183747,
+      "name": "Siren sounds (bonus)",
+      "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
         "name": "Priceless (feat. LISA)",
         "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 163352,
       "name": "Priceless (feat. LISA)",
       "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183747,
-      "name": "Siren sounds (bonus)",
-      "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
     },
     {
       "added_at": "2025-09-04 22:00:27",
@@ -767,6 +767,26 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 183670,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
         "name": "Next Summer",
         "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 174911,
       "name": "Love Is Like (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 183670,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2025-09-04 22:00:27",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
-        "name": "Svagare \u00e4n jag",
-        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -1015,18 +1015,38 @@
     {
       "added_at": "2025-09-04 22:00:27",
       "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+        "name": "Svagare \u00e4n jag",
+        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
+    },
+    {
+      "added_at": "2025-09-04 22:00:27",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 219087,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
       "added_at": "2025-09-04 22:00:27",
@@ -1111,26 +1131,6 @@
       "duration_ms": 215156,
       "name": "Fy faen du e deili",
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
-    },
-    {
-      "added_at": "2025-09-04 22:00:27",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 219087,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
       "added_at": "2025-09-04 22:00:27",

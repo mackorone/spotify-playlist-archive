@@ -3015,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Evening Stroll",
+        "url": "https://open.spotify.com/album/7bfOI871T2IIbBBwAjjhK7"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206282,
+      "name": "Evening Stroll",
+      "url": "https://open.spotify.com/track/4jQktpEQRdQrvMA75JXU0V"
+    },
+    {
+      "album": {
         "name": "Everybody Knew",
         "url": "https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB"
       },
@@ -6667,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "May Cease To Be",
+        "url": "https://open.spotify.com/album/4nSniLVfspsem64F3wLgRH"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212130,
+      "name": "May Cease To Be",
+      "url": "https://open.spotify.com/track/5KgaIjIi1zC00xjEgUeiZI"
+    },
+    {
+      "album": {
         "name": "A Cookie For Marie",
         "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
       },
@@ -6984,7 +7020,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 168619,
       "name": "Moments in Moonlight",
       "url": "https://open.spotify.com/track/55fwf6U2P3ZvjXsQgxhZrd"
@@ -7038,7 +7074,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 174218,
       "name": "Moonflower Waltz",
       "url": "https://open.spotify.com/track/6qAxvxO0lu8MwzKLGvFX3s"

@@ -4,7 +4,7 @@
 
 > 
 
-444 songs - 1 day 5 hr 35 min
+445 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 | 2025-06-09 |  |
 | [Gentle Heart](https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 5:45 | 2023-04-28 | 2023-08-12 |
 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 | 2022-07-12 | 2023-04-21 |
+| [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 | 2025-09-10 |  |
 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-09 | 2023-09-16 |
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-18 | 2024-09-12 |
 | [Girls \- Acid Version](https://open.spotify.com/track/1kxXGSK3hMDIXIm15IilG9) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Sad Girl \(Remixes\)](https://open.spotify.com/album/47hbJg1eOZejMNF5jcJqsP) | 5:26 | 2025-02-24 |  |

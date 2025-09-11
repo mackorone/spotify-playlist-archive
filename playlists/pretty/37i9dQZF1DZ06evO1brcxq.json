@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 176366,
+  "num_followers": 176455,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABvBQmWAzu0V9kv3taefB+8",
+  "snapshot_id": "aL9uAAAAAACtSBI75Is1WgANQr4aiiyT",
   "tracks": [
     {
       "added_at": null,
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 154126,
-      "name": "Sympathy is a knife featuring ariana grande",
-      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+      "duration_ms": 121273,
+      "name": "365 featuring shygirl",
+      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
     },
     {
       "added_at": null,
@@ -380,13 +380,13 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 121273,
-      "name": "365 featuring shygirl",
-      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Constant Repeat",
+      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -547,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 189373,
-      "name": "Constant Repeat",
-      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+      "duration_ms": 189000,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8"
     },
     {
       "added_at": null,
@@ -579,26 +599,6 @@
       "duration_ms": 234755,
       "name": "Lipgloss (feat. CupcakKe)",
       "url": "https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
       "duration_ms": 253960,
       "name": "Tears (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/64xw3gXNMWv4wNXjF6tnXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRASH (Deluxe)",
+        "url": "https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Sorry if I Hurt You",
+      "url": "https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc"
     }
   ],
   "unique_name": "This Is Charli xcx",

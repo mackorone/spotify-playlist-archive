@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "1000 \u00c1nh M\u1eaft",
       "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 262495,
       "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
       "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
@@ -10022,7 +10022,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 165555,
       "name": "H\u00e0 N\u1ed9i",
       "url": "https://open.spotify.com/track/5PGh9MyKry8slG5AfvD1eD"
@@ -11684,6 +11684,28 @@
       "duration_ms": 312000,
       "name": "Kh\u00f3a Ly Bi\u1ec7t (feat. Voi B\u1ea3n \u0110\u00f4n)",
       "url": "https://open.spotify.com/track/3BlB5wlzdbgCJGkuPcNVIW"
+    },
+    {
+      "album": {
+        "name": "Kh\u00f4ng Bu\u00f4ng",
+        "url": "https://open.spotify.com/album/6XkJNJGMV0VxaaxlfB3ss3"
+      },
+      "artists": [
+        {
+          "name": "Hngle",
+          "url": "https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6cV92JqHZPWNfa7T4oAvR9"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "Kh\u00f4ng Bu\u00f4ng",
+      "url": "https://open.spotify.com/track/1ApIGNgp1azc0qB61x4GzG"
     },
     {
       "album": {
@@ -15286,6 +15308,10 @@
         {
           "name": "BMZ",
           "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        },
+        {
+          "name": "Nguy\u1ec5n Trung \u0110\u1ee9c",
+          "url": "https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv"
         },
         {
           "name": "PTbis",
@@ -20340,7 +20366,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -22190,7 +22216,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -24730,7 +24756,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -24828,7 +24854,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

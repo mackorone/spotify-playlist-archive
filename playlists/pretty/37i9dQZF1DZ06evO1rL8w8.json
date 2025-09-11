@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 229428,
+  "num_followers": 229511,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAGVeXDStGxgGeLsy7OQKvr",
+  "snapshot_id": "aL9uAAAAAADYqlHIoYfkh4KWSpE1nsnx",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Las Dos Cruces",
-      "url": "https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr"
+      "duration_ms": 230635,
+      "name": "Abusamos Del Alcohol",
+      "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 230635,
-      "name": "Abusamos Del Alcohol",
-      "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
+      "duration_ms": 243800,
+      "name": "Las Dos Cruces",
+      "url": "https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 203128,
-      "name": "Tu Fotografia",
-      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
+      "duration_ms": 232881,
+      "name": "La Mafia Se Sienta En La Mesa",
+      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El cantador (En vivo)",
+        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "El cantador - En vivo",
+      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El cantador (En vivo)",
-        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
+        "name": "El Ganadero",
+        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 200093,
-      "name": "El cantador - En vivo",
-      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+      "duration_ms": 222516,
+      "name": "El Ganadero",
+      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ganadero",
-        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 222516,
-      "name": "El Ganadero",
-      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
     },
     {
       "added_at": null,
@@ -874,11 +874,15 @@
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         }
       ],
-      "duration_ms": 148093,
-      "name": "El Ejecutor (Bonus Track)",
-      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     }
   ],
   "unique_name": "This Is El Komander",

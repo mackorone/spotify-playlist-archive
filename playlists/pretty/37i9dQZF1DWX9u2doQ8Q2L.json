@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 393937,
+  "num_followers": 394004,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+      },
+      "artists": [
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 173606,
       "name": "Ghost Avenue",
       "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
-      },
-      "artists": [
-        {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 230524,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
         "name": "HOWL",
         "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191666,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 230524,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 202535,
       "name": "\u611b\u3068U",
       "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
+        "name": "mild days",
+        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "mild days",
+      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
         "name": "Mom & Dad",
         "url": "https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 171579,
       "name": "Mom & Dad",
       "url": "https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
-        "name": "mild days",
-        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "mild days",
-      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
-        "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
-        "url": "https://open.spotify.com/album/5YCPpXUx6kVMB6ModSMDN3"
+        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 142758,
-      "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
-      "url": "https://open.spotify.com/track/0N3q34hFZX2S9jc4yPNyhF"
+      "duration_ms": 167400,
+      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
-        "name": "Whole of Flower",
-        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
-      },
-      "artists": [
-        {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Whole of Flower",
-      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
         "name": "\u6d77\u99ac\u6210\u9577\u75db",
         "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
       },
@@ -1315,8 +1299,24 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
-        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
+        "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
+        "url": "https://open.spotify.com/album/5YCPpXUx6kVMB6ModSMDN3"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 167400,
-      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+      "duration_ms": 142758,
+      "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
+      "url": "https://open.spotify.com/track/0N3q34hFZX2S9jc4yPNyhF"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
-        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 235914,
-      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
         "name": "stay tune",
         "url": "https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-09-04 15:00:05",
       "album": {
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
@@ -1683,6 +1683,26 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2025-09-04 15:00:05",
+      "album": {
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     },
     {
       "added_at": "2025-09-04 15:00:05",
@@ -1707,26 +1727,6 @@
       "duration_ms": 240066,
       "name": "OUR HEAVEN - feat. Daichi Yamamoto",
       "url": "https://open.spotify.com/track/5PrhjJFjOBkT0ZmzuH1Zu5"
-    },
-    {
-      "added_at": "2025-09-04 15:00:05",
-      "album": {
-        "name": "Don't go (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Don't go (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     }
   ],
   "unique_name": "Tokyo Rising",

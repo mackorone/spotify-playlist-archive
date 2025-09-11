@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,672 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,727 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

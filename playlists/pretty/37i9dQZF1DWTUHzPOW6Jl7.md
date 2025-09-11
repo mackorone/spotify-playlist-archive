@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,331 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,670 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 72 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 73 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
 | 74 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
-| 75 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
+| 75 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
 | 76 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
-| 77 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
+| 77 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
 | 78 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
 | 79 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
 | 80 | [Last Night](https://open.spotify.com/track/24NPziq3dayIMKppeI94Um) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Just Like You](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 4:15 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 89 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 90 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 |
 | 91 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
-| 92 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
-| 93 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
+| 92 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
+| 93 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 94 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
 | 95 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
 | 96 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |

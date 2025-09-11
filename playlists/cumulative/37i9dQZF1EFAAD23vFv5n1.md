@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 8 hr 13 min
+171 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 | 2024-09-22 |  |
 | [Lasciatemi Piangere](https://open.spotify.com/track/2z0CYJsv2779T7I82bazKj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:18 | 2024-04-29 |  |
 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 | 2024-04-29 |  |
+| [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 | 2025-09-10 |  |
 | [Londra](https://open.spotify.com/track/3f8Afp4ayOM9UPAwSYTkWE) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Londra](https://open.spotify.com/album/3oClS9LXJ5py2WVOS3mAgW) | 3:23 | 2025-01-09 | 2025-04-12 |
 | [Lontano](https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Lontano](https://open.spotify.com/album/5xIkwmOvPatDLwwbDmj1GO) | 2:36 | 2025-04-07 |  |
 | [Male](https://open.spotify.com/track/26HVAOi74rSqtArB3AwR8v) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Male](https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW) | 2:27 | 2024-09-11 |  |

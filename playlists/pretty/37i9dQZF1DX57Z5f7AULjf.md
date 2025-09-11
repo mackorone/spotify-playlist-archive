@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 
 > we outside all summer 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,196 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,231 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 30 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 31 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
 | 32 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 |
-| 33 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
-| 34 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 |
+| 33 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 |
+| 34 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
 | 35 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
 | 36 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
 | 37 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 44 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 |
 | 45 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 46 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
-| 47 | [HOLLYWOOD](https://open.spotify.com/track/3hkPqNU4lUd8A3smxWMLEY) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HOLLYWOOD](https://open.spotify.com/album/16zR7LP3U1in4YsFnmA4ZC) | 3:00 |
-| 48 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
+| 47 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
+| 48 | [HOLLYWOOD](https://open.spotify.com/track/3hkPqNU4lUd8A3smxWMLEY) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HOLLYWOOD](https://open.spotify.com/album/16zR7LP3U1in4YsFnmA4ZC) | 3:00 |
 | 49 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 50 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 |
 

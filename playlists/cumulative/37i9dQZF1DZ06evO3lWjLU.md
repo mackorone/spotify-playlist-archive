@@ -4,7 +4,7 @@
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 40 min
+94 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Arena](https://open.spotify.com/track/1bdNW5chWyLIenlLVHY64Z) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:30 | 2025-08-03 | 2025-08-30 |
 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 | 2025-07-06 |  |
 | [Baby I Won't](https://open.spotify.com/track/1G0xFA3KNiKdbjhT2asL43) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Baby I Won't](https://open.spotify.com/album/25S2NFMHnTQhB0oQmi6ghq) | 3:25 | 2023-11-10 | 2025-08-03 |
-| [Babylona](https://open.spotify.com/track/3m9ffnQYlWhsIClqADZ5SO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:24 | 2025-08-03 |  |
+| [Babylona](https://open.spotify.com/track/3m9ffnQYlWhsIClqADZ5SO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:24 | 2025-08-03 | 2025-09-11 |
 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 | 2024-04-07 |  |
 | [BEBE](https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [BEBE](https://open.spotify.com/album/0sQn7p0DAy7V2w8ys6OxUD) | 2:25 | 2023-11-10 | 2024-06-12 |
 | [Besarnos de cero](https://open.spotify.com/track/6xr8gptvnBbpsgTVe12XWy) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 | 2024-05-15 | 2024-07-24 |
@@ -97,7 +97,8 @@
 | [Uuu](https://open.spotify.com/track/0To1HWIDce0JUJbJMZno0W) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:08 | 2025-08-03 |  |
 | [Velocidad](https://open.spotify.com/track/1GXI9iCeN0bHX61ZoN93z1) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Foreign Teck](https://open.spotify.com/artist/5HviKGcHfUcbesgUw0PLzX) | [Respira](https://open.spotify.com/album/7CbhZdMcSPJpsfjFRuwRcj) | 2:14 | 2023-11-10 | 2024-05-28 |
 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 | 2024-05-13 | 2024-07-19 |
-| [Vitamina](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vitamina](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 | 2025-01-27 |  |
+| [Vitamina](https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:37 | 2025-09-11 |  |
+| [Vitamina](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vitamina](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 | 2025-01-27 | 2025-09-11 |
 | [Volare](https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 2:27 | 2023-11-10 |  |
 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 | 2023-11-10 |  |
 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 | 2023-11-10 |  |

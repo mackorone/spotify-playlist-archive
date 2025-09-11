@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-208 songs - 11 hr 58 min
+209 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dance](https://open.spotify.com/track/3jfzT8wtR3PCay1hXajvlG) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Jerome Raheem Fortune](https://open.spotify.com/album/5BUJoX2QkWHRNVD1vsV2Le) | 3:06 | 2022-09-08 | 2024-06-09 |
 | [Dance](https://open.spotify.com/track/51bo0PWLPlsOONPfmUZ0ro) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Jerome Raheem Fortune](https://open.spotify.com/album/0Vaw1bk1s0TneqvYoieH7H) | 3:06 | 2024-06-12 | 2024-06-14 |
 | [Dance](https://open.spotify.com/track/6xvPMkfMPhli1sGUXcbdMp) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Jerome Raheem Fortune](https://open.spotify.com/album/12kL6ZRjIQgXTuc382LTR3) | 3:06 | 2024-06-13 | 2025-01-04 |
+| [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 | 2025-09-10 |  |
 | [Dance Dance Dance Dance](https://open.spotify.com/track/6qNA4oi603Kluq2CiTszvP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:42 | 2024-12-11 |  |
 | [Day To Day](https://open.spotify.com/track/4yBdOhdoRDGKGgMEsDAyq1) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:24 | 2022-09-08 |  |
 | [DESPITE THE WEATHER](https://open.spotify.com/track/4kQT1Ep2CUYOHnve4G3hWA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 2:01 | 2023-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svenska punkklassiker och hardcore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,765 likes - 140 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,776 likes - 140 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 48 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 |
 | 49 | [Pappas tant](https://open.spotify.com/track/4yyEVHkCHDPmb4Ub83JfgL) | [Tant Strul](https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF) | [Klassiker](https://open.spotify.com/album/7djroGmIBob2EFwmbYNZA4) | 2:50 |
 | 50 | [Äganderätt?](https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F) | [Gymnastiken](https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2) | [Ännu En Gång](https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F) | 2:35 |
-| 51 | [Lite sne](https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Lite sne](https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3) | 2:52 |
+| 51 | [När broar bränns](https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [När broar bränns](https://open.spotify.com/album/1QmuGtosgz3jMsbw4Zhxxh) | 2:31 |
 | 52 | [Gamla ideal](https://open.spotify.com/track/2xDX2oOUlUJcNhJh7kqKhX) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Bland tomtar och troll](https://open.spotify.com/album/5qpQHc2lLSL8klOE7Yiyx0) | 3:22 |
-| 53 | [När broar bränns](https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [När broar bränns](https://open.spotify.com/album/1QmuGtosgz3jMsbw4Zhxxh) | 2:31 |
+| 53 | [Lite sne](https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Lite sne](https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3) | 2:52 |
 | 54 | [Låt dom brinna](https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm) | [Slaveriet](https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L) | [Ett småskaligt krig](https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb) | 2:18 |
 | 55 | [Knivhjärta](https://open.spotify.com/track/1tn6kFlK0sVNWJNu52THfH) | [Dödskällan](https://open.spotify.com/artist/6ubVra3DC7sDD6KjSuVjbA) | [Knivhjärta](https://open.spotify.com/album/6EUQZtQHAruBPqWQXOSsRf) | 3:15 |
 | 56 | [Stockholms bästa band](https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc) | [INTENSIVEN](https://open.spotify.com/artist/1p0EQ3biZsVtQBmjmMBymr) | [Stockholms bästa band](https://open.spotify.com/album/3ocY1J8pZDpn6pwT5uI3n8) | 3:38 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 90 | [Tid\-övertid](https://open.spotify.com/track/3bYTorXoefvnMoVpFLYMHn) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tid\-övertid](https://open.spotify.com/album/6mZtFPUxeQ0VUDyuADt2Wa) | 2:48 |
 | 91 | [Färgblind](https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA) | [MENUDÅ](https://open.spotify.com/artist/5D7o4OprxujXxLMdw5vYv8) | [Färgblind](https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO) | 2:37 |
 | 92 | [Lördag kan bli farlig](https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Lördag kan bli farlig](https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs) | 1:36 |
-| 93 | [Du E Plast](https://open.spotify.com/track/1j4OXmGlWv9dlaS9u5htdt) | [City Saints](https://open.spotify.com/artist/3OqJ3cRfFxPVKATChVmrho), [Christer "Blomman" Blomgren](https://open.spotify.com/artist/3zadbGPA3eib5aidFnvzen) | [Du E Plast](https://open.spotify.com/album/6Wp0WRKdyr5osrASK5A0r4) | 1:21 |
-| 94 | [Fattigdom suger!](https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:21 |
+| 93 | [Fattigdom suger!](https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:21 |
+| 94 | [Du E Plast](https://open.spotify.com/track/1j4OXmGlWv9dlaS9u5htdt) | [City Saints](https://open.spotify.com/artist/3OqJ3cRfFxPVKATChVmrho), [Christer "Blomman" Blomgren](https://open.spotify.com/artist/3zadbGPA3eib5aidFnvzen) | [Du E Plast](https://open.spotify.com/album/6Wp0WRKdyr5osrASK5A0r4) | 1:21 |
 | 95 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 | 96 | [Kom igen det blir kul](https://open.spotify.com/track/4E8nUba04WNgxFeoLtsxHc) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Tills högern skiljer oss åt](https://open.spotify.com/album/7gzIKfZxDzOCYjC2QOY0LW) | 2:57 |
 | 97 | [Crippas bar](https://open.spotify.com/track/11qwxRce5MXRgbJMepF8d6) | [Siken för Helvete](https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw) | [Crippas bar](https://open.spotify.com/album/6R96Kks61SVVG48J2mblAl) | 2:13 |

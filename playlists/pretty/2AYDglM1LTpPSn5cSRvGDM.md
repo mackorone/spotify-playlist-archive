@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 92,789 likes - 100 songs - 5 hr 40 min
+[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 93,010 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

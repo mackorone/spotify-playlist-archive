@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-241 songs - 11 hr 3 min
+242 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 | 2024-12-03 |  |
 | [Close Your Eyes](https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Close Your Eyes](https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H) | 2:37 | 2024-06-18 | 2024-09-19 |
 | [Closer](https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq) | [Sherman de Vries](https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA), [Navaro](https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [Closer](https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD) | 2:54 | 2024-03-06 |  |
-| [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 | 2024-02-07 |  |
+| [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 | 2024-02-07 | 2025-09-11 |
 | [Conquest Of Paradise](https://open.spotify.com/track/758KOSCLXKIf6BqMXe12pN) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Conquest Of Paradise](https://open.spotify.com/album/3cy8W1Kniru3DpXkutsGlN) | 2:16 | 2024-09-18 |  |
 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 | 2024-03-13 |  |
 | [Could You Be The One](https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Could You Be The One](https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK) | 2:01 | 2024-02-15 | 2024-06-13 |
@@ -229,6 +229,7 @@
 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 | 2024-02-07 |  |
 | [Watch Me](https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Watch Me \(Radio Edit\)](https://open.spotify.com/album/3wV3MUVnC6gvZwWPZRAQMa) | 2:46 | 2024-06-12 | 2024-07-27 |
 | [Waterfall](https://open.spotify.com/track/0fXkGPdyKItK9Lr6uHpRsZ) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Atlantic Ocean](https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M) | [Waterfall](https://open.spotify.com/album/4wbECQPBzv2ySwGengDeCY) | 3:32 | 2024-06-12 | 2024-06-19 |
+| [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-09-10 |  |
 | [We Ain't Here For Long](https://open.spotify.com/track/427747J57kLmFjqk7PZrpp) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9) | 2:55 | 2024-02-29 | 2024-04-19 |
 | [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 | 2024-04-18 | 2024-07-16 |
 | [What a Night](https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Gibbs](https://open.spotify.com/artist/7F7GWudunJXNKCIczRet5O) | [What a Night](https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0) | 2:37 | 2024-02-07 | 2024-06-13 |

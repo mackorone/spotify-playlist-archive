@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-97 songs - 5 hr 46 min
+98 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:07 | 2024-03-28 |  |
 | [The Truth](https://open.spotify.com/track/1CkPfZMwCeNid9kFTyVbXw) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:20 | 2024-03-28 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2024-03-28 |  |
+| [Treehouse](https://open.spotify.com/track/251Sfkz551MKWoXFvL2TAd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Treehouse](https://open.spotify.com/album/49GH2l6sWX15pBbNWc366o) | 2:52 | 2025-09-10 |  |
 | [Treehouse \(feat\. Shotty Horroh\)](https://open.spotify.com/track/1tFnpzdkHt4fW3gQbbADZ9) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [SHOTTY HORROH](https://open.spotify.com/artist/4a95izyFgvXS2JYqL8rANq) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:39 | 2024-03-28 |  |
 | [Unconditionally \(feat\. Adam Lazzara\)](https://open.spotify.com/track/4rvH323iVmfkFDQYzGOa5c) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Adam Lazzara](https://open.spotify.com/artist/1z1nZOj7qQWhNjWKr5ipqh) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:02 | 2024-03-28 |  |
 | [Wolves](https://open.spotify.com/track/07TgFELXJuTNKjqOnmAjzF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:20 | 2024-03-28 |  |

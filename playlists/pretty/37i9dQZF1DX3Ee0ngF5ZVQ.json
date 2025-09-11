@@ -1,6 +1,6 @@
 {
   "description": "Check out Band Together Texas, a livestream in support of Texas Flood Relief Efforts, airing at 7pm CT on August 17. Tune-in and donate at bandtogethertexas.com",
-  "num_followers": 406961,
+  "num_followers": 406921,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 317226,
-      "name": "A Cat in the Rain",
-      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
-        "name": "Denver to Dallas",
-        "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
-      },
-      "artists": [
-        {
-          "name": "Wynn Williams",
-          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
-        }
-      ],
-      "duration_ms": 208618,
-      "name": "Denver to Dallas",
-      "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
         "name": "Honky Tonk in Heaven",
         "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "Denver to Dallas",
+        "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
+      },
+      "artists": [
+        {
+          "name": "Wynn Williams",
+          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
+        }
+      ],
+      "duration_ms": 208618,
+      "name": "Denver to Dallas",
+      "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
     },
     {
       "added_at": "2025-08-08 16:55:37",

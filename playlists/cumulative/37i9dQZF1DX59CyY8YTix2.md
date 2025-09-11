@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-1,923 songs - 4 day 23 hr 11 min
+1,923 songs - 4 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,7 +862,6 @@
 | [Tonight](https://open.spotify.com/track/2yBA5e6jeGs7RIkFVJLIMr) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Tonight](https://open.spotify.com/album/3rtFcwP8OWzESxLvtdghtB) | 5:10 | 2022-07-07 | 2022-07-12 |
 | [Tougenkyou](https://open.spotify.com/track/0rHoMzgeOOu0KtPatsphBt) | [Blumepopo](https://open.spotify.com/artist/04RNBUTa49gFIa0Kqc7UYQ) | [Tougenkyou](https://open.spotify.com/album/1VT3BG9WtHj4I6fGWVZXmV) | 3:16 | 2024-01-10 | 2024-01-17 |
 | [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-06-20 | 2023-10-20 |
-| [Track 2](https://open.spotify.com/track/75kooypWpeo29YVGTZGDj0) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-09 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-08-22 |
 | [Trash into the Sea \- re\-arranged by JunIzawa](https://open.spotify.com/track/6hou4tFkkHdzWqVpYyKL1z) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX), [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [Trash into The Sea \(re\-arranged by JunIzawa\)](https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9) | 4:20 | 2022-05-31 | 2022-06-15 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-05-26 | 2022-07-29 |
@@ -978,6 +977,7 @@
 | [ある夏の記録](https://open.spotify.com/track/2cRAbQKSmwpDBWk1k6iCzU) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/2flAmkwxY2hg2mZ6elCFhE) | 3:03 | 2023-09-05 | 2023-09-13 |
 | [ある夏の記録](https://open.spotify.com/track/5s5uO2dBoYA8MiFAYmNtJJ) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/4qINgkQDfjk1a9SNffeh7M) | 3:03 | 2023-09-05 | 2023-09-07 |
 | [いいことばっかじゃない世界](https://open.spotify.com/track/1sJ4u2Y4LIJXee7KVpZmlK) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [ね。](https://open.spotify.com/album/5ckW9J8cmXzEWv2gzPEdrQ) | 4:31 | 2023-12-12 | 2023-12-14 |
+| [いたいのとんでけ](https://open.spotify.com/track/75kooypWpeo29YVGTZGDj0) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [ちっぽけな夜明け](https://open.spotify.com/album/4GPEdvtD16PaEuQmjnhCQS) | 3:06 | 2025-09-09 |  |
 | [いちについて](https://open.spotify.com/track/2jWRU46N13qI4W2ZCCYID7) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [いちについて](https://open.spotify.com/album/7nCBEz3zavKBX3dwMi1gsE) | 3:52 | 2024-04-30 | 2024-05-14 |
 | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1) | 5:43 | 2024-07-23 | 2025-01-17 |
 | [いつもの](https://open.spotify.com/track/5C0iUJLwDy46icXAW1a1Yn) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [突き動かされてく僕たちは、](https://open.spotify.com/album/0Gb29j2OvkVp9mIqfXwnvO) | 2:46 | 2022-06-02 | 2022-06-08 |
@@ -1767,7 +1767,7 @@
 | [白昼きみとドロン](https://open.spotify.com/track/2RmFrPfVGbAyOIUAg9nyRH) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [白昼きみとドロン](https://open.spotify.com/album/5Y1nT7jHmglvnAt08UNDCB) | 3:13 | 2024-01-23 | 2024-01-25 |
 | [白昼夢](https://open.spotify.com/track/61tfjimxak02qu4OqhVfVm) | [myuuRy](https://open.spotify.com/artist/61Xlneg2TaCeEck0vRikVJ) | [白昼夢](https://open.spotify.com/album/1JQiTCzu2sOuEuYge6g5rG) | 3:14 | 2022-11-01 | 2022-11-09 |
 | [白魔](https://open.spotify.com/track/7JMWnuy5zlOhgc9WPQgHZl) | [shallm](https://open.spotify.com/artist/7p59bvZexyLPxLprpZRV6L) | [白魔](https://open.spotify.com/album/0538ECU7XGt9bNVu6RCWx8) | 2:47 | 2023-12-05 | 2023-12-13 |
-| [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [](https://open.spotify.com/album/null) | 3:26 | 2025-09-09 |  |
+| [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [火星探索](https://open.spotify.com/album/4fjHgwIC74f4WJRFuOzrjS) | 3:26 | 2025-09-09 |  |
 | [皆誰かの大事](https://open.spotify.com/track/6HDc6CUGa7muH5w6LroE4O) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はみ出て!](https://open.spotify.com/album/1au12MdCdbwhk7GrEh7zAF) | 3:24 | 2022-09-20 | 2022-10-19 |
 | [直感way](https://open.spotify.com/track/1xtF0TQdneGOGeRIhmcr1v) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [直感way](https://open.spotify.com/album/1rADCXSslYaBD3wMzqZ7ph) | 4:28 | 2023-02-15 | 2023-03-01 |
 | [真夏の夜の夢](https://open.spotify.com/track/2RDN1D6wtANEJXVv6Tc4Wq) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 4:40 | 2023-12-19 | 2024-02-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 84675,
+  "num_followers": 84704,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAD36tD/Ot/04xatSQNFeiBd",
+  "snapshot_id": "aL9uAAAAAABxDwF0mKdrDfzMIR3B/thk",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Court Of The Dragon",
+        "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 435976,
+      "name": "The Phalanx",
+      "url": "https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Court Of The Dragon",
-        "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 335792,
-      "name": "A Crisis Of Revelation",
-      "url": "https://open.spotify.com/track/07ELgtGISbYc3CavN1AcfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Court Of The Dragon",
+        "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 335792,
+      "name": "A Crisis Of Revelation",
+      "url": "https://open.spotify.com/track/07ELgtGISbYc3CavN1AcfX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -503,6 +519,22 @@
       "duration_ms": 207893,
       "name": "Black",
       "url": "https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 281781,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
     },
     {
       "added_at": null,
@@ -532,25 +564,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 435976,
-      "name": "The Phalanx",
-      "url": "https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 281781,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
+      "duration_ms": 233406,
+      "name": "No Way Back Just Through",
+      "url": "https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK"
     },
     {
       "added_at": null,
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
       "artists": [
         {
@@ -580,25 +596,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 293093,
-      "name": "Watch the World Burn",
-      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Court Of The Dragon",
-        "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "No Way Back Just Through",
-      "url": "https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK"
+      "duration_ms": 409693,
+      "name": "Torn Between Scylla and Charybdis",
+      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 409693,
-      "name": "Torn Between Scylla and Charybdis",
-      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
+      "duration_ms": 293093,
+      "name": "Watch the World Burn",
+      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crusade",
-        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Anthem (We Are the Fire)",
-      "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 714986,
       "name": "Shogun",
       "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crusade",
+        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Anthem (We Are the Fire)",
+      "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
     },
     {
       "added_at": null,

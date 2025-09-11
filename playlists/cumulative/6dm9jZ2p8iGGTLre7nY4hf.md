@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-472 songs - 1 day 2 hr 38 min
+474 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Hopelessly hopeless](https://open.spotify.com/track/64qDMtMORccb6NRgvtCYR0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 3:24 | 2025-03-26 | 2025-07-25 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2023-09-15 | 2025-03-14 |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2023-09-15 | 2025-03-14 |
+| [How to Let Go](https://open.spotify.com/track/75Xnx2Wc9pG2IhWRezyl9X) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [How to Let Go](https://open.spotify.com/album/6XEMNFuUW4tjvnVnvr5kPI) | 3:32 | 2025-09-10 |  |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2025-03-26 |  |
 | [Hurricane](https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hurricane](https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I) | 4:08 | 2025-08-08 |  |
 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 | 2023-09-15 | 2025-03-14 |
@@ -280,6 +281,7 @@
 | [my slime](https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [my slime](https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu) | 3:08 | 2023-09-15 | 2025-03-14 |
 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 | 2025-07-24 |  |
 | [Nervous](https://open.spotify.com/track/5tPgNrhouhvhh6xyf9X3C0) | [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Nervous](https://open.spotify.com/album/74DygHe0nMcYjfcGt3O5Hg) | 2:48 | 2023-09-15 | 2025-03-14 |
+| [Nervous](https://open.spotify.com/track/113xf7t4qNM7038YJvauik) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 4:05 | 2025-09-10 |  |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-09-15 | 2025-03-14 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2025-07-24 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2025-03-26 | 2025-07-25 |

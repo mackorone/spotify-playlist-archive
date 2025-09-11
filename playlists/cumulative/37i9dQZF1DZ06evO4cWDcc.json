@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Stone Free / Up From The Skies (Demo)",
+        "url": "https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "Stone Free / Up From The Skies - Demo",
+      "url": "https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z"
+    },
+    {
+      "album": {
         "name": "Electric Lady Studios: A Jimi Hendrix Vision",
         "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
       },
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 576360,
       "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
       "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"

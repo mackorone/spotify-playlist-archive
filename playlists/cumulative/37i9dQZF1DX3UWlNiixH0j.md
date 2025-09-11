@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ODD Foot Works
 
-2,670 songs - 6 day 22 hr 32 min
+2,670 songs - 6 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,7 +902,7 @@
 | [Messages that don't reach you](https://open.spotify.com/track/59IEVzGqH7942VwaRP4DIp) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Messages that don't reach you](https://open.spotify.com/album/7yH7OsvM7a11HaCOb68azC) | 4:07 | 2023-11-12 | 2023-11-22 |
 | [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-29 | 2023-12-02 |
 | [Metamorphose Love](https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 2:40 | 2023-11-30 | 2024-01-10 |
-| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [](https://open.spotify.com/album/null) | 3:58 | 2025-09-09 |  |
+| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 | 2025-09-09 |  |
 | [metro](https://open.spotify.com/track/394JXxh1q4g3pZKOxO5HLS) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [South Penguin](https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p) | 3:08 | 2024-02-13 | 2024-03-20 |
 | [miasma](https://open.spotify.com/track/6OTk1A5SN4UvNaJT2MUck9) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [Germination of Concepts](https://open.spotify.com/album/1hnCEzbxkge62IBR0VnSsD) | 4:28 | 2023-03-14 | 2023-03-29 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 | 2023-06-21 | 2023-07-05 |
@@ -1464,7 +1464,7 @@
 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 | 2023-09-26 | 2023-12-13 |
 | [Tableaux タブローズ](https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 4:29 | 2023-05-30 | 2023-09-06 |
 | [TAI/ON](https://open.spotify.com/track/42YsXTgv2k4uoDcWWnoK2y) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [TAI/ON](https://open.spotify.com/album/3HmzhY4fugniQSjk79jI9F) | 2:36 | 2023-08-15 | 2023-08-23 |
-| [Taida A La Mode](https://open.spotify.com/track/3wxdnuv57slKn1hJkQY2n5) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [](https://open.spotify.com/album/null) | 2:58 | 2025-09-09 |  |
+| [Taida A La Mode](https://open.spotify.com/track/3wxdnuv57slKn1hJkQY2n5) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [ODD FOOT WORKS 2](https://open.spotify.com/album/54HaInUdp2fLrcANteCZSc) | 2:58 | 2025-09-09 |  |
 | [Take a Look \- Ftlframe Remix](https://open.spotify.com/track/5r2Z801NMhhl8B9xykon4f) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [Ftlframe](https://open.spotify.com/artist/6ueZc2xAm12Ib0e90Bx7P0) | [Take a Look \(Ftlframe Remix\)](https://open.spotify.com/album/1kYAxyDQRCiwEB22T4uJDi) | 2:00 | 2025-06-11 | 2025-07-29 |
 | [take care](https://open.spotify.com/track/7Gjgl7STeQcpkHmztnhqDi) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [OBAKE IN TSUSHIMA\-NAKA](https://open.spotify.com/album/1htnvB6tjuxwVqZ5jigPFt) | 2:18 | 2023-12-19 | 2023-12-27 |
 | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [Kibunya](https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN) | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY) | 4:03 | 2023-11-16 | 2024-01-12 |
@@ -1565,7 +1565,6 @@
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-08-06 | 2024-08-31 |
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-09 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |
@@ -2425,6 +2424,7 @@
 | [朝日のぬくもり](https://open.spotify.com/track/0945XJg88Eu5VUu7Lchpig) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [木原健児](https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ) | [はじまりの夜](https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL) | 4:10 | 2023-05-30 | 2023-07-12 |
 | [木村 楓](https://open.spotify.com/track/7bdQgNub2YifYx88g25pCU) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [木村 楓](https://open.spotify.com/album/6BQmSRvsKVwuAFepLdQun8) | 3:07 | 2024-06-04 | 2024-06-12 |
 | [未来](https://open.spotify.com/track/32eRMRmyLak5lWpBZxSagK) | [βyrnE](https://open.spotify.com/artist/2JFIa3LiCXok1JQo4UKmHg) | [未来](https://open.spotify.com/album/5NBLMEm4AsJfFpuJtZYqhT) | 5:47 | 2025-08-05 | 2025-08-13 |
+| [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 | 2025-09-09 |  |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-09 | 2024-09-18 |
 | [本棚](https://open.spotify.com/track/4BwcjQwQk9LrkE5JruB86P) | [D.W.ニコルズ](https://open.spotify.com/artist/2NFrTF6OpuFJZQqVIWmM8Q) | [本棚](https://open.spotify.com/album/6GWbaEa0MzZHa1rrSZeRkE) | 3:05 | 2025-03-11 | 2025-03-19 |
 | [東京](https://open.spotify.com/track/79kZ3Bw4TqU5WVolM1iEuG) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [pothos](https://open.spotify.com/album/3ej53ANm229s5CjbN1Ukly) | 5:11 | 2024-06-04 | 2024-06-12 |

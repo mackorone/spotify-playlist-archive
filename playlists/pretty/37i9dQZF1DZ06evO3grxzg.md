@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,391 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,415 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 12 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 13 | [El Primer Dia Sin Ti](https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR) | 3:54 |
 | 14 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
-| 15 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
-| 16 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
+| 15 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
+| 16 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
 | 17 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
 | 18 | [El Doble](https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [El Doble](https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS) | 3:18 |
 | 19 | [Vuelve, Vuelve](https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:46 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 44 | [A Un Beso](https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Un Beso](https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk) | 3:37 |
 | 45 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
 | 46 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
-| 47 | [De Mí Enamórate](https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 4:59 |
-| 48 | [Sola](https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:05 |
+| 47 | [Sola](https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:05 |
+| 48 | [De Mí Enamórate](https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 4:59 |
 | 49 | [Mi vida empieza así](https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 1:49 |
 | 50 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 |
 
-Snapshot ID: `aL4cgAAAAACXjyKOEhf9JsqeKmkrp89L`
+Snapshot ID: `aL9uAAAAAAC+uGpLjptOb5deA9K8J7j4`

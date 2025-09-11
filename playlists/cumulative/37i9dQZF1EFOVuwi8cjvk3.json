@@ -865,6 +865,32 @@
     },
     {
       "album": {
+        "name": "Built for This (Music from The Man with the Iron Fists Soundtrack)",
+        "url": "https://open.spotify.com/album/0MjTWzucbJMkfxhQjgFMfT"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Streetlife",
+          "url": "https://open.spotify.com/artist/7CrVv4zLga71gdlMOMfjXL"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264560,
+      "name": "Built for This",
+      "url": "https://open.spotify.com/track/0VLxGgikRXmGRw2mUZu7Pa"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -1310,7 +1336,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"

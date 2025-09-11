@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some calm and cool Jazz
 
-732 songs - 1 day 19 hr 22 min
+734 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-22 | 2022-12-24 |
 | [Evening In New York](https://open.spotify.com/track/6i1udzdP4HRmjVDo4LPZF1) | [Jené Martins Band](https://open.spotify.com/artist/7u9j7MdEqR5Em27hR8uuEI) | [Evening In New York](https://open.spotify.com/album/33hEJUqjhwhKO75YNfphuE) | 4:22 | 2024-11-05 | 2025-02-11 |
+| [Evening Stroll](https://open.spotify.com/track/4jQktpEQRdQrvMA75JXU0V) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Evening Stroll](https://open.spotify.com/album/7bfOI871T2IIbBBwAjjhK7) | 3:26 | 2025-09-10 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 | 2024-11-12 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-05-17 | 2023-01-06 |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-05-17 | 2023-05-26 |
@@ -375,6 +376,7 @@
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 | 2023-12-14 |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 | 2023-02-24 |
 | [Margot In May](https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Margot In May](https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su) | 3:46 | 2024-04-23 | 2024-09-10 |
+| [May Cease To Be](https://open.spotify.com/track/5KgaIjIi1zC00xjEgUeiZI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [May Cease To Be](https://open.spotify.com/album/4nSniLVfspsem64F3wLgRH) | 3:32 | 2025-09-10 |  |
 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-13 | 2025-01-15 |
 | [Maywood In My Heart](https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:44 | 2023-04-13 | 2025-07-16 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 | 2024-08-20 |
@@ -392,10 +394,10 @@
 | [Missed The Last Dance With You](https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [Missed The Last Dance With You](https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3) | 5:04 | 2023-12-08 | 2024-11-19 |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-06-22 | 2022-11-25 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 | 2024-06-01 |
-| [Moments in Moonlight](https://open.spotify.com/track/55fwf6U2P3ZvjXsQgxhZrd) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Moments in Moonlight](https://open.spotify.com/album/6dQqdshEOVrOCm4IOyjirN) | 2:48 | 2024-03-08 |  |
+| [Moments in Moonlight](https://open.spotify.com/track/55fwf6U2P3ZvjXsQgxhZrd) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Moments in Moonlight](https://open.spotify.com/album/6dQqdshEOVrOCm4IOyjirN) | 2:48 | 2024-03-08 | 2025-09-11 |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2022-12-22 | 2024-06-25 |
 | [Moonbows](https://open.spotify.com/track/3fSSeOXRH2QUynHAUyJu1i) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Moonbows](https://open.spotify.com/album/6yO4FXW3snsEVwoAkMJEIa) | 3:05 | 2024-06-03 |  |
-| [Moonflower Waltz](https://open.spotify.com/track/6qAxvxO0lu8MwzKLGvFX3s) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Moonflower Waltz](https://open.spotify.com/album/56dDXhykp3FkI0aOeNDf47) | 2:54 | 2024-02-23 |  |
+| [Moonflower Waltz](https://open.spotify.com/track/6qAxvxO0lu8MwzKLGvFX3s) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Moonflower Waltz](https://open.spotify.com/album/56dDXhykp3FkI0aOeNDf47) | 2:54 | 2024-02-23 | 2025-09-11 |
 | [Moonlit](https://open.spotify.com/track/5AGS3dJDEo3ZrsFfTw1c0D) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Moonlit](https://open.spotify.com/album/0bNizvznSsufj4wQ9bEE7q) | 2:55 | 2024-05-23 | 2025-02-04 |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-16 | 2024-06-04 |
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-02-16 | 2024-11-12 |

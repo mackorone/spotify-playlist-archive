@@ -4,7 +4,7 @@
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 2 min
+76 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Me Caes Muy Bien](https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH) | 3:44 | 2024-08-08 | 2025-03-13 |
 | [Muñequita Linda](https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Muñequita Linda](https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3) | 3:30 | 2024-08-08 |  |
 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 | 2024-08-08 |  |
-| [Offspring](https://open.spotify.com/track/5NPZpywHJWVnesi5XdhAJC) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Offspring](https://open.spotify.com/album/1v78iUFk6XYJVjCsjg2n67) | 2:52 | 2025-08-14 |  |
+| [Offspring](https://open.spotify.com/track/5NPZpywHJWVnesi5XdhAJC) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Offspring](https://open.spotify.com/album/1v78iUFk6XYJVjCsjg2n67) | 2:52 | 2025-08-14 | 2025-09-11 |
+| [Pasame La Botella](https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [UNDERDOGS](https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH) | 3:29 | 2025-09-11 |  |
 | [Pasame La Botella](https://open.spotify.com/track/6Y2JmUPmMFzAdqrDYKXFlF) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Pasame La Botella](https://open.spotify.com/album/5nXFr1sJiXv7Kx0zDniuP0) | 3:29 | 2024-08-08 | 2025-04-18 |
 | [Perdoname \(feat\. DyCy & Adrian Delgado\)](https://open.spotify.com/track/5cR7culxUEPLhzIC0KWAH1) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [DyCy](https://open.spotify.com/artist/2qdqYad94Al0HLIgmUGQM5), [Adrian Delgado](https://open.spotify.com/artist/0D2VCZf17n5XVzgFAnO9cA) | [Perdoname \(feat\. DyCy & Adrian Delgado\)](https://open.spotify.com/album/2H2Cv9mrQq4PSzGLXmxkw3) | 4:30 | 2024-08-08 |  |
 | [Pica](https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Pica](https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG) | 3:19 | 2024-08-08 |  |

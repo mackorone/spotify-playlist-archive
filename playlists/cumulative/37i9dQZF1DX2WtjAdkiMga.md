@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2WtjAdkiMga.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2WtjAdkiMga) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2WtjAdkiMga)
 
-### [Lullaby Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2WtjAdkiMga)
+### [Jazz Lullabies](https://open.spotify.com/playlist/37i9dQZF1DX2WtjAdkiMga)
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 

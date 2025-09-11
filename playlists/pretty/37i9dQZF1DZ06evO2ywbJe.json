@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6112,
+  "num_followers": 6124,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACCmcmSk2rOAsL/sjdYdvnb",
+  "snapshot_id": "aL9uAAAAAADMSbguoq0Ft7PCbR9sqVnx",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Your Love",
-        "url": "https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Gimme Your Love",
-      "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gimme Your Love",
+        "url": "https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
     },
     {
       "added_at": null,
@@ -515,6 +515,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get better",
+        "url": "https://open.spotify.com/album/68txDotXdFLjPsMnmcL1TL"
+      },
+      "artists": [
+        {
+          "name": "Damzee Abaamin",
+          "url": "https://open.spotify.com/artist/7wsFUNZpQAeTtAq6mUgnCs"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 90932,
+      "name": "Get better",
+      "url": "https://open.spotify.com/track/1sXhAzKfAv87lBYlBvj69r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -543,50 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 223531,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get better",
-        "url": "https://open.spotify.com/album/68txDotXdFLjPsMnmcL1TL"
-      },
-      "artists": [
-        {
-          "name": "Damzee Abaamin",
-          "url": "https://open.spotify.com/artist/7wsFUNZpQAeTtAq6mUgnCs"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 90932,
-      "name": "Get better",
-      "url": "https://open.spotify.com/track/1sXhAzKfAv87lBYlBvj69r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 223531,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
     },
     {
       "added_at": null,

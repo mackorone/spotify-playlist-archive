@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el alma musical de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,819 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,857 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 37 | [El Siquisirí](https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:45 |
 | 38 | [Qué Bonita Es Mi Tierra](https://open.spotify.com/track/6LCZidGQ1WJzwC0iZt3YND) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte \(La Musica Mexicana En Instrumental\)](https://open.spotify.com/album/1BwsTaUjhROz7mGpm892In) | 2:55 |
 | 39 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH) | [Daniel Armas](https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi) | [México 2010 El Salterio](https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX) | 2:41 |
-| 40 | [El Zapateado](https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX) | [Andrés Vega Delfín](https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6) | [De la Mera Mata](https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26) | 4:49 |
-| 41 | [Los Ojos de Francesca Marimba](https://open.spotify.com/track/7ofMVPa6s7hn74GlymSyXr) | [MML Latin](https://open.spotify.com/artist/16jL08iIvOjNhzRJnfDkJc), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Mauricio Huerta](https://open.spotify.com/artist/2zcc9iKtsz33S7ectcj0Qb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Danzon](https://open.spotify.com/album/6S565D3m0inBWDcogI71nQ) | 2:16 |
+| 40 | [Los Ojos de Francesca Marimba](https://open.spotify.com/track/7ofMVPa6s7hn74GlymSyXr) | [MML Latin](https://open.spotify.com/artist/16jL08iIvOjNhzRJnfDkJc), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Mauricio Huerta](https://open.spotify.com/artist/2zcc9iKtsz33S7ectcj0Qb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Danzon](https://open.spotify.com/album/6S565D3m0inBWDcogI71nQ) | 2:16 |
+| 41 | [El Zapateado](https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX) | [Andrés Vega Delfín](https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6) | [De la Mera Mata](https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26) | 4:49 |
 | 42 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
-| 43 | [El Borracho](https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI) | [Macuilxochitl](https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu) | [Pasión Huasteca](https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa) | 2:50 |
-| 44 | [Jesusita en Chihuahua](https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los Primeros Años](https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6) | 2:11 |
+| 43 | [Jesusita en Chihuahua](https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los Primeros Años](https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6) | 2:11 |
+| 44 | [El Borracho](https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI) | [Macuilxochitl](https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu) | [Pasión Huasteca](https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa) | 2:50 |
 | 45 | [La Borrachita](https://open.spotify.com/track/1OIET3yptLiovEz07Wpk7y) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:07 |
 | 46 | [Lindas Mexicanas](https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI) | [Velino Miguel Preza](https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 4:27 |
 | 47 | [El Amanecer](https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 9:25 |

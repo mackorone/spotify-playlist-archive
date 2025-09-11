@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,592 likes - 41 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,379 likes - 41 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 14 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
 | 15 | [feel like shit](https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:23 |
 | 16 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
-| 17 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 17 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |
 | 18 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
 | 19 | [chaotic](https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:55 |
 | 20 | [rubberband](https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:27 |
-| 21 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |
+| 21 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
 | 22 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
 | 23 | [One Day](https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr) | 3:22 |
 | 24 | [stupid](https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:53 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 36 | [what would you do?](https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:46 |
 | 37 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 |
 | 38 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 |
-| 39 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
-| 40 | [Slip](https://open.spotify.com/track/1RI4G0KZES2ZQgKCF3mgOQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Slip](https://open.spotify.com/album/5iyYTjDj9kt0rz8kjrnayq) | 2:51 |
+| 39 | [Slip](https://open.spotify.com/track/1RI4G0KZES2ZQgKCF3mgOQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Slip](https://open.spotify.com/album/5iyYTjDj9kt0rz8kjrnayq) | 2:51 |
+| 40 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 | 41 | [r u ok](https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 |
 
-Snapshot ID: `aL4cgAAAAAC18hstxQEM6Gyfw2QxBQ3p`
+Snapshot ID: `aL9uAAAAAACjrCVZmrue0JCJ4Z7SYqaW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,513 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [TODO KE VER](https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [TODO KE VER](https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC) | 2:38 |
 | 50 | [Insuperable](https://open.spotify.com/track/1ivbpcbZlCnqjvv6UjUDTe) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Insuperable](https://open.spotify.com/album/6aZZbJJ1WlK9Uxwz5WaZ7e) | 2:51 |
 
-Snapshot ID: `MFOYIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFTpoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

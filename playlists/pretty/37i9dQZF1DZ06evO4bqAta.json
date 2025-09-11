@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 581840,
+  "num_followers": 581925,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABlZB9cD7Md6jTaWC13Qco0",
+  "snapshot_id": "aL9uAAAAAAB3MivXnGeX5jfRU4kc6mPE",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan's Greatest Hits",
-        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Positively 4th Street",
-      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 256800,
       "name": "Simple Twist of Fate",
       "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan's Greatest Hits",
+        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Train Coming",
-        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 451133,
       "name": "Visions of Johanna",
       "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Secret Of Life: Partners, Volume 2",
         "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 232751,
       "name": "The Very Thought Of You (with Bob Dylan)",
       "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     }
   ],
   "unique_name": "This Is Bob Dylan",

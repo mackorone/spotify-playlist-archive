@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1141832,
+  "num_followers": 1141875,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Taking You There",
+      "url": "https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "thoughts i have while lying in bed (with Beach Weather)",
         "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Taking You There",
-      "url": "https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting On You)",
       "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "This Modern Love",
-      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Emergency Contact",
-        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
     },
     {
       "added_at": "2025-02-14 15:17:16",

@@ -1,6 +1,6 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Ciara",
-  "num_followers": 723383,
+  "num_followers": 723683,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
@@ -329,20 +329,24 @@
       "url": "https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ"
     },
     {
-      "added_at": "2025-05-02 04:00:32",
+      "added_at": "2024-03-08 16:23:30",
       "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
       "added_at": "2025-05-16 14:37:22",
@@ -401,24 +405,20 @@
       "url": "https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG"
     },
     {
-      "added_at": "2024-03-08 16:23:30",
+      "added_at": "2025-05-02 04:00:32",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "Burning Blue",
+        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+      "duration_ms": 205724,
+      "name": "Burning Blue",
+      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
     },
     {
       "added_at": "2025-05-16 14:37:22",

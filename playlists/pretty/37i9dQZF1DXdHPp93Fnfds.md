@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,784 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,767 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 29 | [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 |
 | 30 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 31 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
-| 32 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
-| 33 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 |
+| 32 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 |
+| 33 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 34 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 35 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 | 36 | [El Día de las Flores](https://open.spotify.com/track/6IDE0OVT1hcMdf1bCqxxSp) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:38 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 70 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 |
 | 71 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
 | 72 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
-| 73 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
-| 74 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
+| 73 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
+| 74 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
 | 75 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
 | 76 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
-| 77 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 |
-| 78 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 |
-| 79 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
-| 80 | [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 |
+| 77 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 78 | [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 |
+| 79 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 |
+| 80 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 |
 
 Snapshot ID: `AAAAAGGUgprWjlCtyGbsZfW1sqkFXo+a`

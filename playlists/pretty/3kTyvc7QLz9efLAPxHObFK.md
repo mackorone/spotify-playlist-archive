@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,520 songs - 5 day 11 hr 40 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,521 songs - 5 day 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2528,5 +2528,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2518 | [Slave To The Rave](https://open.spotify.com/track/4IGQAA1P00U9il8wtu1SSo) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Slave To The Rave](https://open.spotify.com/album/1EFBwkTKs2TLiD1Yah9lNE) | 2:36 |
 | 2519 | [Endless Lights](https://open.spotify.com/track/3lD2ugOwbX8tX9MnCRRfLS) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Endless Lights](https://open.spotify.com/album/1j4Wv1VuqK86eTk6IOllEE) | 2:59 |
 | 2520 | [Let The Bass Pump](https://open.spotify.com/track/0usDNqnYYCPF5T677ZMcW4) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [Let The Bass Pump](https://open.spotify.com/album/2TFAFWqLI1fN2YyCsWBu0K) | 3:13 |
+| 2521 | [L.O.V.E.S.I.C.K](https://open.spotify.com/track/2IG1k5r5yNlE7Pd4tht2HP) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [音琴兎愛](https://open.spotify.com/artist/7lrXm3mI2WhVU8xiZjKgyz) | [L.O.V.E.S.I.C.K](https://open.spotify.com/album/7fiJCB9JvpaX5nz0lCeXQP) | 2:36 |
 
-Snapshot ID: `AAAKHnPIbrGcZOkS7khvkbh7tXJffQWu`
+Snapshot ID: `AAAKH0LBWtM/XJYryZ5iwUYB9CrWGM62`

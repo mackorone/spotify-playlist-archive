@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 16 hr 40 min
+284 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2023-12-14 |  |
 | [Broken Clocks](https://open.spotify.com/track/2ADMJWa3Qq5iPA2tvMKyPD) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Broken Clocks](https://open.spotify.com/album/1sScen4Auho7KGDfiPHSIo) | 5:03 | 2023-12-13 | 2024-01-28 |
 | [Built for This](https://open.spotify.com/track/57dqa4ca0qEFZBAJLpzy5D) | [Easturn Vantage](https://open.spotify.com/artist/384vZPro6gLdrkQJyQ96gi), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Cold Dayz](https://open.spotify.com/album/6D6n3LQi7JuFIpnrunYRlq) | 5:08 | 2024-01-19 | 2024-01-22 |
+| [Built for This](https://open.spotify.com/track/0VLxGgikRXmGRw2mUZu7Pa) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Streetlife](https://open.spotify.com/artist/7CrVv4zLga71gdlMOMfjXL) | [Built for This \(Music from The Man with the Iron Fists Soundtrack\)](https://open.spotify.com/album/0MjTWzucbJMkfxhQjgFMfT) | 4:24 | 2025-09-10 |  |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2023-12-13 |  |
 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 | 2023-12-13 |  |
 | [Can't Leave the Night](https://open.spotify.com/track/3i24dUJKnMzsDqaFWqTGlb) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:40 | 2023-12-13 |  |
@@ -77,7 +78,7 @@
 | [Company](https://open.spotify.com/track/0paIDUEcixm7WmcC72KgKZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:24 | 2025-04-15 |  |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2023-12-13 |  |
 | [Confessions](https://open.spotify.com/track/1Sc2RHxyKHMeyCChQTWTnp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:00 | 2023-12-13 |  |
-| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-13 |  |
+| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-13 | 2025-09-11 |
 | [Congratulations \- Remix](https://open.spotify.com/track/2YK01AIIWuywG24gsbuizE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Congratulations \(Remix\)](https://open.spotify.com/album/3oeiU8nG5eDm5YPpDvK6eS) | 4:44 | 2023-12-13 |  |
 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 | 2023-12-13 |  |
 | [Cs60](https://open.spotify.com/track/397XzSTDSC6CjiybfmWKU0) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 6:52 | 2023-12-13 |  |

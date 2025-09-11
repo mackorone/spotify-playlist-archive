@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,991 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,023 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 6 | [Demasiado Romantica](https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:40 |
 | 7 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
 | 8 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
-| 9 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
+| 9 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
 | 10 | [La Quiero a Morir/Si Algún Día la Ves](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 |
-| 11 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
+| 11 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
 | 12 | [Estoy Enamorado](https://open.spotify.com/track/1rYzUTFXaBOmZ3ibcb3CRu) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow 2 \(New Deluxe Version\)](https://open.spotify.com/album/4LJFxXaQCaVu6zVtGvWgI9) | 4:30 |
 | 13 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 14 | [Mi Novia, Mi Amante y Mujer](https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP) | 4:47 |

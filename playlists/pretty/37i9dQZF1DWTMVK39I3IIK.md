@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Mags
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,990 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,987 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,17 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 55 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
 | 56 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 |
 | 57 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
-| 58 | [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 |
-| 59 | [Fanget I En Drøm](https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Fanget I En Drøm](https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4) | 2:52 |
+| 58 | [Fanget I En Drøm](https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Fanget I En Drøm](https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4) | 2:52 |
+| 59 | [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 |
 | 60 | [Diskosnav](https://open.spotify.com/track/1rc40ngp3eY9POSvsfftYP) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Diskosnav](https://open.spotify.com/album/4NU6Dmiwn4tgGi42FFsakA) | 2:50 |
-| 61 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 |
-| 62 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 |
-| 63 | [Telescope](https://open.spotify.com/track/4yLfFqD4kOleS79GibMyhj) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Telescope](https://open.spotify.com/album/1HfHyICQbF212PG2cdPj6d) | 3:17 |
+| 61 | [Telescope](https://open.spotify.com/track/4yLfFqD4kOleS79GibMyhj) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Telescope](https://open.spotify.com/album/1HfHyICQbF212PG2cdPj6d) | 3:17 |
+| 62 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 |
+| 63 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 |
 | 64 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
 | 65 | [apricot jam](https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [apricot jam](https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N) | 3:14 |
 | 66 | [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 |
-| 67 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 |
-| 68 | [Sidste År](https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Sidste År](https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf) | 3:22 |
+| 67 | [Sidste År](https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Sidste År](https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf) | 3:22 |
+| 68 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 |
 | 69 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 |
 | 70 | [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 |
 

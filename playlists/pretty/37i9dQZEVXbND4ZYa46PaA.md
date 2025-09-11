@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,740 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,750 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 27 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 28 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 |
 | 29 | [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 |
-| 30 | [The Night We Met](https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn) | 3:28 |
+| 30 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 31 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 32 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 33 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 36 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
 | 37 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 38 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
-| 39 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 39 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
 | 40 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
 | 41 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
 | 42 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 |
 | 50 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 
-Snapshot ID: `MFOYIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFTpoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

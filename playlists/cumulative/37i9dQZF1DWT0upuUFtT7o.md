@@ -2,7 +2,7 @@
 
 ### [ Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Cover: Clyde Crooks
+> The best new indie tracks from independent artists & labels\. Cover: Dove Ellis
 
 3,482 songs - 8 day 0 hr 53 min
 

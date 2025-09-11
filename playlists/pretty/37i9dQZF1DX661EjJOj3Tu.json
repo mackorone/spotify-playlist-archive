@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 516650,
+  "num_followers": 516647,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,38 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 541680,
+      "name": "La Fiesta - Live",
+      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -583,54 +615,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 541680,
-      "name": "La Fiesta - Live",
-      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 353840,
-      "name": "Soul Bourgeoisie",
-      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Mango",
         "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221954,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 353840,
+      "name": "Soul Bourgeoisie",
+      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+      },
+      "artists": [
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 258281,
       "name": "Tatomania",
       "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
-      },
-      "artists": [
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 432617,
-      "name": "Chucho\u2019s Mood",
-      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Yesun",
         "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 166974,
       "name": "Aggua",
       "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 432617,
+      "name": "Chucho\u2019s Mood",
+      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -999,46 +999,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "El Arte Del Bolero",
-        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
-        }
-      ],
-      "duration_ms": 477496,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Meetings",
         "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
       },
@@ -1055,6 +1015,26 @@
       "duration_ms": 369797,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "El Arte Del Bolero",
+        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        },
+        {
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+        }
+      ],
+      "duration_ms": 477496,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1079,18 +1059,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+      },
+      "artists": [
+        {
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+        }
+      ],
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Yesun",
         "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Havana Nocturne (Latin Jazz Vocal)",
-        "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
-      },
-      "artists": [
-        {
-          "name": "Aym\u00e9e Nuviola",
-          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
-        },
-        {
-          "name": "Kemuel Roig",
-          "url": "https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 250080,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Havana Nocturne (Latin Jazz Vocal)",
+        "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
+      },
+      "artists": [
+        {
+          "name": "Aym\u00e9e Nuviola",
+          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
+        },
+        {
+          "name": "Kemuel Roig",
+          "url": "https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 435226,
-      "name": "La Gitana",
-      "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 736160,
       "name": "From Moment To Moment",
       "url": "https://open.spotify.com/track/08x2tZWOiR81Ht7emwGEsm"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 435226,
+      "name": "La Gitana",
+      "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "How Did You Get In My Dreams?",
-        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "How Did You Get In My Dreams?",
-      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 440053,
       "name": "Para Los Rumberos",
       "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "How Did You Get In My Dreams?",
+        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "How Did You Get In My Dreams?",
+      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Jazz Bat\u00e1 2",
         "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 293020,
       "name": "Luces",
       "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Standards",
-        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "They Can't Take That Away from Me",
-      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 355668,
       "name": "Madiba",
       "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "The Standards",
+        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
+        }
+      ],
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Big Band Urban Folktales",
-        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
+        "name": "Todas Las Voces",
+        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
       },
       "artists": [
         {
-          "name": "Bobby Sanabria",
-          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
+          "name": "Eva Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
         }
       ],
-      "duration_ms": 440600,
-      "name": "El Lider",
-      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
+      "duration_ms": 220800,
+      "name": "S\u00f3lo Le Pido a Dios",
+      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1815,22 +1831,6 @@
       "duration_ms": 328560,
       "name": "Encontros E Despedidas",
       "url": "https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Todas Las Voces",
-        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
-      },
-      "artists": [
-        {
-          "name": "Eva Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "S\u00f3lo Le Pido a Dios",
-      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",

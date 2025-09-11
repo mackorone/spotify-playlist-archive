@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,923 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,921 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 78 | [In The Middle](https://open.spotify.com/track/2ppTMGPJmFGAB3AI59pGTc) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [In The Middle](https://open.spotify.com/album/7rzGT09j56l1NZFSGsTp2D) | 6:05 |
 | 79 | [Feel](https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Feel / mild days](https://open.spotify.com/album/48KQ7NOwA31fMBBhtmrMrr) | 4:05 |
 | 80 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
-| 81 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1NOaMRWrxAyxa3hQEAkWGP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/0FPuzafVIbe5pGAZ43SQ1f) | 2:30 |
+| 81 | [Enigami](https://open.spotify.com/track/1NOaMRWrxAyxa3hQEAkWGP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/0FPuzafVIbe5pGAZ43SQ1f) | 2:30 |
 | 82 | [Tennis Bracelet](https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Tennis Bracelet](https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV) | 3:28 |
 | 83 | [Brizzle](https://open.spotify.com/track/62KcHU1T8VBwIKXcWS812K) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Brizzle](https://open.spotify.com/album/7ctVPrgPT3v6TzyeIinlmd) | 2:37 |
 | 84 | [She Explains Things To Me](https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [She Explains Things To Me](https://open.spotify.com/album/5f6f5JMGxgNa0LAJqtaUXY) | 2:18 |

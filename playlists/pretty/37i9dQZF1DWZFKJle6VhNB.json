@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 443420,
+  "num_followers": 443412,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "15 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Inseguran\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Gaiola \u00c9 o Troco",
         "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 187245,
       "name": "Gaiola \u00c9 o Troco",
       "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "15 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n"
-      },
-      "artists": [
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Inseguran\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 155550,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Na Raba Toma Tap\u00e3o",
-        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
-      },
-      "artists": [
-        {
-          "name": "Niack",
-          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
-        },
-        {
-          "name": "Markim WF",
-          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Na Raba Toma Tap\u00e3o",
-      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "50 Reais",
         "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Na Raba Toma Tap\u00e3o",
+        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
+      },
+      "artists": [
+        {
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        },
+        {
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Na Raba Toma Tap\u00e3o",
+      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+        "name": "Os Morenos",
+        "url": "https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Os Morenos",
+          "url": "https://open.spotify.com/artist/153Lu5Zmx36hPnRpaHV0zq"
         }
       ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+      "duration_ms": 215400,
+      "name": "Marrom Bombom",
+      "url": "https://open.spotify.com/track/6JvZyTg7LGjDw0v3LvXjub"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Os Morenos",
-        "url": "https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
-          "name": "Os Morenos",
-          "url": "https://open.spotify.com/artist/153Lu5Zmx36hPnRpaHV0zq"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Marrom Bombom",
-      "url": "https://open.spotify.com/track/6JvZyTg7LGjDw0v3LvXjub"
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Beijinho no Ombro",
         "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 164615,
       "name": "Beijinho no Ombro",
       "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Malbec (Part. DENNIS) (feat. DENNIS) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6Wd7qE3WGz6fZatTWZ1Zkj"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 213600,
       "name": "Malbec (Part. DENNIS) (feat. DENNIS) - Ao Vivo",
       "url": "https://open.spotify.com/track/7vLG0D8ouHd4brF5TVJQya"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Tudo Em Paz, Vol. 1",
+        "url": "https://open.spotify.com/album/1GLViCxaCfb75xbzBGbskT"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 157354,
+      "name": "Paradigmas",
+      "url": "https://open.spotify.com/track/158ukl5rih76dOEsp0I91H"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Verdinha",
         "url": "https://open.spotify.com/album/5LTk5zESurK61KmqqF7NsO"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 160395,
       "name": "Verdinha",
       "url": "https://open.spotify.com/track/2RMOwSvOGQyy985Vx4VSGQ"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Tudo Em Paz, Vol. 1",
-        "url": "https://open.spotify.com/album/1GLViCxaCfb75xbzBGbskT"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 157354,
-      "name": "Paradigmas",
-      "url": "https://open.spotify.com/track/158ukl5rih76dOEsp0I91H"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Valeu Exalta!",
+        "url": "https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ"
+      },
+      "artists": [
+        {
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Telegrama",
+      "url": "https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Hello mundo",
         "url": "https://open.spotify.com/album/4U50KjTvyDPWy06dw6KqSq"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 167310,
       "name": "Sua Cara (feat. Anitta & Pabllo Vittar)",
       "url": "https://open.spotify.com/track/7ziEXnwO7RIRguxSPXP2xs"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Valeu Exalta!",
-        "url": "https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Telegrama",
-      "url": "https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Harmonia do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
+      },
+      "artists": [
+        {
+          "name": "XANDDY HARMONIA",
+          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+        }
+      ],
+      "duration_ms": 290240,
+      "name": "Vem Nen\u00e9m (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6a6hIUCbzYNQgxGFae2iBX"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
         "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 184607,
       "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
       "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Harmonia do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
-      },
-      "artists": [
-        {
-          "name": "XANDDY HARMONIA",
-          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
-        }
-      ],
-      "duration_ms": 290240,
-      "name": "Vem Nen\u00e9m (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6a6hIUCbzYNQgxGFae2iBX"
     },
     {
       "added_at": "2022-02-10 18:18:16",

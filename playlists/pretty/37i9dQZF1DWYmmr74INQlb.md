@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,787,993 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,788,374 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 86 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 87 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
 | 88 | [Be Your Girl](https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:09 |
-| 89 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
+| 89 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
 | 90 | [Cater 2 U](https://open.spotify.com/track/6uYAPqxP69zfpCbsTHXgiz) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:05 |
-| 91 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
+| 91 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
 | 92 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 |
 | 93 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 | 94 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 97 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
 | 98 | [Just in Case](https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:23 |
 | 99 | [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:06 |
-| 100 | [Bag Lady](https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 5:48 |
+| 100 | [I Wish](https://open.spotify.com/track/3lqT89gv8p3PYwXtr3ODjv) | [Carl Thomas](https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U) | [Emotional](https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2) | 3:48 |
 
 Snapshot ID: `AAAAAL0U/qlzX9DM+TSQ6zlyU/rVlt78`

@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264893,
       "name": "Airegin",
       "url": "https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 432213,
       "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 460760,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/54wk2MJkrGecJuv5ES6O5H"
@@ -268,13 +268,21 @@
       },
       "artists": [
         {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Lyle Mays",
+          "url": "https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4"
+        },
+        {
           "name": "Pat Metheny Group",
           "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
         }
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 508333,
       "name": "Au Lait",
       "url": "https://open.spotify.com/track/5qNUdnpg2b2Xj1ZCYFZxFr"
@@ -458,7 +466,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 156560,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/2bpaLm1QOCoThKSvJmOFEC"
@@ -498,7 +506,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 334368,
       "name": "Crying",
       "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
@@ -516,7 +524,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 320906,
       "name": "D-Natural Blues",
       "url": "https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk"
@@ -644,7 +652,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 158013,
       "name": "Django's Tiger",
       "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
@@ -724,7 +732,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 287826,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/2gRJ1I0QWkU8E9ECZ6iZM6"
@@ -790,6 +798,24 @@
       "duration_ms": 318840,
       "name": "For Toddlers Only",
       "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
+    },
+    {
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374600,
+      "name": "Four On Six",
+      "url": "https://open.spotify.com/track/2Mq2Fzc9HBgvsijVFdSXUl"
     },
     {
       "album": {
@@ -932,7 +958,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 174973,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
@@ -1202,7 +1228,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 409880,
       "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
       "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
@@ -1300,7 +1326,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
@@ -2016,7 +2042,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 505226,
       "name": "Solar",
       "url": "https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn"
@@ -2078,7 +2104,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 502240,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx"
@@ -2140,7 +2166,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 324026,
       "name": "Straight No Chaser",
       "url": "https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE"
@@ -2358,7 +2384,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 199066,
       "name": "Walkin' Up",
       "url": "https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa"
@@ -2570,7 +2596,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 394560,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/3Kersuib3CNo2CzQZg52M3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Robert Randolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,079 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,216 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

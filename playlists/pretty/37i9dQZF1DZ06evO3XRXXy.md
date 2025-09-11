@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,211 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,264 likes - 43 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
-| 2 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 |
+| 2 | [Yesterday](https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:59 |
 | 3 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 |
 | 4 | [Forever in Love](https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:59 |
 | 5 | [Everlasting](https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:16 |
-| 6 | [Yesterday](https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:59 |
+| 6 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 |
 | 7 | [Silhouette](https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Silhouette](https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi) | 5:27 |
 | 8 | [Sentimental](https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 6:35 |
 | 9 | [My Heart Will Go On \(Love Theme from "Titanic"\)](https://open.spotify.com/track/5U1K5WABwd5WF63b1Nd7ej) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:21 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 42 | [Edelweiss](https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:27 |
 | 43 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `aL4cgAAAAAAk6qO2Fu3W0Ir76NEZd9kK`
+Snapshot ID: `aL9uAAAAAADhy/cqM8FQXkSt0EDuxPUI`

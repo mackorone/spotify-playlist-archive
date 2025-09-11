@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ODD Foot Works
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,500 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,508 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Taida A La Mode](https://open.spotify.com/track/3wxdnuv57slKn1hJkQY2n5) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [](https://open.spotify.com/album/null) | 2:58 |
-| 2 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [](https://open.spotify.com/album/null) | 3:58 |
+| 1 | [Taida A La Mode](https://open.spotify.com/track/3wxdnuv57slKn1hJkQY2n5) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [ODD FOOT WORKS 2](https://open.spotify.com/album/54HaInUdp2fLrcANteCZSc) | 2:58 |
+| 2 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 3 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:10 |
 | 4 | [Moving Still Life](https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Moving Still Life](https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO) | 2:50 |
 | 5 | [スノードーム](https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [スノードーム](https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS) | 5:27 |
 | 6 | [THUNDA](https://open.spotify.com/track/1BEyOBT9L7Sl9oXJiJgryS) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [THUNDA](https://open.spotify.com/album/7Lw4duprv7ZTxEBm1Hj87H) | 2:41 |
 | 7 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 |
-| 8 | [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
 | 9 | [DON'T MIND](https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [DON'T MIND](https://open.spotify.com/album/58bcwv5RRy4giKo4im4yCa) | 3:35 |
 | 10 | [山歩](https://open.spotify.com/track/1vrsAZ0VJmlHB4kphu77U7) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [山歩](https://open.spotify.com/album/5e51fd3Qvhd8rGlYbjS7og) | 3:22 |
 | 11 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |

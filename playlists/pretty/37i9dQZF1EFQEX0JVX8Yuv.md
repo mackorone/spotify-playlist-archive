@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 16 | [They Wanna Fuck](https://open.spotify.com/track/27mMvmKRyrsz7i2cfTMgSQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:30 |
 | 17 | [Icy](https://open.spotify.com/track/3zmzb7WcCXpEAXq1RtQ7o4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:09 |
 | 18 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
-| 19 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
-| 20 | [<demons>](https://open.spotify.com/track/4YhG0wYSsxcpe3RGeXgj9v) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 1:57 |
+| 19 | [<demons>](https://open.spotify.com/track/4YhG0wYSsxcpe3RGeXgj9v) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 1:57 |
+| 20 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
 | 21 | [There Will Be Blood](https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:17 |
 | 22 | [Close Your Eyes](https://open.spotify.com/track/31wuIxZijQbPi4Wy6oWGfJ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:55 |
 | 23 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 113 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 | 114 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `Ab7yygAAAADG0DYWxMX3yL+e1itwhaNv`
+Snapshot ID: `Ab74kgAAAAB0HE9Uso/gpxVs0p09mu1r`

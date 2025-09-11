@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23741,
+  "num_followers": 23743,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lay Wit Ya (feat. Duke Deuce)",
-        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Lay Wit Ya (feat. Duke Deuce)",
-      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lay Wit Ya (feat. Duke Deuce)",
+        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Lay Wit Ya (feat. Duke Deuce)",
+      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 398906,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 398906,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk"
     },
     {
       "added_at": "2022-10-01 16:00:00",

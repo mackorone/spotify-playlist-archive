@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Markio Tanaldo",
+  "description": "The best new music by independent artists and labels in India. Cover - Katya Krishnan",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -19867,6 +19867,24 @@
     },
     {
       "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/1ml69QU1f8y91a0BxcMUBk"
+      },
+      "artists": [
+        {
+          "name": "Katya Krishnan",
+          "url": "https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Meantime",
+      "url": "https://open.spotify.com/track/6lnnYp98pP2F7afpb9GeeZ"
+    },
+    {
+      "album": {
         "name": "Meena Lisa",
         "url": "https://open.spotify.com/album/5ynx3vD5QZZLvGZvLdCIZ0"
       },
@@ -31678,7 +31696,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 224000,
       "name": "Tujhse Juda",
       "url": "https://open.spotify.com/track/5HBPni76HJXokcrJ3dlAVJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,893 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,038 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 22 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 23 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
 | 24 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
-| 25 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
-| 26 | [She Looks So Perfect](https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:22 |
+| 25 | [She Looks So Perfect](https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:22 |
+| 26 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
 | 27 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
 | 28 | [Tonight Tonight](https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:20 |
 | 29 | [All Night](https://open.spotify.com/track/0dXNQ8dckG4eYfEtq9zcva) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:17 |

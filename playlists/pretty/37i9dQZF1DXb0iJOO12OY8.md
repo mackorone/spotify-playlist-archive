@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,491 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,478 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 31 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 |
 | 32 | [Få det på](https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Få det på](https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN) | 3:19 |
 | 33 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
-| 34 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
+| 34 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 35 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 |
-| 36 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
+| 36 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
 | 37 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
 | 38 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
 | 39 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |

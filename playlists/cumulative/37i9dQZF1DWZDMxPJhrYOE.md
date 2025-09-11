@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-715 songs - 1 day 12 hr 35 min
+716 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 | 2025-02-13 | 2025-05-14 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-01-31 |
 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 | 2025-02-27 | 2025-05-30 |
-| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-09-04 |  |
+| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-09-04 | 2025-09-11 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 | 2025-08-15 |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-01 | 2024-07-27 |
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-27 | 2025-05-11 |
@@ -418,6 +418,7 @@
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-07 |  |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-08-10 |
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-07-25 | 2024-11-08 |
+| [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-04 |  |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-09 | 2024-10-11 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-03-23 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-13 |

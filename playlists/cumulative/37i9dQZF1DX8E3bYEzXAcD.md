@@ -4,7 +4,7 @@
 
 > Rustig aan, ff ademen jij.
 
-41 songs - 1 hr 50 min
+42 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [GEKKE GUNZ](https://open.spotify.com/track/5BDr1iWvhH8b4oE192HMpT) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:29 | 2025-06-27 |  |
 | [Gerechtigheid](https://open.spotify.com/track/1IswIiRshxMSGMWGEdsOuw) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Gerechtigheid](https://open.spotify.com/album/3FZgUvklx7yGLJO4GfPtBs) | 3:26 | 2025-06-27 |  |
 | [HOOFD HEET](https://open.spotify.com/track/4vzRLazetY00bIIND51cbG) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:48 | 2025-06-27 |  |
+| [IDEMO](https://open.spotify.com/track/6cjzBMVeoNpHsyIgQ0dMHD) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [IDEMO](https://open.spotify.com/album/11E4GX3b6bp7ucN55tMU0F) | 2:19 | 2025-09-10 |  |
 | [Intro/Aventador](https://open.spotify.com/track/6TtVX0hYJp2Ai0VzDZJBRJ) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD), [RpBeats](https://open.spotify.com/artist/5KycryP0jIKEwY9sl1Fpq9) | [Intro/Aventador](https://open.spotify.com/album/7w7AQJxbxjupFazkF8etvH) | 2:56 | 2025-06-27 |  |
 | [Jabra](https://open.spotify.com/track/095Wi1mUn863osrFmXlHiL) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Elevation](https://open.spotify.com/artist/6bVmLQ5Ga3xeKdgfhuqcrI) | [Jabra](https://open.spotify.com/album/2qDKHtqG1s2QHzB9PW2iIN) | 1:31 | 2025-06-27 |  |
 | [La La La](https://open.spotify.com/track/3Z4j3hMz2mTYOtbxz5291r) | [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [La La La](https://open.spotify.com/album/1IHAwlSMGkA3lJN50tbRBJ) | 2:23 | 2025-06-27 | 2025-08-29 |
@@ -48,6 +49,6 @@
 | [U23 \- Freestyle](https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [U23 \- Freestyle](https://open.spotify.com/album/5KKRZt3Yi7PmctbZNqRjfb) | 2:16 | 2025-06-27 |  |
 | [Winstmarge](https://open.spotify.com/track/4S5DteUzRbxYwbn78OLLLW) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Winstmarge](https://open.spotify.com/album/3GWsFQce7dHjU3EpGZmlHK) | 2:24 | 2025-06-27 |  |
 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 | 2025-06-27 |  |
-| [ZIDANE](https://open.spotify.com/track/4o943cZWj08kb6qSc4UpCt) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [ZIDANE](https://open.spotify.com/album/6EOa9BfPjQ3plNa3lkdYIx) | 2:48 | 2025-06-27 |  |
+| [ZIDANE](https://open.spotify.com/track/4o943cZWj08kb6qSc4UpCt) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [ZIDANE](https://open.spotify.com/album/6EOa9BfPjQ3plNa3lkdYIx) | 2:48 | 2025-06-27 | 2025-09-11 |
 
 \*This playlist was first scraped on 2025-08-19. Prior content cannot be recovered.

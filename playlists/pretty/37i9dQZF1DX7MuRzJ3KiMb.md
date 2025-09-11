@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > pa' no pensar en nada
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,727 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,773 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 75 | [Tristes Ojos](https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Segunda Luz del Día](https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd) | 3:19 |
 | 76 | [Sabré Olvidar](https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 4:07 |
 | 77 | [Get Me Away from Here, I'm Dying](https://open.spotify.com/track/0xBH1GysY7fy6RJjX8hW5R) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 3:25 |
-| 78 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 |
-| 79 | [True Love Will Find You in the End](https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [1990](https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa) | 1:51 |
+| 78 | [True Love Will Find You in the End](https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [1990](https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa) | 1:51 |
+| 79 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 |
 | 80 | [Cómo Te Quiero](https://open.spotify.com/track/5lNCB8HiizT8ldhUjgSwtf) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:02 |
 
 Snapshot ID: `AAAAAKZHAmaqpAglP8QOtyffbhnkHz0O`

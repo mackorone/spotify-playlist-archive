@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,775 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,784 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 39 | [為我勇敢的媽媽](https://open.spotify.com/track/7jqWrB702nGEtKe98aKYh8) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [為我勇敢的媽媽](https://open.spotify.com/album/5dayGo2aXytPfI1wl9a3Xw) | 4:03 |
 | 40 | [最棒的就是你](https://open.spotify.com/track/46T4upehAIRuJeB0FDkeel) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [最棒的就是你](https://open.spotify.com/album/0BsQkQcBtwaa3iew8MiKY0) | 4:09 |
 | 41 | [洗澡歌](https://open.spotify.com/track/0gyKzmLPkfdtuBpMN7SqeR) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [天空樹](https://open.spotify.com/album/32nJZMlKIoapMJ4dHcCxyx) | 3:26 |
-| 42 | [星星月亮太陽](https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:20 |
-| 43 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 |
+| 42 | [蹦蹦跳跳](https://open.spotify.com/track/5Yw2X0wAog4ngsEBuTIEwx) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37), [付佳钰](https://open.spotify.com/artist/35TOueHRfiFLpi84h48WqM) | [蹦蹦跳跳](https://open.spotify.com/album/3mwqHTZ9XzFbdG98tFynR2) | 2:20 |
+| 43 | [星星月亮太陽](https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:20 |
 | 44 | [英雄爸爸](https://open.spotify.com/track/7aJijQbBOr4MOMvAuaKkdd) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [英雄爸爸](https://open.spotify.com/album/5hlZCLbYMyPG8NNXHzb0b8) | 3:43 |
-| 45 | [蹦蹦跳跳](https://open.spotify.com/track/5Yw2X0wAog4ngsEBuTIEwx) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37), [付佳钰](https://open.spotify.com/artist/35TOueHRfiFLpi84h48WqM) | [蹦蹦跳跳](https://open.spotify.com/album/3mwqHTZ9XzFbdG98tFynR2) | 2:20 |
+| 45 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 |
 | 46 | [媽咪](https://open.spotify.com/track/5tgilrUUpEbCfyJE5NqIsZ) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw), [小蜜桃姐姐](https://open.spotify.com/artist/75MNXkfWwDHZreCpFIRLcw) | [媽咪](https://open.spotify.com/album/43MNIFYWKszER35lAwYrGK) | 2:24 |
 | 47 | [笑咪咪 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo) | [Matzka](https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing) | [笑咪咪 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf) | 2:58 |
 | 48 | [快樂上學去](https://open.spotify.com/track/7bHHp29aQveGQ0Tj8f205w) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,440 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,616 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 25 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 26 | [G.M.S.L.B](https://open.spotify.com/track/45Xx8ugh2uRTy4wahb7ZzC) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [G.M.S.L.B](https://open.spotify.com/album/0PWY1VO9dCKK0nEHH3xNAm) | 2:07 |
 | 27 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
-| 28 | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/track/6A25J9As7towpxovYryAWr) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu) | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/album/50FPtqYZf0YuJMOUFc8Pkg) | 2:27 |
-| 29 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
+| 28 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
+| 29 | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/track/6A25J9As7towpxovYryAWr) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu) | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/album/50FPtqYZf0YuJMOUFc8Pkg) | 2:27 |
 | 30 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
 | 31 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 32 | [Combo](https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Combo](https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX) | 3:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 45 | [Go Away](https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1) | [Alieff Green](https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe), [Rio Bakoo](https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c) | [Go Away](https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr) | 2:57 |
 | 46 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
 | 47 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
-| 48 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
-| 49 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 48 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 49 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
 | 50 | [MAKE IT](https://open.spotify.com/track/6gxQBmcgLhkzf8usSNPOCu) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [MAKE IT](https://open.spotify.com/album/5nGwjKgtkXf0EbOvH3isFJ) | 2:40 |
 
 Snapshot ID: `AAAAAN/T12GjgQ4txhLwzKxXK4v/YISd`

@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5671,
+  "num_followers": 5672,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABFMPdwbo0YU501+0qDrVr6",
+  "snapshot_id": "aL9uAAAAAACcssjnhQDc5OrFKOVw/+7J",
   "tracks": [
     {
       "added_at": null,
@@ -159,42 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "same squad",
-      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 120512,
-      "name": "Good (feat. Larry June)",
-      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -219,6 +183,42 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 120512,
+      "name": "Good (feat. Larry June)",
+      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
     },
     {
       "added_at": null,
@@ -299,30 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ONE YOU WANTED",
-        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 190562,
-      "name": "100 Days (Feat. YG, P-Lo)",
-      "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Cold",
         "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
       },
@@ -343,18 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Me Lit",
-        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
       },
       "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 131794,
-      "name": "Get Me Lit",
-      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
+      "duration_ms": 190562,
+      "name": "100 Days (Feat. YG, P-Lo)",
+      "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
     },
     {
       "added_at": null,
@@ -387,6 +371,22 @@
       "duration_ms": 238181,
       "name": "YANKIN!",
       "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Me Lit",
+        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "Get Me Lit",
+      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
     },
     {
       "added_at": null,
@@ -607,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -791,6 +767,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 139041,
       "name": "Type Beat",
       "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
       "duration_ms": 161250,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,
@@ -931,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -975,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Had To",
-        "url": "https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "Had To",
-      "url": "https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 144459,
       "name": "House",
       "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Had To",
+        "url": "https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Had To",
+      "url": "https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51"
     },
     {
       "added_at": null,

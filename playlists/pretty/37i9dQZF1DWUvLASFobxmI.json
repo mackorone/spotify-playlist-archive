@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Rojos en portada.",
-  "num_followers": 517183,
+  "num_followers": 517216,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -411,18 +391,38 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 225581,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -439,6 +439,22 @@
       "duration_ms": 202453,
       "name": "Yo Todo Lo Doy",
       "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -463,22 +479,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 225581,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Cada Noche",
+        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Cada Noche",
+      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -555,22 +571,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Cada Noche",
-        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 221325,
-      "name": "Cada Noche",
-      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "AMOR PROPIO",
-        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172485,
-      "name": "AMOR PROPIO",
-      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Yo Ya Sabia Pa Donde Iba",
         "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181611,
       "name": "Yo Ya Sabia Pa Donde Iba",
       "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Hubi\u00e9ramos",
-        "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Hubi\u00e9ramos",
-      "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Hubi\u00e9ramos",
+        "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Hubi\u00e9ramos",
+      "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 210000,
       "name": "Sin Miedo - En Vivo",
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Y Tu",
-      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "900 Cigarros",
         "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 123906,
       "name": "900 Cigarros",
       "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Y Tu",
+      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Mi Mula",
-        "url": "https://open.spotify.com/album/77ZUyIptzqnASMixrm9dtU"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Mi Mula",
-      "url": "https://open.spotify.com/track/0CIsUNjjxwCVhfut2wfxNj"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "El Mariguapo",
         "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 170624,
       "name": "El Mariguapo",
       "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Mi Mula",
+        "url": "https://open.spotify.com/album/77ZUyIptzqnASMixrm9dtU"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Mi Mula",
+      "url": "https://open.spotify.com/track/0CIsUNjjxwCVhfut2wfxNj"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
+        "name": "Atenci\u00f3n Al Cliente",
+        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Al Natural",
+      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
         "name": "Desde Que La Vi",
         "url": "https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Atenci\u00f3n Al Cliente",
-        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Al Natural",
-      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1931,38 +1947,18 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
       "artists": [
         {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
-        "name": "El Hombre De Las 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
-      },
-      "artists": [
-        {
-          "name": "Martin Castillo",
-          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
-        },
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 184261,
-      "name": "El Compa 1",
-      "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1983,18 +1979,22 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+        "name": "El Hombre De Las 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
       },
       "artists": [
         {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
         }
       ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
+      "duration_ms": 184261,
+      "name": "El Compa 1",
+      "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Super Cargado",
         "url": "https://open.spotify.com/album/0zs1u4saQv427ET6FxLC6j"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 204923,
       "name": "Super Cargado",
       "url": "https://open.spotify.com/track/7bsmK02VPHgsz5syHK1UqZ"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": "2025-08-15 21:00:25",

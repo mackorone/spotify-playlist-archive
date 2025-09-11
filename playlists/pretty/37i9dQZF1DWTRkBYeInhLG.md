@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,583 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,624 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 25 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
 | 26 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 27 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 |
-| 28 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
-| 29 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
+| 28 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
+| 29 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 30 | [Labirin](https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Labirin](https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr) | 3:02 |
 | 31 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 |
 | 32 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 47 | [Satu Yang Tak Bisa Lepas](https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keajaiban](https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j) | 5:25 |
 | 48 | [Semoga](https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [RAYA](https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80) | 4:29 |
 | 49 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
-| 50 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |
-| 51 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
+| 50 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
+| 51 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |
 | 52 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
 | 53 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 |
 | 54 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 66 | [Cinta Pertama \(Sunny\)](https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Pertama](https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju) | 4:22 |
 | 67 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
 | 68 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
-| 69 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 70 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
+| 69 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
+| 70 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
 | 71 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 | 72 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
 | 73 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8RrjZR06viH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8RrjZR06viH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8RrjZR06viH)
 
-### [kjære sommer](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
+### [høst i lufta](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
 
-> Sommeren er snart over!🍹
+> Høsten er her! 🍂
 
 246 songs - 12 hr 43 min
 

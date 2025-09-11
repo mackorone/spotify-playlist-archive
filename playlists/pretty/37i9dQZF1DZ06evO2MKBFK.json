@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637848,
+  "num_followers": 637863,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABWFwEkTxO4lR9gr2s33dS0",
+  "snapshot_id": "aL9uAAAAAACUVyCUwhL28Ufe/fsLTY+0",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KPOP - JPOP Made In Korea Vol. 2",
         "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 198912,
       "name": "Gara Gara Go!!",
       "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
         "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
-      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radar de \u00c9xitos: K-Pop",
         "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 223746,
       "name": "Beautiful Hangover",
       "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigbang 03",
         "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 218618,
       "name": "Forever With U (Feat. Park Bom)",
       "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
     },
     {
       "added_at": null,

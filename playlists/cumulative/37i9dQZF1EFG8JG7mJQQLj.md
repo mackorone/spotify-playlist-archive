@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-565 songs - 1 day 8 hr 4 min
+567 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All Fall Down](https://open.spotify.com/track/1zjJg21AG4sXU9wzbQnQiQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:04 | 2024-01-29 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 | 2024-01-29 |  |
 | [All Over Again](https://open.spotify.com/track/2HsNawIu8uB7zRhBg8Q2wS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:45 | 2024-01-29 |  |
-| [All She Wanna Do](https://open.spotify.com/track/7vjT358D8LWnqUFMhMAJ1U) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:11 | 2024-01-29 | 2024-06-30 |
+| [All She Wanna Do](https://open.spotify.com/track/7vjT358D8LWnqUFMhMAJ1U) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:11 | 2024-01-29 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 | 2024-01-29 |  |
 | [All The Right Moves](https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:58 | 2024-01-29 |  |
 | [All These Things](https://open.spotify.com/track/5SlNjNaibdMLveJPYqAAaE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:19 | 2024-01-29 |  |
@@ -332,7 +332,7 @@
 | [Need](https://open.spotify.com/track/3Fgr0oHWqNnzI3061G0hB3) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Make A Move](https://open.spotify.com/album/1EQNkmhggPKCVbFpJldHeb) | 3:47 | 2024-01-29 |  |
 | [Need This](https://open.spotify.com/track/0LAHULt5Ex1dSqeBMRrOYo) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/4MiBVyve588OD16F3Cis1J) | 2:38 | 2024-10-02 |  |
 | [Need This](https://open.spotify.com/track/1NtTh07pR8bWUeZzMpHKdn) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/1JePk3Bz3Oce3zzkiRywGn) | 2:38 | 2024-01-29 | 2024-10-03 |
-| [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 | 2024-01-29 |  |
+| [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 | 2024-01-29 | 2025-09-11 |
 | [Neon Lights](https://open.spotify.com/track/7gJRbWCTtFc6ijYBjRx6aV) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Neon Lights \(Official Video\)](https://open.spotify.com/album/1Aadfa8cRnJtpzD1kzLbvv) | 3:59 | 2024-01-30 | 2024-02-01 |
 | [Neon Lights](https://open.spotify.com/track/6ok1D9R7MZW7slwfRWQ45N) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:42 | 2024-01-29 |  |
 | [Never Let You Go \(feat\. Ryan Tedder\)](https://open.spotify.com/track/74jWtkE4yrDbwukyjgf3SO) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 4:20 | 2024-01-29 |  |
@@ -353,6 +353,7 @@
 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 | 2024-01-29 |  |
 | [Nothing For Free](https://open.spotify.com/track/2EDR9jb2Qn7E4eGZu8WGRD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station \(Explorer's Edition\)](https://open.spotify.com/album/3UdA4CPd2ktoIbzo1UREWc) | 3:15 | 2024-01-29 |  |
 | [Nowhere Left To Go](https://open.spotify.com/track/4cBRARsfENCu6QRF03LtMA) | [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [The Controversy](https://open.spotify.com/album/3QougXZ74JSVSAXC4XHkJE) | 2:24 | 2024-01-29 |  |
+| [Obsession](https://open.spotify.com/track/62qxkV3qvgWMrCjfXO39ts) | [Piano Tribute Players](https://open.spotify.com/artist/4Xx6QMLTWppMwdABkN0Afj) | [Piano Tribute to Sky Ferreira](https://open.spotify.com/album/2fWpwzejYXCn2rmXpmerDE) | 3:12 | 2025-09-10 |  |
 | [obvious](https://open.spotify.com/track/0q85C1JiECyYIQthz1posA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:26 | 2024-01-29 |  |
 | [Oh My My](https://open.spotify.com/track/0QaCNjtdot0XiD8E347iQn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:38 | 2024-01-29 |  |
 | [Ojapiano \- Remix](https://open.spotify.com/track/1dypA3yy4Qph3EuAzeIQ0k) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:17 | 2025-01-09 | 2025-04-12 |
@@ -492,6 +493,7 @@
 | [Thank You For The Heartbreak](https://open.spotify.com/track/6D1kVQRpGMMfiWnBBEt4Aj) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Sweet 7](https://open.spotify.com/album/1q1eCju4e4RgK4DEsDjGRX) | 3:40 | 2024-01-29 |  |
 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 | 2024-01-29 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2024-01-29 |  |
+| [The Dance \(Instrumental Version\)](https://open.spotify.com/track/3SyNO9rpeEyrjmyGtvm0p5) | [Steve Petrunak](https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI), [Guitar](https://open.spotify.com/artist/7s8kY7JUz1MUaVdET4HC0W), [Instrumental Music Songs](https://open.spotify.com/artist/21CPRz2Wr3nNhybs9uA6jL) | [Acoustic Guitar Versions of Country Hits](https://open.spotify.com/album/3GEpeBmxESCbuaRpyjx9KL) | 3:39 | 2025-09-10 |  |
 | [The Fighter](https://open.spotify.com/track/77ZdAoTHYoF6Umo76HFD4m) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [The Papercut Chronicles II](https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB) | 3:48 | 2024-01-29 |  |
 | [The Girls](https://open.spotify.com/track/7tcsEIoY5pgH9F3TogD8zc) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr), [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe) | [The Girls](https://open.spotify.com/album/6G99S5SnU7KwjtD2Mkkgkc) | 2:32 | 2024-01-29 |  |
 | [The Last Goodbye](https://open.spotify.com/track/3GMl5vmoSXsWwQR21GM0Qo) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [This Loud Morning](https://open.spotify.com/album/2sAl0bHZ6QtLEcBmbJOCPd) | 3:00 | 2024-01-29 |  |

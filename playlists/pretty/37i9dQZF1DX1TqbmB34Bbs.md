@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: BLASE\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,962 likes - 200 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,957 likes - 200 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

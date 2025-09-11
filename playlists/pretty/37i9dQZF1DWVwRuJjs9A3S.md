@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med The Last Dinner Party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,870 likes - 188 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,895 likes - 188 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

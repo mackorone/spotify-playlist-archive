@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 263480,
       "name": "Bahagiamu Deritaku",
       "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 252349,
       "name": "Bunga Maaf",
       "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -8770,7 +8770,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS"
@@ -8806,7 +8806,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 233916,
       "name": "Kita Usahakan Lagi",
       "url": "https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF"
@@ -11936,7 +11936,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 225153,
       "name": "Lesung Pipi",
       "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
@@ -13226,7 +13226,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -14404,7 +14404,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 209647,
       "name": "Nanti Kita Seperti Ini",
       "url": "https://open.spotify.com/track/3y8RcMPYG22fRnrOi4oFJ1"
@@ -14610,7 +14610,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -15274,6 +15274,36 @@
       "duration_ms": 240906,
       "name": "ONLY",
       "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "album": {
+        "name": "Oorum Blood (From \"Dude\")",
+        "url": "https://open.spotify.com/album/1FwT2MEKJvRlswZcB8mQTE"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "bebhumika",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240107,
+      "name": "Oorum Blood - From \"Dude\"",
+      "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
     },
     {
       "album": {
@@ -16572,7 +16602,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 287071,
       "name": "Rahsia Tuhan",
       "url": "https://open.spotify.com/track/0FYnBVsruGEFIBRI3a4Vmz"
@@ -18200,7 +18230,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 251714,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
@@ -19266,7 +19296,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 248407,
       "name": "Sofea Jane",
       "url": "https://open.spotify.com/track/2MZ0RuMzefjx9W0SSI5JcJ"
@@ -19414,7 +19444,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -20670,7 +20700,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 193415,
       "name": "Tabola Bale MIX MF",
       "url": "https://open.spotify.com/track/1iIrirbRYhepwjOWWDUDz9"
@@ -20820,7 +20850,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 231100,
       "name": "Tak Segampang Itu",
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"

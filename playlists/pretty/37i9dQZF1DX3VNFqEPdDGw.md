@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,764 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,876 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 63 | [Boots and Cats](https://open.spotify.com/track/0EFAopGK0UWb7HMxUjcm0o) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Boots and Cats](https://open.spotify.com/album/15O1SZPiniUiioSioz9Aqq) | 2:25 |
 | 64 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 |
 | 65 | [Dancing with You](https://open.spotify.com/track/0p8Hgkkya6bsENOHhmOO1G) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:18 |
-| 66 | [Welcome Home](https://open.spotify.com/track/0YsSn3M4Kl0So5ibjammOH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Streets Of Gold \(Unforgettable Edition\)](https://open.spotify.com/album/367chORMCnA4mdu1uXCpfz) | 2:51 |
-| 67 | [Circles](https://open.spotify.com/track/72na5hu1cHuifzVAPmYCLj) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Circles](https://open.spotify.com/album/2jYKPul21QiYqfFFfyO3KI) | 2:32 |
+| 66 | [Circles](https://open.spotify.com/track/72na5hu1cHuifzVAPmYCLj) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Circles](https://open.spotify.com/album/2jYKPul21QiYqfFFfyO3KI) | 2:32 |
+| 67 | [Welcome Home](https://open.spotify.com/track/0YsSn3M4Kl0So5ibjammOH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Streets Of Gold \(Unforgettable Edition\)](https://open.spotify.com/album/367chORMCnA4mdu1uXCpfz) | 2:51 |
 | 68 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
 | 69 | [She'll Never Love You \- Acoustic](https://open.spotify.com/track/77Uaz7KDRg26gTyFLg9lL8) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [The Acoustics](https://open.spotify.com/album/7a34CZOKXi8YfB4e81GGw0) | 3:14 |
 | 70 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 |
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 94 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
 | 95 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
 | 96 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
+| 97 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `Ab7y1AAAAAAhVoX1ziM4V2k85QMijso7`
+Snapshot ID: `Ab74iAAAAADmkbUz9y/rPax0B+v9hCkc`

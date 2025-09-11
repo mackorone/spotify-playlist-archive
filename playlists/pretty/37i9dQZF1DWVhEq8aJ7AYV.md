@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,076 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,106 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 15 | [Labios Carmin](https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa) | [Los Vaguens](https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2) | [Bestiario de Santa Lucia](https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a) | 3:29 |
 | 16 | [Psycho for Your Love](https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Lost Album](https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw) | 2:53 |
 | 17 | [Wipe Out](https://open.spotify.com/track/2h83AMl3afIAWks8Z3Sn9C) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Play](https://open.spotify.com/album/42JQLLWxQEO4FWNUIF5etd) | 2:13 |
-| 18 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 |
-| 19 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 |
+| 18 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 |
+| 19 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 |
 | 20 | [Fuera Ropa](https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:19 |
 | 21 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 |
 | 22 | [Ferryboat of the Mind](https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [Wheeltappers and Shunters](https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux) | 2:09 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 30 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 31 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
 | 32 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 |
-| 33 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 |
-| 34 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 |
+| 33 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 |
+| 34 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 |
 | 35 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 |
 | 36 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 |
 | 37 | [Olvidemos el Romance .\. Cojamos Ya!](https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Perfume de Violetas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03663WodvoLxswAm8iHB4r) | 2:15 |

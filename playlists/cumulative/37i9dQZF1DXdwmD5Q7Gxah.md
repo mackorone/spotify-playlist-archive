@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Sophia Stel
 
-3,529 songs - 8 day 0 hr 52 min
+3,531 songs - 8 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1664,6 +1664,7 @@
 | [Jinx!](https://open.spotify.com/track/43sg2nW6LjsgaXxakTuhHF) | [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Jinx!](https://open.spotify.com/album/0C4Dk75gkYgJo6MGrVsdSb) | 4:06 | 2025-02-07 |  |
 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 | 2022-10-28 | 2022-12-24 |
 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 | 2022-06-09 | 2022-11-17 |
+| [joey knows](https://open.spotify.com/track/0m5RQJVdPvsZwx4DYfUg5o) | [dance arts center](https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP) | [joey knows](https://open.spotify.com/album/4rgk5KtWWRkRyInnZiNmhX) | 3:39 | 2025-09-10 |  |
 | [Johnny](https://open.spotify.com/track/6YLpAwojDuQzW15zjJIFdf) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [BLUE SUPER LOVE \(DELUXE\)](https://open.spotify.com/album/3lz6rls9zNIRyO5QWsdtxZ) | 3:36 | 2025-04-04 | 2025-05-31 |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-08-07 | 2024-09-21 |
 | [Jonah](https://open.spotify.com/track/740cFOON0lTS7vwP8wpXLz) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Jonah](https://open.spotify.com/album/1GwoB5FkcuDTrODlxHxeV8) | 3:11 | 2021-08-14 | 2021-12-02 |
@@ -3077,6 +3078,7 @@
 | [The Door](https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [The Door](https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5) | 3:31 | 2021-12-11 | 2022-02-26 |
 | [The Downtown Lights](https://open.spotify.com/track/38TMvbDxQCQJm9nzHqmpiK) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 6:31 | 2024-05-04 | 2024-08-24 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-12-11 | 2022-08-27 |
+| [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 | 2025-09-10 |  |
 | [The Explorer](https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [The Explorer](https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9) | 2:54 | 2025-08-22 |  |
 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2022-08-12 | 2022-09-13 |
 | [The Flowers](https://open.spotify.com/track/7jK9Aa2sjIytQYaKRG6Yix) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Flowers](https://open.spotify.com/album/0TxUTBUMlD9PRMNzvWppCq) | 4:22 | 2023-09-22 | 2023-12-14 |

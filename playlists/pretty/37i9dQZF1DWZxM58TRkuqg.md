@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Ebiet G\. Ade, Iwan Fals
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,638 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,707 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

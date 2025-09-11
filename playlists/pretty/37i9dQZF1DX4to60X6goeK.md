@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Turno
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,318 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,346 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 50 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
 | 51 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
 | 52 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
-| 53 | [Pressure](https://open.spotify.com/track/75zovB1aWBVyBffbJb15l4) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Pressure](https://open.spotify.com/album/1lGBkpmE560k1RQkn6VqBS) | 2:59 |
-| 54 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
+| 53 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
+| 54 | [Pressure](https://open.spotify.com/track/75zovB1aWBVyBffbJb15l4) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Pressure](https://open.spotify.com/album/1lGBkpmE560k1RQkn6VqBS) | 2:59 |
 | 55 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
 
 Snapshot ID: `AAAAAMRlkXWluI02fvc4z983jaqZvXn8`

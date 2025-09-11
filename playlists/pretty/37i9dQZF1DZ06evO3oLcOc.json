@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227645,
+  "num_followers": 227667,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAB7/QnieLn6Vi3Woay6rGIe",
+  "snapshot_id": "aL9uAAAAAABwQgR0NzZ/5mOp7S3l3sa9",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 168507,
       "name": "Desce Pro Play (PA PA PA)",
       "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153575,
+      "name": "Lightskin Lil Wayne",
+      "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 211908,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 153575,
-      "name": "Lightskin Lil Wayne",
-      "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FinallyFed",
-        "url": "https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C"
-      },
-      "artists": [
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "AT THA PARTY",
-      "url": "https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FinallyFed",
+        "url": "https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "AT THA PARTY",
+      "url": "https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0"
     },
     {
       "added_at": null,

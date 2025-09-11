@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,451 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,472 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 18 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 |
 | 19 | [Những đồi hoa sim](https://open.spotify.com/track/5RWImsPAjdpJucoMXRmpCU) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Có Tin Vui Giữa Giờ Tuyệt Vọng](https://open.spotify.com/album/32JYrF4w3zEFKUGMHlG3HI) | 6:12 |
 | 20 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1SqPuyurBgZXwhIj2oP2lU) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 4:52 |
-| 21 | [Giọt Lệ Đài Trang \(feat\. Hoài Lâm\)](https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Xót Xa](https://open.spotify.com/album/0WTjdkH320Kk3jiUeCWLU5) | 5:55 |
-| 22 | [Nhung Doi Hoa Sim](https://open.spotify.com/track/0BQRouDnpSqugi3WUbJ4Nl) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Nhung Doi Hoa Sim](https://open.spotify.com/album/6qJfuDMW94u2TQjlA5ItWr) | 6:03 |
+| 21 | [Nhung Doi Hoa Sim](https://open.spotify.com/track/0BQRouDnpSqugi3WUbJ4Nl) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Nhung Doi Hoa Sim](https://open.spotify.com/album/6qJfuDMW94u2TQjlA5ItWr) | 6:03 |
+| 22 | [Giọt Lệ Đài Trang \(feat\. Hoài Lâm\)](https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Xót Xa](https://open.spotify.com/album/0WTjdkH320Kk3jiUeCWLU5) | 5:55 |
 | 23 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 |
 | 24 | [Tạ từ trong đêm](https://open.spotify.com/track/5zCjoKAQHtJa2ptwGuxj6Y) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Nhớ Người Yêu \(Valentine Tình Yêu\)](https://open.spotify.com/album/6G6BT8WT2ObEJJ9QTZ5Vh6) | 4:37 |
 | 25 | [Trăng Tỏ Hai Miền](https://open.spotify.com/track/1v9FCQ3Vs2hD58XXZR5H12) | [Hồ Phương Liên](https://open.spotify.com/artist/1xqw6I7JGeyBPQNJIwYaXU) | [Tuyển Tập Bolero Trữ Tình Hay Nhất](https://open.spotify.com/album/3GyeIN5z4FqciMQAXyuh7i) | 5:06 |
-| 26 | [Đắp mộ cuộc tình](https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tạ từ trong đêm](https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs) | 5:48 |
-| 27 | [Mưa Lệ](https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH) | [Tuấn Anh](https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS) | [Hương Tình Cũ 2](https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr) | 4:21 |
+| 26 | [Mưa Lệ](https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH) | [Tuấn Anh](https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS) | [Hương Tình Cũ 2](https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr) | 4:21 |
+| 27 | [Đắp mộ cuộc tình](https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tạ từ trong đêm](https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs) | 5:48 |
 | 28 | [Giã Từ](https://open.spotify.com/track/5ps2FABlkO1aYnVHTtcN09) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 6](https://open.spotify.com/album/3RTJLsZ2JBfATm9RvQVAf4) | 4:48 |
 | 29 | [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 |
 | 30 | [Về lại đồi sim](https://open.spotify.com/track/1t1Up8GAZZ4V2TZx60YMXA) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 5:54 |

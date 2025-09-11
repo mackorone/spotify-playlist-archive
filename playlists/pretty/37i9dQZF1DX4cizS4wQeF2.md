@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > we're taking english and gym next semester 🧨
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,643 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,796 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

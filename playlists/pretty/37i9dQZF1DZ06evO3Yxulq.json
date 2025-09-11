@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAwgCx2tzSZJW/zrCtF3Ifp",
+  "snapshot_id": "aL9uAAAAAAAEiee4ACb81h8R6HJnFWrD",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No yo, sino Cristo",
-        "url": "https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 368020,
-      "name": "T\u00fa proveer\u00e1s",
-      "url": "https://open.spotify.com/track/1cHWLRYT4e9Y3OCBKcUalY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/4cUzqa9eajPeshJ1LqZA6S"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas",
       "url": "https://open.spotify.com/track/3TV8XC0r6VPHSBLdR1Fi2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No yo, sino Cristo",
+        "url": "https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/1cHWLRYT4e9Y3OCBKcUalY"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 513870,
-      "name": "Dios de Maravillas",
-      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 348728,
       "name": "Incomparable Dios",
       "url": "https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 513870,
+      "name": "Dios de Maravillas",
+      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
-      },
-      "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -719,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 362977,
-      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
-      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -751,6 +715,42 @@
       "duration_ms": 267326,
       "name": "Ruge",
       "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 362977,
+      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
+      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

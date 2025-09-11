@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,469 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,607 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 67 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
 | 68 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 |
 | 69 | [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 |
-| 70 | [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 |
-| 71 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 |
+| 70 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 |
+| 71 | [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 |
 | 72 | [DAP \(Drink and Party\)](https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [DAP \(Drink and Party\)](https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq) | 2:49 |
 | 73 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
 | 74 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 85 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
 | 86 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
 | 87 | [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 |
-| 88 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
-| 89 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
-| 90 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
+| 88 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
+| 89 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
+| 90 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 | 91 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 |
 | 92 | [Fou Le Bordel](https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Alyssa](https://open.spotify.com/artist/56CuEF8lZebCc0uzFQrGLD), [Noelia](https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i), [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV) | [Fou Le Bordel](https://open.spotify.com/album/0uxpr8jsQoXlHK6KUc6vxP) | 2:18 |
 | 93 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |

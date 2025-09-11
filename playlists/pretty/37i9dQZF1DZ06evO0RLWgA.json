@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 51369,
+  "num_followers": 51381,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABLzbbi4lwz5UnHp2mXA+/r",
+  "snapshot_id": "aL9uAAAAAAAJeBKeiQrXstb/AzXiVpug",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 158800,
       "name": "Cry Before I Go",
       "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+        "name": "Blues Legend",
+        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Lucky",
-      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
+      "duration_ms": 171000,
+      "name": "The Motor City Is Burning",
+      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Legend",
-        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 171000,
-      "name": "The Motor City Is Burning",
-      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
+      "duration_ms": 172400,
+      "name": "Mr. Lucky",
+      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Peace Lovin' Man",
-      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Real Folk Blues: The Missing Album",
         "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 208800,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Peace Lovin' Man",
+      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 296733,
       "name": "Ali D'Oro",
       "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "I Put My Trust In You",
-      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 225906,
       "name": "Baby Lee (feat. Robert Cray)",
       "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "I Put My Trust In You",
+      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "My Own Blues",
-      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 164933,
       "name": "No More Doggin'",
       "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "My Own Blues",
+      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
       "added_at": null,

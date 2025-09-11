@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > Feelgood indie & roadtrip bangers
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,289 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,305 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 12 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 |
 | 13 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 14 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 15 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 16 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 15 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 16 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 17 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 18 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 19 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 47 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
 | 48 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
 | 49 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 |
-| 50 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 51 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 |
+| 50 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 |
+| 51 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 52 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
 | 53 | [Slow Karma](https://open.spotify.com/track/4G9aTrG0ucDbflr3oUwyKc) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Slow Karma](https://open.spotify.com/album/4f0y5JIiCu4utUhZJgUGCg) | 4:06 |
 | 54 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |

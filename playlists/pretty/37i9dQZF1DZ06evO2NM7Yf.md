@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 7 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 |
 | 8 | [Emotional Punching Bag](https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse) | 2:56 |
 | 9 | [emotional affair](https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:01 |
-| 10 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
-| 11 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 |
+| 10 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 |
+| 11 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
 | 12 | [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 |
 | 13 | [blasphemy!](https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:58 |
 | 14 | [Sideways](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 24 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
 | 25 | [DO YOU LIKE ME?](https://open.spotify.com/track/6lxeT761ZTSkwaEDfQnc1F) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:57 |
 
-Snapshot ID: `aL4cgAAAAADo6X8+IM7yzPFNw10R8AEL`
+Snapshot ID: `aL9uAAAAAAArRcWNMiJ/xQSWy4Vppvp/`

@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 102597,
+  "num_followers": 102711,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Somente Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        }
-      ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Foi Deus",
         "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Triunfo de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+        "name": "Sem Mim",
+        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
       },
       "artists": [
         {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 336796,
-      "name": "O Pr\u00f3digo Vai Voltar",
-      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+      "duration_ms": 226469,
+      "name": "Sem Mim",
+      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Sem Mim",
-        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 226469,
-      "name": "Sem Mim",
-      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Estou Contigo",
         "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 249344,
       "name": "Estou Contigo",
       "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -355,38 +355,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Voz e Viol\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 324082,
-      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
-      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
       },
@@ -403,6 +371,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Deus \u00c9 Fiel (Ao Vivo)",
         "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 269159,
       "name": "Deus \u00c9 Fiel - Ao Vivo",
       "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Voz e Viol\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 324082,
+      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "N\u00e3o Abandone A Sua Cruz",
-        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 245464,
-      "name": "N\u00e3o Abandone A Sua Cruz",
-      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
         "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 195520,
       "name": "Meu Barquinho - Ao Vivo",
       "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "N\u00e3o Abandone A Sua Cruz",
+        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 245464,
+      "name": "N\u00e3o Abandone A Sua Cruz",
+      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 328768,
-      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "A Esperan\u00e7a Que Restou",
         "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 281941,
       "name": "A Esperan\u00e7a Que Restou",
       "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 328768,
+      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Um Lugar \u00e0 Mesa",
-        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 240569,
-      "name": "Um Lugar \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Nascer de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 239791,
       "name": "Nascer de Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Um Lugar \u00e0 Mesa",
+        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 240569,
+      "name": "Um Lugar \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Mais que Vencedor (feat. Carlos Henrique)",
-        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
-      },
-      "artists": [
-        {
-          "name": "Kleuder Le\u00e3o",
-          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
-        },
-        {
-          "name": "Carlos Henrique",
-          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
-        }
-      ],
-      "duration_ms": 215099,
-      "name": "Mais que Vencedor (feat. Carlos Henrique)",
-      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Guerreiro Adorador",
         "url": "https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 352085,
       "name": "Guerreiro Adorador",
       "url": "https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Mais que Vencedor (feat. Carlos Henrique)",
+        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
+      },
+      "artists": [
+        {
+          "name": "Kleuder Le\u00e3o",
+          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
+        },
+        {
+          "name": "Carlos Henrique",
+          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
+        }
+      ],
+      "duration_ms": 215099,
+      "name": "Mais que Vencedor (feat. Carlos Henrique)",
+      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
     },
     {
       "added_at": "2025-08-29 03:01:04",

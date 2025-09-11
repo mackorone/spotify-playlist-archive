@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FOLA, Rema, Shalipoppi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,585 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,872 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

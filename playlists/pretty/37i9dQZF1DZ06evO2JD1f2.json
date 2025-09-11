@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 12995,
+  "num_followers": 13000,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAepP1Y73Lvd9B+6JFaMcvN",
+  "snapshot_id": "aL9uAAAAAAD422PmmRuZYlyTTNH7N12C",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 152727,
-      "name": "30 Boppa",
-      "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
+      "duration_ms": 146959,
+      "name": "Opinion Base",
+      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 146959,
-      "name": "Opinion Base",
-      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+      "duration_ms": 152727,
+      "name": "30 Boppa",
+      "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 151631,
-      "name": "GEESKI mode 11am FINISHED",
-      "url": "https://open.spotify.com/track/1fp4xsU0LSDh57s4RYeOPv"
+      "duration_ms": 175636,
+      "name": "Get Down V2 ext aug8",
+      "url": "https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 103249,
+      "name": "Bigger Than Life Or Death",
+      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INTRUSIVE THOUGHTS",
         "url": "https://open.spotify.com/album/0tjWYspyQvDrgVk4ExxCKX"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 192000,
       "name": "DEATH BEFORE DISHONOR",
       "url": "https://open.spotify.com/track/4DR2F9HEucYO4Z6XJC0I67"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 103249,
-      "name": "Bigger Than Life Or Death",
-      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
     },
     {
       "added_at": null,

@@ -2427,6 +2427,36 @@
     },
     {
       "album": {
+        "name": "Little Hearts",
+        "url": "https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Sony Komanduri",
+          "url": "https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW"
+        },
+        {
+          "name": "Ss Kanchi",
+          "url": "https://open.spotify.com/artist/7rvLs5nPIsizHBgGq5aSxr"
+        },
+        {
+          "name": "Swaroop Goli",
+          "url": "https://open.spotify.com/artist/5t4EqHFDQYIHNGjkXrCSAH"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Khathyayani",
+      "url": "https://open.spotify.com/track/2mbJs7Lst8tAyJ3DIkfLiI"
+    },
+    {
+      "album": {
         "name": "Kingdom Teaser OST",
         "url": "https://open.spotify.com/album/6qQLJfJtTz3MNnIqDcc5Go"
       },
@@ -2990,7 +3020,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 260000,
       "name": "Naa Koduka (From \"Kuberaa\")",
       "url": "https://open.spotify.com/track/4fSA5Q1sA6jMiqROJ4R3Qo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wFpryhQvJZ.md) - [plain]
 
 > Icon and mother Oklou shares her birth playlist\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,698 likes - 26 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728 likes - 26 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wFpryhQvJZ.md) - [plain]
 | 22 | [Abandon](https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 4:01 |
 | 23 | [Beyond The Hyperreal](https://open.spotify.com/track/1SMj1n8YGXWMnEfmwUPgRl) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Reality Engine](https://open.spotify.com/album/2cr8hbQW6bLpEvYkZew53E) | 4:05 |
 | 24 | [2003 Toyota Corolla](https://open.spotify.com/track/0kkysENXsRAz1awenKqxCB) | [2003 Toyota Corolla](https://open.spotify.com/artist/6FYMANNdpYv2Y9prysxwCW) | [2003 Toyota Corolla](https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx) | 7:06 |
-| 25 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 |
+| 25 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR), [Sara Kawai](https://open.spotify.com/artist/1umhlU8WUwF8leg9QZtRqp) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 |
 | 26 | [Looking Outside](https://open.spotify.com/track/5SOFZ5rHO6AbqfYGfNh9Z8) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Sub\-Sonar](https://open.spotify.com/album/0EAsTWSaLEaSgSMbyiucvG) | 4:05 |
 
 Snapshot ID: `AAAAAIzD+yiNioF9/CcUtEjRO6RLcPlI`

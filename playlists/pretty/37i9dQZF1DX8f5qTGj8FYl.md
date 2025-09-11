@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,077 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,128 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 130 | [Down Frenchmen St](https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/752MnPnpNk25IvMRpIiLh6) | 5:57 |
 | 131 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 |
 | 132 | [F.F.F.](https://open.spotify.com/track/78uML92CuXsqQ8u0Tx2JNG) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [F.F.F.](https://open.spotify.com/album/4wJUCSwfl9g1HW930heEoh) | 3:11 |
-| 133 | [Return of the Son of Switchblade](https://open.spotify.com/track/4TJoZj7r0VUtlNQrkXwpna) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Return of the Son of Switchblade](https://open.spotify.com/album/7LK5KbUs9DXpzCJiLv8ZJs) | 3:32 |
+| 133 | [Return of the Son of Switchblade](https://open.spotify.com/track/4TJoZj7r0VUtlNQrkXwpna) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Return of the Son of Switchblade](https://open.spotify.com/album/7LK5KbUs9DXpzCJiLv8ZJs) | 3:34 |
 | 134 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 |
 | 135 | [Bobby Pins](https://open.spotify.com/track/1mLVdxr0xYLcEV5DwUMALy) | [Organ Fairchild](https://open.spotify.com/artist/2K4yMzbJpAlMu50i1letMh) | [Leisure Suit](https://open.spotify.com/album/0GILVc2uSUqqmmF24VG0kx) | 4:34 |
 | 136 | [Lost Without You \- Instrumental](https://open.spotify.com/track/4nH6ScStfg57QpOpQ9d6ld) | [Will Sessions](https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU), [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B) | [The One \(Instrumentals\)](https://open.spotify.com/album/3qndFwn1wDARX9TIRUL6J6) | 4:48 |

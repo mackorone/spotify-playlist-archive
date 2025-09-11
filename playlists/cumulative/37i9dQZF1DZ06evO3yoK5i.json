@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Calma Aparente (Spanish Version)",
+        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250853,
+      "name": "Esta Pasando Noviembre",
+      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
+    },
+    {
+      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 278053,
       "name": "Tierra Prometida - Remastered 2021",
       "url": "https://open.spotify.com/track/11ioDeqYPCbfB6vk8mwEpI"

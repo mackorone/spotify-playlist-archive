@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,717 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,726 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 53 | [10 Minutos \- Remix](https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 2:31 |
 | 54 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 |
 | 55 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
-| 56 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 |
-| 57 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
+| 56 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
+| 57 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 |
 | 58 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
 | 59 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
 | 60 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |

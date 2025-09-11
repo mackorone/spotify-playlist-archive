@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15826,
+  "num_followers": 15833,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADlWAvaIqlZ2oC9SVxgggO1",
+  "snapshot_id": "aL9uAAAAAACjzP6BuRyx8ujphhM0QvAz",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night (with Collie Buddz)",
-        "url": "https://open.spotify.com/album/2lXEEeHeRjDfzKgXwtFLcf"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 179222,
-      "name": "All Night (with Collie Buddz)",
-      "url": "https://open.spotify.com/track/5TAZ1X5HBcc54IGK2kVhle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night (with Collie Buddz)",
+        "url": "https://open.spotify.com/album/2lXEEeHeRjDfzKgXwtFLcf"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 179222,
+      "name": "All Night (with Collie Buddz)",
+      "url": "https://open.spotify.com/track/5TAZ1X5HBcc54IGK2kVhle"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 276586,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -775,26 +791,6 @@
       "duration_ms": 241083,
       "name": "Hawaiian Pakalolo",
       "url": "https://open.spotify.com/track/33wJTyMde69nSAreVisHlk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -843,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 205254,
       "name": "Just You & Me",
       "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marching Orders",
         "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 230563,
       "name": "Mama Roots",
       "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,

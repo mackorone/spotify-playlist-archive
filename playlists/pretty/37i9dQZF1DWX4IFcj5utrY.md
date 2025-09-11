@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: TRESOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,986 likes - 65 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,219 likes - 65 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

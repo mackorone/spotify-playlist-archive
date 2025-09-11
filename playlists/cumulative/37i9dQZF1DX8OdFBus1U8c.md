@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  NJ
 
-443 songs - 22 hr 40 min
+444 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Neram](https://open.spotify.com/track/1jZxDKiB7HwTZl8V3nMhPb) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn) | [Jai Ganesh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6S6FCMEo7uNTqeICbpli4O) | 2:56 | 2024-04-22 | 2024-05-22 |
 | [NERAM POKKU](https://open.spotify.com/track/0WtdQo5rRTMLTjcEvPGYkJ) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [NERAM POKKU](https://open.spotify.com/album/4k8PDPpDBGGrh4wNYJVuOE) | 3:01 | 2022-06-23 | 2024-02-13 |
 | [Nerunnu](https://open.spotify.com/track/5YPCtN3N5UDviYGBxzNdrw) | [Seth Panda](https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo) | [Nerunnu](https://open.spotify.com/album/64iFiAWa20toW721CRcHBb) | 3:13 | 2025-01-31 | 2025-04-22 |
+| [Nilapad \- From "Haal"](https://open.spotify.com/track/0TrShLqSMS5thFB0nLrU6t) | [Nandhagopan V](https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y), [Shane Nigam](https://open.spotify.com/artist/47YvIZTR2F3vbmKpPfUFEk), [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [Vineeth Beep Kumar](https://open.spotify.com/artist/69xV9L6P9H2HlZSuVjiwKl), [Abhi](https://open.spotify.com/artist/5BjDsxNexoimmgWKNhJFjy) | [Nilapad \(From "Haal"\)](https://open.spotify.com/album/6Z5dXcy1wuImzKQU8gsySu) | 2:35 | 2025-09-10 |  |
 | [Nilavaram](https://open.spotify.com/track/6FAWFY1nIqL6LBNSUV6beG) | [ARGYZM](https://open.spotify.com/artist/6TYn4CSy7DJ0LEh70tGBBu), [Prashant Singh](https://open.spotify.com/artist/7jOZcQODVv7ui0kZfFzGrm) | [Nilavaram](https://open.spotify.com/album/6lfcvw2JLIUDwhv2hoMTcl) | 2:14 | 2025-08-29 |  |
 | [Nin Chiriyil](https://open.spotify.com/track/6lZJ0MIViSl8CVY8EXP5Ys) | [DKP](https://open.spotify.com/artist/6E7khfromAR94ZBlKHtzU1), [Jackson](https://open.spotify.com/artist/6weKA8m0b1AidWiZTuGG3e) | [Nin Chiriyil](https://open.spotify.com/album/4oHkjRPZ21sKXjbvSYlx5e) | 3:23 | 2025-01-09 | 2025-03-22 |
 | [NireeshwaraJaadhi](https://open.spotify.com/track/3G3FBgYmWw6z7jwz42gJCE) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [DefyX](https://open.spotify.com/artist/1kXPoybC6zBOABNAfP97eA) | [NireeshwaraJaadhi](https://open.spotify.com/album/4DmcuZgyB4HHRidOiRe4FP) | 3:37 | 2025-05-16 | 2025-07-16 |

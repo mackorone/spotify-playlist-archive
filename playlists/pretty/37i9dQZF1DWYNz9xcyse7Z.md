@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,392 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,655 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 31 | [A Cada Instante](https://open.spotify.com/track/5ctwUz8zOUrkuAhIDZ6r2n) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 2:44 |
 | 32 | [Eres Alta Y Delgadita](https://open.spotify.com/track/2PlKMLi8sdNqwwpWVMzt4l) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:37 |
 | 33 | [Paz En Este Amor](https://open.spotify.com/track/1Xbm5nIzaassAYgdAxYhs0) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Puros Trancazos](https://open.spotify.com/album/08dcA7ua0W4qrkIUTuZ5VU) | 3:20 |
-| 34 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
-| 35 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 34 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 35 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
 | 36 | [La Hielera](https://open.spotify.com/track/2iBdXFIWdH4iTk4lYS5cl9) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 3:35 |
 | 37 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
 | 38 | [Sueños](https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 3:12 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 61 | [Esta Cobardia](https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
 | 62 | [El Primer Tonto](https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:58 |
 | 63 | [Mi Buen Corazón](https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 4:39 |
-| 64 | [Hombre de Rancho](https://open.spotify.com/track/1wroMcCg0IfrL4FzB78Xfe) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:20 |
-| 65 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
+| 64 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
+| 65 | [Hombre de Rancho](https://open.spotify.com/track/1wroMcCg0IfrL4FzB78Xfe) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:20 |
 | 66 | [Ni Dada La Quiero](https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:48 |
 | 67 | [El Buque de Mas Potencia](https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:39 |
 | 68 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |

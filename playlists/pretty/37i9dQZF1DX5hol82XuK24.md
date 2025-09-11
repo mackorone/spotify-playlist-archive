@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,897 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,942 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 8 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 9 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
 | 10 | [If Only](https://open.spotify.com/track/7eQ0SV1eQXSZHBA1x4mcYu) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:36 |
-| 11 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
-| 12 | [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 |
+| 11 | [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 |
+| 12 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
 | 13 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 14 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 15 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 37 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
 | 38 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
 | 39 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 |
-| 40 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 41 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
-| 42 | [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 |
-| 43 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
+| 40 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
+| 41 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 42 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
+| 43 | [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 |
 | 44 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 45 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
 | 46 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 78 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
 | 79 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 80 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
-| 81 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |
-| 82 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 81 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 82 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |
 | 83 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
 | 84 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 85 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |

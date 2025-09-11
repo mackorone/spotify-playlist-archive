@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,739 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,792 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 21 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 22 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
 | 23 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 |
-| 24 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
-| 25 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
+| 24 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
+| 25 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 26 | [Comin' Through](https://open.spotify.com/track/7pOrN8TYTjTzDZYQMShjXl) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Future Weather](https://open.spotify.com/album/1sG9LABomGMUH0w56LfNV0) | 3:21 |
 | 27 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
 | 28 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 59 | [Carry On](https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 |
 | 60 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
 | 61 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 62 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 63 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 62 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 63 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 64 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
 | 65 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 66 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 67 | [Long Sardine](https://open.spotify.com/track/3yuJOJZufKps4PAQsSXv6Q) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/4FkksDPhOFsEy4fIxX9SSv) | 1:52 |
-| 68 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
+| 67 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
+| 68 | [Long Sardine](https://open.spotify.com/track/3yuJOJZufKps4PAQsSXv6Q) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/4FkksDPhOFsEy4fIxX9SSv) | 1:52 |
 | 69 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
 | 70 | [Clean Heart](https://open.spotify.com/track/1lppreanVHIEN8yW2LtdPx) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory](https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD) | 3:52 |
 | 71 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 74 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 75 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
 | 76 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
-| 77 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 78 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
+| 77 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
+| 78 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 79 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 80 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
 

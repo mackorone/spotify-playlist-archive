@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,146 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 5 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 |
 | 6 | [Faded Leaves Fall](https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 2:42 |
 | 7 | [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 |
-| 8 | [The Drifter](https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 2:48 |
-| 9 | [Absent Minded](https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 4:38 |
+| 8 | [Absent Minded](https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 4:38 |
+| 9 | [The Drifter](https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 2:48 |
 | 10 | [Staircase Sonata \- Orchestral Works Version](https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 2:47 |
 | 11 | [Bambaló](https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Bambaló](https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL) | 2:41 |
 | 12 | [Absent Minded Solo](https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 2:14 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 22 | [Whale Variation](https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 2:36 |
 | 23 | [Coda](https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The True Meaning Of Forever](https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED) | 2:53 |
 | 24 | [Birta](https://open.spotify.com/track/70HOjaRDOxL86922aqzy12) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 2:45 |
-| 25 | [Oríensa](https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Oríensa](https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM) | 2:23 |
-| 26 | [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 |
+| 25 | [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 |
+| 26 | [Oríensa](https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Oríensa](https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM) | 2:23 |
 | 27 | [The Monolith](https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar \(Traveler’s Log\)](https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j) | 4:32 |
-| 28 | [Flatey](https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:20 |
+| 28 | [Intro](https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:24 |
 | 29 | [Draumheimar](https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello](https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz) | 3:32 |
 | 30 | [Permafrost I](https://open.spotify.com/track/2uRdQvuJA24yvOQxc2I5PI) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 2:18 |
 | 31 | [Droplets](https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 3:01 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 44 | [The True Meaning Of Forever](https://open.spotify.com/track/3C4tEDx7E1a2zhlEiKtmGZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 2:51 |
 | 45 | [Eldur](https://open.spotify.com/track/4mhxSUqgONepu6dQ7gQR0p) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Lullabies for Piano and Cello](https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz) | 2:00 |
 | 46 | [Nightfall](https://open.spotify.com/track/4BhKib1RVbzLCRmO5cq6KC) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:22 |
-| 47 | [Fantasía Variation](https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 2:51 |
+| 47 | [Whales at Dusk](https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Whales at Dusk](https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7) | 2:23 |
 | 48 | [Vortex](https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 3:52 |
-| 49 | [Whales at Dusk](https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Whales at Dusk](https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7) | 2:23 |
+| 49 | [Fantasía Variation](https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 2:51 |
 | 50 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:38 |
 
-Snapshot ID: `aL4cgAAAAAAAJE4IF6ydqoO2lhR8s4LU`
+Snapshot ID: `aL9uAAAAAAAGrLDZQUoYD4FgcIdbPjoI`

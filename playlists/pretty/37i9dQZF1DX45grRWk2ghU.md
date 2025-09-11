@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > My name is pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,076 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,359 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 68 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
 | 69 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
 | 70 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 |
-| 71 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
-| 72 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 |
+| 71 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 |
+| 72 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 | 73 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 74 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 |
 | 75 | [Pink Friday Girls](https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:46 |

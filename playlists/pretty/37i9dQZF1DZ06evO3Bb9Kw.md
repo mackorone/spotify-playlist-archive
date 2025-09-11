@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,628 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,637 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 40 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
 | 41 | [More Like Her](https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:28 |
 | 42 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 |
-| 43 | [Never You \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2U3JnNb38trSUJwiJ8pVo0) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:36 |
-| 44 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
+| 43 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
+| 44 | [Never You \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2U3JnNb38trSUJwiJ8pVo0) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:36 |
 | 45 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 |
 | 46 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 |
 | 47 | [Takin' Pills](https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Hell On Heels](https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 49 | [Crazy Ex\-Girlfriend](https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:07 |
 | 50 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 
-Snapshot ID: `aL4cgAAAAAAqnRqvrRh8pD+NogJW7kgz`
+Snapshot ID: `aL9uAAAAAAAVtcbASJeePKIdOiNCou0L`

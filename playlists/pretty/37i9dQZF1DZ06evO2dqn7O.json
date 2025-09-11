@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56996,
+  "num_followers": 57004,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABtceRg2uYUlIMGY6+P9d/Q",
+  "snapshot_id": "aL9uAAAAAAD2KvxFF3GDGresIrZ6ZuLM",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Friend For Life (with Medium Build)",
+        "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Friend For Life (with Medium Build)",
+      "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 245572,
       "name": "Not Easy",
       "url": "https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Friend For Life (with Medium Build)",
-        "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Friend For Life (with Medium Build)",
-      "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS 2.0",
-        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Kerosene Dreams",
-      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
         "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS(X) (Rerecorded)",
         "url": "https://open.spotify.com/album/3c2Te0BpRT0lqhPQ3fDWov"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/61Bo1lyKtnkfhdqLVkpbrg"
+      "duration_ms": 212866,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/3UMdiQfcG4nNJSMDyUDYpx"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": null,
@@ -720,15 +720,15 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Hang On",
-      "url": "https://open.spotify.com/track/3UMdiQfcG4nNJSMDyUDYpx"
+      "duration_ms": 207000,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/61Bo1lyKtnkfhdqLVkpbrg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS(X) (Rerecorded)",
         "url": "https://open.spotify.com/album/3c2Te0BpRT0lqhPQ3fDWov"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
-        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
-      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 216706,
       "name": "Unconsolable",
       "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
+        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
+      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
     },
     {
       "added_at": null,
@@ -899,26 +915,6 @@
       "duration_ms": 218266,
       "name": "Alcohol (with BRELAND)",
       "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 235922,
-      "name": "Everything Sounds Like a Love Song (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis"
     }
   ],
   "unique_name": "This Is X Ambassadors",

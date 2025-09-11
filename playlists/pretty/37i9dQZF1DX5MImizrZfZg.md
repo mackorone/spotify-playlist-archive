@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,402 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,466 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 31 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 |
 | 32 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 33 | [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 |
-| 34 | [To Be Like Him](https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Lay It Back](https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ) | 5:35 |
-| 35 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
+| 34 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
+| 35 | [To Be Like Him](https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Lay It Back](https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ) | 5:35 |
 | 36 | [People Make the World Go Round](https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Metro Blue](https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR) | 4:25 |
 | 37 | [Floor & More](https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 5:04 |
 | 38 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |

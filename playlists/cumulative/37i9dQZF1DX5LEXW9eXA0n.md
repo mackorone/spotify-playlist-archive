@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 정승환\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 신승훈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,541 songs - 4 day 4 hr 0 min
+1,542 songs - 4 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,6 +1066,7 @@
 | [Shaving](https://open.spotify.com/track/4YoUYbCNMcVLcL3cr5KLFt) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Shaving](https://open.spotify.com/album/2ELplOBe2OqNNvVBwzNyGM) | 4:11 | 2024-09-23 | 2025-02-05 |
 | [She](https://open.spotify.com/track/0BnIEkvcwpCH0UhPUqtUTg) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poong, the Joseon Psychiatrist OST Part.3](https://open.spotify.com/album/3adcqwktUDEr9ApocKPQ6D) | 3:45 | 2022-08-18 | 2022-12-27 |
 | [She left me \(Feat\. Lee Ji yong\) \(Piano Ver.\)](https://open.spotify.com/track/3Grstt75CYODbUbA76Oje6) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Lee Ji Yong](https://open.spotify.com/artist/5Iue50JE9RVewFikKWS6nH) | [She left me \(Piano Ver.\)](https://open.spotify.com/album/2ANDxzvfeKhzTGomlz9hZf) | 4:41 | 2023-02-24 | 2023-04-27 |
+| [She Was](https://open.spotify.com/track/2ffxxd36FqURTTvksfDPEa) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [She Was](https://open.spotify.com/album/1lJB96lTD6YvFt4ttW8sU9) | 3:41 | 2025-09-10 |  |
 | [Shiny Star](https://open.spotify.com/track/5eRDs2t8dnh2YjreXuwCWq) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Shiny Star](https://open.spotify.com/album/1D4KH2g4zA7L5JDLPsBtYY) | 3:37 | 2022-03-24 | 2022-04-19 |
 | [Shiny Star\(2020\)](https://open.spotify.com/track/7MXtr93z4ltQzhfIxYnYWX) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Shiny Star\(2020\)](https://open.spotify.com/album/6Y6861L8Iwse3spu3vOWEc) | 3:37 | 2021-12-20 | 2022-06-07 |
 | [Shooting Star](https://open.spotify.com/track/5irJLTz79CZXLOJ9FZ7Duy) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI), [Lee Sang hoon](https://open.spotify.com/artist/3vUgpCNKyeDzV7FrPYqUJA) | [Always I am OST](https://open.spotify.com/album/6kCFWOqTv5L8neElsRLBFz) | 2:58 | 2023-04-26 | 2023-09-15 |
@@ -1161,7 +1162,7 @@
 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 | 2024-11-20 | 2025-07-29 |
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 | 2024-06-18 |
 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 | 2024-05-18 |
-| [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 | 2024-10-30 |  |
+| [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 | 2024-10-30 | 2025-09-11 |
 | [Stuck in me](https://open.spotify.com/track/4rbR5E789mRBANimW1u2Pm) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6) | [Stuck in me](https://open.spotify.com/album/1SoeLBgbemDdTTtHZ7EBsw) | 3:37 | 2024-06-19 | 2024-10-31 |
 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Stuck In The Middle](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 | 2024-01-31 | 2024-06-18 |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2023-01-21 |

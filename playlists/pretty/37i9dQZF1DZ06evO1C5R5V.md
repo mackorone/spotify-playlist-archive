@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,205 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,212 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 30 | [María](https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 4:24 |
 | 31 | [Injerto](https://open.spotify.com/track/073KZTEjnCU8ur8LAjG5r0) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:09 |
 | 32 | [La Vida](https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:30 |
-| 33 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 |
+| 33 | [Piénsalo Bien](https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:50 |
 | 34 | [Barata y Descontón](https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Barata y Descontón](https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u) | 4:10 |
-| 35 | [Piénsalo Bien](https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:50 |
+| 35 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 |
 | 36 | [Alejandro](https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:50 |
 | 37 | [En los Años Treintas](https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:51 |
-| 38 | [Trenes y Gatos](https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes y Gatos](https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV) | 3:05 |
-| 39 | [Por los Gluteos de Mi Novia](https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:57 |
+| 38 | [Por los Gluteos de Mi Novia](https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:57 |
+| 39 | [Trenes y Gatos](https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes y Gatos](https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV) | 3:05 |
 | 40 | [A la Basura Se Va](https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:18 |
 | 41 | [Saber Amar](https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:14 |
-| 42 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
-| 43 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 |
+| 42 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 |
+| 43 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
 | 44 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 |
 | 45 | [El Primer Destino](https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
 | 46 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Tu Te las Tomaste Sólo](https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:43 |
 | 50 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
 
-Snapshot ID: `aL4cgAAAAAB18YnosEtkIQFDyxOfjCsN`
+Snapshot ID: `aL9uAAAAAAAKHlr57bOqpldSmkAbMfEF`

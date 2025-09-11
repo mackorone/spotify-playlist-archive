@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,111 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,120 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 59 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
 | 60 | [Feliciana](https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Robert JeanD'or](https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0) | [Todos Exitos, Vol\. 1](https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs) | 4:51 |
 | 61 | [Colegiala \(La\)](https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:58 |
-| 62 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
-| 63 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
+| 62 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
+| 63 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
 | 64 | [Te Buscare](https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI) | [La Orquesta Joven](https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:19 |
 | 65 | [Penelope](https://open.spotify.com/track/1rQKgkbKDR7boRA0aPXQGI) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Merengue Salvaje](https://open.spotify.com/album/1BeAOinmiOj7uvjEZp7oCA) | 4:26 |
 | 66 | [Melina](https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Edición Limitada](https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0) | 4:26 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 79 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 80 | [Como una Loba](https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:22 |
 | 81 | [Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon](https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 6:19 |
-| 82 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
-| 83 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
+| 82 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
+| 83 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
 | 84 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |
 | 85 | [La Cosquillita](https://open.spotify.com/track/3srURD7HBktaD14VKzctR4) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:44 |
 | 86 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |

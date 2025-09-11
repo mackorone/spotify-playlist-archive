@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 5037,
+  "num_followers": 5043,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADdD6Jo2EdNk+dw6K1g1vFu",
+  "snapshot_id": "aL9uAAAAAAB3jGWlgT44R3SKpX3Dsbp8",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 425334,
       "name": "All Yours (feat. Anthony Brown)",
       "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Judge Me (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Don't Judge Me (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": null,
@@ -851,26 +871,6 @@
       "duration_ms": 252760,
       "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
       "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Judge Me (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Judge Me (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": null,

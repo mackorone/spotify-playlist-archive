@@ -2,7 +2,7 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Apache 207
+> 50 Hits in einer Playlist! Cover: benno!
 
 257 songs - 12 hr 16 min
 

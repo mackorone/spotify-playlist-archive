@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,871 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,878 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 18 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
 | 19 | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK) | 4:18 |
 | 20 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
-| 21 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
-| 22 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
+| 21 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
+| 22 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
 | 23 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 24 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
 | 25 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 35 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 36 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 |
 | 37 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
-| 38 | [Turns Out That I Am God](https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Turns Out That I Am God](https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36) | 3:05 |
-| 39 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
+| 38 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
+| 39 | [Turns Out That I Am God](https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Turns Out That I Am God](https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36) | 3:05 |
 | 40 | [Dream of You](https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Dream of You](https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR) | 3:57 |
 | 41 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 42 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 |

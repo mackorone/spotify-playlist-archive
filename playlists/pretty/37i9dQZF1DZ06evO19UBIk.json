@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 682513,
+  "num_followers": 682604,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADPWBik23KBn9FHt9t9uEA4",
+  "snapshot_id": "aL9uAAAAAADqAJgiTGyLdDtEBiLgwx1j",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 30893,
-      "name": "Yachting (Hyper)",
-      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -467,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
       },
       "artists": [
         {
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 255600,
-      "name": "The Spy",
-      "url": "https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW"
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
       "duration_ms": 279866,
       "name": "Been down so Long",
       "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "The Spy",
+      "url": "https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Hyacinth House",
+      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bangarang EP",
         "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 301986,
       "name": "Breakn' a Sweat",
       "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Hyacinth House",
-      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
     },
     {
       "added_at": null,

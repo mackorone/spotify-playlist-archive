@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,032 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,002 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 53 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 54 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 55 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
-| 56 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
-| 57 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 56 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 57 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
 | 58 | [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 |
 | 59 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
 | 60 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 70 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |
 | 71 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
 | 72 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
-| 73 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
-| 74 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 |
-| 75 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 |
+| 73 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 |
+| 74 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
+| 75 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 |
 
 Snapshot ID: `AAAAANSm03ud3HSMDGYwoOy+sGln7KfA`

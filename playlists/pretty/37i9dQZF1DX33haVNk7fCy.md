@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,487 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,732 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [Tera Main Intezaar](https://open.spotify.com/track/1ZRo0CTelVnoK66QNc3dH5) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tera Main Intezaar](https://open.spotify.com/album/4VveFrQaAeP2loI83gp2a9) | 3:51 |
 | 50 | [Aisi Teri Yaadein](https://open.spotify.com/track/0zQT8LBspIhHQ1RUFzTe5D) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Aisi Teri Yaadein](https://open.spotify.com/album/7r6qLiVCn35vuJafG6JlNB) | 4:55 |
 
-Snapshot ID: `AAAAAAYw87My88YWTvTxzjvw1LyGPdsG`
+Snapshot ID: `AAAAAKCxFMfUVng2rRF0BNnKfDv7AoBt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,598 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,595 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 26 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 27 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 28 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
-| 29 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
+| 29 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 30 | [Santa Tell Me](https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Santa Tell Me](https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8) | 3:23 |
-| 31 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
+| 31 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
 | 32 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 33 | [Alone This Holiday](https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [I Caught Fire](https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB) | 2:55 |
 | 34 | [Christmas Day](https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 2:57 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 42 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [Kamakazi](https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
 | 43 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
 | 44 | [Silent Night](https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:33 |
-| 45 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
-| 46 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
+| 45 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
+| 46 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
 | 47 | [Xmas Exile](https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [Xmas Exile](https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG) | 2:56 |
 | 48 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 49 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
 | 50 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
-| 51 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |
-| 52 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 |
+| 51 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 |
+| 52 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |
 | 53 | [Santa Claus Is Coming to Town \- Single Version](https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41) | 1:54 |
 | 54 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
 | 55 | [X'Mas Time \(It Sure Doesn't Feel Like It\)](https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:57 |

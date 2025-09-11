@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,145 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,428 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 20 | [The Way You Look Tonight](https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Rarities, Outtakes & Other Delights, Vol\. 2](https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8) | 3:23 |
 | 21 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
 | 22 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
-| 23 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
+| 23 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
 | 24 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
 | 25 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 26 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,342 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,897 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 36 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
 | 37 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
 | 38 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
-| 39 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
-| 40 | [Rose Colored Glasses](https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Rose Colored Glasses](https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN) | 3:20 |
+| 39 | [Rose Colored Glasses](https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Rose Colored Glasses](https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN) | 3:20 |
+| 40 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
 | 41 | [Louisiana Woman, Mississippi Man](https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Louisiana Woman, Mississippi Man](https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS) | 2:31 |
 | 42 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [The Oak Ridge Boys Have Arrived](https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC) | 2:59 |
 | 43 | [Hey, Good Lookin'](https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:56 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 49 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
 | 50 | [D\-I\-V\-O\-R\-C\-E](https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:55 |
 | 51 | [It's Only Make Believe](https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty Sings](https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP) | 2:12 |
-| 52 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
+| 52 | [Behind Closed Doors](https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Love Songs](https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL) | 2:54 |
 | 53 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:54 |
-| 54 | [Behind Closed Doors](https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Love Songs](https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL) | 2:54 |
+| 54 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
 | 55 | [Take This Job and Shove It](https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 2:36 |
 | 56 | [Every Which Way but Loose \- 2009 Remaster](https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:51 |
 | 57 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 |

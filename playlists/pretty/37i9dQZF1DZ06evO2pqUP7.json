@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69427,
+  "num_followers": 69437,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADTrFzjY/go3M1gnkqfDyaG",
+  "snapshot_id": "aL9uAAAAAABhgBWtRK2nIZpvUDg+8WFy",
   "tracks": [
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Toque Mi Naik",
+        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 143925,
+      "name": "No Toque Mi Naik",
+      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Toque Mi Naik",
-        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 143925,
-      "name": "No Toque Mi Naik",
-      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
     },
     {
       "added_at": null,
@@ -1171,26 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9x19, Vol. 1",
-        "url": "https://open.spotify.com/album/1BGtcYwVf8XMeh2J9o4WX1"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 222383,
-      "name": "BAILEN",
-      "url": "https://open.spotify.com/track/2dpyrOAUC27gn8284YdSJb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Te Vas Conmigo",
         "url": "https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 215000,
       "name": "ENERO",
       "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9x19, Vol. 1",
+        "url": "https://open.spotify.com/album/1BGtcYwVf8XMeh2J9o4WX1"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 222383,
+      "name": "BAILEN",
+      "url": "https://open.spotify.com/track/2dpyrOAUC27gn8284YdSJb"
     }
   ],
   "unique_name": "This Is Lunay",

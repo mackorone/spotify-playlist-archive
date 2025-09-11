@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-449 songs - 1 day 1 hr 50 min
+450 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 | 2025-07-11 |  |
 | [the 1 \(acoustic\)](https://open.spotify.com/track/2L1rmY3reJAgy0SbGnJWL2) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [the 1 \(acoustic\)](https://open.spotify.com/album/0a4DaF6bmBrrJrMg7rtG5u) | 3:00 | 2021-12-17 | 2022-10-29 |
 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 | 2021-12-17 | 2023-10-17 |
+| [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 | 2025-09-10 |  |
 | [The Middle](https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [The Middle](https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44) | 3:12 | 2023-01-12 | 2023-10-17 |
 | [The Middle](https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [The Middle](https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv) | 3:12 | 2022-01-21 | 2023-01-27 |
 | [the older you get, the less you cry \- acoustic version](https://open.spotify.com/track/2dC4Ptc2agZA07tw4yr495) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [the older you get, the less you cry \(acoustic version\)](https://open.spotify.com/album/2Sk04lsMRrG8Wl8atdgj3R) | 3:18 | 2021-12-24 | 2022-01-22 |

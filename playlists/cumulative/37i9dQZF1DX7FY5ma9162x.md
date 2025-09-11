@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: kwn
 
-663 songs - 1 day 12 hr 57 min
+664 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Goodbyes \(Feat\. Young Thug\)](https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Goodbyes \(Feat\. Young Thug\)](https://open.spotify.com/album/4FFBjcmX06VmazABtpRMyv) | 2:54 | 2022-04-01 | 2022-04-16 |
 | [Got It](https://open.spotify.com/track/6WXPwBUDKdZuis8r1qBjbY) | [BLK](https://open.spotify.com/artist/51HV0KFq7wIVIs1WIvvVi7) | [Got It](https://open.spotify.com/album/23E3VSdyt4rtaX80mfdXNG) | 2:29 | 2022-04-01 | 2022-04-19 |
 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 | 2022-12-16 | 2023-11-07 |
-| [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 | 2022-03-11 |  |
+| [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 | 2022-03-11 | 2025-09-11 |
 | [GREECE \(feat\. Drake\)](https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GREECE \(feat\. Drake\)](https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN) | 3:38 | 2022-03-11 | 2022-12-30 |
 | [Guilty](https://open.spotify.com/track/3T9VLKYbT0pGWPqhy415G0) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Guilty](https://open.spotify.com/album/7MHe3J3F71yESwmAGXvVvM) | 3:41 | 2022-03-11 | 2022-07-27 |
 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4sFzG7iUlyPmuyASCkre9A) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 3:36 | 2022-04-01 | 2022-04-18 |
@@ -354,6 +354,7 @@
 | [Love Songs](https://open.spotify.com/track/6ABrDJwa6iVFuT1O1F9ZUm) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Love Songs](https://open.spotify.com/album/4vL7paKcyH9alU9RW6oRtg) | 2:28 | 2022-04-01 | 2022-04-18 |
 | [Lowkey](https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8) | 3:43 | 2023-03-03 | 2023-04-07 |
 | [LOYAL \(feat\. Drake\)](https://open.spotify.com/track/5bvnqVuq7UFl0txSlHpsfS) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [LOYAL \(feat\. Drake\)](https://open.spotify.com/album/1U1uqmoe8hdbqZWRqd23li) | 3:17 | 2022-04-01 | 2022-05-26 |
+| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-09-10 |  |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-11-15 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-05-22 |  |
 | [Magazines](https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 2: Transformation](https://open.spotify.com/album/7mBzvKYy1dMv2jaeq8H6Ri) | 3:14 | 2022-04-01 | 2022-07-28 |

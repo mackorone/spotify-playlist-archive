@@ -4,7 +4,7 @@
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 15 min
+88 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Halloween](https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:58 | 2022-10-25 | 2024-12-15 |
 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 | 2022-10-25 |  |
 | [Hidden Knives](https://open.spotify.com/track/01qfmGPqmz2nWuM22YxdC5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:56 | 2022-10-25 | 2023-10-02 |
+| [Holy Visions](https://open.spotify.com/track/4OyDuSzuVb5azaw8WCvcbM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Holy Visions](https://open.spotify.com/album/0hGwipVGYzT8HvuzJq6Mo3) | 3:30 | 2025-09-11 |  |
 | [I Hope You Suffer](https://open.spotify.com/track/1bl434nynICAlETvh9kf4e) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:37 | 2023-03-29 |  |
 | [I Hope You Suffer](https://open.spotify.com/track/7AX7C2oJrN1ZLkLyBlofz1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/73h2unQGoSEL75TlZVl7Pb) | 4:37 | 2022-10-30 | 2022-11-15 |
 | [I Wanna Get A Mohawk \(But Mom Won't Let Me Get One\)](https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:12 | 2022-10-25 |  |
@@ -56,7 +57,7 @@
 | [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 | 2022-10-25 |  |
 | [Of Greetings And Goodbyes](https://open.spotify.com/track/1PzXACkaohcYjcWTZx4lWR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:04 | 2024-05-13 | 2024-07-24 |
 | [On Your Back](https://open.spotify.com/track/0uwDEG8QrLC9jN9okXGLJx) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 | 2022-10-29 | 2022-10-31 |
-| [On Your Back](https://open.spotify.com/track/5b9yz8F5xxHMEmBHflPn11) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 | 2025-03-02 |  |
+| [On Your Back](https://open.spotify.com/track/5b9yz8F5xxHMEmBHflPn11) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 | 2025-03-02 | 2025-09-11 |
 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 | 2023-01-25 |  |
 | [Porphyria](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 | 2022-10-25 |  |
 | [Prelude 12/21](https://open.spotify.com/track/6hxa24dKfCoe1EA6g0RHNw) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 1:34 | 2022-10-25 |  |

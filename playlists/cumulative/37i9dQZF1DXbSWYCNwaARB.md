@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: aespa\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: WENDY\)
 
-576 songs - 1 day 5 hr 57 min
+578 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Black Or White](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2021-01-18 | 2021-01-18 |
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 |  |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2020-10-13\* | 2022-06-04 |
+| [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-10 |  |
 | [Bomb \- Korean Version](https://open.spotify.com/track/3szOUJ6GA5vASA3lZoaWmJ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Bomb](https://open.spotify.com/album/12f1HfzQ9lqohKvd0RAgQf) | 3:23 | 2020-10-13\* | 2022-04-11 |
 | [Bon Bon Chocolat](https://open.spotify.com/track/06Pvy98db25O7wlfFFFIRM) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ARRIVAL OF EVERGLOW](https://open.spotify.com/album/34jrFDbWiepwHN4L1pZmCr) | 3:48 | 2020-10-20 | 2022-07-14 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-05-24 | 2023-07-06 |
@@ -358,7 +359,7 @@
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-25 | 2022-08-19 |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-15 |  |
-| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-04 |  |
+| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-04 | 2025-09-11 |
 | [No More](https://open.spotify.com/track/1ypNdSl9XomFIt4dgor2QR) | [UNI.T](https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ) | [line](https://open.spotify.com/album/4BWULSJ2Sw9QM49M1Hb8UJ) | 3:26 | 2021-03-02 | 2022-05-30 |
 | [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-16 | 2024-02-16 |
 | [NO ONE](https://open.spotify.com/track/0lhZsFfTpITnjK5q8lrDLR) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:14 | 2021-01-16 | 2022-04-13 |
@@ -474,6 +475,7 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-01 | 2025-09-10 |
 | [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-17 | 2023-11-23 |
 | [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 | 2025-02-12 | 2025-03-11 |
+| [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 | 2025-09-10 |  |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
 | [Super Shy](https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:34 | 2023-07-25 | 2023-10-30 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-25 | 2025-07-04 |
@@ -511,7 +513,7 @@
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [UhUh](https://open.spotify.com/track/7DLH6I3RzLhMEiaOfahwbm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Re:Scene](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) | 3:22 | 2024-03-27 | 2024-04-03 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-15 | 2024-02-20 |
-| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 | 2025-09-11 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 | 2024-07-17 |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2021-02-28 | 2022-04-13 |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-10 |  |

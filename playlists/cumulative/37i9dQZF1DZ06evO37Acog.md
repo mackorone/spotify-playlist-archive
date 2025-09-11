@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 56 min
+115 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Despeinada](https://open.spotify.com/track/3xOiGSFA9YdlPJj03SRYXV) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey Vol\. II \- 30 Joyas Musicales](https://open.spotify.com/album/472vMgzbpIpdZ4WAQgxu9Z) | 2:54 | 2023-06-13 | 2023-12-14 |
 | [Donde Estas \- \(En Vivo\)](https://open.spotify.com/track/2EUD3y0s05HTyxex8m9Sah) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:27 | 2022-06-01 | 2022-10-12 |
 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DOS HOJAS SIN RUMBO / ENSÉÑAME A OLVIDAR \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk) | 3:27 | 2022-10-21 | 2023-11-11 |
+| [Dos Hojas Sin Rumbo](https://open.spotify.com/track/3WTDMX2sCPaNtPIRtr4EA9) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puñalada Trapera](https://open.spotify.com/album/77u9ZXoUfBvTcloek014di) | 3:30 | 2025-09-11 |  |
 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/3uLPwbEVinsPoM1XAeMOIh) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:31 | 2023-12-13 | 2024-02-29 |
 | [Dos Monedas](https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:23 | 2022-06-01 | 2023-01-03 |
 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 | 2023-01-02 |  |
@@ -54,7 +55,7 @@
 | [Infiel](https://open.spotify.com/track/4QZ7045krnEuSUxrKOntxP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:44 | 2022-07-10 | 2023-07-13 |
 | [Infiel](https://open.spotify.com/track/4YmYjgg9BiISgPM7XivQsl) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 2:44 | 2023-11-10 | 2024-02-11 |
 | [Juramos Amarnos](https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CELEBRANDO CINCO DE MAYO](https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag) | 3:18 | 2022-06-03 |  |
-| [La Latosa](https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 2:36 | 2022-06-18 |  |
+| [La Latosa](https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 2:36 | 2022-06-18 | 2025-09-11 |
 | [La Miedosa](https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:17 | 2023-03-07 | 2023-11-11 |
 | [La Rama Del Mezquite](https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 3:43 | 2022-06-01 |  |
 | [La Vecina Me Puso El Dedo \- \(En Vivo\)](https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:50 | 2022-06-01 |  |

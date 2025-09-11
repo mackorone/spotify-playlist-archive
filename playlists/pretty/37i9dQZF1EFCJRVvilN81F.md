@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,095 likes - 169 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,096 likes - 170 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 137 | [SMILING](https://open.spotify.com/track/28xRKT60WwfDDb5pHtJT2N) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:49 |
 | 138 | [Love Or Something](https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:57 |
 | 139 | [THINGS](https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
-| 140 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
-| 141 | [backstABS](https://open.spotify.com/track/0c5m787GdMeqAXhzgao6ZI) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:21 |
+| 140 | [backstABS](https://open.spotify.com/track/0c5m787GdMeqAXhzgao6ZI) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:21 |
+| 141 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
 | 142 | [ON THE LOW](https://open.spotify.com/track/698woGLcYhbvbeQtRNvksr) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 2:37 |
 | 143 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 144 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
@@ -176,6 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 166 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 | 167 | [Sunday Love Fever](https://open.spotify.com/track/4FYtw1HuOcEfXQFkVcPGGf) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [POISON](https://open.spotify.com/album/0t1RR8RU3XUBZJGIlS0fSu) | 2:57 |
 | 168 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
-| 169 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
+| 169 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
+| 170 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Ab7y6AAAAAA00G8aHf0LfVgRjwJHbzzC`
+Snapshot ID: `Ab74dAAAAACKQesQCFB1dPgJTTkir7Fq`

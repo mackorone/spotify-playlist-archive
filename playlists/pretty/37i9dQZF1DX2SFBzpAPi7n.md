@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: DAY6\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,072 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,082 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [INSIDE OUT](https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv) | 3:00 |
 | 2 | [HAPPY END](https://open.spotify.com/track/4zGVzGt73dO1xaiPu0Wd1E) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPY END](https://open.spotify.com/album/4oeu1FxKhrHHCdh806ONd1) | 4:10 |
 | 3 | [25 Degrees](https://open.spotify.com/track/3IEKV05dKEd2vpxmkfm4ig) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [25 Degrees](https://open.spotify.com/album/44MAHGCmFvYOMpZCLITnIt) | 4:04 |
-| 4 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 |
+| 4 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
 | 5 | [midsummer](https://open.spotify.com/track/5lOnGtpKkct2faM1SdFHQ2) | [Binn](https://open.spotify.com/artist/7phylm2pxN4pWFuGAbSzW3) | [Yamako Romance](https://open.spotify.com/album/6IWL2gi1MYShUDZ27u7zEf) | 3:52 |
 | 6 | [Colors](https://open.spotify.com/track/4FkJCAsrCLPkKePw4zkOip) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Colors](https://open.spotify.com/album/2wFgvSTbDeT9TaXq4nfpbs) | 3:43 |
 | 7 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 |
 | 50 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 
-Snapshot ID: `AAAAACSpwKtFddI08ShWmt+ZaIKuPdaN`
+Snapshot ID: `AAAAACrSagFAZYzM76EAuPMr919lOByc`

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-866 songs - 1 day 21 hr 15 min
+867 songs - 1 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Faut des millions \- Bizon blanc](https://open.spotify.com/track/3eRRKua3z77NMMS4swGDbt) | [TobiHood](https://open.spotify.com/artist/4z2eCmlekWnUrHY0esLGXw) | [Faut des millions \(Bizon blanc\)](https://open.spotify.com/album/4z70FnNfQjMWskBec4v5yM) | 3:06 | 2023-09-15 | 2023-09-22 |
 | [Faut que je me tire de là](https://open.spotify.com/track/6ScF8Xaxrk3TNyJxPPlUj2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est pas des LOL](https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT) | 4:05 | 2024-10-04 | 2024-11-05 |
 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 | 2025-05-02 | 2025-06-07 |
+| [FDT](https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [FDT](https://open.spotify.com/album/620W178thQwaizBX6AV3G9) | 2:02 | 2025-09-10 |  |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-01-17 | 2025-03-08 |
 | [Ferry](https://open.spotify.com/track/1Myy7fPHUxnyjcq4Gf81C3) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Longue Vie à Nous](https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF) | 2:23 | 2025-03-28 | 2025-07-05 |
 | [Figa De Guiné](https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sabiá Marrom \- O Samba Raro De Alcione](https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H) | 2:19 | 2024-04-19 | 2024-05-27 |
@@ -451,7 +452,7 @@
 | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/track/3aIH3DPcGwMDPlOl43Lufl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/album/4RzryyT7JcO6cwuT8Kjbeb) | 3:31 | 2023-07-07 | 2023-11-11 |
 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 | 2025-01-03 | 2025-03-20 |
 | [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 | 2024-11-29 | 2025-01-04 |
-| [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-07-25 |  |
+| [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-07-25 | 2025-09-11 |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2023-12-01 | 2024-02-10 |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2024-09-13 | 2025-01-25 |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2025-01-31 | 2025-03-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 100786,
+  "num_followers": 100970,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -307,38 +323,18 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -359,18 +355,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Jies",
-      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Calculate II",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 180688,
       "name": "Calculate II - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Jies",
+      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 207378,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 165063,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "KEROSENE",
-        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 158608,
-      "name": "KEROSENE",
-      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "KEROSENE",
+        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "KEROSENE",
+      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 152544,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 152544,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "HIGH STAR",
-        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "HIGH STAR",
-      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Laye Mi",
-        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
+        "name": "HIGH STAR",
+        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 204159,
-      "name": "Laye Mi",
-      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
+      "duration_ms": 139636,
+      "name": "HIGH STAR",
+      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1335,6 +1319,22 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Laye Mi",
+        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204159,
+      "name": "Laye Mi",
+      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Tenner",
-        "url": "https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 156135,
-      "name": "Tenner",
-      "url": "https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg"
+      "duration_ms": 163539,
+      "name": "MACHO (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     }
   ],
   "unique_name": "Party Dey!",

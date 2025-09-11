@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/49GH2l6sWX15pBbNWc366o"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Treehouse",
+      "url": "https://open.spotify.com/track/251Sfkz551MKWoXFvL2TAd"
+    },
+    {
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
       },

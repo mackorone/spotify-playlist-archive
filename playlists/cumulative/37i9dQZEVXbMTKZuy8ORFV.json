@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 174706,
       "name": "Come Back - Buddha Remastered 2001",
       "url": "https://open.spotify.com/track/7K6KRwyvE0plDEzxrVmCon"
@@ -7423,6 +7423,28 @@
     },
     {
       "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "album": {
         "name": "UNA VALIJA EN SENTIMIENTO",
         "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
       },
@@ -7456,7 +7478,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 161280,
       "name": "Crab Rave",
       "url": "https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd"
@@ -8416,7 +8438,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 257214,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0Pxq5AOtS05oaygoyG0S0Z"
@@ -9334,6 +9356,40 @@
       "duration_ms": 103495,
       "name": "DOORS LIGHT FUNK - SLOWED",
       "url": "https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR"
+    },
+    {
+      "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Azul Botticher",
+          "url": "https://open.spotify.com/artist/24kxuyk9GrzdLsfOPVh9eh"
+        },
+        {
+          "name": "Karin Zavala",
+          "url": "https://open.spotify.com/artist/67afWZ5rzDaG2uetK538yB"
+        },
+        {
+          "name": "Tatul Bernodat",
+          "url": "https://open.spotify.com/artist/1piD21CWhxmg3uk1tFuO1p"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Dorada - Golden - versi\u00f3n en espa\u00f1ol",
+      "url": "https://open.spotify.com/track/03x2Hzommc7gHp1rqh0xBC"
     },
     {
       "album": {
@@ -12446,7 +12502,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "Fuera del Planeta - Remix",
       "url": "https://open.spotify.com/track/56innU0z9irTs1uEVbbrBA"
@@ -12762,7 +12818,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 198809,
       "name": "Gabriela (with Young Miko) - Young Miko Remix",
       "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
@@ -13894,7 +13950,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
@@ -14572,6 +14628,28 @@
       "duration_ms": 165714,
       "name": "Hoy Me Levante",
       "url": "https://open.spotify.com/track/47XJCOFQ2XDuceQya7xDU1"
+    },
+    {
+      "album": {
+        "name": "Hoy Te Vi",
+        "url": "https://open.spotify.com/album/62FcgUYbVAMW0lQg9l4cu2"
+      },
+      "artists": [
+        {
+          "name": "Sebas Barcenas",
+          "url": "https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk"
+        },
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Hoy Te Vi",
+      "url": "https://open.spotify.com/track/5q22HvTZwC9ARWwH7229LE"
     },
     {
       "album": {
@@ -17288,7 +17366,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 152784,
       "name": "lo que pase",
       "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
@@ -19426,7 +19504,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 144160,
       "name": "Melzinho",
       "url": "https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB"
@@ -20062,7 +20140,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 182626,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/26wpcLqBHEfOL00i1rdbun"
@@ -20998,7 +21076,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 101928,
       "name": "MONTAGEM VOZES TALENTINHO - Super Slowed",
       "url": "https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT"
@@ -23376,7 +23454,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 168979,
       "name": "OJITOS MENTIROSOS",
       "url": "https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe"
@@ -25619,6 +25697,32 @@
     },
     {
       "album": {
+        "name": "Portate Bonito",
+        "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209541,
+      "name": "Portate Bonito",
+      "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
+    },
+    {
+      "album": {
         "name": "Patria Querida",
         "url": "https://open.spotify.com/album/4m93frrsz9hFviG4cqwjyy"
       },
@@ -25670,6 +25774,28 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
+    },
+    {
+      "album": {
+        "name": "Predador de Perereca",
+        "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
+      },
+      "artists": [
+        {
+          "name": "BLOW RECORDS",
+          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186084,
+      "name": "Predador de Perereca",
+      "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     },
     {
       "album": {
@@ -25790,7 +25916,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -26056,6 +26182,24 @@
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
+    },
+    {
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "album": {
@@ -27729,6 +27873,28 @@
     },
     {
       "album": {
+        "name": "Scat Pack",
+        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253658,
+      "name": "Scat Pack",
+      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
+    },
+    {
+      "album": {
         "name": "EVE: ROMANCE",
         "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
       },
@@ -28180,6 +28346,24 @@
       "duration_ms": 257364,
       "name": "SESSIONS #1 Un siglo sin ti, Mil preguntas, \u00c1mame",
       "url": "https://open.spotify.com/track/389CGQ4SL2mE70HcEhAwT4"
+    },
+    {
+      "album": {
+        "name": "SETEADORA",
+        "url": "https://open.spotify.com/album/2hggjr2zzxII9TYGL5sS60"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137012,
+      "name": "SETEADORA",
+      "url": "https://open.spotify.com/track/33YJrpYKyng8yWSdsrRF7L"
     },
     {
       "album": {
@@ -31898,7 +32082,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 263341,
       "name": "Tierra Como Mi Tierra",
       "url": "https://open.spotify.com/track/4pqqdLck9OHnTQP5Mzmdw4"
@@ -34794,7 +34978,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 195750,
       "name": "Vuelve Mami",
       "url": "https://open.spotify.com/track/10kW99HEY6jT0FUwvVAlM9"
@@ -35002,7 +35186,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
@@ -36311,6 +36495,28 @@
     },
     {
       "album": {
+        "name": "YO NO TE OLVIDO",
+        "url": "https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200707,
+      "name": "YO NO TE OLVIDO",
+      "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"
+    },
+    {
+      "album": {
         "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
         "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
       },
@@ -36370,7 +36576,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
@@ -36748,7 +36954,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 243800,
       "name": "\u00bfQu\u00e9 tiene ella que no tenga yo?",
       "url": "https://open.spotify.com/track/0Iv4KPEczcBl3LTNFioq7X"

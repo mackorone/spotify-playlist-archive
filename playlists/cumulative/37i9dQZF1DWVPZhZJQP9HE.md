@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-698 songs - 1 day 16 hr 59 min
+699 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Karuppu Vellai](https://open.spotify.com/track/4ZlCVHcK4OEStP1MOMsddo) | [M.S\. Jones Rupert](https://open.spotify.com/artist/6QmUOk90Rs4SI07CNk7STk) | [Karuppu Vellai](https://open.spotify.com/album/0P2vswYZoJ7vuEbxF2eat6) | 4:10 | 2022-09-05 | 2022-10-07 |
 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-02-02 | 2025-08-21 |
 | [Katthi](https://open.spotify.com/track/6id01ayZW6GNqKTYDvVREN) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Katthi](https://open.spotify.com/album/77Cw0DDVbnzCGmwAWAEO4L) | 4:04 | 2021-12-01 | 2022-12-20 |
+| [Kattumarakaran](https://open.spotify.com/track/66QWHaxLYMzPPQtaz80Dot) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w) | [Kattumarakaran](https://open.spotify.com/album/7dN6UDvteVN2BaX89uPey3) | 4:32 | 2025-09-10 |  |
 | [Kavava](https://open.spotify.com/track/19P25njcvlgFUiFa06EP5k) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kavava](https://open.spotify.com/album/7tw5pqhqtW1mUyhEtAP0sD) | 3:52 | 2025-07-25 | 2025-08-14 |
 | [Kavithai Nee](https://open.spotify.com/track/6UQdMKDC4kmfWo9LWbsWcw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kavithai Nee](https://open.spotify.com/album/5AKSWXaPZJKKbmXwgFsry3) | 3:39 | 2023-06-26 | 2024-10-08 |
 | [Kazhivara](https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:04 | 2023-11-14 | 2024-06-14 |
@@ -522,7 +523,7 @@
 | [Prechana](https://open.spotify.com/track/2IG48bZBAXm0RaHsayvCiT) | [Benji JB](https://open.spotify.com/artist/2yBqYE0jRYcmKs3ujgnPIv) | [Prechana](https://open.spotify.com/album/6nU2noWzthykBfrUOwG0TO) | 4:34 | 2022-10-28 | 2023-01-28 |
 | [Puppy Shame](https://open.spotify.com/track/5Iq2CSFEDfRkngMgDfrLMn) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [MD Musiq](https://open.spotify.com/artist/2xTXq78UpppRzJ8br7kFA1) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 3:02 | 2022-11-28 | 2023-03-09 |
 | [PUTTU PAALKOTTA](https://open.spotify.com/track/1Htso13W3AZZnXs7hx1kGt) | [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [CB Vinith](https://open.spotify.com/artist/48m72S7RT9V2UcFXUfYsjM) | [PUTTU PAALKOTTA](https://open.spotify.com/album/5qjkmxJXGmxUVTB33mRVgA) | 3:29 | 2025-08-13 | 2025-09-06 |
-| [Quarter Gaali](https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd) | [FSPROD Vinu](https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J) | [Quarter Gaali](https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi) | 3:48 | 2025-02-10 |  |
+| [Quarter Gaali](https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd) | [FSPROD Vinu](https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J) | [Quarter Gaali](https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi) | 3:48 | 2025-02-10 | 2025-09-11 |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-11-14 | 2024-07-12 |
 | [Rakkayi](https://open.spotify.com/track/2T1jVCp6093Hb72UZwBgjH) | [Karthik Srinivas](https://open.spotify.com/artist/2K1khAOvY0oyvdGpC25uXn), [Vrusha Balu](https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT), [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o) | [Rakkayi](https://open.spotify.com/album/2D1tC3vqiG9dDdaCxeiDkm) | 3:24 | 2024-11-04 |  |
 | [Rani](https://open.spotify.com/track/7lo9dhL7wstxxHh1PVa5mz) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Anu Shasti](https://open.spotify.com/artist/6DL1Cn0wQfPkVAdYNJiTYK), [Pujalakshmi MP](https://open.spotify.com/artist/3RCStFNMFLjEbO74lM4Ubt), [Sivathmikha R](https://open.spotify.com/artist/6fbai4ydYZ4nTsAypxFxFt) | [Rani](https://open.spotify.com/album/3209TfKuIpETw5Z5kwVRL5) | 5:11 | 2024-11-05 | 2024-11-12 |

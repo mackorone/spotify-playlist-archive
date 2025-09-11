@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,094 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,116 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 55 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
 | 56 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 57 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
-| 58 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
-| 59 | [Isolation](https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [AB III](https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86) | 4:13 |
+| 58 | [Isolation](https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [AB III](https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86) | 4:13 |
+| 59 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 60 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 61 | [Falling Apart](https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:28 |
 | 62 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 72 | [Ce n'est Rien](https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:00 |
 | 73 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
 | 74 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 |
-| 75 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
-| 76 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
+| 75 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
+| 76 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 77 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 |
 | 78 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 |
 | 79 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 96 | [Stingin' Belle](https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G) | 4:25 |
 | 97 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 |
 | 98 | [Hole](https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Hole](https://open.spotify.com/album/60mPQihGw1E84gfBo52vON) | 3:44 |
-| 99 | [Blue Eyes](https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH) | 3:31 |
-| 100 | [California King](https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:53 |
+| 99 | [California King](https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:53 |
+| 100 | [Blue Eyes](https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH) | 3:31 |
 
 Snapshot ID: `AAAAAN6ld1GuPN/wh+/irJORHxsS/VMG`

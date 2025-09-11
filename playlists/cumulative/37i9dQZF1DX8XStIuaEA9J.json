@@ -12075,24 +12075,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "date_added": "2025-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
-    },
-    {
-      "album": {
         "name": "Transpose",
         "url": "https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU"
       },
@@ -21319,6 +21301,24 @@
     },
     {
       "album": {
+        "name": "SILVER",
+        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241426,
+      "name": "\u672a\u77e5",
+      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
+    },
+    {
+      "album": {
         "name": "\u672a\u78ba\u8a8d\u9818\u57df",
         "url": "https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO"
       },
@@ -22991,8 +22991,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "\u30b9\u30ed\u30fc\u30d0\u30e9\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/5PRSMhiyNa2QRjcJRzd04M"
       },
       "artists": [
         {

@@ -1,13 +1,33 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133131,
+  "num_followers": 133134,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADEScP4QFYDUFJS8EzGPoyN",
+  "snapshot_id": "aL9uAAAAAABURGoVJL0OkkCYTaTgusQc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 338253,
+      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+    },
     {
       "added_at": null,
       "album": {
@@ -867,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melhor Amigo",
-        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 335481,
-      "name": "Melhor Amigo",
-      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
       },
@@ -907,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+        "name": "Melhor Amigo",
+        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
       },
       "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+      "duration_ms": 335481,
+      "name": "Melhor Amigo",
+      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
     }
   ],
   "unique_name": "This Is Bruna Karla",

@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 150702,
+  "num_followers": 150718,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABRmV+AsW/jSvmu0/NPbnLt",
+  "snapshot_id": "aL9uAAAAAAC5Y1JLk25RMe83jckjfUAd",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 268560,
       "name": "Temporary Home",
       "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cry Pretty",
         "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 247320,
       "name": "Cry Pretty",
       "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
       "duration_ms": 240266,
       "name": "Don't Forget to Remember Me",
       "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Love Wins",
+      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
     },
     {
       "added_at": null,
@@ -839,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },
       "artists": [
         {
@@ -848,29 +864,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Love Wins",
-      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
+      "duration_ms": 209560,
+      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

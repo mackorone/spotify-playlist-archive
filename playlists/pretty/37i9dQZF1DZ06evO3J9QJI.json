@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAADY3xr37yXEpiowtAC5++m",
+  "snapshot_id": "aL9uAAAAAAC6y9Q//szmCjtZODLAkLQu",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Informal Introduction OG",
-        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
-      },
-      "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 278200,
       "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
       "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Informal Introduction OG",
+        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
     },
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Door (feat. Irv Gotti) - Single",
-        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
-      },
-      "artists": [
-        {
-          "name": "Chunk",
-          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 229643,
-      "name": "Open Door",
-      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 233773,
       "name": "Here We Come",
       "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Door (feat. Irv Gotti) - Single",
+        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
+      },
+      "artists": [
+        {
+          "name": "Chunk",
+          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 229643,
+      "name": "Open Door",
+      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
     },
     {
       "added_at": null,
@@ -284,6 +284,30 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irv Gotti Presents...The Remixes",
+        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
           "name": "Ja Rule",
           "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
         },
@@ -299,30 +323,6 @@
       "duration_ms": 223360,
       "name": "No One Does It Better - Remix",
       "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irv Gotti Presents...The Remixes",
-        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     },
     {
       "added_at": null,

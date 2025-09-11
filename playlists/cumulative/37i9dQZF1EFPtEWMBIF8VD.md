@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-50 songs - 2 hr 27 min
+51 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All Of Me](https://open.spotify.com/track/1puuLNsoHPRSyrMGQjY0wI) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 2:45 | 2025-06-14 |  |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2025-08-16 |  |
 | [Amor Real \- Holiday Song](https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Amor Real \(Holiday Song\)](https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13) | 3:05 | 2025-05-02 |  |
+| [Are You Even Real](https://open.spotify.com/track/4xH1Nq3P7agzhXV2szHMAz) | [James Major](https://open.spotify.com/artist/3UcqDmghLI8TR0MxHPtUDM) | [Are You Even Real](https://open.spotify.com/album/42WlqSCZxm7wtjh1xjSSus) | 2:28 | 2025-09-10 |  |
 | [Are You Even Real \(vocal\)](https://open.spotify.com/track/609aY2KT1JaZFt8t3GJY3F) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Hottest Hits 2025, Vol\. 4 \(Vocal\)](https://open.spotify.com/album/0zJmBl86i6fGPo0zZtgubd) | 2:28 | 2025-07-18 | 2025-07-20 |
 | [Arrivals](https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:05 | 2025-05-02 |  |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2025-05-02 |  |

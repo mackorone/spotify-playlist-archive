@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 700541,
+  "num_followers": 700916,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Dotr",
-        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 236470,
       "name": "Line Of Sight",
       "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Dotr",
+        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -2023,6 +2023,26 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/1Ba3HDw1at35UVxMxLCdCa"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+        }
+      ],
+      "duration_ms": 181867,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/6ksRossV4vKsXntCCZbhaM"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
         "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Remixes]",
         "url": "https://open.spotify.com/album/37fZHLKGbcQE79BhxMCMWc"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 218773,
       "name": "Rockabye (feat. Sean Paul & Anne-Marie) - Thomas Rasmus Chill Mix",
       "url": "https://open.spotify.com/track/122AOGwKIrI40hLGYRwirG"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/1Ba3HDw1at35UVxMxLCdCa"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Kimberly Anne",
-          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
-        }
-      ],
-      "duration_ms": 181867,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/6ksRossV4vKsXntCCZbhaM"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Where I Find My Mind",
         "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 212500,
       "name": "Where I Find My Mind",
       "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
     },
     {
       "added_at": "2025-07-18 04:00:17",

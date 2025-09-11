@@ -16174,7 +16174,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/5CbkZJipjT198pDW8v3k2u"
@@ -16454,7 +16454,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 195197,
       "name": "ikilapsi",
       "url": "https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8"
@@ -21784,7 +21784,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 132203,
       "name": "Korjaa mut",
       "url": "https://open.spotify.com/track/0EQDLfc6rB9uI2RrgJGmSY"
@@ -30416,10 +30416,28 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 149098,
       "name": "Mun Type",
       "url": "https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA"
+    },
+    {
+      "album": {
+        "name": "Mun Type",
+        "url": "https://open.spotify.com/album/1j1N9xQRucnUmjYnFkohjq"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149098,
+      "name": "Mun Type",
+      "url": "https://open.spotify.com/track/4hqXVnRkmcrFlno7TPtX4t"
     },
     {
       "album": {
@@ -38026,7 +38044,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 190339,
       "name": "Rehellisesti",
       "url": "https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3"
@@ -42090,7 +42108,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -43214,7 +43232,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 174016,
       "name": "Sun luokse",
       "url": "https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz"

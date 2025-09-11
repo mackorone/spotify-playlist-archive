@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Shallipopi",
-  "num_followers": 108946,
+  "num_followers": 110079,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
         "name": "Calculate",
         "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 180688,
       "name": "Calculate",
       "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -267,18 +267,18 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 176159,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
       "artists": [
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 154455,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -787,6 +771,22 @@
       "duration_ms": 163520,
       "name": "Cartoon",
       "url": "https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
     },
     {
       "added_at": "2025-09-05 00:01:29",

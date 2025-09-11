@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 
 > Que comience la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,260 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,313 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 10 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
 | 11 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
 | 12 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
-| 13 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
+| 13 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 14 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
-| 15 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
+| 15 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 16 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
 | 17 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 18 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 24 | [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 |
 | 25 | [Luna Llena](https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:25 |
 | 26 | [El Alacrán](https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:02 |
-| 27 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
-| 28 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 27 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 28 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
 | 29 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 30 | [El Niágra En Bicicleta \- Live \- Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 4:31 |
 | 31 | [Muchacho malo](https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Mujer De Fuego](https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ) | 4:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 45 | [Tra Tra](https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 4:06 |
 | 46 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
 | 47 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
-| 48 | [Sólo Te Quiero Amar](https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [No Pares de Sudar](https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh) | 4:11 |
-| 49 | [Linda Eh](https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Originales](https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu) | 4:10 |
+| 48 | [Linda Eh](https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Originales](https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu) | 4:10 |
+| 49 | [Sólo Te Quiero Amar](https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [No Pares de Sudar](https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh) | 4:11 |
 | 50 | [La Ultima Vez](https://open.spotify.com/track/1SUxJZSudxSyzbRvCWKkrp) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Prueba](https://open.spotify.com/album/7ugP0PYeR513RDLnzIaJVE) | 4:18 |
 
 Snapshot ID: `AAAAADrO02pyjElQ67xwURwjwpIGxUL6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,424 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 224 | [Cosmic](https://open.spotify.com/track/2Mf5invtZli9zbBfVQAzre) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:35 |
 | 225 | [FAI2](https://open.spotify.com/track/2QsvwtsfSGFyHDuZD7xzQD) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [FAI2](https://open.spotify.com/album/4oixW61TxurrdJ1ZJ89oVC) | 3:16 |
 | 226 | [in this movie](https://open.spotify.com/track/7beS1GewAHWzHiYoo8SuLY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:56 |
-| 227 | [Learning](https://open.spotify.com/track/3yr5FMBN5gt9V3rIW9smnU) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 1:23 |
-| 228 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 227 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 228 | [Learning](https://open.spotify.com/track/3yr5FMBN5gt9V3rIW9smnU) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 1:23 |
 | 229 | [Teenage Kings](https://open.spotify.com/track/6DIxdwLvsZdehLrXjbtxvG) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:19 |
 | 230 | [Somewhere We Can Be Alone](https://open.spotify.com/track/4JD8cPfPPjkyc8wAeHur1h) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:02 |
 | 231 | [Thula Ungakhlai \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 0:47 |
@@ -322,11 +322,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 312 | [Oh Eh Ya](https://open.spotify.com/track/73nZ9M3SwDco6I7FgaShSw) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:01 |
 | 313 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 314 | [Back to Back](https://open.spotify.com/track/6Pyfl3wwjY3fGRoUqdGRvy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:04 |
-| 315 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
-| 316 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
+| 315 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
+| 316 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
 | 317 | [Timber](https://open.spotify.com/track/63uhHdBTWeqDWTMvvL9WGy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:58 |
 | 318 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 319 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab7y6AAAAADidrC0roXZD3CbZ34R13M+`
+Snapshot ID: `Ab74dAAAAAC/DJaRtRrGQy72KdZqN5lQ`

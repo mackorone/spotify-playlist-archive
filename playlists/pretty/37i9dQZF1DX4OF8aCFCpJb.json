@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70923,
+  "num_followers": 70926,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -615,38 +615,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 fakking fin",
-        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
-      },
-      "artists": [
-        {
-          "name": "Robinholta",
-          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "S\u00e5 fakking fin",
-      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Baluns",
         "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
       },
@@ -667,6 +635,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "S\u00e5 fakking fin",
+        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
+      },
+      "artists": [
+        {
+          "name": "Robinholta",
+          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "S\u00e5 fakking fin",
+      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Min Zina",
         "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "K\u00e4r Och Galen",
         "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 201951,
       "name": "K\u00e4r Och Galen",
       "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "V\u00e5r Dans",
+        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        }
+      ],
+      "duration_ms": 181115,
+      "name": "V\u00e5r Dans",
+      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -735,26 +755,6 @@
       "duration_ms": 162000,
       "name": "Sweet Reggaemusik",
       "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "V\u00e5r Dans",
-        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        }
-      ],
-      "duration_ms": 181115,
-      "name": "V\u00e5r Dans",
-      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
     },
     {
       "added_at": "2024-06-24 11:19:01",

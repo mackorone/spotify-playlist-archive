@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life babe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,124 likes - 95 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,944 likes - 95 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

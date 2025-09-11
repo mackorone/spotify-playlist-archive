@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-236 songs - 13 hr 59 min
+237 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 | 2022-07-15 | 2024-04-19 |
 | [Háblame de Ti](https://open.spotify.com/track/3XJ6Nr3h8aypTqZs8pb4sW) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/3RUfkmD1CjKQqoauJQAAg2) | 3:31 | 2022-06-03 | 2022-07-25 |
 | [Háblame de Ti](https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS) | 3:31 | 2023-04-07 | 2024-04-19 |
+| [Imaginate](https://open.spotify.com/track/0Qcc6tKE93tED3D33RNG3D) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Imaginate](https://open.spotify.com/album/2pMhIGt1AHAycYQBYLpd45) | 3:20 | 2025-09-10 |  |
 | [Imposible Olvidarte](https://open.spotify.com/track/7rDdwH8FRnHHsWZSsLJ7fB) | [Sergio Moran](https://open.spotify.com/artist/5Epal131XDOm4RrZYx6kDQ) | [Como Tú](https://open.spotify.com/album/6CO9vS875lEVjA2HDgyCTL) | 3:20 | 2022-06-03 | 2022-07-29 |
 | [Imposible Olvidarte](https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED) | [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Como Tú](https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2) | 3:20 | 2023-10-27 | 2024-04-19 |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2022-04-15 | 2022-06-22 |
@@ -159,7 +160,7 @@
 | [Olvida Tus Penas](https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Olvida Tus Penas](https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS) | 2:38 | 2022-10-22 | 2022-12-25 |
 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 | 2022-04-15 | 2023-03-12 |
 | [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 | 2023-03-03 | 2024-04-19 |
-| [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2022-04-15 |  |
+| [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2022-04-15 | 2025-09-11 |
 | [Otra Noche](https://open.spotify.com/track/5eZWyVkvdMAJjzu6YrPvYw) | [Diana Rios](https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi), [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Otra Noche](https://open.spotify.com/album/3VAs3vXhocwoGQqZ5doGrI) | 3:09 | 2022-06-17 | 2022-07-10 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/4gZ7QF4fqPd5yau5jAqaod) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más Sin Verte](https://open.spotify.com/album/3kZcFcNcTXvlTIvV4GPmxG) | 4:05 | 2022-04-15 | 2022-07-29 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 | 2022-07-15 | 2024-04-19 |

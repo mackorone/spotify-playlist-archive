@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Murat Boz x Poizi
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,407 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,211 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 42 | [Roman Olur Yazsam Seni](https://open.spotify.com/track/7wSiIzgBSzNFDbVDgxCqeO) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Roman Olur Yazsam Seni](https://open.spotify.com/album/2baiXsRE7e2Koj4LIsbKUp) | 2:52 |
 | 43 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
 | 44 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 |
-| 45 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
-| 46 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 |
+| 45 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 |
+| 46 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
 | 47 | [Vicdanın Affetsin](https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Yaş Hikayesi](https://open.spotify.com/album/5eq3H5KnYcr0uU8VjDe32W) | 3:55 |
 | 48 | [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 |
 | 49 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |

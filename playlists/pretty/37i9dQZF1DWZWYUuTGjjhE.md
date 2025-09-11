@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,048 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,080 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 39 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 |
 | 40 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
 | 41 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
-| 42 | [Soothe Me](https://open.spotify.com/track/3pL0x4IUqemNfzJPn5Hvbi) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 2:32 |
-| 43 | [Take Good Care Of My Baby \- 1990 Remastered](https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Legendary Masters Series](https://open.spotify.com/album/434hmQ0GM7ynBeMZz5BSQ3) | 2:30 |
+| 42 | [Take Good Care Of My Baby \- 1990 Remastered](https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Legendary Masters Series](https://open.spotify.com/album/434hmQ0GM7ynBeMZz5BSQ3) | 2:30 |
+| 43 | [Soothe Me](https://open.spotify.com/track/3pL0x4IUqemNfzJPn5Hvbi) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 2:32 |
 | 44 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Collections](https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o) | 2:16 |
 | 45 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 46 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |

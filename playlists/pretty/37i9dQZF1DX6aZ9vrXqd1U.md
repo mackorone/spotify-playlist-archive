@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,804 likes - 160 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,833 likes - 160 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 159 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 |
 | 160 | [星空のBelieve](https://open.spotify.com/track/3KX9Ky0uBKGYvMNe1l4iWr) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:30 |
 
-Snapshot ID: `AAAAAKASqRHDrby0g6kvrFf5GQ7VJFo6`
+Snapshot ID: `AAAAAA0iW3Q9VtmrIqzAF57SyCXK70uu`

@@ -4906,7 +4906,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -6518,7 +6518,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -11992,7 +11992,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -12010,7 +12010,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -21502,7 +21502,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -22816,7 +22816,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 172500,
       "name": "FEFE",
       "url": "https://open.spotify.com/track/51zs69oUGJThcj66YESf4f"
@@ -47431,6 +47431,24 @@
     },
     {
       "album": {
+        "name": "NUR DAMIT DU WEISST 2",
+        "url": "https://open.spotify.com/album/24Oq72JnkdXeUgxZhKRxFr"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187404,
+      "name": "NIEMALS GEDACHT",
+      "url": "https://open.spotify.com/track/4M7uBg4aK1rXUgRT6bbJPM"
+    },
+    {
+      "album": {
         "name": "Niemals ohne Dich",
         "url": "https://open.spotify.com/album/5pNwswaaTaAEykIh0Tsulj"
       },
@@ -56700,7 +56718,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -59012,7 +59030,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 163306,
       "name": "Simpel",
       "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
@@ -62614,7 +62632,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -64068,6 +64086,24 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
     },
     {
       "album": {
@@ -69460,7 +69496,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/2wlqlfnyf7Hulg2b9E8Qhy"
@@ -69478,7 +69514,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
@@ -73678,7 +73714,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 164000,
       "name": "Yerinde Dur Remix feat. Amo & Aymen",
       "url": "https://open.spotify.com/track/4jsF4LQHWHm1hwWzjExyOg"

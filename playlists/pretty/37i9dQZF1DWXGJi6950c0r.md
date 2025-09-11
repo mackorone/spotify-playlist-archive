@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 
 > Con esfuerzo y dedicación, viene la celebración.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,198 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,220 likes - 30 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 | 27 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
 | 28 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
 | 29 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
-| 30 | [No Se Me Quita \(feat\. Ricky Martin\)](https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:39 |
+| 30 | [No Hay Mal Que Dure](https://open.spotify.com/track/5YExs1OO0ol2fIaRm7WmLN) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 4:52 |
 
 Snapshot ID: `AAAAADY4mew3HkN9iBvSwuVH8S9/E6nD`

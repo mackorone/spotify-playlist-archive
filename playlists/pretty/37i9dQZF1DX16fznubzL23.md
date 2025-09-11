@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,356 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,399 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 4 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 5 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 6 | [Wish You Well](https://open.spotify.com/track/6xvybFCJKQReVBihkbZmQ6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:53 |
-| 7 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
+| 7 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
 | 8 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 |
 | 9 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 |
 | 10 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
 | 11 | [Streets Are Lonely](https://open.spotify.com/track/3JD44UQP4haVSrdqcQ41Np) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:31 |
-| 12 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
+| 12 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
 | 13 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 |
 | 14 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
 | 15 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 24 | [DYANA](https://open.spotify.com/track/31d1jnHHtwc43kLjZDNuRs) | [ERMA](https://open.spotify.com/artist/2PwK5I2RMc0AL6NIRCIUWG) | [DYANA](https://open.spotify.com/album/4uSyCrq4DNXkkgSJNPLDbr) | 3:10 |
 | 25 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
 | 26 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 |
-| 27 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 27 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
 | 28 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 |
 | 29 | [Broken](https://open.spotify.com/track/6ZhNv7bMonkadLlDfFGKYT) | [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Broken](https://open.spotify.com/album/2ufNBHYADGeBl0FYZP07fB) | 2:35 |
 | 30 | [Time Heals](https://open.spotify.com/track/3fVLvjQZZyZRiancZ6dzUv) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [This Feels Like An Interlude](https://open.spotify.com/album/2EVREJV515efDWzMrMbb7I) | 1:41 |
-| 31 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
+| 31 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 32 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 |
 | 33 | [i get it now \(freestyle\)](https://open.spotify.com/track/7CaTLkvYnOVQ2pTEogCAIn) | [Kenduu](https://open.spotify.com/artist/0Qp5PO8qwfBiMBOVnPVRtO) | [i get it now \(freestyle\)](https://open.spotify.com/album/5Y42gnsG8R13NuxWi3FcRL) | 2:52 |
 | 34 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 45 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 | 46 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 47 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
-| 48 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
-| 49 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
+| 48 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
+| 49 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 50 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 
 Snapshot ID: `AAAAAL+1mx5w7b5DNs7NWkrnWX/GPysm`

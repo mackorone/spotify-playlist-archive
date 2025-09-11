@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-96 songs - 4 hr 50 min
+97 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 | 2025-06-26 |  |
 | [Remember Who Your Friends Are](https://open.spotify.com/track/29VjcdQ1UEPZsXKY01IAP4) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Remember Who Your Friends Are](https://open.spotify.com/album/0yDpQYOzjyQPCoEq3qUlu5) | 3:22 | 2024-02-26 |  |
 | [Reputation](https://open.spotify.com/track/2pvFQudKtJTEeiL6FIlqsy) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Reputation](https://open.spotify.com/album/19gLqW0o4f8Ua9l9ajQyxT) | 1:59 | 2024-02-26 |  |
+| [See It To Believe It](https://open.spotify.com/track/0LNNvLrHsgqQheAt2lMrTD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Grace Bowers](https://open.spotify.com/artist/47GDFLxw8IwDw9rSv2xE3u) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 2:47 | 2025-09-10 |  |
 | [Shalalala](https://open.spotify.com/track/3VcxdxVYcWvzvEXY9H3sht) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 4:06 | 2025-08-03 |  |
 | [Shalalala](https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Shalalala](https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu) | 4:06 | 2025-06-01 | 2025-08-04 |
 | [Short Ride](https://open.spotify.com/track/12BQS3wg7tkb6HySjhxDHX) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Short Ride](https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg) | 2:49 | 2024-02-26 |  |

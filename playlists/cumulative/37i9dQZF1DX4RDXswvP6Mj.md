@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: ZEROBASEONE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-804 songs - 1 day 18 hr 59 min
+806 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1 of 9](https://open.spotify.com/track/6DB6p1dVSNWJbmrbF34icS) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-BIRTH](https://open.spotify.com/album/1shJJvoHJtR28Tfd8Ebh07) | 3:19 | 2022-07-05 | 2022-07-08 |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-18 | 2022-04-18 |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-11-10 | 2023-05-10 |
-| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-06 |  |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-06 | 2025-09-11 |
 | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 | 2023-12-14 | 2024-05-10 |
 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 | 2023-05-01 | 2023-05-10 |
 | [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-08 | 2024-10-17 |
@@ -99,6 +99,7 @@
 | [Blind](https://open.spotify.com/track/6WjOw0KjfTtLM9VYm3CFYh) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [BLIND](https://open.spotify.com/album/2HCVBzFcSE6NU7C2HIahqx) | 3:28 | 2022-03-29 | 2022-06-22 |
 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2021-12-29 | 2022-07-29 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-03-24 | 2022-04-15 |
+| [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-09 |  |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-15 | 2024-05-10 |
 | [Bonnie & Clyde](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 2:54 | 2021-12-21 | 2022-07-05 |
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-06-27 | 2022-07-08 |
@@ -200,7 +201,7 @@
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-12 | 2022-07-06 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-05-22 |
 | [Dingga](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dingga](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) | 2:59 | 2021-12-21 | 2022-07-28 |
-| [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 |  |
+| [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 | 2025-09-11 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-19 |  |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-07-21 |
 | [Do 4 Me](https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [2nd EP Album ‘Bipolar Pt.2 Prelude of Love’](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) | 3:19 | 2022-01-18 | 2022-05-04 |
@@ -591,6 +592,7 @@
 | [RESONANCE](https://open.spotify.com/track/20JPjdOTiKAeIQmfiEw9EA) | [NCT 2020](https://open.spotify.com/artist/3IniCa6EijyZ3bsY0eTG3C) | [RESONANCE](https://open.spotify.com/album/6wYyYhNKiJoG0QosSp2qT6) | 5:14 | 2022-01-03 | 2022-07-27 |
 | [Revolution](https://open.spotify.com/track/59jcTRUaGUbKAjjmguiINC) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [DECOHERENCE](https://open.spotify.com/album/5xobv4mIR1C2BiSts7WDxL) | 3:09 | 2022-03-29 | 2022-04-20 |
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-12-21 | 2022-07-11 |
+| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-09 |  |
 | [Right Time](https://open.spotify.com/track/5Omm7MVmBmEOubKzBJTL5O) | [Faver](https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag), [Haz Haus](https://open.spotify.com/artist/1rgWWkw6Ap3pGyihAQY5RW) | [Right Time](https://open.spotify.com/album/1O9sfFQHEFzym8UwG4TpIc) | 3:32 | 2023-05-01 | 2023-05-10 |
 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 | 2023-05-01 | 2023-05-10 |
 | [Ring on my Ears \- Remix Version](https://open.spotify.com/track/59bUzsqrMPP6YtvYz9ypIQ) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:44 | 2022-03-29 | 2022-04-18 |

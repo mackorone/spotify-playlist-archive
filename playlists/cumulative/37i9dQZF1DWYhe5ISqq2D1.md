@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: ニジーズ \(千葉雄喜 + 高岩遼\)
 
-838 songs - 2 day 4 hr 37 min
+838 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Ghost note](https://open.spotify.com/track/0L9dIfyzRkl2jyLZ2rRGKV) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Ghost note](https://open.spotify.com/album/6Cirxnf2jdp0DOFE2fbEwD) | 3:18 | 2025-09-03 | 2025-09-10 |
 | [Gift](https://open.spotify.com/track/5msGVbwscuWoNk8eyHkudH) | [TAON](https://open.spotify.com/artist/3eUvIs2HFht2ZoTtzW21Bu), [WINZ](https://open.spotify.com/artist/5L2lSjQuBPWRPzwQP3FRBn) | [Follow Your Dreams／Gift](https://open.spotify.com/album/0rWtoLmJwxvMyB7DUblLUT) | 4:07 | 2025-04-08 | 2025-04-16 |
 | [Gift](https://open.spotify.com/track/76gAyGyyhDuHh2r4TdHKaP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス / Gift](https://open.spotify.com/album/6kC9BUz7ObZ0PR0IRR1BpC) | 4:02 | 2024-08-06 | 2024-12-25 |
-| [Give Up](https://open.spotify.com/track/7op0FXek2NtIzAn8XWq5UD) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [](https://open.spotify.com/album/null) | 3:08 | 2025-09-09 |  |
+| [Give Up](https://open.spotify.com/track/7op0FXek2NtIzAn8XWq5UD) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Löve](https://open.spotify.com/album/2CDqcAkDKn72rvj9NqUmXD) | 3:08 | 2025-09-09 |  |
 | [Gokurosan](https://open.spotify.com/track/0ksA0l1XkYA4w23XbEAzhq) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Gokurosan](https://open.spotify.com/album/4s4agzNs2OpeU1I47jFED2) | 3:31 | 2025-09-03 |  |
 | [Gomidashi](https://open.spotify.com/track/22E15hgiIHPqVL7boQhpn9) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Fukanzen Routine](https://open.spotify.com/album/2NDmzSeWTlZzUHQTwlH5CM) | 2:46 | 2025-03-25 | 2025-04-02 |
 | [good morning](https://open.spotify.com/track/4SvfH8npN9nXPUHOqA67c5) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 4:04 | 2024-07-09 | 2024-07-17 |
@@ -338,7 +338,6 @@
 | [TOKYO OVERSELL](https://open.spotify.com/track/6xTxLiGaCt67nq6goAsx0C) | [kiyu](https://open.spotify.com/artist/3aEOW8dsrbkcL3iA3w1tXu) | [TOKYO OVERSELL](https://open.spotify.com/album/06MHOhm3XLpEm7d2cgjv7F) | 2:23 | 2025-05-27 | 2025-06-04 |
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 |  |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 2](https://open.spotify.com/track/229F87HvG0tcw4YcWE4jWx) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-09 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
 | [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |
@@ -622,6 +621,7 @@
 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:14 | 2024-07-02 | 2024-12-25 |
 | [伝言](https://open.spotify.com/track/7uUVK6nOtPPazkG8OEtnZs) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [×L×C×A×](https://open.spotify.com/album/7EJIvSY1MzWygiuQn6o02a) | 2:50 | 2025-06-03 | 2025-08-06 |
 | [何色でもない花](https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [何色でもない花](https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk) | 4:03 | 2024-07-02 | 2024-10-09 |
+| [俺に告ぐ](https://open.spotify.com/track/229F87HvG0tcw4YcWE4jWx) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/7KQ4YQYSyE7yIA6qEGbr1b) | 2:51 | 2025-09-09 |  |
 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 | 2025-01-21 | 2025-01-29 |
 | [僕がずっと欲しかったもの](https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [僕がずっと欲しかったもの](https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh) | 3:14 | 2024-11-19 |  |
 | [僕が暮らした街](https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [ドラマ / 僕が暮らした街](https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge) | 4:51 | 2024-12-17 | 2025-01-15 |

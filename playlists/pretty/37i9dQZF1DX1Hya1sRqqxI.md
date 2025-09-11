@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,926 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,705 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 50 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 51 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
 | 52 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
-| 53 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 |
-| 54 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 53 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 54 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 |
 | 55 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
 | 56 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 57 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 87 | [Shining Star](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 2:50 |
 | 88 | [Please Mr\. Postman](https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi) | 2:52 |
 | 89 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
-| 90 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
-| 91 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
+| 90 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
+| 91 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 92 | [One Way Ticket](https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:33 |
 | 93 | [Whatever You Want](https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Whatever You Want](https://open.spotify.com/album/08GCJIrpY1IegMp73501Z2) | 4:03 |
 | 94 | [Nothing From Nothing](https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [The Kids & Me](https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s) | 2:36 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 102 | [You Should Be Dancing](https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) | 4:16 |
 | 103 | [Grease \- From “Grease”](https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:25 |
 | 104 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
-| 105 | [Get Down Tonight \- 2004 Remaster](https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 5:17 |
-| 106 | [Lookin' Out My Back Door](https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:32 |
+| 105 | [Lookin' Out My Back Door](https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:32 |
+| 106 | [Get Down Tonight \- 2004 Remaster](https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 5:17 |
 | 107 | [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 |
 | 108 | [I Want Your Love \- 2018 Remaster](https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 6:53 |
 | 109 | [We Go Together \- From “Grease”](https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:59 |

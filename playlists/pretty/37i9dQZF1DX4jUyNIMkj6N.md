@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,190 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,216 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 18 | [Efiga](https://open.spotify.com/track/6Fz2QyQbSMeqlHxIeQSEHW) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Efiga](https://open.spotify.com/album/79JzZToQOxj2W0x6CpHpkE) | 2:54 |
 | 19 | [Fear/Hope](https://open.spotify.com/track/3hswSBDeVf5DNk9oUKtqlX) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Fear/Hope](https://open.spotify.com/album/2J0y7VtslUf4QRh3IVtr1n) | 2:55 |
 | 20 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
-| 21 | [Walk](https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Walk](https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ) | 3:45 |
+| 21 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
 | 22 | [Goodbye Copenhagen](https://open.spotify.com/track/3kBefkJajtHwVZlKIkkFNk) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Goodbye Copenhagen](https://open.spotify.com/album/1Cd0GDQl1D6689NlHlPdpq) | 4:24 |
 | 23 | [Beautiful Woman](https://open.spotify.com/track/6q7Q8j4oso0rMmJj7xtCzV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/2knOdaW7pPUpALJpNCZS1R) | 3:33 |
 | 24 | [Heights](https://open.spotify.com/track/2YSNNFTzq9vWHCyAZIW6xw) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Heights](https://open.spotify.com/album/1bu1eXnsPH9H98wEtt4d22) | 2:51 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 26 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
 | 27 | [Nothing Without You](https://open.spotify.com/track/0IfYF9evGdkLHxBrY06hsh) | [Under The Elms](https://open.spotify.com/artist/1nWNNhWyvkcuFlwc1Zwswk) | [Nothing Without You](https://open.spotify.com/album/018QUOPoNDwLlFp3VJ7DvE) | 2:59 |
 | 28 | [Morning Sun](https://open.spotify.com/track/1ZxNxL8fk2VlmMz4vQmBUI) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Morning Sun / Waiting Line](https://open.spotify.com/album/7EQkdll2ybgca0Ekd07haO) | 3:31 |
-| 29 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
+| 29 | [Walk](https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Walk](https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ) | 3:45 |
 | 30 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 |
 | 31 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
-| 32 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
-| 33 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 |
-| 34 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 |
+| 32 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 |
+| 33 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 |
+| 34 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
 | 35 | [Carolina](https://open.spotify.com/track/5oztvt7Mt5DpVdyt6EZHFa) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Carolina](https://open.spotify.com/album/3fITHvhSeYtSoYvBGgHn2Z) | 3:20 |
 | 36 | [Hometown](https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg) | [Maren Lein](https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq) | [Hometown](https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7) | 3:01 |
 | 37 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 45 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 46 | [Er du ensom har du meg](https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [venter på noen som venter på noen](https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF) | 3:44 |
 | 47 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
-| 48 | [Tell Me Something True](https://open.spotify.com/track/5Qz3uuOwAOe8gK36J11VUr) | [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [Tell Me Something True](https://open.spotify.com/album/0OZ6vbt3LimtMq25vui5iS) | 3:22 |
-| 49 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
-| 50 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
-| 51 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
+| 48 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
+| 49 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
+| 50 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
+| 51 | [Tell Me Something True](https://open.spotify.com/track/5Qz3uuOwAOe8gK36J11VUr) | [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [Tell Me Something True](https://open.spotify.com/album/0OZ6vbt3LimtMq25vui5iS) | 3:22 |
 | 52 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 53 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
 | 54 | [The One to Leave](https://open.spotify.com/track/3tvfy9kXXUnYlDWe364mLo) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [The One to Leave](https://open.spotify.com/album/5QW5An34TLvlFhDW9s6lmm) | 3:21 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 57 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 58 | [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 |
 | 59 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
-| 60 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 |
+| 60 | [Messing](https://open.spotify.com/track/24jAhrqpAbRKEjJIx8P2X8) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Messing](https://open.spotify.com/album/2k6wAgt4OXJkYLphLhIzMl) | 3:20 |
 
 Snapshot ID: `AAAAAEJON+HvEbieelhVTmcZbAx38smY`

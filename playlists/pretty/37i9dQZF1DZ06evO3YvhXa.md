@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,161 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,258 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 45 | [Butterfly](https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:28 |
 | 46 | [Smoke and Mirrors](https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:29 |
 | 47 | [Feel So Good](https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:21 |
-| 48 | [Revolution 1993](https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 10:17 |
+| 48 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
 | 49 | [King for a Day](https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 3:44 |
-| 50 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
+| 50 | [Revolution 1993](https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 10:17 |
 
-Snapshot ID: `aL4cgAAAAAC0iSPB+dJe9uYFMEtaX1rr`
+Snapshot ID: `aL9uAAAAAACI9jFGVWPupfc0aEmqmVXj`

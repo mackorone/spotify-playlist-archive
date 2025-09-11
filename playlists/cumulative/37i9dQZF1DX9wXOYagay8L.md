@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Sjava
 
-706 songs - 2 day 2 hr 24 min
+709 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Dubai 2.0](https://open.spotify.com/track/7Bi0Rt3lUshalz9sHFunqf) | [Aya Msani](https://open.spotify.com/artist/4msIq1xJndm9p6DE6nBSKB), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dubai 2.0](https://open.spotify.com/album/4h79EIDCtBOnVrH7fO8f5x) | 4:09 | 2024-10-31 |  |
 | [Dzena Mo](https://open.spotify.com/track/251LBGYWRXfpjIp4CAu5zQ) | [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP) | [Dzena Mo](https://open.spotify.com/album/3fqdBLUIhUu2SYASEKpOj9) | 4:06 | 2021-09-02 | 2022-07-29 |
 | [Eazyy](https://open.spotify.com/track/2yRMqyMtirFnaMZbNT2wdH) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:09 | 2022-05-19 | 2022-06-24 |
+| [Ekhaya](https://open.spotify.com/track/4kcGzShtxmGXafBV43ERwo) | [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8) | [Ekhaya](https://open.spotify.com/album/5OxABrpnim9ofHGVeJNymi) | 4:57 | 2025-09-10 |  |
 | [Ekhoneni](https://open.spotify.com/track/1kaz9V1xMm7TB4LtOTxmIq) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [So Much Love](https://open.spotify.com/album/7u102rYCYvzq06KbWGF2oh) | 4:41 | 2024-11-14 | 2025-04-25 |
 | [ekuphileni, \(feat\. J'Something\)](https://open.spotify.com/track/6Ynwhp39hofsG13VYr1qDj) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Mnyama](https://open.spotify.com/album/77hkpxS5qos4EGt4miSjsi) | 3:35 | 2021-08-10 | 2022-01-21 |
 | [Elimpopo](https://open.spotify.com/track/3EBGuc65n2uxHr6NDIYecS) | [Meez](https://open.spotify.com/artist/0bdPNmxnLZb3eNh45oyWCY) | [Elimpopo](https://open.spotify.com/album/30YkoGZzzMPZtPJ3rsUWgd) | 3:12 | 2024-10-24 | 2025-04-25 |
@@ -475,6 +476,7 @@
 | [Ntsoare Moo](https://open.spotify.com/track/0wKUAe9I3MUpkH25xE9Etb) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:27 | 2022-05-26 | 2022-07-01 |
 | [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 | 2022-10-20 | 2022-10-22 |
 | [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 | 2022-10-20 | 2023-02-01 |
+| [Nyamezela](https://open.spotify.com/track/7HOp2ZAWIY5sEyWc26Xbuf) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Nyamezela](https://open.spotify.com/album/4oEUVw5MWzdRmf4mh6Y2qe) | 4:08 | 2025-09-10 |  |
 | [Nzuri](https://open.spotify.com/track/6xdbjH7ic96kZYs7juaNaK) | [Nicey Beatz](https://open.spotify.com/artist/1hR94zIVrhbISkR8MZDZl6) | [Love Don't Cost a Thing](https://open.spotify.com/album/3IAqPeEOFmOe88dBgcoj2Q) | 2:46 | 2024-05-02 | 2024-09-13 |
 | [Nzwakazi](https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t) | [Bonga Kwana](https://open.spotify.com/artist/60Wka611vbfLW4IG31w99x) | [New faces to old problems](https://open.spotify.com/album/6dppQTbTIWldHxHF8zJOAO) | 3:55 | 2021-11-04 | 2022-03-25 |
 | [Oe'Phihlile](https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Lioness Ratang](https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s) | [Oe'Phihlile](https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ) | 6:42 | 2023-08-24 | 2023-10-20 |
@@ -566,6 +568,7 @@
 | [Sondela](https://open.spotify.com/track/3ldMHmSYIoF2jf042vhG02) | [MaNgcobo Khoza](https://open.spotify.com/artist/7KHsDkc4uJCw3ks741fcuD) | [Sondela](https://open.spotify.com/album/5m8hw6BhkuvavhHViEcpQp) | 3:55 | 2023-08-31 | 2023-10-17 |
 | [Sondela](https://open.spotify.com/track/62zPjW7LXGWj290EvQjreU) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Sondela](https://open.spotify.com/album/4YpgSQZCYVdDxC6hcUcWWi) | 2:26 | 2022-06-02 | 2022-06-17 |
 | [Sondela My Love](https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Tee Tee](https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW) | [Sondela My Love](https://open.spotify.com/album/0AQvG3M6bwk3QlGYYDXgO5) | 3:49 | 2022-09-29 | 2023-06-23 |
+| [Sonini](https://open.spotify.com/track/6Dy6xKYYOyEjI2iXFS5lri) | [siinaye](https://open.spotify.com/artist/4iCyRYyLMg9tzqpWRFbQhm), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Sonini](https://open.spotify.com/album/0nTT2okOPit3hf14FwSGtl) | 3:05 | 2025-09-10 |  |
 | [Soul Mate](https://open.spotify.com/track/1lKBbu3JssrtPzOCheN0Jk) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Ka$h CPT](https://open.spotify.com/artist/6lDKeC4Y5FJqEtnJDzrI2b) | [Soul Mate](https://open.spotify.com/album/4DYk4h1vl3CN06fU2qUWug) | 4:49 | 2023-12-08 | 2024-03-02 |
 | [Soze Ndixole](https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Soze Ndixole](https://open.spotify.com/album/1aKY1cEE7H73nw7U1RPs6h) | 4:22 | 2023-08-31 | 2024-04-05 |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-03-31 | 2022-10-14 |

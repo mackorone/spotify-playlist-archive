@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,275 likes - 89 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,334 likes - 89 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 33 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
 | 34 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 35 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
-| 36 | [Soledad](https://open.spotify.com/track/09XteREgKef9CQs8i3IqmI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soledad](https://open.spotify.com/album/34OIE4O8ChYAMav2XQqKQc) | 3:21 |
+| 36 | [Inmortal](https://open.spotify.com/track/6WbGHInGORCidaQqH2wenx) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Inmortal](https://open.spotify.com/album/2rwM15WeZLvxQL5r974CSX) | 3:51 |
 | 37 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 38 | [Oyelo](https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 3:08 |
 | 39 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 40 | [Reggae en el Universo](https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:06 |
 | 41 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
-| 42 | [Inmortal](https://open.spotify.com/track/6WbGHInGORCidaQqH2wenx) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Inmortal](https://open.spotify.com/album/2rwM15WeZLvxQL5r974CSX) | 3:51 |
+| 42 | [Soledad](https://open.spotify.com/track/09XteREgKef9CQs8i3IqmI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soledad](https://open.spotify.com/album/34OIE4O8ChYAMav2XQqKQc) | 3:21 |
 | 43 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 44 | [Cinco](https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [La Misión](https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko) | 3:28 |
 | 45 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 70 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 71 | [Pensando En Ti](https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 5:25 |
 | 72 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 |
-| 73 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
+| 73 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
 | 74 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
-| 75 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
+| 75 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 | 76 | [Se va la luna](https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Se va la luna](https://open.spotify.com/album/7chklGslK4E9zT744tmEy8) | 3:01 |
 | 77 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 78 | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 |

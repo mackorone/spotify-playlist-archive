@@ -1,6 +1,6 @@
 {
   "description": "Renan Oliveira e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 370311,
+  "num_followers": 370436,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,34 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "ISSO \u00c9 TRAP",
+        "url": "https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 291374,
+      "name": "100% MOLHO",
+      "url": "https://open.spotify.com/track/6PMFRImayWVHs9rXA7bOsu"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "Hoje Tem, Hoje Tem",
         "url": "https://open.spotify.com/album/7MMi8E2UzXYAN9HrHpFzgP"
       },
@@ -255,34 +283,6 @@
       "duration_ms": 280615,
       "name": "Hoje Tem, Hoje Tem",
       "url": "https://open.spotify.com/track/3mfJvLwi1VocsfO2VUXuHO"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "ISSO \u00c9 TRAP",
-        "url": "https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 291374,
-      "name": "100% MOLHO",
-      "url": "https://open.spotify.com/track/6PMFRImayWVHs9rXA7bOsu"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 251587,
       "name": "Avan\u00e7ando Muito",
       "url": "https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -583,34 +583,18 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
-        "name": "Chama Seu Pret\u00e3o",
-        "url": "https://open.spotify.com/album/0FufoQZjyeF4551ytSJVtz"
+        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
       },
       "artists": [
         {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 197999,
-      "name": "Chama Seu Pret\u00e3o",
-      "url": "https://open.spotify.com/track/0SAWMyHX9JVgXQ53O8YYjD"
+      "duration_ms": 229131,
+      "name": "Banjo E Bon\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -655,18 +639,34 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
-        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
+        "name": "Chama Seu Pret\u00e3o",
+        "url": "https://open.spotify.com/album/0FufoQZjyeF4551ytSJVtz"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 229131,
-      "name": "Banjo E Bon\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
+      "duration_ms": 197999,
+      "name": "Chama Seu Pret\u00e3o",
+      "url": "https://open.spotify.com/track/0SAWMyHX9JVgXQ53O8YYjD"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-29 00:01:15",
       "album": {
+        "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "duration_ms": 172767,
+      "name": "A Fila Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
-    },
-    {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 172767,
-      "name": "A Fila Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
     },
     {
       "added_at": "2025-08-29 00:01:15",

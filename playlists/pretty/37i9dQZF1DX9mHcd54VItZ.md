@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,604 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,619 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 36 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 37 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |
 | 38 | [SO WHAT, WATCH ME!](https://open.spotify.com/track/1sXGAl6pWO4WIi5eRdy8AG) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [She Said](https://open.spotify.com/album/4e7O5Zccmb7zLaczXyEBtl) | 2:50 |
-| 39 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
+| 39 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 40 | [Comforting Cry](https://open.spotify.com/track/6sscF6aUjV1uGQIOVi6CHN) | [AC/ES](https://open.spotify.com/artist/4DGkZBLTWioZXNVcw8nXOK) | [Comforting Cry](https://open.spotify.com/album/3eSSKtj8YzQLfFFmAdi4PD) | 1:25 |
-| 41 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 41 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
 | 42 | [Agter Die Bar](https://open.spotify.com/track/2K8rNipGQA9QXoH3868aMx) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Agter Die Bar](https://open.spotify.com/album/3HxncO4CVs6qIGHOlzbVO9) | 3:52 |
-| 43 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
-| 44 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 43 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 44 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 45 | [Potchefstroom](https://open.spotify.com/track/5CpHQNWoOSFyDQ6LMvbIkK) | [Vabond](https://open.spotify.com/artist/3rQctTQLgL48c2lu3sOnWC) | [Potchefstroom](https://open.spotify.com/album/6AxBARYkXmA03xZ5A5qQwc) | 4:41 |
-| 46 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
+| 46 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 47 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 48 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 | 49 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,223 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,325 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 53 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
 | 54 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
 | 55 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 |
-| 56 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
-| 57 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
-| 58 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
+| 56 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
+| 57 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
+| 58 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
 | 59 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
 | 60 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
 | 61 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 73 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
 | 74 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 | 75 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
-| 76 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
-| 77 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
+| 76 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
+| 77 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 78 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 |
-| 79 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
-| 80 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
+| 79 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
+| 80 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
 | 81 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 82 | [Post Self](https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 4:28 |
 | 83 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |

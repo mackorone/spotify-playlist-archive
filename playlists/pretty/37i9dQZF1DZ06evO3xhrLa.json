@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 243236,
+  "num_followers": 243260,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACFUZoQ5DgTJ8mqfHtkn1pv",
+  "snapshot_id": "aL9uAAAAAAA+6zOk6T3OgXZ/LYpIVRfF",
   "tracks": [
     {
       "added_at": null,
@@ -391,42 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "I. Pink Toes",
-      "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Spotless Mind",
-      "url": "https://open.spotify.com/track/5Xe4fAuhqxQRSjTWNZLSqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -451,6 +415,42 @@
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "Spotless Mind",
+      "url": "https://open.spotify.com/track/5Xe4fAuhqxQRSjTWNZLSqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "I. Pink Toes",
+      "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -751,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Love",
-        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 223933,
-      "name": "U Move, I Move (feat. Jhene Aiko)",
-      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+      "duration_ms": 178920,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 321826,
       "name": "Comfort Inn Ending (Freestyle)",
       "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "U Move, I Move (feat. Jhene Aiko)",
+      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
     },
     {
       "added_at": null,

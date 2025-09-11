@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 114357,
+  "num_followers": 114401,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,18 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+      "duration_ms": 211352,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -299,18 +291,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 211352,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
-        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 192347,
-      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
-      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 202666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
+        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 192347,
+      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
+      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "El Vago De Los Nike",
+      "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 159182,
       "name": "La Mariconera",
       "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "El Vago De Los Nike",
-      "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
     },
     {
       "added_at": "2024-10-04 19:39:18",

@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With STYXVII, Joshua Lanuarii, UrvTek and more
+> With STYXVII, Joshua Lanuarii, sixwing and more
 
 223 songs - 9 hr 38 min
 

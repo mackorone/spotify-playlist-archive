@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Tramaine Hawkins, Kurt Carr and more
+> With Tramaine Hawkins, Whitney Houston, Sunday Service Choir and more
 
 1,852 songs - 5 day 20 hr 32 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 323839,
+  "num_followers": 324024,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAXCYLn+34AjjoWbpgYxw0W",
+  "snapshot_id": "aL9uAAAAAAC7H3G9L8V7gkcBF9prhSls",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 245920,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Honest (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207030,
-      "name": "Be Honest (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Honest (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207030,
+      "name": "Be Honest (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Way Too Big",
-      "url": "https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf"
     },
     {
       "added_at": null,

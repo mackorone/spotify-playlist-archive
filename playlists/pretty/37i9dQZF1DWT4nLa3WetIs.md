@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > 15 Years of timeless music by Flavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,741 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,859 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 13 | [Shake](https://open.spotify.com/track/7bkxY6grNuQZhpNCvc2Elw) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Blessed](https://open.spotify.com/album/05qKgQRBSBHN2cUUK3Y1GK) | 3:56 |
 | 14 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 15 | [Your Number](https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4) | [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Your Number](https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN) | 3:24 |
-| 16 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
-| 17 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 |
+| 16 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 |
+| 17 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
 | 18 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
 | 19 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
 | 20 | [Game Changer \(Dike\)](https://open.spotify.com/track/5iepOuJAOydv79QOOnelX4) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:42 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 71 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 |
 | 72 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 73 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
-| 74 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
-| 75 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 74 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 75 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
 | 76 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 77 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 | 78 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 |

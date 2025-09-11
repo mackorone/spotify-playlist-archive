@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Io So",
+        "url": "https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219647,
+      "name": "Lo So",
+      "url": "https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP"
+    },
+    {
+      "album": {
         "name": "Londra",
         "url": "https://open.spotify.com/album/3oClS9LXJ5py2WVOS3mAgW"
       },

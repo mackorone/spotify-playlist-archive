@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > We're celebrating the 20th anniversary of Miranda Lambert's hit album "Kerosene" on 2000s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,189 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,579 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 66 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
 | 67 | [Red High Heels](https://open.spotify.com/track/7dFSHwa7BNZvWlOuYsvFpy) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Small Town Girl](https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n) | 3:42 |
 | 68 | [Who Says You Can't Go Home](https://open.spotify.com/track/5439qJTu5mVH9aeriwp03u) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Have A Nice Day](https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P) | 3:50 |
-| 69 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
+| 69 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 70 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 |
-| 71 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
+| 71 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 72 | [Love Like Crazy](https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Love Like Crazy](https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8) | 3:37 |
 | 73 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
 | 74 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 79 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
 | 80 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 81 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
-| 82 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
-| 83 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
+| 82 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
+| 83 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
 | 84 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
 | 85 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
 | 86 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
@@ -111,12 +111,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 101 | [19 Somethin' \- Greatest Hits Version](https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Greatest Hits](https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw) | 3:20 |
 | 102 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 103 | [Smoke Rings In The Dark](https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Smoke Rings In The Dark \(Deluxe Edition\)](https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX) | 4:17 |
-| 104 | [Come A Little Closer](https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Modern Day Drifter](https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG) | 4:41 |
+| 104 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
 | 105 | [Chicks Dig It \- Single Edit](https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [Chris Cagle](https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c) | 3:30 |
 | 106 | [One More Day](https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [One More Day](https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF) | 3:36 |
 | 107 | [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 |
 | 108 | [Mud On the Tires](https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:26 |
-| 109 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
+| 109 | [Come A Little Closer](https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Modern Day Drifter](https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG) | 4:41 |
 | 110 | [Where I Come From](https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:59 |
 | 111 | [Red Ragtop](https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 4:43 |
 | 112 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 122 | [What About Now](https://open.spotify.com/track/1xK2NkwOfT8qZYWPossXGz) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 3:30 |
 | 123 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
 | 124 | [You Look Good In My Shirt](https://open.spotify.com/track/4O4hiA7KxHhzv3s0QIHDlz) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:47 |
-| 125 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
+| 125 | [Love Don't Live Here](https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Lady Antebellum](https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh) | 3:50 |
 
 Snapshot ID: `AAAAAPCptkQ4VwMS77zzNatu4eqAlaJ6`

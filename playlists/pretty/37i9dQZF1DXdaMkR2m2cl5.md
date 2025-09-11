@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,956 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,960 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 12 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
 | 13 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 14 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 |
-| 15 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
-| 16 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
+| 15 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
+| 16 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
 | 17 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
 | 18 | [For Island Fires and Family](https://open.spotify.com/track/6Rk9OCPLRprxsMmYgnU1UF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:45 |
 | 19 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 48 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 |
 | 49 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 50 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
-| 51 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
-| 52 | [Let The Mermaids Flirt With Me](https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 4:26 |
+| 51 | [Let The Mermaids Flirt With Me](https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 4:26 |
+| 52 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
 | 53 | [Not Healthy Anymore](https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Not Healthy Anymore](https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5) | 4:01 |
 | 54 | [Fight](https://open.spotify.com/track/5kzRUNI7QprMwFFhHuNd8t) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 4:15 |
 | 55 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 78 | [Million Miles](https://open.spotify.com/track/3g9NYzvCKYtBUOCPrn1bHG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Million Miles](https://open.spotify.com/album/3zHgggm4WYyFje6OYrszEB) | 3:49 |
 | 79 | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/track/6XmzbSrY7WoUQB99u5Bi6E) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/album/0uuf4GYy7bTBpJEaH5vVDq) | 4:44 |
 | 80 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
-| 81 | [Shouldn't Tell U](https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:02 |
-| 82 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
-| 83 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
-| 84 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
+| 81 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
+| 82 | [Shouldn't Tell U](https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:02 |
+| 83 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
+| 84 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
 | 85 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 86 | [Friday Night Lights](https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Friday Night Lights](https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY) | 3:20 |
 | 87 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |

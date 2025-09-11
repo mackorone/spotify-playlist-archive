@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,100 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,147 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 47 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 |
 | 48 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
 | 49 | [Toot It Up](https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Toot It Up](https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO) | 2:09 |
-| 50 | [Finesse \- Pink Panda Remix; feat\. Cardi B](https://open.spotify.com/track/5LgFeUn0Jx8UVkPlrMbTOc) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/5AVEtKtguEa8sqYhSj3zFW) | 2:28 |
+| 50 | [Bitter \- Narration By Cardi B](https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 4:41 |
 
-Snapshot ID: `aL4cgAAAAACAaw0vOED1mAWYaR+MvxKV`
+Snapshot ID: `aL9uAAAAAACIcFG8DGrsZvN1tn4zfCBq`

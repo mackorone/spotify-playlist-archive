@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },

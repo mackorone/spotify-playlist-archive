@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAD9I+zHiSWmG2XuX0kcuKAW",
+  "snapshot_id": "aL9uAAAAAADoivDXsNc+M0NpZCN96i/V",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Em Up",
+        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Wake Em Up",
+      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 251128,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
     },
     {
       "added_at": null,
@@ -883,30 +883,6 @@
       "duration_ms": 204804,
       "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
       "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        }
-      ],
-      "duration_ms": 170523,
-      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     }
   ],
   "unique_name": "This Is Murda Beatz",

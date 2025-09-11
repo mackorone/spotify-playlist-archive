@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Cover: ニジーズ \(千葉雄喜 + 高岩遼\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,626 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,645 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 25 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 |
 | 26 | [ケロイド](https://open.spotify.com/track/2FSRFNSXohoPSnckzLjXpG) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [ケロイド](https://open.spotify.com/album/5I6rc34LVDF6Edn2uhd9YM) | 4:36 |
 | 27 | [Hallelujah](https://open.spotify.com/track/1oNk83zVN0i2uiVUwe4cEp) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Hallelujah](https://open.spotify.com/album/4MJGp2EjUcTl3wjt4WTjGj) | 2:57 |
-| 28 | [Track 2](https://open.spotify.com/track/229F87HvG0tcw4YcWE4jWx) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [](https://open.spotify.com/album/null) | 0:00 |
+| 28 | [俺に告ぐ](https://open.spotify.com/track/229F87HvG0tcw4YcWE4jWx) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/7KQ4YQYSyE7yIA6qEGbr1b) | 2:51 |
 | 29 | [PUZZLE](https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PUZZLE](https://open.spotify.com/album/7L8b9ERkqqs8F0rtjYrofV) | 4:36 |
 | 30 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
 | 31 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
-| 32 | [Give Up](https://open.spotify.com/track/7op0FXek2NtIzAn8XWq5UD) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [](https://open.spotify.com/album/null) | 3:08 |
+| 32 | [Give Up](https://open.spotify.com/track/7op0FXek2NtIzAn8XWq5UD) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Löve](https://open.spotify.com/album/2CDqcAkDKn72rvj9NqUmXD) | 3:08 |
 | 33 | [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 |
 | 34 | [Daremo Itte Kurenaikara](https://open.spotify.com/track/7szJaAjKjW4tOu88xlz3WW) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Daremo Itte Kurenaikara](https://open.spotify.com/album/5i1Jw40iBZvOU66ujYP3I2) | 5:36 |
 | 35 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |

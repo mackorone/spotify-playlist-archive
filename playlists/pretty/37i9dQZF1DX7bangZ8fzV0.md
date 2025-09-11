@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Wikus Botma
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,969 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,058 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 6 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
 | 7 | [Sterre](https://open.spotify.com/track/7yAksYBNmgbryUSlNUes59) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Sterre](https://open.spotify.com/album/53HLLXYhqMXsHSibVFdYCl) | 3:37 |
 | 8 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
-| 9 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 |
+| 9 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 |
 | 10 | [Rooi Vlag](https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Rooi Vlag](https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45) | 4:06 |
-| 11 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
-| 12 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
+| 11 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 |
+| 12 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
 | 13 | [Pakkie Mal Berou \(Marlboro\)](https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Pakkie Mal Berou \(Marlboro\)](https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1) | 2:46 |
 | 14 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 |
 | 15 | [Winter In Die Kaap](https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Bella](https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh) | [Winter In Die Kaap](https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn) | 3:26 |
-| 16 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 |
-| 17 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 |
-| 18 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 |
-| 19 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
+| 16 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
+| 17 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
+| 18 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 |
+| 19 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 |
 | 20 | [Die Boer Hier Binne My](https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Die Boer Hier Binne My](https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM) | 3:20 |
-| 21 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
-| 22 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 |
+| 21 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 |
+| 22 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
 | 23 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
 | 24 | [Bosveldterapie](https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:14 |
 | 25 | [Insecure Meisies](https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Insecure Meisies](https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34) | 3:11 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 51 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 |
 | 52 | [Net Dans](https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Net Dans](https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf) | 3:48 |
 | 53 | [Die Mooi In Jou](https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Die Mooi In Jou](https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt) | 3:19 |
-| 54 | [Nommer Hou](https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Nommer Hou](https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj) | 3:06 |
-| 55 | [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 |
+| 54 | [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 |
+| 55 | [Nommer Hou](https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Nommer Hou](https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj) | 3:06 |
 | 56 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 |
 | 57 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
 | 58 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 |

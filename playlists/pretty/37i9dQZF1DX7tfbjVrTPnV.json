@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 230340,
+  "num_followers": 230416,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Bring The Family",
-        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 255826,
       "name": "Killing the Blues",
       "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 212840,
       "name": "Gone Gone Gone (Done Moved On)",
       "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Love Wore A Halo (Back Before the War)",
         "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 220360,
       "name": "Love Wore A Halo (Back Before The War)",
       "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Great American Cities",
         "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 278720,
       "name": "Great American Cities",
       "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2024-08-30 04:00:00",

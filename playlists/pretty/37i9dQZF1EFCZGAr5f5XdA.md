@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,216 likes - 212 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,218 likes - 212 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 143 | [Shame](https://open.spotify.com/track/4ay8z23Fa9iJgvGdbBr4Iw) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [II: The Sword](https://open.spotify.com/album/0R1Eo8UVrKyn6Vo0rxFuNP) | 5:49 |
 | 144 | [high water](https://open.spotify.com/track/2c713T3XC5IHrLvSPPVrmZ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:48 |
 | 145 | [Halloween](https://open.spotify.com/track/03RNpvzwMGViDHvZKfbNIo) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:46 |
-| 146 | [How To Live Alone](https://open.spotify.com/track/1ekYi0cXpPWegN8YZ6Gpe7) | [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [How To Live Alone](https://open.spotify.com/album/6GLU0bIY8a32bPuYfvzJ0X) | 3:51 |
-| 147 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 146 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 147 | [How To Live Alone](https://open.spotify.com/track/1ekYi0cXpPWegN8YZ6Gpe7) | [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [How To Live Alone](https://open.spotify.com/album/6GLU0bIY8a32bPuYfvzJ0X) | 3:51 |
 | 148 | [NewYorkSoul](https://open.spotify.com/track/6ohJSdVEIrNnHMKJWKM9vz) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:33 |
 | 149 | [Whistle While I Work It](https://open.spotify.com/track/2u3FkqjDD3yexZhbAq43cI) | [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR), [Wayne Brady](https://open.spotify.com/artist/1wLJTOL6Mz0AOni5EcH4v3), [Toby Turner](https://open.spotify.com/artist/6uwKFlZFf71RsICMeiRuEy), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj), [Mitch Allan](https://open.spotify.com/artist/4FyVOf6dKtcx6tIXdxqOMB) | [Whistle While I Work It](https://open.spotify.com/album/2XnGJqLCNxv31x3UjHh2HY) | 4:06 |
 | 150 | [Obsession \(25/7\) \(feat\. Jon Bellion & Kyle\)](https://open.spotify.com/track/4lfLXOwkXU6nGQ0xqjDugX) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Obsession \(25/7\) \[feat\. Jon Bellion & Kyle\]](https://open.spotify.com/album/5XnbTUrsJkmN7JRjDdNLB2) | 4:00 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 211 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 212 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab7y6AAAAADwnWyyyni6svp1pKCX4/gA`
+Snapshot ID: `Ab74agAAAAAVnVA8rv0OFcYo0eIor4dy`

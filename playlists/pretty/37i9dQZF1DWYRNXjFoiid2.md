@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,448 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,650 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

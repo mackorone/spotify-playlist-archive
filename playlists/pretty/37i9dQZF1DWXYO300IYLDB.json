@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 139107,
+  "num_followers": 139097,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-09-04 15:00:02",
       "album": {
+        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
+    },
+    {
+      "added_at": "2025-09-04 15:00:02",
+      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 249937,
       "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
-    },
-    {
-      "added_at": "2025-09-04 15:00:02",
-      "album": {
-        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
     },
     {
       "added_at": "2025-09-04 15:00:02",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-04 15:00:02",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
-      },
-      "artists": [
-        {
-          "name": "Colder Shoulders",
-          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
-        }
-      ],
-      "duration_ms": 199595,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
-    },
-    {
-      "added_at": "2025-09-04 15:00:02",
-      "album": {
         "name": "\u5287\u5834",
         "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 353960,
       "name": "\u591c\u306e\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
+    },
+    {
+      "added_at": "2025-09-04 15:00:02",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
+      },
+      "artists": [
+        {
+          "name": "Colder Shoulders",
+          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
+        }
+      ],
+      "duration_ms": 199595,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
     },
     {
       "added_at": "2025-09-04 15:00:02",

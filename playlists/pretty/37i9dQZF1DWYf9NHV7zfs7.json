@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Luciano Pereyra & David Bisbal",
-  "num_followers": 66959,
+  "num_followers": 67014,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlROE4hslU7wvgjGq2azUrB9CtF",
+  "snapshot_id": "AAAAAA9aT/xy4oLtW2XnDDyKIGl2+ama",
   "tracks": [
     {
       "added_at": "2025-08-26 14:03:23",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
+        "name": "MEJOR QUE VOS",
+        "url": "https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 166794,
+      "name": "MEJOR QUE VOS",
+      "url": "https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
         "name": "WE PRAY (TINI Version)",
         "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 233406,
       "name": "WE PRAY - (TINI Version)",
       "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
-        "name": "MEJOR QUE VOS",
-        "url": "https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 166794,
-      "name": "MEJOR QUE VOS",
-      "url": "https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
-        "name": "Hola Mundo",
-        "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Tus Horas M\u00e1gicas",
-      "url": "https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
         "name": "Tarde o Temprano",
         "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 213127,
       "name": "Tarde o Temprano",
       "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
+        "name": "Hola Mundo",
+        "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Tus Horas M\u00e1gicas",
+      "url": "https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Acaramelao",
-      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 208790,
       "name": "Llamame",
       "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Acaramelao",
+      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
     },
     {
       "added_at": "2025-08-26 14:03:23",

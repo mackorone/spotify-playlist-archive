@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/4cZdcHdODTbgZqR4A10CyQ"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/0AoNT5b3YYf28IIq6pGojV"
+    },
+    {
+      "album": {
         "name": "From Under The Cork Tree Limited Tour Edition",
         "url": "https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q"
       },

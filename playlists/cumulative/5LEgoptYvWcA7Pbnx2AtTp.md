@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-177 songs - 10 hr 0 min
+178 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2024-10-09 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-09-17 |  |
 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 | 2025-03-07 |  |
+| [Daisies](https://open.spotify.com/track/0AoNT5b3YYf28IIq6pGojV) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Daisies](https://open.spotify.com/album/4cZdcHdODTbgZqR4A10CyQ) | 2:18 | 2025-09-10 |  |
 | [Dance, Dance](https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:00 | 2024-10-31 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2024-09-19 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-23 |  |

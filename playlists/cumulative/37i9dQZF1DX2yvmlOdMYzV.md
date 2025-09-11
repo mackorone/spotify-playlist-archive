@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,032 songs - 2 day 8 hr 18 min
+1,033 songs - 2 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 | 2023-03-25 |
 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 | 2025-03-21 |  |
 | [Love Frequency \- Stripped](https://open.spotify.com/track/0M1SoHpp1zyZdnVjUEjw3V) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency \(Stripped\)](https://open.spotify.com/album/77rhrA74OSgHndy27dGO50) | 3:12 | 2023-06-02 | 2023-06-10 |
-| [Love is Gold](https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Love is Gold](https://open.spotify.com/album/23FtRtJtNUL9EVSiIyPGIr) | 4:10 | 2025-02-14 |  |
+| [Love is Gold](https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Love is Gold](https://open.spotify.com/album/23FtRtJtNUL9EVSiIyPGIr) | 4:10 | 2025-02-14 | 2025-09-11 |
 | [Love Like This](https://open.spotify.com/track/17dfAG2gJ7uUInYV2scPqx) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Love Like This](https://open.spotify.com/album/30CXSVzwIiMDBdVNewXMWo) | 3:22 | 2025-03-14 | 2025-03-30 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 | 2023-12-08 |
 | [love me right](https://open.spotify.com/track/6lkmMyXRTDJv7Gbn0LNGUJ) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [love me right](https://open.spotify.com/album/0wt3flcNvffezUNipKm0Z6) | 2:37 | 2024-10-26 |  |
@@ -644,6 +644,7 @@
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-26 | 2024-10-23 |
 | [Not Your Girl](https://open.spotify.com/track/22MUtl7IfbQKsBrrv89eS6) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV) | [Not Your Girl](https://open.spotify.com/album/29DoT5v6LHkbFtmX9z7KEm) | 3:43 | 2025-07-25 |  |
 | [note to self](https://open.spotify.com/track/6ykHRcw2cA8mA79WxkVx0M) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [SENSES VOL\. 2](https://open.spotify.com/album/205AETirDQxPoq8rmDnAFm) | 2:36 | 2024-11-22 | 2025-01-14 |
+| [Nothing Better](https://open.spotify.com/track/2odCr4E6CiL2kkcy8EMUeg) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Decisions](https://open.spotify.com/album/6BXhsVJP6Lus1iXf5Z7P1M) | 2:24 | 2024-03-29 |  |
 | [Nothing Sweeter](https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Nothing Sweeter](https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc) | 4:25 | 2024-01-19 |  |
 | [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 | 2023-06-30 | 2023-08-26 |
 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 | 2024-03-29 | 2024-08-24 |

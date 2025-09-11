@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85385,
+  "num_followers": 85404,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "MJ",
         "url": "https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 177600,
       "name": "Despu\u00e9s De La 1",
       "url": "https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192751,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 209492,
       "name": "POR QU\u00c9 SER\u00c1",
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192751,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 186090,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 165058,
-      "name": "The Man He Sees in Me",
-      "url": "https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma",
-      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Wonka (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 187997,
       "name": "Pure Imagination (from \"Wonka\")",
       "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma",
+      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1739,18 +1739,26 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/1L8ObNUDCh7k6GwDIbfx9Q"
     }
   ],
   "unique_name": "2024 Billboard Music Awards Official Playlist",

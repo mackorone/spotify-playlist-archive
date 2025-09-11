@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,413 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,469 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 9 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 10 | [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 |
 | 11 | [Damage Case](https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 3:02 |
-| 12 | [Motörhead](https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 3:10 |
-| 13 | [Iron Fist](https://open.spotify.com/track/5GLfSOVpSKwPBlqfjGqvfy) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist](https://open.spotify.com/album/728HEEgXa98wouqC8nOdQR) | 2:51 |
+| 12 | [Iron Fist](https://open.spotify.com/track/5GLfSOVpSKwPBlqfjGqvfy) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist](https://open.spotify.com/album/728HEEgXa98wouqC8nOdQR) | 2:51 |
+| 13 | [Motörhead](https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 3:10 |
 | 14 | [Bomber](https://open.spotify.com/track/5YxehSAZjBMcCIUlxGPit9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:40 |
 | 15 | [Love Me Like a Reptile](https://open.spotify.com/track/6X072JM07roPKz9TJnYfWw) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 3:21 |
 | 16 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Vibrator \- The Manticore Tapes](https://open.spotify.com/track/3MWH5l5Y2zurMuiErRRcCm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 3:26 |
 | 50 | [\(I Won't\) Pay Your Price](https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:56 |
 
-Snapshot ID: `aL4cgAAAAACNgLsCN2lFGUy0P7qLBWgE`
+Snapshot ID: `aL9uAAAAAADBPhVVxvfPPGT9Puses33a`

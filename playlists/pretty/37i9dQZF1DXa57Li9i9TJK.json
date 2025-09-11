@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Yuridia y Majo Aguilar en portada ",
-  "num_followers": 27210,
+  "num_followers": 27311,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Hecha Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -247,26 +247,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -299,6 +279,22 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -319,18 +315,22 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -391,22 +391,18 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 209492,
-      "name": "POR QU\u00c9 SER\u00c1",
-      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+      "duration_ms": 190640,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -423,22 +419,6 @@
       "duration_ms": 186280,
       "name": "Se Muri\u00f3 De Amor",
       "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -487,6 +467,26 @@
       "duration_ms": 273008,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 209492,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "Te Atrapar\u00e9 Bandido",
         "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 183253,
       "name": "YCQVM",
       "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 204640,
       "name": "La Peinada (La Peinadita)",
       "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "16 Reales hits",
         "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2025-07-18 06:00:08",

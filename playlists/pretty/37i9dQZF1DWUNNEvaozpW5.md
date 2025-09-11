@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito y Fitipaldis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,140 likes - 120 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,695 likes - 120 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 35 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 |
 | 36 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 |
 | 37 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
-| 38 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
+| 38 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
 | 39 | [Acabo de llegar](https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 6:15 |
 | 40 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
-| 41 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
+| 41 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 42 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
 | 43 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 |
 | 44 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 81 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
 | 82 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 83 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
-| 84 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
+| 84 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
 | 85 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
-| 86 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
+| 86 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
 | 87 | [Rock and Roll Star \(feat\. Leiva, Rubén Pozo\)](https://open.spotify.com/track/55tIfzietfTRuW2FxcnRJL) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [Rock and Roll Star \(feat\. Leiva, Rubén Pozo\)](https://open.spotify.com/album/79wJ11Eer0byUhxweqoqae) | 4:32 |
 | 88 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 89 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 |

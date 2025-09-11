@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: マカロニえんぴつ
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,490 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,586 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 35 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 |
 | 36 | [愛のプラネット \-PoM remix\- feat\. eill, idom, dawgss](https://open.spotify.com/track/7HpKo1nbiPTEghGA1NyH2s) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [愛のプラネット \-PoM remix\- feat\. eill, idom, dawgss](https://open.spotify.com/album/1JCpKSANM3FGSWvitRinj8) | 4:49 |
 | 37 | [八月の花火](https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [八月の花火](https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr) | 4:06 |
-| 38 | [赤い車](https://open.spotify.com/track/3CMAsyPpqb0qvYHWJJRWXd) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [](https://open.spotify.com/album/null) | 2:57 |
+| 38 | [赤い車](https://open.spotify.com/track/3CMAsyPpqb0qvYHWJJRWXd) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [スローバラード](https://open.spotify.com/album/5PRSMhiyNa2QRjcJRzd04M) | 2:57 |
 | 39 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 |
 | 40 | [delulu](https://open.spotify.com/track/3zhCjzd8GO8vy4724tLTk7) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [delulu](https://open.spotify.com/album/7kJLxc5uuoBEJIGrijIpSA) | 2:45 |
 | 41 | [君がいない夏](https://open.spotify.com/track/0qeYpnxFl8W5mnLDh4bc1K) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [君がいない夏](https://open.spotify.com/album/0d5ads9pTO5nhZKTxegmGX) | 2:38 |
-| 42 | [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 42 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
 | 43 | [Take Me Home](https://open.spotify.com/track/3GKE5mjJZyISiK9wqEQtiU) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Take Me Home](https://open.spotify.com/album/3ijF5MCsS0AfHoIHeAHJpt) | 3:30 |
 | 44 | [あの夏が癖になっていく](https://open.spotify.com/track/3ZGqqgN5GYvsM130KCZ0HN) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [あの夏が癖になっていく](https://open.spotify.com/album/5xJRwQhyaqcfjkcEDmroO9) | 3:23 |
 | 45 | [形](https://open.spotify.com/track/0m5ZpQtTjdoH4eXeygFRFZ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形](https://open.spotify.com/album/2lZN1RhKVBH5DkmelKX3Aw) | 3:20 |

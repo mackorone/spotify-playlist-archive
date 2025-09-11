@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-139 songs - 9 hr 57 min
+140 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [If I Was The Priest](https://open.spotify.com/track/23iSWEI5GZAGxHcJKYCuiC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 6:50 | 2022-01-11 | 2022-03-01 |
 | [Janey Needs A Shooter](https://open.spotify.com/track/3S2bActYBlskH5gtanFIMO) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 6:49 | 2022-01-11 | 2022-05-16 |
 | [Jersey Girl \- Live at Meadowlands Arena, E\. Rutherford, NJ \- July 1981](https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band Live 1975\-85](https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD) | 6:30 | 2022-01-11 | 2025-05-29 |
+| [Johnny 99](https://open.spotify.com/track/2ohcpZDvcIRdCE3lWxu6Tc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:38 | 2025-09-11 |  |
 | [Johnny Bye Bye](https://open.spotify.com/track/728HtlfF9etA4QJu4MzBbD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 2:48 | 2025-07-02 | 2025-08-17 |
 | [Jungleland](https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 9:35 | 2022-01-11 | 2022-11-14 |
 | [Land of Hope and Dreams \- Live in Manchester, May 14, 2025](https://open.spotify.com/track/6WAp3KTjx6741b4K9ygzL5) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Land Of Hope & Dreams](https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq) | 7:27 | 2025-05-23 |  |
@@ -109,7 +110,7 @@
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2023-12-13 | 2023-12-30 |
 | [Sea Of Heartbreak](https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The List](https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb) | 3:06 | 2022-10-12 |  |
 | [Secret Garden](https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:26 | 2022-01-11 |  |
-| [Seven Tears](https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 1:51 | 2025-07-01 |  |
+| [Seven Tears](https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 1:51 | 2025-07-01 | 2025-09-11 |
 | [She Don't Love Me Now](https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Don't Love Me Now](https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn) | 3:27 | 2024-08-30 | 2024-11-22 |
 | [She's the One](https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:30 | 2023-05-29 |  |
 | [Sherry Darling](https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:03 | 2022-01-11 | 2024-10-05 |

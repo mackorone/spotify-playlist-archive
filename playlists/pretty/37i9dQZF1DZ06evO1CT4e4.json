@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9302,
+  "num_followers": 9327,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACOy1PdSPesM96+07eg0pEF",
+  "snapshot_id": "aL9uAAAAAACuVtPtRWmqik5+lmkG8Ir8",
   "tracks": [
     {
       "added_at": null,
@@ -135,54 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Adam's Lament",
-        "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        }
-      ],
-      "duration_ms": 128053,
-      "name": "Estonian Lullaby (Version for Female Choir & Strings)",
-      "url": "https://open.spotify.com/track/6biheP4A6BoSbXV6J3sFtB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Alina",
-        "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alexander Malter",
-          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
-        }
-      ],
-      "duration_ms": 647973,
-      "name": "F\u00fcr Alina - Extended Version",
-      "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -207,6 +159,54 @@
       "duration_ms": 152546,
       "name": "Veni creator",
       "url": "https://open.spotify.com/track/7vU6uArKT6ONVogJQ6tl2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Alina",
+        "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alexander Malter",
+          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
+        }
+      ],
+      "duration_ms": 647973,
+      "name": "F\u00fcr Alina - Extended Version",
+      "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Adam's Lament",
+        "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        }
+      ],
+      "duration_ms": 128053,
+      "name": "Estonian Lullaby (Version for Female Choir & Strings)",
+      "url": "https://open.spotify.com/track/6biheP4A6BoSbXV6J3sFtB"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 401800,
-      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: Mommy\u2019s Kiss",
         "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 71613,
       "name": "Mommy\u2019s Kiss",
       "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 401800,
+      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
       "artists": [
         {
@@ -452,17 +452,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 374506,
-      "name": "Cantus In Memoriam Benjamin Britten",
-      "url": "https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4"
+      "duration_ms": 59705,
+      "name": "7 Magnificat-Antiphons: No. 3, O Spross aus Isais Wurzel",
+      "url": "https://open.spotify.com/track/7sL5mNRt7sHbYCgjRjeuiZ"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
       "artists": [
         {
@@ -544,23 +544,23 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
         }
       ],
-      "duration_ms": 432626,
-      "name": "Kanon Pokajanen: Ode IV",
-      "url": "https://open.spotify.com/track/1pfJFjjsDj99ZyRSUvLlWA"
+      "duration_ms": 374506,
+      "name": "Cantus In Memoriam Benjamin Britten",
+      "url": "https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Adam's Lament",
-        "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
       "artists": [
         {
@@ -568,21 +568,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Sinfonietta Riga",
-          "url": "https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        },
-        {
-          "name": "Latvian Radio Choir",
-          "url": "https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Beatus Petronius",
-      "url": "https://open.spotify.com/track/7aMuMFqF717QGbMdk9cxbS"
+      "duration_ms": 141731,
+      "name": "7 Magnificat-Antiphons: No. 5, O Morgenstern",
+      "url": "https://open.spotify.com/track/3JYiZbWHhodannmHLo2TtF"
     },
     {
       "added_at": null,
@@ -631,6 +627,82 @@
       "duration_ms": 92146,
       "name": "Drei Hirtenkinder aus F\u00e1tima",
       "url": "https://open.spotify.com/track/2Z8H9xYg27MLnviLZ1uMfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 432626,
+      "name": "Kanon Pokajanen: Ode IV",
+      "url": "https://open.spotify.com/track/1pfJFjjsDj99ZyRSUvLlWA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 129422,
+      "name": "7 Magnificat-Antiphons: No. 4, O Schl\u00fcssel Davids",
+      "url": "https://open.spotify.com/track/6ScEjmKUJEkNLflT3wd6Kr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Adam's Lament",
+        "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Sinfonietta Riga",
+          "url": "https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        },
+        {
+          "name": "Latvian Radio Choir",
+          "url": "https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Beatus Petronius",
+      "url": "https://open.spotify.com/track/7aMuMFqF717QGbMdk9cxbS"
     },
     {
       "added_at": null,
@@ -700,9 +772,9 @@
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 59705,
-      "name": "7 Magnificat-Antiphons: No. 3, O Spross aus Isais Wurzel",
-      "url": "https://open.spotify.com/track/7sL5mNRt7sHbYCgjRjeuiZ"
+      "duration_ms": 79262,
+      "name": "7 Magnificat-Antiphons: No. 1, O Weisheit",
+      "url": "https://open.spotify.com/track/7sCaSMmXKuYNICfazqkXX6"
     },
     {
       "added_at": null,
@@ -731,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Summa",
-      "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -779,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
       "artists": [
         {
@@ -788,273 +836,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
         }
       ],
-      "duration_ms": 141731,
-      "name": "7 Magnificat-Antiphons: No. 5, O Morgenstern",
-      "url": "https://open.spotify.com/track/3JYiZbWHhodannmHLo2TtF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 348080,
-      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
-      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 498573,
-      "name": "Kanon Pokajanen: Ode VI",
-      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Alleluia-Tropus",
-      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 129422,
-      "name": "7 Magnificat-Antiphons: No. 4, O Schl\u00fcssel Davids",
-      "url": "https://open.spotify.com/track/6ScEjmKUJEkNLflT3wd6Kr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes of Time",
-        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Lisa Batiashvili",
-          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 621160,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Kanon Pokajanen: Ikos",
-      "url": "https://open.spotify.com/track/0pHBH03L7OiV5kw7roU05Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: Spiegel im Spiegel (Version for Viola and Piano)",
-        "url": "https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 750080,
-      "name": "Spiegel im Spiegel (Version for Viola and Piano)",
-      "url": "https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 79262,
-      "name": "7 Magnificat-Antiphons: No. 1, O Weisheit",
-      "url": "https://open.spotify.com/track/7sCaSMmXKuYNICfazqkXX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Lamentate",
-        "url": "https://open.spotify.com/album/5hoi18yH9fYpD0qr3zUk1N"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "The Hilliard Ensemble",
-          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
-        }
-      ],
-      "duration_ms": 340453,
-      "name": "Da Pacem Domine",
-      "url": "https://open.spotify.com/track/6iDlSzDMjsMkJp15IUGtRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: F\u00fcr Alina (Version 1)",
-        "url": "https://open.spotify.com/album/4FCrfEaGJaKw4sJMmEnM9C"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "F\u00fcr Alina - Version 1",
-      "url": "https://open.spotify.com/track/5bvPCG6m69SnwPpbef4kHs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Adam's Lament",
-        "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Sinfonietta Riga",
-          "url": "https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Alleluia-Tropus",
-      "url": "https://open.spotify.com/track/0N23EEKEVK49RidY4j4OXY"
+      "duration_ms": 300360,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
     },
     {
       "added_at": null,
@@ -1083,24 +875,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
       "artists": [
         {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 332839,
-      "name": "Silouans Song",
-      "url": "https://open.spotify.com/track/4q1ZdfNAC0gOAQSOj65ux0"
+      "duration_ms": 348080,
+      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
+      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Litany",
-        "url": "https://open.spotify.com/album/0LrwnxYfBcI4YssOm3KY8t"
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
       "artists": [
         {
@@ -1108,17 +908,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Saulius Sondeckis",
-          "url": "https://open.spotify.com/artist/2mHCS8PPaV7cAmT3ew8qHY"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "Lithuanian Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/0vFb3LsJFAOgLo3s8XI4B2"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 405266,
-      "name": "Psalom (Version for String Orchestra)",
-      "url": "https://open.spotify.com/track/1jwLPUk9i9mpefPhIUFnh6"
+      "duration_ms": 185240,
+      "name": "Alleluia-Tropus",
+      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
     },
     {
       "added_at": null,
@@ -1140,9 +940,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 479533,
-      "name": "Kanon Pokajanen: Ode V",
-      "url": "https://open.spotify.com/track/16g7VkScYmSC2bAqRoDaRw"
+      "duration_ms": 498573,
+      "name": "Kanon Pokajanen: Ode VI",
+      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
     },
     {
       "added_at": null,
@@ -1175,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+        "name": "Echoes of Time",
+        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
       },
       "artists": [
         {
@@ -1184,17 +984,217 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+          "name": "Lisa Batiashvili",
+          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 621160,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Spiegel im Spiegel (Version for Viola and Piano)",
+        "url": "https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "duration_ms": 750080,
+      "name": "Spiegel im Spiegel (Version for Viola and Piano)",
+      "url": "https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
         },
         {
           "name": "T\u00f5nu Kaljuste",
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 287373,
-      "name": "Symphony No. 2: III",
-      "url": "https://open.spotify.com/track/4C9DIuIqyXlPEyV7Z56KxH"
+      "duration_ms": 177640,
+      "name": "Kanon Pokajanen: Ikos",
+      "url": "https://open.spotify.com/track/0pHBH03L7OiV5kw7roU05Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Lamentate",
+        "url": "https://open.spotify.com/album/5hoi18yH9fYpD0qr3zUk1N"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+        }
+      ],
+      "duration_ms": 340453,
+      "name": "Da Pacem Domine",
+      "url": "https://open.spotify.com/track/6iDlSzDMjsMkJp15IUGtRj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Adam's Lament",
+        "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Sinfonietta Riga",
+          "url": "https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Alleluia-Tropus",
+      "url": "https://open.spotify.com/track/0N23EEKEVK49RidY4j4OXY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: F\u00fcr Alina (Version 1)",
+        "url": "https://open.spotify.com/album/4FCrfEaGJaKw4sJMmEnM9C"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "F\u00fcr Alina - Version 1",
+      "url": "https://open.spotify.com/track/5bvPCG6m69SnwPpbef4kHs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Litany",
+        "url": "https://open.spotify.com/album/0LrwnxYfBcI4YssOm3KY8t"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Saulius Sondeckis",
+          "url": "https://open.spotify.com/artist/2mHCS8PPaV7cAmT3ew8qHY"
+        },
+        {
+          "name": "Lithuanian Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/0vFb3LsJFAOgLo3s8XI4B2"
+        }
+      ],
+      "duration_ms": 405266,
+      "name": "Psalom (Version for String Orchestra)",
+      "url": "https://open.spotify.com/track/1jwLPUk9i9mpefPhIUFnh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 332839,
+      "name": "Silouans Song",
+      "url": "https://open.spotify.com/track/4q1ZdfNAC0gOAQSOj65ux0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 479533,
+      "name": "Kanon Pokajanen: Ode V",
+      "url": "https://open.spotify.com/track/16g7VkScYmSC2bAqRoDaRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Choral Music",
+        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
     }
   ],
   "unique_name": "This Is Arvo P\u00e4rt (2)",

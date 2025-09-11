@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,397 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,591 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 17 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
 | 18 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
 | 19 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
-| 20 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
-| 21 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
+| 20 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
+| 21 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 22 | [Sexy to Someone](https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:27 |
 | 23 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 |
 | 24 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 33 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 |
 | 34 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 |
 | 35 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
-| 36 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
-| 37 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 |
+| 36 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 |
+| 37 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 38 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 39 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |
 | 40 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 69 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
 | 70 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
 | 71 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
-| 72 | [born to love you](https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [born to love you](https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio) | 3:38 |
-| 73 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 |
-| 74 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
-| 75 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 |
+| 72 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 |
+| 73 | [born to love you](https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [born to love you](https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio) | 3:38 |
+| 74 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 |
+| 75 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
 
 Snapshot ID: `AAAAADU7fH8YouwkQ1x8M8OsRdncKU25`

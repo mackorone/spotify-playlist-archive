@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: Yll Limani
+> Switzerland's biggest hits right now\. Cover: Morad
 
-291 songs - 14 hr 27 min
+292 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-07-02 | 2024-07-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-30 | 2025-06-04 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-28 | 2025-03-13 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-10 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-13 | 2025-01-29 |
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-03 |  |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-06 |  |
@@ -279,7 +280,7 @@
 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-03-12 |  |
 | [Wackelkontakt](https://open.spotify.com/track/2eAU0Oij4NkduxThjzhCI6) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/6y14O5EK4bjAv08QETxoqQ) | 2:48 | 2025-01-28 | 2025-01-31 |
 | [Wackelkontakt](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB) | 2:48 | 2025-01-30 | 2025-03-19 |
-| [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-04-23 |  |
+| [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-04-23 | 2025-09-11 |
 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-21 | 2025-07-10 |
 | [We Back](https://open.spotify.com/track/3gJ5MztzDnZ9x7suAqN7es) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [We Back](https://open.spotify.com/album/3NseyZLNGVlcyUrIcGkwwt) | 2:41 | 2025-06-03 | 2025-06-25 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-27 | 2024-12-31 |

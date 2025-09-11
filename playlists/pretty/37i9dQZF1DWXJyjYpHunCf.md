@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Yana
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,393 likes - 117 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,373 likes - 117 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Falsa Ilusion",
+      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
+    },
+    {
+      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },

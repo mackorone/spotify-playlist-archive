@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92256,
+  "num_followers": 92268,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADE70yj+bPknE593npVyCtl",
+  "snapshot_id": "aL9uAAAAAABpsYcFMuaiHnQZRNNzx8T+",
   "tracks": [
     {
       "added_at": null,
@@ -52,15 +52,15 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 189733,
-      "name": "The Separation of Church and Skate",
-      "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Dinosaurs Will Die",
-      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
+      "duration_ms": 129666,
+      "name": "Seeing Double at the Triple Rock",
+      "url": "https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD"
     },
     {
       "added_at": null,
@@ -116,15 +116,15 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Idiots Are Taking Over",
-      "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 129666,
-      "name": "Seeing Double at the Triple Rock",
-      "url": "https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD"
+      "duration_ms": 178573,
+      "name": "Dinosaurs Will Die",
+      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 126026,
-      "name": "Perfect Government",
-      "url": "https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
         "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 138840,
       "name": "Drugs Are Good",
       "url": "https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 126026,
+      "name": "Perfect Government",
+      "url": "https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 150288,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 142466,
       "name": "Liza And Louise",
       "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 150288,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ribbed",
         "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 166333,
       "name": "Soul Doubt",
       "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "The Moron Brothers",
-      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 58000,
       "name": "And Now For Something Completely Similar",
       "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "We Threw Gasoline.......",
-      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 145360,
       "name": "60%",
       "url": "https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
     },
     {
       "added_at": null,

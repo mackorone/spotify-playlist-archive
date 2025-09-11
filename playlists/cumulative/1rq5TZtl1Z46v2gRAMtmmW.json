@@ -3173,6 +3173,28 @@
     },
     {
       "album": {
+        "name": "Get It Over",
+        "url": "https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196314,
+      "name": "Get It Over",
+      "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
+    },
+    {
+      "album": {
         "name": "ghosts",
         "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
       },

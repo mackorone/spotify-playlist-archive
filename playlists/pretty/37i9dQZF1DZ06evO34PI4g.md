@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,887 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,543 likes - 33 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 18 | [Vicinity Of Obscenity](https://open.spotify.com/track/5uMTA9SIe0sE4dnHHSHaYz) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:51 |
 | 19 | [Cigaro](https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 2:11 |
 | 20 | [Chic 'N' Stu](https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:23 |
-| 21 | [Forest](https://open.spotify.com/track/1B5Y9I5wPfvD3C2A81A36C) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 4:00 |
+| 21 | [Prison Song](https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:21 |
 | 22 | [Kill Rock 'n Roll](https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:27 |
 | 23 | [Lost In Hollywood](https://open.spotify.com/track/0GrHWVTDsaWcD4nrCGr7VE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 5:20 |
 | 24 | [Fuck the System](https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:12 |
@@ -39,8 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 29 | [Suite\-Pee](https://open.spotify.com/track/19DXrs7rMsqiUdAFLmHGOs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG) | 2:31 |
 | 30 | [Shame](https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 2:40 |
 | 31 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 32 | [Soil](https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe\)](https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb) | 3:25 |
-| 33 | [Suggestions](https://open.spotify.com/track/3zy3HaFYhXueJu25oUHPus) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:43 |
-| 34 | [Know](https://open.spotify.com/track/3cuZytP8ujEBEiRtQfhsIQ) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG) | 2:56 |
+| 32 | [Suggestions](https://open.spotify.com/track/3zy3HaFYhXueJu25oUHPus) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:43 |
+| 33 | [Know](https://open.spotify.com/track/3cuZytP8ujEBEiRtQfhsIQ) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG) | 2:56 |
 
-Snapshot ID: `aL4cgAAAAADfxR/y7DWN3bjqwWr5X1pm`
+Snapshot ID: `aL9uAAAAAAAmKSnOLf42qz5U64M9NZgM`

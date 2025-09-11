@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,265 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,284 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 57 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
 | 58 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 59 | [Better Place](https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 2:56 |
-| 60 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 |
-| 61 | [Medallion](https://open.spotify.com/track/46Y9vXsmtnYZdEwny4o1Dd) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:27 |
+| 60 | [Medallion](https://open.spotify.com/track/46Y9vXsmtnYZdEwny4o1Dd) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:27 |
+| 61 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 |
 | 62 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
 | 63 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
 | 64 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |

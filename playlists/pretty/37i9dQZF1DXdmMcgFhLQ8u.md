@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,008 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,093 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 48 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
 | 49 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
 | 50 | [Miss You Man](https://open.spotify.com/track/5LTVOVj96FP3GOYJyjbbQz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Miss You Man](https://open.spotify.com/album/7F291iQJw9GS7fN6dz8MNc) | 3:24 |
-| 51 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
+| 51 | [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:18 |
 | 52 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
-| 53 | [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:18 |
+| 53 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
 | 54 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
 | 55 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 56 | [Breaking Up Was Easy In The 90's](https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:35 |

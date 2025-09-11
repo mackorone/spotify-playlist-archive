@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 931 likes - 18 songs - 52 min 44 sec
+[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 942 likes - 18 songs - 52 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

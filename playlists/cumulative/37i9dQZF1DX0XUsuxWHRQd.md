@@ -4,7 +4,7 @@
 
 > New music from Don Toliver,  Drake and Latto.
 
-2,494 songs - 5 day 9 hr 19 min
+2,495 songs - 5 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-04-09 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 | 2022-08-13 |
 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 | 2024-09-27 | 2025-01-25 |
+| [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 | 2025-09-09 |  |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-27 | 2023-07-01 |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-06 | 2022-03-12 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2022-10-15 |
@@ -1346,7 +1347,7 @@
 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2019-06-15 | 2019-11-01 |
 | [Money Now \(feat\. Tyga & Johnny Yukon\)](https://open.spotify.com/track/2P88a8aJtNJtlZBJhCCzOB) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Money Now \(feat\. Tyga & Johnny Yukon\)](https://open.spotify.com/album/06weT7kZGocnCTooonm2UQ) | 2:38 | 2020-07-18 | 2020-07-24 |
 | [MONEY ON ME](https://open.spotify.com/track/681ZlxQVB8XBPRZD1Wk4oi) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [MONEY ON ME](https://open.spotify.com/album/2Vp1RasgkrsG8iDul3p7OE) | 2:23 | 2021-07-24 | 2021-08-07 |
-| [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-25 |  |
+| [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-25 | 2025-09-11 |
 | [Money Talk](https://open.spotify.com/track/2YwC2IM0ykBxtMBH9aMe5m) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Money Talk](https://open.spotify.com/album/7BdXFwf9b2bnQ8w9A7GYwE) | 2:54 | 2020-01-17 | 2020-02-07 |
 | [Money Talks](https://open.spotify.com/track/2yWR1WwolMkbcXM5ZyyPDn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Money Talks](https://open.spotify.com/album/2lqdj7U6Wz3VZTHuqXYMXp) | 1:47 | 2025-04-04 | 2025-04-26 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-10-20 | 2025-02-08 |

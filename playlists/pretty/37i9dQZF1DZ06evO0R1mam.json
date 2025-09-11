@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12015,
+  "num_followers": 12022,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAA3rqxGCc6CUnEsCAbNrinH",
+  "snapshot_id": "aL9uAAAAAABSGuDsyQDvjegA+/ihwBXI",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 370487,
+      "name": "Everything (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/1YODRGANKdfp31X1QC1XOx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
       },
@@ -115,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -124,25 +140,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 370487,
-      "name": "Everything (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/1YODRGANKdfp31X1QC1XOx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Bless The Lord (Son Of Man)",
-      "url": "https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR"
+      "duration_ms": 249880,
+      "name": "Victory - Live",
+      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 249880,
-      "name": "Victory - Live",
-      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
+      "duration_ms": 331013,
+      "name": "Bless The Lord (Son Of Man)",
+      "url": "https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 321960,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/20RhzGhht4BJ7WfqftWjm9"
+      "duration_ms": 262653,
+      "name": "Everything Part I, Part II / Bow Before the King - Live",
+      "url": "https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 262653,
-      "name": "Everything Part I, Part II / Bow Before the King - Live",
-      "url": "https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ"
+      "duration_ms": 321960,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/20RhzGhht4BJ7WfqftWjm9"
     },
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
       "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307586,
-      "name": "We Are Victorious (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
+      "duration_ms": 50188,
+      "name": "There Is Nothing Like - Live",
+      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
       },
       "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 50188,
-      "name": "There Is Nothing Like - Live",
-      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
+      "duration_ms": 307586,
+      "name": "We Are Victorious (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
       "duration_ms": 406946,
       "name": "Chasing After You (The Morning Song)",
       "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 392586,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
     },
     {
       "added_at": null,
@@ -699,6 +679,26 @@
       "duration_ms": 101106,
       "name": "Goodness Of God - Live",
       "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 336080,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
+      "duration_ms": 441026,
+      "name": "Craving - Live",
+      "url": "https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 441026,
-      "name": "Craving - Live",
-      "url": "https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD"
+      "duration_ms": 336080,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

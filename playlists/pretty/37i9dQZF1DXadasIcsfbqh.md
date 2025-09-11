@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,006 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,209 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 69 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
 | 70 | [Been There Before](https://open.spotify.com/track/2s95urN3yvMr4BgSKItGKG) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Been There Before](https://open.spotify.com/album/1FbR9HJ8MGKRb9ZyZMV9V9) | 3:32 |
 | 71 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 |
-| 72 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
-| 73 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
-| 74 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 |
+| 72 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
+| 73 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 |
+| 74 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
 | 75 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 |
 | 76 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 |
 | 77 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 96 | [Please Please Please \- Acoustic](https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1) | 3:01 |
 | 97 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
 | 98 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
-| 99 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 99 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 |
 | 100 | [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 |
 
 Snapshot ID: `AAAAAOoOLUrfUoxnp1CsjTgTnzxSYbgl`

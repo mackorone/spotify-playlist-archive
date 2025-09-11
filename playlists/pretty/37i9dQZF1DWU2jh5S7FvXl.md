@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > Move to this mix of recent dance hits! Cover: Loud Luxury
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,040 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,045 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 | 72 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 |
 | 73 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 |
 | 74 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 |
-| 75 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
-| 76 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
+| 75 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
+| 76 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 77 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 |
 | 78 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
 | 79 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |

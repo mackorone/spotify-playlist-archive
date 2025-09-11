@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,921 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,956 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 47 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
 | 48 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
 | 49 | [No Me Enseñaste](https://open.spotify.com/track/0AhtxBg5OU06Lh086URR5c) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/7yQ0rzJQPUkTumD0bVxxfp) | 4:27 |
-| 50 | [Tal Vez](https://open.spotify.com/track/2VspVkHity8i4H9jammhhR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 4:39 |
-| 51 | [Rival \(feat\. Mario Domm\)](https://open.spotify.com/track/0JYdkP4Kz0ixmSfTTPvECC) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:16 |
+| 50 | [Rival \(feat\. Mario Domm\)](https://open.spotify.com/track/0JYdkP4Kz0ixmSfTTPvECC) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:16 |
+| 51 | [Tal Vez](https://open.spotify.com/track/2VspVkHity8i4H9jammhhR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 4:39 |
 | 52 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
 | 53 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 |
 | 54 | [Y Cómo Es El](https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:00 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 64 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 65 | [Enséñame A Vivir Sin Ti](https://open.spotify.com/track/59f765mlM08j2POCl3zPvd) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 3:32 |
 | 66 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
-| 67 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
-| 68 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
+| 67 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
+| 68 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
 | 69 | [La Llamada](https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [La Llamada](https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q) | 4:00 |
 | 70 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
 | 71 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |

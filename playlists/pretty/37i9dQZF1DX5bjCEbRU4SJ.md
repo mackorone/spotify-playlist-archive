@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,475 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,531 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 37 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
 | 38 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
 | 39 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
-| 40 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
-| 41 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
+| 40 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
+| 41 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
 | 42 | [Wave of Mutilation \(UK Surf\)](https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Complete B Sides](https://open.spotify.com/album/58LxhP0wtQiFzXPV5uSlaU) | 3:00 |
 | 43 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
 | 44 | [Three Months](https://open.spotify.com/track/7rJBr0zLQQyHws9E9Ck8P8) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:30 |

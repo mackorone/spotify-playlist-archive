@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,426 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,445 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [看着我的眼睛说 \- Live](https://open.spotify.com/track/1cgz7ebMOUWlhrLX8aGp5A) | [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL), [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [天赐的声音第六季 第7期 \(Live）](https://open.spotify.com/album/7yLaKkL28aVE72dRjkt4Nv) | 4:40 |
 | 50 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
 
-Snapshot ID: `MFOYIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFTpoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

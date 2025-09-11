@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,323 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,410 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 14 | [One Chance](https://open.spotify.com/track/0XnH6eXRTsSJoFQGUh0I6z) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Grace In Motion](https://open.spotify.com/album/2nwWZ9AxNZmGS1Bep29vzI) | 3:53 |
 | 15 | [RUFFEST](https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [RUFFEST](https://open.spotify.com/album/6eovWDRLkn2Y4AdcJDQaSf) | 3:46 |
 | 16 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
-| 17 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 |
+| 17 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 |
 | 18 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
-| 19 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 |
+| 19 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 |
 | 20 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
 | 21 | [Young World](https://open.spotify.com/track/6TJB8afxUyE6AXdWtmhPng) | [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Young World](https://open.spotify.com/album/09zDHAHu0oYlk5gQoOy1um) | 2:57 |
-| 22 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
-| 23 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
-| 24 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
+| 22 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
+| 23 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
+| 24 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 | 25 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 26 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |
 | 27 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 47 | [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 |
 | 48 | [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 |
 | 49 | [Back 2 Back](https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Back 2 Back EP](https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9) | 2:45 |
-| 50 | [Beatbox](https://open.spotify.com/track/7CkESXBof0weZtHv2voolS) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Beatbox](https://open.spotify.com/album/5SATDgT7dl86qwY0QTJpso) | 3:14 |
+| 50 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
 
 Snapshot ID: `AAAAAGV6zj8XwE5TPFKScjeO7sKj+s4V`

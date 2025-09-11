@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,654 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,653 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 |
 | 50 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 |
 
-Snapshot ID: `aL4cgAAAAADbpv1b1ADLyMzh3SDi9QQr`
+Snapshot ID: `aL9uAAAAAAAid9vX3l8Bqi8jCOgpOMBz`

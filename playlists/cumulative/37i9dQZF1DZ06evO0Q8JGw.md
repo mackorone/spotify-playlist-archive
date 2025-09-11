@@ -4,7 +4,7 @@
 
 > This is Pearl Jam\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 56 min
+72 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 | 2024-04-19 |  |
 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 | 2024-04-19 |  |
 | [Light Years](https://open.spotify.com/track/1Tnixg8lMEydzmBsZzxQpR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Binaural](https://open.spotify.com/album/1RuYprt6Qlqu286h1f4dzZ) | 5:06 | 2024-04-19 |  |
-| [Love, Reign O'er Me](https://open.spotify.com/track/5ZfsG6AXxJBSaiAyKuTSgy) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Love, Reign O'er Me](https://open.spotify.com/album/1cZTDwipkedFb85qMbYTr1) | 5:32 | 2025-03-15 |  |
+| [Love, Reign O'er Me](https://open.spotify.com/track/5ZfsG6AXxJBSaiAyKuTSgy) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Love, Reign O'er Me](https://open.spotify.com/album/1cZTDwipkedFb85qMbYTr1) | 5:32 | 2025-03-15 | 2025-09-11 |
 | [Low Light](https://open.spotify.com/track/1kLq84QrK6cJE11uX5iOj6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:44 | 2024-04-19 | 2025-02-17 |
 | [Lukin](https://open.spotify.com/track/4thEpE8oDddq6fVuHfdKUY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 1:02 | 2024-04-19 |  |
 | [Man of the Hour](https://open.spotify.com/track/1bNhE6XO6lU4wwWPNWsZtd) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [rearviewmirror \(greatest hits 1991\-2003\)](https://open.spotify.com/album/6JWofs9yE9d4Bh2R40u92W) | 3:43 | 2025-08-17 |  |
@@ -71,6 +71,7 @@
 | [Superblood Wolfmoon](https://open.spotify.com/track/7gQm8pZsxA5eXCZMBGV7CA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 3:49 | 2024-04-25 | 2024-09-08 |
 | [The End](https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 | 2024-04-19 |  |
 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 | 2024-04-19 |  |
+| [Thumbing My Way](https://open.spotify.com/track/42JkURlKrerwh2JdlwEkg4) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 4:08 | 2025-09-11 |  |
 | [Unthought Known](https://open.spotify.com/track/0mGBA5vtFH58DucfqaW6oG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 4:08 | 2024-04-19 |  |
 | [Upper Hand](https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:57 | 2024-04-21 | 2024-11-25 |
 | [Waiting For Stevie](https://open.spotify.com/track/7LMXRhf27EwcBQo2oLkcBa) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:41 | 2024-04-21 | 2025-07-31 |

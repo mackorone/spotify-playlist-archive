@@ -24519,6 +24519,24 @@
     },
     {
       "album": {
+        "name": "Drive My Car",
+        "url": "https://open.spotify.com/album/5MgKrigRaertcxGsj7zUAD"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZWALD",
+          "url": "https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112258,
+      "name": "Drive My Car",
+      "url": "https://open.spotify.com/track/3y9FcUfrYXHnIYnX5kpnPb"
+    },
+    {
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/4h5GmSrdCseWIDoh0wjdAh"
       },
@@ -34934,6 +34952,24 @@
       "duration_ms": 238970,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/4qc4UKaPvZE9pWJSooHHmF"
+    },
+    {
+      "album": {
+        "name": "Sharveal",
+        "url": "https://open.spotify.com/album/051KRjrs5GsrovSdZd5KGK"
+      },
+      "artists": [
+        {
+          "name": "Sharveal",
+          "url": "https://open.spotify.com/artist/1wB8uJ5IudA0NItT9jbmsb"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204538,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0b28fB7SY2A02P5t1GdHOb"
     },
     {
       "album": {

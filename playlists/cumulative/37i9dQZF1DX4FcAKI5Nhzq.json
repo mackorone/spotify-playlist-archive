@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Bye, Summer",
+        "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Bye, Summer",
+      "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
+    },
+    {
+      "album": {
         "name": "Billlie 'BYOB (bring your own best friend)'",
         "url": "https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl"
       },
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 180000,
       "name": "CDEFG",
       "url": "https://open.spotify.com/track/2jz2OCkYGhRB7EEcHM6YOW"
@@ -14402,7 +14420,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 192026,
       "name": "Lovey Dovey",
       "url": "https://open.spotify.com/track/0sDbmJillp1rvmiROBeFtW"
@@ -16656,7 +16674,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 171000,
       "name": "OBEY",
       "url": "https://open.spotify.com/track/6Er2MCGafVTPHoVG0EHIoB"
@@ -18528,6 +18546,24 @@
       "duration_ms": 195746,
       "name": "Rain To Be",
       "url": "https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE"
+    },
+    {
+      "album": {
+        "name": "VCF",
+        "url": "https://open.spotify.com/album/3mNJ0XCdr6TbY3TPN0k0tn"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "READY 2 RUMBLE",
+      "url": "https://open.spotify.com/track/1Vj1oP3Z1PJXsU2HpgEPvO"
     },
     {
       "album": {
@@ -26092,7 +26128,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 158000,
       "name": "XL (Extra Love)",
       "url": "https://open.spotify.com/track/1Y8oXmmSDbwkR66oUoI5ow"

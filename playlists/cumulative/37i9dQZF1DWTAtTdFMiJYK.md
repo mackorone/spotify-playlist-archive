@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: W.i.S.H.
+> Most exciting artists from the Indian Indie scene\. Cover: Arijit Anand
 
-366 songs - 20 hr 40 min
+367 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Khubiyaan](https://open.spotify.com/track/6sfSrFpZNNojPIrq1xJvwQ) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Khubiyaan](https://open.spotify.com/album/0r4WTQ9bpYVNX9jDAeZYzA) | 2:52 | 2024-06-21 |  |
 | [Khushiyon Ke Pal](https://open.spotify.com/track/3chiE90csYmQ8UIZvuT9gH) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khushiyon Ke Pal](https://open.spotify.com/album/6evDJ3PMbBfWrzWg4mLOK0) | 2:41 | 2022-08-22 | 2023-06-24 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2022-02-04 |  |
+| [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 | 2025-09-10 |  |
 | [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-06 | 2023-01-11 |
 | [Khwaabre](https://open.spotify.com/track/59mfcu2HSYSSFFopuUJmSY) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Khwaabre](https://open.spotify.com/album/32anWLyKsIDiTjMFp4dV7a) | 3:01 | 2025-03-27 | 2025-04-23 |
 | [Khwaaish](https://open.spotify.com/track/3fCRkNn2uWBzMuRwi841pP) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [roshni](https://open.spotify.com/artist/5jdpVcss5rApltpJ53fwyW), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Shyam Renganathan](https://open.spotify.com/artist/6FhV9mVOAu3El9CJ5PJdf0) | [Khwaaish](https://open.spotify.com/album/0dftenaNNTJO61vGBrJdK7) | 3:49 | 2022-01-10 | 2023-01-11 |
@@ -293,7 +294,7 @@
 | [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 | 2025-08-15 |  |
 | [Safar](https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Safar](https://open.spotify.com/album/7sTEKrKGCXyMFcfvZj4gFC) | 3:54 | 2022-03-22 | 2023-01-11 |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-18 |  |
-| [Saiyaare](https://open.spotify.com/track/3e82KBCnq2RWzyt1QlCJrZ) | [Ankkit Singh](https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Saiyaare](https://open.spotify.com/album/2L67cAFcd093MAvmKokSc9) | 1:54 | 2025-01-21 |  |
+| [Saiyaare](https://open.spotify.com/track/3e82KBCnq2RWzyt1QlCJrZ) | [Ankkit Singh](https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Saiyaare](https://open.spotify.com/album/2L67cAFcd093MAvmKokSc9) | 1:54 | 2025-01-21 | 2025-09-11 |
 | [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 | 2023-01-17 | 2024-04-11 |
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-17 | 2023-08-23 |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-07-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc85 amo, troppo noi \ud83e\udec2",
-  "num_followers": 3089,
+  "num_followers": 3119,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172692,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 190779,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172692,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     }
   ],
   "unique_name": "Tra Amiche",

@@ -4,10 +4,11 @@
 
 > De beste Nederlandse liedjes\. Cover: Ruben Annink & Danique
 
-408 songs - 20 hr 52 min
+410 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['k Heb Je LIef](https://open.spotify.com/track/1J1oX6PbDhlQp6eYqCeORi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Aflevering 1\- Paul de Leeuw\)](https://open.spotify.com/album/6OwnB4ivbi8SXG3qZeqpQB) | 4:42 | 2025-09-10 |  |
 | [\(Die Man Is\) Verliefd](https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [\(Die Man Is\) Verliefd](https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2) | 3:06 | 2024-11-06 |  |
 | [1 Op Een Miljoen](https://open.spotify.com/track/1Ox6RIOerYvgRH9AxIl4DO) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [1 Op Een Miljoen](https://open.spotify.com/album/7vhYasDgXpdyjwVaFvt95z) | 3:18 | 2023-02-24 | 2023-11-11 |
 | [1%](https://open.spotify.com/track/3U1sLMV37PoS7i5aApZXIx) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:41 | 2023-02-24 | 2023-11-11 |
@@ -123,8 +124,8 @@
 | [Free For Another Day](https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Free For Another Day](https://open.spotify.com/album/3aER22kJjTQAiiLNGfnuRr) | 2:42 | 2024-09-12 | 2024-10-10 |
 | [Funny](https://open.spotify.com/track/1uMp3JaBE03wrdyaES8Fqf) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Funny](https://open.spotify.com/album/47otQ4atJ7mxXJJcN9mBxJ) | 2:27 | 2025-05-26 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-02-07 |  |
-| [Ga Maar Gauw](https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Ga Maar Gauw](https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH) | 3:07 | 2025-05-15 |  |
-| [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-09-26 |  |
+| [Ga Maar Gauw](https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Ga Maar Gauw](https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH) | 3:07 | 2025-05-15 | 2025-09-11 |
+| [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-09-26 | 2025-09-11 |
 | [Gebruik Me](https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Gebruik Me](https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y) | 3:24 | 2023-02-24 | 2023-04-15 |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-24 | 2023-10-05 |
 | [Geef Me Dan Iets](https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Geef Me Dan Iets](https://open.spotify.com/album/0Vv3vhNdSY9QBVZyQCXtur) | 2:58 | 2023-07-06 | 2024-02-03 |
@@ -266,6 +267,7 @@
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2023-09-21 | 2025-02-28 |
 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 | 2023-09-07 | 2024-02-03 |
 | [Noem Een Dag](https://open.spotify.com/track/4L6ACBbVYwv3tQZYE0UBdz) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Noem Een Dag](https://open.spotify.com/album/5LlDCXrBDV11SpvBxpPNpe) | 2:55 | 2023-02-24 | 2023-09-02 |
+| [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 | 2025-09-10 |  |
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2023-02-24 | 2025-07-15 |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-06-14 | 2023-11-11 |
 | [Nooit Meer Spijt](https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:27 | 2023-02-24 | 2023-12-11 |

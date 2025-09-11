@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,908 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,929 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/3RMr94P81nO3GtW9MfqNp5) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:45 |
 | 2 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/2rDtfPMI5mDJVTwYYG00QI) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/4t2ozveAxmoc4QAxGXYulA) | 3:39 |
-| 3 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
-| 4 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
+| 3 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
+| 4 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
 | 5 | [Stubborn](https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:56 |
 | 6 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
 | 7 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 46 | [More](https://open.spotify.com/track/3KROMpk1iSj0NgebYd6E3s) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Saturn](https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy) | 2:50 |
 | 47 | [Like Dat](https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Nataraja](https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L) | 3:07 |
 | 48 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 |
-| 49 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 |
-| 50 | [Margaret](https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Margaret](https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h) | 5:31 |
+| 49 | [Margaret](https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Margaret](https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h) | 5:31 |
+| 50 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 |
 
-Snapshot ID: `aL4cgAAAAAAut980j9rSIoaU+yo3T24Y`
+Snapshot ID: `aL9uAAAAAABIek34ETqydb5tupbvUGUf`

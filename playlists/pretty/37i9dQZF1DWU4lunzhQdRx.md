@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > are we okay? 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,620 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,775 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 45 | [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
 | 46 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 | 47 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
-| 48 | [I Got the Boy](https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [thirty one](https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9) | 3:21 |
+| 48 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
 | 49 | [Over You](https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 4:13 |
-| 50 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
+| 50 | [I Got the Boy](https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [thirty one](https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9) | 3:21 |
 
 Snapshot ID: `AAAAAAgo9CbnldYc/f6LMeuI8acf0JtX`

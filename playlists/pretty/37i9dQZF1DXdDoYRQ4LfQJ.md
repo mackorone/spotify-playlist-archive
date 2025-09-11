@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Al cien en la privada con Danny Felix, Juanchito & the hottest corridos in the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,313 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,379 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 55 | [La 701](https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:59 |
 | 56 | [Joven De La Sierra](https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Joven De La Sierra](https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K) | 3:16 |
 | 57 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
-| 58 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
-| 59 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 |
+| 58 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 |
+| 59 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
 | 60 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
 | 61 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
 | 62 | [El Chore](https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh) | [El Chore](https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh) | 2:50 |

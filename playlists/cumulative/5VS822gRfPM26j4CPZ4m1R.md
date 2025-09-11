@@ -4,7 +4,7 @@
 
 > Playlist
 
-605 songs - 1 day 11 hr 49 min
+606 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Feel Your Heart](https://open.spotify.com/track/6U5pE2vm39bHcUMhR8WA5C) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Future Plans](https://open.spotify.com/album/6OIg0UtNM5vE2BSgXxtZHv) | 3:38 | 2023-10-25 |  |
 | [Fine Living](https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1) | [Fine Living](https://open.spotify.com/album/6cQrI8sUObZJCg7BWxItKD) | 2:43 | 2023-10-25 |  |
 | [Fish Tank](https://open.spotify.com/track/4oZd3R3omKfE5ec7SDALks) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Fish Tank](https://open.spotify.com/album/1VNXBIuemBeRAtP2fOCdUL) | 3:15 | 2023-10-25 |  |
+| [Flat Tire Ride](https://open.spotify.com/track/7ig17MWSf7vdRzcLZwuMIQ) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Flat Tire Ride](https://open.spotify.com/album/3fsHk7lqp1YTBLmGR1kC3t) | 2:46 | 2025-09-10 |  |
 | [Floating](https://open.spotify.com/track/0E5CMtgGnfrOhcTxzZaOhu) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Floating](https://open.spotify.com/album/74ZTgXZoy6R98LS2GlHGZm) | 3:42 | 2023-10-25 |  |
 | [Floating](https://open.spotify.com/track/1aPUONuI7KAvlIPcR6ykkA) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Floating](https://open.spotify.com/album/6PE7PpQc15oj7ax0vFTlmh) | 2:56 | 2023-10-25 |  |
 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 | 2023-10-25 |  |

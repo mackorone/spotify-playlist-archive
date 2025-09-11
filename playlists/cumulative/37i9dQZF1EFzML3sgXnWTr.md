@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 5 hr 0 min
+102 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [CORALLO \(feat\. chiamamifaro\)](https://open.spotify.com/track/4Ug7Xin5w20S5iI8lH2a1R) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [CHIAMO](https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44) | 3:23 | 2023-06-04 |  |
 | [CORALLO \(feat\. chiamamifaro\)](https://open.spotify.com/track/7BzjrflnTHc4mOuc7kU6hL) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [CORALLO \(feat\. chiamamifaro\)](https://open.spotify.com/album/149h74WS0ayKjYX2gbKitz) | 3:23 | 2022-09-16 | 2023-06-05 |
 | [Cos'è](https://open.spotify.com/track/61lqeoXo5yzoYm2WBkAYEf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:20 | 2023-12-13 |  |
+| [Cuore Nero](https://open.spotify.com/track/2z8cpZ3TEe2jsUQUF3tcSC) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 2:33 | 2025-09-10 |  |
 | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa) | 2:28 | 2025-03-29 |  |
 | [DIAMANTI GREZZI](https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [DIAMANTI GREZZI](https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV) | 3:12 | 2024-02-09 | 2024-02-19 |
 | [DIAMANTI GREZZI](https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:12 | 2024-02-18 | 2025-01-06 |
@@ -53,6 +54,7 @@
 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/5Dwi8UxcZkZ74C7tYzRqGv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/1fzL3WefoCP6F7sEzlU8mg) | 2:49 | 2024-10-06 |  |
 | [lady](https://open.spotify.com/track/1h9HxkDH67X8cig593BBOb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:36 | 2022-09-16 |  |
 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 | 2023-09-25 |  |
+| [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 | 2025-09-10 |  |
 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 | 2022-09-16 |  |
 | [malibu](https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 | 2022-09-16 |  |
 | [malibu](https://open.spotify.com/track/34VtrzecYLVHKmcuuwGb8q) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [malibu](https://open.spotify.com/album/44sFwu9PaZJ0bVKT5JkdAd) | 3:03 | 2023-12-14 | 2024-01-27 |
@@ -73,6 +75,7 @@
 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 | 2025-07-17 |  |
 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 | 2022-09-16 |  |
 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 | 2022-09-16 |  |
+| [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 | 2025-09-10 |  |
 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 | 2022-09-16 |  |
 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 | 2022-09-16 |  |
 | [Qué es](https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:20 | 2023-12-13 |  |
@@ -103,6 +106,7 @@
 | [Tutti I Miei Ricordi](https://open.spotify.com/track/63PgkaQlQuuxIGLBvxxPf7) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Tutti I Miei Ricordi](https://open.spotify.com/album/1QEuS7gDBCV4Y5CaJMApBU) | 3:22 | 2023-12-30 | 2024-02-02 |
 | [Tutti I Miei Ricordi](https://open.spotify.com/track/1QBuTS2nDVBmqiOG9jneej) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Tutti I Miei Ricordi](https://open.spotify.com/album/46rBMQmLv2LTBJnJfDXdW1) | 3:24 | 2022-09-17 | 2022-09-19 |
 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 | 2022-09-18 |  |
+| [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 | 2025-09-10 |  |
 | [Virale](https://open.spotify.com/track/2UaTiaxdp9uaRb6fMy8qpR) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Virale](https://open.spotify.com/album/0rSZMkAo12juM5issAjerT) | 3:04 | 2022-09-16 |  |
 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2025-03-29 |  |
 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 | 2023-12-13 |  |

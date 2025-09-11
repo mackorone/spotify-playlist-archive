@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87559,
+  "num_followers": 87567,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfHSSveTmIGpp9Dun2gU7hI4W9M",
+  "snapshot_id": "AAAAABgeEFksWTPTZdj63HgC99l4A21p",
   "tracks": [
     {
       "added_at": "2025-09-08 08:06:06",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
@@ -227,22 +211,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lady Lady",
-      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -259,6 +227,22 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lady Lady",
+      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -655,22 +639,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Gossip in the Grain",
         "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 231840,
       "name": "You Are The Best Thing",
       "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -815,22 +799,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Rainbow Valley",
-        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 262257,
-      "name": "Miracle Love",
-      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Want You For Life",
         "url": "https://open.spotify.com/album/3jHSiEahdW8Es6wj66PSxs"
       },
@@ -1071,6 +1039,22 @@
       "duration_ms": 169656,
       "name": "These Tears",
       "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Rainbow Valley",
+        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 262257,
+      "name": "Miracle Love",
+      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
@@ -1175,6 +1143,22 @@
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -1211,6 +1195,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Best Fake Smile",
+      "url": "https://open.spotify.com/track/3ZDqEhR3yfrcnOWi0g5YGD"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Best Fake Smile",
-      "url": "https://open.spotify.com/track/3ZDqEhR3yfrcnOWi0g5YGD"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Left on McKinney",
         "url": "https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9"
       },
@@ -1311,22 +1295,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
@@ -1339,6 +1307,22 @@
       "duration_ms": 237545,
       "name": "Uncharted - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -2115,26 +2099,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Table Of Fools",
         "url": "https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk"
       },
@@ -2167,6 +2131,42 @@
       "duration_ms": 221298,
       "name": "Let\u2019s Go Home Together - Stripped",
       "url": "https://open.spotify.com/track/2cptaUFdsU60tdh7zRglai"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/6EetSjlBdamHHg82She66u"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 186766,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -2219,38 +2219,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "get older",
-        "url": "https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 177980,
-      "name": "get older",
-      "url": "https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/6EetSjlBdamHHg82She66u"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 186766,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
       },
@@ -2263,6 +2231,22 @@
       "duration_ms": 171752,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "get older",
+        "url": "https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 177980,
+      "name": "get older",
+      "url": "https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -2283,22 +2267,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "Paradise And Back Again",
-        "url": "https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Places To Go",
-      "url": "https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "I'll Hold On",
         "url": "https://open.spotify.com/album/3KkJC1C818S60PtBYGlMAp"
       },
@@ -2311,6 +2279,22 @@
       "duration_ms": 206533,
       "name": "I\u2019ll Hold On",
       "url": "https://open.spotify.com/track/1M7umxsXNX4q9mCRk2SWzP"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Paradise And Back Again",
+        "url": "https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Places To Go",
+      "url": "https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -2735,22 +2719,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "The Indien",
-        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "16",
-      "url": "https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
       },
@@ -2763,6 +2731,22 @@
       "duration_ms": 151200,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -3443,6 +3427,22 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
+        "name": "Songs to Soothe",
+        "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
         "name": "When Summer Ends",
         "url": "https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk"
       },
@@ -3471,22 +3471,6 @@
       "duration_ms": 218203,
       "name": "17",
       "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
-        "name": "Songs to Soothe",
-        "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
-      },
-      "artists": [
-        {
-          "name": "Jacqueline Govaert",
-          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -3867,22 +3851,6 @@
     {
       "added_at": "2025-09-08 08:06:06",
       "album": {
-        "name": "weed & videogames",
-        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
-      },
-      "artists": [
-        {
-          "name": "Joe Buck",
-          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
-        }
-      ],
-      "duration_ms": 183715,
-      "name": "weed & videogames",
-      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
-    },
-    {
-      "added_at": "2025-09-08 08:06:06",
-      "album": {
         "name": "Too Young Too Dumb",
         "url": "https://open.spotify.com/album/1ag0kvvPtIEE4qcw0j9ZYo"
       },
@@ -3895,6 +3863,22 @@
       "duration_ms": 165000,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/370uyPhDzFob479OYuRYCe"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "weed & videogames",
+        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
+      },
+      "artists": [
+        {
+          "name": "Joe Buck",
+          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
+        }
+      ],
+      "duration_ms": 183715,
+      "name": "weed & videogames",
+      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
     },
     {
       "added_at": "2025-09-08 08:06:06",
@@ -4135,6 +4119,22 @@
       "duration_ms": 218902,
       "name": "Greenblueviolet",
       "url": "https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG"
+    },
+    {
+      "added_at": "2025-09-08 08:06:06",
+      "album": {
+        "name": "Tainted",
+        "url": "https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Stranger I Once Knew",
+      "url": "https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9"
     }
   ],
   "unique_name": "Werkdag FM",

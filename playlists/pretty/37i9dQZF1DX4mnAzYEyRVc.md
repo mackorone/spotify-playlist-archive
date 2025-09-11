@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Sublime
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,934 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,964 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 75 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 76 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
 | 77 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
-| 78 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
-| 79 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
+| 78 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
+| 79 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
 | 80 | [Ocean Avenue](https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Brass Emo, Vol\. 2](https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a) | 3:13 |
 | 81 | [Bier & Ska](https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Bier & Ska](https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn) | 3:29 |
 | 82 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 96 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
 | 97 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 | 98 | [Forza St\. Pauli](https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ) | [Dubtari](https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC) | [St\. Pauli \- Einhundert](https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs) | 3:45 |
-| 99 | [Pancho](https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC) | [Fast Food Orchestra](https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN) | [Pancho](https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf) | 2:41 |
-| 100 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
+| 99 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
+| 100 | [Pancho](https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC) | [Fast Food Orchestra](https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN) | [Pancho](https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf) | 2:41 |
 
 Snapshot ID: `AAAAAGL42tzr6IyXVwujjd6caAbOZagA`

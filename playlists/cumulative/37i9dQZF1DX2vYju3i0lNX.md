@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,241 songs - 3 day 1 hr 2 min
+1,243 songs - 3 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Blueprints](https://open.spotify.com/track/3aGND8Mp7hSSRm9zMo39hn) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Blueprints](https://open.spotify.com/album/6YoJQRDe9i45sSfThsfgKW) | 3:32 | 2023-05-25 |  |
 | [Blues for a Lost Love](https://open.spotify.com/track/5ZofcIkLEHUrLQh3TeTlji) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Blues for a Lost Love](https://open.spotify.com/album/1FhT1PEEuKf3ARcIujXGOL) | 2:46 | 2023-03-30 | 2025-03-11 |
 | [Bluesette](https://open.spotify.com/track/5sF4nEG1dZLBnODQWxGhUP) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Bluesette](https://open.spotify.com/album/3WxNprVVDsnLaayEQI3PFX) | 3:25 | 2023-10-06 |  |
-| [Blå Blå Sommar](https://open.spotify.com/track/4DCvabulW679wBHbnIVnSu) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Blå Blå Sommar](https://open.spotify.com/album/2fM4HKz3hvNK6gtUfnZjiM) | 3:08 | 2024-06-24 |  |
+| [Blå Blå Sommar](https://open.spotify.com/track/4DCvabulW679wBHbnIVnSu) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Blå Blå Sommar](https://open.spotify.com/album/2fM4HKz3hvNK6gtUfnZjiM) | 3:08 | 2024-06-24 | 2025-09-11 |
 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2022-10-27 | 2025-07-24 |
 | [Body And Soul](https://open.spotify.com/track/7ly3lOOTrL6k4FjyAPDydS) | [Faded Family Portraits](https://open.spotify.com/artist/3K2kGySZF3Hb9zHfesGpTY) | [Body And Soul](https://open.spotify.com/album/6GFhivPOliZbtDskCGFQlr) | 2:32 | 2023-04-13 |  |
 | [Boulevard](https://open.spotify.com/track/77WP5Yi3jctWzpKH780Z7a) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Boulevard](https://open.spotify.com/album/2WM74Y0rSJUkQ11kXhyUxz) | 4:25 | 2024-12-16 | 2025-06-06 |
@@ -189,6 +189,7 @@
 | [Bunkyo City](https://open.spotify.com/track/0gVjOnmhAXbJ91jUysjVGm) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Bunkyo City](https://open.spotify.com/album/2A12u8jYJ1Iccudh72Uxz7) | 3:46 | 2024-01-12 | 2025-03-04 |
 | [Butterflies](https://open.spotify.com/track/3PzunsgZeWxBAgsI99Ha7v) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Butterflies](https://open.spotify.com/album/0z75wR9FrPuaqE5srfUZaf) | 3:02 | 2023-08-10 | 2025-07-24 |
 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 | 2022-02-01 | 2025-02-04 |
+| [By Next Year](https://open.spotify.com/track/52t7Mx5FLEjx6IJKOzH6qe) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [By Next Year](https://open.spotify.com/album/5UwjvOu1TQEYJDoCJ8Pvgz) | 2:45 | 2025-09-10 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/1D1E8UfZDUk0FZ2ZhlW1OF) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Cabin In The Sky](https://open.spotify.com/album/3yNfNCgdYm2A4MBn8u72uG) | 3:24 | 2022-12-22 | 2024-07-09 |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-07 | 2022-08-31 |
 | [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 |  |
@@ -294,7 +295,7 @@
 | [East Of The Sun](https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [East Of The Sun](https://open.spotify.com/album/6zbwpm4yJFfaNiuHQyc9Ld) | 3:09 | 2022-08-30 | 2025-09-04 |
 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 | 2021-12-07 | 2023-06-02 |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-05-09 | 2022-11-25 |
-| [Easy Steps](https://open.spotify.com/track/6FDOGTNldVdI1HbzFqScfo) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Easy Steps](https://open.spotify.com/album/7Jq4tXrgF6jggioxyaCNiB) | 3:45 | 2025-02-03 |  |
+| [Easy Steps](https://open.spotify.com/track/6FDOGTNldVdI1HbzFqScfo) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Easy Steps](https://open.spotify.com/album/7Jq4tXrgF6jggioxyaCNiB) | 3:45 | 2025-02-03 | 2025-09-11 |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-06 | 2024-04-24 |
 | [Echoes](https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Echoes](https://open.spotify.com/album/1VXahXA1DTUj5sbi2oBpGI) | 3:03 | 2024-10-14 |  |
 | [Echoes of a Lonely Love](https://open.spotify.com/track/1hg3JYrnrScJRWDAhzlAvn) | [The Low Light Trio](https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT) | [Echoes of a Lonely Love](https://open.spotify.com/album/6LwTy6FXobxNAQsWSgcfPa) | 2:52 | 2025-07-01 |  |
@@ -1016,6 +1017,7 @@
 | [Tennesse](https://open.spotify.com/track/2RkJ5dsaRwrnrhYUX2F7Qr) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Tennesse](https://open.spotify.com/album/4UEk2CYKoNnqyMWdCbTRmR) | 3:31 | 2021-12-07 | 2022-06-08 |
 | [Thanks for Coming](https://open.spotify.com/track/01gKWL5LmFKMjsrBVvV0hH) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Thanks for Coming](https://open.spotify.com/album/3cHDD98DUzgNMj05KqY4yz) | 2:37 | 2024-08-06 |  |
 | [That's All](https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [That's All](https://open.spotify.com/album/1NG2MHtqLO0f4BAZGSOFN7) | 3:02 | 2024-04-10 |  |
+| [That's Us Later](https://open.spotify.com/track/1Nf6ZFoTvXx0ULypwRRpQA) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [That's Us Later](https://open.spotify.com/album/3ALmTJqbdT7UQC6ZefnNgR) | 4:41 | 2025-09-10 |  |
 | [That's When We'll Part](https://open.spotify.com/track/4GlTpFacX7Vgz0J1vMnKki) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [That's When We'll Part](https://open.spotify.com/album/6fF8wIlGMfdYta5wd2EiU0) | 2:39 | 2022-12-01 | 2024-06-01 |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-30 | 2024-05-11 |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 | 2024-09-10 |

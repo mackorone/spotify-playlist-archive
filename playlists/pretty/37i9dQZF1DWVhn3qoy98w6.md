@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Solo artistas independientes, actualizada todos los miércoles. Foto: Pd: Seo Jaleo.
+> Solo artistas independientes, actualizada todos los miércoles. Foto: Seo Jaleo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,372 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,381 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [La Caída](https://open.spotify.com/track/3DU7IfTnlb0v1Fy1RUB3BN) | [Otros Bichos](https://open.spotify.com/artist/0KgLjtfgtAIGpxC3cG3r0X) | [La Caída](https://open.spotify.com/album/7hEcs33kZZqFkSDcl9GmcP) | 3:24 |
 | 50 | [Insomnio](https://open.spotify.com/track/2hFYfcVW8gI3dRUgCUtctM) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [Insomnio](https://open.spotify.com/album/4hw56VCaTeBPYbd0Ljs4Js) | 2:37 |
 
-Snapshot ID: `AAAAAAKaP+seL9d7qNrThxeQIvbKrDxL`
+Snapshot ID: `AAAAAGedywm9/eI/BE9xB3A+STXgesIB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,056 likes - 112 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,057 likes - 113 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 34 | [This Will Do](https://open.spotify.com/track/7GypRHZMWmb81zN90Phu9y) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:55 |
 | 35 | [Breaking Point](https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 4:53 |
 | 36 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 |
-| 37 | [Butterfly](https://open.spotify.com/track/11aPoQJ6CwjWqHplsV54oC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/1YwO0apo9Oy6QTI4D8qWUf) | 2:43 |
-| 38 | [july 16th](https://open.spotify.com/track/41CJn3Q0pJwcNHbF8RM2QE) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 1:50 |
+| 37 | [july 16th](https://open.spotify.com/track/41CJn3Q0pJwcNHbF8RM2QE) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 1:50 |
+| 38 | [Butterfly](https://open.spotify.com/track/11aPoQJ6CwjWqHplsV54oC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/1YwO0apo9Oy6QTI4D8qWUf) | 2:43 |
 | 39 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
 | 40 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
-| 41 | [LUCID DREAMS \(feat\. Masego\)](https://open.spotify.com/track/6Px7oJcPvMWLhwRHmao0Fe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:46 |
-| 42 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 41 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 42 | [LUCID DREAMS \(feat\. Masego\)](https://open.spotify.com/track/6Px7oJcPvMWLhwRHmao0Fe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:46 |
 | 43 | [Grieving \(feat\. James Blake\)](https://open.spotify.com/track/4bzd4evyqXabRtesx4emPn) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:50 |
 | 44 | [Valentine's Day \(Shameful\)](https://open.spotify.com/track/6GCRnf1W9OKxok9fvNp3pz) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Valentine's Day \(Shameful\)](https://open.spotify.com/album/2x9hiwj8Rc9b2MoQ3FKWcY) | 4:51 |
 | 45 | [This Forever](https://open.spotify.com/track/26FpOENKQstjLRhX1fxUs9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:41 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 48 | [Hide & Freak](https://open.spotify.com/track/1ikIktDZJvfQFDOfPTIqAY) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 2:59 |
 | 49 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
 | 50 | [Back It Up](https://open.spotify.com/track/04J9aoBIvtKSeDCvC6OEAk) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:34 |
-| 51 | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:03 |
-| 52 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
+| 51 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
+| 52 | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:03 |
 | 53 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 54 | [Remember Me](https://open.spotify.com/track/30LaZL46nu7DZlTtbhZCtv) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lost Planet 2.0](https://open.spotify.com/album/1jX4O08rNR67vVxiR66BS3) | 2:24 |
 | 55 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 110 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 |
 | 111 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 112 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
+| 113 | [Gold Roses](https://open.spotify.com/track/3XomMMljed4MXjdFZ9onGZ) | [Clyde Hawk](https://open.spotify.com/artist/6LvZ5UnHQ0cJ552rXZKwre) | [Tuxedo Time](https://open.spotify.com/album/63nRJfSxLTmpRQ1nNi79BV) | 5:47 |
 
-Snapshot ID: `Ab7y6AAAAABUrDGi9hXY+P01Ht9X03VP`
+Snapshot ID: `Ab74iAAAAACdE55sgKlxgfp/IbShK2QX`

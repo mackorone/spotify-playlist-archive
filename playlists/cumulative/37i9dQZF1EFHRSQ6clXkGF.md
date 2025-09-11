@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-305 songs - 19 hr 44 min
+306 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Chinese Cafe/Unchained Melody](https://open.spotify.com/track/40OarQ92vZCzE21uumz2XI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 5:19 | 2024-03-21 |  |
 | [Cold Blue Steel and Sweet Fire](https://open.spotify.com/track/45XSmn7yPZMTIgo9kdErh9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 4:17 | 2024-03-21 |  |
 | [Come In From The Cold](https://open.spotify.com/track/7eB0zEPAVT1zS8NmyqKy01) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 7:30 | 2024-03-21 |  |
-| [Come To The Sunshine \(Live at Canterbury House, Ann Arbor, MI, 10/27/1967\) \- 1st Set](https://open.spotify.com/track/32A8i4Ro0SBkyS2VXbyJnl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:01 | 2024-03-21 | 2024-11-17 |
+| [Come To The Sunshine \(Live at Canterbury House, Ann Arbor, MI, 10/27/1967\) \- 1st Set](https://open.spotify.com/track/32A8i4Ro0SBkyS2VXbyJnl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:01 | 2024-03-21 |  |
 | [Come to the Sunshine \- Live](https://open.spotify.com/track/5wEPxKa8wMRXb4IsdOMy5h) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 3:03 | 2024-01-29 | 2025-02-05 |
 | [Conversation](https://open.spotify.com/track/1wcbiRER4ChnikvcLc2OE6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 4:26 | 2024-03-21 |  |
 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 | 2024-03-21 |  |
@@ -282,6 +282,7 @@
 | [The Tea Leaf Prophecy \(Lay Down Your Arms\)](https://open.spotify.com/track/3k9NJHvoQdtMwmcBk1x4lW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [River: The Joni Letters](https://open.spotify.com/album/4XkWqozX4Uqc0qwncCVZxi) | 6:33 | 2024-01-29 |  |
 | [The Tenth World](https://open.spotify.com/track/5gCBrGMeLvH7SK3B214HXk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 6:45 | 2024-03-21 |  |
 | [The Three Great Stimulants](https://open.spotify.com/track/4qu8tJxJhTVmxyRzsfHaUl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 6:13 | 2024-03-21 |  |
+| [The Way It Is \- Chelsea Recording](https://open.spotify.com/track/3u3AYaWoSiQ7lyj2OeBWek) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:28 | 2025-09-10 |  |
 | [The Way It Is \- Live](https://open.spotify.com/track/70pmbYJWPS8SrUMMHIpNId) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 7:45 | 2024-01-29 | 2025-02-05 |
 | [The Ways of the Wind](https://open.spotify.com/track/6ftLDMtJi6FuV0OadnBome) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/69rTTwmGtmD0kChPaxN5Zq) | 4:31 | 2024-01-29 |  |
 | [The Windfall \(Everything For Nothing\)](https://open.spotify.com/track/1nEHVp6LKiADEHf9CKlSYN) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:14 | 2024-03-21 |  |

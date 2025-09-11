@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 59 min
+88 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [La Mujer Perfecta](https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p) | 3:38 | 2023-12-13 |  |
 | [La Mujer Perfecta \- En Vivo](https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:30 | 2023-03-19 | 2024-02-15 |
 | [La Vida](https://open.spotify.com/track/6ttAd4xtADjX1JZB6ObLTl) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:41 | 2023-03-19 | 2024-07-25 |
-| [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2023-03-19 |  |
+| [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2023-03-19 | 2025-09-11 |
+| [la vida viene y va](https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [MALOS Y BUENAS RECUERDOS](https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI) | 3:35 | 2025-09-11 |  |
 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 | 2023-03-19 |  |
 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 | 2023-04-01 |  |
 | [Los Días Que Vendrán](https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:27 | 2023-03-19 |  |

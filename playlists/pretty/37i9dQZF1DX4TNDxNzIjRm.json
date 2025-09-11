@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1343690,
+  "num_followers": 1343503,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2025-08-30 00:15:30",
-      "album": {
         "name": "En Privado",
         "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+    },
+    {
+      "added_at": "2025-08-30 00:15:30",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 199717,
+      "name": "Polos Opuestos",
+      "url": "https://open.spotify.com/track/0An16OW2kcW8h9ij5cyM9a"
+    },
+    {
+      "added_at": "2025-08-30 00:15:30",
+      "album": {
         "name": "QUE HACES",
         "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
-    },
-    {
-      "added_at": "2025-08-30 00:15:30",
-      "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 199717,
-      "name": "Polos Opuestos",
-      "url": "https://open.spotify.com/track/0An16OW2kcW8h9ij5cyM9a"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -1379,30 +1379,6 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "Santa",
-        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 193038,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
-    },
-    {
-      "added_at": "2025-08-30 00:15:30",
-      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+    },
+    {
+      "added_at": "2025-08-30 00:15:30",
+      "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "KHE CALOR",
-        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "KHE CALOR",
-      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
-    },
-    {
-      "added_at": "2025-08-30 00:15:30",
-      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2025-08-30 00:15:30",
+      "album": {
+        "name": "KHE CALOR",
+        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "KHE CALOR",
+      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "pasarella \ud83d\udc60",
-        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162245,
-      "name": "pasarella \ud83d\udc60",
-      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
-    },
-    {
-      "added_at": "2025-08-30 00:15:30",
-      "album": {
         "name": "Ya No Tiene Novio",
         "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 198933,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+    },
+    {
+      "added_at": "2025-08-30 00:15:30",
+      "album": {
+        "name": "pasarella \ud83d\udc60",
+        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "Sirenita",
-        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 169478,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
-    },
-    {
-      "added_at": "2025-08-30 00:15:30",
-      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -2379,26 +2363,18 @@
     {
       "added_at": "2025-08-30 00:15:30",
       "album": {
-        "name": "Mami T\u00fa (Remix)",
-        "url": "https://open.spotify.com/album/189TkvvDE5eIIqUnjDrIcH"
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 257500,
-      "name": "Mami T\u00fa (Remix)",
-      "url": "https://open.spotify.com/track/3DtlIQT5OBoGa0D1xYT0Yx"
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
     },
     {
       "added_at": "2025-08-30 00:15:30",
@@ -2423,6 +2399,30 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2025-08-30 00:15:30",
+      "album": {
+        "name": "Mami T\u00fa (Remix)",
+        "url": "https://open.spotify.com/album/189TkvvDE5eIIqUnjDrIcH"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Mami T\u00fa (Remix)",
+      "url": "https://open.spotify.com/track/3DtlIQT5OBoGa0D1xYT0Yx"
     },
     {
       "added_at": "2025-08-30 00:15:30",

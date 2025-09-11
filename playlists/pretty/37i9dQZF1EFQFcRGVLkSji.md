@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 151 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 151 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 52 | [sipping my tea](https://open.spotify.com/track/0uJ5hraraU2GEfF3ub61JT) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/31f0fGsAldfErxbxPqJs95) | 1:42 |
 | 53 | [IHY2LN](https://open.spotify.com/track/4vQkd6oRbNeLprHmYUwIV5) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 3:10 |
 | 54 | [IWSS](https://open.spotify.com/track/6iMGZmKHfymSmX00ShlI9i) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/2QewB7aov4vSgKcrYHhdZC) | 2:18 |
-| 55 | [mind your business](https://open.spotify.com/track/2qUrmYFAH003q5jG73qHOq) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:22 |
-| 56 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 55 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 56 | [mind your business](https://open.spotify.com/track/2qUrmYFAH003q5jG73qHOq) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:22 |
 | 57 | [Who Wit Me](https://open.spotify.com/track/6SlEbe7ae9NBK6QjM6tR0l) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 |
 | 58 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
 | 59 | [bane](https://open.spotify.com/track/3ZwbLJvon8cZEDOGrRiiFB) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:17 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 118 | [Oh Shit](https://open.spotify.com/track/70XwlON2HyHdFEoEl4tshL) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:17 |
 | 119 | [SOBER](https://open.spotify.com/track/0nkOBl6xJlmThbW6gwbD6k) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 2:53 |
 | 120 | [Love Ain't Perfect](https://open.spotify.com/track/5hb43H5mkRI1sEML9jakgy) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:54 |
-| 121 | [scream my name](https://open.spotify.com/track/3msVzpk6BgRwIu9ywpWzfa) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 1:52 |
-| 122 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
+| 121 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
+| 122 | [scream my name](https://open.spotify.com/track/3msVzpk6BgRwIu9ywpWzfa) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 1:52 |
 | 123 | [Diana](https://open.spotify.com/track/2rvH6gB92wgL2Y3O9sa3QU) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 1:10 |
 | 124 | [let u back in](https://open.spotify.com/track/7AZRI11SKhBBGl22dXupwg) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 3:12 |
 | 125 | [God Like](https://open.spotify.com/track/4RC4WP3J7z9U56uiDWqqKX) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:12 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 150 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 151 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab7y1AAAAAB+fkbG+9w3DbhWorEa+1L4`
+Snapshot ID: `Ab74kgAAAAAp1hKzz3wF8xcnF2Y3jqEW`

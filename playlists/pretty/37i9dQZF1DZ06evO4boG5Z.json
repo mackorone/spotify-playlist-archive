@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29427,
+  "num_followers": 29432,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADrHfJTEFDZ7ElGLmat4R6C",
+  "snapshot_id": "aL9uAAAAAACB/cxH8RY+/Nnw9qTJNgYm",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+      "duration_ms": 112733,
+      "name": "Fazil's Friend",
+      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
     },
     {
       "added_at": null,
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 112733,
-      "name": "Fazil's Friend",
-      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+      "duration_ms": 138002,
+      "name": "Biftek Supernova",
+      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 187276,
       "name": "Sour Days",
       "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 138002,
-      "name": "Biftek Supernova",
-      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
     },
     {
       "added_at": null,

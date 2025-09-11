@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 160359,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE"
@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 202669,
       "name": "looking for you",
       "url": "https://open.spotify.com/track/3PuHNz5VJXwGoWisr7Fpvi"
@@ -9030,6 +9030,24 @@
       "duration_ms": 269560,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/2ypFEmLB5q5j2l34bFxF8Y"
+    },
+    {
+      "album": {
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
     },
     {
       "album": {

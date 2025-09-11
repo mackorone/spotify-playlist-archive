@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Holy Visions",
+        "url": "https://open.spotify.com/album/0hGwipVGYzT8HvuzJq6Mo3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210474,
+      "name": "Holy Visions",
+      "url": "https://open.spotify.com/track/4OyDuSzuVb5azaw8WCvcbM"
+    },
+    {
+      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 140199,
       "name": "On Your Back",
       "url": "https://open.spotify.com/track/5b9yz8F5xxHMEmBHflPn11"

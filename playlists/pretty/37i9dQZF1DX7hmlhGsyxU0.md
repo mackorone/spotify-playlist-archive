@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,621 likes - 69 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,753 likes - 69 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 25 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
 | 26 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
 | 27 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
-| 28 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 28 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
 | 29 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
-| 30 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
-| 31 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 30 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 31 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 32 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
 | 33 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
 | 34 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
 | 35 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
-| 36 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
-| 37 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
+| 36 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
+| 37 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
 | 38 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
 | 39 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
 | 40 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 50 | [Drifter](https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:37 |
 | 51 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
 | 52 | [Your Spell](https://open.spotify.com/track/5U1D092cYFEXTZVjvIXLuF) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Your Spell](https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq) | 2:52 |
-| 53 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
-| 54 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
+| 53 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
+| 54 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
 | 55 | [Innocence](https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:43 |
 | 56 | [Biding Time](https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC) | [George Wilson](https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:54 |
 | 57 | [Musica Desolata](https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4) | [Alexei Aigui](https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5), [Arkady Marto](https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx) | [Musica Desolata](https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB) | 4:44 |

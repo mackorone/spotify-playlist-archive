@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 295733,
       "name": "Are You Gonna Throw It All Away",
       "url": "https://open.spotify.com/track/59Ny4R3pEDgZWKQtuy1diN"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 234403,
       "name": "Eu sim (Io s\u00ec)",
       "url": "https://open.spotify.com/track/7KreLkjzLSR87Re35YTdOu"
@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Eu Olho A Ti",
+        "url": "https://open.spotify.com/album/2Dhke3MAY6Xp9dmU2eYuIG"
+      },
+      "artists": [
+        {
+          "name": "Robinson Monteiro",
+          "url": "https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267386,
+      "name": "I Will Be Right Here",
+      "url": "https://open.spotify.com/track/76JprlRBaE43v9XjMgrY5h"
+    },
+    {
+      "album": {
         "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
@@ -5274,7 +5292,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 294040,
       "name": "In Walked Love",
       "url": "https://open.spotify.com/track/5UzPgmMKEwsxZsQbwXQFkY"
@@ -6252,6 +6270,24 @@
       "duration_ms": 265533,
       "name": "Love On A Rooftop",
       "url": "https://open.spotify.com/track/391b0hw6MBlVreaHd1wTyU"
+    },
+    {
+      "album": {
+        "name": "Love Our Hellos, Hate Our Goodbyes (Vocal Version)",
+        "url": "https://open.spotify.com/album/6tw1xmpdVTnobp9W1KvZaF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Sabates",
+          "url": "https://open.spotify.com/artist/63fCTdYin1nXJLzZo2k5J0"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224158,
+      "name": "Love Our Hellos, Hate Our Goodbyes - Vocal Version",
+      "url": "https://open.spotify.com/track/1HnY6y2p3Orn9j4bzqSkK0"
     },
     {
       "album": {
@@ -7519,6 +7555,24 @@
     },
     {
       "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1IJbRzdrd9RH7mSvcUtufE"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254066,
+      "name": "One Less Lonely Heart",
+      "url": "https://open.spotify.com/track/2tLRb3ZZ2nbHGlXVMNQBJA"
+    },
+    {
+      "album": {
         "name": "Know You Will",
         "url": "https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf"
       },
@@ -8544,7 +8598,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 229933,
       "name": "Saddest Song - Leigh Bros Remix",
       "url": "https://open.spotify.com/track/1Spc7zWfB3hEumoxMoxnRy"
@@ -11469,7 +11523,7 @@
     },
     {
       "album": {
-        "name": "New Jersey - Deluxe Edition",
+        "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
       "artists": [
@@ -11480,7 +11534,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 308973,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/7LQne9hqD78jDnYfZjdecR"
@@ -11660,7 +11714,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 298716,
       "name": "You Are My Home",
       "url": "https://open.spotify.com/track/6wopFHSnx7QXkMwpjhoRGN"

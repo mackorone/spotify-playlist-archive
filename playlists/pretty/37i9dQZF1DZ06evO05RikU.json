@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43143,
+  "num_followers": 43146,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACjHXAGQv7QyUbZpncnA0yu",
+  "snapshot_id": "aL9uAAAAAABxftCqT/2/0nws4ibz1Y60",
   "tracks": [
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 164789,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 171761,
-      "name": "Kids (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "coRaZ\u00d3n fR\u00edO",
         "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Yo",
+        "url": "https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

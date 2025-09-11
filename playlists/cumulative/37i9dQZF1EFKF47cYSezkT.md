@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-71 songs - 3 hr 25 min
+72 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 | 2024-01-29 |  |
 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 | 2025-01-18 |  |
 | [Dandelion](https://open.spotify.com/track/6YxZS8ihXa33a757v0cTZ7) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy) | 3:06 | 2024-11-24 | 2025-01-19 |
+| [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 | 2025-09-10 |  |
 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 | 2024-11-09 |  |
 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 | 2024-01-29 |  |
 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2024-01-29 |  |

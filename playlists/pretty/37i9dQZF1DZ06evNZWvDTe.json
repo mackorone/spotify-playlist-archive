@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13120,
+  "num_followers": 13134,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADG29t7FPdTt6bMwEiSHsxA",
+  "snapshot_id": "aL9uAAAAAABG0pYFeNjkGUHwLwa/t0U8",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAILER (feat. Victony)",
-        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "JAILER (feat. Victony)",
-      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 201750,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JAILER (feat. Victony)",
+        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "JAILER (feat. Victony)",
+      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
       "artists": [
         {
@@ -692,13 +692,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella (feat. Kwesi Arthur)",
-      "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
       "duration_ms": 316421,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella (feat. Kwesi Arthur)",
+      "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Not The Tape, Sorry 4 The Wait II",
         "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
@@ -819,26 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANG BANG BANG",
-        "url": "https://open.spotify.com/album/1ygg3uOxAsUM2TMp9qwvty"
+        "name": "King",
+        "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
       },
       "artists": [
         {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 216886,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/0YZeA79oKbI8EyaLRxqeL6"
+      "duration_ms": 223947,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
     },
     {
       "added_at": null,
@@ -863,22 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
+        "name": "BANG BANG BANG",
+        "url": "https://open.spotify.com/album/1ygg3uOxAsUM2TMp9qwvty"
       },
       "artists": [
         {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 223947,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
+      "duration_ms": 216886,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/0YZeA79oKbI8EyaLRxqeL6"
     },
     {
       "added_at": null,
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+        "name": "Disturbation",
+        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 240506,
-      "name": "Bayla Trap (feat. Sarkodie)",
-      "url": "https://open.spotify.com/track/3c6ak2NO54ZOamcelzcDZB"
+      "duration_ms": 223883,
+      "name": "Confirm (feat. Sarkodie) - Remix",
+      "url": "https://open.spotify.com/track/5faNR7l2oKzCAh9Hpnjnxg"
     },
     {
       "added_at": null,
@@ -1007,22 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 223883,
-      "name": "Confirm (feat. Sarkodie) - Remix",
-      "url": "https://open.spotify.com/track/5faNR7l2oKzCAh9Hpnjnxg"
+      "duration_ms": 240506,
+      "name": "Bayla Trap (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/3c6ak2NO54ZOamcelzcDZB"
     }
   ],
   "unique_name": "This Is Sarkodie",

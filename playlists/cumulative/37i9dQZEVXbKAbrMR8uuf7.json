@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -6862,7 +6862,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 115161,
       "name": "Crazy Design - Que Rica",
       "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
@@ -9887,6 +9887,24 @@
     },
     {
       "album": {
+        "name": "Generaci\u00f3n Sedienta",
+        "url": "https://open.spotify.com/album/0HgjHl8TE8v4jld3xFe7DB"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339720,
+      "name": "Dios H\u00e1blame",
+      "url": "https://open.spotify.com/track/4akxKRZ0CTUMrHxUIvZ2BA"
+    },
+    {
+      "album": {
         "name": "DIOS LO QUIZO AS\u00cd",
         "url": "https://open.spotify.com/album/6YBJv6hSsmWvwsp7vqJ349"
       },
@@ -9898,7 +9916,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 172233,
       "name": "DIOS LO QUIZO AS\u00cd",
       "url": "https://open.spotify.com/track/0eYxHp5xLmvIgvVWs32BwG"
@@ -14294,7 +14312,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 122593,
       "name": "Glizzy Zaza",
       "url": "https://open.spotify.com/track/2JpofFhHQh6ObR1eMQtpDm"
@@ -18581,6 +18599,24 @@
     },
     {
       "album": {
+        "name": "Generaci\u00f3n Radical",
+        "url": "https://open.spotify.com/album/59o9BSJefXe9vWAt5y5z7m"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406185,
+      "name": "La Tierra Canta",
+      "url": "https://open.spotify.com/track/6F6Bug5Ng2QjqehT2cjhdU"
+    },
+    {
+      "album": {
         "name": "La Tola",
         "url": "https://open.spotify.com/album/55eeUV58j5m4pZ53xlybik"
       },
@@ -19628,10 +19664,28 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 150857,
       "name": "LIPO",
       "url": "https://open.spotify.com/track/1XR8f6QzqAm4kBJPJXInvj"
+    },
+    {
+      "album": {
+        "name": "LIPO",
+        "url": "https://open.spotify.com/album/22iCXjV2jqUAE6Wn7oH0hU"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "LIPO",
+      "url": "https://open.spotify.com/track/3AMrnVEKtrp9lOS1AWuU0J"
     },
     {
       "album": {
@@ -20388,7 +20442,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -22094,7 +22148,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -36779,6 +36833,24 @@
     },
     {
       "album": {
+        "name": "Generaci\u00f3n Sedienta",
+        "url": "https://open.spotify.com/album/0HgjHl8TE8v4jld3xFe7DB"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315600,
+      "name": "Todo Va Estar Bien",
+      "url": "https://open.spotify.com/track/3I0GpbhYRufXr707fqU44D"
+    },
+    {
+      "album": {
         "name": "Toki",
         "url": "https://open.spotify.com/album/2TagoLY223oIfTjr1pu6Pe"
       },
@@ -40988,7 +41060,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 143280,
       "name": "ZAZA - Remix",
       "url": "https://open.spotify.com/track/157SLPPoUprFCCeFf6aSSK"

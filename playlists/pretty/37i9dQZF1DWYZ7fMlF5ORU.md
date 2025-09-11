@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,412 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,492 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 60 | [Tô Com Você](https://open.spotify.com/track/1xjgtHs2TqhHdunl9AZube) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6Kx7Fuhm4oWY8AuDqUfQPI) | 3:48 |
 | 61 | [Permanecer](https://open.spotify.com/track/4nBhXPQZP4YurzudIPHR9X) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:46 |
 | 62 | [Me Faz Viver](https://open.spotify.com/track/09HItbO4pDpApuAhf6GwUP) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 4:19 |
-| 63 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
+| 63 | [Vem Com Josué Lutar Em Jericó \- Ao Vivo](https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vem Com Josué Lutar Em Jericó \(Ao Vivo\)](https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw) | 4:09 |
 | 64 | [Oh Glória, Aleluia](https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Graça Me Basta](https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM) | 3:45 |
 | 65 | [Vê Se Vigia](https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:54 |
 | 66 | [Rei das nações](https://open.spotify.com/track/7e9Tk2WfDMC7CULNVHY4p9) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2) | [Rei das nações](https://open.spotify.com/album/2eaDXLSrL8Ax7EX7Rl4ZYW) | 3:41 |
 | 67 | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/track/20AXPJat3twULL83NSgkzF) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/album/5Tamfr1lUKWHe4LlbIKtSW) | 4:07 |
-| 68 | [Vem Com Josué Lutar Em Jericó \- Ao Vivo](https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vem Com Josué Lutar Em Jericó \(Ao Vivo\)](https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw) | 4:09 |
+| 68 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 69 | [Instrumento Teu](https://open.spotify.com/track/1VakySJFPUTEd5UFp5omL5) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/1LzN90fTqsivC9jEZlXPde) | 4:38 |
 | 70 | [Deus da Minha Vida](https://open.spotify.com/track/3wREyThOGCkIVTHONQbuN6) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/5Z3MFXm0HUTM2z3NSzVnxd) | 4:45 |
 | 71 | [Glória, Honra e Poder](https://open.spotify.com/track/4UcIesX6rkAqrSikVU12tr) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Falando Dele](https://open.spotify.com/album/38jXLFKb9lamBZS4v8JzjU) | 5:09 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 74 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 | 75 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 3:50 |
 | 76 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Groove \(Ao Vivo\)](https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9) | 4:37 |
-| 77 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
-| 78 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 |
+| 77 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 |
+| 78 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
 | 79 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
 | 80 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 |
 

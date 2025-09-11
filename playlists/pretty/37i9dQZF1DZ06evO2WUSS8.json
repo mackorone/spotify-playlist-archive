@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACGBv2qoA8ugQ5OLZtajYBb",
+  "snapshot_id": "aL9uAAAAAAB7b8DwqJQV/j6zqfiMrLNq",
   "tracks": [
     {
       "added_at": null,
@@ -639,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
       },
       "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+      "duration_ms": 394640,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
       "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 394640,
-      "name": "Sparrow",
-      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Fifa",
-      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 217613,
       "name": "Samba Pa Ti",
       "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 315466,
       "name": "Lady",
       "url": "https://open.spotify.com/track/0dVLQmK8gQrz1zjkhhar3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
       "added_at": null,

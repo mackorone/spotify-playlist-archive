@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,199 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,207 likes - 46 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 6 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 7 | [PALHAÇADA](https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [EU GOSTO DE GAROTAS](https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU) | 2:27 |
 | 8 | [Oompa Loompa](https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 3:14 |
-| 9 | [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 |
-| 10 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 |
+| 9 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 |
+| 10 | [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 |
 | 11 | [Show Lotado](https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:26 |
 | 12 | [acha que a vida é um morango](https://open.spotify.com/track/7l7NzgtELvaxXi4H9yT2Nw) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:36 |
 | 13 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 43 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
 | 44 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
 | 45 | [Se Tentar](https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1) | [Mc Safira](https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Se Tentar](https://open.spotify.com/album/2Hip6f21AznxijIyxps6da) | 2:01 |
+| 46 | [FOFINHO SUBMISSO](https://open.spotify.com/track/3L18ZuWtiptTLd2wbqE9P3) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju), [NORA](https://open.spotify.com/artist/27ITClgUCIc7jbTZfp8Q4r) | [FOFINHO SUBMISSO](https://open.spotify.com/album/6OZtQ1z5yC4tDnQQ6dPu69) | 3:26 |
 
-Snapshot ID: `aL4cgAAAAADVMMAZpmYI//R0SizSNR37`
+Snapshot ID: `aL9uAAAAAAC1eGRbSbvkIrbCv+QGp+Ka`

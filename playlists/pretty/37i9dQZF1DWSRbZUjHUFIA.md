@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 
 > Keep your workout 100 with these Hip Hop motivators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,418 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,457 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 18 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
 | 19 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
 | 20 | [NO VIP](https://open.spotify.com/track/6hcNBj0GRuGVcewMat0y9u) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [NO VIP](https://open.spotify.com/album/1l80V3c3tG4dauykNlxR9M) | 3:00 |
-| 21 | [Stop Playing With Me](https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:13 |
+| 21 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 22 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
-| 23 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
-| 24 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 |
+| 23 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 |
+| 24 | [Stop Playing With Me](https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:13 |
 | 25 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 26 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 27 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 57 | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn) | 3:22 |
 | 58 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 |
 | 59 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
-| 60 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 |
+| 60 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 |
 
 Snapshot ID: `AAAAACnQeSkxDtSz+KBzTyQTl6O4sUwP`

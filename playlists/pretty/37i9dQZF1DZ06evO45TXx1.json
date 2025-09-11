@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 14874,
+  "num_followers": 14886,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAdGMWnzoYJGqdw8qy8dnJV",
+  "snapshot_id": "aL9uAAAAAABGdEg7JR1ysun7eoOTSz1h",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "44",
+      "url": "https://open.spotify.com/track/54Am9PMURLJ6NcJApP4l05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -123,30 +147,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "44",
-      "url": "https://open.spotify.com/track/54Am9PMURLJ6NcJApP4l05"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 134872,
+      "name": "Perdi o Interesse",
+      "url": "https://open.spotify.com/track/13WhN6sxeG8zemYgKa4xft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Queridinho de Deus",
         "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
@@ -731,34 +751,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essa Minha Vida Bandida",
-        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
       },
       "artists": [
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/1gJ6nE9y60w21FhOzoqfRU"
         },
         {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+          "name": "PILANTRINHAS",
+          "url": "https://open.spotify.com/artist/78dDMfgEhmySKmPSK2rG0k"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Intriga",
-      "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
+      "duration_ms": 164000,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
     },
     {
       "added_at": null,
@@ -791,30 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Horas",
-        "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
+        "name": "Essa Minha Vida Bandida",
+        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
       "artists": [
         {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/1gJ6nE9y60w21FhOzoqfRU"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
-          "name": "PILANTRINHAS",
-          "url": "https://open.spotify.com/artist/78dDMfgEhmySKmPSK2rG0k"
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 164000,
-      "name": "4 Horas",
-      "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
+      "duration_ms": 152380,
+      "name": "Intriga",
+      "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
     },
     {
       "added_at": null,
@@ -847,6 +867,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quase Pronta Mixtape",
+        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "YORI",
+          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Sexo Hot",
+      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -875,34 +923,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quase Pronta Mixtape",
-        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "YORI",
-          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Sexo Hot",
-      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
     },
     {
       "added_at": null,
@@ -1007,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 104470,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -1027,26 +1067,6 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 104470,
-      "name": "Sexto Sentido",
-      "url": "https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS"
     },
     {
       "added_at": null,
@@ -1119,34 +1139,6 @@
       "duration_ms": 150260,
       "name": "HSEH",
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 156122,
-      "name": "Dualidade",
-      "url": "https://open.spotify.com/track/4WX8VfKyZ4pzZag1FKg7uq"
     },
     {
       "added_at": null,

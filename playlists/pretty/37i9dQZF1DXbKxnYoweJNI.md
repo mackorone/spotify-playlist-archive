@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 吳汶芳 \(Fang Wu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,612 likes - 129 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,619 likes - 129 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,275 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,283 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 39 | [Kin Bairan \- Instrumental](https://open.spotify.com/track/658ZhhzhxwHwT2wOdBUe4M) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Hindustani Classics \- Instrumental](https://open.spotify.com/album/4LMygqOC79uSoN7CyeOcZR) | 3:50 |
 | 40 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
 | 41 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 |
-| 42 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
+| 42 | [Devotion](https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 6:53 |
 | 43 | [Sitar Theme](https://open.spotify.com/track/3d97zTIcKA0mDhx53c1uix) | [ROR](https://open.spotify.com/artist/0r6xzCyrNCABaaNTAgJiyK) | [Indian Spirit \- Best In Lounge & Fusion](https://open.spotify.com/album/4AmtN0w852r7Qzz0bPBz4j) | 5:41 |
 | 44 | [Seeker](https://open.spotify.com/track/3TcvGdMcAdYRUdFYCbq4dJ) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Seeker](https://open.spotify.com/album/1oibERLC6rCi40UvpTp3z6) | 6:22 |
 | 45 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 |
 | 46 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
-| 47 | [Devotion](https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 6:53 |
+| 47 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
 | 48 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS), [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
 | 49 | [Yaman Kalyan](https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Rais Khan](https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 4:20 |
 | 50 | [The Natural Forces \- Original Mix](https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 2:04 |

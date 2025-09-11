@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Soner Sarıkabadayı x Sefo x Aerro ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,826 likes - 133 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,831 likes - 133 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 112 | [Biscaglione](https://open.spotify.com/track/4ol2QPwvpQngAWjEQNLMjH) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [Biscaglione](https://open.spotify.com/album/1NgEnwTRwOxVPivmh7wlwM) | 2:56 |
 | 113 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 |
 | 114 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 |
-| 115 | [Palisades](https://open.spotify.com/track/3mg5fgXMWwhoo9u9LiAYGv) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [prod\. otis](https://open.spotify.com/artist/2AaJiT6ubwdNcRqDzcXzY2), [Orvcle](https://open.spotify.com/artist/7FryZ2eiCKFP5J9lal9kzb) | [Palisades](https://open.spotify.com/album/05AUFp1npT9ue6hPfmoND2) | 2:19 |
+| 115 | [Palisades](https://open.spotify.com/track/3mg5fgXMWwhoo9u9LiAYGv) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [prod\. otis](https://open.spotify.com/artist/6Mhs6e7hlXBd04hBJ9qLsD), [Orvcle](https://open.spotify.com/artist/7FryZ2eiCKFP5J9lal9kzb) | [Palisades](https://open.spotify.com/album/05AUFp1npT9ue6hPfmoND2) | 2:19 |
 | 116 | [Kastın Mı Var?](https://open.spotify.com/track/5lrTq1NzFw0f9WfGZPyEiP) | [Onur Ballı](https://open.spotify.com/artist/7hk05ZQVr9Mumdisy2dgbs) | [Yarına Yakın](https://open.spotify.com/album/578IxJGV4sArCuQTayfOEX) | 2:24 |
 | 117 | [Aşk Nereye Giderse](https://open.spotify.com/track/2r5hSGkAlagpPEslGMA8N7) | [Hande Ertürk](https://open.spotify.com/artist/5EbKb6Ac33LR572uP8m2SD) | [Aşk Nereye Giderse](https://open.spotify.com/album/6tl68f1xuaONvWlidWsxzA) | 3:47 |
 | 118 | [Bu Zamanda](https://open.spotify.com/track/2VDcuwHGAcjwvgzNOgk22P) | [İnanç Karaduman](https://open.spotify.com/artist/3NtwQhUijlps6adAC1jOlI) | [Bu Zamanda](https://open.spotify.com/album/0GOf7SZk0LuDekkWhBzyDk) | 2:46 |

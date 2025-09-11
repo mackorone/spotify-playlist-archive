@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 754786,
+  "num_followers": 754917,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACl4Lqh14cEoACiM1QBiKBr",
+  "snapshot_id": "aL9uAAAAAAAb7kafbsNwvkRPXSxm1C70",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
         "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 281000,
       "name": "Golpes En El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Pacas De A Kilo",
-      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "El Ni\u00f1o Y La Boda",
-      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historias Que Contar",
         "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 188266,
       "name": "Se\u00f1or Locutor",
       "url": "https://open.spotify.com/track/6tTdUPxER1wdW1lAVcuBc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "El Ni\u00f1o Y La Boda",
+      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herencia Musical 20 Corridos Inolvidables",
-        "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Jefe De Jefes",
-      "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Reuni\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 176760,
       "name": "\u00bfEn D\u00f3nde Estabas?",
       "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herencia Musical 20 Corridos Inolvidables",
+        "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Jefe De Jefes",
+      "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Los Tres Amigos",
-      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidos Para Siempre",
         "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 181306,
       "name": "Mi Sangre Prisionera",
       "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Los Tres Amigos",
+      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
     },
     {
       "added_at": null,

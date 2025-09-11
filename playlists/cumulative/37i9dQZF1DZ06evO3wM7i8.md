@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 53 min
+59 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Swing 42](https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.12 / 1940 \- 1941](https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL) | 2:48 | 2025-07-20 |  |
 | [Swing from Paris](https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:34 | 2025-07-20 |  |
 | [Swinging with Django](https://open.spotify.com/track/75LBvLhNCU8KWqeOr6BSOd) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Michel Warlop](https://open.spotify.com/artist/2c0fwzZLBTcn71TtEY5rem) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 2:52 | 2025-07-20 |  |
+| [The Sheik of Araby](https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA) | [Ted Snyder](https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Hot Club de France Quintet](https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj) | [Reinhardt, Django: Swingin' With Django \(1937\)](https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty) | 3:08 | 2025-09-11 |  |
 | [Topsy](https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:05 | 2025-08-19 |  |
 | [Topsy](https://open.spotify.com/track/7Gj5OjTc4riTgEL1C0dhws) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 3:05 | 2025-07-20 | 2025-08-19 |
 | [Tornerai \(J'attendrai\)](https://open.spotify.com/track/4Ka5krmfRuHNBYXJ6jV0C7) | [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Reinhardt, Django: Django Reinhardt \(1938\-1939\)](https://open.spotify.com/album/2ifUISRaHb1iVcqD8ypjIJ) | 2:40 | 2025-07-20 | 2025-07-30 |

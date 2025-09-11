@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > freshly squeezed 📹  elle coves
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,372 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,377 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

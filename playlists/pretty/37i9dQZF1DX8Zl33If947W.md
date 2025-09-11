@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,451 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,555 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 13 | [Wenn du tanzt](https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Grande](https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW) | 3:50 |
 | 14 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 |
 | 15 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
-| 16 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
-| 17 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
+| 16 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
+| 17 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
 | 18 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 |
 | 19 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 20 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 28 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
 | 29 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 |
 | 30 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
-| 31 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
-| 32 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
+| 31 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
+| 32 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 33 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
 | 34 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
 | 35 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |

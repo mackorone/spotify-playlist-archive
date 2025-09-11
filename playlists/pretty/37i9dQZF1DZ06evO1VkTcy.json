@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22236,
+  "num_followers": 22234,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABTn2LopvuQ1l9CqWQK3o9v",
+  "snapshot_id": "aL9uAAAAAAA2zxIxTcz7mq0UaRh+kADB",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 16",
         "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
       },
@@ -175,30 +199,6 @@
       "duration_ms": 757611,
       "name": "Poesia Ac\u00fastica 16",
       "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Sa\u00edda Est\u00e1 Dentro",
         "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 231407,
       "name": "P\u00e1ssaros",
       "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
       },
@@ -963,22 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
       },
       "artists": [
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
     },
     {
       "added_at": null,
@@ -999,6 +979,26 @@
       "duration_ms": 213999,
       "name": "Melhor N\u00e3o",
       "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": null,
@@ -1235,6 +1235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1283,26 +1303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bem-Vindo ao Submundo",
         "url": "https://open.spotify.com/album/5Fki20mQUIjYNEnV22JtOP"
       },
@@ -1319,6 +1319,26 @@
       "duration_ms": 279712,
       "name": "S\u00f3 Mais Um",
       "url": "https://open.spotify.com/track/1KRM8iX12DrI1ClNsQ6MaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
     },
     {
       "added_at": null,
@@ -1343,26 +1363,6 @@
       "duration_ms": 179310,
       "name": "Ressentimento",
       "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
     },
     {
       "added_at": null,

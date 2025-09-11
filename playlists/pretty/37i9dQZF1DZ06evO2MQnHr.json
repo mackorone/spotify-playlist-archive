@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAA+NUxJBjUaPhjnzKIjyTWJ",
+  "snapshot_id": "aL9uAAAAAAAZP6d6GIuqitjdO70uxh2+",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Heart Thing (feat. Dustin Lynch)",
-        "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Broken Heart Thing (feat. Dustin Lynch)",
-      "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Day One (feat. Madeline Merlo)",
         "url": "https://open.spotify.com/album/5rqh44JK6xLVMndd2ODnD2"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 152748,
       "name": "Day One (feat. Madeline Merlo)",
       "url": "https://open.spotify.com/track/1UykuOxBRThpGGvgtOlIAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Heart Thing (feat. Dustin Lynch)",
+        "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Broken Heart Thing (feat. Dustin Lynch)",
+      "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 170626,
-      "name": "One House Down (from the girl next door)",
-      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
+      "duration_ms": 209933,
+      "name": "YOUNG-ish",
+      "url": "https://open.spotify.com/track/0zPJKHVdjItG4ehe6ZY1Sy"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 209933,
-      "name": "YOUNG-ish",
-      "url": "https://open.spotify.com/track/0zPJKHVdjItG4ehe6ZY1Sy"
+      "duration_ms": 170626,
+      "name": "One House Down (from the girl next door)",
+      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
+      "duration_ms": 190826,
+      "name": "I Need A Drink",
+      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 190826,
-      "name": "I Need A Drink",
-      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,
@@ -596,26 +596,6 @@
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        }
-      ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         },
@@ -627,6 +607,26 @@
       "duration_ms": 223289,
       "name": "Have You Ever Had so Much Fun",
       "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        }
+      ],
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     }
   ],
   "unique_name": "This Is Madeline Merlo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,501 likes - 97 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,039 likes - 97 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 69 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 |
 | 70 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 |
 | 71 | [Nine Red Squares](https://open.spotify.com/track/7bOmiFvStoWQ1Z3cxXshq5) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Sewerslvt Presents: Cynthoni, Pt\. 2](https://open.spotify.com/album/1DQf6E6KdekVzfw8D25T93) | 3:33 |
-| 72 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 |
+| 72 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR), [Sara Kawai](https://open.spotify.com/artist/1umhlU8WUwF8leg9QZtRqp) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 |
 | 73 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 |
 | 74 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 |
 | 75 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |

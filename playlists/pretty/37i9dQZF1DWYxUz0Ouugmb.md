@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar\. Cover: Difki Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,299 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,314 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 |
-| 2 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 |
+| 1 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 |
+| 2 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 |
 | 3 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
 | 4 | [penjaga hati](https://open.spotify.com/track/6i9Ci0IN1q1GcnhdbKU7kZ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:20 |
 | 5 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 54 | [Denah Rumahmu](https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu](https://open.spotify.com/album/5JAL8mW3bGLe5yu40In446) | 3:55 |
 | 55 | [Tanpa Batas Waktu](https://open.spotify.com/track/1UY33OSDxSwBHmPfYmCUfh) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Tanpa Batas Waktu](https://open.spotify.com/album/4fxoL7dYH5vNu15gH0UJkb) | 4:27 |
 
-Snapshot ID: `AAAAAAEAELJapLt45GjszYByXoYKf20G`
+Snapshot ID: `AAAAAD8BRcLhoPyuZQrRHe8JpoRCGdcU`

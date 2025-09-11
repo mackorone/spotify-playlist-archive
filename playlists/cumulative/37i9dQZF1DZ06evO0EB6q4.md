@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 34 min
+117 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Duelo](https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Duelo](https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy) | 2:52 | 2024-09-01 |  |
 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 | 2023-12-30 |  |
 | [EAVEMARÍA](https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [EAVEMARÍA](https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq) | 2:18 | 2025-06-01 |  |
-| [El Día Que Te Duela](https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:13 | 2024-11-13 |  |
+| [El Día Que Te Duela](https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:13 | 2024-11-13 | 2025-09-11 |
 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 | 2023-12-30 | 2025-03-08 |
 | [En Tu Boca El Humo Me Sabe Mejor](https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [En Tu Boca El Humo Me Sabe Mejor](https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl) | 3:18 | 2025-08-31 |  |
 | [Extrañandote](https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 2:53 | 2023-12-30 | 2024-11-13 |
@@ -53,6 +53,7 @@
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-21 | 2025-01-12 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:08 | 2025-01-12 |  |
 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-12-30 | 2024-01-11 |
+| [Inevitable](https://open.spotify.com/track/48OteOzReG65pz9ThLAksY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Las Que No Estaban](https://open.spotify.com/album/3rnCF5ImzbY6ngyeoaKg8t) | 2:52 | 2025-09-11 |  |
 | [Invisibles](https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:52 | 2023-12-30 |  |
 | [La Última](https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO) | 3:07 | 2023-12-30 | 2024-12-21 |
 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 | 2024-12-21 |  |

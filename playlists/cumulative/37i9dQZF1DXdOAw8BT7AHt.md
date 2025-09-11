@@ -4,11 +4,12 @@
 
 > The best in every corner of modern punk rock\. Cover: La Dispute
 
-540 songs - 1 day 3 hr 6 min
+541 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 | 2025-05-08 |  |
+| [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 | 2025-09-04 |  |
 | [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 | 2024-10-10 | 2025-02-16 |
 | [20 Something](https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [20 Something](https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY) | 2:53 | 2025-02-07 | 2025-04-27 |
 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2025-02-07 |  |
@@ -65,7 +66,7 @@
 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 | 2024-06-27 | 2024-08-10 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-23 | 2024-06-01 |
 | [Big Dick Energy](https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Big Dick Energy](https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR) | 4:16 | 2024-11-15 | 2025-02-19 |
-| [Big Dogs](https://open.spotify.com/track/3XgZv8J2mB73xJiDQ7MjgR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Big Dogs](https://open.spotify.com/album/2LCJWfVoj8pusZE9Ed2F93) | 2:44 | 2025-07-31 |  |
+| [Big Dogs](https://open.spotify.com/track/3XgZv8J2mB73xJiDQ7MjgR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Big Dogs](https://open.spotify.com/album/2LCJWfVoj8pusZE9Ed2F93) | 2:44 | 2025-07-31 | 2025-09-11 |
 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 | 2023-08-23 | 2024-02-16 |
 | [Big Pharma](https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Big Pharma](https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp) | 2:46 | 2023-09-22 | 2024-06-01 |
 | [Billion Dollar Question](https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Wrong Side of Heaven](https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2) | 1:35 | 2025-09-04 |  |

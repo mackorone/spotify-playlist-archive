@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,358 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,410 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 13 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 14 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 |
 | 15 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
-| 16 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
-| 17 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
+| 16 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
+| 17 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
 | 18 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 19 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 20 | [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 80 | [Mykonos](https://open.spotify.com/track/0zRqVLbBZJrE7AAKrSW1RU) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Sun Giant](https://open.spotify.com/album/5NEop2elZh36TMtGHA9Zrt) | 4:35 |
 | 81 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
 | 82 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
-| 83 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
-| 84 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
+| 83 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
+| 84 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
 | 85 | [Saturday Waits](https://open.spotify.com/track/2pprnAsYv3qvelEO4DG1vX) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Loney, Noir](https://open.spotify.com/album/1tJa3GN7NV5MT79PIVxDyq) | 3:39 |
 | 86 | [Cold Discovery](https://open.spotify.com/track/7eP5OpMpDJaUz3DL1LPbDi) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:56 |
 | 87 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |

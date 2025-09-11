@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 244234,
+  "num_followers": 244280,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAC5gWLcxBGkUu9X+L6dM5EK",
+  "snapshot_id": "aL9uAAAAAAAT302tpe0JdujsgoWaTC+6",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
       },
       "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 280000,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
     },
     {
       "added_at": null,
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
       },
       "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Fruto de la Tierra",
-      "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
+      "duration_ms": 280000,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
     },
     {
       "added_at": null,

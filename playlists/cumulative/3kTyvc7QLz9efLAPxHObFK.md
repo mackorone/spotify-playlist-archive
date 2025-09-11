@@ -4,7 +4,7 @@
 
 > 
 
-2,524 songs - 5 day 11 hr 53 min
+2,525 songs - 5 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,6 +1255,7 @@
 | [KO](https://open.spotify.com/track/1zk0QdUYmguWujXc5T0NJO) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [Hickz](https://open.spotify.com/artist/7sLMlmiXlbkdDP7OnEYOCO) | [KO](https://open.spotify.com/album/4dBKKdcHSqZe7j6cKpZD4S) | 3:15 | 2024-05-04 |  |
 | [KOKUSHIMUSOU](https://open.spotify.com/track/3o4ELAID5fuPEJIGC7vJCK) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KOKUSHIMUSOU](https://open.spotify.com/album/2NsQgw0uNzapLd9rTeguZg) | 3:14 | 2023-05-01 |  |
 | [Kryptonite](https://open.spotify.com/track/7Ithcf62lKhaLqonHSXOOq) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Kryptonite](https://open.spotify.com/album/118QsnYZTmidlw0Iwut8bW) | 3:04 | 2024-10-27 |  |
+| [L.O.V.E.S.I.C.K](https://open.spotify.com/track/2IG1k5r5yNlE7Pd4tht2HP) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [音琴兎愛](https://open.spotify.com/artist/7lrXm3mI2WhVU8xiZjKgyz) | [L.O.V.E.S.I.C.K](https://open.spotify.com/album/7fiJCB9JvpaX5nz0lCeXQP) | 2:36 | 2025-09-10 |  |
 | [L.O.V.E.S.I.C.K](https://open.spotify.com/track/1iZa9GceQ1pxDVZ9eHWo7C) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [音琴兎愛](https://open.spotify.com/artist/7lrXm3mI2WhVU8xiZjKgyz) | [Hikari](https://open.spotify.com/album/0ajdwcr46O6l6f7r0VZ8Za) | 2:37 | 2025-06-07 |  |
 | [La Bomba \- 2023 Refix](https://open.spotify.com/track/1VDaYGhQvWnWq1RVUtoHJV) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [We Roar Special](https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r) | 3:59 | 2023-10-20 |  |
 | [LA DI DA](https://open.spotify.com/track/6l07fK093JBCIh6enC4cof) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [LA DI DA](https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR) | 2:59 | 2024-04-26 |  |

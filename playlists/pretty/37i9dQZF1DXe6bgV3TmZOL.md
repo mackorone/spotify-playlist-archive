@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,478,278 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,478,678 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 30 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 31 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 | 32 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
-| 33 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 |
-| 34 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
+| 33 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
+| 34 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 |
 | 35 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 |
 | 36 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 37 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
-| 38 | [V.A.N](https://open.spotify.com/track/2WtFbotxC95UD2r1RzE036) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 4:34 |
+| 37 | [V.A.N](https://open.spotify.com/track/2WtFbotxC95UD2r1RzE036) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 4:34 |
+| 38 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 39 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 |
 | 40 | [Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6) | [Design19](https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8) | [Trigger](https://open.spotify.com/album/7o5z9uEOAZkfZJAV26Lv1j) | 3:56 |
 | 41 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 69 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 70 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 |
 | 71 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
-| 72 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
-| 73 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 72 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 73 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
 | 74 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 75 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
 | 76 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 96 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 97 | [Why Am I Like This?](https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Violent Noise](https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP) | 3:13 |
 | 98 | [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 |
-| 99 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
-| 100 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
+| 99 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
+| 100 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
 
 Snapshot ID: `AAAAAIzJ87QzoqOAGZrXnwQCAmFFdpci`

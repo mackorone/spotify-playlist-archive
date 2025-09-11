@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,277 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,353 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 19 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 20 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
 | 21 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 22 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 23 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
+| 22 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
+| 23 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 24 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 25 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 26 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 57 | [A Good Heart](https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX) | [Feargal Sharkey](https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T) | [Feargal Sharkey](https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N) | 4:41 |
 | 58 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 |
 | 59 | [Jump \- 2004 Remaster](https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 4:04 |
-| 60 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
-| 61 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |
+| 60 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |
+| 61 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
 | 62 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
 | 63 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
 | 64 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 92 | [It's The First Time \- Bonus Track](https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Fortune Fairytales](https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn) | 3:58 |
 | 93 | [Rockin' The Trolls](https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp) | [BZN](https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S) | [The Best Of Bzn](https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J) | 3:06 |
 | 94 | [She's a Liar](https://open.spotify.com/track/2WoozePgluOVStfhp6jKsD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Hit Story](https://open.spotify.com/album/2J1TbXAta6c4XDQTmzRArs) | 3:49 |
-| 95 | [Holiday Rap \- Version 1986](https://open.spotify.com/track/2wCgOxYof67qXam24a3pHz) | [MC Miker & DJ Sven](https://open.spotify.com/artist/4LxtkdZFFbBjqvRkehIbAq) | [Holiday Rap: Best of Collector Mc Miker & DJ Sven \(Original Version\)](https://open.spotify.com/album/3V5IbtfYHbFSr2dHQ0944q) | 4:26 |
-| 96 | [Nescio](https://open.spotify.com/track/0zvjLrRGZsBXYkb7gWvTzD) | [Nits](https://open.spotify.com/artist/0UNaofxGb2voAeeZrU38SW) | [Nits?](https://open.spotify.com/album/6788gpjJOOwR9gJV4v2uTb) | 4:46 |
+| 95 | [Nescio](https://open.spotify.com/track/0zvjLrRGZsBXYkb7gWvTzD) | [Nits](https://open.spotify.com/artist/0UNaofxGb2voAeeZrU38SW) | [Nits?](https://open.spotify.com/album/6788gpjJOOwR9gJV4v2uTb) | 4:46 |
+| 96 | [Holiday Rap \- Version 1986](https://open.spotify.com/track/2wCgOxYof67qXam24a3pHz) | [MC Miker & DJ Sven](https://open.spotify.com/artist/4LxtkdZFFbBjqvRkehIbAq) | [Holiday Rap: Best of Collector Mc Miker & DJ Sven \(Original Version\)](https://open.spotify.com/album/3V5IbtfYHbFSr2dHQ0944q) | 4:26 |
 | 97 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/5a9BgulCg84pm4kgwGGArI) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/2Rd1gDdcoKvdtwKRwFk3SF) | 4:20 |
 | 98 | [Sweet Child O' Mine](https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 5:54 |
 | 99 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 |

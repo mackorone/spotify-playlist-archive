@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAC9g+G/tJS11f6GKZMDml0F",
+  "snapshot_id": "aL9uAAAAAAAlvCEK06O1kQp8aKh12mZd",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 137454,
-      "name": "Ceiling Games",
-      "url": "https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep"
+      "duration_ms": 66447,
+      "name": "You're Gloating",
+      "url": "https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 66447,
-      "name": "You're Gloating",
-      "url": "https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r"
+      "duration_ms": 137454,
+      "name": "Ceiling Games",
+      "url": "https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep"
     },
     {
       "added_at": null,
@@ -300,54 +300,6 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 96945,
-      "name": "Mh\u00f2r",
-      "url": "https://open.spotify.com/track/0xtRjT86O6sdt2BaJXyUb3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 81493,
-      "name": "Mary Agnes & Callie",
-      "url": "https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
-        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Training With Mr. Schaibel",
-      "url": "https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Department Q (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
       "duration_ms": 126568,
       "name": "Carl's New Office",
       "url": "https://open.spotify.com/track/296XQNqhoxOALW0CVzq6DN"
@@ -367,6 +319,38 @@
       "duration_ms": 143893,
       "name": "LaBelle Opera",
       "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 78496,
+      "name": "The Scholar's Mate",
+      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 81493,
+      "name": "Mary Agnes & Callie",
+      "url": "https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

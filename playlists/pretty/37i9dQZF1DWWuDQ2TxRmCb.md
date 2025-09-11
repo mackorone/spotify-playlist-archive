@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,435 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,472 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 40 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 |
 | 41 | [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 |
 | 42 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |
-| 43 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
-| 44 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 43 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 44 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
 | 45 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 46 | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/track/5Ahp1Ru3jrl1pDTyFmFVFa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/album/063gO0cVwsM9Yq0agVVHLj) | 3:42 |
 | 47 | [Maye Ni Meriye](https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD) | [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Maye Ni Meriye](https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW) | 4:25 |

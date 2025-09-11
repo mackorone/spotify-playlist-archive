@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,321 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,478 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 20 | [Estuve](https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:15 |
 | 21 | [Loco](https://open.spotify.com/track/1tQYNmqyChbjXyZqOkto7s) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 3:16 |
 | 22 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
-| 23 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
-| 24 | [No Sé Olvidar](https://open.spotify.com/track/3T9vhAX8yaBAdEFJa4yy2b) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:21 |
+| 23 | [No Sé Olvidar](https://open.spotify.com/track/3T9vhAX8yaBAdEFJa4yy2b) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:21 |
+| 24 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
 | 25 | [Abrázame](https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 3:17 |
 | 26 | [Qué Lástima](https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:20 |
 | 27 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 39 | [Mañana Es Para Siempre](https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:40 |
 | 40 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
 | 41 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
-| 42 | [La Cumbia Triste](https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P) | 3:30 |
-| 43 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
-| 44 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
+| 42 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
+| 43 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
+| 44 | [La Cumbia Triste](https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P) | 3:30 |
 | 45 | [No Se Me Hace Fácil](https://open.spotify.com/track/0c6xdgPkihXqWFGx0CpVkU) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 3:45 |
 | 46 | [Es la Mujer](https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 2:58 |
 | 47 | [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 49 | [Contigo Aprendí](https://open.spotify.com/track/1Ifm0tGm582UZuOHcfAuTM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 3:24 |
 | 50 | [Si He Sabido Amor](https://open.spotify.com/track/0CCveJ5ZKhTnOgAcT5zrSO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 3:53 |
 
-Snapshot ID: `aL4cgAAAAAAlqgd/I5YEWco1wZAA/98u`
+Snapshot ID: `aL9uAAAAAAAgOMCulmNLjB8FPSlv9FLw`

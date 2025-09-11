@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > 👻 don't forget to live\. IDOLS is out!  Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,015 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,026 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 23 | [Fuck Off \- FIDLAR Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 |
 | 24 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 |
 | 25 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
-| 26 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
-| 27 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
+| 26 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
+| 27 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
 | 28 | [Regra da Casa \- Ao Vivo](https://open.spotify.com/track/0zTq6CS9roo3NFJ6WtktiH) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Acústico Kamaitachi, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6L3w8n0tKezdefcpIYTc7K) | 2:48 |
 | 29 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 30 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |

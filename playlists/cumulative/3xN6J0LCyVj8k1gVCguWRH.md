@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,277 songs - 12 day 7 hr 8 min
+5,279 songs - 12 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,6 +1297,7 @@
 | [Drink My Problems Away](https://open.spotify.com/track/5rFJzOEel7sMIe49f7KsXT) | [Yung LC](https://open.spotify.com/artist/39dFqypP9TcTjylb6s5N7U) | [Before I Changed](https://open.spotify.com/album/0P8vCdYBk5QNW2jkYBdRvW) | 1:52 | 2024-02-13 | 2024-02-21 |
 | [Drink The River](https://open.spotify.com/track/79DYCnC5S7lhCwo1rKIwoM) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 3:35 | 2023-12-29 | 2024-03-08 |
 | [Drip](https://open.spotify.com/track/76t3kwyZrNb2FIb6TIBfC7) | [Paul Law](https://open.spotify.com/artist/3WZR44LCni9s4kxjq7UUhT) | [Drip](https://open.spotify.com/album/0dckg2hUJBHmPMxBGh1kcq) | 3:10 | 2024-04-13 | 2024-04-24 |
+| [Drive My Car](https://open.spotify.com/track/3y9FcUfrYXHnIYnX5kpnPb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Drive My Car](https://open.spotify.com/album/5MgKrigRaertcxGsj7zUAD) | 1:52 | 2025-09-10 |  |
 | [Drive Slow](https://open.spotify.com/track/09SbfON8Ku2P4XOw3HNqq6) | [Becca Hannah](https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK), [The FXP](https://open.spotify.com/artist/7nl3G9Ak0XfwSEdFF7ZOUS) | [Drive Slow](https://open.spotify.com/album/4h5GmSrdCseWIDoh0wjdAh) | 2:52 | 2024-03-26 | 2024-04-12 |
 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 | 2025-08-18 | 2025-08-31 |
 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 | 2024-08-11 | 2024-08-13 |
@@ -1844,6 +1845,7 @@
 | [Good Love \- Radio Edit](https://open.spotify.com/track/2Sg2oceR8H9zYk69sih8fr) | [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Good Love](https://open.spotify.com/album/2iew5ZqkvYVRqQXEPOAIp3) | 3:39 | 2021-04-10 | 2021-04-26 |
 | [Good Morning](https://open.spotify.com/track/7yv1XX4qOeIbtBLuKjgie7) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Good Morning](https://open.spotify.com/album/4ZwRTFW76xjFAHY24gmh6Q) | 3:38 | 2021-10-23 | 2021-11-07 |
 | [Good Morning](https://open.spotify.com/track/4qc4UKaPvZE9pWJSooHHmF) | [Meeting of the Mimes](https://open.spotify.com/artist/2uRJUGXt7p1rtEdPySZ8nh), [3HRE](https://open.spotify.com/artist/1gza2uxpzdhP3TZzk3WBJN) | [Good Morning](https://open.spotify.com/album/5j1uYRQhfM0chV6oQQChsv) | 3:58 | 2024-10-22 | 2024-11-03 |
+| [Good News](https://open.spotify.com/track/0b28fB7SY2A02P5t1GdHOb) | [Sharveal](https://open.spotify.com/artist/1wB8uJ5IudA0NItT9jbmsb) | [Sharveal](https://open.spotify.com/album/051KRjrs5GsrovSdZd5KGK) | 3:24 | 2025-09-10 |  |
 | [Good Night Godzilla?](https://open.spotify.com/track/0sxv2bkcaWnnkSAFmsWPv7) | [Sunzoom](https://open.spotify.com/artist/0RtxDiANZrjAXxYcUuddcq) | [Good Night Godzilla?](https://open.spotify.com/album/3inQpfdNoqQX10aKmZ7cfK) | 3:38 | 2021-03-19 | 2021-04-04 |
 | [Good On My Own](https://open.spotify.com/track/0cTbbEYn8pYN1bh1DIAtBt) | [Moodygee](https://open.spotify.com/artist/324vg036DC5fiqiVK4eeto), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [Good On My Own](https://open.spotify.com/album/6YeHImTfIwrnsQfbohcSwd) | 2:32 | 2022-10-21 | 2022-11-12 |
 | [Good Riddance](https://open.spotify.com/track/5u3xlOWWnaV5W4Muo9I5hl) | [Derek Joe](https://open.spotify.com/artist/5bvRnXw7VMjfNswvQpvKSn) | [Good Riddance](https://open.spotify.com/album/2KYqlJ5w24jbyxDjGj2csp) | 2:39 | 2024-07-26 | 2024-08-06 |

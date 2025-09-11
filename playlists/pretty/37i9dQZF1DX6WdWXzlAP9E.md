@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Live recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,570 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,712 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

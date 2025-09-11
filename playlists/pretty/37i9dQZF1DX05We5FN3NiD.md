@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > The Indie highlights of 2019\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,762 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,788 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 20 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
 | 21 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 22 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
-| 23 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
-| 24 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
+| 23 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
+| 24 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 25 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
 | 26 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
 | 27 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 66 | [The Barrel](https://open.spotify.com/track/1Z7AGDlHCGjOOOF6sc4OMr) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:59 |
 | 67 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 |
 | 68 | [Let You Know](https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Let You Know](https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0) | 3:19 |
-| 69 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
-| 70 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 |
+| 69 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 |
+| 70 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
 | 71 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
 | 72 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 |
 | 73 | [Friends](https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Friends](https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz) | 3:43 |
@@ -91,11 +91,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 81 | [Naeem](https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 4:22 |
 | 82 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 |
 | 83 | [Ordinary Pleasure](https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG) | 3:03 |
-| 84 | [Lovestained](https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx) | 2:55 |
-| 85 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 |
-| 86 | [Time](https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P) | 3:56 |
-| 87 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
-| 88 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 |
+| 84 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 |
+| 85 | [Lovestained](https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx) | 2:55 |
+| 86 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 |
+| 87 | [Time](https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P) | 3:56 |
+| 88 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
 | 89 | [Charlie](https://open.spotify.com/track/6SPOM20nWbQSBvTwzgIzqg) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux) | 3:10 |
 | 90 | [Fuzzybrain](https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:39 |
 | 91 | [New Love Cassette](https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0) | 3:26 |

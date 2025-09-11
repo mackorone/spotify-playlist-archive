@@ -1,13 +1,29 @@
 {
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 16044,
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Kaushik Mahalengam",
+  "num_followers": 16048,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANs6vGF0C4Lx7M78Jvky1H5I8WOc",
+  "snapshot_id": "AAAAAElsNq+dmoevvuCDTnasFzxf1goC",
   "tracks": [
+    {
+      "added_at": "2025-09-01 08:11:59",
+      "album": {
+        "name": "Paravaye",
+        "url": "https://open.spotify.com/album/1zIo9w3rHWM6qxVjyESpH0"
+      },
+      "artists": [
+        {
+          "name": "Kaushik Mahalengam",
+          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
+        }
+      ],
+      "duration_ms": 221855,
+      "name": "Paravaye",
+      "url": "https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5"
+    },
     {
       "added_at": "2025-06-30 11:07:31",
       "album": {
@@ -245,22 +261,6 @@
       "url": "https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K"
     },
     {
-      "added_at": "2025-09-01 08:11:59",
-      "album": {
-        "name": "Paravaye",
-        "url": "https://open.spotify.com/album/1zIo9w3rHWM6qxVjyESpH0"
-      },
-      "artists": [
-        {
-          "name": "Kaushik Mahalengam",
-          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
-        }
-      ],
-      "duration_ms": 221855,
-      "name": "Paravaye",
-      "url": "https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5"
-    },
-    {
       "added_at": "2025-08-18 13:17:44",
       "album": {
         "name": "Kaaramani",
@@ -277,32 +277,32 @@
       "url": "https://open.spotify.com/track/0DuYWSG3Lq1EWeZrhyCmr9"
     },
     {
-      "added_at": "2025-08-08 10:15:26",
+      "added_at": "2025-09-10 07:07:52",
       "album": {
-        "name": "ENNA KADHA JO",
-        "url": "https://open.spotify.com/album/7EPiMmSbRdxr0On2dYv5Th"
+        "name": "Kadhal (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/4IqOXmlbKp2fW9vIJzTT1E"
       },
       "artists": [
         {
-          "name": "AathiRaja",
-          "url": "https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE"
+          "name": "Peddapalli Rohith (PR)",
+          "url": "https://open.spotify.com/artist/45m3peSZBkrwRhyxXGKUv0"
         },
         {
-          "name": "CloverChild",
-          "url": "https://open.spotify.com/artist/6GBYIRq7K50ODuTAXyxHwx"
+          "name": "Abhilash Britto",
+          "url": "https://open.spotify.com/artist/2s5XAsIm0UsRwM670fsHFb"
         },
         {
-          "name": "Reon",
-          "url": "https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt"
+          "name": "Junaid Kumar",
+          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
         },
         {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/0NVQbptRGqD8jdbkFprkqb"
+          "name": "Aishwarya Daruri",
+          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
         }
       ],
-      "duration_ms": 162424,
-      "name": "ENNA KADHA JO",
-      "url": "https://open.spotify.com/track/3XVVleTtSOJCAzdjYzWVeq"
+      "duration_ms": 313600,
+      "name": "Kadhal (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/7kaWsRcGAk4uuoCpJ4HHkw"
     },
     {
       "added_at": "2025-09-04 14:03:11",
@@ -359,30 +359,6 @@
       "duration_ms": 269995,
       "name": "Heartla Feeling",
       "url": "https://open.spotify.com/track/3iFzbqjFKZLrPjvUohxP97"
-    },
-    {
-      "added_at": "2025-07-28 09:45:44",
-      "album": {
-        "name": "Oru Pozhuthu (From \"Vaanil Thedinen\")",
-        "url": "https://open.spotify.com/album/2RdRMrdWdVquNVCahDXKcs"
-      },
-      "artists": [
-        {
-          "name": "Vignesh Raja",
-          "url": "https://open.spotify.com/artist/4PdoILzfYKtrIvlgXGzanS"
-        },
-        {
-          "name": "Ramya RamC",
-          "url": "https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD"
-        },
-        {
-          "name": "Alvin Deva",
-          "url": "https://open.spotify.com/artist/46fTQPlhKeJhvA4lJI7DRT"
-        }
-      ],
-      "duration_ms": 142968,
-      "name": "Oru Pozhuthu - From \"Vaanil Thedinen\"",
-      "url": "https://open.spotify.com/track/6TViEFq6pLzQkVHaqmOKDd"
     },
     {
       "added_at": "2025-08-08 14:38:49",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124991,
+  "num_followers": 124983,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUkJl5ROgBlY6yu94fBL3NewPmvnrz",
+  "snapshot_id": "AAAUkeivCrb1mgH3Qf2IL5CARPCQ8cIB",
   "tracks": [
+    {
+      "added_at": "2025-09-10 15:05:36",
+      "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/39nfFsklbXE8R5eGhRkbNF"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "SpaceYeti",
+          "url": "https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS"
+    },
     {
       "added_at": "2025-09-09 13:59:42",
       "album": {

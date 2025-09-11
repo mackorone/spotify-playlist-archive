@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,558 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,582 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 23 | [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 |
 | 24 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
 | 25 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
-| 26 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
-| 27 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
-| 28 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
+| 26 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
+| 27 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
+| 28 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 29 | [Sweet Velvet Worm](https://open.spotify.com/track/6gI3gXSgxvzObOjRn0urjM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Sweet Velvet Worm](https://open.spotify.com/album/2LIpCB7jJ3OefbgGqrvMPd) | 1:33 |
-| 30 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 30 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
 | 31 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
 | 32 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 |
 | 33 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |

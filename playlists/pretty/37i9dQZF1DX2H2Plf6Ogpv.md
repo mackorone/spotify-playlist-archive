@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,237 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,260 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 51 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 |
 | 52 | [Stay Golden](https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 1:58 |
 | 53 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
-| 54 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
-| 55 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |
-| 56 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
+| 54 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |
+| 55 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
+| 56 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
 | 57 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
 | 58 | [Close Call](https://open.spotify.com/track/0F2MGkdHHRCCY38LSZ6WRN) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 2:43 |
 | 59 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |

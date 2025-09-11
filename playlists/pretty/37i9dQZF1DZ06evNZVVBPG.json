@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2717831,
+  "num_followers": 2718697,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAD2BirGLETLz8rkwqdyVz4G",
+  "snapshot_id": "aL9uAAAAAADbZ8bHACEinP562Mc3IX3Z",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 282873,
       "name": "The Abyss (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": null,

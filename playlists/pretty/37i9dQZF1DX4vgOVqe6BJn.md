@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,693 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,732 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 50 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 |
 | 51 | [Rollout \(feat\. Jay Prince, Scrufizzer & Close Counters\)](https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Rollout](https://open.spotify.com/album/3freFdGNjhuPplhWe9m6Gn) | 3:04 |
 | 52 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
-| 53 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 |
-| 54 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
+| 53 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
+| 54 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 |
 | 55 | [Season](https://open.spotify.com/track/6nM0Mxdc0VUTzqbBY0wk4H) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 3:07 |
 | 56 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
 | 57 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 100 | [Choose A Life](https://open.spotify.com/track/206aJvufLWSF3RRJJonlFl) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Choose A Life](https://open.spotify.com/album/17lK7ASdyllINtO0BczUs2) | 3:26 |
 | 101 | [Bricks in the Wall](https://open.spotify.com/track/79OIgwVIAyRyONl4r5JDD9) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Bricks in the Wall](https://open.spotify.com/album/7htEwl4XfIWCnAE9ENgZqU) | 3:27 |
 | 102 | [Times Change \(Feat\. Novelist and D Double E\)](https://open.spotify.com/track/1Th7Q0JOG8cea1u6JrHptk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Times Change](https://open.spotify.com/album/7ywHN1M5ILQJflRE4X1qnn) | 3:04 |
-| 103 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg), [Lynxegirl](https://open.spotify.com/artist/4FyBuNzDhZFSfDBb3kslSj) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
-| 104 | [Maybe Not](https://open.spotify.com/track/1vwCloetc88FvjuzEyixZm) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Maybe Not](https://open.spotify.com/album/4GWmet52cXBiTHcCaLwu4L) | 2:17 |
+| 103 | [Maybe Not](https://open.spotify.com/track/1vwCloetc88FvjuzEyixZm) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Maybe Not](https://open.spotify.com/album/4GWmet52cXBiTHcCaLwu4L) | 2:17 |
+| 104 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg), [Lynxegirl](https://open.spotify.com/artist/4FyBuNzDhZFSfDBb3kslSj) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 
 Snapshot ID: `AAAAAPeMzm1sPNaCin1Rb9O51neRSnC8`

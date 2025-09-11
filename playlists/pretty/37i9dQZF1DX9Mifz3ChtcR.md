@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,021 likes - 200 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,178 likes - 200 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

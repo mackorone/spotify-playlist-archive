@@ -292,22 +292,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
       "artists": [
@@ -319,6 +303,22 @@
       "duration_ms": 156819,
       "name": "Hush \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Fora de Si - Spotify Singles",
-        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 136764,
-      "name": "Fora de Si - Spotify Singles",
-      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Fora de Si - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 136764,
+      "name": "Fora de Si - Spotify Singles",
+      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 214024,
+      "name": "Imitadora - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
         "url": "https://open.spotify.com/album/1eINGKV81kCl8F4sfhSEbO"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 121681,
       "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
       "url": "https://open.spotify.com/track/4qqKYtFZmduS5mP6w3vRCV"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 214024,
-      "name": "Imitadora - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -915,6 +915,34 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Barbie - Spotify Singles (feat. FARIANA)",
+        "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 169424,
+      "name": "Barbie - Spotify Singles (feat. FARIANA)",
+      "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
       },
@@ -947,30 +975,18 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Barbie - Spotify Singles (feat. FARIANA)",
-        "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
+        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 169424,
-      "name": "Barbie - Spotify Singles (feat. FARIANA)",
-      "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
+      "duration_ms": 301714,
+      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 198281,
       "name": "Pir\u00e2mide Social - Spotify Singles",
       "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -1196,17 +1180,17 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Bestia Peque\u00f1a - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45"
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 252942,
       "name": "i don't think i love you anymore - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Bestia Peque\u00f1a - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45"
     }
   ],
   "unique_name": "Spotify Singles: Latin",

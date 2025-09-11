@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,938 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,959 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 36 | [Paradis Blanc](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Paradis Blanc](https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N) | 2:59 |
 | 37 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 |
 | 38 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
-| 39 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
-| 40 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
+| 39 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
+| 40 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
 | 41 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 42 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 43 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 |

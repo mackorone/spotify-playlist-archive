@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,012 songs - 1 day 16 hr 40 min
+2,013 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1459,6 +1459,7 @@
 | [Roses In The Rain](https://open.spotify.com/track/3yDYZMYH8ANqLlFYKX0pgS) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello, Vol\. 3](https://open.spotify.com/album/7ELrtNsJJkAHObrCoFfh6O) | 1:13 | 2024-02-09 | 2024-02-13 |
 | [Ruby Glow](https://open.spotify.com/track/5jnpU3MtVe0ImFUlBb4XNa) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Ruby Glow](https://open.spotify.com/album/1XLYy6X4QHhdujqhuRVFox) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Ruby Glow \- Strings Version](https://open.spotify.com/track/5wtVOO6kE7brEElubsgDtf) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Ruby Glow \(Strings Version\)](https://open.spotify.com/album/70OyKP6RvPNFxLk5vhYNaw) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Ruby Glow Arr\. For Piano](https://open.spotify.com/track/5dFnCfMPyGPVqmOcKKYanR) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ruby Glow Arr\. For Piano](https://open.spotify.com/album/3pfsVp8WYrySITv8Wv4KTO) | 1:00 | 2025-09-11 |  |
 | [Running Fox Trail \(Piano Version\)](https://open.spotify.com/track/17WraCA0bTAAimzkqujIb2) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny), [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Running Fox Trail \(Piano Version\)](https://open.spotify.com/album/4XTbcl4B4wcyj9RKf7BssI) | 2:29 | 2022-01-12 | 2023-04-09 |
 | [Sacred](https://open.spotify.com/track/53g0TYb6fJnyaBKAWxy4Lx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:14 | 2024-01-29 |  |
 | [Sacred Echoes](https://open.spotify.com/track/0TObaHfRFgloCNt0pfzWvU) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:03 | 2022-03-02 |  |

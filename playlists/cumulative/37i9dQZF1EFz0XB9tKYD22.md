@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-407 songs - 1 day 0 hr 4 min
+410 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Country People](https://open.spotify.com/track/2YG5cNSciwjPBin19CrsIg) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [Country People](https://open.spotify.com/album/78P896OA9KSp5BqLxVACJw) | 3:12 | 2024-02-27 |  |
 | [Country Radio Song](https://open.spotify.com/track/5rIwPOzsUQVvK3IIaaS9OV) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4CVqU1EaY3DSJOTINW6E5x) | 3:22 | 2024-02-27 |  |
 | [Cover](https://open.spotify.com/track/2LPVCLI3gBSxkGh6ObkEin) | [Eric Durrance](https://open.spotify.com/artist/6DGuIreufOuXxGgqceZsFc) | [Angels Fly Away \(Bonus Track Version\)](https://open.spotify.com/album/6cwXF6qzvNbdKw9eQEL8kD) | 3:36 | 2024-02-27 |  |
+| [Cowgirls](https://open.spotify.com/track/4bfojGasuysYXP89yxinUC) | [Magnolia](https://open.spotify.com/artist/4SG0MMfLI2lJtZa92Xu13q) | [Fall Down Seven](https://open.spotify.com/album/1TTntiioyUAC3ntRCaSwow) | 3:11 | 2025-09-10 |  |
 | [Cowgirls \- Single Version](https://open.spotify.com/track/0GRGeRSeMWac3RpcI4jGQp) | [Kerry Harvick](https://open.spotify.com/artist/3FuKcBOAWzDzWJ79VDBCBb) | [Cowgirls](https://open.spotify.com/album/7svXYfNK6UsY0d1lJV3zwF) | 3:06 | 2024-02-27 |  |
 | [Cross Every Line](https://open.spotify.com/track/2STPQBzmae97TAy08sQaoN) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:25 | 2024-02-27 |  |
 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 | 2024-02-27 |  |
@@ -128,6 +129,7 @@
 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 | 2024-02-27 |  |
 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:17 | 2025-01-09 | 2025-04-12 |
 | [Good Life](https://open.spotify.com/track/1N23c0ajye7u6jf8ABNLbY) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:35 | 2024-02-27 |  |
+| [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 | 2025-09-10 |  |
 | [Grave](https://open.spotify.com/track/0rpwb2kLgS6KAZsostOj1O) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:13 | 2024-02-27 |  |
 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 | 2024-02-27 |  |
 | [Grigio Girls](https://open.spotify.com/track/6Xxvdy1m9TX9HTxOzQcfuV) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:00 | 2024-02-27 |  |
@@ -209,6 +211,7 @@
 | [Little Toy Guns](https://open.spotify.com/track/51BWN2aIhyUgcXMAYSohdS) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/3Zuipf1PBcdnfKFyj6asOo) | 3:30 | 2024-02-27 |  |
 | [Live Forever](https://open.spotify.com/track/55IYvwkvF4cEQKpsJBedjI) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 4:14 | 2024-02-27 |  |
 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 | 2024-02-27 |  |
+| [Lonesome And Cold \(From 'Single HIts'1959\)](https://open.spotify.com/track/1X4jhrYE7p4lCXdd7FZ1C5) | [Al Hibbler](https://open.spotify.com/artist/6iWkhfvI0raTI7Akxo7ODQ) | [AL HIBBLER \- FOREVER JAZZ HITS VOL.2](https://open.spotify.com/album/3ID20kfMxhIG0Hku9iKxbC) | 2:36 | 2025-09-10 |  |
 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 | 2024-02-27 |  |
 | [Lopen Op Het Water](https://open.spotify.com/track/2qUtoKqxqptMkovMba6Qqp) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Marco Borsato 1998 \- 2002](https://open.spotify.com/album/2hxYq0j0qlCwzajpwfi95Y) | 4:28 | 2024-02-27 |  |
 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 | 2024-02-27 |  |

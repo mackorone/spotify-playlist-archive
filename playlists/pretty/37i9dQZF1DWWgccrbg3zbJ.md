@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,736 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,725 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 31 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 |
 | 32 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 |
 | 33 | [The Girl From Ipanema](https://open.spotify.com/track/3QczGFzPU2pr54vcRn90at) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Francis Albert Sinatra & Antonio Carlos Jobim](https://open.spotify.com/album/1DcmsgvmP94BH8XShg74N0) | 3:14 |
-| 34 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 |
+| 34 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
 | 35 | [Chega de Saudade](https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(42 Original Tracks\)](https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR) | 2:01 |
-| 36 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
+| 36 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 |
 | 37 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 |
 | 38 | [Manha de Carnaval](https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound Of Brazil / Piano Of João Donato](https://open.spotify.com/album/64UoZw5GAHgZjO463vdgGH) | 3:06 |
 | 39 | [O Barquinho](https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [20 Grandes Sucessos De Nara Leao](https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ) | 3:05 |

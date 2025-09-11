@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,525 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,548 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ramito De Violetas](https://open.spotify.com/track/58gbs8nQ1b5okqg9jXON4x) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:32 |
 | 2 | [No Bailes De Caballito](https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 4:01 |
-| 3 | [Ayúdame](https://open.spotify.com/track/5M88dJKvpEf5Ewt2xpSw2L) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Éxitos](https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89) | 2:59 |
-| 4 | [Dónde Estarás](https://open.spotify.com/track/4tkGZ3pNQFIhbJuFeaytzl) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:36 |
+| 3 | [Dónde Estarás](https://open.spotify.com/track/4tkGZ3pNQFIhbJuFeaytzl) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:36 |
+| 4 | [Ayúdame](https://open.spotify.com/track/5M88dJKvpEf5Ewt2xpSw2L) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Éxitos](https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89) | 2:59 |
 | 5 | [Feliz Feliz](https://open.spotify.com/track/2sWBABI42O6dzqQKXk10jo) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:37 |
 | 6 | [Mambo Lupita](https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:34 |
 | 7 | [Quién Piensa En Ti](https://open.spotify.com/track/4HwQuM4s5ZtsFcTo9MumnW) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:31 |
-| 8 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
+| 8 | [Ma, Me, Mi, Mo, Mu](https://open.spotify.com/track/6EDsRVNcp75Z40Xtp6XYIa) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 4:09 |
 | 9 | [Orgullosa María](https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:27 |
-| 10 | [Ma, Me, Mi, Mo, Mu](https://open.spotify.com/track/6EDsRVNcp75Z40Xtp6XYIa) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 4:09 |
+| 10 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
 | 11 | [Esta Cobardía \- Remastered 2025](https://open.spotify.com/track/0s8fUu5HGv74J5HvkOiwLR) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:27 |
 | 12 | [El Tiki Ta](https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:44 |
 | 13 | [La Bota](https://open.spotify.com/track/0W9ePgLWhjLME7crJSvmHv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:28 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 30 | [Jessica \- En Vivo](https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [En Vivo \(En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX\)](https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj) | 2:01 |
 | 31 | [Paloma Blanca](https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:43 |
 | 32 | [Pachuco Bailarín](https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:31 |
-| 33 | [E, O, E.](https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:20 |
-| 34 | [Presentación \- En Vivo](https://open.spotify.com/track/2DsMc0M1oyDdRX5zGj9NB7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [En Vivo](https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu) | 1:39 |
+| 33 | [Presentación \- En Vivo](https://open.spotify.com/track/2DsMc0M1oyDdRX5zGj9NB7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [En Vivo](https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu) | 1:39 |
+| 34 | [Me Canso Ganso](https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Me Canso Ganso](https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA) | 3:15 |
 | 35 | [Fue Su Voz](https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:27 |
-| 36 | [Me Canso Ganso](https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Me Canso Ganso](https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA) | 3:15 |
+| 36 | [E, O, E.](https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:20 |
 | 37 | [Mambo No\. 8](https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 3:36 |
 | 38 | [Que Güera \- Remastered 2025](https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:23 |
 | 39 | [El Niño Travieso](https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 49 | [Qué Bonita Nena](https://open.spotify.com/track/5bVvtk9l73BAYprANQIeNZ) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Qué Bonita Nena](https://open.spotify.com/album/7LKAJ7vP08H7w245BRtVO2) | 2:51 |
 | 50 | [La Parabólica](https://open.spotify.com/track/7eOmUxKXqGoRCghz1EJQ77) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Colección De Oro, Vol\. 2: Ramito De Violetas](https://open.spotify.com/album/75CJBFLaA4JeVWzLXTRMN6) | 3:15 |
 
-Snapshot ID: `aL4cgAAAAADLKar0tQq58WvHu+Rn2zfw`
+Snapshot ID: `aL9uAAAAAABhx9hCysiAe4UwhAudxG6A`

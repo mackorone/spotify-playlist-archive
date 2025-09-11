@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,819 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,927 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 34 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 35 | [Lost Boys](https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W) | [Paper Bird](https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn) | [When the River Took Flight](https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB) | 3:06 |
 | 36 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
-| 37 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
-| 38 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
-| 39 | [Thin Line](https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Billy Jack](https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf) | 4:45 |
+| 37 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
+| 38 | [Thin Line](https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Billy Jack](https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf) | 4:45 |
+| 39 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 40 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
 | 41 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
 | 42 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 69 | [You Don't Fool Me](https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 3:33 |
 | 70 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
 | 71 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
-| 72 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
-| 73 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
+| 72 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
+| 73 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
 | 74 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |
 | 75 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
 | 76 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 78 | [Skunks](https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Skunks](https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL) | 3:27 |
 | 79 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
 | 80 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
-| 81 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
-| 82 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
+| 81 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
+| 82 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
 | 83 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 |
 | 84 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 |
 | 85 | [Too Dry to Cry](https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi) | 4:39 |

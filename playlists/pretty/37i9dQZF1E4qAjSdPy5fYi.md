@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With STYXVII, Joshua Lanuarii, UrvTek and more
+> With STYXVII, Joshua Lanuarii, sixwing and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 604 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [DEATHRAVE](https://open.spotify.com/track/6AcE5etPybYmRF656WUsae) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [xofilo](https://open.spotify.com/artist/4r59fYZwE1wQjhygv8UNFp), [Yuugen Vinny](https://open.spotify.com/artist/1nvB0StZyH1YkYZZ1IE7dE) | [DEATHRAVE](https://open.spotify.com/album/7KnD9zDUD5Qq30WZbyXxou) | 3:21 |
 | 50 | [ITS NOT ME ITS YOU](https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:08 |
 
-Snapshot ID: `aMDgYwAAAAA58MGMNGm3dI/ArN0l+Ruu`
+Snapshot ID: `aMIeswAAAAAMCk+eQ1a8zwbtBNhrYxoC`

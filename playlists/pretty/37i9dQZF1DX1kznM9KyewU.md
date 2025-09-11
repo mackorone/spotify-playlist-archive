@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,342 likes - 90 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,434 likes - 90 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 45 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
 | 46 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
 | 47 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
-| 48 | [It's No Good](https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ultra \(Deluxe\)](https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO) | 5:58 |
-| 49 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
+| 48 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
+| 49 | [It's No Good](https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ultra \(Deluxe\)](https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO) | 5:58 |
 | 50 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
 | 51 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 52 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 53 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
 | 54 | [Selling The Drama](https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 3:28 |
-| 55 | [All I Want](https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [fear](https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch) | 3:16 |
-| 56 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
+| 55 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
+| 56 | [All I Want](https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [fear](https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch) | 3:16 |
 | 57 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
 | 58 | [Let's Get Rocked](https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:55 |
 | 59 | [Wishlist](https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:26 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 85 | [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 |
 | 86 | [Don't Look Back in Anger](https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory?](https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs) | 4:47 |
 | 87 | [Nookie](https://open.spotify.com/track/47Wf9dKEHGptcL1lyQIsZk) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI) | 4:49 |
-| 88 | [Scooby Snacks](https://open.spotify.com/track/0AwxXvGoYpioYfJeafgvTD) | [Fun Lovin' Criminals](https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv) | [Come Find Yourself](https://open.spotify.com/album/4U0j2a6r5avOlqkeYHY6i5) | 3:04 |
-| 89 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
+| 88 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
+| 89 | [Scooby Snacks](https://open.spotify.com/track/0AwxXvGoYpioYfJeafgvTD) | [Fun Lovin' Criminals](https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv) | [Come Find Yourself](https://open.spotify.com/album/4U0j2a6r5avOlqkeYHY6i5) | 3:04 |
 | 90 | [Doubleback](https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:56 |
 
 Snapshot ID: `AAAAAJmqNpvq4rwE6XcIgGGRcZROhuDj`

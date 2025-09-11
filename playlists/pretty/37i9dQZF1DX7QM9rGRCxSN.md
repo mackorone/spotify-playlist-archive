@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Vesica Piscis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,590 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,598 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 44 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 |
 | 45 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 | 46 | [etérea](https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [sky of fading lights](https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N) | 8:30 |
-| 47 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
-| 48 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
+| 47 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
+| 48 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
 | 49 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
 | 50 | [Sueño Aerostático](https://open.spotify.com/track/2d0fMQiWdIzaXH8WVJ9SlC) | [Silvania](https://open.spotify.com/artist/2ZAHar7rLXdAzqRaB9GQeU) | [Solineide Says \(1991\-1993\)](https://open.spotify.com/album/5kULee5TGyEwLJylXpl64j) | 3:41 |
 

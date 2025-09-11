@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,507 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,905 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 18 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 |
 | 19 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 |
 | 20 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
-| 21 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
-| 22 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
+| 21 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
+| 22 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 23 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 24 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 25 | [Dreaming](https://open.spotify.com/track/3sVRneYYdJQ9KdtYo5MsLH) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Dreaming](https://open.spotify.com/album/2Ewr4JxqrQ3g7RrndIHdc1) | 3:45 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 40 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
 | 41 | [Loveblood](https://open.spotify.com/track/3PQlR66Jx5nWw28jD7bbZJ) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [Loveblood](https://open.spotify.com/album/26bQs0BRvymbLHvVl8VoG2) | 3:49 |
 | 42 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
-| 43 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
-| 44 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 |
+| 43 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 |
+| 44 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
 | 45 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
 | 46 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
 | 47 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,000 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,005 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 12 | [No One Loves Me and Neither Do I](https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 5:10 |
 | 13 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 3:36 |
 | 14 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 |
-| 15 | [Albatross](https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 5:20 |
+| 15 | [Albatross](https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2) | [Corrosion of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 5:20 |
 | 16 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 |
 | 17 | [Strong Reflection](https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Mars Red Sky](https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0) | 5:29 |
 | 18 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 71 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 |
 | 72 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
 | 73 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
-| 74 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
-| 75 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
+| 74 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
+| 75 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
 | 76 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
 | 77 | [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 |
 | 78 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 95 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 96 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
 | 97 | [Look To Your Orb For The Warning](https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 6:32 |
-| 98 | [The Bottle](https://open.spotify.com/track/0amPDBn2wSRl0vRyWSLk5v) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/3AwAKd4dprx8qAeNc70k9K) | 4:42 |
-| 99 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
+| 98 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
+| 99 | [The Bottle](https://open.spotify.com/track/0amPDBn2wSRl0vRyWSLk5v) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/3AwAKd4dprx8qAeNc70k9K) | 4:42 |
 | 100 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
 
 Snapshot ID: `AAAAAGTPgd4FUIO56MnEVVuQHg0Ozc1g`

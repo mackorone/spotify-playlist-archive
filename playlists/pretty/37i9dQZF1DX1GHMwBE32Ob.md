@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,946 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,079 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 9 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 10 | [Porsche](https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Porsche](https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5) | 2:52 |
 | 11 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 |
-| 12 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |
-| 13 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
+| 12 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
+| 13 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |
 | 14 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 |
-| 15 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
+| 15 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
 | 16 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
 | 17 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
 | 18 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 37 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
 | 38 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
 | 39 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
-| 40 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
-| 41 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 |
-| 42 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
-| 43 | [Cartoon](https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Cartoon](https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe) | 2:43 |
+| 40 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 |
+| 41 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
+| 42 | [Cartoon](https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Cartoon](https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe) | 2:43 |
+| 43 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 44 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 |
 | 45 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 |
 | 46 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,753 likes - 177 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,435 likes - 177 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 176 | [Nightfall](https://open.spotify.com/track/2eYqdy2FDpIIDU6QyTHp4s) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Nightfall](https://open.spotify.com/album/6j6HoKkcGAKxgs8e1Uti3x) | 2:40 |
 | 177 | [Laomedeia](https://open.spotify.com/track/7Cp2aso3JhhnKnPRvU9LdK) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Laomedeia](https://open.spotify.com/album/0PjxDGNRcecZ4P3S5XimqK) | 3:27 |
 
-Snapshot ID: `AAAAAC72HP2ggawtmaTCwddOJ7IiJqG2`
+Snapshot ID: `AAAAAIByW2+09GTqF0MFblVBAiuEWMKC`

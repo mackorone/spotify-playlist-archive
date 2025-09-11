@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,066 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,117 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 44 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 45 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 46 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |
-| 47 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 |
-| 48 | [hero](https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [hero](https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ) | 3:04 |
-| 49 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
+| 47 | [hero](https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [hero](https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ) | 3:04 |
+| 48 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
+| 49 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 |
 | 50 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
 | 51 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
 | 52 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 55 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 |
 | 56 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 |
 | 57 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
-| 58 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 |
-| 59 | [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:43 |
+| 58 | [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:43 |
+| 59 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 |
 | 60 | [hey, i'm tired](https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [life update](https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf) | 4:05 |
 | 61 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 |
 | 62 | [Secrets \(feat\. eaJ\)](https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 3:24 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 72 | [talk to me](https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [talk to me](https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b) | 2:40 |
 | 73 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 74 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 |
-| 75 | [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 |
-| 76 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
+| 75 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
+| 76 | [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 |
 | 77 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 78 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 | 79 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 95 | [dream\. \(좋은 분위기\)](https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [dream\. \(좋은 분위기\)](https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis) | 3:06 |
 | 96 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
 | 97 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
-| 98 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 |
-| 99 | [Just Say The Words](https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Just Say The Words](https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV) | 3:10 |
+| 98 | [Just Say The Words](https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Just Say The Words](https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV) | 3:10 |
+| 99 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 |
 | 100 | [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 |
 
 Snapshot ID: `AAAAAPtLYJucm5JacH8SP+lMApqyYf4F`

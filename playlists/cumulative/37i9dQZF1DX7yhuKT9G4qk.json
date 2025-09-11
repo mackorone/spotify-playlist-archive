@@ -1695,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93741,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls"
+    },
+    {
+      "album": {
         "name": "Sinking Like a Stone",
         "url": "https://open.spotify.com/album/4dvpeRYEohWv3OyrUXSOxu"
       },

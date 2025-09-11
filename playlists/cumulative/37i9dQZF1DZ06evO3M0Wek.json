@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 203944,
       "name": "Broken Doll",
       "url": "https://open.spotify.com/track/5hBSBygYl27nMEqjNv37Lk"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 235040,
       "name": "Daughters of Darkness",
       "url": "https://open.spotify.com/track/6LlulaQFzRuypfDLBPCWUq"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 177546,
       "name": "Here's to Us",
       "url": "https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy"
@@ -864,10 +864,28 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 254838,
       "name": "Rain Your Blood On Me",
       "url": "https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK"
+    },
+    {
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
     },
     {
       "album": {
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 209133,
       "name": "White Dress",
       "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"

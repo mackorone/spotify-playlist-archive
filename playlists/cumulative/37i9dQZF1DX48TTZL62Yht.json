@@ -11045,6 +11045,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
+    {
+      "album": {
         "name": "Buy or Bye 2",
         "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
       },
@@ -12514,7 +12532,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -15602,7 +15620,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 126465,
       "name": "Twisting Fingers (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
@@ -16622,6 +16640,24 @@
       "duration_ms": 178431,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU"
+    },
+    {
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
       "album": {

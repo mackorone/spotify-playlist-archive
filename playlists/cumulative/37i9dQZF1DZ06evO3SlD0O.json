@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 179373,
       "name": "El Caim\u00e1n",
       "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 192506,
       "name": "La Bonga",
       "url": "https://open.spotify.com/track/371wL5t7rb4A7NNy4S4X2h"
@@ -1238,6 +1238,54 @@
       "duration_ms": 214112,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/6xg5luJD50QQdwNZunIlCa"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi"
+      },
+      "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        },
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Los Astros de China",
+          "url": "https://open.spotify.com/artist/6E77RT90bxptRYDYWWv5QR"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346302,
+      "name": "Popurr\u00ed Homenaje a Carlos Y Jose - En Vivo",
+      "url": "https://open.spotify.com/track/1TMNGa0Z2IrIDVNaclrFpW"
+    },
+    {
+      "album": {
+        "name": "Popurr\u00ed Homenaje a Don Arnulfo L\u00f3pez El Trailero Mayor",
+        "url": "https://open.spotify.com/album/5wi4muCZuKJF7PxCPPeTeB"
+      },
+      "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        },
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404723,
+      "name": "Popurr\u00ed Homenaje a Don Arnulfo L\u00f3pez El Trailero Mayor",
+      "url": "https://open.spotify.com/track/2FBToM93PBTB4YsuuKAumQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,122 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,142 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 43 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
 | 44 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 |
 | 45 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
-| 46 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
-| 47 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
+| 46 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
+| 47 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
 | 48 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [KONTRAST](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 49 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 50 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 48594,
+  "num_followers": 48619,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAEFFE3qP0HfxO8Ch4hM/vo",
+  "snapshot_id": "aL9uAAAAAADAXOcJsvffBhGqReLcp8EP",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 588837,
       "name": "No Hay Nada Imposible",
       "url": "https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
     },
     {
       "added_at": null,
@@ -831,18 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
     },
     {
       "added_at": null,
@@ -879,22 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
         }
       ],
-      "duration_ms": 301466,
-      "name": "Danzando",
-      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
     },
     {
       "added_at": null,

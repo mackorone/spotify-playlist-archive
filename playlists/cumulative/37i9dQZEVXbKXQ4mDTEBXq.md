@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-645 songs - 1 day 15 hr 26 min
+646 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2024-12-07 | 2025-07-16 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-20 | 2024-12-08 |
 | [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 | 2024-11-19 | 2024-12-26 |
+| [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 | 2025-09-10 |  |
 | [Banana \(Take It Lazy\)](https://open.spotify.com/track/5jrEReDFUjifSCR28hcfBP) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 2:48 | 2024-05-31 | 2024-06-05 |
 | [BE CLASSIC](https://open.spotify.com/track/4ddBsPV13qO8SGaVf6ZQnl) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 2:39 | 2025-04-03 | 2025-05-21 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\) \(Remixes\)](https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni) | 3:08 | 2025-06-28 | 2025-07-10 |
@@ -63,7 +64,7 @@
 | [Celebrate](https://open.spotify.com/track/4Y0chGCyYIRpdUqHJjndF7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:08 | 2022-07-28 | 2022-10-12 |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-24 | 2022-07-29 |
 | [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-09-05 | 2025-09-09 |
-| [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-09-03 |  |
+| [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-09-03 | 2025-09-11 |
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-13 | 2023-02-21 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-10-29 | 2024-11-18 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-08-09 | 2024-08-11 |
@@ -118,7 +119,7 @@
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2023-06-27 | 2023-12-17 |
 | [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-16 | 2025-05-20 |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-01 | 2024-09-25 |
-| [GOAT](https://open.spotify.com/track/7rA2RuTx1dHadrZcoKh8O9) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:40 | 2024-09-24 |  |
+| [GOAT](https://open.spotify.com/track/7rA2RuTx1dHadrZcoKh8O9) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:40 | 2024-09-24 | 2025-09-11 |
 | [GOD\_i](https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I) | 3:35 | 2025-01-27 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-08-18 |  |
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-11 | 2023-02-05 |
@@ -163,8 +164,8 @@
 | [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-07-12 | 2025-09-09 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-13 |  |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-20 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 | 2025-09-10 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 | 2025-09-11 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2021-03-27\* | 2022-05-08 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-12 | 2023-09-17 |
 | [KIMINOMAMA](https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [KIMINOMAMA](https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz) | 2:57 | 2023-06-06 | 2023-07-03 |
@@ -382,7 +383,7 @@
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2021-03-27\* | 2021-08-19 |
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2024-09-26 | 2024-10-03 |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2021-11-17 | 2022-01-14 |
-| [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-13 | 2025-09-10 |
+| [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-13 |  |
 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 | 2024-10-22 | 2025-02-08 |
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-08-15 | 2025-02-13 |
 | [まつり](https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:45 | 2022-03-24 | 2022-05-15 |

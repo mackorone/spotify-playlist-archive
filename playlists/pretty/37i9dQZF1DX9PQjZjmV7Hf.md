@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,083 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,104 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 13 | [BLINDFOLD \(feat\. Lil Baby\)](https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:34 |
 | 14 | [way back](https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:32 |
 | 15 | [Bacc Seat \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:52 |
-| 16 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
-| 17 | [1942 Flows](https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Wins & Losses](https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ) | 4:42 |
+| 16 | [1942 Flows](https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Wins & Losses](https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ) | 4:42 |
+| 17 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
 | 18 | [Humble](https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:11 |
 | 19 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 |
 | 20 | [You Was Right](https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 2:43 |

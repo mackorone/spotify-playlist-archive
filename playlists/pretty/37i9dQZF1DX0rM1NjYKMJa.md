@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,139 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,238 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 2 | [Ba Ba Bad Remix](https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad Remix](https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt) | 2:26 |
 | 3 | [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 |
 | 4 | [Go Down Deh \(feat\. Sean Paul & Shaggy\)](https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
-| 5 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
+| 5 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:54 |
 | 6 | [Toast](https://open.spotify.com/track/45tHjcM6gERQ7kCEDTG4al) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture](https://open.spotify.com/album/2DlocpnzvkFXxV7iBy3wbZ) | 3:11 |
 | 7 | [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 |
 | 8 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 23 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 |
 | 24 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 25 | [IKATION](https://open.spotify.com/track/2zsJpyPVy1aMMeciBm29r8) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [IKATION](https://open.spotify.com/album/20RTlNHHXFY3AZTaGiOl2R) | 3:03 |
-| 26 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
-| 27 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
+| 26 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
+| 27 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
 | 28 | [It Bend Like Banana](https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [It Bend Like Banana](https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu) | 2:54 |
 | 29 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 30 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |

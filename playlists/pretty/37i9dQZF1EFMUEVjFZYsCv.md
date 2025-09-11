@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55 likes - 97 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55 likes - 98 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 92 | [Faded](https://open.spotify.com/track/6BPqiMxyTyXMfoHQXA3W6O) | [The James Arthur Band](https://open.spotify.com/artist/5atItJPd0PaBNUZ1SPL2Cj) | [The EP Collection](https://open.spotify.com/album/5e08OiapHEomZYxyMEwjnA) | 3:08 |
 | 93 | [On se comprend sans parler \(Let's Go Home Together\)](https://open.spotify.com/track/4VPLEGbr7vgfma1cFCasNQ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Alliel](https://open.spotify.com/artist/1IWuxxA4ErA0vjaIhgQ0CU) | [On se comprend sans parler \(Let's Go Home Together\)](https://open.spotify.com/album/2RxT1X0QkEIzHsxnAZ0VJl) | 3:31 |
 | 94 | [New Blood](https://open.spotify.com/track/1Ha3z5BfyZQ4MZ2Yxf1olv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 5:07 |
-| 95 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
-| 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
-| 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
+| 95 | [Treehouse](https://open.spotify.com/track/251Sfkz551MKWoXFvL2TAd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Treehouse](https://open.spotify.com/album/49GH2l6sWX15pBbNWc366o) | 2:52 |
+| 96 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
+| 97 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
+| 98 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `Ab7y6AAAAAAzeRT7DH+wxeyueFeNv4MR`
+Snapshot ID: `Ab74dAAAAACDUkjARAtOpZn2+yzdEFGe`

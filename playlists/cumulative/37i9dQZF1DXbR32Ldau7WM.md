@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: kurayamisaka
 
-1,376 songs - 3 day 18 hr 18 min
+1,376 songs - 3 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-17 | 2024-04-19 |
 | [Metamorphose Love](https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 2:40 | 2023-12-05 | 2023-12-20 |
 | [Metaphor](https://open.spotify.com/track/3mTxOnbwSgGx0hrhIigDBc) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Feryquitous](https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30) | [Metaphor](https://open.spotify.com/album/7yQhaIIs7VV60pO79RGKJR) | 3:50 | 2024-12-10 | 2025-04-09 |
-| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [](https://open.spotify.com/album/null) | 3:58 | 2025-09-09 |  |
+| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 | 2025-09-09 |  |
 | [Midnight Highway](https://open.spotify.com/track/3Q028IJOizXo2hA7FUyjJV) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 4:10 | 2023-10-10 | 2023-11-01 |
 | [midsummer sunset](https://open.spotify.com/track/5GkJ9PJ7Yokkn4wFRRyf9S) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [midsummer sunset](https://open.spotify.com/album/5zu1i14LSDhd9EdwMKtQiT) | 8:44 | 2022-10-11 | 2022-10-29 |
 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 | 2025-05-13 |  |
@@ -747,7 +747,6 @@
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2023-06-28 |
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-07-30 | 2024-10-09 |
-| [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-09 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-08-06 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-25 |  |
@@ -1236,6 +1235,7 @@
 | [朝焼け](https://open.spotify.com/track/0zWMYryiunqAzp8VyfwaUe) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [朝焼け](https://open.spotify.com/album/7zfZ3p822fHKy43zCNqnaP) | 4:15 | 2022-05-17 | 2022-06-11 |
 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 | 2025-01-21 | 2025-02-26 |
 | [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-04-03 | 2025-06-20 |
+| [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 | 2025-09-09 |  |
 | [杉並の少年](https://open.spotify.com/track/7zKFMDQ8CQNQaEHhXBPSRN) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 3:33 | 2024-01-23 | 2024-01-31 |
 | [東へ西へ](https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil) | [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [Eastward Westward](https://open.spotify.com/album/04gsYjYupPQFCTpiSQcMhp) | 4:34 | 2023-04-20 | 2023-05-10 |
 | [東京に雨が降っている](https://open.spotify.com/track/76ea36A908cqljwII0DJc2) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [ENTERTAINMENT!](https://open.spotify.com/album/4gSTAHiTJ88bQs08VFXBET) | 3:06 | 2022-05-17 | 2022-05-25 |

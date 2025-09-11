@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Музика для приємних осінніх прогулянок 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,007 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,025 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 27 | [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 |
 | 28 | [Між Сірими Днями](https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Між Сірими Днями](https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv) | 3:25 |
 | 29 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 |
-| 30 | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/track/4Co67jPlW5wF3vW5gye8cO) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi) | 3:51 |
-| 31 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 |
+| 30 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 |
+| 31 | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/track/4Co67jPlW5wF3vW5gye8cO) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi) | 3:51 |
 | 32 | [Young Blood](https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq) | 3:38 |
 | 33 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove \(with MARO\)](https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9) | 3:34 |
 | 34 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 |
-| 35 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
-| 36 | [Бути простим](https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Бути простим](https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S) | 2:31 |
+| 35 | [Бути простим](https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Бути простим](https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S) | 2:31 |
+| 36 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 37 | [Каланхое](https://open.spotify.com/track/4YgV3rfa56cZaxJm3zsyB2) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Pozdniakov](https://open.spotify.com/artist/69c9d1s70PiMSiJPMrLxpa) | [Каланхое](https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx) | 3:06 |
 | 38 | [Nich](https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Nich](https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r) | 3:50 |
-| 39 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
-| 40 | [Kava](https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Kava](https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D) | 2:59 |
+| 39 | [Kava](https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Kava](https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D) | 2:59 |
+| 40 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
 | 41 | [Sweetest Heart](https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Sweetest Heart](https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL) | 3:16 |
 | 42 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
 | 43 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 |

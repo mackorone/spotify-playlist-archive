@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Tiziano Ferro \(pronto a rompere tutto\) in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,779 likes - 121 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,781 likes - 121 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

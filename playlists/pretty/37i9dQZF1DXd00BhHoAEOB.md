@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,621 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,687 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 41 | [Cien Años](https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:25 |
 | 42 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 |
 | 43 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 |
-| 44 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
-| 45 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 |
+| 44 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 |
+| 45 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
 | 46 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 |
 | 47 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
 | 48 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 76 | [Vuelas Tan Lindo](https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Vuelas Tan Lindo](https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66) | 2:38 |
 | 77 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
 | 78 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 |
-| 79 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
-| 80 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 |
+| 79 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 |
+| 80 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 81 | [La negra noche](https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3) | [Estaré \- La negra noche](https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE) | 3:01 |
 | 82 | [Voy Despacito](https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Voy Despacito](https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS) | 4:19 |
 | 83 | [Después de ti](https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw) | [Flor de Jade](https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO) | [Volar](https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB) | 4:01 |

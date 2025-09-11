@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,413 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,556 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 36 | [Tomorrow](https://open.spotify.com/track/5wIKQRf5BreHJPGZaYCEVC) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Roses](https://open.spotify.com/album/75AjCgOwqEyU7WI33rfFH6) | 3:55 |
 | 37 | [I'm Still Remembering](https://open.spotify.com/track/47y3AKHvLSLgZ1doP75cbU) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:48 |
 | 38 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
-| 39 | [All Over Now](https://open.spotify.com/track/7EkcnNdxjcdCjLa9K0CHYI) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:16 |
-| 40 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 |
-| 41 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/5NIa8SEODJX1c3Byy9XqCv) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:39 |
+| 39 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/5NIa8SEODJX1c3Byy9XqCv) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:39 |
+| 40 | [All Over Now](https://open.spotify.com/track/7EkcnNdxjcdCjLa9K0CHYI) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:16 |
+| 41 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 |
 | 42 | [Never Grow Old](https://open.spotify.com/track/4LdpVdSxtwWQRe7OYnGM66) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 2:36 |
 | 43 | [Electric Blue](https://open.spotify.com/track/2ZlWxTsv7PE6jGmEYB7s2E) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:50 |
 | 44 | [Lost](https://open.spotify.com/track/67nd9sZy5rtbitv090ii8I) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:59 |
-| 45 | [Reason](https://open.spotify.com/track/33pQD4Uj57np7exb4ETJLq) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 2:01 |
+| 45 | [Yeats' Grave \- 2025 Remastered](https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:59 |
 | 46 | [Joe](https://open.spotify.com/track/6nk3R7cleqa2VFElieypE7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:21 |
-| 47 | [Yeats' Grave \- 2025 Remastered](https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:59 |
+| 47 | [Reason](https://open.spotify.com/track/33pQD4Uj57np7exb4ETJLq) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 2:01 |
 | 48 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
-| 49 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/564wPZmSYxRlTpqZschULJ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(Deluxe\)](https://open.spotify.com/album/719zEHYz9RcUXss1LP1ouT) | 4:34 |
+| 49 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:34 |
 | 50 | [The Pressure](https://open.spotify.com/track/5w12AU1s2jwXFYL7jSImwR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:21 |
 
-Snapshot ID: `aL4cgAAAAABgd2/U1uOT8nCKAyN6HLjw`
+Snapshot ID: `aL9uAAAAAADNl88Tah0mEtZaj9Qn5t4p`

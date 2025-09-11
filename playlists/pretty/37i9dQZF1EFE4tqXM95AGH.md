@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 178 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339 likes - 178 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 127 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
 | 128 | [Weekend](https://open.spotify.com/track/3APdNGA9kaoF1xB9URocBP) | [Adam Sample](https://open.spotify.com/artist/4ljG1jvAMItCY45vzI5k0G) | [Weekend](https://open.spotify.com/album/7xc55UnH6f3F1KM51YdVrH) | 3:13 |
 | 129 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 |
-| 130 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |
-| 131 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 130 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 131 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |
 | 132 | [DeathByDevotion](https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [DeathByDevotion](https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs) | 3:16 |
 | 133 | [Heartkiller](https://open.spotify.com/track/1q3eUsSOYR468dC8Xh7BZr) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Against The Wall](https://open.spotify.com/album/0Co76AwOJkYMkFl312YdPL) | 3:08 |
 | 134 | [Middle Of A Heartbreak](https://open.spotify.com/track/2vY90tGYEHzIjKGjI48smn) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Middle Of A Heartbreak](https://open.spotify.com/album/6xGcBv3u3XthHduAxBkpvc) | 2:45 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 177 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 178 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Ab7y1AAAAAAPYqLWEyvL4nUhIgA5Zs7b`
+Snapshot ID: `Ab74kgAAAABw/veq/oZcIPwYUpe8iVbq`

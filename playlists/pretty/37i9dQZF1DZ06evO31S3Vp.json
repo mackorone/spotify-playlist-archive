@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 206040,
+  "num_followers": 206025,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACrdALoEKPlLXUGq6TE2L1K",
+  "snapshot_id": "aL9uAAAAAAA3Pts7MYcRFxKdcvlm72DU",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 118466,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 229868,
       "name": "Sim",
       "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 118466,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
     },
     {
       "added_at": null,

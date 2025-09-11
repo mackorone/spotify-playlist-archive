@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,063 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,125 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

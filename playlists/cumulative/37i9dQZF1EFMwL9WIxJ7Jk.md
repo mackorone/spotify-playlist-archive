@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-225 songs - 11 hr 46 min
+226 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2025-07-09 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Like I'm Gonna Lose You \(Official Music Video\)](https://open.spotify.com/album/3eGYlBiey7oowDv1Or4RY4) | 3:47 | 2023-12-31 | 2024-02-02 |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2023-12-30 | 2025-03-30 |
-| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 |  |
+| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 | 2025-09-11 |
 | [Lips Are Movin](https://open.spotify.com/track/3fNaQSMgFrYTkTshRX7J1u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:01 | 2025-03-29 | 2025-07-12 |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2024-01-01 | 2025-03-30 |
 | [Lips Are Movin](https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Lips Are Movin \(Official Music Video\)](https://open.spotify.com/album/6V4bZzTmEU9sw8JQ26H2MC) | 3:05 | 2023-12-30 | 2024-01-31 |
@@ -158,6 +158,7 @@
 | [Naughty List](https://open.spotify.com/track/5iGw5PJKukFN1YMj3Ls2rm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:37 | 2023-12-30 |  |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2023-12-30 |  |
 | [Nice to Meet Ya](https://open.spotify.com/track/60SQiZejxmqwgiSe2mPJqu) | [Cody Pendelton](https://open.spotify.com/artist/0kxOvMQwTYw90WEV7JrHBT) | [Mega Bops](https://open.spotify.com/album/5ajMtM28U3mK2az8PLY6Eu) | 3:17 | 2025-08-15 | 2025-08-21 |
+| [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Edovann](https://open.spotify.com/artist/6UB4cj61Qyr2uI6j12AmbC), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 | 2025-09-10 |  |
 | [Nice to Meet Ya](https://open.spotify.com/track/3rs5lCftiXSH4O1AS8ZeGV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nice to Meet Ya \(Official Music Video\)](https://open.spotify.com/album/2mG6h0US9OvguiNDNlmKlj) | 3:17 | 2023-12-30 | 2024-02-02 |
 | [Nice To Meet Ya](https://open.spotify.com/track/4BOljrLghhs18tNkvN5OW8) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Best Of 2019 Vol\. 1 \(130 BPM\)](https://open.spotify.com/album/78bcfgNlM7IAEsXMnPb8RF) | 3:56 | 2025-07-25 | 2025-08-15 |
 | [Nice To Meet Ya](https://open.spotify.com/track/5u38Dc4sPhelP1unYecOwi) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Super Step Workout 3](https://open.spotify.com/album/3B975kDF73jnEphg0CteCO) | 4:01 | 2025-08-14 | 2025-08-16 |

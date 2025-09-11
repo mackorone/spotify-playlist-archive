@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2501,
+  "num_followers": 2500,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACbNLjHm+C2ISLjDwohHxdr",
+  "snapshot_id": "aL9uAAAAAAA1qMcCHFgRDE/ZjW9bQYTV",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 130095,
       "name": "BOYS BOYS BOYS",
       "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODY PARTS (Full Frontal)",
-        "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 192881,
-      "name": "BODY PARTS",
-      "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grim Reaper",
         "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 170322,
       "name": "Grim Reaper",
       "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BODY PARTS (Full Frontal)",
+        "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 192881,
+      "name": "BODY PARTS",
+      "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
     },
     {
       "added_at": null,

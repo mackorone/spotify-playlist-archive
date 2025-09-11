@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1555,
+  "num_followers": 1557,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bango",
+        "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 208195,
+      "name": "Bango",
+      "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 164400,
       "name": "Teacher",
       "url": "https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bango",
-        "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 208195,
-      "name": "Bango",
-      "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
     },
     {
       "added_at": "2024-03-01 12:07:08",

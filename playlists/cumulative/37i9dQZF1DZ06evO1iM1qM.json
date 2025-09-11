@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324493,
+      "name": "Village Blues",
+      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
+    },
+    {
+      "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 281040,
       "name": "While My Lady Sleeps - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw"

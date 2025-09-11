@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17820,
+  "num_followers": 17822,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAL/mUv9oEY0xLCmvhO/+CohvYNX5bH",
+  "snapshot_id": "AAAMAP9A7kN7D2xhxbZsk++D4nB59I9W",
   "tracks": [
+    {
+      "added_at": "2025-09-10 07:58:48",
+      "album": {
+        "name": "Flat Tire Ride",
+        "url": "https://open.spotify.com/album/3fsHk7lqp1YTBLmGR1kC3t"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "Flat Tire Ride",
+      "url": "https://open.spotify.com/track/7ig17MWSf7vdRzcLZwuMIQ"
+    },
     {
       "added_at": "2025-07-29 07:16:58",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אקו ואנה זק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,540 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,541 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 86 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
 | 87 | [בלעדיך](https://open.spotify.com/track/7xyANK3cSIWlP4PPdcq9wO) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS) | [בלעדיך](https://open.spotify.com/album/0zG75x12uR6CIbmE6RL81r) | 3:17 |
 | 88 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
-| 89 | [נאדי באדי](https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [היי, זה שחר](https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi) | 2:30 |
-| 90 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
+| 89 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
+| 90 | [נאדי באדי](https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [היי, זה שחר](https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi) | 2:30 |
 | 91 | [במקום בו אני גר](https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [אורית טשומה](https://open.spotify.com/artist/0X36xboo0vsPER5eeULxle), [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [אה וואו](https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs) | 4:16 |
 | 92 | [אל תפחד](https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 4:11 |
 | 93 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 |
-| 94 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 |
-| 95 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 |
+| 94 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 |
+| 95 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 |
 | 96 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
 | 97 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 |
 | 98 | [Detonate](https://open.spotify.com/track/2ptUueZJvcClhicBwCvdgW) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Detonate](https://open.spotify.com/album/1UY4ehACp8brMXDnKAUUXP) | 2:20 |

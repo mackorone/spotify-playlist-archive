@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 
 > Upbeat songs that will get the whole family feelin' good!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,798 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,795 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 25 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
 | 26 | [Who Let The Dogs Out](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo) | [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ) | [Who Let The Dogs Out](https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd) | 3:18 |
 | 27 | [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 |
-| 28 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 |
-| 29 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
+| 28 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
+| 29 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 |
 | 30 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 |
 | 31 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
 | 32 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 64 | [Move Your Feet](https://open.spotify.com/track/7cGfrVoC7G03XeXn7yflx5) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/2mv4iqMpFW99tKHpZwKETJ) | 3:01 |
 | 65 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 |
 | 66 | [Wings](https://open.spotify.com/track/4awRNvd5iC7QGVQOwSCffw) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Deluxe\)](https://open.spotify.com/album/2WRIExN0uRt1buVuJj7iUD) | 3:39 |
-| 67 | [What I'm Feelin'](https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [What I'm Feelin'](https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx) | 3:04 |
-| 68 | [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 |
-| 69 | [Together](https://open.spotify.com/track/1o0B1aKCfpPC3rUpSh8XLT) | [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:15 |
+| 67 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
+| 68 | [What I'm Feelin'](https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [What I'm Feelin'](https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx) | 3:04 |
+| 69 | [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 |
 | 70 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 |
-| 71 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
+| 71 | [Together](https://open.spotify.com/track/1o0B1aKCfpPC3rUpSh8XLT) | [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:15 |
 
 Snapshot ID: `AAAAACDorr+vx2xWOTQPMXyEjzGOMVyd`

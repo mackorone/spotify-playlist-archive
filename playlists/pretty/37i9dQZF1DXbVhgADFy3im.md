@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 
 > Every track you're listening/should be listening to ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,233 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,985 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 | 74 | [Ilahi](https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:48 |
 | 75 | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr) | 2:51 |
 
-Snapshot ID: `AAAAANdMKlW9NrsYKIfriG5cFGqISgmL`
+Snapshot ID: `AAAAAJ6kHeQBigA4zKzwOhRvpH15+kMl`

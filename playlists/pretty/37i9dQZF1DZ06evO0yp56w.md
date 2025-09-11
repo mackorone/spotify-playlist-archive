@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,670 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,778 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 5 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 |
 | 6 | [Undisclosed Desires](https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 3:55 |
 | 7 | [Time is Running Out](https://open.spotify.com/track/0EdMqiKs9LKXhspeQhl4RZ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 3:56 |
-| 8 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
-| 9 | [Plug in Baby](https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:38 |
+| 8 | [Plug in Baby](https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:38 |
+| 9 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
 | 10 | [Knights of Cydonia](https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 6:06 |
 | 11 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 12 | [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 34 | [Mercy](https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 3:51 |
 | 35 | [Survival](https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:17 |
 | 36 | [Can't Take My Eyes off You](https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:31 |
-| 37 | [Interlude](https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 0:38 |
-| 38 | [Neutron Star Collision \(Love Is Forever\) \- Soundtrack Version](https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Neutron Star Collision \[Love Is Forever\]](https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb) | 3:50 |
+| 37 | [Neutron Star Collision \(Love Is Forever\) \- Soundtrack Version](https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Neutron Star Collision \[Love Is Forever\]](https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb) | 3:50 |
+| 38 | [Interlude](https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 0:38 |
 | 39 | [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 |
 | 40 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 |
 | 41 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [Animals](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:22 |
 | 50 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 
-Snapshot ID: `aL4cgAAAAABU1AXyjnsJ8YysNt9y3QbG`
+Snapshot ID: `aL9uAAAAAADWYdPrvqIh8DQsG0lyvGHQ`

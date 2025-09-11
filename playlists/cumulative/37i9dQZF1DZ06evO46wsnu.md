@@ -4,7 +4,7 @@
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 19 min
+90 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,11 +67,12 @@
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-05 | 2025-08-23 |
 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 | 2022-09-16 |  |
 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 | 2024-05-13 | 2024-07-11 |
-| [Ricochet](https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk) | 3:41 | 2025-08-14 |  |
+| [Ricochet](https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk) | 3:41 | 2025-08-14 | 2025-09-11 |
+| [Ricochet](https://open.spotify.com/track/2VQEHtJBOPqfqQ6i9m6OQq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:41 | 2025-09-11 |  |
 | [Satellite](https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:58 | 2022-09-16 |  |
 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 | 2022-09-16 |  |
-| [Sink Like A Stone](https://open.spotify.com/track/5WCyQhPtNi3DhyRiL5HLIc) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 4:07 | 2025-08-17 |  |
-| [Sooner Or later](https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:34 | 2022-10-06 | 2025-09-09 |
+| [Sink Like A Stone](https://open.spotify.com/track/5WCyQhPtNi3DhyRiL5HLIc) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 4:07 | 2025-08-17 | 2025-09-11 |
+| [Sooner Or later](https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:34 | 2022-10-06 |  |
 | [State Of Emergency](https://open.spotify.com/track/5YCfHKx46HsZ1hSa7EkMI9) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:30 | 2025-08-17 | 2025-08-23 |
 | [State Of The Union](https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:19 | 2022-10-05 | 2025-02-08 |
 | [Sudden Urge](https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:46 | 2022-09-16 |  |

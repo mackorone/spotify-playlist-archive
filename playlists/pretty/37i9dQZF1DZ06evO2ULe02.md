@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782 likes - 29 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784 likes - 29 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 21 | [I Can't Be Your Friend](https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:51 |
 | 22 | [Twenty Something](https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Twenty Something](https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6) | 3:09 |
 | 23 | [something in the way you say my name](https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 2:33 |
-| 24 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 |
-| 25 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 |
+| 24 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 |
+| 25 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 |
 | 26 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 |
 | 27 | [Worst Girls of All Time](https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Worst Girls Of All Time](https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm) | 2:53 |
 | 28 | [A Song For Her](https://open.spotify.com/track/0K7FOB1sgaKj4KdUWFiR8J) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:39 |
 | 29 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 
-Snapshot ID: `aL4cgAAAAADY8h4DP4jXjeoKfYwuy6pV`
+Snapshot ID: `aL9uAAAAAADW7fpFdW+5BiCtm/4nfKCw`

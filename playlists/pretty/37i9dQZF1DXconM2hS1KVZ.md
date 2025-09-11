@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,025 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,982 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 25 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 26 | [Danza Kuduro](https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO) | 3:18 |
 | 27 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
-| 28 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
-| 29 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
-| 30 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
+| 28 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
+| 29 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
+| 30 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
 | 31 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
 | 32 | [My House](https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
 | 33 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 54 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |
 | 55 | [La Isla Bonita](https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:02 |
 | 56 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 |
-| 57 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 |
-| 58 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 |
+| 57 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 |
+| 58 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 |
 | 59 | [Wildberry Lillet](https://open.spotify.com/track/6LBmaJYwbLHfQwIreMCLlw) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:11 |
 | 60 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,571 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,566 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 23 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 24 | [Ultramarine](https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR) | [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Cobalt Blue](https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i) | 4:34 |
 | 25 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 |
-| 26 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
-| 27 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
+| 26 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
+| 27 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
 | 28 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
 | 29 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 30 | [Estrellas de Fuego](https://open.spotify.com/track/62dUMBmgOvY14C6agkBo40) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Venus](https://open.spotify.com/album/3a2JFR914ksbxF42fGzNs5) | 4:34 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 46 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 |
 | 47 | [Dear](https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Intrapersonal Experience](https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg) | 5:36 |
 | 48 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
-| 49 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
-| 50 | [Lucerne Valley](https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Reflections \- Mojave Desert](https://open.spotify.com/album/2A9lnshn6QxS5SmbCsCuu0) | 3:38 |
+| 49 | [Lucerne Valley](https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Reflections \- Mojave Desert](https://open.spotify.com/album/2A9lnshn6QxS5SmbCsCuu0) | 3:38 |
+| 50 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
 | 51 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 |
 | 52 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
 | 53 | [Goo \- Joseph Shabason Remix](https://open.spotify.com/track/5uLvP7lZsXe62sg03Ly2s1) | [Murmur](https://open.spotify.com/artist/2XtXQPXn2iPxMm1zyJNlYb), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Goo \(Joseph Shabason Remix\)](https://open.spotify.com/album/1IuHXILpwXzjM5sm9LDElB) | 4:14 |

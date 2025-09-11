@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 583119,
+  "num_followers": 583077,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-03-28 04:59:02",
       "album": {
+        "name": "The Prelude",
+        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 170344,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
+    },
+    {
+      "added_at": "2025-03-28 04:59:02",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
-    },
-    {
-      "added_at": "2025-03-28 04:59:02",
-      "album": {
-        "name": "The Prelude",
-        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 170344,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
     },
     {
       "added_at": "2025-03-28 04:59:02",

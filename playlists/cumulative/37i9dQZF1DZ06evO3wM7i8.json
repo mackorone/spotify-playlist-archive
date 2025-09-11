@@ -1197,6 +1197,32 @@
     },
     {
       "album": {
+        "name": "Reinhardt, Django: Swingin' With Django (1937)",
+        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
+      },
+      "artists": [
+        {
+          "name": "Ted Snyder",
+          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Hot Club de France Quintet",
+          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "The Sheik of Araby",
+      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
+    },
+    {
+      "album": {
         "name": "Django Reinhardt: Legendary Recordings",
         "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
       },

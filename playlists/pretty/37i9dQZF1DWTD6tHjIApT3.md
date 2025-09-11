@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,931 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,930 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 19 | [手紙](https://open.spotify.com/track/5d07s3PYSAi9LnEJX5ksTX) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [手紙](https://open.spotify.com/album/2QYkXFaj7DYH2FCVZ7q2Tl) | 4:04 |
 | 20 | [最低界隈 \- Saitei Kaiwai](https://open.spotify.com/track/6LQMfHAZYxaX2AyRDnHp4K) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [最低界隈 \- Saitei Kaiwai](https://open.spotify.com/album/5KtONgHCOttcGD4Y1lsXpC) | 3:20 |
 | 21 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 |
-| 22 | [Yes\-No](https://open.spotify.com/track/7MpOq1WicvJIBVJMezQ0x8) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [](https://open.spotify.com/album/null) | 4:38 |
+| 22 | [Yes\-No](https://open.spotify.com/track/7MpOq1WicvJIBVJMezQ0x8) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [小さな歌](https://open.spotify.com/album/3HkSW9YrKFDeGxz0mTg3nu) | 4:38 |
 | 23 | [ムーンライト](https://open.spotify.com/track/3uySe6w4P2YVGUvGiXSsp8) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [ムーンライト](https://open.spotify.com/album/53qqIXsFITZk8Kk3sHnfET) | 3:47 |
 | 24 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 |
 | 25 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |

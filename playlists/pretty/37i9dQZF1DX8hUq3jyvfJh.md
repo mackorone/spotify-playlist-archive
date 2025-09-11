@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,939 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,952 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 42 | [Cosmo e Wanda](https://open.spotify.com/track/4yC4hyptMVCJekxnHCck3y) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Artilheira](https://open.spotify.com/album/57vseSG0QgBscoazMP2JQd) | 2:12 |
 | 43 | [Ten Commandments](https://open.spotify.com/track/3LAxDA234GrviAl7DeSHzi) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 5:02 |
 | 44 | [Mexe com a minha cabeça](https://open.spotify.com/track/1HIlqQshgmmKCU0D8Ne8Cq) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:22 |
-| 45 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
-| 46 | [Big Boss Rich](https://open.spotify.com/track/0bMgQ1sxOeWZv5o90n1REq) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:03 |
+| 45 | [Big Boss Rich](https://open.spotify.com/track/0bMgQ1sxOeWZv5o90n1REq) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:03 |
+| 46 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
 
 Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

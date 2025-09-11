@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,836 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,838 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 35 | [Rules and Games](https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:50 |
 | 36 | [The Distance](https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:26 |
 | 37 | [Front Row Seats to the End of the World](https://open.spotify.com/track/5ROKGTh0NHbnisRp4eLfVg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 3:30 |
-| 38 | [Inequality \- Acoustic](https://open.spotify.com/track/2tAhyUBTov0FYhC1CWnpL7) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse \(Bonus Track Version\)](https://open.spotify.com/album/2Kiv01tDOjJHfdrKMaMdiB) | 2:52 |
-| 39 | [To Die Like Mouchette](https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:22 |
-| 40 | [Best Friends and Hospital Beds](https://open.spotify.com/track/0S5SfIu6UOfEdZqPqWNtWf) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:45 |
-| 41 | [Medicated](https://open.spotify.com/track/5YzLBe3IOcWlZLcqLFh5MM) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 3:36 |
-| 42 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 |
-| 43 | [Conduit](https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:17 |
+| 38 | [To Die Like Mouchette](https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:22 |
+| 39 | [Best Friends and Hospital Beds](https://open.spotify.com/track/0S5SfIu6UOfEdZqPqWNtWf) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:45 |
+| 40 | [Medicated](https://open.spotify.com/track/5YzLBe3IOcWlZLcqLFh5MM) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 3:36 |
+| 41 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 |
+| 42 | [Conduit](https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:17 |
+| 43 | [Old Hymns](https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 2:32 |
 | 44 | [Maybe I Am?](https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:38 |
 | 45 | [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 |
 
-Snapshot ID: `aL4cgAAAAAD1MtkRLON3P/8trJE4vHhh`
+Snapshot ID: `aL9uAAAAAACv2/kN0lLuZ9cUytVZC77A`

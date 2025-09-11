@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,785 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,081 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 82 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
 | 83 | [Mareas \(todo a su tiempo\)](https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Mareas](https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia) | 3:53 |
 | 84 | [Nuestro Encuentro](https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx) | [Daniel Piedra Soto](https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF) | [Atracción](https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2) | 6:12 |
-| 85 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
-| 86 | [Tu Luz](https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8) | [Winicius Nathan](https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU), [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK) | [Tu Luz](https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad) | 3:50 |
+| 85 | [Tu Luz](https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8) | [Winicius Nathan](https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU), [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK) | [Tu Luz](https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad) | 3:50 |
+| 86 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
 | 87 | [Dios Está en Control \- Radio Master](https://open.spotify.com/track/2PQEIqYiwLbQAT3k70Lkd2) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Dios Está en Control 2.0](https://open.spotify.com/album/2izTsmQHPf6BV4snaHjKGk) | 4:30 |
 | 88 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
 | 89 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |

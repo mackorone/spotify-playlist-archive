@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: LATIN MAFIA & Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,115 likes - 200 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,078 likes - 200 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 199 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
 | 200 | [ADICTIVO](https://open.spotify.com/track/6DJi5W0wWz0A8szKMSDiiu) | [Sarodj](https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F) | [ADICTIVO](https://open.spotify.com/album/4OdooYGHrmqiIGQb6sJVTP) | 3:06 |
 
-Snapshot ID: `AAAAAJZkJz/BWxeU9pOaBichEFPgaahk`
+Snapshot ID: `AAAAAHYDIT9II/PS+G+/8bnZcHjb2YKQ`

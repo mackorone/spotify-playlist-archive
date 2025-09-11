@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-259 songs - 14 hr 44 min
+261 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Balenciaga \(feat\. Zuka\)](https://open.spotify.com/track/6D18H9C7LoQGKnkwLjeLmv) | [LauRel](https://open.spotify.com/artist/0ublwPHA9NL8AhRNmDlVfw), [Zuka](https://open.spotify.com/artist/6zGqN0lurYN2KVJ1tqwlvv) | [VIOLET](https://open.spotify.com/album/5FD6lzLIu5D7j2ftbGqcaD) | 3:30 | 2022-04-21 | 2022-06-15 |
 | [BALL](https://open.spotify.com/track/4GiABQJLwKSwVM6vsM0L4x) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [BALL](https://open.spotify.com/album/6Jo7WnV02pFJIWhvmlkSE6) | 2:50 | 2022-06-09 | 2022-06-16 |
 | [bath](https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [bath](https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r) | 4:21 | 2022-04-18 |  |
-| [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2022-04-18 |  |
+| [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2022-04-18 | 2025-09-11 |
 | [Bittersweet](https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C) | [sewoong](https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf) | [Fisherman's knot](https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7) | 4:17 | 2022-04-18 | 2022-06-06 |
 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 | 2022-04-18 |  |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-12-05 | 2023-07-15 |
@@ -83,6 +83,7 @@
 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 | 2022-04-21 |  |
 | [ending](https://open.spotify.com/track/6vCJb7W9nopUECBEPVTICP) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [l o v e](https://open.spotify.com/album/4BOE51OkBxuDPxT8Ka6hvr) | 2:51 | 2022-04-21 | 2022-07-25 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2022-04-18 |  |
+| [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 | 2025-09-10 |  |
 | [Every Night](https://open.spotify.com/track/4tK8Ye9n2CMdLNLGObntax) | [JOE CHO](https://open.spotify.com/artist/3XBlb7T3AujyJSCaIYRWW9) | [Every Night](https://open.spotify.com/album/47zkn6eNadI4P9VnRHgRsC) | 3:03 | 2022-04-18 | 2022-07-29 |
 | [eye contact](https://open.spotify.com/track/5xe1qRb6UXMMef4isZqPcA) | [Seungpil Choi](https://open.spotify.com/artist/4gOgxWWsb8mahnDlRPQPJ2) | [eye contact](https://open.spotify.com/album/37hRb4AlGPSfc1KDEAEEYW) | 3:53 | 2025-06-09 | 2025-07-08 |
 | [Fall](https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [Fall](https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa) | 2:41 | 2022-04-18 | 2022-08-12 |
@@ -221,7 +222,7 @@
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-04-21 | 2025-03-08 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-18 |  |
 | [supporting actor](https://open.spotify.com/track/7GKckapJsvimFkGtOoOSB9) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:15 | 2022-04-18 | 2022-04-21 |
-| [swimming pool](https://open.spotify.com/track/22kp9FB9ISLt27vRgUPn4A) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 4:10 | 2025-09-03 |  |
+| [swimming pool](https://open.spotify.com/track/22kp9FB9ISLt27vRgUPn4A) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 4:10 | 2025-09-03 | 2025-09-11 |
 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 | 2022-12-15 | 2025-05-01 |
 | [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 | 2022-04-18 | 2023-04-09 |
 | [The fin.](https://open.spotify.com/track/5Nr6Z6PpXfyyDjD0J1s6QK) | [MNYL](https://open.spotify.com/artist/6poxjkXTjsM1ucj5rmcyEZ) | [The fin.](https://open.spotify.com/album/0xMZKhtuUSuY14i0bGExLl) | 3:27 | 2022-04-18 | 2022-07-09 |
@@ -252,6 +253,7 @@
 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-04-18 | 2025-05-23 |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 | 2025-05-27 |
 | [Without Me](https://open.spotify.com/track/3MALtwqxvGyWSQCIrtWfRc) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 3:12 | 2022-04-18 | 2022-04-21 |
+| [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 | 2025-09-10 |  |
 | [Woo](https://open.spotify.com/track/13zoZIpAVnikzZgLPlcgnA) | [kanemochi](https://open.spotify.com/artist/2nG0yTmhewa8Ey0EhNTYqW) | [go back to XXXX](https://open.spotify.com/album/0v63SpXUJL8p8bIV9xGOU6) | 2:55 | 2022-04-18 | 2022-04-21 |
 | [WORD](https://open.spotify.com/track/6lvHTbbCotiic58AA421g1) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [WORDS](https://open.spotify.com/album/5oGk1KUbLadVunvl2jaY6J) | 3:17 | 2024-08-10 | 2024-09-12 |
 | [write a letter](https://open.spotify.com/track/62vjBwxToNWGfFniGE6utk) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [l o v e](https://open.spotify.com/album/4BOE51OkBxuDPxT8Ka6hvr) | 3:11 | 2022-04-18 | 2022-07-16 |

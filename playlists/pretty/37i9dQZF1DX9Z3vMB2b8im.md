@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,303,290 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,303,316 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 74 | [She Drives The Car](https://open.spotify.com/track/5HVqwCe11o0R2WjwJQnRuL) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [These Things We Carry](https://open.spotify.com/album/4BEEJeqJqSUAAGGUpuqkPB) | 5:20 |
 | 75 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
 | 76 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |
-| 77 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
-| 78 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
+| 77 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
+| 78 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
 | 79 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 | 80 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
 

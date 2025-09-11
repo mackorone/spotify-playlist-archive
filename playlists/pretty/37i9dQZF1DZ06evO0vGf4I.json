@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1629201,
+  "num_followers": 1629477,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACW/zRIn+pJ4PqUVFFC7upc",
+  "snapshot_id": "aL9uAAAAAAAI4fQc9v7gq403MqjFG35s",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
       "artists": [
         {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 321560,
-      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": null,
@@ -603,22 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+      "duration_ms": 321560,
+      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "2000 EXCURSION",
-      "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "2000 EXCURSION",
+      "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
     },
     {
       "added_at": null,

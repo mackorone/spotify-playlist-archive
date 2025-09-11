@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Wizard Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,335 likes - 69 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,453 likes - 69 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 61 | [Grateful](https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 2:49 |
 | 62 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
 | 63 | [ASAMPETE](https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf) | [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Agunna](https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze), [Shagba](https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [NOTHING CHANGED](https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S) | 3:00 |
-| 64 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 |
-| 65 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 |
+| 64 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 |
+| 65 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 |
 | 66 | [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 |
 | 67 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
 | 68 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |

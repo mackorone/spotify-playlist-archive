@@ -4,7 +4,7 @@
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 57 min
+96 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Boys](https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:52 | 2023-10-10 |  |
 | [Break Up Twice](https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:56 | 2023-10-10 |  |
 | [Bus Passes and Happy Meals](https://open.spotify.com/track/3ZjDkgata3JIB0Jo0EzCgv) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:17 | 2024-05-13 | 2024-06-27 |
-| [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 | 2023-10-10 |  |
+| [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 | 2023-10-10 | 2025-09-11 |
 | [Coldplay](https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:55 | 2024-05-10 | 2024-07-24 |
 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 | 2025-06-29 |  |
 | [Crybaby](https://open.spotify.com/track/1FeKkh024mTeLJwI3jiCSe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:55 | 2023-10-10 | 2024-01-15 |
@@ -52,6 +52,7 @@
 | [IDGAS](https://open.spotify.com/track/3bjz4Axh9eUaZ6WGQl4aKi) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE STILL HURTS FROM SMILING](https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2) | 3:03 | 2025-09-10 |  |
 | [If You Love Me](https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2023-10-10 |  |
 | [Iko](https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7) | [N.A.S.A.](https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Iko](https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC) | 3:31 | 2025-06-20 |  |
+| [INTERNET \(FEAT\. TIERRA WHACK\)](https://open.spotify.com/track/5c9B681VEiWXMaF36GjW7P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [MY FACE STILL HURTS FROM SMILING](https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2) | 1:58 | 2025-09-11 |  |
 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-29 |  |
 | [IT’S THAT DEEP](https://open.spotify.com/track/5Mfe0EbFDeK14VcyAyiwnc) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE STILL HURTS FROM SMILING](https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2) | 0:49 | 2025-09-10 |  |
 | [Jang a Lang](https://open.spotify.com/track/2oqRx0mzjtlSexe7vgGxr8) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 2:51 | 2024-05-19 | 2024-06-27 |

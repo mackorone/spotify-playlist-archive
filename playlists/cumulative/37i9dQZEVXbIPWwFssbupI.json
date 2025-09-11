@@ -15694,7 +15694,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -15712,7 +15712,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -28042,7 +28042,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "MANON B",
       "url": "https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw"
@@ -28674,7 +28674,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 189725,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/1LVcP0l8OSboArtcE2ycol"
@@ -29767,6 +29767,28 @@
     },
     {
       "album": {
+        "name": "Hybride",
+        "url": "https://open.spotify.com/album/7MhbwWT1TkRX0qOQknpSsk"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144010,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/0AK8IWlP9r2cJ0LUzwtNho"
+    },
+    {
+      "album": {
         "name": "Mode avion",
         "url": "https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc"
       },
@@ -29782,7 +29804,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 144010,
       "name": "Mode avion",
       "url": "https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva"
@@ -33179,6 +33201,24 @@
     },
     {
       "album": {
+        "name": "P.I.B",
+        "url": "https://open.spotify.com/album/1WmWymM85Nr8mCo92QGjyT"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "P.I.B",
+      "url": "https://open.spotify.com/track/6YwglTFkBDJ2DcgzbUpXOD"
+    },
+    {
+      "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
       },
@@ -34584,7 +34624,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 204973,
       "name": "Ph\u00e9nom\u00e9nal",
       "url": "https://open.spotify.com/track/78Y0EwVQ9kdQFTIOzr7lUd"
@@ -36108,7 +36148,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
@@ -37962,7 +38002,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 179253,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
@@ -43544,7 +43584,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 201786,
       "name": "Toi et moi",
       "url": "https://open.spotify.com/track/3Hnni3uO01o6FDQObAo25P"
@@ -43928,7 +43968,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 180973,
       "name": "Tout Pour L'\u00e9quipe",
       "url": "https://open.spotify.com/track/2D2JZ8FHmkyGxcGrDpWGe4"

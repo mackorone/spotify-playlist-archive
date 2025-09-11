@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,051 likes - 46 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,079 likes - 46 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
-| 2 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
+| 2 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
 | 3 | [Blue Orchid](https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:37 |
 | 4 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
 | 5 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
-| 6 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
+| 6 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
 | 7 | [My Doorbell](https://open.spotify.com/track/0pzjcWYkyynxhONSm5C8Cu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:01 |
 | 8 | [Apple Blossom](https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:13 |
 | 9 | [Ball and Biscuit](https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 7:18 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 31 | [I'm Slowly Turning Into You](https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:34 |
 | 32 | [Truth Doesn't Make a Noise](https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 3:14 |
 | 33 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
-| 34 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
-| 35 | [Party of Special Things to Do](https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:50 |
+| 34 | [Party of Special Things to Do](https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:50 |
+| 35 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
 | 36 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
 | 37 | [Cannon](https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:31 |
 | 38 | [Hand Springs](https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hand Springs](https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa) | 2:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 45 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 |
 | 46 | [Cool Drink Of Water Blues \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:12 |
 
-Snapshot ID: `aL4cgAAAAAA2fPAP+Wn5hc7sl+KBheEO`
+Snapshot ID: `aL9uAAAAAAAEWsCdUXO5/A12znatm4WH`

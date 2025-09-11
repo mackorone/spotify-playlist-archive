@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,057 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,060 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 84 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
 | 85 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
 | 86 | [Changes \- Radio Mix](https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changes](https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E) | 3:22 |
-| 87 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
-| 88 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
+| 87 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
+| 88 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
 | 89 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |
 | 90 | [A\-Punk](https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:17 |
 | 91 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 94 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 95 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 |
 | 96 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 |
-| 97 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
-| 98 | [Following the Sun](https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4) | 3:25 |
-| 99 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
+| 97 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
+| 98 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
+| 99 | [Following the Sun](https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4) | 3:25 |
 | 100 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 
-Snapshot ID: `AAAAANDFsfpE9e1DvOXROT6QuNB/sWuh`
+Snapshot ID: `AAAAAGBIMPKLsT0zz/S50zvFBdBrvAIh`

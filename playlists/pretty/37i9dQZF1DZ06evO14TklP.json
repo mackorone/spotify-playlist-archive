@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 15383,
+  "num_followers": 15428,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABNBivcsqYaYinvyXbyKJDX",
+  "snapshot_id": "aL9uAAAAAADOQs2m2Mm2+gtNzJ2FC2KE",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELAS PINTAM",
-        "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
       "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 194020,
-      "name": "ELAS PINTAM",
-      "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
+      "duration_ms": 181052,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
     },
     {
       "added_at": null,
@@ -643,22 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+        "name": "ELAS PINTAM",
+        "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },
       "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
         }
       ],
-      "duration_ms": 181052,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
+      "duration_ms": 194020,
+      "name": "ELAS PINTAM",
+      "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
     },
     {
       "added_at": null,

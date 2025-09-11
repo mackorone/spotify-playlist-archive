@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,615 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,756 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 12 | [There Will Never Be Another You](https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 2:51 |
 | 13 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
 | 14 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
-| 15 | [I'm In The Mood For Love \- Remastered/1996](https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9) | [Jimmy McHugh](https://open.spotify.com/artist/7r1YNrUHsmDmcVCg8P4piG), [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [The Romantic Moods Of Jackie Gleason](https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly) | 3:30 |
-| 16 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
+| 15 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
+| 16 | [I'm In The Mood For Love \- Remastered/1996](https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9) | [Jimmy McHugh](https://open.spotify.com/artist/7r1YNrUHsmDmcVCg8P4piG), [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [The Romantic Moods Of Jackie Gleason](https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly) | 3:30 |
 | 17 | [Poor Butterfly](https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:04 |
 | 18 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
 | 19 | [Alone Together](https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:05 |

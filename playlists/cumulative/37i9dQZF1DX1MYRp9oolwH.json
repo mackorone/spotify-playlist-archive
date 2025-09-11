@@ -1371,6 +1371,36 @@
     },
     {
       "album": {
+        "name": "Little Hearts",
+        "url": "https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Sindhuja Tanuku",
+          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ee Dhooramey",
+      "url": "https://open.spotify.com/track/4eXPw0pefj8lT7KxLsSQCJ"
+    },
+    {
+      "album": {
         "name": "Ee Rangula Lokam (From \"Ugly Story\")",
         "url": "https://open.spotify.com/album/6O2d3kO1tegY9FnKdemmV2"
       },
@@ -1968,6 +1998,32 @@
       "duration_ms": 266624,
       "name": "Haiyayyo (From \"Mr.X (Telugu)\")",
       "url": "https://open.spotify.com/track/2m1ihM9sAyMgYvAhkAfG6j"
+    },
+    {
+      "album": {
+        "name": "Little Hearts",
+        "url": "https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Hello Ani",
+      "url": "https://open.spotify.com/track/2YvNpKwCrPvfvhWA9s0Idx"
     },
     {
       "album": {
@@ -2768,7 +2824,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 282282,
       "name": "Kalalokooda - From \"Mana Iddari Premakatha\"",
       "url": "https://open.spotify.com/track/0h7cS91xtRaaRzd43nvxt4"
@@ -3728,7 +3784,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 191042,
       "name": "Manase [From \"14 Days (Girlfriend Intlo)\"]",
       "url": "https://open.spotify.com/track/1rwX0zzCIfWM7kSv5x74iD"

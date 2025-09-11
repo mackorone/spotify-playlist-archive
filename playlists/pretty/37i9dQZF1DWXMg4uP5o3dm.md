@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,467 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,524 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 50 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
 | 51 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
 | 52 | [Skinny Loser](https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Skinny Loser](https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV) | 3:28 |
-| 53 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
-| 54 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 53 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 54 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
 | 55 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
 | 56 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 |
 | 57 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |

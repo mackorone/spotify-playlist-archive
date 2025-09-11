@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3577,
+  "num_followers": 3576,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACWJjjAgQUdaHKxvoXxz6Jg",
+  "snapshot_id": "aL9uAAAAAABfU3NRD2m0mrANSi8NlRnN",
   "tracks": [
     {
       "added_at": null,
@@ -151,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+        "name": "Osunlade presents Racially Charged",
+        "url": "https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX"
       },
       "artists": [
+        {
+          "name": "Rich Medina",
+          "url": "https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF"
+        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 324960,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA"
+      "duration_ms": 243511,
+      "name": "The Sickness",
+      "url": "https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j"
     },
     {
       "added_at": null,
@@ -179,6 +183,22 @@
       "duration_ms": 323262,
       "name": "Don\u2019t Ever Look Back",
       "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA"
     },
     {
       "added_at": null,
@@ -207,22 +227,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Osunlade presents Racially Charged",
-        "url": "https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX"
+        "name": "The Quieter You Become, the More You Hear",
+        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
       },
       "artists": [
         {
-          "name": "Rich Medina",
-          "url": "https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF"
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
+        {
+          "name": "Mike Steva",
+          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
+        }
+      ],
+      "duration_ms": 287043,
+      "name": "Recovery Music",
+      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dionne / What Gets You High?",
+        "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
+      },
+      "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 243511,
-      "name": "The Sickness",
-      "url": "https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j"
+      "duration_ms": 239495,
+      "name": "What Gets You High?",
+      "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
     },
     {
       "added_at": null,
@@ -251,42 +287,6 @@
       "duration_ms": 389352,
       "name": "Brand New Feeling - Yoruba Soul Mix Part 2 Edit",
       "url": "https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dionne / What Gets You High?",
-        "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 239495,
-      "name": "What Gets You High?",
-      "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Quieter You Become, the More You Hear",
-        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Mike Steva",
-          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
-        }
-      ],
-      "duration_ms": 287043,
-      "name": "Recovery Music",
-      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tambores Te Llaman",
-        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Carlos Mena",
-          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Los Tambores Te Llaman - Original Mix",
-      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out (Sit Back And Relax)",
         "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 229268,
       "name": "Envisions - \u00c2me Acoustic Remix",
       "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tambores Te Llaman",
+        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Carlos Mena",
+          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Los Tambores Te Llaman - Original Mix",
+      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Revisited",
-        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "A Time To Remember - Remix",
-      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 217756,
       "name": "A Day Without U",
       "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 301713,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+        "name": "Blue Note Revisited",
+        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 301713,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
+      "duration_ms": 283400,
+      "name": "A Time To Remember - Remix",
+      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cucumber Sweat",
-        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Cucumber Sweat",
-      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elements Beyond",
         "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 470506,
       "name": "April",
       "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cucumber Sweat",
+        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Cucumber Sweat",
+      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
     },
     {
       "added_at": null,
@@ -782,19 +782,11 @@
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Myles Bigelow",
-          "url": "https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5"
         }
       ],
-      "duration_ms": 258019,
-      "name": "Reign",
-      "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
     },
     {
       "added_at": null,
@@ -866,11 +858,19 @@
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
+        },
+        {
+          "name": "Myles Bigelow",
+          "url": "https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5"
         }
       ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+      "duration_ms": 258019,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Iamone",
+        "url": "https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 109979,
+      "name": "Build a Fire",
+      "url": "https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Osunlade vs Papa",
         "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
       },
@@ -907,30 +923,6 @@
       "duration_ms": 420018,
       "name": "Joyous - Yoruba Soul Instrumental Remix",
       "url": "https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Call Love",
-        "url": "https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv"
-      },
-      "artists": [
-        {
-          "name": "Art Department",
-          "url": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
-        }
-      ],
-      "duration_ms": 378026,
-      "name": "We Call Love",
-      "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
     }
   ],
   "unique_name": "This Is Osunlade",

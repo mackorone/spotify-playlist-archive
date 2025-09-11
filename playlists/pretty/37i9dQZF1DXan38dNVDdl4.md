@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Konshens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,806 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598,786 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

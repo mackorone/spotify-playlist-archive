@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Rema",
-  "num_followers": 627372,
+  "num_followers": 627724,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2025-09-05 00:01:27",
-      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 165642,
       "name": "you",
       "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -611,26 +611,22 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "Arike (Remix)",
-        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 146823,
-      "name": "Arike - Remix",
-      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -651,6 +647,30 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -711,26 +731,6 @@
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
-    },
-    {
-      "added_at": "2025-09-05 00:01:27",
-      "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+    },
+    {
+      "added_at": "2025-09-05 00:01:27",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
@@ -839,22 +859,18 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
       },
       "artists": [
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 176326,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+      "duration_ms": 158690,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -875,22 +891,6 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": "2025-09-05 00:01:27",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 158690,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "Toro - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
       "artists": [
         {
@@ -1140,13 +1140,13 @@
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 194436,
-      "name": "Toro - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+        "name": "Toro - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
       "artists": [
         {
@@ -1232,13 +1232,13 @@
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+      "duration_ms": 194436,
+      "name": "Toro - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
     },
     {
       "added_at": "2025-09-05 00:01:27",
@@ -1303,26 +1303,22 @@
     {
       "added_at": "2025-09-05 00:01:27",
       "album": {
-        "name": "PINACOLADA",
-        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+        "name": "Katam (feat. Bien)",
+        "url": "https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf"
       },
       "artists": [
         {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         }
       ],
-      "duration_ms": 177847,
-      "name": "PINACOLADA",
-      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
+      "duration_ms": 245625,
+      "name": "Katam (feat. Bien)",
+      "url": "https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP"
     }
   ],
   "unique_name": "Afropop",

@@ -1,6 +1,6 @@
 {
   "description": "The hottest 50. Cover: Lady Gaga",
-  "num_followers": 34791355,
+  "num_followers": 34790357,
   "original_name": "Today\u2019s Top Hits",
   "owner": {
     "name": "Spotify",
@@ -8,38 +8,6 @@
   },
   "snapshot_id": "AAAAAGQc5QLDWZH9FApGc5vvYT12/jaE",
   "tracks": [
-    {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
-    },
-    {
-      "added_at": "2025-09-05 07:56:43",
-      "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "LOVE SONG",
-      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
-    },
     {
       "added_at": "2025-08-29 04:00:45",
       "album": {
@@ -55,6 +23,22 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-09-05 04:00:27",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "added_at": "2025-02-14 05:00:50",
@@ -73,20 +57,20 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-03-14 04:00:26",
+      "added_at": "2025-09-05 07:56:43",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 172306,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
     },
     {
       "added_at": "2025-07-04 04:00:36",
@@ -109,6 +93,22 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
+      "added_at": "2025-03-14 04:00:26",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
       "added_at": "2025-08-01 04:00:42",
       "album": {
         "name": "The Subway",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
-      "added_at": "2025-08-22 04:01:28",
-      "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
-    },
-    {
       "added_at": "2025-03-21 04:01:02",
       "album": {
         "name": "back to friends",
@@ -155,6 +139,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-08-22 04:01:28",
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "added_at": "2025-06-03 23:24:20",

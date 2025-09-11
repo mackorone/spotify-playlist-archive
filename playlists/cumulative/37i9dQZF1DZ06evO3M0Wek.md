@@ -4,7 +4,7 @@
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 4 min
+66 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,10 @@
 | [Black Vultures](https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 4:10 | 2025-03-08 |  |
 | [Boot Scootin' Boogie \(with Halestorm\)](https://open.spotify.com/track/6CU78ZRTNZRomC7o6K0gFh) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 2:56 | 2025-03-08 | 2025-08-10 |
 | [Break In \(feat\. Amy Lee\)](https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Reimagined](https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl) | 4:54 | 2025-03-08 |  |
-| [Broken Doll](https://open.spotify.com/track/5hBSBygYl27nMEqjNv37Lk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:23 | 2025-08-10 |  |
+| [Broken Doll](https://open.spotify.com/track/5hBSBygYl27nMEqjNv37Lk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:23 | 2025-08-10 | 2025-09-11 |
 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 | 2025-03-08 |  |
 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 | 2025-04-24 |  |
-| [Daughters of Darkness](https://open.spotify.com/track/6LlulaQFzRuypfDLBPCWUq) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:55 | 2025-09-10 |  |
+| [Daughters of Darkness](https://open.spotify.com/track/6LlulaQFzRuypfDLBPCWUq) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:55 | 2025-09-10 | 2025-09-11 |
 | [Do Not Disturb](https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:23 | 2025-03-08 |  |
 | [Don't Know How to Stop](https://open.spotify.com/track/28BfkJcbmfktoLkTbYhCbY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:54 | 2025-03-08 |  |
 | [Everest](https://open.spotify.com/track/0Y5ydBoqvKvwWJoY3hLsrX) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:47 | 2025-08-24 |  |
@@ -33,7 +33,7 @@
 | [Gold Dust Woman](https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 4:10 | 2025-03-08 |  |
 | [Heart of Novocaine](https://open.spotify.com/track/6QQg9ttMJjUuUYAM3Nzaq7) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:33 | 2025-03-08 | 2025-04-26 |
 | [Heathens](https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 3:28 | 2025-03-08 |  |
-| [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 | 2025-03-08 | 2025-09-10 |
+| [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 | 2025-03-08 |  |
 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 | 2025-03-08 |  |
 | [I Get Off](https://open.spotify.com/track/0JKY13K1Io2aqXJb96UyzX) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:03 | 2025-03-08 |  |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 4:09 | 2025-03-08 | 2025-08-10 |
@@ -54,7 +54,8 @@
 | [Mz\. Hyde](https://open.spotify.com/track/78mjaBatbfvwx5KJwI036H) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:22 | 2025-03-08 |  |
 | [Out In the Rain](https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Who I Am](https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU) | 4:14 | 2025-03-08 |  |
 | [Psycho Crazy](https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:25 | 2025-03-08 |  |
-| [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-13 |  |
+| [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-13 | 2025-09-11 |
+| [Rain Your Blood On Me](https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:14 | 2025-09-11 |  |
 | [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 | 2025-03-08 |  |
 | [Rock Show](https://open.spotify.com/track/42h9lxw9OKy1sw6vh6dKBP) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:19 | 2025-08-08 |  |
 | [Shiver](https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:50 | 2025-08-10 |  |
@@ -70,7 +71,7 @@
 | [Uncomfortable](https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:40 | 2025-03-08 |  |
 | [Vicious](https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:02 | 2025-03-08 |  |
 | [WATCH OUT!](https://open.spotify.com/track/3U4pOVUBotrEwil5pPAK4r) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:37 | 2025-08-10 | 2025-09-09 |
-| [White Dress](https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 | 2025-05-31 | 2025-08-10 |
+| [White Dress](https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 | 2025-05-31 |  |
 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 | 2025-03-08 |  |
 | [You Call Me a Bitch Like It's a Bad Thing](https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 | 2025-03-08 |  |
 

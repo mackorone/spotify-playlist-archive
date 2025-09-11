@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,101 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,164 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 38 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
 | 39 | [Sabanas Blancas](https://open.spotify.com/track/5KF17ePUmiBbS6IEKu5gQL) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 | 40 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
-| 41 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
+| 41 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
 | 42 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
-| 43 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
+| 43 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
 | 44 | [Interlude \- Don Che Tra Mix](https://open.spotify.com/track/6CBjYv25BAXI0cyPuHwnRI) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:38 |
 | 45 | [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 | 46 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |

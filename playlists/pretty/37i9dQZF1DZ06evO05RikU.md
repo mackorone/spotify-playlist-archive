@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,143 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,146 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 43 | [Conmigo \(Rest of Your Life\)](https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:18 |
 | 44 | [BI](https://open.spotify.com/track/4sd1CaJPlMi8WGDhyVaOro) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:29 |
 | 45 | [Highway](https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Highway](https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ) | 3:41 |
-| 46 | [Gaia](https://open.spotify.com/track/43pdManuxxQh80XyU51ybY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Dēlian](https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:44 |
-| 47 | [Palo Santo](https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:39 |
+| 46 | [Palo Santo](https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:39 |
+| 47 | [Gaia](https://open.spotify.com/track/43pdManuxxQh80XyU51ybY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Dēlian](https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:44 |
 | 48 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
-| 49 | [Kids \(feat\. Sofia Reyes\)](https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Good Life](https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ) | 2:51 |
-| 50 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
+| 49 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
+| 50 | [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 |
 
-Snapshot ID: `aL4cgAAAAACjHXAGQv7QyUbZpncnA0yu`
+Snapshot ID: `aL9uAAAAAABxftCqT/2/0nws4ibz1Y60`

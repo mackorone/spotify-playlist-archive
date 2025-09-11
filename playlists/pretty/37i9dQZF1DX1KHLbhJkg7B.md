@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,042 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,111 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 72 | [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 |
 | 73 | [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 |
 | 74 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
-| 75 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
-| 76 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
+| 75 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
+| 76 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
 | 77 | [Wicked Game](https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Wicked Game](https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ) | 6:11 |
 | 78 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 |
 | 79 | [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/track/4bqPKdtJPrNmDCDRzhoB9q) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/album/6u63LyjFVu1zv6Bgsrgqkb) | 3:39 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 83 | [Chasing Cars](https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Chasing Cars](https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ) | 4:25 |
 | 84 | [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 |
 | 85 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 |
-| 86 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
-| 87 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
-| 88 | [Lookin' for Love](https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Odies But Goodies](https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q) | 3:30 |
-| 89 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
+| 86 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
+| 87 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
+| 88 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
+| 89 | [Lookin' for Love](https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Odies But Goodies](https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q) | 3:30 |
 | 90 | [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 |
 | 91 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 |
 | 92 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,313 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,322 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 15 | [KFC Santería \(feat\. Sudan Archives\)](https://open.spotify.com/track/0SqXYMHELy6S2SQoOIKNqn) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [KFC Santería \(feat\. Sudan Archives\)](https://open.spotify.com/album/4PM1aSq6VQ8ox26ITWNbg5) | 3:02 |
 | 16 | [Hot Minute](https://open.spotify.com/track/4QQOZsSErvrn2KUhUT6kis) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Hot Minute](https://open.spotify.com/album/5pBMkkbZpVkbLwLcfwkb1Q) | 3:22 |
 | 17 | [Shot Caller](https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p) | [Shot Caller](https://open.spotify.com/album/1ZagA41DDTxulo2jWZzrmF) | 2:49 |
-| 18 | [Dupla de Bandido](https://open.spotify.com/track/2l3YKmRENUvTx9AuoCeKJA) | [Lorkestra](https://open.spotify.com/artist/4uud1BAHqvEsXpllk0kFOf), [Mabrada](https://open.spotify.com/artist/0valYl0qLzIycA7LnqGTXR) | [Dupla de Bandido](https://open.spotify.com/album/5Onz1C2ItIZVQX9cpdGtfZ) | 2:19 |
+| 18 | [DUPLA DE BANDIDO](https://open.spotify.com/track/2l3YKmRENUvTx9AuoCeKJA) | [Lorkestra](https://open.spotify.com/artist/4uud1BAHqvEsXpllk0kFOf), [Mabrada](https://open.spotify.com/artist/0valYl0qLzIycA7LnqGTXR) | [DUPLA DE BANDIDO](https://open.spotify.com/album/5Onz1C2ItIZVQX9cpdGtfZ) | 2:19 |
 | 19 | [Kuduro \- feat\. Fatoumata Diawara, Moonchild Sanelly & Tom Excell](https://open.spotify.com/track/1EvIyBU8cZ6y34fzrAHWm0) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Tom Excell](https://open.spotify.com/artist/7xWMYlmDVs3qZKLgJU7dKK) | [Kuduro \(feat\. Fatoumata Diawara, Moonchild Sanelly & Tom Excell\)](https://open.spotify.com/album/6B53OFcQzKs0bUf9DCY8W6) | 2:27 |
 | 20 | [So Sound](https://open.spotify.com/track/7y4CqwBkrrfnTrnMCORSiI) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [The Syndicate](https://open.spotify.com/album/2QbXAfC7WKJGgihxZmtBmg) | 4:05 |
 | 21 | [say you'll never leave](https://open.spotify.com/track/4IOkjtrAntwo5TticxEIr9) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [say you'll never leave](https://open.spotify.com/album/4xJwTmqkzGXCfS0RhFhq19) | 2:47 |

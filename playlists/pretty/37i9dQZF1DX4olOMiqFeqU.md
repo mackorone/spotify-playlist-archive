@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,479,273 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,479,919 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 22 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 |
 | 23 | [Balisong \- Transformed](https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Balisong \(Transformed\)](https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt) | 2:43 |
 | 24 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
-| 25 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 |
+| 25 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 |
 | 26 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 |
 | 27 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
-| 28 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 |
+| 28 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 |
 | 29 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
 | 30 | [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 |
 | 31 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 36 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
 | 37 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:09 |
 | 38 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
-| 39 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
-| 40 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 39 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 40 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
 | 41 | [Fallen](https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Fallen](https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7) | 3:21 |
-| 42 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 42 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 43 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
 | 44 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 |
 | 45 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Louis Ottley, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Agassi, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 157166,
       "name": "5 TB Geduld",
       "url": "https://open.spotify.com/track/3RqYqQWdCZpry51W6CDD33"
@@ -6009,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "Bedroom June",
+        "url": "https://open.spotify.com/album/5FtjuZKxjVeIDVsMlJLGrO"
+      },
+      "artists": [
+        {
+          "name": "Bedroom June",
+          "url": "https://open.spotify.com/artist/7AdrjVdfeXLUALuIHzyoE9"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199642,
+      "name": "Distracted By You",
+      "url": "https://open.spotify.com/track/3C0MQUye6TEha1t7V9FAxH"
+    },
+    {
+      "album": {
         "name": "Until All Of Us Are Free",
         "url": "https://open.spotify.com/album/5lyFym0CDO04ux3adSNNTb"
       },
@@ -10761,6 +10779,24 @@
     },
     {
       "album": {
+        "name": "High School Reunion...",
+        "url": "https://open.spotify.com/album/0DZBPPMLogEoolfd6WRTFo"
+      },
+      "artists": [
+        {
+          "name": "Brosie",
+          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185123,
+      "name": "High School Reunion...",
+      "url": "https://open.spotify.com/track/6RyVVEyI5HXlMvvvx5Lf7R"
+    },
+    {
+      "album": {
         "name": "Hoffe, dir geht's mies",
         "url": "https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq"
       },
@@ -13314,7 +13350,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 190029,
       "name": "Kleine Welt",
       "url": "https://open.spotify.com/track/7DBd11oIU57fsJE5lNDKbV"
@@ -13588,7 +13624,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 141500,
       "name": "Lange Her",
       "url": "https://open.spotify.com/track/2NIGGrekV5gx8XRfBEqFPi"
@@ -13862,7 +13898,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 181580,
       "name": "Leave Me When I Need You",
       "url": "https://open.spotify.com/track/3RighqVouTf9FRWHMUmRtn"
@@ -17204,7 +17240,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 167194,
       "name": "OBELISK",
       "url": "https://open.spotify.com/track/1q9mXNPHXAZGCbh0z90kdZ"
@@ -17240,7 +17276,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 218776,
       "name": "Ocean's Lullaby",
       "url": "https://open.spotify.com/track/4W91r73bTPk5VvYCKckwkH"
@@ -18612,7 +18648,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 238386,
       "name": "Pray For Us",
       "url": "https://open.spotify.com/track/31Duh9kh3vAe7zejXzuAM2"
@@ -18742,7 +18778,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 210000,
       "name": "Providence",
       "url": "https://open.spotify.com/track/6lyIjMtralI5bskFuDxiL6"
@@ -18933,7 +18969,7 @@
     },
     {
       "album": {
-        "name": "R u still awake?",
+        "name": "r u still awake?",
         "url": "https://open.spotify.com/album/1fmN7UueKkaBhaaRMRJXXN"
       },
       "artists": [
@@ -18946,7 +18982,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146086,
-      "name": "R U Still Awake?",
+      "name": "r u still awake?",
       "url": "https://open.spotify.com/track/2zsRMJbXNBYiIDTSgozKHM"
     },
     {
@@ -21480,7 +21516,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 217346,
       "name": "solar power",
       "url": "https://open.spotify.com/track/0YVvQVCBBXTB9yWZzW8sed"
@@ -22256,6 +22292,24 @@
       "duration_ms": 212775,
       "name": "Steal My Name",
       "url": "https://open.spotify.com/track/2JpIEE2VTgzLCwOQEfppcN"
+    },
+    {
+      "album": {
+        "name": "Steht still",
+        "url": "https://open.spotify.com/album/0DqM5FNVJXNdfFVokSN7iv"
+      },
+      "artists": [
+        {
+          "name": "ANNA YUNA",
+          "url": "https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124480,
+      "name": "Steht still",
+      "url": "https://open.spotify.com/track/5gRQoEsXb2T7SDKhK5ZH8k"
     },
     {
       "album": {
@@ -23673,6 +23727,24 @@
     },
     {
       "album": {
+        "name": "The Whole Shebang",
+        "url": "https://open.spotify.com/album/5uF8ngdgJGwXssjHifQ27c"
+      },
+      "artists": [
+        {
+          "name": "Agassi",
+          "url": "https://open.spotify.com/artist/4hwyUVEeFkzvnGJXyU0Qti"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165163,
+      "name": "The Whole Shebang",
+      "url": "https://open.spotify.com/track/5lO5ZvtMUbOObborKik1aO"
+    },
+    {
+      "album": {
         "name": "Freedomspacecake",
         "url": "https://open.spotify.com/album/06QP0yI5lEp7BkpNBUiV2E"
       },
@@ -23898,6 +23970,24 @@
       "duration_ms": 131047,
       "name": "Tired",
       "url": "https://open.spotify.com/track/39OLKv0t5sBBoOCjbNwfFb"
+    },
+    {
+      "album": {
+        "name": "Tired Of Sleeping",
+        "url": "https://open.spotify.com/album/6J92az003OSVTjWC0NYmCe"
+      },
+      "artists": [
+        {
+          "name": "Minoa",
+          "url": "https://open.spotify.com/artist/65NZk6IZ0jdkHO7L0laAvG"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277536,
+      "name": "Tired Of Sleeping",
+      "url": "https://open.spotify.com/track/7koS4KmOCpU0SlH52X0mwV"
     },
     {
       "album": {
@@ -24927,6 +25017,24 @@
     },
     {
       "album": {
+        "name": "venom",
+        "url": "https://open.spotify.com/album/1s82HtRET91b9Tlk4LKeZO"
+      },
+      "artists": [
+        {
+          "name": "sanna frankie",
+          "url": "https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150174,
+      "name": "venom",
+      "url": "https://open.spotify.com/track/62nGDz5On8UfASAk7AhDIU"
+    },
+    {
+      "album": {
         "name": "MM001",
         "url": "https://open.spotify.com/album/4ZMDpSqddkubkcmrEHTVpT"
       },
@@ -25112,6 +25220,24 @@
       "duration_ms": 167671,
       "name": "VERY SAD OPFERTYP",
       "url": "https://open.spotify.com/track/78E7hEa5130fVJMwQYCiO3"
+    },
+    {
+      "album": {
+        "name": "Viel zu Viel",
+        "url": "https://open.spotify.com/album/4jDkK1Jx9FOxB7gsZb224v"
+      },
+      "artists": [
+        {
+          "name": "Kopfkind",
+          "url": "https://open.spotify.com/artist/0cQBSOHGJNRsengmet9HPc"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128625,
+      "name": "Viel zu Viel",
+      "url": "https://open.spotify.com/track/15Il9jXN0LaUaRcmxh8fsL"
     },
     {
       "album": {
@@ -25494,7 +25620,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 173114,
       "name": "Wanna Know You",
       "url": "https://open.spotify.com/track/2d4X7xMo9TwwFDNNdMqInX"
@@ -25753,6 +25879,28 @@
     },
     {
       "album": {
+        "name": "wegfahren?",
+        "url": "https://open.spotify.com/album/5umwwaDPEbQ44M64CgNlPj"
+      },
+      "artists": [
+        {
+          "name": "SCHWERT",
+          "url": "https://open.spotify.com/artist/6JZqHfaAdBke6x6vIeZlyC"
+        },
+        {
+          "name": "ARISTOMANE",
+          "url": "https://open.spotify.com/artist/6kNLTIIrnEyDAIG6tABgso"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153271,
+      "name": "wegfahren?",
+      "url": "https://open.spotify.com/track/1ojHQEs8o48dutAuQ5ct1Z"
+    },
+    {
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/3biQ3VIzH8p3HirpaSKdlZ"
       },
@@ -25772,6 +25920,24 @@
       "duration_ms": 180967,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3p1OaMB89QZTgO7UcVHblg"
+    },
+    {
+      "album": {
+        "name": "weinen im sommer",
+        "url": "https://open.spotify.com/album/0owCxv0zONKGPJKvIrtcdf"
+      },
+      "artists": [
+        {
+          "name": "PICOBELLO",
+          "url": "https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "weinen im sommer",
+      "url": "https://open.spotify.com/track/00ZHtUmnK5fgQLoKJivMTf"
     },
     {
       "album": {
@@ -27154,6 +27320,24 @@
       "duration_ms": 183652,
       "name": "zugeparkt",
       "url": "https://open.spotify.com/track/1Ub0UvSzsIq1hGj8TULZTf"
+    },
+    {
+      "album": {
+        "name": "Zugwarten",
+        "url": "https://open.spotify.com/album/56JHoyzM2GvU4KDlnl7YN4"
+      },
+      "artists": [
+        {
+          "name": "Kassettenkrach",
+          "url": "https://open.spotify.com/artist/5bEdVy7syvIX0cpiFQi9Ih"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126544,
+      "name": "Zugwarten",
+      "url": "https://open.spotify.com/track/1nGnziO2muaQpPfhxxJgLI"
     },
     {
       "album": {

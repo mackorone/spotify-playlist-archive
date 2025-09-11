@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 631778,
+  "num_followers": 631890,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
+        "name": "Lights Down Low (feat. Waka Flocka Flame)",
+        "url": "https://open.spotify.com/album/4BV65TtMrkb0aUCTmkJEpS"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Lights Down Low (feat. Waka Flocka Flame)",
+      "url": "https://open.spotify.com/track/0hkR93a0LriV2CQUhSXw3h"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
-        "name": "Lights Down Low (feat. Waka Flocka Flame)",
-        "url": "https://open.spotify.com/album/4BV65TtMrkb0aUCTmkJEpS"
-      },
-      "artists": [
-        {
-          "name": "Maejor",
-          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 186120,
-      "name": "Lights Down Low (feat. Waka Flocka Flame)",
-      "url": "https://open.spotify.com/track/0hkR93a0LriV2CQUhSXw3h"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -595,18 +595,22 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "tell you straight (Speed Garage)",
+        "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+        },
+        {
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 94344,
+      "name": "tell you straight - Sped Up",
+      "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -635,22 +639,18 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "tell you straight (Speed Garage)",
-        "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Strn.",
-          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
-        },
-        {
-          "name": "ALEXYS",
-          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 94344,
-      "name": "tell you straight - Sped Up",
-      "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
         "name": "ALL IN (Lieblingslieder)",
         "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 163601,
       "name": "ALL IN (Lieblingslieder)",
       "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2025-08-28 22:00:09",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-08-28 22:00:09",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
-    },
-    {
-      "added_at": "2025-08-28 22:00:09",
-      "album": {
         "name": "Cooler Than Me",
         "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 124835,
       "name": "Undertheker",
       "url": "https://open.spotify.com/track/7sedwDZpxuRgJipH9gMQCa"
+    },
+    {
+      "added_at": "2025-08-28 22:00:09",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "added_at": "2025-08-28 22:00:09",

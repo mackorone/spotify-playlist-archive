@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 56 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
 | 57 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 58 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
-| 59 | [Małgośka](https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Małgośka](https://open.spotify.com/album/65Y5MXSN1X3WekMpUGkGlL) | 3:22 |
-| 60 | [Aureola](https://open.spotify.com/track/47mxKvFjsiXLCnwJjllWmM) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Aureola](https://open.spotify.com/album/5oura8SV00vIzLz3fH9Hlh) | 3:10 |
+| 59 | [Aureola](https://open.spotify.com/track/47mxKvFjsiXLCnwJjllWmM) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Aureola](https://open.spotify.com/album/5oura8SV00vIzLz3fH9Hlh) | 3:10 |
+| 60 | [Małgośka](https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Małgośka](https://open.spotify.com/album/65Y5MXSN1X3WekMpUGkGlL) | 3:22 |
 
 Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

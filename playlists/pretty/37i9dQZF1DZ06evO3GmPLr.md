@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,419 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,434 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 33 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 34 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 |
 | 35 | [Power](https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 0:55 |
-| 36 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
+| 36 | [you should call mum](https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:15 |
 | 37 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 |
-| 38 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
-| 39 | [SOS](https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:02 |
-| 40 | [you should call mum](https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:15 |
+| 38 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
+| 39 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
+| 40 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
 | 41 | [New Breed](https://open.spotify.com/track/4ReAZJugbi5xpVBI56oFxX) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 3:30 |
-| 42 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
+| 42 | [SOS](https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:02 |
 | 43 | [Torch](https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:11 |
 
-Snapshot ID: `aL4cgAAAAAC28/hnTfcYJsggxpqwFQWd`
+Snapshot ID: `aL9uAAAAAACvBMRKPy4cOG9EZf502bfd`

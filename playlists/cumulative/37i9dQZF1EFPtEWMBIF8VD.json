@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Are You Even Real",
+        "url": "https://open.spotify.com/album/42WlqSCZxm7wtjh1xjSSus"
+      },
+      "artists": [
+        {
+          "name": "James Major",
+          "url": "https://open.spotify.com/artist/3UcqDmghLI8TR0MxHPtUDM"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Are You Even Real",
+      "url": "https://open.spotify.com/track/4xH1Nq3P7agzhXV2szHMAz"
+    },
+    {
+      "album": {
         "name": "Hottest Hits 2025, Vol. 4 (Vocal)",
         "url": "https://open.spotify.com/album/0zJmBl86i6fGPo0zZtgubd"
       },

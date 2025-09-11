@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,332 likes - 49 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065,410 likes - 49 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 48 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 49 | [Natty Dread](https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:35 |
 
-Snapshot ID: `aL4cgAAAAAAazsFmyog2UiyHNpLFTZw+`
+Snapshot ID: `aL9uAAAAAABTOECH8haMMjqBGYcKy0TZ`

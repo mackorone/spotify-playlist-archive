@@ -1,13 +1,29 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 37277,
+  "num_followers": 37284,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAC6SJ9XeMoNuCVjAZ8Y3A44",
+  "snapshot_id": "aL9uAAAAAADHSdaAHB/SwlOOqUQsRO7S",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Visions",
+        "url": "https://open.spotify.com/album/0hGwipVGYzT8HvuzJq6Mo3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 210474,
+      "name": "Holy Visions",
+      "url": "https://open.spotify.com/track/4OyDuSzuVb5azaw8WCvcbM"
+    },
     {
       "added_at": null,
       "album": {
@@ -427,6 +443,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Wester",
+      "url": "https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -452,41 +532,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 182133,
-      "name": "Wester",
-      "url": "https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+      "duration_ms": 155333,
+      "name": "The Nephilim",
+      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
     },
     {
       "added_at": null,
@@ -507,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
       "artists": [
         {
@@ -516,9 +564,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 155333,
-      "name": "The Nephilim",
-      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
+      "duration_ms": 241720,
+      "name": "Malleus Maleficarum",
+      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
     },
     {
       "added_at": null,
@@ -539,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Malleus Maleficarum",
-      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -567,22 +599,6 @@
       "duration_ms": 241560,
       "name": "A Deep Slow Panic",
       "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Aurelia",
-      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
     },
     {
       "added_at": null,
@@ -619,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing The Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Rabbits Are Roadkill On Rt. 37",
+      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -651,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Rabbits Are Roadkill On Rt. 37",
-      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 168574,
-      "name": "Far Too Near",
-      "url": "https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz"
+      "duration_ms": 128106,
+      "name": "The Checkered Demon",
+      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
     },
     {
       "added_at": null,
@@ -747,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 168574,
+      "name": "Far Too Near",
+      "url": "https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 128106,
-      "name": "The Checkered Demon",
-      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crash Love (Deluxe)",
         "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 176640,
       "name": "Too Shy To Scream",
       "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140199,
-      "name": "On Your Back",
-      "url": "https://open.spotify.com/track/5b9yz8F5xxHMEmBHflPn11"
     }
   ],
   "unique_name": "This Is AFI",

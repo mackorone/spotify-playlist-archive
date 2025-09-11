@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,478 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,631 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 37 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 38 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
 | 39 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
-| 40 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
-| 41 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
+| 40 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
+| 41 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
 | 42 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 |
 | 43 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 44 | [INERTIA](https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Rei](https://open.spotify.com/artist/4CVs8ZjthgN0YuzXz7yXZ6) | [INERTIA](https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb) | 3:19 |
 | 45 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 46 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 |
-| 47 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
-| 48 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
+| 47 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
+| 48 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
 | 49 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
 | 50 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
 | 51 | [ハルノヒ](https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [おいしいパスタがあると聞いて](https://open.spotify.com/album/4UcEHspatQwGvtfR6AVwZl) | 5:26 |
@@ -90,11 +90,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 80 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 |
 | 81 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
 | 82 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
-| 83 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
-| 84 | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 |
+| 83 | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 |
+| 84 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 85 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
-| 86 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
-| 87 | [Falling Up](https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up](https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B) | 3:10 |
+| 86 | [Falling Up](https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up](https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B) | 3:10 |
+| 87 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 88 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
 | 89 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 90 | [ひとりごと](https://open.spotify.com/track/43QChW7cZQdAmWbmamy2mZ) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [ひとりごと](https://open.spotify.com/album/1OGAMDzKGcyx5K5LZmHUeI) | 4:37 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 93 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
 | 94 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
 | 95 | [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 |
-| 96 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 |
-| 97 | [KONTINUUM](https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [KONTINUUM](https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah) | 3:10 |
-| 98 | [図鑑](https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [図鑑](https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY) | 4:01 |
-| 99 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 |
+| 96 | [KONTINUUM](https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [KONTINUUM](https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah) | 3:10 |
+| 97 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 |
+| 98 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 |
+| 99 | [図鑑](https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [図鑑](https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY) | 4:01 |
 | 100 | [Only One Story](https://open.spotify.com/track/1mcNZCvco4Vh7gmaxLy1Vr) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story](https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp) | 3:39 |
 
 Snapshot ID: `AAAAAN5RBosLQYX477VCxB40D3dqGZ0B`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2fOHhJX6Bvb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2fOHhJX6Bvb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2fOHhJX6Bvb)
 
-### [Sleep Covers](https://open.spotify.com/playlist/37i9dQZF1DX2fOHhJX6Bvb)
+### [Sleepy Covers](https://open.spotify.com/playlist/37i9dQZF1DX2fOHhJX6Bvb)
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 

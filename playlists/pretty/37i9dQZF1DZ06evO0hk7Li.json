@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39726,
+  "num_followers": 39735,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADnHxQEXi5fceuiz+HZ+iML",
+  "snapshot_id": "aL9uAAAAAABfwc+QRfTQDpPXuv5kvXvS",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Machine (Deluxe Version)",
         "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 206427,
       "name": "Alive",
       "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 290115,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 297026,
-      "name": "Slow Up",
-      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 170803,
       "name": "Devil That I Know",
       "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 297026,
+      "name": "Slow Up",
+      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
     },
     {
       "added_at": null,
@@ -378,11 +378,35 @@
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 226813,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
+      "duration_ms": 171480,
+      "name": "Coolin",
+      "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 136632,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE"
     },
     {
       "added_at": null,
@@ -403,22 +427,6 @@
       "duration_ms": 219626,
       "name": "Diddy Bop (x Louis The Child)",
       "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 136632,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE"
     },
     {
       "added_at": null,
@@ -446,35 +454,11 @@
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 171480,
-      "name": "Coolin",
-      "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "You Like It I Love It",
-      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
+      "duration_ms": 226813,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 197701,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lundi M\u00e9chant",
+        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Only Way Is Up",
+      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yonder",
         "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
       },
@@ -607,6 +627,22 @@
       "duration_ms": 181122,
       "name": "Lover (\u014dlow\u00f3 \u014dr\u00ed mi)",
       "url": "https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 169166,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
     },
     {
       "added_at": null,
@@ -631,42 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lundi M\u00e9chant",
-        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Only Way Is Up",
-      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 169166,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 217440,
       "name": "Monster 2.0",
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
     },
     {
       "added_at": null,
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 130658,
-      "name": "All Aboard",
-      "url": "https://open.spotify.com/track/5Bn4uE7SRLjO2qmCM63OwC"
+      "duration_ms": 204778,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
     },
     {
       "added_at": null,
@@ -900,9 +884,25 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 199442,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ"
+      "duration_ms": 130658,
+      "name": "All Aboard",
+      "url": "https://open.spotify.com/track/5Bn4uE7SRLjO2qmCM63OwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
     }
   ],
   "unique_name": "This Is Jacob Banks",

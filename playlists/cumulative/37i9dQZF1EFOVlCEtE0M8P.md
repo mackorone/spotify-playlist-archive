@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-305 songs - 17 hr 43 min
+306 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,5 +313,6 @@
 | [World of Colour](https://open.spotify.com/track/3jxeucjVrcSOPsS9uqTJ70) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7), [Kirstie Skivington](https://open.spotify.com/artist/4Hs5DxFq2PIHZwenZINJBX) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 4:11 | 2024-03-07 |  |
 | [Would You Still Love Me?](https://open.spotify.com/track/1rO90Ogf0uN8o9HiCsZmhf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 5:05 | 2025-08-05 |  |
 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 | 2024-03-07 |  |
+| [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 | 2025-09-10 |  |
 
 \*This playlist was first scraped on 2024-03-08. Prior content cannot be recovered.

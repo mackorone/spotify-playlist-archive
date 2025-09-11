@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: K\-Pop Demon Hunters\)
 
-720 songs - 1 day 13 hr 23 min
+721 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-06 | 2023-10-11 |
 | [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 | 2022-05-03 | 2022-07-14 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-12-13 | 2022-06-28 |
+| [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 | 2025-09-10 |  |
 | [BYOB \(bring your own best friend\)](https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Billlie 'BYOB \(bring your own best friend\)'](https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl) | 2:38 | 2023-10-10 | 2023-11-11 |
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-20 | 2023-11-11 |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-07-31 | 2024-02-16 |
@@ -395,7 +396,7 @@
 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 | 2023-06-02 | 2023-08-08 |
 | [Love or Die](https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [EVERSHINE](https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ) | 2:47 | 2024-03-07 | 2024-04-19 |
 | [Love Shhh!](https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Major](https://open.spotify.com/album/1EAzLUzatSBIs8tA047f5f) | 3:19 | 2022-06-08 | 2022-07-14 |
-| [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 | 2025-08-19 |  |
+| [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 | 2025-08-19 | 2025-09-11 |
 | [Love Theory](https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Love Theory \- SM STATION](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) | 3:19 | 2022-04-20 | 2022-08-27 |
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-24 | 2023-10-21 |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-15 | 2025-03-07 |

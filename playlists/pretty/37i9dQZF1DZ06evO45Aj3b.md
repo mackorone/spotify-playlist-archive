@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,457 likes - 43 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,475 likes - 43 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 13 | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU) | [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV) | 2:52 |
 | 14 | [Frisky](https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 1:55 |
 | 15 | [Superstar Sh\*t](https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:07 |
-| 16 | [Quite the Opposite](https://open.spotify.com/track/52001S5hssoZCucIE15ALw) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:20 |
+| 16 | [Smile](https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:27 |
 | 17 | [Westcoast Collective](https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:47 |
 | 18 | [Mona Lisa](https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:06 |
 | 19 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 |
-| 20 | [Smile](https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:27 |
+| 20 | [Quite the Opposite](https://open.spotify.com/track/52001S5hssoZCucIE15ALw) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:20 |
 | 21 | [She Wants My Money](https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:13 |
 | 22 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 |
 | 23 | [Politics & Violence](https://open.spotify.com/track/4keHa1UN3c9OWHVv3BE5ra) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:17 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 26 | [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 |
 | 27 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 |
 | 28 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 |
-| 29 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 |
-| 30 | [King of Everything](https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 3:14 |
+| 29 | [King of Everything](https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 3:14 |
+| 30 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
 | 31 | [Wurli](https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:30 |
-| 32 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
+| 32 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 |
 | 33 | [coast2coast](https://open.spotify.com/track/4AmwnuAtTh4aK0GqPiwzJA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:05 |
 | 34 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 2:23 |
 | 35 | [Double Negative \(Skeleton Milkshake\)](https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:06 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 42 | [1.23.23](https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:01 |
 | 43 | [THICKRICK](https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:44 |
 
-Snapshot ID: `aL4cgAAAAADWx5dM+hhBKUQW7gG6r3+E`
+Snapshot ID: `aL9uAAAAAACh95HrLzbDKr7A6PeM2PPG`

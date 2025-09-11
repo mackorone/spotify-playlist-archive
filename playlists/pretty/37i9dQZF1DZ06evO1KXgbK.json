@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254011,
+  "num_followers": 254030,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADvOiywMDjUnQLcOJe5k13l",
+  "snapshot_id": "aL9uAAAAAAC2iTxShcqWoyVtI8G0+UaT",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Make Old Friends",
-        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
-      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -399,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Can't Make Old Friends",
+        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
+      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever More (Love Songs, Hits & Duets)",
         "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
       },
@@ -415,6 +415,26 @@
       "duration_ms": 245000,
       "name": "The Day I Fall In Love - Featuring Dolly Parton",
       "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterfly (feat. Dolly Parton) / Give It Away",
+        "url": "https://open.spotify.com/album/0w3e2qg8hT0CXRxI8aFT4V"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/3XoCQ7X59RxqXg3F93DV6T"
     },
     {
       "added_at": null,
@@ -619,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (feat. Dolly Parton) / Give It Away",
-        "url": "https://open.spotify.com/album/0w3e2qg8hT0CXRxI8aFT4V"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244029,
-      "name": "Butterfly (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/3XoCQ7X59RxqXg3F93DV6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the Good Old Days (When Times Were Bad)",
         "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 192800,
       "name": "Harper Valley PTA",
       "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Blue Ridge Mountain Boy",
-        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "In the Ghetto",
-      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 203427,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Blue Ridge Mountain Boy",
+        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home Sweet Home (feat. Dolly Parton)",
         "url": "https://open.spotify.com/album/5D2sUOxr3YervvarowmK5I"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 231619,
       "name": "Home Sweet Home - feat. Dolly Parton",
       "url": "https://open.spotify.com/track/7GR0aUEo30gZ76VoE9jfeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,

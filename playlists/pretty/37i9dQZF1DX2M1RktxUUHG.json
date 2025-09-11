@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 2020s. Cover: Olivia Rodrigo",
-  "num_followers": 278193,
+  "num_followers": 278834,
   "original_name": "All Out 2020s",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -523,26 +523,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "hey daisy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "hey daisy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
-        "name": "death bed (coffee for your head)",
-        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "death bed (coffee for your head)",
-      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
     },
     {
       "added_at": "2025-08-05 15:33:36",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2025-08-05 15:33:36",
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "added_at": "2025-08-05 15:33:36",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2025-08-05 15:33:36",
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
     },
     {
       "added_at": "2025-08-05 15:33:36",

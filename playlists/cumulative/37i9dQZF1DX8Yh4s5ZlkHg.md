@@ -4,7 +4,7 @@
 
 > Intimate, sultry, satisfying\. =
 
-98 songs - 6 hr 4 min
+99 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 | 2024-05-23 |  |
 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 | 2024-05-23 |  |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2024-05-23 |  |
+| [Climbing Up the Walls](https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:45 | 2025-08-29 |  |
 | [Coasting](https://open.spotify.com/track/1xjOyEsItiTaBgmaR4zj6I) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 2:50 | 2024-08-15 | 2024-09-19 |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2024-08-13 | 2025-03-21 |
 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 | 2025-08-29 | 2025-09-10 |
@@ -94,7 +95,7 @@
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2024-05-23 |  |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-05-23 | 2024-10-15 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2024-05-23 |  |
-| [To Love](https://open.spotify.com/track/4pteEcX2rHSJXK8XSOtWP8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 3:56 | 2025-03-27 |  |
+| [To Love](https://open.spotify.com/track/4pteEcX2rHSJXK8XSOtWP8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 3:56 | 2025-03-27 | 2025-09-11 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2024-05-23 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2024-05-23 |  |
 | [Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Desire](https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn) | 4:56 | 2025-03-27 | 2025-04-10 |

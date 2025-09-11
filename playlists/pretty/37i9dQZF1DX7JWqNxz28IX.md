@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,331 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,333 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 63 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 |
 | 64 | [nato per morire](https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [nato per morire](https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3) | 2:04 |
 | 65 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
-| 66 | [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9), [143 Kore](https://open.spotify.com/artist/42gIvhdClOPZVVW5iYrX8c) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 |
-| 67 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
+| 66 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
+| 67 | [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9), [143 Kore](https://open.spotify.com/artist/42gIvhdClOPZVVW5iYrX8c) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 |
 | 68 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 |
 | 69 | [Piano e Forte](https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Piano e Forte](https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2) | 2:38 |
 | 70 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 89 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 90 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
 | 91 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
-| 92 | [:RRaGNaTELa](https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:49 |
-| 93 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
+| 92 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
+| 93 | [:RRaGNaTELa](https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:49 |
 | 94 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
 | 95 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
 | 96 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
 | 97 | [Ci siamo fatti male](https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ci siamo fatti male](https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58) | 2:50 |
 | 98 | [Roxy](https://open.spotify.com/track/35cqJaPUn4LhonAtI3VyvX) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Roxy](https://open.spotify.com/album/5pVUuOG6dceWnegWnzHSEu) | 3:05 |
 | 99 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
-| 100 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
+| 100 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 |
 
 Snapshot ID: `AAAAAKqqSNWSCwTQTH2WUJ+L7JM746/5`

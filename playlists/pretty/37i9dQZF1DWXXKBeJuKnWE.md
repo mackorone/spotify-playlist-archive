@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,500 likes - 369 songs - 21 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,443 likes - 369 songs - 21 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

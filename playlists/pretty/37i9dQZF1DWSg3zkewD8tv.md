@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,624 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,673 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 28 | [Better Be Home Soon](https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Temple Of Low Men](https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m) | 3:07 |
 | 29 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 |
 | 30 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
-| 31 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
-| 32 | [Great Southern Land](https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Primitive Man \(Bonus Track Edition\)](https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr) | 5:17 |
+| 31 | [Great Southern Land](https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Primitive Man \(Bonus Track Edition\)](https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr) | 5:17 |
+| 32 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
 | 33 | [Fall At Your Feet](https://open.spotify.com/track/1Yc2k9b9PNZSB6P5S53SPC) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:18 |
 | 34 | [Run to Paradise](https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM) | [Big Bad Noise](https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF) | 4:11 |
 | 35 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |

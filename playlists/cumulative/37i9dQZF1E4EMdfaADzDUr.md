@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With winterburn, After Cooking, Paul Sabin and more
+> With winterburn, After Cooking, Leblanc and more
 
 124 songs - 9 hr 13 min
 

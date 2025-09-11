@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- Markio Tanaldo
+> The best new music by independent artists and labels in India\. Cover \- Katya Krishnan
 
-1,751 songs - 4 day 4 hr 50 min
+1,752 songs - 4 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,6 +1001,7 @@
 | [Me & Her](https://open.spotify.com/track/5pB4dijTfOLxXZ6BSQF4Mt) | [Dipayon](https://open.spotify.com/artist/5z8grV7iQOVrl6df7ZRPep), [Rooh](https://open.spotify.com/artist/6CoSN7t1ndmQBydGC4TkZT) | [Me & Her](https://open.spotify.com/album/1I9TzbyJO7EvxwJpPsDMIK) | 4:03 | 2025-08-06 |  |
 | [Me Aur Tum Ek Dhun](https://open.spotify.com/track/6WnNcu6AQBKGKYSRMvByMZ) | [Vipin Singh](https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp) | [Me Aur Tum Ek Dhun](https://open.spotify.com/album/0Micnnzypv64582jJpHbOQ) | 2:53 | 2022-02-02 | 2022-05-05 |
 | [Me Tera Deewana Hua](https://open.spotify.com/track/5Pi9W9PMHmTwPCd5ecnOl1) | [Vipin Singh](https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp) | [Me Tera Deewana Hua](https://open.spotify.com/album/1TmqpCkSNJvPZ2FMx8yB8U) | 4:02 | 2024-04-10 | 2024-05-16 |
+| [Meantime](https://open.spotify.com/track/6lnnYp98pP2F7afpb9GeeZ) | [Katya Krishnan](https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD) | [Meantime](https://open.spotify.com/album/1ml69QU1f8y91a0BxcMUBk) | 2:32 | 2025-09-10 |  |
 | [Meena Lisa](https://open.spotify.com/track/7pfFLfBbN268I6L2Qmkl1t) | [Begum](https://open.spotify.com/artist/6w9HvCLYiBHxp7YcN7zCvF) | [Meena Lisa](https://open.spotify.com/album/5ynx3vD5QZZLvGZvLdCIZ0) | 2:27 | 2022-02-23 | 2022-02-26 |
 | [meet me when](https://open.spotify.com/track/5APX3OZJg6tD1TDSty0NYs) | [Pranjli](https://open.spotify.com/artist/7xZeXxXycMUJ7nLNGTygWf) | [meet me when](https://open.spotify.com/album/3XoeZUDGaqPsRJkZhV7hjE) | 3:27 | 2022-02-16 | 2022-03-02 |
 | [Meheki](https://open.spotify.com/track/22SAfeL8FJysl2otqjgMR2) | [Priyanka Shinde](https://open.spotify.com/artist/11FQjZppJKBa8Y8K34iszI) | [Meheki](https://open.spotify.com/album/33HxPVJUeWYUmUPphJbIOq) | 2:41 | 2022-03-16 | 2023-01-12 |
@@ -1593,7 +1594,7 @@
 | [Tu Zara](https://open.spotify.com/track/3wO3kV6mVUbiSNclB4oueI) | [Himanshu Kohli](https://open.spotify.com/artist/1gxYxu0QAy3XqiGqDQwGNG), [Taarinie](https://open.spotify.com/artist/2KSgQM9uatwLMNkslDB4aa), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Tu Zara](https://open.spotify.com/album/3XMR8Fcg1jmvM5ukV1bjj1) | 4:28 | 2025-03-05 | 2025-05-08 |
 | [Tuhi Meri Bhalobasa](https://open.spotify.com/track/5ZebnfCMXP7mQsY2khgTwK) | [Sayak Ghosal](https://open.spotify.com/artist/5eOcyjra7QZ3EjVq0fQbK2), [Meghna Biswas](https://open.spotify.com/artist/7lNFK2ggVoq8jpMwHBES2B), [Jhonti Chakraborty](https://open.spotify.com/artist/07aQgurm052E1ftFaNOzRe) | [Tuhi Meri Bhalobasa](https://open.spotify.com/album/7mza7vU0awmeeLUoA3IH8U) | 5:13 | 2022-10-19 | 2023-01-26 |
 | [Tujhe Dhoondta Hu](https://open.spotify.com/track/4YP3jBkuSFV7swUbmBJXHl) | [Vincent Boral](https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH) | [Tujhe Dhoondta Hu](https://open.spotify.com/album/3YaHnIHaF3uqdgS8kqM68H) | 1:10 | 2024-02-21 | 2024-04-19 |
-| [Tujhse Juda](https://open.spotify.com/track/5HBPni76HJXokcrJ3dlAVJ) | [Mishthi Srivastava](https://open.spotify.com/artist/564Wiwr7NH1TV7Yyuc8C7C), [Tarang Nagi](https://open.spotify.com/artist/3m3fWzKspiutzn9xToOqe6) | [Tujhse Juda](https://open.spotify.com/album/0ArNgIDPO0geAJm6ZXbnDu) | 3:44 | 2025-04-23 |  |
+| [Tujhse Juda](https://open.spotify.com/track/5HBPni76HJXokcrJ3dlAVJ) | [Mishthi Srivastava](https://open.spotify.com/artist/564Wiwr7NH1TV7Yyuc8C7C), [Tarang Nagi](https://open.spotify.com/artist/3m3fWzKspiutzn9xToOqe6) | [Tujhse Juda](https://open.spotify.com/album/0ArNgIDPO0geAJm6ZXbnDu) | 3:44 | 2025-04-23 | 2025-09-11 |
 | [Tujhse Kyun](https://open.spotify.com/track/1Zr3VZ3LE1vpiVn1qeb1vv) | [Hrishi Upadhyay](https://open.spotify.com/artist/585BzSK8bK1sCDSyb0iumj) | [Tujhse Kyun](https://open.spotify.com/album/1zGP2nED5lg4VfgWpdbiCb) | 3:56 | 2022-10-06 | 2023-03-29 |
 | [Tum](https://open.spotify.com/track/27Z3Ez48so7wcbrcX45Hw2) | [Akash Chopra](https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Tum](https://open.spotify.com/album/0Mr8UTBefgjZlfPWlrtmOR) | 4:02 | 2024-02-14 | 2024-05-02 |
 | [Tum Aur Hum](https://open.spotify.com/track/4h6ppY2cuFjUxdHEEWscZ4) | [Sujeet Anahata Thakur](https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu), [Dhaani](https://open.spotify.com/artist/3IvTiRvWEhN3Mw5HVvifpS) | [Tum Aur Hum](https://open.spotify.com/album/0nAPwLz75vfXZKvCyc6ySl) | 3:09 | 2024-08-14 | 2024-09-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,534 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,074 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 32 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 |
 | 33 | [Amor Sin Palabras](https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:13 |
 | 34 | [Dame Un Beso Y Dime Adiós](https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Serie 32: Yndio](https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE) | 3:27 |
-| 35 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
-| 36 | [Separados](https://open.spotify.com/track/0X36EM2m5Ehd20azrkhE4O) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:12 |
-| 37 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
+| 35 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
+| 36 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
+| 37 | [Separados](https://open.spotify.com/track/0X36EM2m5Ehd20azrkhE4O) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:12 |
 | 38 | [Doy La Vida Por Un Beso](https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Mas Alla Del Tiempo Y La Distancia](https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt) | 3:45 |
 | 39 | [Nubes De Algodón](https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Entre Nubes](https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc) | 3:20 |
 | 40 | [Amigo Bronco \- Remasterizado](https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:47 |
 | 41 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
-| 42 | [Y Tú Con Él](https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:37 |
-| 43 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
+| 42 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
+| 43 | [Y Tú Con Él](https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:37 |
 | 44 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:44 |
 | 45 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 |
 | 46 | [Amor Se Escribe Con Llanto](https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [10 De Coleccion](https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O) | 3:10 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 64 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
 | 65 | [Actos De Un Tonto](https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 3:47 |
 | 66 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
-| 67 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
-| 68 | [Cuatro Palabras](https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Corazón Romántico..\. Los Exitos](https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3) | 3:42 |
+| 67 | [Cuatro Palabras](https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Corazón Romántico..\. Los Exitos](https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3) | 3:42 |
+| 68 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
 | 69 | [Te Quiero A Tí](https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:14 |
 | 70 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
 | 71 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |

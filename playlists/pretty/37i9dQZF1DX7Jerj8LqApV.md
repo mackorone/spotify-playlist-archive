@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,829,845 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,830,464 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 14 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
 | 15 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 16 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
-| 17 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 |
-| 18 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
+| 17 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
+| 18 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 |
 | 19 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 |
 | 20 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
 | 21 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
-| 22 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
-| 23 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 22 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 23 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
 | 24 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 |
 | 25 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 |
 | 26 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
-| 27 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 |
-| 28 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 |
+| 27 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 |
+| 28 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 |
 | 29 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 | 30 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 |
 | 31 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 |

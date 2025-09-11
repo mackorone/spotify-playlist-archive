@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,034 likes - 65 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,010 likes - 65 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 26 | [Who Was I To Want You?](https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Who Was I To Want You?](https://open.spotify.com/album/4qhqDZJR96FgMGQMZ5mNls) | 3:17 |
 | 27 | [1\-800\-F\*\*K\-YOU](https://open.spotify.com/track/0XUZUSGfg5BdDgPwIWO1GX) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [1\-800\-F\*\*K\-YOU](https://open.spotify.com/album/5EZ98Kq5X22Oese1iPoBRx) | 1:55 |
 | 28 | [Uh Huh!](https://open.spotify.com/track/5pyAtJ1tgxuiFtasHa7vPw) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [Uh Huh!](https://open.spotify.com/album/14u55VH2G9mVxlOH6FvkEH) | 3:00 |
-| 29 | [R U Still Awake?](https://open.spotify.com/track/2zsRMJbXNBYiIDTSgozKHM) | [Luca Malina](https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ) | [R u still awake?](https://open.spotify.com/album/1fmN7UueKkaBhaaRMRJXXN) | 2:26 |
+| 29 | [r u still awake?](https://open.spotify.com/track/2zsRMJbXNBYiIDTSgozKHM) | [Luca Malina](https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ) | [r u still awake?](https://open.spotify.com/album/1fmN7UueKkaBhaaRMRJXXN) | 2:26 |
 | 30 | [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 |
 | 31 | [CAR CRASH](https://open.spotify.com/track/5vUQ9itUCoPJolzp2L2SqY) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Dolly Zoom](https://open.spotify.com/album/252UgdVnTPfKwiAKq5KLlx) | 2:21 |
 | 32 | [one of the ones](https://open.spotify.com/track/1ZhIg3jw9SDUAwUCtGiPnk) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [one of the ones](https://open.spotify.com/album/23sMoAJPn8VC3DBBq6aZ9B) | 2:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,339 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,353 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 39 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 |
 | 40 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
 | 41 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
-| 42 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
-| 43 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
+| 42 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
+| 43 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 | 44 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 45 | [Floating On A Moment](https://open.spotify.com/track/0WH39BFVGotzXe3torfzvK) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 5:26 |
 | 46 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |

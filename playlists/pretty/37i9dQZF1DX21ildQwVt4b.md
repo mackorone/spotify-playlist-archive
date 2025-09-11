@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ildQwVt4b.md) - [plain]
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,022 likes - 7 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,020 likes - 7 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

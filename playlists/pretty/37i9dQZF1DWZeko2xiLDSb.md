@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,763 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,756 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 53 | [I Got You, Honey](https://open.spotify.com/track/6GgWI2t7G0bgUzVoZDlM6R) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:41 |
 | 54 | [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 |
 | 55 | [Salt In The Wound](https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:11 |
-| 56 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 |
-| 57 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 |
+| 56 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 |
+| 57 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 |
 | 58 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 |
 | 59 | [Beige](https://open.spotify.com/track/5bs5GopDitBx9xjoHHRDoo) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0rwRaoJxFBwrVzdGFMXYQ8) | 3:24 |
 | 60 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 85 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
 | 86 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 87 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
-| 88 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
-| 89 | [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 |
+| 88 | [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 |
+| 89 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
 | 90 | [Honey](https://open.spotify.com/track/6RVhSOj4c0drAWKyoHemQS) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Honey](https://open.spotify.com/album/692s2gPrIiqJfZbg3yMyDu) | 3:58 |
 | 91 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
 | 92 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |

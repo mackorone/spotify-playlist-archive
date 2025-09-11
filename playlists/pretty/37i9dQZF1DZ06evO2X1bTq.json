@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1253366,
+  "num_followers": 1253454,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAD+DNRYLs0Tte46yqepVF+S",
+  "snapshot_id": "aL9uAAAAAAALmBYB/EFUX8k2N9GC/yQq",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "Stay (Faraway, So Close!)",
+      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 260466,
       "name": "One",
       "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "Stay (Faraway, So Close!)",
-      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
     },
     {
       "added_at": null,
@@ -635,54 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 416533,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Who's Gonna Ride Your Wild Horses",
-      "url": "https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -708,9 +660,25 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 225400,
-      "name": "You\u2019re The Best Thing About Me",
-      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Who's Gonna Ride Your Wild Horses",
+      "url": "https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt"
     },
     {
       "added_at": null,
@@ -724,9 +692,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
+      "duration_ms": 416533,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
     },
     {
       "added_at": null,
@@ -747,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "You\u2019re The Best Thing About Me",
+      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 444306,
       "name": "Moment Of Surrender",
       "url": "https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
     },
     {
       "added_at": null,

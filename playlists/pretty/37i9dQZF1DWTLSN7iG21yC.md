@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,546 likes - 123 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,574 likes - 123 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8502,
+  "num_followers": 8510,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAC7YssXuG8sCSPiUu14HZfq",
+  "snapshot_id": "aL9uAAAAAAApLYxrWlIeMMw6GzhVpdts",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onorato",
         "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 161111,
       "name": "Yan Yan Po",
       "url": "https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alubarika",
         "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 235440,
       "name": "Alubarika",
       "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 265404,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum - Machel Montano Remix",
       "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,

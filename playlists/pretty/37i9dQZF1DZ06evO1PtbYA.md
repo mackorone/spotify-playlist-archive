@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,210 likes - 37 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,329 likes - 37 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 36 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 37 | [Uptown Disco](https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:59 |
 
-Snapshot ID: `aL4cgAAAAABFFpqOcc0mASBbQmUi0wF3`
+Snapshot ID: `aL9uAAAAAAAJd+Pd54rodkNFQT/CLmn0`

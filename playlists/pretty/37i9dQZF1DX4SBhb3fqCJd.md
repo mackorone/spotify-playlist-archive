@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,150,632 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,150,483 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

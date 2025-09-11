@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: K\-Pop Demon Hunters\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,858,546 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,862,182 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 14 | [CLOSER](https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:38 |
 | 15 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 |
 | 16 | [INSIDE OUT](https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv) | 3:00 |
-| 17 | [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 |
-| 18 | [N the Front](https://open.spotify.com/track/7cVVkfA2Bk6fpWu2wbievO) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/3BUEab50RO1tf709W4EMcL) | 3:00 |
-| 19 | [PARADISE](https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:50 |
-| 20 | [In Your Fantasy](https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 |
+| 17 | [PARADISE](https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:50 |
+| 18 | [In Your Fantasy](https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 |
+| 19 | [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 |
+| 20 | [N the Front](https://open.spotify.com/track/7cVVkfA2Bk6fpWu2wbievO) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/3BUEab50RO1tf709W4EMcL) | 3:00 |
 | 21 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 |
 | 22 | [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 |
 | 23 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 28 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
 | 29 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 30 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 |
-| 31 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
-| 32 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
-| 33 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 |
-| 34 | [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 |
+| 31 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
+| 32 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
+| 33 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
+| 34 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 |
 | 35 | [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 |
 | 36 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 37 | [La La Love Me](https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [DANCING ALONE](https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau) | 3:18 |
 | 50 | [BUBBLE GUM](https://open.spotify.com/track/3IUtLSW5FWB0K4RdkvOamG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [BUBBLE GUM](https://open.spotify.com/album/3pKcgDJmV3GZwgElcupVrg) | 2:37 |
 
-Snapshot ID: `AAAAAFgE208+ZOHUAer9UDT8WdBzVzXd`
+Snapshot ID: `AAAAABEsAwzjYo5MerFNC81db2c5HVYI`

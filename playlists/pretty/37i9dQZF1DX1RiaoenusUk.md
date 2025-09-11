@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,560 likes - 94 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 94 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 53 | [Ready For Life](https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI) | [Sonido Acido](https://open.spotify.com/artist/6nquqVdlnGFPB43j5ugL48), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO), [Andres Nusser](https://open.spotify.com/artist/6uXBoIeHFP5FNkQQ9y7OfH) | [Ready For Life](https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse) | 3:47 |
 | 54 | [Aceituna](https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:10 |
 | 55 | [Mi Propio Paraíso](https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Nico Cota](https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 4:26 |
-| 56 | [Clover](https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye) | [Cami Brooks](https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x) | [Clover](https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31) | 3:46 |
-| 57 | [Aeronave](https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI) | [Aeronave](https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7) | [Aeronave](https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s) | 5:55 |
+| 56 | [Aeronave](https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI) | [Aeronave](https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7) | [Aeronave](https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s) | 5:55 |
+| 57 | [Clover](https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye) | [Cami Brooks](https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x) | [Clover](https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31) | 3:46 |
 | 58 | [Maybe I'm Leo](https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 6:18 |
 | 59 | [Alergica](https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:56 |
 | 60 | [The Thrill is Gone](https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q), [Deborah Dixon](https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 4:44 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 65 | [Debilidad](https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Dinastía](https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF) | [Espacios](https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6) | 2:58 |
 | 66 | [Afromama Jams](https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [Low97](https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7) | [Afromama Jams](https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC) | 3:03 |
 | 67 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 |
-| 68 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
-| 69 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
+| 68 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
+| 69 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
 | 70 | [en mí](https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff) | [Lola Sanchez](https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO) | [en mí](https://open.spotify.com/album/37vwRCD6CDp518j2giijxd) | 4:06 |
-| 71 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
-| 72 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
+| 71 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
+| 72 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
 | 73 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
 | 74 | [Volverte a Ver](https://open.spotify.com/track/5eFwMCx6eYjMxMKIv0wYXL) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [JeanPatrick](https://open.spotify.com/artist/2LeoKJiUP0Sz8k2bH8IDbu), [Solo Di Medina](https://open.spotify.com/artist/4Gn6n9S8UL4YkfMtJYbIS5) | [Volverte a Ver](https://open.spotify.com/album/0vryHuywlY0re96fmjap4c) | 2:53 |
 | 75 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |

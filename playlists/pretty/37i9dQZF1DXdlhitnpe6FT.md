@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,121 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,360 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 62 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
 | 63 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 64 | [Aria on Air](https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [16 Joyas Del New Age](https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto) | 3:48 |
-| 65 | [Gefangenenchor aus "Nabucco"](https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6) | [Edward Simoni](https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT) | [Die Zauberwelt der Panflöte](https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU) | 2:54 |
-| 66 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 |
-| 67 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 |
+| 65 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 |
+| 66 | [Gefangenenchor aus "Nabucco"](https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6) | [Edward Simoni](https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT) | [Die Zauberwelt der Panflöte](https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU) | 2:54 |
+| 67 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 |
 | 68 | [Promise Of A Fisherman \(Promessa De Pescador\)](https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 3:33 |
 | 69 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [Kristin Amarie](https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 |
 | 70 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
-| 71 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
-| 72 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 |
+| 71 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 |
+| 72 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
 | 73 | [Andalucia](https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:41 |
 | 74 | [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 |
 | 75 | [Il](https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:17 |

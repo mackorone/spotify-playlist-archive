@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,179 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,192 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

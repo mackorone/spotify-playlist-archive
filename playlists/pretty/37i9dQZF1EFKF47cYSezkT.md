@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 61 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 62 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 59 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
 | 60 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 61 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
+| 62 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 |
 
-Snapshot ID: `Ab7y3gAAAABzZ1GHCHYVKEdYr2NdvNSX`
+Snapshot ID: `Ab74dAAAAAAWlVr5NINQgJOa4ASrMJkx`

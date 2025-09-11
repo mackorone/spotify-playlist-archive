@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,986 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,007 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 22 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 |
 | 23 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 |
 | 24 | [Where Have You Been](https://open.spotify.com/track/4ct4lFBPFzEiXYsYGG8zv8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:43 |
-| 25 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 |
+| 25 | [Lil Boo Thang](https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:56 |
 | 26 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 |
-| 27 | [Lil Boo Thang](https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:56 |
+| 27 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 |
 | 28 | [10,000 Hours](https://open.spotify.com/track/3swVZl6ayrUkNaujFC9XeS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 2:48 |
 | 29 | [Old Town Road](https://open.spotify.com/track/07cQIm99dnNSKs6skathg0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 1:50 |
-| 30 | [WILDFLOWER](https://open.spotify.com/track/4lRTRntv8Ier9bwkDMEMya) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:40 |
-| 31 | [High Hopes](https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 39](https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7) | 3:13 |
+| 30 | [High Hopes](https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 39](https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7) | 3:13 |
+| 31 | [WILDFLOWER](https://open.spotify.com/track/4lRTRntv8Ier9bwkDMEMya) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:40 |
 | 32 | [Espresso](https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:36 |
 | 33 | [Havana](https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:41 |
 | 34 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 40 | [I Don't Care](https://open.spotify.com/track/2iJJ6xdKdaLkFB6qVNaFsS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:41 |
 | 41 | [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 |
 | 42 | [Mood](https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 1:59 |
-| 43 | [Vampire](https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:40 |
-| 44 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 |
+| 43 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 |
+| 44 | [Vampire](https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:40 |
 | 45 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 |
 | 46 | [HOT TO GO!](https://open.spotify.com/track/19Gh9vtYx8Jwe3kkynR8dA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [HOT TO GO!](https://open.spotify.com/album/5v5NhSYwKmuQbtB7caQhtR) | 3:05 |
-| 47 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
-| 48 | [I Gotta Feeling \- Redo Version](https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:39 |
+| 47 | [I Gotta Feeling \- Redo Version](https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:39 |
+| 48 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
 | 49 | [That's So True](https://open.spotify.com/track/23SVjMf8hnBkmHXTsM1fED) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:45 |
 | 50 | [Certified BOP](https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:30 |
 
-Snapshot ID: `aL4cgAAAAAAmP4yLUNm3pkCaVUzK8uqh`
+Snapshot ID: `aL9uAAAAAACZ9iiqn7pn+gWF3gI3nUoI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,703 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,704 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 53 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
 | 54 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
 | 55 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
-| 56 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
-| 57 | [Drive With Our Eyes Closed](https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 3:55 |
+| 56 | [Drive With Our Eyes Closed](https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 3:55 |
+| 57 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
 | 58 | [Starvation \- ANNA Remix](https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Starvation \(ANNA Remix\)](https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr) | 3:33 |
-| 59 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
-| 60 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 59 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 60 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
 | 61 | [Buffalo Stance](https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Buffalo Stance](https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ) | 5:07 |
 | 62 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 |
 | 63 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 72 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 | 73 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
 | 74 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
-| 75 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
-| 76 | [HURT PEOPLE](https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [HURT PEOPLE](https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY) | 2:43 |
+| 75 | [HURT PEOPLE](https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [HURT PEOPLE](https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY) | 2:43 |
+| 76 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
 | 77 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
 | 78 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
 | 79 | [Breaking Hearts](https://open.spotify.com/track/0bd28vKHk7HDgdOF0gYowj) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Breaking Hearts](https://open.spotify.com/album/051gZSH5RHDuhX8VTzP2pW) | 3:26 |

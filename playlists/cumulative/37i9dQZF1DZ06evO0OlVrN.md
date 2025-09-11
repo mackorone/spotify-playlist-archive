@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 17 min
+108 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 | 2022-06-01 |  |
 | [El Mudo](https://open.spotify.com/track/0nPCdv3NceFCfG9hYUYR2y) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Carta Jugada](https://open.spotify.com/album/6hIdbrZ6oE86qovJBhQs1L) | 2:25 | 2022-12-21 | 2022-12-30 |
 | [Estamos en Algo](https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Estamos en Algo](https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3) | 2:53 | 2025-07-21 | 2025-09-05 |
+| [Falsa Ilusion](https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT) | 3:16 | 2025-09-11 |  |
 | [Hay Ojitos](https://open.spotify.com/track/7thQxNZ1gvjrOMO3uXE8E3) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:25 | 2025-05-13 |  |
 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 | 2022-06-01 | 2025-05-13 |
 | [Idos De La Mente](https://open.spotify.com/track/7aJ5OaN90p7aJ7zNkdCZlr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:09 | 2022-06-08 | 2022-08-21 |

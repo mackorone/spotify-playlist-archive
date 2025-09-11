@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Göksel İpekçi x Safiye
 
-380 songs - 19 hr 8 min
+381 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Sana](https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Sana](https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px) | 2:42 | 2025-08-28 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-06-27 | 2025-07-18 |
 | [Sardım Seni](https://open.spotify.com/track/5xxjVGDIi14mTYroJO0EgX) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Sardım Seni](https://open.spotify.com/album/4rux82y4QpkrjexTlJ1ADN) | 3:06 | 2024-10-17 |  |
-| [Saygı Duruşu](https://open.spotify.com/track/76BUgBlvg4rNl4MBcUnhAw) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Saygı Duruşu](https://open.spotify.com/album/16vEQO5wX6EuWeq6OpQi88) | 2:49 | 2024-06-27 |  |
+| [Saygı Duruşu](https://open.spotify.com/track/76BUgBlvg4rNl4MBcUnhAw) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Saygı Duruşu](https://open.spotify.com/album/16vEQO5wX6EuWeq6OpQi88) | 2:49 | 2024-06-27 | 2025-09-11 |
 | [Saygımdan](https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Saygımdan](https://open.spotify.com/album/6DwNrHS0A2WjDU4qJwpBjh) | 4:11 | 2025-03-13 | 2025-08-27 |
 | [Saymadım Bu Kaçıncı Şişe Dibi](https://open.spotify.com/track/3pCR88j8n7Uicla4t4kf3j) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Saymadım Bu Kaçıncı Şişe Dibi](https://open.spotify.com/album/1lnrlK1FQcSO1XylzVnvxQ) | 2:34 | 2025-03-20 | 2025-04-04 |
 | [Sağ Salim](https://open.spotify.com/track/4luMMabCTC0UJgdH7sQCRK) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 4:39 | 2024-11-07 | 2025-02-18 |
@@ -368,6 +368,7 @@
 | [Zeze](https://open.spotify.com/track/0uKyrnRuflayIOXiZTMdsv) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Zeze](https://open.spotify.com/album/567LnqyieXBo3MVClrITZN) | 2:45 | 2024-12-19 | 2025-07-29 |
 | [Zindan](https://open.spotify.com/track/1o4SP8i1ITqEe4oR4IWysq) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Zindan](https://open.spotify.com/album/18UTEUfO4tjsmabjKEdyQv) | 2:12 | 2024-07-25 | 2024-09-07 |
 | [Zombi](https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Zombi](https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ) | 2:39 | 2024-07-04 | 2024-08-23 |
+| [Zor Gerçekten Zor](https://open.spotify.com/track/6msLQLxDenCEUQKKzom43l) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Zor Gerçekten Zor](https://open.spotify.com/album/3zMv7UlcQz5VEjZCxWCT43) | 2:04 | 2025-09-04 |  |
 | [Zümrüdüankam](https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Zümrüdüankam](https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN) | 3:23 | 2024-08-22 | 2024-12-10 |
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-13 | 2025-07-18 |
 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-06 | 2025-02-21 |

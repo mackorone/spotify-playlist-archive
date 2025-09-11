@@ -4,7 +4,7 @@
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 23 min
+58 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Juan Ramos \- En Vivo](https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:35 | 2024-09-28 |  |
 | [Juan Ramos \- En Vivo](https://open.spotify.com/track/72uxDvyNO2fUHTGSdjouyV) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \- En Vivo](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:35 | 2022-06-01 | 2024-09-28 |
 | [La Fuga del Dorian](https://open.spotify.com/track/0lBeJRlWlVeck7NdQZtRhS) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 5:00 | 2022-06-01 |  |
-| [La Fuga Del Dorian](https://open.spotify.com/track/0htxL6L9uqRp5ul1H5OW3V) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/5XHPGUTtv6JxH573EOLQHb) | 4:37 | 2024-09-29 |  |
+| [La Fuga Del Dorian](https://open.spotify.com/track/0htxL6L9uqRp5ul1H5OW3V) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/5XHPGUTtv6JxH573EOLQHb) | 4:37 | 2024-09-29 | 2025-09-11 |
 | [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 | 2023-07-08 | 2024-09-29 |
+| [La Fuga Del Dorian](https://open.spotify.com/track/7eldqL5LFXfxHV0NZHc9g4) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga De Dorian](https://open.spotify.com/album/7HKbMRQREOR7seeJOujewG) | 4:37 | 2025-09-11 |  |
 | [La Muerte Del Cardenal](https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 4:12 | 2024-09-28 |  |
 | [La Muerte Del Cardenal](https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU) | 4:12 | 2022-07-10 | 2024-09-28 |
 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 | 2022-06-01 |  |

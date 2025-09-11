@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Laufey",
-  "num_followers": 38936,
+  "num_followers": 39187,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 126000,
       "name": "Pray Hard (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 238607,
       "name": "What We On (with Don Toliver)",
       "url": "https://open.spotify.com/track/5euOEb5B1ALxnB06Oto5d8"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 220007,
-      "name": "Baby!",
-      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Dancing2",
         "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 272803,
       "name": "Dancing2",
       "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 220007,
+      "name": "Baby!",
+      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "SPACE INVADER",
-        "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 274302,
-      "name": "SPACE INVADER",
-      "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "PIKI",
         "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 259867,
       "name": "PIKI",
       "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "SPACE INVADER",
+        "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 274302,
+      "name": "SPACE INVADER",
+      "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200351,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "CONCUBANIA",
         "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 256084,
       "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
       "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "But, I loved",
-        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "But, I loved",
-      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 176668,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "But, I loved",
+        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "But, I loved",
+      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
     },
     {
       "added_at": "2025-08-29 18:25:24",

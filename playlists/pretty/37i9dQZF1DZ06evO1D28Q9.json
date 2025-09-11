@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 141,
+  "num_followers": 144,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADAVFUfr9Uer9FPNnYoyxNB",
+  "snapshot_id": "aL9uAAAAAADldM1iFRgAUAO1arnKs6oj",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 386440,
-      "name": "Da Lama / Afrontamento",
-      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 223146,
       "name": "Rio Nilo",
       "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 386440,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
     },
     {
       "added_at": null,
@@ -496,13 +496,13 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
         }
       ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+      "duration_ms": 366409,
+      "name": "Pelo Meus Amores",
+      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
       "duration_ms": 264274,
       "name": "OUTRA REALIDADE",
       "url": "https://open.spotify.com/track/2acjJMaGOLV4auvYNQzVxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixtape Eu e a Minha Habitual Falta de Modera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6t842Uq5dvHxYxPanUrUPD"
-      },
-      "artists": [
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 298412,
-      "name": "Quem \u00c9 Voc\u00ea?",
-      "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
     },
     {
       "added_at": null,
@@ -603,34 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 366409,
-      "name": "Pelo Meus Amores",
-      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Em Nome do Vento",
         "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
       },
@@ -655,6 +607,54 @@
       "duration_ms": 273365,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348314,
+      "name": "Raio De Sol",
+      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixtape Eu e a Minha Habitual Falta de Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6t842Uq5dvHxYxPanUrUPD"
+      },
+      "artists": [
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 298412,
+      "name": "Quem \u00c9 Voc\u00ea?",
+      "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluindo Atrav\u00e9s dos Tempos",
-        "url": "https://open.spotify.com/album/4UUN1sAsRcBJZrphd1c8jZ"
-      },
-      "artists": [
-        {
-          "name": "Cris SNJ",
-          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Bota pra Andar",
-      "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mensagem",
         "url": "https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 382450,
       "name": "N\u00f3s Somos Pesados",
       "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evoluindo Atrav\u00e9s dos Tempos",
+        "url": "https://open.spotify.com/album/4UUN1sAsRcBJZrphd1c8jZ"
+      },
+      "artists": [
+        {
+          "name": "Cris SNJ",
+          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Bota pra Andar",
+      "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
     },
     {
       "added_at": null,
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 170065,
-      "name": "Rimas & Melodias",
-      "url": "https://open.spotify.com/track/3DtKHlWMK0sQYaVLe8rkh9"
+      "duration_ms": 146464,
+      "name": "Sete Chaves",
+      "url": "https://open.spotify.com/track/4tyFClSOVNRlOf0wrQNaBG"
     }
   ],
   "unique_name": "This Is Stefanie",

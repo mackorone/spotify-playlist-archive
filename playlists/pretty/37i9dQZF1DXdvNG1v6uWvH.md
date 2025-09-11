@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist Of Lady Gaga, Of Monsters and Men, Sigur Rós og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,418 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,417 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

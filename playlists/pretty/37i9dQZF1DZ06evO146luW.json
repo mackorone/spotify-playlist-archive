@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49585,
+  "num_followers": 49599,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAC7kNfNtpDym4PcSJ69s2h7",
+  "snapshot_id": "aL9uAAAAAACvuDhDJd5JEqrIp4gPvY+v",
   "tracks": [
     {
       "added_at": null,
@@ -348,7 +348,7 @@
       "added_at": null,
       "album": {
         "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
       "artists": [
         {
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 194621,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
+      "duration_ms": 149659,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 244580,
+      "name": "Song I Can Drink Too",
+      "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
     },
     {
       "added_at": null,
@@ -395,24 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 244580,
-      "name": "Song I Can Drink Too",
-      "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 149659,
-      "name": "Depression & Obsession",
-      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
     },
     {
       "added_at": null,

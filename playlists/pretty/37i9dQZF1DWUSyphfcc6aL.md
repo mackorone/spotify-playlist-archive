@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,305,648 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,667 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 | 26 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
 | 27 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 28 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 |
-| 29 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 30 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
+| 29 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
+| 30 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 31 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 32 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
 | 33 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |

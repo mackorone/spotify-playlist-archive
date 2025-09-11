@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 16 min
+95 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Gun Fluf](https://open.spotify.com/track/4WPXpD0IxrsyYCsxej7iaU) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Gun Fluf](https://open.spotify.com/album/2TRMF7MNoh6fZn4HFa0X5Y) | 3:29 | 2023-11-10 | 2023-12-14 |
 | [Gun Fluf](https://open.spotify.com/track/7GxDGv0LeGzBKJsFPqlcDM) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Gun Fluf](https://open.spotify.com/album/507rjc0epEQN9UJbwHcIlH) | 3:29 | 2023-09-21 | 2023-11-11 |
 | [Gun Fluf](https://open.spotify.com/track/7JXXFL1CvoI2BOry9G7c06) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:29 | 2023-12-13 | 2024-12-03 |
-| [He Feels Bad](https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:03 | 2025-02-16 |  |
+| [He Feels Bad](https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:03 | 2025-02-16 | 2025-09-11 |
 | [Holiday](https://open.spotify.com/track/1K5zgKbnR0iGCLTJeev95k) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:22 | 2024-03-05 | 2024-04-03 |
 | [Holiday](https://open.spotify.com/track/2hBa4M3vAYpmw0rVsScVVz) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:22 | 2024-05-20 | 2024-06-03 |
 | [Holiday](https://open.spotify.com/track/40nd6IOSBJsHtKJOKWvQlS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Holiday](https://open.spotify.com/album/3vpPVavr1AP4hRv9ZCg1p1) | 3:22 | 2023-09-21 | 2023-12-14 |
@@ -101,6 +101,7 @@
 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 | 2022-11-17 |  |
 | [Welcome to Algiers](https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:21 | 2022-11-17 | 2023-05-17 |
 | [Wilma's Rainbow](https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:54 | 2022-11-17 |  |
+| [You Borrowed](https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:45 | 2025-09-11 |  |
 | [Your Head](https://open.spotify.com/track/7cF2IWNliAdpy26eYNclbe) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:20 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2022-11-18. Prior content cannot be recovered.

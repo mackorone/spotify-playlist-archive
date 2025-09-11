@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,609 likes - 120 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,638 likes - 120 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 57 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 58 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
 | 59 | [I Have Been to the Mountain](https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9) | 3:14 |
-| 60 | [The Gardener](https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:57 |
-| 61 | [Take Me Back](https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Undercurrent](https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc) | 2:34 |
+| 60 | [Take Me Back](https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Undercurrent](https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc) | 2:34 |
+| 61 | [The Gardener](https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:57 |
 | 62 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
 | 63 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
 | 64 | [Agape](https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp) | 4:17 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 108 | [I Don't Want Love](https://open.spotify.com/track/371oFaGHOqCmqRwx0XxEpo) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 3:19 |
 | 109 | [The Bad In Each Other](https://open.spotify.com/track/5YlhFrPeFdcpfwND0sSKQR) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/3vxiBAlJUDqePZboDhd3I5) | 4:44 |
 | 110 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 |
-| 111 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
-| 112 | [Prosthetic Love](https://open.spotify.com/track/4w7IW96rTnEQ6ZfnDfOozT) | [Typhoon](https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl) | [White Lighter](https://open.spotify.com/album/6wWfPxs1YJO21V4CqgTkCI) | 4:03 |
+| 111 | [Prosthetic Love](https://open.spotify.com/track/4w7IW96rTnEQ6ZfnDfOozT) | [Typhoon](https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl) | [White Lighter](https://open.spotify.com/album/6wWfPxs1YJO21V4CqgTkCI) | 4:03 |
+| 112 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 | 113 | [Juma Mountain](https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [The Following Mountain](https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe) | 3:38 |
 | 114 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 | 115 | [Museum of Flight](https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Maraqopa \(Deluxe Edition\)](https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4) | 2:50 |

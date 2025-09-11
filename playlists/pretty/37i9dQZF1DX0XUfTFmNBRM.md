@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,854,904 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,857,639 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [AANKH](https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [AANKH](https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE) | 3:08 |
 | 50 | [Farebi](https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Farebi](https://open.spotify.com/album/2lLMatT2qeOr8RgY7Vq8VI) | 3:54 |
 
-Snapshot ID: `AAAAAOxqU5fhaqcwmi1fbMyZQpo4QX1X`
+Snapshot ID: `AAAAAPdevZzqjH1nyLDp+F9gGeMYQkJA`

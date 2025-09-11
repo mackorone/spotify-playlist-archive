@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 11 hr 25 min
+206 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6jW0scPonEHW9zjPspVHrn) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:54 | 2023-06-25 |  |
 | [Tie Me Down](https://open.spotify.com/track/4TZEHfRCzTGpxyeim5R003) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Tie Me Down](https://open.spotify.com/album/2ZxN8DNgcdTMbKQVXOfPsf) | 3:39 | 2023-12-16 | 2024-02-01 |
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:38 | 2021-12-27 |  |
+| [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 5:34 | 2025-09-10 |  |
 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/2Aq78kKI9yuloJQkcbhQbU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:07 | 2025-01-14 | 2025-02-12 |
 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 | 2021-12-27 |  |
 | [Together Now](https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:56 | 2021-12-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 138998,
+  "num_followers": 139026,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAB5I/vKdFdWQLtCVJ6fLTY3",
+  "snapshot_id": "aL9uAAAAAAAdcflFT4TIirkioIBFh0ri",
   "tracks": [
     {
       "added_at": null,
@@ -527,38 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 270746,
-      "name": "New Colossal Hate",
-      "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -579,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -588,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 144933,
-      "name": "As The Palaces Burn",
-      "url": "https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra"
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
     },
     {
       "added_at": null,
@@ -604,15 +572,15 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 270508,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
+      "duration_ms": 270746,
+      "name": "New Colossal Hate",
+      "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -620,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 324666,
-      "name": "In Your Words",
-      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
+      "duration_ms": 144933,
+      "name": "As The Palaces Burn",
+      "url": "https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra"
     },
     {
       "added_at": null,
@@ -643,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -652,9 +620,25 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 223466,
-      "name": "For Your Malice",
-      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
+      "duration_ms": 324666,
+      "name": "In Your Words",
+      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 270508,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
       "duration_ms": 296453,
       "name": "Embers",
       "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Contractor",
-      "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
     },
     {
       "added_at": null,
@@ -716,9 +684,25 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Purified",
-      "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
+      "duration_ms": 223466,
+      "name": "For Your Malice",
+      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Contractor",
+      "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
     },
     {
       "added_at": null,
@@ -739,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 223661,
       "name": "To The Grave",
       "url": "https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Purified",
+      "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
     },
     {
       "added_at": null,

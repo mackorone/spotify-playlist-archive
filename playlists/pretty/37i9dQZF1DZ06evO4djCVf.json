@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 94149,
+  "num_followers": 94205,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADPRi7wq7LO5IlggHrWX56R",
+  "snapshot_id": "aL9uAAAAAACdMZf3ZmdzTrSguIv3O26w",
   "tracks": [
     {
       "added_at": null,
@@ -612,38 +612,6 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Op Deze Dag - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liefde Voor Muziek 2022",
-        "url": "https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 173711,
-      "name": "Voor Het Leven Voor Elkaar - Uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liefde Voor Muziek 2024",
-        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
       "duration_ms": 212920,
       "name": "Onder De Sterren - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/71BNUHxvGAGVQiMho8Q5hh"
@@ -663,6 +631,38 @@
       "duration_ms": 164384,
       "name": "Dicht Bij Mij - Uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/00x0bTQ3qpObskwuhCnaBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Op Deze Dag - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liefde Voor Muziek 2022",
+        "url": "https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 173711,
+      "name": "Voor Het Leven Voor Elkaar - Uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3"
     },
     {
       "added_at": null,

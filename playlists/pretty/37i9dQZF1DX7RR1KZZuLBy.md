@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,021 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,074 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 43 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 |
 | 44 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 | 45 | [Imagine Me](https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 5:18 |
-| 46 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
-| 47 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
-| 48 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
-| 49 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
+| 46 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
+| 47 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
+| 48 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
+| 49 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
 | 50 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:40 |
 
 Snapshot ID: `AAAAALpGLhC5JPWDM9P6UHaiPzk5gKxy`

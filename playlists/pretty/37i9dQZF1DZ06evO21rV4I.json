@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 159153,
+  "num_followers": 159267,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABxakaaNaVtjpVTi84akhTq",
+  "snapshot_id": "aL9uAAAAAADhARknmFbMk0JJ0M7ZK+Ni",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend Or No Legend",
-        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 209970,
-      "name": "Ebelebe (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -643,46 +623,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Apr\u00e8s Minuit (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": null,
@@ -707,6 +647,66 @@
       "duration_ms": 185123,
       "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
       "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Apr\u00e8s Minuit (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 209970,
+      "name": "Ebelebe (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": null,
@@ -774,11 +774,19 @@
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
       "added_at": null,
@@ -847,6 +855,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -867,22 +907,6 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
     },
     {
       "added_at": null,
@@ -931,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Frames (Who's Gonna Know)",
+      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -955,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Frames (Who's Gonna Know)",
-      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -991,22 +1015,6 @@
       "duration_ms": 230240,
       "name": "Borrowed Love (feat. Swae Lee & WizKid)",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
     },
     {
       "added_at": null,

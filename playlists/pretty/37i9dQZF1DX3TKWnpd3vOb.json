@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: De Saloon",
-  "num_followers": 188594,
+  "num_followers": 188588,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
         "name": "Al otro lado del canal",
         "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 155849,
       "name": "Al otro lado del canal",
       "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2025-09-05 03:00:38",

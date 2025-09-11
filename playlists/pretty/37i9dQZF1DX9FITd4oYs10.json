@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 18245,
+  "num_followers": 18250,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
-      },
-      "artists": [
-        {
-          "name": "Pentagono",
-          "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
-        },
-        {
-          "name": "Uter\u00e7o",
-          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "\u00c9 o Moio",
-      "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "\"...Entre...\"",
         "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 234520,
       "name": "L\u00e1grimas do Palha\u00e7o",
       "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
+      },
+      "artists": [
+        {
+          "name": "Pentagono",
+          "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
+        },
+        {
+          "name": "Uter\u00e7o",
+          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "\u00c9 o Moio",
+      "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Emicidio",
-        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Rua Augusta",
-      "url": "https://open.spotify.com/track/4vHOJK3A4vxlMjVEBdL8Xs"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
         "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
@@ -1211,42 +1195,38 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "O C\u00e9u \u00c9 o Limite",
-        "url": "https://open.spotify.com/album/1hY230xXMYPnMDAWLASSV2"
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
       },
       "artists": [
         {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 341684,
-      "name": "O C\u00e9u \u00c9 o Limite",
-      "url": "https://open.spotify.com/track/1iDARoNb186UAnHvZ6w0gv"
+      "duration_ms": 153053,
+      "name": "Rua Augusta",
+      "url": "https://open.spotify.com/track/4vHOJK3A4vxlMjVEBdL8Xs"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Seguimos Na Sombras",
+        "url": "https://open.spotify.com/album/1UafGz7rG33wCVnB9TQwwq"
+      },
+      "artists": [
+        {
+          "name": "Nectar Gang",
+          "url": "https://open.spotify.com/artist/6IhtLAHfcTGQuUJX4cdhCn"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1jIiWhtLjeiJcU87SIHoaf"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

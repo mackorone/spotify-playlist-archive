@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,392 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,420 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 36 | [Como Ella Ya No Hay](https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Como Ella Ya No Hay](https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH) | 3:40 |
 | 37 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 38 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
-| 39 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 |
-| 40 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
+| 39 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
+| 40 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 |
 | 41 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 42 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 43 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 50 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 51 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
 | 52 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
-| 53 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
-| 54 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
+| 53 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
+| 54 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
 | 55 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
 | 56 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 57 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |

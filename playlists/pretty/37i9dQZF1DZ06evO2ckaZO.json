@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 74375,
+  "num_followers": 74394,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABWclQoVtXRbZeBn9e+alXF",
+  "snapshot_id": "aL9uAAAAAAC90BJV6AVGp5zIQbI4llEy",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gyatt",
+        "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 137733,
+      "name": "Gyatt",
+      "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gyatt",
-        "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 137733,
-      "name": "Gyatt",
-      "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girl (with Rema)",
         "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "added_at": null,

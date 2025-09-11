@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,835 likes - 41 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,927 likes - 41 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,19 +22,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 12 | [Hopeless Wanderer](https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 5:07 |
 | 13 | [Wilder Mind](https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:38 |
 | 14 | [White Blank Page](https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 4:14 |
-| 15 | [Malibu](https://open.spotify.com/track/12ultei6RG7H4r06wJii5h) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 4:02 |
+| 15 | [Anchor](https://open.spotify.com/track/1VJ5aTih2uI1DvQgMxplV8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 2:51 |
 | 16 | [Babel](https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 3:28 |
 | 17 | [Ditmas](https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:38 |
 | 18 | [The Wolf](https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV) | 3:41 |
-| 19 | [Surrender](https://open.spotify.com/track/3vcS9nbyzS0KAqZUwL8WKX) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:10 |
+| 19 | [Malibu](https://open.spotify.com/track/12ultei6RG7H4r06wJii5h) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 4:02 |
 | 20 | [Lover of the Light](https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 5:14 |
 | 21 | [October Skies](https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 3:43 |
 | 22 | [Snake Eyes](https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:08 |
-| 23 | [Where It Belongs](https://open.spotify.com/track/6S7tceZdDsUpvJmK2267PD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 4:07 |
+| 23 | [Surrender](https://open.spotify.com/track/3vcS9nbyzS0KAqZUwL8WKX) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:10 |
 | 24 | [Where Are You Now](https://open.spotify.com/track/27U4sg4Z7tCnQ55jETIXDA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 3:37 |
 | 25 | [There Will Be Time](https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 4:27 |
 | 26 | [Timshel](https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 2:53 |
-| 27 | [Truth](https://open.spotify.com/track/0N0nwjlcbx58JduDVE8T2E) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:43 |
+| 27 | [Where It Belongs](https://open.spotify.com/track/6S7tceZdDsUpvJmK2267PD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 4:07 |
 | 28 | [Broken Crown](https://open.spotify.com/track/3Yf3ptIrpI9ZcWgyBoMbSR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 4:16 |
 | 29 | [Beloved](https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 4:25 |
 | 30 | [Winter Winds](https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 3:39 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 40 | [Hold on to What You Believe \(Live from Shepherd's Bush Empire, 2010\)](https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0KztyTPAryAod5xwE4hIfH) | 4:04 |
 | 41 | [Blind Leading The Blind](https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4) | 3:44 |
 
-Snapshot ID: `aL4cgAAAAACAnHGuAQ2rmgtlWZ+Xk+Mw`
+Snapshot ID: `aL9uAAAAAAC4UhrqRELLjYE7qHkRgOOU`

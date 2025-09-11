@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 515601,
+  "num_followers": 516124,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADqjdwDVNp/m53wNFRlguq7",
+  "snapshot_id": "aL9uAAAAAADuJut7gOek8xzJizEdWU9v",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -903,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No",
-        "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 168087,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Yo Fuera Ladr\u00f3n",
         "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
       },
@@ -939,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+        "name": "Ya No",
+        "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+      "duration_ms": 168087,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
     },
     {
       "added_at": null,

@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 196830,
       "name": "CALI LOVE",
       "url": "https://open.spotify.com/track/15PfsHwrnQ43VSQP3BngxW"
@@ -468,6 +468,28 @@
       "duration_ms": 236826,
       "name": "Casual Love (feat. Shaggy)",
       "url": "https://open.spotify.com/track/1HTnPCCahgji49Ocub64XE"
+    },
+    {
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244003,
+      "name": "Come Down (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6gZ71CxlnjRhInIvKLF4cM"
     },
     {
       "album": {

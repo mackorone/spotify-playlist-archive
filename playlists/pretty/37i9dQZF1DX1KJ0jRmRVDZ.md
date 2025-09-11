@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,491 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,501 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 20 | [ラストルック](https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラストルック](https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS) | 3:07 |
 | 21 | [B.U.G.](https://open.spotify.com/track/1XGT4NAcBBqJB934gLxs5v) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [B.U.G.](https://open.spotify.com/album/56J49Hg6pwO4a41EHrU6uH) | 3:46 |
 | 22 | [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 |
-| 23 | [確定一発](https://open.spotify.com/track/2libwyeXa0CC0kDGE02VaQ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [](https://open.spotify.com/album/null) | 2:12 |
+| 23 | [確定一発](https://open.spotify.com/track/2libwyeXa0CC0kDGE02VaQ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [TURN OVER](https://open.spotify.com/album/50rsijaSG57nF9gOj1NEB3) | 2:12 |
 | 24 | [薔薇と散る](https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [薔薇と散る](https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW) | 3:05 |
 | 25 | [距離。](https://open.spotify.com/track/7sSnqHbWVLuP1h2oDo70DB) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [距離。](https://open.spotify.com/album/0MM7dclSbHGJPgmb4rnDQT) | 3:57 |
 | 26 | [Hand Sign](https://open.spotify.com/track/2MFBMGjgPLDEw3P4O3TZz9) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [Hand Sign](https://open.spotify.com/album/4zyX7UkA5jaid83eqGSeeS) | 3:58 |

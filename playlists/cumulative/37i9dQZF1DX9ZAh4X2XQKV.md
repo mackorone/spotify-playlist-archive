@@ -4,7 +4,7 @@
 
 > this is what's up in the world of Latin and beyond.
 
-70 songs - 3 hr 50 min
+71 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [LA ULTIMA VEZ](https://open.spotify.com/track/0NGz9DiN1pGvvB8wG9qBi4) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [mariano](https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9) | [LA ULTIMA VEZ](https://open.spotify.com/album/7KeFVEFiQfzlK2ltgbuZqN) | 2:21 | 2025-05-21 | 2025-08-09 |
 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 | 2025-05-21 |  |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-07-08 |  |
-| [me extrañas? :\(](https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [me extrañas? :\(](https://open.spotify.com/album/4NdO2JUQYoZOQctoPecAOn) | 3:27 | 2025-05-21 |  |
+| [me extrañas? :\(](https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [me extrañas? :\(](https://open.spotify.com/album/4NdO2JUQYoZOQctoPecAOn) | 3:27 | 2025-05-21 | 2025-09-11 |
 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 | 2025-05-21 | 2025-09-05 |
 | [Me Mareo](https://open.spotify.com/track/0F1svfSx95E3qDBySn719G) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Me Mareo](https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc) | 2:48 | 2025-09-04 |  |
 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 | 2025-05-21 |  |
@@ -56,6 +56,7 @@
 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 | 2025-05-21 | 2025-07-09 |
 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 | 2025-07-08 |  |
 | [RAMEN PARA DOS](https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [RAMEN PARA DOS](https://open.spotify.com/album/2InOeOytZrdWOiCeSvQFlF) | 3:51 | 2025-05-21 | 2025-08-22 |
+| [Scat Pack](https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Scat Pack](https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx) | 4:13 | 2025-09-10 |  |
 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2025-05-21 | 2025-09-05 |
 | [Siento que merezco más](https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:45 | 2025-05-21 |  |
 | [sofocón](https://open.spotify.com/track/53Ox636iTlznBrMT3FH8Jd) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [sofocón](https://open.spotify.com/album/03scjA6OFm6LUFQQa8dOOy) | 2:26 | 2025-05-21 | 2025-09-05 |

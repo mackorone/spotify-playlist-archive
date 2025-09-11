@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,291 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,326 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 24 | [bread & butter](https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:46 |
 | 25 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 |
 | 26 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 |
-| 27 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
-| 28 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 |
+| 27 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 |
+| 28 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
 | 29 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
 | 30 | [Last Week](https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 3:55 |
 | 31 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |

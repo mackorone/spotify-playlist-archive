@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,955 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,789 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 40 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 |
 | 41 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 42 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
-| 43 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
-| 44 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 |
+| 43 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 |
+| 44 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
 | 45 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
 | 46 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 |
-| 47 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
-| 48 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
+| 47 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
+| 48 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
 | 49 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 50 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
-| 51 | [Jäjtä´äky](https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [Jäjtä´äky](https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo) | 7:28 |
+| 50 | [Jäjtä´äky](https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [Jäjtä´äky](https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo) | 7:28 |
+| 51 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
 | 52 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
 | 53 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 | 54 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 65 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
 | 66 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 67 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
-| 68 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
-| 69 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 68 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 69 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
 | 70 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 
 Snapshot ID: `AAAAAL8jNle1/DT32wTIXfzu7fzMQPaA`

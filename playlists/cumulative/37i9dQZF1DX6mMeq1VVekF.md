@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Dijon
 
-519 songs - 1 day 2 hr 45 min
+520 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [new life](https://open.spotify.com/track/43VNPmKZ7NPWqwB2BSO1LY) | [Active](https://open.spotify.com/artist/3r3yUrTG2m3ry3ICLyvaWH) | [new life](https://open.spotify.com/album/50x0TZFE1YvpXjXtQwGDyh) | 2:29 | 2023-05-15 | 2023-05-19 |
 | [NEXT MOVE](https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [NEXT MOVE](https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK) | 1:40 | 2024-10-03 |  |
 | [nhs](https://open.spotify.com/track/2y7an0zD7jCNw2MiM2u6OQ) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [nhs](https://open.spotify.com/album/4Cejj7X43FU8YD9gUROeam) | 3:26 | 2022-06-24 | 2022-07-22 |
+| [Night Owl](https://open.spotify.com/track/3ryyBrpkHpfdTHBiX1WmYw) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Night Owl](https://open.spotify.com/album/7L9sQTzVt9Gk0a1SrOZAfP) | 3:07 | 2025-09-02 |  |
 | [NIKES](https://open.spotify.com/track/46yk9ChTFaeLz7V5cr8bFY) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [NIKES](https://open.spotify.com/album/6xeReYPLM5EVMe5Kj0BIwO) | 2:15 | 2022-07-17 | 2022-07-26 |
 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 | 2022-07-17 | 2024-10-04 |
 | [No Love](https://open.spotify.com/track/2sw0hynk9tJosW0SLqihkN) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Love](https://open.spotify.com/album/26myM8GwmLQrMiBbUCfSx1) | 3:11 | 2022-06-24 | 2022-07-28 |
@@ -511,7 +512,7 @@
 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 | 2023-08-18 | 2023-11-04 |
 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 | 2023-08-18 | 2024-04-19 |
 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 | 2023-05-15 | 2024-10-04 |
-| [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 |  |
+| [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 | 2025-09-11 |
 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2023-05-15 | 2024-04-26 |
 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 | 2025-05-01 | 2025-09-03 |
 | [White Peach Sangria](https://open.spotify.com/track/12UqNOESUMgvJu7Radn2xl) | [re'mi](https://open.spotify.com/artist/3b9VVrJfw8sLw7Qok1Ja5Y) | [White Peach Sangria](https://open.spotify.com/album/4y80BlorpM3fplK7C8G8Ip) | 1:56 | 2023-05-19 | 2023-06-17 |

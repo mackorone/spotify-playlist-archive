@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-127 songs - 7 hr 20 min
+128 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2025-07-16 |  |
 | [Say The Word](https://open.spotify.com/track/0c26nvNqCEA2l1ez41KzkK) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Say The Word](https://open.spotify.com/album/5Ei5Z8c8mA8th5fgSoZSRr) | 2:48 | 2025-07-16 |  |
 | [Shine](https://open.spotify.com/track/0pD0ZDgjAMHLdFNov4sRta) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Shine](https://open.spotify.com/album/0NWWNpxBOkggyzp829Fudt) | 3:14 | 2025-07-16 |  |
+| [Simple Life](https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE) | 1:33 | 2025-09-10 |  |
 | [Sinking Like a Stone](https://open.spotify.com/track/12OOKJeLg0Vd28oQii9UvY) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Sinking Like a Stone](https://open.spotify.com/album/4dvpeRYEohWv3OyrUXSOxu) | 2:45 | 2025-07-16 |  |
 | [Slow Show](https://open.spotify.com/track/6vmvNj64lOYWs3Vs4vZbgv) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pG7mDkQhia2OyGE6fbkmJ) | 4:08 | 2025-07-16 | 2025-08-29 |
 | [Slowdown](https://open.spotify.com/track/47B6p4D2mzd0WJbtmy9QjW) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Slowdown](https://open.spotify.com/album/0dwNJ0jDiJuHbMrwzJwxwm) | 4:07 | 2025-07-16 |  |

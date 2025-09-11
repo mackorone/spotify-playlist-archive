@@ -4,7 +4,7 @@
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-133 songs - 6 hr 37 min
+134 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [I Wan'na Be Like You \(The Monkey Song\)](https://open.spotify.com/track/2k2787cRD1DwyVY3ix7kwO) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spring Songs](https://open.spotify.com/album/498qNLR5BlSmQEmoJBU2xD) | 2:36 | 2025-03-21 |  |
 | [I Won't Say I'm in Love](https://open.spotify.com/track/2isQvtKEghXrIznabDgbyI) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 2:44 | 2024-04-19 |  |
 | [I'll Make a Man Out of You](https://open.spotify.com/track/5UDlV5kK16mwqdLz3GdGMW) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spring Songs](https://open.spotify.com/album/498qNLR5BlSmQEmoJBU2xD) | 3:30 | 2025-03-21 |  |
+| [I'm Still Here \(Jim's Theme\)](https://open.spotify.com/track/78fiTK5Fzp2wvtesYpjkyM) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 4:29 | 2025-09-10 |  |
 | [I2I](https://open.spotify.com/track/1ewyibRS1eUvdf7Dg1SK4N) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spring Songs](https://open.spotify.com/album/498qNLR5BlSmQEmoJBU2xD) | 4:09 | 2025-03-21 |  |
 | [If I Didn't Have You](https://open.spotify.com/track/4FYQKATqcNQNulmNflMaTn) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 2:40 | 2024-04-19 |  |
 | [If I Never Knew You](https://open.spotify.com/track/6WCEW0hXGy76wn3SaMqUyx) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 2:52 | 2025-08-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 90747,
+  "num_followers": 90784,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 285533,
       "name": "Don't Swallow the Cap",
       "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 268455,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "The Double EP: A Sea of Split Peas",
         "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 312226,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
+      "duration_ms": 268455,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
     }
   ],
   "unique_name": "Best of Indie 2013",

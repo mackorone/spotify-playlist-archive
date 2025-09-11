@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280559,
+  "num_followers": 280554,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACgjjqy2sofitZ+2Ahose6b",
+  "snapshot_id": "aL9uAAAAAABq1tI8EYFKUC/JN7vA574Z",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 140968,
-      "name": "Fun Tonight - Pabllo Vittar Remix",
-      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 185217,
       "name": "N\u00e3o Esque\u00e7o",
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Fun Tonight - Pabllo Vittar Remix",
+      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para\u00edso",
         "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 163404,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 114951,
-      "name": "Ultra Som",
-      "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -923,26 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "place of my own (maffalda remix)",
-        "url": "https://open.spotify.com/album/1qfdAMPjDbIEmN36zVIWV1"
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
       "artists": [
         {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 109891,
-      "name": "place of my own (maffalda remix)",
-      "url": "https://open.spotify.com/track/01NMdI3OGMs5xP31JAU8h3"
+      "duration_ms": 114951,
+      "name": "Ultra Som",
+      "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
     },
     {
       "added_at": null,
@@ -979,6 +955,30 @@
       "duration_ms": 166108,
       "name": "No Hablo Espa\u00f1ol",
       "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "place of my own (maffalda remix)",
+        "url": "https://open.spotify.com/album/1qfdAMPjDbIEmN36zVIWV1"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 109891,
+      "name": "place of my own (maffalda remix)",
+      "url": "https://open.spotify.com/track/01NMdI3OGMs5xP31JAU8h3"
     },
     {
       "added_at": null,

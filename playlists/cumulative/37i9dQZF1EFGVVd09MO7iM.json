@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Can't Bring Me Down",
       "url": "https://open.spotify.com/track/3FEyTktnU2N2vRshFC7yZ6"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 236480,
       "name": "Dedicated (feat. R.Kelly & Austin Mahone)",
       "url": "https://open.spotify.com/track/16iHofweOVofNFKqni3QvK"
@@ -6478,7 +6478,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 248626,
       "name": "Go 'Head",
       "url": "https://open.spotify.com/track/69tnsMxZxWbnOieRji51wE"
@@ -15214,6 +15214,24 @@
       "duration_ms": 223225,
       "name": "SEXTING",
       "url": "https://open.spotify.com/track/5V4lzXL1hJuhjaPATSV2cY"
+    },
+    {
+      "album": {
+        "name": "Battle Of The Sexes (Deluxe)",
+        "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283920,
+      "name": "Sexting - Bonus Track (Explicit)",
+      "url": "https://open.spotify.com/track/2b1ZEnHNCfa3l3Xhqnum8i"
     },
     {
       "album": {

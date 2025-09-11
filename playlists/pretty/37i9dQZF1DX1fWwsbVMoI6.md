@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,074 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,125 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 19 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
 | 20 | [VUELVE CORAZÓN ♡](https://open.spotify.com/track/7eMLIzWfgXeeUBQuQija9W) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [VUELVE CORAZÓN ♡](https://open.spotify.com/album/2yWIAhw4rVHAUdBYLi6jFG) | 3:15 |
 | 21 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
-| 22 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
-| 23 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
+| 22 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
+| 23 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
 | 24 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
 | 25 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 26 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 46 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 47 | [Empecemos De Cero](https://open.spotify.com/track/4OAfookZMEsWpZnXS1rLpN) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Empecemos De Cero](https://open.spotify.com/album/40rQKnNuOGRhxkZ59NA3G6) | 2:42 |
 | 48 | [Motivos](https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi) | [Los Morunos](https://open.spotify.com/artist/7aH8EFjZNlY5FLsjmR9Bqh), [Mariachi Los Fortunatos](https://open.spotify.com/artist/0lsLHvQYVP3ZRzADYk90vN) | [Es para Ti Esta Serenata](https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC) | 4:02 |
-| 49 | [Corazón de Piedra](https://open.spotify.com/track/7aX99BUihifb3Flv07Dtyb) | [Tony Rosado](https://open.spotify.com/artist/2J6aYS0OVbeD3fxpbhINsC), [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [La Karibeña 12 Años](https://open.spotify.com/album/5Kuj4IEDPOnVbZu3yaYOn8) | 5:06 |
-| 50 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 |
+| 49 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 |
+| 50 | [Corazón de Piedra](https://open.spotify.com/track/7aX99BUihifb3Flv07Dtyb) | [Tony Rosado](https://open.spotify.com/artist/2J6aYS0OVbeD3fxpbhINsC), [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [La Karibeña 12 Años](https://open.spotify.com/album/5Kuj4IEDPOnVbZu3yaYOn8) | 5:06 |
 
 Snapshot ID: `AAAAAA5vbHp0i7SSQ/evAuMkUzdnAfs7`

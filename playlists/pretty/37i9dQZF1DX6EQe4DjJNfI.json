@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 181634,
+  "num_followers": 181835,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4TPgGWDV9jqmD/UJ2/BPYOFOWJ",
+  "snapshot_id": "AAAAAHshPPpt7oYqHLaRG4K7U2ToaYOc",
   "tracks": [
     {
       "added_at": "2025-08-25 19:42:35",
@@ -283,6 +283,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 240522,
       "name": "Outono",
       "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -711,30 +711,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Amor \u00e0 Luz do Dia",
-        "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
-      },
-      "artists": [
-        {
-          "name": "Ella",
-          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 225304,
-      "name": "Amor \u00e0 Luz do Dia",
-      "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Meu Time (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZZURcVGtXBm3RRanOJMgb"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 207696,
       "name": "Meu Time - Ao Vivo",
       "url": "https://open.spotify.com/track/3ytwizS6YzgXxR22m2WAEs"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Amor \u00e0 Luz do Dia",
+        "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 225304,
+      "name": "Amor \u00e0 Luz do Dia",
+      "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
     },
     {
       "added_at": "2025-08-25 19:42:35",

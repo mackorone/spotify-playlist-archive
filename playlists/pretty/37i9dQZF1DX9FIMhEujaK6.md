@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,861 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,120 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 26 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 |
 | 27 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
 | 28 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
-| 29 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
-| 30 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 29 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 30 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 31 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |
 | 32 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
 | 33 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 39 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 40 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 41 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
-| 42 | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad) | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8) | 4:02 |
-| 43 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
+| 42 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
+| 43 | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad) | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8) | 4:02 |
 | 44 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 45 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 46 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
 | 47 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 48 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
 | 49 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
-| 50 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 |
+| 50 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
 
 Snapshot ID: `AAAAADXiggjAmXFsW6PMBSwX/5ux6qj8`

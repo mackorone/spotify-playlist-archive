@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 6 hr 24 min
+130 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bad For My Health \(Stripped\)](https://open.spotify.com/track/4vpQz6adwHuqzKcNiQvzOw) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad For My Health \(Stripped\)](https://open.spotify.com/album/5KaxWmfiDaHJqxiXc8Fn8g) | 2:16 | 2024-01-29 |  |
 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 | 2024-01-29 |  |
 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 | 2024-01-29 |  |
+| [Body First](https://open.spotify.com/track/208APjXGIT1IalEZirj3Tr) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [Past Progressive](https://open.spotify.com/album/0A5WvtaB92HiMLxiJcOvZ3) | 3:52 | 2025-09-10 |  |
 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-06-13 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:51 | 2024-01-29 |  |
 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 | 2024-12-11 | 2025-02-26 |
@@ -73,6 +74,7 @@
 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2024-01-29 |  |
 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 | 2024-01-29 |  |
 | [I'll Be There](https://open.spotify.com/track/7n1hMxVl2T8dXLZ1giLg14) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc) | 2:35 | 2024-01-29 | 2024-08-15 |
+| [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 | 2025-09-10 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2024-01-29 |  |
 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-12-11 |  |
 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 | 2024-01-29 |  |

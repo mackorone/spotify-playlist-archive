@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 754 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 59 | [Broken Vow](https://open.spotify.com/track/6oif5BcrVJ2YP589p6SZ9K) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [The Best Of..\. So Far \(Deluxe\)](https://open.spotify.com/album/44hfSt45S1YSvgCca4qifK) | 4:26 |
 | 60 | [Medicine Man](https://open.spotify.com/track/3HI8a7Fw9eALgHzloLX7uQ) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:34 |
 | 61 | [Red](https://open.spotify.com/track/5at4TNTghdjomJAGGRFBGV) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Super Deluxe Edition\)](https://open.spotify.com/album/4tXGGRLZGSU9RwbemiixAz) | 3:06 |
-| 62 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
-| 63 | [Lost in the World](https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:03 |
+| 62 | [Lost in the World](https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:03 |
+| 63 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
 | 64 | [I’m Still Hot \- Original](https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [I'm Still Hot](https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3) | 3:06 |
 | 65 | [Road to Ruin](https://open.spotify.com/track/2UmhCjVXLGpvsPspmJu5Jo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:43 |
 | 66 | [Look How I'm Doin](https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:28 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 85 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Ab7y1AAAAADVzx4hfYFjes/2evUXCAlf`
+Snapshot ID: `Ab74kgAAAAC0piM3RD20+IpZiwwyYBv8`

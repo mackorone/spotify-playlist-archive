@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,212 likes - 80 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,408 likes - 80 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 75 | [Nasty](https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:03 |
 | 76 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
 | 77 | [Part\-Time Lover](https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:12 |
-| 78 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
-| 79 | [Material Girl](https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:53 |
+| 78 | [Material Girl](https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:53 |
+| 79 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 | 80 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
 
 Snapshot ID: `AAAAAAiWAriS1gFDYwE9mySe94FT7/yd`

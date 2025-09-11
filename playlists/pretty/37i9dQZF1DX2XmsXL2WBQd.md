@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,597 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,754 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 22 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 |
 | 23 | [Paid In Full](https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:48 |
 | 24 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
-| 25 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
-| 26 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
+| 25 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
+| 26 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
 | 27 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 28 | [Follow The Leader](https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH) | 5:36 |
 | 29 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |

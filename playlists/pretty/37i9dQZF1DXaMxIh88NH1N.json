@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 197869,
+  "num_followers": 198086,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 253909,
+      "name": "Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "Vita Fer",
         "url": "https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "MIRADA",
-        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 253909,
-      "name": "Atenci\u00f3n",
-      "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 174655,
+      "name": "3",
+      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
@@ -563,18 +579,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+        "name": "El Mayor de los Ranas (En Vivo)",
+        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
         }
       ],
-      "duration_ms": 174655,
-      "name": "3",
-      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
+      "duration_ms": 174037,
+      "name": "El Mayor de los Ranas (En Vivo)",
+      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -595,26 +615,6 @@
       "duration_ms": 156807,
       "name": "Yo Vengo De La Nada",
       "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "El Mayor de los Ranas (En Vivo)",
-        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 174037,
-      "name": "El Mayor de los Ranas (En Vivo)",
-      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2025-05-27 18:54:46",

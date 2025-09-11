@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,109 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,122 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
 | 2 | [OHMAMMA](https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [OHMAMMA](https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu) | 2:48 |
-| 3 | [SZAR AZ ÉLET](https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZAR AZ ÉLET](https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc) | 3:11 |
+| 3 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 4 | [Álmodoztam](https://open.spotify.com/track/46GLF8kK08PMs9vzpXRCVL) | [V\-Tech](https://open.spotify.com/artist/22ErxB8hIzcnxwJ6Ns5GBs), [Lotfi Begi](https://open.spotify.com/artist/5iAyJ9oWG7fGCxppLihaZa) | [Álmodoztam](https://open.spotify.com/album/1DCHE0C8eaSVBw5j9v3zph) | 2:54 |
-| 5 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
-| 6 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
+| 5 | [SZAR AZ ÉLET](https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZAR AZ ÉLET](https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc) | 3:11 |
+| 6 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 7 | [FOROG A FÖLD](https://open.spotify.com/track/5Qmlr66irQIftmWA1NFXEj) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Gaspar Laci](https://open.spotify.com/artist/1P5T5EzCNQXavHmVZ7Kdj5) | [FOROG A FÖLD](https://open.spotify.com/album/6JGfT6iaCMPndbWLNwXDff) | 3:12 |
 | 8 | [PONT JÓ](https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [PONT JÓ](https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1) | 2:34 |
-| 9 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 9 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
 | 10 | [Vadnyugati](https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f) | [Vadnyugati](https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O) | 3:22 |
 | 11 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 12 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [Nem búcsúztam el](https://open.spotify.com/track/7vxd0D1Xt4RzTRU2EUHDO2) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l) | [Nem búcsúztam el](https://open.spotify.com/album/5YhOfhBNPz4d285x3Q43nD) | 2:56 |
 | 80 | [priluki](https://open.spotify.com/track/0zvt9tYgfOquMYpXN2srkw) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [van1szektám](https://open.spotify.com/album/5TTjgHeXcIyRktz65PVuAj) | 3:15 |
 
-Snapshot ID: `AAAAAGb89mx8mrxNFF5LGUNq0ad6XAIv`
+Snapshot ID: `AAAAAC74f/zyDSC4QLJTjZ35zlSMFoHZ`

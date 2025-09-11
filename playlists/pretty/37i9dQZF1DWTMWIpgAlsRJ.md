@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,812 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,841 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 3 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
 | 4 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 5 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
-| 6 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
-| 7 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 |
+| 6 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 |
+| 7 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 | 8 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 9 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 | 10 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 43 | [19\-2000 \- Soulchild Remix](https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:29 |
 | 44 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 45 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
-| 46 | [The Rockafeller Skank](https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:53 |
-| 47 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
+| 46 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
+| 47 | [The Rockafeller Skank](https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:53 |
 | 48 | [Red Morning Light](https://open.spotify.com/track/3Fc5OiXuy3pgmLLdoDQqjX) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:59 |
 | 49 | [Goodbye Mr A](https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [The Trick To Life](https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH) | 4:26 |
 | 50 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 66 | [Fa\-Fa\-Fa](https://open.spotify.com/track/69jJtkqDBuF3n6yPnAvRjK) | [Datarock](https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k) | [Datarock Datarock](https://open.spotify.com/album/1qwNBiFcleOs6H6sPWnywJ) | 5:08 |
 | 67 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 68 | [Water \(with Mahalia\)](https://open.spotify.com/track/6I15UB0IPWQhJNJEPQ1gLE) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Water](https://open.spotify.com/album/4XcNB4VTSkl2cKVRci10Z4) | 3:27 |
-| 69 | [Rain Of Gold](https://open.spotify.com/track/1ieTJuI2QzEGLBBHUIWbs2) | [Young Empires](https://open.spotify.com/artist/2NaTjGw60CSAEKY0tQTCYv) | [Wake All My Youth](https://open.spotify.com/album/6KzfQtWTlx1hPe0ToMg5Qc) | 3:16 |
-| 70 | [Sorte Grande](https://open.spotify.com/track/2IXiZtz7EVJpsyZwoxBy6K) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Clube Carnavalesco Inocentes Em Progresso](https://open.spotify.com/album/0BWWqqGqH5z11TnBjI60X4) | 3:48 |
+| 69 | [Sorte Grande](https://open.spotify.com/track/2IXiZtz7EVJpsyZwoxBy6K) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Clube Carnavalesco Inocentes Em Progresso](https://open.spotify.com/album/0BWWqqGqH5z11TnBjI60X4) | 3:48 |
+| 70 | [Rain Of Gold](https://open.spotify.com/track/1ieTJuI2QzEGLBBHUIWbs2) | [Young Empires](https://open.spotify.com/artist/2NaTjGw60CSAEKY0tQTCYv) | [Wake All My Youth](https://open.spotify.com/album/6KzfQtWTlx1hPe0ToMg5Qc) | 3:16 |
 | 71 | [Colours \- Captain Cuts Remix](https://open.spotify.com/track/7DSUsf7q9WFoNQZNkoAFAE) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk) | [Colours](https://open.spotify.com/album/4J73QQUDkVDbyyvB6PgpLS) | 4:32 |
 | 72 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
 | 73 | [Heart Attack \(feat\. De La Soul\)](https://open.spotify.com/track/6FBndOcWyw1OqagEIUJbn8) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Full Circle](https://open.spotify.com/album/68Napy7W8wRervbgGRkKP7) | 3:50 |

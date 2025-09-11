@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,071 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,095 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 10 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
 | 11 | [Who's Your Daddy?](https://open.spotify.com/track/48OJNxzYVJNYzXDDY1xlnt) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:57 |
 | 12 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
-| 13 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
+| 13 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
 | 14 | [You Shouldn't Kiss Me Like This](https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:43 |
 | 15 | [You Ain't Much Fun](https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 2:27 |
 | 16 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
-| 17 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
+| 17 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
 | 18 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 |
 | 19 | [Who's That Man](https://open.spotify.com/track/3KikW7dhYZkY1eGXkIKOmG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 4:55 |
 | 20 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 34 | [Bullets in the Gun](https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:16 |
 | 35 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
 | 36 | [Sailboat for Sale](https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:08 |
-| 37 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
-| 38 | [Get Drunk And Be Somebody](https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 2:58 |
-| 39 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
-| 40 | [Getcha Some](https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:17 |
+| 37 | [Get Drunk And Be Somebody](https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 2:58 |
+| 38 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
+| 39 | [Getcha Some](https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:17 |
+| 40 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
 | 41 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 |
 | 42 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 |
 | 43 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Oklahoma Breakdown](https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Peso in My Pocket](https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ) | 3:31 |
 | 50 | [She's A Hottie \- Single Version](https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:08 |
 
-Snapshot ID: `aL4cgAAAAAAiFCYxSX+NUhRBCx4D5YSe`
+Snapshot ID: `aL9uAAAAAAA5QJB9EIPc2SDPByUVIzZJ`

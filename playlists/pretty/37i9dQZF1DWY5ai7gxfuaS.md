@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,861 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,916 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 29 | [Learn To Forget](https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Learn To Forget](https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5) | 3:01 |
 | 30 | [The Sniffing Accountant](https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp) | [Druidess](https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW) | [The Product Of My Love](https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y) | 3:48 |
 | 31 | [DOWN \(Feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
-| 32 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
-| 33 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
+| 32 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
+| 33 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
 | 34 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 35 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
 | 36 | [FLATLINE](https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [FLATLINE](https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA) | 2:52 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
 | 80 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 81 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
-| 82 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 |
-| 83 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
+| 82 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
+| 83 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 |
 | 84 | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Tired Violence](https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV) | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b) | 3:04 |
 | 85 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
 | 86 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 89 | [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 |
 | 90 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 |
 | 91 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
-| 92 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
-| 93 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
+| 92 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
+| 93 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 | 94 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
 | 95 | [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 |
 | 96 | [Power](https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Power](https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq) | 4:29 |

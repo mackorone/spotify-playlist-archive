@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Solo artistas independientes, actualizada todos los miércoles. Foto: Pd: Seo Jaleo.
+> Solo artistas independientes, actualizada todos los miércoles. Foto: Seo Jaleo.
 
 7,764 songs - 16 day 10 hr 40 min
 

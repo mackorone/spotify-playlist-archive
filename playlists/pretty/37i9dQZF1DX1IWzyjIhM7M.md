@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,672 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,679 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 60 | [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 |
 | 61 | [While You Were Sleeping](https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [While You Were Sleeping](https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44) | 3:34 |
 | 62 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |
-| 63 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
-| 64 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
+| 63 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
+| 64 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 65 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
 | 66 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 67 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 87 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
 | 88 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 89 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
-| 90 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
-| 91 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
+| 90 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
+| 91 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 92 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 |
 | 93 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 94 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |

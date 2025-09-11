@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,138 likes - 65 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,217 likes - 65 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

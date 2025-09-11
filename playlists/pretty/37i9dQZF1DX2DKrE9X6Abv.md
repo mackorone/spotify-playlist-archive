@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,223 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,389 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 77 | [Be an Astronaut](https://open.spotify.com/track/6obgLZhy3w1r6zKhxKWU6F) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/4Q6Y35QnNj37hiXVs1Bbxn) | 4:35 |
 | 78 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
 | 79 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 80 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
-| 81 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
+| 80 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
+| 81 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 82 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
 | 83 | [Lifetime of Wanting](https://open.spotify.com/track/5oaxDAJC1eXfdvAd9AKDKr) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:23 |
 | 84 | [Riot Of Sunlight](https://open.spotify.com/track/6X874Yxx4QjzW8sdU86BZU) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Drawing Wings From The Light](https://open.spotify.com/album/6IEegjq9dgITjSz9qND8dg) | 3:39 |

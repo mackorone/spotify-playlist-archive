@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,148 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,225 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 50 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
 | 51 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 52 | [superglue](https://open.spotify.com/track/10KY26D84N1PcxpxGhz0Vr) | [Cherry Blonde](https://open.spotify.com/artist/25y7fG0CNjnRHUnT5ppyYa) | [superglue](https://open.spotify.com/album/3O2mBT24C2iWfra9O9QuVY) | 2:34 |
-| 53 | [Se Sufre Pero Se Goza](https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Se Sufre Pero Se Goza](https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5) | 2:33 |
+| 53 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
 | 54 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
-| 55 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
-| 56 | [Dunce Hat](https://open.spotify.com/track/0iQYIcRhqOqyNxA1dV5CLG) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [Dunce Hat](https://open.spotify.com/album/59Qgi3ocRFrE9wykOvPTAS) | 2:21 |
-| 57 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
+| 55 | [Se Sufre Pero Se Goza](https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Se Sufre Pero Se Goza](https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5) | 2:33 |
+| 56 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
+| 57 | [Dunce Hat](https://open.spotify.com/track/0iQYIcRhqOqyNxA1dV5CLG) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [Dunce Hat](https://open.spotify.com/album/59Qgi3ocRFrE9wykOvPTAS) | 2:21 |
 | 58 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
 | 59 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
 | 60 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 62 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 63 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
 | 64 | [SCREAM!!](https://open.spotify.com/track/67BGWOAdG09RomaAi1PBHn) | [katie drives](https://open.spotify.com/artist/6sJHVAnPiDsrsXU2myom2b), [Pentastone](https://open.spotify.com/artist/2jq5w38tD7Fxst2oFtbLGM) | [SCREAM!!](https://open.spotify.com/album/09MVxYvRi0qHjc6Jg88hih) | 3:03 |
-| 65 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
-| 66 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
+| 65 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
+| 66 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
 | 67 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
 | 68 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
 | 69 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |

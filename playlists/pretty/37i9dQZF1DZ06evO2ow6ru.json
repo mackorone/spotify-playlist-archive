@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 176393,
+  "num_followers": 176417,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAA4Ee8CWxvJp3GahIloIQOO",
+  "snapshot_id": "aL9uAAAAAADQROv+O/RIjwXixch9KozV",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 187344,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PMA (feat. Pale Waves)",
-        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "PMA (feat. Pale Waves)",
-      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PMA (feat. Pale Waves)",
+        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 191757,
+      "name": "PMA (feat. Pale Waves)",
+      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
     },
     {
       "added_at": null,

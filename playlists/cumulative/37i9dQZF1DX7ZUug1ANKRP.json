@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 305032,
       "name": "Bass Go",
       "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
@@ -7698,7 +7698,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 249140,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
@@ -10183,6 +10183,32 @@
     },
     {
       "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/4kcqgtKDv2pLNoUuJtGHJb"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132268,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/0wgj0e9vcgeB7FUivFIjCr"
+    },
+    {
+      "album": {
         "name": "Lonely Again",
         "url": "https://open.spotify.com/album/7JiRg4XOhBtskA1vLzboj5"
       },
@@ -11296,6 +11322,28 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "album": {
+        "name": "Money Made Me A Savage (Calabria)",
+        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123854,
+      "name": "Money Made Me A Savage - Calabria",
+      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
     },
     {
       "album": {

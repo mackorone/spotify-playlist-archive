@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 3 min
+66 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Salvation](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 2:22 | 2025-03-08 |  |
 | [Schizophrenic Playboy](https://open.spotify.com/track/6FdVdYNgEbbWbtIyQh8fPL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:39 | 2025-03-08 |  |
 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 | 2025-03-08 |  |
-| [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/564wPZmSYxRlTpqZschULJ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(Deluxe\)](https://open.spotify.com/album/719zEHYz9RcUXss1LP1ouT) | 4:34 | 2025-03-08 |  |
+| [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/564wPZmSYxRlTpqZschULJ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(Deluxe\)](https://open.spotify.com/album/719zEHYz9RcUXss1LP1ouT) | 4:34 | 2025-03-08 | 2025-09-11 |
+| [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:34 | 2025-09-11 |  |
 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 | 2025-03-08 |  |
 | [Sunday](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:31 | 2025-03-08 |  |
 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 | 2025-03-08 |  |

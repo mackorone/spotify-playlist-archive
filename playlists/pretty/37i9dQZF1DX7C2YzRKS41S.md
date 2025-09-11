@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,558 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,623 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 42 | [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 |
 | 43 | [Açaí](https://open.spotify.com/track/6K73fSY0NIXJ39rBXw5Nf3) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:43 |
 | 44 | [A Coisa Mais Bonita](https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [A Coisa Mais Bonita](https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3) | 2:49 |
-| 45 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
-| 46 | [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 |
+| 45 | [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 |
+| 46 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
 | 47 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 |
 | 48 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 |
 | 49 | [Passageiro](https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Passageiro](https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm) | 3:39 |

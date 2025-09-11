@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Kane",
-  "num_followers": 583649,
+  "num_followers": 583597,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
+        "name": "Dieses eine Lied",
+        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "duration_ms": 142545,
+      "name": "Dieses eine Lied",
+      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
         "name": "Denkst du an mich",
         "url": "https://open.spotify.com/album/1gCpb6P29znhvymToiydUV"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
-        "name": "Dieses eine Lied",
-        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
-      },
-      "artists": [
-        {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
-        }
-      ],
-      "duration_ms": 142545,
-      "name": "Dieses eine Lied",
-      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
+        "name": "Lautlos",
+        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Lautlos",
+      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
         "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
         "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
       },
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Lautlos",
-        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
       },
       "artists": [
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Lautlos",
-      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
+        "name": "Ruf mich an",
+        "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ruf mich an",
+      "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
         "name": "Wer liebt dich jetzt ?",
         "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 163831,
       "name": "Wer liebt dich jetzt ?",
       "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
-        "name": "Ruf mich an",
-        "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ruf mich an",
-      "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "\u00dcberlebt",
-        "url": "https://open.spotify.com/album/0Nrqk89YfPfTK1Zj2mG6Fz"
-      },
-      "artists": [
-        {
-          "name": "Vega",
-          "url": "https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "\u00dcberlebt",
-      "url": "https://open.spotify.com/track/0K7h3qIpXruphMbAq3UtEB"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
         "name": "Ich will",
         "url": "https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 193906,
       "name": "Ich will",
       "url": "https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
+        "name": "\u00dcberlebt",
+        "url": "https://open.spotify.com/album/0Nrqk89YfPfTK1Zj2mG6Fz"
+      },
+      "artists": [
+        {
+          "name": "Vega",
+          "url": "https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "\u00dcberlebt",
+      "url": "https://open.spotify.com/track/0K7h3qIpXruphMbAq3UtEB"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Manchmal",
-        "url": "https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy"
-      },
-      "artists": [
-        {
-          "name": "KC Rebell",
-          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Manchmal",
-      "url": "https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
         "name": "Mann vom Fach",
         "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Nie wieder",
-        "url": "https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC"
+        "name": "Manchmal",
+        "url": "https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy"
       },
       "artists": [
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Nie wieder",
-      "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
+      "duration_ms": 170000,
+      "name": "Manchmal",
+      "url": "https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "212 km/h",
-        "url": "https://open.spotify.com/album/31ECHyDrYntbBAfW4uNLoa"
+        "name": "Nie wieder",
+        "url": "https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC"
       },
       "artists": [
         {
-          "name": "FOURTY",
-          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 158661,
-      "name": "212 km/h",
-      "url": "https://open.spotify.com/track/0snt282zjuoVMG6nBRPJBp"
+      "duration_ms": 179000,
+      "name": "Nie wieder",
+      "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1135,6 +1119,22 @@
       "duration_ms": 217800,
       "name": "Frieden",
       "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
+        "name": "212 km/h",
+        "url": "https://open.spotify.com/album/31ECHyDrYntbBAfW4uNLoa"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "212 km/h",
+      "url": "https://open.spotify.com/track/0snt282zjuoVMG6nBRPJBp"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Tochter",
-        "url": "https://open.spotify.com/album/0pf0lpX0VnYbL1aBgxEz1o"
-      },
-      "artists": [
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        },
-        {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Tochter",
-      "url": "https://open.spotify.com/track/4FQ4jb3BC5ZieMSeOJGwMc"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
+        "name": "Tochter",
+        "url": "https://open.spotify.com/album/0pf0lpX0VnYbL1aBgxEz1o"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        },
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Tochter",
+      "url": "https://open.spotify.com/track/4FQ4jb3BC5ZieMSeOJGwMc"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Junimond",
-        "url": "https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Junimond",
-      "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
         "name": "Meilen",
         "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 139920,
       "name": "Meilen",
       "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
+        "name": "Junimond",
+        "url": "https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Junimond",
+      "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1499,38 +1499,38 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+        "name": "Ich Liebe Dich",
+        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
       },
       "artists": [
         {
           "name": "Samra",
           "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+      "duration_ms": 155152,
+      "name": "Ich Liebe Dich",
+      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
     },
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Ma Baby 2",
-        "url": "https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY"
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
       },
       "artists": [
         {
           "name": "Jazeek",
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
         }
       ],
-      "duration_ms": 150870,
-      "name": "Ma Baby 2",
-      "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
+      "duration_ms": 140235,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1647,38 +1647,38 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "Ich Liebe Dich",
-        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
       },
       "artists": [
         {
           "name": "Samra",
           "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 155152,
-      "name": "Ich Liebe Dich",
-      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+        "name": "Ma Baby 2",
+        "url": "https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY"
       },
       "artists": [
         {
           "name": "Jazeek",
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
         }
       ],
-      "duration_ms": 140235,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+      "duration_ms": 150870,
+      "name": "Ma Baby 2",
+      "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
     },
     {
       "added_at": "2025-08-28 22:00:11",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-08-28 22:00:11",
       "album": {
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
+    },
+    {
+      "added_at": "2025-08-28 22:00:11",
+      "album": {
         "name": "Mitten im Leben",
         "url": "https://open.spotify.com/album/5Aux7ZXF6u4siHoFvy3k6q"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 195653,
       "name": "Elbe",
       "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
-    },
-    {
-      "added_at": "2025-08-28 22:00:11",
-      "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
     },
     {
       "added_at": "2025-08-28 22:00:11",

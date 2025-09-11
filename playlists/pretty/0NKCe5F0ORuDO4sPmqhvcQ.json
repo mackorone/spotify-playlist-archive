@@ -1,13 +1,33 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20496,
+  "num_followers": 20494,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAquJZW5Bozel590QDpUUcUPD0fjtFC",
+  "snapshot_id": "AAAqyNFq52P4/l7sSAtjdkOpxJ2KHAvS",
   "tracks": [
+    {
+      "added_at": "2025-09-10 18:38:50",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
+    },
     {
       "added_at": "2025-08-24 21:59:36",
       "album": {
@@ -53,42 +73,6 @@
       "url": "https://open.spotify.com/track/2GzM7fkgawh6a5KQwMxyCg"
     },
     {
-      "added_at": "2025-07-02 22:33:05",
-      "album": {
-        "name": "Better This Way (Remixes)",
-        "url": "https://open.spotify.com/album/7g92R4IN5F3IXMeg3oCYtW"
-      },
-      "artists": [
-        {
-          "name": "Taylor Kade",
-          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
-        },
-        {
-          "name": "Fixion",
-          "url": "https://open.spotify.com/artist/2UbGoX9NIkzDmvTCj1xioH"
-        }
-      ],
-      "duration_ms": 233999,
-      "name": "Better This Way - VIP",
-      "url": "https://open.spotify.com/track/7GkqktN7HGruSw9n0MMO9G"
-    },
-    {
-      "added_at": "2025-08-24 21:59:40",
-      "album": {
-        "name": "Party Monster",
-        "url": "https://open.spotify.com/album/1AMTkFoROS3COqpJ7FW57d"
-      },
-      "artists": [
-        {
-          "name": "RYL0",
-          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
-        }
-      ],
-      "duration_ms": 211544,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/6Ce4yaLUyw8CO1Tp8AMjgm"
-    },
-    {
       "added_at": "2024-09-06 16:26:02",
       "album": {
         "name": "eye2eye",
@@ -103,30 +87,6 @@
       "duration_ms": 195428,
       "name": "eye2eye",
       "url": "https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai"
-    },
-    {
-      "added_at": "2024-02-01 17:47:45",
-      "album": {
-        "name": "All Ur Luv",
-        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
-      },
-      "artists": [
-        {
-          "name": "Wavedash",
-          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
-        },
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "All Ur Luv",
-      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
     },
     {
       "added_at": "2024-03-22 02:27:57",
@@ -241,22 +201,6 @@
       "url": "https://open.spotify.com/track/7hnmOd4ZD2iJJiyxS30XsY"
     },
     {
-      "added_at": "2023-11-24 18:25:16",
-      "album": {
-        "name": "PraXis",
-        "url": "https://open.spotify.com/album/33wang90IMoiP2zLalEAC9"
-      },
-      "artists": [
-        {
-          "name": "AOBeats",
-          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
-        }
-      ],
-      "duration_ms": 224233,
-      "name": "WannaPlay",
-      "url": "https://open.spotify.com/track/0K0Z29VUyxchhKdmMGBNYm"
-    },
-    {
       "added_at": "2023-11-10 21:45:45",
       "album": {
         "name": "Sweat",
@@ -291,6 +235,22 @@
       "duration_ms": 205423,
       "name": "Don't Look Down (feat. BANKS)",
       "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
+    },
+    {
+      "added_at": "2025-08-24 21:59:40",
+      "album": {
+        "name": "Party Monster",
+        "url": "https://open.spotify.com/album/1AMTkFoROS3COqpJ7FW57d"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "duration_ms": 211544,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6Ce4yaLUyw8CO1Tp8AMjgm"
     },
     {
       "added_at": "2023-09-01 20:06:07",
@@ -489,34 +449,6 @@
       "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
     },
     {
-      "added_at": "2023-02-23 18:41:27",
-      "album": {
-        "name": "BACK ONLINE",
-        "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "BACK ONLINE",
-      "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
-    },
-    {
       "added_at": "2023-02-23 00:25:37",
       "album": {
         "name": "In Plain Sight",
@@ -647,22 +579,6 @@
       "duration_ms": 126043,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
-    },
-    {
-      "added_at": "2022-10-10 17:12:33",
-      "album": {
-        "name": "TEAR ME UP",
-        "url": "https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa"
-      },
-      "artists": [
-        {
-          "name": "Khamsin",
-          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "TEAR ME UP",
-      "url": "https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR"
     },
     {
       "added_at": "2022-09-18 03:50:08",
@@ -905,30 +821,6 @@
       "url": "https://open.spotify.com/track/03Z1D7NWZvAbgFniQHRHni"
     },
     {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 221614,
-      "name": "Heart To The Night",
-      "url": "https://open.spotify.com/track/3QWKVDXzHpjAoAWe1kfoxe"
-    },
-    {
       "added_at": "2022-07-21 20:49:26",
       "album": {
         "name": "Dusk",
@@ -1001,26 +893,6 @@
       "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
     },
     {
-      "added_at": "2023-07-10 21:26:51",
-      "album": {
-        "name": "RUN IT",
-        "url": "https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS"
-      },
-      "artists": [
-        {
-          "name": "dot",
-          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
-        },
-        {
-          "name": "AOBeats",
-          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
-        }
-      ],
-      "duration_ms": 182126,
-      "name": "RUN IT",
-      "url": "https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX"
-    },
-    {
       "added_at": "2025-09-05 22:11:24",
       "album": {
         "name": "System",
@@ -1059,30 +931,6 @@
       "duration_ms": 178868,
       "name": "So Tired",
       "url": "https://open.spotify.com/track/3bRDdINgciG9K03HrSA1uB"
-    },
-    {
-      "added_at": "2023-07-20 01:18:24",
-      "album": {
-        "name": "BLEACH [Hi-Fi]",
-        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 164545,
-      "name": "PLASTIC",
-      "url": "https://open.spotify.com/track/6IOhmL97H7DoN493jGhQAQ"
     },
     {
       "added_at": "2023-08-16 15:11:52",
@@ -1173,26 +1021,6 @@
       "url": "https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc"
     },
     {
-      "added_at": "2023-10-20 20:52:18",
-      "album": {
-        "name": "cold showers",
-        "url": "https://open.spotify.com/album/1REUjAHkHYFLSuXP2rgrrb"
-      },
-      "artists": [
-        {
-          "name": "bardz",
-          "url": "https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk"
-        },
-        {
-          "name": "Brooke Williams",
-          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "cold showers",
-      "url": "https://open.spotify.com/track/4N4M6MYPCpgJxKyv5fpgzg"
-    },
-    {
       "added_at": "2023-11-24 18:25:24",
       "album": {
         "name": "PraXis",
@@ -1267,22 +1095,6 @@
       "duration_ms": 151373,
       "name": "Another Night (with Fi Sullivan)",
       "url": "https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD"
-    },
-    {
-      "added_at": "2024-04-26 18:01:54",
-      "album": {
-        "name": "Everything's Gonna Be Fine",
-        "url": "https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Everything's Gonna Be Fine",
-      "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
     },
     {
       "added_at": "2024-06-28 18:57:33",
@@ -1425,22 +1237,6 @@
       "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
     },
     {
-      "added_at": "2024-12-14 00:15:56",
-      "album": {
-        "name": "stereoluv",
-        "url": "https://open.spotify.com/album/6K62oIRD6U3XvfsWMkJTIR"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "stereoluv",
-      "url": "https://open.spotify.com/track/4uUmk2NZOzNOjKF82dZ4OK"
-    },
-    {
       "added_at": "2025-03-08 00:00:11",
       "album": {
         "name": "TALK MY SH*T (DJ Topgun Remix)",
@@ -1541,26 +1337,6 @@
       "url": "https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t"
     },
     {
-      "added_at": "2025-06-03 00:18:06",
-      "album": {
-        "name": "Hate It When It's You",
-        "url": "https://open.spotify.com/album/0GLWXYcVqqiWSNaqunDzVC"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 229846,
-      "name": "Hate It When It's You",
-      "url": "https://open.spotify.com/track/6ARHAMBOpkkQBVNHmTRxiX"
-    },
-    {
       "added_at": "2025-06-06 21:44:40",
       "album": {
         "name": "OBSESSION (FENIK Remix)",
@@ -1615,6 +1391,22 @@
       "duration_ms": 196524,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
+    },
+    {
+      "added_at": "2025-09-10 18:41:12",
+      "album": {
+        "name": "I know U know",
+        "url": "https://open.spotify.com/album/6XgSBLE4FzIWztUbcCu19K"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "I know U know",
+      "url": "https://open.spotify.com/track/4Yp2C2WQJVG3vZNJzUTapC"
     }
   ],
   "unique_name": "Moving Castle Monthly",

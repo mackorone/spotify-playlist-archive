@@ -4,7 +4,7 @@
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 57 min
+53 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:08 | 2025-07-20 |  |
 | [If I Should Lose You](https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 3:55 | 2025-07-20 |  |
 | [In the Dark](https://open.spotify.com/track/1EJNVmLt3wnssius7WVE2l) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:56 | 2025-07-20 |  |
-| [July Tree](https://open.spotify.com/track/6CqX2ZEoFm854CRVAbmhby) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:40 | 2025-07-27 |  |
+| [July Tree](https://open.spotify.com/track/6CqX2ZEoFm854CRVAbmhby) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:40 | 2025-07-27 | 2025-09-11 |
 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 | 2025-07-20 |  |
 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 | 2025-07-20 |  |
 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 | 2025-07-20 |  |
@@ -43,6 +43,7 @@
 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 | 2025-07-20 |  |
 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:38 | 2025-07-20 |  |
 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 | 2025-07-20 |  |
+| [One September Day](https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 | 2025-09-11 |  |
 | [Plain Gold Ring \(2013 \- Remaster\)](https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:48 | 2025-07-20 |  |
 | [Save Me](https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:22 | 2025-07-20 |  |
 | [See\-Line Woman](https://open.spotify.com/track/2vyIoVK6ggvXVNEvmIt1vs) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Broadway\-Blues\-Ballads](https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J) | 2:35 | 2025-07-20 |  |

@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Dijon",
-  "num_followers": 180372,
+  "num_followers": 180380,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "NEXT MOVE",
+        "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
+      },
+      "artists": [
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "duration_ms": 100050,
+      "name": "NEXT MOVE",
+      "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "Three Piece Suit (feat. Azekel)",
         "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "NEXT MOVE",
-        "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
-      },
-      "artists": [
-        {
-          "name": "Slew",
-          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
-        }
-      ],
-      "duration_ms": 100050,
-      "name": "NEXT MOVE",
-      "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 187192,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
         "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 252452,
       "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
       "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 187192,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "Figures On The Wall",
-        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Figures On The Wall",
-      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "What Can I Say",
         "url": "https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 214320,
       "name": "9 Months",
       "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "Figures On The Wall",
+        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Figures On The Wall",
+      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -951,30 +951,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "Com Amor Brazil (Original Soundtracks from Traveling Man)",
-        "url": "https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 143722,
-      "name": "Atabaque Riddim",
-      "url": "https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -1003,6 +979,50 @@
       "duration_ms": 126956,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "Com Amor Brazil (Original Soundtracks from Traveling Man)",
+        "url": "https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 143722,
+      "name": "Atabaque Riddim",
+      "url": "https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/7L9sQTzVt9Gk0a1SrOZAfP"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/3ryyBrpkHpfdTHBiX1WmYw"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -1043,22 +1063,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/7eYtfshBnYVsoDe6KcbQwX"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 217732,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/6vLRu22jXN9E6xFWEoYCcJ"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "AMANZI",
         "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
       },
@@ -1075,6 +1079,22 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/7eYtfshBnYVsoDe6KcbQwX"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 217732,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/6vLRu22jXN9E6xFWEoYCcJ"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK"
       },
@@ -1087,22 +1107,6 @@
       "duration_ms": 205827,
       "name": "19",
       "url": "https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "TELL DEM IT'S SUNNY",
-        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "Whatcha Mean",
-      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
     }
   ],
   "unique_name": "Free Form",

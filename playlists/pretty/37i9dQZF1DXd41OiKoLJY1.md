@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Franz Guico Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,015 likes - 272 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,036 likes - 272 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

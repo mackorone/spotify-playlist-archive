@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-583 songs - 1 day 23 hr 9 min
+584 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Amour inconditionnel](https://open.spotify.com/track/5WHsP1k6Pho0PMc9aTtESm) | [Faveur Mukoko](https://open.spotify.com/artist/3wiVaKI0C7DDfscpe10yAp) | [Aksanti Mungu \(Live\)](https://open.spotify.com/album/1Z7ttJJG6nV9eUGlcFOuyk) | 10:38 | 2025-07-18 | 2025-08-06 |
 | [Anabadilisha Matokeo](https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anabadilisha Matokeo](https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra) | 3:49 | 2024-08-23 | 2025-05-30 |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 | 2025-06-20 |
-| [Anointed](https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed](https://open.spotify.com/album/6TLuuArTrMIL83ySvRbyeV) | 3:01 | 2025-07-04 |  |
+| [Anointed](https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed](https://open.spotify.com/album/6TLuuArTrMIL83ySvRbyeV) | 3:01 | 2025-07-04 | 2025-09-11 |
 | [Anointed \(II\)](https://open.spotify.com/track/3J8xiSgYueHkxQeFkS8eWj) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed \(II\)](https://open.spotify.com/album/7w1mi7r30eNP3QZe4ElEeK) | 3:23 | 2025-07-25 | 2025-09-05 |
 | [Anointing](https://open.spotify.com/track/20HgSwpqVFZ7KGwXvqyn5o) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Anointing](https://open.spotify.com/album/0DX5TH4X6En3Loqa13PYXB) | 3:24 | 2025-06-20 | 2025-06-27 |
 | [Anointing](https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Anointing](https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3) | 2:33 | 2024-07-26 | 2025-03-24 |
@@ -216,6 +216,7 @@
 | [Hope In You](https://open.spotify.com/track/3QLU7OUlo1RY6rWTgqz458) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Hope In You](https://open.spotify.com/album/3sodQmguZBkx6lymeOcwqi) | 4:55 | 2025-08-15 |  |
 | [How Beautiful](https://open.spotify.com/track/0NfszjQLUa711V2KnfibxO) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [How Beautiful](https://open.spotify.com/album/65YlEzrrxcjYeo7BdIAKiM) | 4:18 | 2025-07-18 |  |
 | [How Can I Forget?](https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [How Can I Forget?](https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is) | 3:18 | 2025-06-27 |  |
+| [How Excellent Is Your Name \- Live](https://open.spotify.com/track/2PkBsj7plaSZabkhuwy5RW) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [How Excellent Is Your Name \(Live\)](https://open.spotify.com/album/52mkWaKaDVVkYcReBBCrom) | 5:55 | 2025-08-29 |  |
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-28 |
 | [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 |  |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,375 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,447 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 34 | [Sunny](https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Gemini Changes](https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB) | 2:10 |
 | 35 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
 | 36 | [I Love Being Here With You](https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [When The Sun Goes Down](https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY) | 4:59 |
-| 37 | [How About You? \- Remastered 1998](https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:45 |
-| 38 | [It's A Wonderful World](https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:14 |
+| 37 | [It's A Wonderful World](https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:14 |
+| 38 | [How About You? \- Remastered 1998](https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:45 |
 | 39 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
 | 40 | [Doralice](https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:44 |
 | 41 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |

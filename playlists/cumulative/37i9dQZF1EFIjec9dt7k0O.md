@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-253 songs - 14 hr 58 min
+254 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Fifth Day Dead](https://open.spotify.com/track/5314IYHnvVMlWPpxolaOFu) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:30 | 2025-04-10 |  |
 | [Finish Line](https://open.spotify.com/track/6KU4IwlxqeODKgwKiSDOWB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 4:24 | 2025-04-10 |  |
 | [First Time High](https://open.spotify.com/track/2CeiHAepW0aX9Riy4HvbX4) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:02 | 2025-04-10 |  |
+| [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2025-09-10 |  |
 | [For You \(With Rita Ora\)](https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 4:02 | 2025-04-10 |  |
 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 | 2025-04-10 |  |
 | [Forgot About You](https://open.spotify.com/track/73xYQWRzImNfVHhz0x9ETV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:53 | 2025-04-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Big Thief",
-  "num_followers": 93786,
+  "num_followers": 93782,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "Fuck Me Eyes",
-        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 364800,
-      "name": "Fuck Me Eyes",
-      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "The Rope",
         "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 190574,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
@@ -327,38 +343,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 226235,
-      "name": "Greyhound",
-      "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 291791,
-      "name": "I Come With Mud",
-      "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "Nettles",
         "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 483692,
       "name": "Nettles",
       "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 226235,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 291791,
+      "name": "I Come With Mud",
+      "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
         "name": "I quit",
         "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 202626,
       "name": "All over me",
       "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "Nothing I Need",
-        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Nothing I Need",
-      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Nothing I Need",
+        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Nothing I Need",
+      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "24 Hr Sports",
         "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
         "name": "Spike Island",
         "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 282459,
       "name": "Spike Island",
       "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -863,6 +879,30 @@
       "duration_ms": 172786,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "What Is The Reason For It?",
+        "url": "https://open.spotify.com/album/4E8naSl27jzeECfOA92V3y"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "What Is The Reason For It?",
+      "url": "https://open.spotify.com/track/0sFpqQmehUFEq3x65a93a7"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -915,30 +955,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "What Is The Reason For It?",
-        "url": "https://open.spotify.com/album/4E8naSl27jzeECfOA92V3y"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "Ghost Train Orchestra",
-          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "What Is The Reason For It?",
-      "url": "https://open.spotify.com/track/0sFpqQmehUFEq3x65a93a7"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "The Rest Of Me",
         "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 230661,
       "name": "The Rest Of Me",
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "Get Sunk",
-        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Get Sunk",
+        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
         "name": "(I Wanna) Be Your Girl",
         "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 190413,
       "name": "AMAMA",
       "url": "https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "many lives",
-        "url": "https://open.spotify.com/album/6YcGqNo2BKJBs5uiRRI8f1"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 181055,
-      "name": "many lives",
-      "url": "https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "Disintegrate",
         "url": "https://open.spotify.com/album/1jzPMd5TByVC0cFlbvBCRI"
       },
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
+        "name": "many lives",
+        "url": "https://open.spotify.com/album/6YcGqNo2BKJBs5uiRRI8f1"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 181055,
+      "name": "many lives",
+      "url": "https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2025-09-04 23:00:12",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "She Explains Things To Me",
-        "url": "https://open.spotify.com/album/5f6f5JMGxgNa0LAJqtaUXY"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "Ghost Train Orchestra",
-          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
-        }
-      ],
-      "duration_ms": 138920,
-      "name": "She Explains Things To Me",
-      "url": "https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq"
-    },
-    {
-      "added_at": "2025-09-04 23:00:12",
-      "album": {
         "name": "Return Of the Sharp Heads",
         "url": "https://open.spotify.com/album/39k2pwAvi0MV65HXhFrQHw"
       },
@@ -1643,18 +1623,38 @@
     {
       "added_at": "2025-09-04 23:00:12",
       "album": {
-        "name": "I'm So Down",
-        "url": "https://open.spotify.com/album/4ScsV2sFlzbfwU3j2uKiRu"
+        "name": "She Explains Things To Me",
+        "url": "https://open.spotify.com/album/5f6f5JMGxgNa0LAJqtaUXY"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
         }
       ],
-      "duration_ms": 205464,
-      "name": "I'm So Down",
-      "url": "https://open.spotify.com/track/0XYPxuShTBTHa6w4AfZ0Hw"
+      "duration_ms": 138920,
+      "name": "She Explains Things To Me",
+      "url": "https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq"
+    },
+    {
+      "added_at": "2025-09-04 23:00:12",
+      "album": {
+        "name": "Got to Have Love",
+        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 292228,
+      "name": "Got to Have Love",
+      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
     }
   ],
   "unique_name": "The Listening Post",

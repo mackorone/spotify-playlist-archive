@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-84 songs - 7 hr 7 min
+85 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 | 2023-07-09 |  |
 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 | 2024-02-07 |  |
 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 | 2023-07-09 |  |
-| [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 | 2024-07-27 |  |
+| [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 | 2024-07-27 | 2025-09-11 |
 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 | 2023-07-09 |  |
 | [Deus da Graça](https://open.spotify.com/track/1IwiRf0e4LL9zmB6mwW4Nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus da Graça](https://open.spotify.com/album/0U3wgaActPJC5Od0brF9Lb) | 6:36 | 2023-07-09 | 2023-08-07 |
 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 | 2024-12-09 |  |
@@ -37,6 +37,7 @@
 | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/track/1BNQRaKNzpON8391fA1f6w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/album/3MT5kzpvVPsjl1OzmdK1Ur) | 8:30 | 2023-12-13 | 2024-04-28 |
 | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/track/4dCYSSfMAwSmBhubwaMtgN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Ele É Jesus \(Ao Vivo\)](https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo) | 8:30 | 2024-04-29 | 2024-09-20 |
 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 | 2025-02-08 |  |
+| [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 | 2025-09-11 |  |
 | [Eu Quem Merecia](https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Eu Quem Merecia](https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib) | 5:50 | 2025-08-07 |  |
 | [Eu Quero Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/2Nb9mgW0c83TKElErV1hur) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Quero Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/7dgfrDeBKbyU8ExzdSbtcl) | 5:24 | 2023-07-09 | 2023-07-14 |
 | [Eu Sei que Não Estou Só](https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:38 | 2023-07-09 |  |

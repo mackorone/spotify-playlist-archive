@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,784 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,882 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 19 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
 | 20 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 21 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
-| 22 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
-| 23 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:05 |
+| 22 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:05 |
+| 23 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
 | 24 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 25 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 26 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 33 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 |
 | 34 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
 | 35 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 |
-| 36 | [Stand by Me](https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S) | 4:02 |
-| 37 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 |
+| 36 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 |
+| 37 | [Stand by Me](https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S) | 4:02 |
 | 38 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 |
 | 39 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 | 40 | [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 |

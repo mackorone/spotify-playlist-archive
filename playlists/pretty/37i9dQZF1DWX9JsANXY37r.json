@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122959,
+  "num_followers": 122989,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 122174,
+      "name": "test drive",
+      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
+    },
+    {
+      "added_at": "2025-07-11 05:44:01",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
-    },
-    {
-      "added_at": "2025-07-11 05:44:01",
-      "album": {
-        "name": "Positions (Deluxe)",
-        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 122174,
-      "name": "test drive",
-      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
     },
     {
       "added_at": "2025-07-11 05:44:01",

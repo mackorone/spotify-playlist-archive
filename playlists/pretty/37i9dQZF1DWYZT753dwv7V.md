@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,389 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,400 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 14 | [Svegliarsi la mattina](https://open.spotify.com/track/5b624K5Um6v06xqsi4ZvaN) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/2wiYReV8GJSCF9ElBAwdTk) | 3:44 |
 | 15 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
 | 16 | [Si può dare di più](https://open.spotify.com/track/6A6IKSCtwa2pWcpOyphwSO) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr), [Enrico Ruggeri](https://open.spotify.com/artist/74GAIbV9WqMEciQF9kgZYj), [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo & I Grandi Successi](https://open.spotify.com/album/7ISN6E5w5k67GyqpW3IhoD) | 4:27 |
-| 17 | [Cosa Resterà Degli Anni 80](https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Cosa resterà degli anni 80](https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa) | 5:12 |
+| 17 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
 | 18 | [Vita spericolata](https://open.spotify.com/track/5YO49mM0oCaAeU6y4Hwziw) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Sarà migliore](https://open.spotify.com/album/5ky21JmYFnnPcmhJJ7agLM) | 4:43 |
-| 19 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
+| 19 | [Cosa Resterà Degli Anni 80](https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Cosa resterà degli anni 80](https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa) | 5:12 |
 | 20 | [Nel blu dipinto di blu](https://open.spotify.com/track/1y1q6D6BnSPntMeTmq15rh) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Collection: Domenico Modugno](https://open.spotify.com/album/34u4wOfIl7rteIkZxJEu20) | 3:36 |
 | 21 | [Dove Si Balla](https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [NEI SOGNI NESSUNO È MONOGAMO](https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e) | 3:18 |
 | 22 | [Vattene amore \(feat\. Amedeo Minghi\)](https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L) | [Mietta](https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP), [Amedeo Minghi](https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ) | [Canzoni](https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs) | 4:01 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 39 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
 | 41 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
-| 42 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
-| 43 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
+| 42 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
+| 43 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
 | 44 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
 | 45 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
-| 46 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
-| 47 | [Non E' L'Inferno](https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Sarò Libera \(Sanremo Edition\)](https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT) | 3:45 |
+| 46 | [Non E' L'Inferno](https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Sarò Libera \(Sanremo Edition\)](https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT) | 3:45 |
+| 47 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
 | 48 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
 | 49 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
 | 50 | [Ti regalerò una rosa](https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Dall'altra parte del cancello](https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw) | 3:48 |

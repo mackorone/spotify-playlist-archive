@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/p/DOJdzu7Dits/?igsh=NTc4MTIwNjQ2YQ==">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,530 likes - 160 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,469 likes - 160 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Box Me Up \(feat\. Jelly Roll\)](https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:53 |
-| 2 | [Good News](https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:19 |
+| 1 | [Good News](https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:19 |
+| 2 | [24/7 \(feat\. Ink\)](https://open.spotify.com/track/4zLSN6kmgyLcxFrk7KH9rR) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:39 |
 | 3 | [safe&sound](https://open.spotify.com/track/4rXTf33YpKgW6dUaCCix3d) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [safe&sound](https://open.spotify.com/album/498G3DcCb1NtieGRW00j9w) | 3:38 |
 | 4 | [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 |
 | 5 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 54 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 55 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 |
 | 56 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
-| 57 | [I'm your first](https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE) | 2:54 |
-| 58 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
-| 59 | [24/7 \(feat\. Ink\)](https://open.spotify.com/track/4zLSN6kmgyLcxFrk7KH9rR) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:39 |
+| 57 | [Why Why](https://open.spotify.com/track/4zgUOjpuMgolNDRxwQDaKY) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Why Why](https://open.spotify.com/album/0Fh7cxMOkonvxdPJzxMBkp) | 3:25 |
+| 58 | [I'm your first](https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE) | 2:54 |
+| 59 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
 | 60 | [Believe](https://open.spotify.com/track/1NFoiN49PDuBXtUHdNbbDs) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Believe](https://open.spotify.com/album/4Ja7hIWc5OM23OygWQ7zLA) | 4:42 |
-| 61 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/5n0vXFZuWwPqFFcBe8qvA2) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:15 |
-| 62 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
-| 63 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
-| 64 | [crossfaded](https://open.spotify.com/track/0MnaVyOBE47wNiRDHBW8kD) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [I Love Nali](https://open.spotify.com/album/3bPF5QY7iX3RGJqTWwN8iy) | 2:10 |
-| 65 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
+| 61 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
+| 62 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
+| 63 | [crossfaded](https://open.spotify.com/track/0MnaVyOBE47wNiRDHBW8kD) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [I Love Nali](https://open.spotify.com/album/3bPF5QY7iX3RGJqTWwN8iy) | 2:10 |
+| 64 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
+| 65 | [Coffee n Cream](https://open.spotify.com/track/0PkjNpvZGnu2s4mAr0cQoT) | [Danny Junior](https://open.spotify.com/artist/53QwRmdxYni7sTvtqiDvi4) | [Coffee n Cream](https://open.spotify.com/album/2CD9o0h20Y2zMNbTz2Fzaj) | 2:33 |
 | 66 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 |
 | 67 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 68 | [DIAMONDS FOR YOUR PAIN](https://open.spotify.com/track/6QBQ8IiJC47SHuG7omEub0) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 1:28 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 159 | [97 Jag](https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:49 |
 | 160 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
 
-Snapshot ID: `AAAAAKJHyAnUcDQn6wn8hOphnYEi+tdR`
+Snapshot ID: `AAAAAJbnVHF1NTRfPCVtCWpWWqACakzo`

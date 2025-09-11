@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,599 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,637 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 35 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
 | 36 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 37 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
-| 38 | [On The Red River](https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:41 |
-| 39 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
-| 40 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 |
-| 41 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 |
+| 38 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
+| 39 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 |
+| 40 | [On The Red River](https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:41 |
+| 41 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 |
 | 42 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
 | 43 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
 | 44 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 69 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 |
 | 70 | [Worry 'Bout My Wandering](https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering \(Love Me Back\)](https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE) | 3:06 |
 | 71 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 |
-| 72 | [Jersey Giant](https://open.spotify.com/track/1oJlSoI4K4nMZXioXfJyf3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Country Covers](https://open.spotify.com/album/3inAoKD50LFy6Y5PWZCH8N) | 3:18 |
-| 73 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
+| 72 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
+| 73 | [Jersey Giant](https://open.spotify.com/track/1oJlSoI4K4nMZXioXfJyf3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Country Covers](https://open.spotify.com/album/3inAoKD50LFy6Y5PWZCH8N) | 3:18 |
 | 74 | [Daytona Sand](https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:15 |
 | 75 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
 | 76 | [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 5:34 |
-| 77 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
-| 78 | [Loretta](https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9) | 2:28 |
+| 77 | [Loretta](https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9) | 2:28 |
+| 78 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
 | 79 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
 | 80 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 

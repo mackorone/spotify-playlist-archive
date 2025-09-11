@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 766215,
+  "num_followers": 766493,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 167285,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
         "name": "El Que Se Enamora Pierde",
         "url": "https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 144868,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
-        "name": "Se Me Olvida",
-        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 167285,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
     },
     {
       "added_at": "2025-08-29 21:24:52",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 192523,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 192523,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
     },
     {
       "added_at": "2025-08-29 21:24:52",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
-        "name": "ME DUELE TU TRAICI\u00d3N",
-        "url": "https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 212027,
-      "name": "ME DUELE TU TRAICI\u00d3N",
-      "url": "https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
         "name": "Trilog\u00eda: 1er acto",
         "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
@@ -1095,6 +1071,30 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
+        "name": "ME DUELE TU TRAICI\u00d3N",
+        "url": "https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 212027,
+      "name": "ME DUELE TU TRAICI\u00d3N",
+      "url": "https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
         "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
-        "name": "A veces, a besos",
-        "url": "https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        },
-        {
-          "name": "Aneley",
-          "url": "https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ"
-        }
-      ],
-      "duration_ms": 198277,
-      "name": "A veces, a besos",
-      "url": "https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 331160,
       "name": "Ramito de violetas",
       "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
+        "name": "A veces, a besos",
+        "url": "https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        },
+        {
+          "name": "Aneley",
+          "url": "https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ"
+        }
+      ],
+      "duration_ms": 198277,
+      "name": "A veces, a besos",
+      "url": "https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ"
     },
     {
       "added_at": "2025-08-29 21:24:52",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
         "name": "La \u00daltima Granada (DQV Premium)",
         "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 182532,
       "name": "La \u00daltima Granada (DQV Premium)",
       "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2025-08-29 21:24:52",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
+        "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
+        "url": "https://open.spotify.com/album/26xqJNDKQXuWBAn5B1cfBW"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 291393,
+      "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
+      "url": "https://open.spotify.com/track/35Tg0oVEBdJFYxaxRM0AHJ"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
         "name": "Esta de Moda",
         "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
       },
@@ -1711,22 +1731,6 @@
       "duration_ms": 204382,
       "name": "Lo Aprend\u00ed de Ti",
       "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
-        "name": "Lindo Dia",
-        "url": "https://open.spotify.com/album/2mI8BfJebGfU2uxDwh16XJ"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 198485,
-      "name": "Lindo Dia",
-      "url": "https://open.spotify.com/track/6UcRwLTiBZ4gp2n68pHXlD"
     },
     {
       "added_at": "2025-08-29 21:24:52",
@@ -1787,6 +1791,22 @@
     {
       "added_at": "2025-08-29 21:24:52",
       "album": {
+        "name": "Lindo Dia",
+        "url": "https://open.spotify.com/album/2mI8BfJebGfU2uxDwh16XJ"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 198485,
+      "name": "Lindo Dia",
+      "url": "https://open.spotify.com/track/6UcRwLTiBZ4gp2n68pHXlD"
+    },
+    {
+      "added_at": "2025-08-29 21:24:52",
+      "album": {
         "name": "Loca de Amor - Vestido Azul",
         "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 366368,
       "name": "Loca de Amor - Vestido Azul",
       "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
-    },
-    {
-      "added_at": "2025-08-29 21:24:52",
-      "album": {
-        "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
-        "url": "https://open.spotify.com/album/26xqJNDKQXuWBAn5B1cfBW"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 291393,
-      "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
-      "url": "https://open.spotify.com/track/35Tg0oVEBdJFYxaxRM0AHJ"
     },
     {
       "added_at": "2025-08-29 21:24:52",

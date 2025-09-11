@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,988 likes - 122 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,356 likes - 122 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solas](https://open.spotify.com/track/4PnctK3MDbzpLKYiHN47uQ) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Solas](https://open.spotify.com/album/6z3C07lnFGTx60hq8IUq3y) | 3:12 |
 | 2 | [Le Carrousel](https://open.spotify.com/track/3ymiJSBhhDQd5qa3ULJT2H) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Le Carrousel](https://open.spotify.com/album/06Wctde7XvxhijJKZ2EdsX) | 1:56 |
-| 3 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 |
+| 3 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR), [Sara Kawai](https://open.spotify.com/artist/1umhlU8WUwF8leg9QZtRqp) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 |
 | 4 | [Alice](https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv) | 2:44 |
 | 5 | [Almost forgot that this was the whole point \- Take my Hand Instrumental](https://open.spotify.com/track/5WyeHnhVm4vIRxo6R7yghd) | [AntonioVivald](https://open.spotify.com/artist/7qFqo0wbAJSGPiP115Z0lT) | [Almost forgot that this was the whole point \(Take my Hand Instrumental\)](https://open.spotify.com/album/7xsS2To8lfCppMpdZ6xSCa) | 1:31 |
 | 6 | [The Ellie Badge](https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:30 |

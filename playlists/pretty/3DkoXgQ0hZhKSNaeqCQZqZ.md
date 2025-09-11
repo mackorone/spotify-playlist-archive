@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 689 likes - 368 songs - 19 hr 18 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 691 likes - 368 songs - 19 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

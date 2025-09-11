@@ -1,6 +1,6 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1421480,
+  "num_followers": 1421422,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 197933,
       "name": "I Took A Pill In Ibiza - Seeb Remix",
       "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1139,22 +1155,6 @@
       "duration_ms": 212733,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "When It's Dark Out",
+        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Me, Myself & I",
+      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 245866,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "When It's Dark Out",
-        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Me, Myself & I",
-      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "It Ain't Me (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 220780,
-      "name": "It Ain't Me (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "It Ain't Me (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 220780,
+      "name": "It Ain't Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 201000,
       "name": "Play Hard (feat. Ne-Yo & Akon)",
       "url": "https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2024-05-26 16:29:14",

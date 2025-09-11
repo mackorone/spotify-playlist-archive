@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 169902,
       "name": "BTDT (Been There Done That)",
       "url": "https://open.spotify.com/track/2jJHEFJG33RYeVhCZEbZ8u"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 156116,
       "name": "coffee",
       "url": "https://open.spotify.com/track/5kDfr6gBG4ygrk4KOufFzW"
@@ -2355,6 +2355,32 @@
     },
     {
       "album": {
+        "name": "Kanwal",
+        "url": "https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Kanwal",
+      "url": "https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI"
+    },
+    {
+      "album": {
         "name": "Karde Karam Tu (From \"Parwarish\")",
         "url": "https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg"
       },
@@ -3126,7 +3152,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 169200,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT"

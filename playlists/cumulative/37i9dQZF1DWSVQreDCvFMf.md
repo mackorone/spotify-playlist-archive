@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine Berdin
 
-515 songs - 1 day 8 hr 11 min
+516 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Panaginip Ko](https://open.spotify.com/track/1xZwIbyfN6WXouzprW4CqR) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Panaginip Ko](https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD) | 3:42 | 2024-07-02 | 2024-08-03 |
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-19 | 2024-11-09 |
 | [Panghahawakan](https://open.spotify.com/track/6jkoiKknPuUQE1ajQ1CG92) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [Panghahawakan](https://open.spotify.com/album/1AscvKanWKKgDWz7Y96d3L) | 6:53 | 2025-01-31 | 2025-04-16 |
+| [Paniwalaan](https://open.spotify.com/track/3IAiANECnJXbojMlUvDaco) | [LEYO](https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg) | [Paniwalaan](https://open.spotify.com/album/4UPXrnoHel030dAdJaYp3o) | 3:19 | 2025-09-10 |  |
 | [Pano Bang Mag\-Isa](https://open.spotify.com/track/2V9MQ0cEimWU1Hz2gkxfNs) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Pano Bang Mag\-Isa](https://open.spotify.com/album/6Z61fbj0rhVg7fq1f9mJ9B) | 3:36 | 2025-08-08 |  |
 | [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 | 2024-07-02 | 2024-07-19 |
 | [PARA](https://open.spotify.com/track/0zMy7SVJg5vGBjmtI3nhdU) | [JoJo](https://open.spotify.com/artist/4m8hsULyuiNkAqHweun8he) | [PARA](https://open.spotify.com/album/1gXCHmMxsmCsSugOVOXXUx) | 2:42 | 2025-06-13 |  |

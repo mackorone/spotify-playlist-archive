@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,904 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,936 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 15 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
 | 16 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
 | 17 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 18 | [Vertigo](https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:59 |
-| 19 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 |
+| 18 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 |
+| 19 | [Vertigo](https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:59 |
 | 20 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 21 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 |
 | 22 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 |
-| 23 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
-| 24 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
+| 23 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
+| 24 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 25 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 |
 | 26 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
 | 27 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 30 | [Lost The Breakup](https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 |
 | 31 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 32 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
-| 33 | [Habit](https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Habit](https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq) | 3:00 |
-| 34 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 33 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 34 | [Habit](https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Habit](https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq) | 3:00 |
 | 35 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
 | 36 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 |
 | 37 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 50 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
 | 51 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
 | 52 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
-| 53 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
+| 53 | [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 |
 | 54 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 | 55 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
-| 56 | [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 |
+| 56 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
 | 57 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:53 |
 | 58 | [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 |
 | 59 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 61 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
 | 62 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
 | 63 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
-| 64 | [Ain't Just a Game](https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Ain't Just a Game](https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB) | 2:43 |
-| 65 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |
+| 64 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |
+| 65 | [Ain't Just a Game](https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Ain't Just a Game](https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB) | 2:43 |
 | 66 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 67 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 |
 | 68 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |

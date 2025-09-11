@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Olivia Dean
 
-2,382 songs - 5 day 8 hr 4 min
+2,383 songs - 5 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1284,7 +1284,7 @@
 | [Made Me a Man](https://open.spotify.com/track/3upOe7HfDqa3Q9PKdd9eKs) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGICMAN 2](https://open.spotify.com/album/2oG5VfrcnXl0jZp8i2kYSB) | 3:15 | 2025-07-18 | 2025-08-30 |
 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 | 2023-11-10 | 2024-01-13 |
 | [magic](https://open.spotify.com/track/02cnKY1iCTP2qp2VRYPJ00) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [magic](https://open.spotify.com/album/7yKJY3opymgCgsoAFBrami) | 2:55 | 2025-01-31 | 2025-03-29 |
-| [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 | 2025-07-11 |  |
+| [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 | 2025-07-11 | 2025-09-11 |
 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 | 2022-10-07 | 2022-10-15 |
 | [Magnificent](https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz) | 4:28 | 2022-03-11 | 2022-07-23 |
 | [make it out](https://open.spotify.com/track/7sJZJa69ca0pWp13Fkgo3M) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [make it out](https://open.spotify.com/album/2eJ6iKieVITZqjcISYF3X4) | 3:33 | 2021-11-20 | 2022-04-16 |
@@ -2039,6 +2039,7 @@
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-09-22 | 2025-02-08 |
 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 | 2023-02-24 | 2023-06-17 |
 | [The Deep](https://open.spotify.com/track/1UMuiAfpPGMxWxTebEcpjl) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [The Deep](https://open.spotify.com/album/6ogXDSChlwVapSUMZ1aRYf) | 3:52 | 2021-08-28 | 2021-09-11 |
+| [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 | 2025-09-10 |  |
 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-22 | 2024-03-09 |
 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 | 2022-04-22 | 2022-04-29 |
 | [The Garden](https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe) | 3:16 | 2025-03-07 | 2025-04-19 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: kurayamisaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,960 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,027 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [](https://open.spotify.com/album/null) | 3:58 |
+| 1 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 2 | [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 |
 | 3 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
 | 4 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 20 | [リライト](https://open.spotify.com/track/19I5ZcQ9LfLStcGLR73kpB) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [Single Collection](https://open.spotify.com/album/6Ww4VDP3LxDFoMPZ0NzyW1) | 3:46 |
 | 21 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 |
 | 22 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 |
-| 23 | [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 23 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
 | 24 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
 | 25 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
 | 26 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |

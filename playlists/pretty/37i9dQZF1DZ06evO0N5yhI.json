@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 137965,
+  "num_followers": 137999,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAD6OyVk2fDQaJk3qT4yyP2Q",
+  "snapshot_id": "aL9uAAAAAABckiNsR46YC64iSc+ETaKX",
   "tracks": [
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
         }
       ],
-      "duration_ms": 166133,
-      "name": "It'll All Work Out (Bonus Track)",
-      "url": "https://open.spotify.com/track/0QTdNeshBSmLmpgHP7R5iV"
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
       "artists": [
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
         }
       ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+      "duration_ms": 166133,
+      "name": "It'll All Work Out (Bonus Track)",
+      "url": "https://open.spotify.com/track/0QTdNeshBSmLmpgHP7R5iV"
     },
     {
       "added_at": null,

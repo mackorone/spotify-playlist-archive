@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-560 songs - 1 day 9 hr 3 min
+561 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [how2fly](https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG) | 4:01 | 2024-05-31 |  |
 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-02 | 2024-08-17 |
 | [Hurts My Head](https://open.spotify.com/track/2yocJXz4SIzaWMAnH4KiP2) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Hurts My Head](https://open.spotify.com/album/0T4r4GFIHyK2N99K6CKi51) | 3:29 | 2025-07-25 | 2025-09-07 |
-| [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-24 |  |
+| [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-24 | 2025-09-11 |
 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-28 | 2025-09-07 |
 | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V) | 3:08 | 2024-01-08 | 2025-06-21 |
 | [I Don't Want To Feel This Way!](https://open.spotify.com/track/777ytpf2uFPQZFgT1iGc7O) | [Jonny Sum](https://open.spotify.com/artist/0OxVqyycCKHoJKWeuAmBOz) | [I Don't Want To Feel This Way!](https://open.spotify.com/album/4kMjiHH5W0868dxwDitBjA) | 5:25 | 2024-01-12 | 2024-01-27 |
@@ -239,6 +239,7 @@
 | [I Won't Hurt Anymore](https://open.spotify.com/track/5VUnXIbEAp8eg3qIuc8yui) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [I Wish I Could Fly](https://open.spotify.com/album/4e6yoPylOAs5Nt8lL1goMU) | 2:48 | 2025-06-06 | 2025-07-12 |
 | [I Won't Sleep](https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [I Won't Sleep](https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh) | 2:15 | 2025-05-30 | 2025-08-30 |
 | [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 | 2024-06-17 | 2024-07-16 |
+| [I'm Done](https://open.spotify.com/track/0gQcEtHlSEaXb40pdhFMki) | [Nofsky](https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC), [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [I'm Done](https://open.spotify.com/album/3hQF3Fy9WSmmXmUuxu0sWW) | 2:42 | 2025-09-06 |  |
 | [I'm Fine](https://open.spotify.com/track/5AoK7RPofkpTnMItx4MgtW) | [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [I'm Fine](https://open.spotify.com/album/49WnEBeYHobCEcwk68JgbD) | 2:02 | 2024-01-12 | 2024-05-04 |
 | [i'm hurting ! \(deja\-vu..\)](https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [i'm hurting ! \(deja\-vu..\)](https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh) | 2:56 | 2024-01-26 | 2024-07-27 |
 | [idwtwya](https://open.spotify.com/track/0xYF2Wq1PPIPG0hhNPOcef) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [idwtwya](https://open.spotify.com/album/6FDMavTlbAF69v2L8jEvbj) | 3:12 | 2024-06-28 | 2024-09-21 |

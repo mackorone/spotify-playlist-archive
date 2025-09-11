@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,383 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,683 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 17 | [WHY](https://open.spotify.com/track/2Ehx04k5p0pv0TbIwTb8Hl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:59 |
 | 18 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 19 | [Braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
-| 20 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 20 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 21 | [Ms\. Goody Two Shoes](https://open.spotify.com/track/7K9LVXkDmOQZ9aQnqGejqz) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 3:02 |
 | 22 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
 | 23 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
-| 24 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
+| 24 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 25 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |
 | 26 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 27 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |

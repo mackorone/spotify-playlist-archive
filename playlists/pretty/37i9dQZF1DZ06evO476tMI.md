@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,929 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,013 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
-| 2 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
+| 2 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
 | 3 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 4 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
 | 5 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
-| 6 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
+| 6 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 7 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
 | 8 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 |
 | 9 | [Didn't We Almost Have It All](https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:05 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 27 | [Heartbreak Hotel \(feat\. Faith Evans & Kelly Price\)](https://open.spotify.com/track/4J9u7UsXH7F6sFI32KnYuP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:41 |
 | 28 | [Step by Step](https://open.spotify.com/track/5dEBcymDDG9TUjJnAouOPp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:12 |
 | 29 | [Million Dollar Bill](https://open.spotify.com/track/78Liq9m8u6xjuamJIeznTd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:24 |
-| 30 | [Miracle](https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 5:42 |
-| 31 | [Hold Me \(with Teddy Pendergrass\)](https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 6:02 |
+| 30 | [Hold Me \(with Teddy Pendergrass\)](https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 6:02 |
+| 31 | [Miracle](https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 5:42 |
 | 32 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
 | 33 | [I Didn't Know My Own Strength](https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:39 |
 | 34 | [I Believe In You And Me \- Film Version](https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [You Light Up My Life](https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 3:41 |
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 5:12 |
 
-Snapshot ID: `aL4cgAAAAACdzqGuRAyMzZQw94W9ORtx`
+Snapshot ID: `aL9uAAAAAADSGjvTmyFwGiIcfS7geBwF`

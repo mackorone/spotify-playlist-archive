@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Exile Vilify",
+        "url": "https://open.spotify.com/album/4QeTvjDeHtoUrOnUT3WQp0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Koch",
+          "url": "https://open.spotify.com/artist/18ollZCK3SdM0u1PTUxCWz"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276243,
+      "name": "Exile Vilify",
+      "url": "https://open.spotify.com/track/3YThjC5YKDtMEJatrkpJ0F"
+    },
+    {
+      "album": {
         "name": "Sad Songs for Dirty Lovers (2021 Remaster)",
         "url": "https://open.spotify.com/album/1ajnGNtwwT0jwpOhDWHZzt"
       },
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 299840,
       "name": "Sorry Kid",
       "url": "https://open.spotify.com/track/4WkXkSKdcUgvBTNJenI7h1"
@@ -4914,7 +4932,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 316653,
       "name": "What A Day",
       "url": "https://open.spotify.com/track/19Z0f8sEwSRkUO42GBsZIW"

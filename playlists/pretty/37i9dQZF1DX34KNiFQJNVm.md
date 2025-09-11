@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Cabelinho, Natanzinho Lima, Hugo & Guilherme e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152,462 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,152,797 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

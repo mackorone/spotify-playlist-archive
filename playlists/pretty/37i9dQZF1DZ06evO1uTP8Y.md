@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,842 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,865 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
-| 2 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
-| 3 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 |
-| 4 | [Coffee \(Don't Read Signs\)](https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Coffee \(Don't Read Signs\)](https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh) | 2:41 |
+| 2 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
+| 3 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
+| 4 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 |
 | 5 | [London Summers](https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:37 |
-| 6 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
-| 7 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
+| 6 | [Coffee \(Don't Read Signs\)](https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Coffee \(Don't Read Signs\)](https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh) | 2:41 |
+| 7 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
 | 8 | [You, The World Vs Me](https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:03 |
 | 9 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
 | 10 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 48 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 |
 | 49 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
 
-Snapshot ID: `aL4cgAAAAAA8c21TbCJfrz5XjQ5PUPyP`
+Snapshot ID: `aL9uAAAAAAC5yWuB/sn7+O85TsH3upIW`

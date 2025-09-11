@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 51359,
+  "num_followers": 51416,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABT9gU0hCr+gXAwr1OIehy9",
+  "snapshot_id": "aL9uAAAAAADLRiv4JZmMRwDcggN5Bj9g",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 377026,
+      "name": "How Great Thou Art!",
+      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Savior",
         "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 261600,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 377026,
-      "name": "How Great Thou Art!",
-      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 300973,
-      "name": "Thirst For You",
-      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
+      "duration_ms": 288400,
+      "name": "Come Fill My Heart",
+      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 288400,
-      "name": "Come Fill My Heart",
-      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
+      "duration_ms": 300973,
+      "name": "Thirst For You",
+      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
     },
     {
       "added_at": null,

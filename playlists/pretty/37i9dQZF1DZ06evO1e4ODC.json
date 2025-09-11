@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 208217,
+  "num_followers": 208273,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAChXdZzZsVt7DAv5NSTXBbz",
+  "snapshot_id": "aL9uAAAAAADZreA9EWlM0gDmcaQSHheX",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 327653,
-      "name": "Sum\u00e9rgeme",
-      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
+      "duration_ms": 201946,
+      "name": "Te Dejo Ganar",
+      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
     },
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 201946,
-      "name": "Te Dejo Ganar",
-      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
+      "duration_ms": 327653,
+      "name": "Sum\u00e9rgeme",
+      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sencillos",
+        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Princesas M\u00e1gicas (magicas princesas) - En Vivo",
+      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Origen Y Esencia",
         "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 208920,
       "name": "Que Seas Mi Hogar (feat. Reyli Barba)",
       "url": "https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sencillos",
-        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Princesas M\u00e1gicas (magicas princesas) - En Vivo",
-      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Una Casa Vac\u00eda",
-      "url": "https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soplando Vida",
         "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 199546,
       "name": "Brilla",
       "url": "https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Una Casa Vac\u00eda",
+      "url": "https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Mundo Interior",
-      "url": "https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despi\u00e9rtame",
         "url": "https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 187735,
       "name": "Despi\u00e9rtame",
       "url": "https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Mundo Interior",
+      "url": "https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI"
     }
   ],
   "unique_name": "This Is Jes\u00fas Adri\u00e1n Romero",

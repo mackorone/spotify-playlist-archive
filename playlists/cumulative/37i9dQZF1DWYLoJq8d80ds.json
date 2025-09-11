@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 304916,
       "name": "Ahora Yo S\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/1LziykasUDYz1j1XlQBVHg"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 146200,
       "name": "Coraz\u00f3n de Lechiguana",
       "url": "https://open.spotify.com/track/40KKM026TAT4sPNCQ2lKJm"
@@ -636,6 +636,36 @@
       "duration_ms": 182622,
       "name": "Cuando Canto Chacarera",
       "url": "https://open.spotify.com/track/7hm9QgvT2CWFL8rLX21KSD"
+    },
+    {
+      "album": {
+        "name": "FAlklore",
+        "url": "https://open.spotify.com/album/7mc43gXXxBCJf85HFnOd9h"
+      },
+      "artists": [
+        {
+          "name": "Esto es \u00a1FA!",
+          "url": "https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn"
+        },
+        {
+          "name": "Mex Urtizberea",
+          "url": "https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175797,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/7cWYZCn0MmWtHghv3Q1wPh"
     },
     {
       "album": {
@@ -712,6 +742,36 @@
       "duration_ms": 197706,
       "name": "De ahicito",
       "url": "https://open.spotify.com/track/5u7lYW3VKzFI90N1NSAQzD"
+    },
+    {
+      "album": {
+        "name": "FAlklore",
+        "url": "https://open.spotify.com/album/7mc43gXXxBCJf85HFnOd9h"
+      },
+      "artists": [
+        {
+          "name": "Esto es \u00a1FA!",
+          "url": "https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn"
+        },
+        {
+          "name": "Mex Urtizberea",
+          "url": "https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI"
+        },
+        {
+          "name": "Cuti Carabajal",
+          "url": "https://open.spotify.com/artist/2wxP22uu9RzqeHT13xmHKu"
+        },
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200661,
+      "name": "Dejame Que Me Vaya",
+      "url": "https://open.spotify.com/track/5CQPwex2ApATxl2SXDOEyj"
     },
     {
       "album": {
@@ -874,7 +934,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 113736,
       "name": "El Bailongo en Lo del Rengo",
       "url": "https://open.spotify.com/track/4JbQUJ6o0M80Q3GgvL87is"
@@ -1076,7 +1136,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 186432,
       "name": "Es Tan Grande Este Amor",
       "url": "https://open.spotify.com/track/6Z4uK6bVC2XjJKXjTUobhr"
@@ -1727,6 +1787,32 @@
     },
     {
       "album": {
+        "name": "FAlklore",
+        "url": "https://open.spotify.com/album/7mc43gXXxBCJf85HFnOd9h"
+      },
+      "artists": [
+        {
+          "name": "Esto es \u00a1FA!",
+          "url": "https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn"
+        },
+        {
+          "name": "Mex Urtizberea",
+          "url": "https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185642,
+      "name": "La Pucha Con el Hombre",
+      "url": "https://open.spotify.com/track/3r8Jf4psEdZhq3Ojh62ST1"
+    },
+    {
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU"
       },
@@ -1906,7 +1992,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 127569,
       "name": "La Vieja",
       "url": "https://open.spotify.com/track/4oejqv8BCJUzPVQqovgiZs"
@@ -2244,7 +2330,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 179792,
       "name": "Mi Regreso",
       "url": "https://open.spotify.com/track/1CfwzL2EwovUSJk12fhNva"
@@ -2698,6 +2784,32 @@
       "duration_ms": 154066,
       "name": "Peregrinos",
       "url": "https://open.spotify.com/track/1hbWDP0Ek2g3IOkSfEaNvN"
+    },
+    {
+      "album": {
+        "name": "FAlklore",
+        "url": "https://open.spotify.com/album/7mc43gXXxBCJf85HFnOd9h"
+      },
+      "artists": [
+        {
+          "name": "Esto es \u00a1FA!",
+          "url": "https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn"
+        },
+        {
+          "name": "Mex Urtizberea",
+          "url": "https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI"
+        },
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222725,
+      "name": "Perfume de Carnaval",
+      "url": "https://open.spotify.com/track/1t7vK0NReGNAytsUMZG3M6"
     },
     {
       "album": {
@@ -3188,7 +3300,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 192743,
       "name": "Soy Como Soy - En Vivo",
       "url": "https://open.spotify.com/track/2ESj6yRY6zu8xKMUfnAqRE"
@@ -3406,7 +3518,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 195470,
       "name": "Un Mill\u00f3n de rosas",
       "url": "https://open.spotify.com/track/58hBuil2mZcMTotNdyYr8m"
@@ -3514,7 +3626,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 198371,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"

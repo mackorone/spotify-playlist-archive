@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1980s. Cover: Madonna",
-  "num_followers": 11673999,
+  "num_followers": 11675154,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "La Folie",
         "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 206760,
       "name": "Golden Brown",
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -903,18 +903,18 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -935,18 +935,18 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 329413,
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 212013,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 269696,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 269696,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Evolution: The Hits",
-        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
-      },
-      "artists": [
-        {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "You Spin Me Round (Like a Record)",
-      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 212226,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Bon Jovi",
         "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Kick (Remastered 2011)",
-        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
@@ -1751,34 +1735,18 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Caribbean Queen (No More Love On the Run)",
-      "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+      "duration_ms": 270080,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1799,6 +1767,22 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Caribbean Queen (No More Love On the Run)",
+      "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 408173,
       "name": "How Soon Is Now? - 2011 Remaster",
       "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 241066,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Part-Time Lover",
-      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 258665,
       "name": "All Night Long (All Night) - Single Version",
       "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -2167,18 +2151,18 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
       "artists": [
         {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 215326,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -2211,6 +2195,22 @@
       "duration_ms": 226826,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "added_at": "2025-07-11 11:22:30",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-07-11 11:22:30",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 266800,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM"
+    },
+    {
+      "added_at": "2025-07-11 11:22:30",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2025-07-11 11:22:30",

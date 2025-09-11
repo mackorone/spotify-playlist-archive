@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 889606,
+  "num_followers": 889677,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADp7ra2glAL0/huf8MCC7OD",
+  "snapshot_id": "aL9uAAAAAACS7JQQm9LLKzmzAHQ6soIg",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Turn Me On (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Turn Me On (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love (Remix)",
         "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 276080,
       "name": "No Love",
       "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202636,
+      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Love More (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2MDueMvPkUTpU6Xkmeinln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 162285,
       "name": "Holy Ground (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Love More (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2MDueMvPkUTpU6Xkmeinln"
     },
     {
       "added_at": null,

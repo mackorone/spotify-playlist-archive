@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Remembering Brent Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,302 likes - 200 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,943 likes - 200 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 104 | [Hatred](https://open.spotify.com/track/1S7pZAerfgfRVARfQ8eZgh) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 3:03 |
 | 105 | [Black Hole](https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Black Hole](https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB) | 2:59 |
 | 106 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 |
-| 107 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 |
+| 107 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 |
 | 108 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 |
 | 109 | [Alone Again](https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:48 |
 | 110 | [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 |

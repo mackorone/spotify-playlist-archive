@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,787 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,797 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 19 | [Excursiones](https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:14 |
 | 20 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 |
 | 21 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 |
-| 22 | [Somethin' Sweet](https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Somethin' Sweet](https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646) | 3:52 |
-| 23 | [Estoy Tocando Fondo](https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9) | 2:16 |
+| 22 | [Estoy Tocando Fondo](https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9) | 2:16 |
+| 23 | [Somethin' Sweet](https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Somethin' Sweet](https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646) | 3:52 |
 | 24 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 |
 | 25 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
-| 26 | [Esto Que Me Pasa](https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras](https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV) | 4:22 |
-| 27 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
+| 26 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
+| 27 | [Esto Que Me Pasa](https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras](https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV) | 4:22 |
 | 28 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 |
 | 29 | [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
 | 30 | [Arido Espejismo](https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Ibiza Pareo](https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla) | 4:10 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 56 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 |
 | 57 | [beso despedida](https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG) | [Ernestina](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [beso despedida](https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5) | 2:16 |
 | 58 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 |
-| 59 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
+| 59 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 |
 | 60 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
 | 61 | [I Belong To You](https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [I Belong To You](https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb) | 4:19 |
-| 62 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 |
+| 62 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
 | 63 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
 | 64 | [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 |
 | 65 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [general paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 96 | [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 |
 | 97 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
 | 98 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
-| 99 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 |
-| 100 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
+| 99 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 |
+| 100 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 |
 
 Snapshot ID: `AAAAAHv2kIdLptPZYqpqb8D2NCrR9u5k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,847 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,718 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 35 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 |
 | 36 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
 | 37 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
-| 38 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
-| 39 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 |
+| 38 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 |
+| 39 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
 | 40 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 |
 | 41 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
 | 42 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 64 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 |
 | 65 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 66 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
-| 67 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
+| 67 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
 | 68 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 69 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 |
 | 70 | [Welcome To Planet Motherfucker/ Psychoholic Slag](https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 6:21 |
 | 71 | [How The Gods Kill](https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig III: How The Gods Kill](https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53) | 5:56 |
 | 72 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
 | 73 | [Stone the Crow](https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 4:42 |
-| 74 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 |
+| 74 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 |
 | 75 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
 | 76 | [Bring Your Daughter..\. to the Slaughter \- 2015 Remaster](https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk) | 4:43 |
 | 77 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 11:15 |

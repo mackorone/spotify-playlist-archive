@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "All the songs with over 1 billion streams on Spotify. Cover: Jack Harlow & Jung Kook",
+  "description": "All the songs with over 1 billion streams on Spotify. Cover: Alex Warren",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -13109,6 +13109,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -13902,6 +13920,24 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235133,
+      "name": "Propuesta Indecente",
+      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
     },
     {
       "album": {

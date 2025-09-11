@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 218607,
+  "num_followers": 218719,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,42 @@
     {
       "added_at": "2025-05-13 13:17:03",
       "album": {
+        "name": "Palpita",
+        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Palpita",
+      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
+    },
+    {
+      "added_at": "2025-05-13 13:17:03",
+      "album": {
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 127802,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
+    },
+    {
+      "added_at": "2025-05-13 13:17:03",
+      "album": {
         "name": "Jagga Jatt (From \"Only Love Gets Reply\")",
         "url": "https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m"
       },
@@ -99,42 +135,6 @@
       "duration_ms": 225099,
       "name": "Jagga Jatt (From \"Only Love Gets Reply\")",
       "url": "https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO"
-    },
-    {
-      "added_at": "2025-05-13 13:17:03",
-      "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
-    },
-    {
-      "added_at": "2025-05-13 13:17:03",
-      "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
       "added_at": "2025-05-13 13:17:03",

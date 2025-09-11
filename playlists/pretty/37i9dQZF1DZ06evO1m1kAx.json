@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7538,
+  "num_followers": 7544,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADWxxLrPT7PHnJtmS3NVRqU",
+  "snapshot_id": "aL9uAAAAAAA99TQ/W63u30J8FXFZuGUL",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227970,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+      "duration_ms": 209789,
+      "name": "Implication",
+      "url": "https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq"
     },
     {
       "added_at": null,
@@ -187,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 209789,
-      "name": "Implication",
-      "url": "https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -212,13 +192,29 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Amaka (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
+      "duration_ms": 227970,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 253857,
+      "name": "Ihe Ne Me",
+      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
     },
     {
       "added_at": null,
@@ -243,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 253857,
-      "name": "Ihe Ne Me",
-      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
@@ -275,26 +255,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "[I.N.I.T] In Nasboi I Trust",
-        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
       "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Ashewo",
-      "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+      "duration_ms": 227683,
+      "name": "Amaka (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
     },
     {
       "added_at": null,
@@ -319,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
       "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 291960,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
+      "duration_ms": 184500,
+      "name": "Ashewo",
+      "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 218462,
+      "name": "Dance in the Rain",
+      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worry Me",
         "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 218462,
-      "name": "Dance in the Rain",
-      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Syemca",
+          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
         }
       ],
-      "duration_ms": 225827,
-      "name": "We Must Groove (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
+      "duration_ms": 184420,
+      "name": "Target You (feat. Syemca)",
+      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
     },
     {
       "added_at": null,
@@ -612,13 +612,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Syemca",
-          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 184420,
-      "name": "Target You (feat. Syemca)",
-      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+      "duration_ms": 225827,
+      "name": "We Must Groove (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realness Over Hype",
-        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
-      },
-      "artists": [
-        {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "See God",
-      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 288920,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realness Over Hype",
+        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "See God",
+      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 199650,
+      "name": "Suffer Head",
+      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 256417,
       "name": "Bother You (feat. Terry Da Rapman)",
       "url": "https://open.spotify.com/track/6YI8BQfLb1QdlTjB4lduCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "W.E.E.D.",
-        "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
-      },
-      "artists": [
-        {
-          "name": "Solidstar",
-          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
     }
   ],
   "unique_name": "This Is 2Baba",

@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25535,
+  "num_followers": 25537,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAD5CRzEQ/kefuFi9v/szWfZ",
+  "snapshot_id": "aL9uAAAAAACs/CtGiZmnyPk25y7ecTId",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Thank Ya",
-        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 227133,
-      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
-      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
+      "duration_ms": 262766,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
     },
     {
       "added_at": null,
@@ -263,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "I Wanna Thank Ya",
+        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 262766,
-      "name": "Think It Over",
-      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
+      "duration_ms": 227133,
+      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
+      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 237569,
-      "name": "2 Bad Habits",
-      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 248480,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 237569,
+      "name": "2 Bad Habits",
+      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 290093,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 269373,
       "name": "Happy Being Me",
       "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
     },
     {
       "added_at": null,
@@ -695,38 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Dollar Bill",
-      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Take Everything In",
-      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Human Stone (feat. Angie Stone)",
         "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
       },
@@ -747,6 +715,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Take Everything In",
+      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -759,42 +759,6 @@
       "duration_ms": 176426,
       "name": "Red, Red Wine",
       "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
-        }
-      ],
-      "duration_ms": 243641,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     },
     {
       "added_at": null,
@@ -819,6 +783,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+        }
+      ],
+      "duration_ms": 243641,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Backup Plan",
+        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 209345,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+      "duration_ms": 206800,
+      "name": "Backup Plan",
+      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Gangster And A Gentleman",
         "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
       },
@@ -883,30 +899,6 @@
       "duration_ms": 268693,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the id",
-        "url": "https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 295266,
-      "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
-      "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
     }
   ],
   "unique_name": "This Is Angie Stone",

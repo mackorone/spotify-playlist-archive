@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 853683,
+  "num_followers": 853900,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Acabei de Terminar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
+      },
+      "artists": [
+        {
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 223489,
+      "name": "Acabei de Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -679,22 +699,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Acabei de Terminar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
       },
       "artists": [
         {
-          "name": "Paulo e Nathan",
-          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
         }
       ],
-      "duration_ms": 223489,
-      "name": "Acabei de Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -715,22 +731,6 @@
       "duration_ms": 177067,
       "name": "Sogra - Ao Vivo",
       "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "SORRIA",
         "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 181122,
       "name": "SORRIA",
       "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Pra Ouvir Tomando uma 3, Vol. 1",
-        "url": "https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 144401,
-      "name": "Esse Barulho",
-      "url": "https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 342622,
       "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Pra Ouvir Tomando uma 3, Vol. 1",
+        "url": "https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 144401,
+      "name": "Esse Barulho",
+      "url": "https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "A Origem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 153374,
-      "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "\u00daltimo Beijo",
         "url": "https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 181279,
       "name": "\u00daltimo Beijo",
       "url": "https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "A Origem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 153374,
+      "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Clube Do Ara\u00fajo (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 155504,
+      "name": "Chave C\u00f3pia",
+      "url": "https://open.spotify.com/track/2AjPFi6CcjGXlvt1rkrDRD"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Conquistas (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
       },
@@ -1651,26 +1671,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Clube Do Ara\u00fajo (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 155504,
-      "name": "Chave C\u00f3pia",
-      "url": "https://open.spotify.com/track/2AjPFi6CcjGXlvt1rkrDRD"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Duetos (Ao Vivo)",
         "url": "https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 176426,
       "name": "Aquele 1% - Ao Vivo",
       "url": "https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "ME USA - Ao Vivo",
+      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1711,22 +1727,6 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "ME USA - Ao Vivo",
-      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",

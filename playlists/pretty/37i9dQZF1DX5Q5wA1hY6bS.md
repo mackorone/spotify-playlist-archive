@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386,854 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386,650 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 54 | [Caesar Knows](https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Caesar Knows](https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG) | 2:36 |
 | 55 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 |
 | 56 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
-| 57 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
-| 58 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
+| 57 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
+| 58 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
 | 59 | [People Talking](https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ) | [Robert John Ardiff](https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7) | [Between the Bed and Room](https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6) | 3:56 |
 | 60 | [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 |
 | 61 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 66 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
 | 67 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
 | 68 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
-| 69 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
-| 70 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 69 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 70 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 71 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
 | 72 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 73 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 85 | [Not Like It Was](https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Not Like It Was](https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT) | 2:55 |
 | 86 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
 | 87 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
-| 88 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
-| 89 | [Lovely](https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey) | [Lauren Jones](https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va) | [Lovely](https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R) | 3:45 |
+| 88 | [Lovely](https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey) | [Lauren Jones](https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va) | [Lovely](https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R) | 3:45 |
+| 89 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
 | 90 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
 | 91 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 |
 | 92 | [Hellfire](https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 4:02 |
-| 93 | [See You Through](https://open.spotify.com/track/0cKIRmig7MRxQm2MqrPQF8) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [See You Through](https://open.spotify.com/album/353tLGGcwv0kloIVqZ1Jbx) | 2:41 |
+| 93 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |
 | 94 | [Green Eyes](https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 2\)](https://open.spotify.com/album/1tfYtFAuSgcFAyzDqKfCxx) | 3:55 |
-| 95 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |
+| 95 | [See You Through](https://open.spotify.com/track/0cKIRmig7MRxQm2MqrPQF8) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [See You Through](https://open.spotify.com/album/353tLGGcwv0kloIVqZ1Jbx) | 2:41 |
 | 96 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 |
 | 97 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 |
 | 98 | [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 |
-| 99 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 |
-| 100 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 |
+| 99 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 |
+| 100 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 |
 
 Snapshot ID: `AAAAAEQRqPDOswo/kBNmC52vHIJojk/Z`

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 87830,
+  "num_followers": 88028,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAATwS+Rtz6zJ0Q0B3J1qziJ",
+  "snapshot_id": "aL9uAAAAAAAVQppo9LJ6Ag6s6E29yAOE",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Arit",
+          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
+        }
+      ],
+      "duration_ms": 219334,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -87,50 +111,6 @@
       "duration_ms": 258782,
       "name": "KGL's",
       "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poesia Ac\u00fastica",
-        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
-        },
-        {
-          "name": "Ducon",
-          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "Diomedes Chinaski",
-          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Kayu\u00e1",
-          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 471767,
-      "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/6gFQhcUOhNXaq965kYEdsH"
     },
     {
       "added_at": null,
@@ -183,6 +163,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Diomedes Chinaski",
+          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 471767,
+      "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/6gFQhcUOhNXaq965kYEdsH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -207,34 +231,6 @@
       "duration_ms": 197738,
       "name": "BOM TE ENCONTRAR",
       "url": "https://open.spotify.com/track/53CRI0JkpJywRu7tvNVWj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F**K SONGS",
-        "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "T\u00c1 TARDE",
-      "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
     },
     {
       "added_at": null,
@@ -291,6 +287,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "F**K SONGS",
+        "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 200586,
+      "name": "T\u00c1 TARDE",
+      "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -315,6 +339,34 @@
       "duration_ms": 203520,
       "name": "N\u00e3o Me Abandona",
       "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "FYE",
+          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 265311,
+      "name": "Te Devo Nada",
+      "url": "https://open.spotify.com/track/3XOjmBsIytUuXfqP73E1qK"
     },
     {
       "added_at": null,
@@ -371,34 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "FYE",
-          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 265311,
-      "name": "Te Devo Nada",
-      "url": "https://open.spotify.com/track/3XOjmBsIytUuXfqP73E1qK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -447,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Amores, V\u00edcios e Obsess\u00f5es",
-      "url": "https://open.spotify.com/track/7DFIPUWRKwOB8RWky8ELq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -483,6 +487,26 @@
       "duration_ms": 153898,
       "name": "Am\u00e9m, Am\u00e9m",
       "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Amores, V\u00edcios e Obsess\u00f5es",
+      "url": "https://open.spotify.com/track/7DFIPUWRKwOB8RWky8ELq8"
     },
     {
       "added_at": null,
@@ -539,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 220218,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -567,30 +615,6 @@
       "duration_ms": 201190,
       "name": "Dispiei",
       "url": "https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 220218,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
     },
     {
       "added_at": null,
@@ -1075,30 +1099,6 @@
       "duration_ms": 186806,
       "name": "O Pr\u00f3ximo Nascer do Sol",
       "url": "https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Arit",
-          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
-        }
-      ],
-      "duration_ms": 219334,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
     },
     {
       "added_at": null,

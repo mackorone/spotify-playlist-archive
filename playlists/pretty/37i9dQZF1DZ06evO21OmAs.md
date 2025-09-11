@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 > This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,015 likes - 33 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,017 likes - 33 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 14 | [.](https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 2:46 |
 | 15 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
 | 16 | [i need to be alone.](https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i need to be alone.](https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY) | 2:56 |
-| 17 | [dead girl in the pool.](https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [dead girl in the pool.](https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo) | 3:06 |
+| 17 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 |
 | 18 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 |
-| 19 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 |
+| 19 | [dead girl in the pool.](https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [dead girl in the pool.](https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo) | 3:06 |
 | 20 | [Too Much](https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 3:03 |
 | 21 | [say anything](https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [say anything](https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL) | 2:22 |
 | 22 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 32 | [Phantom Pain](https://open.spotify.com/track/2X05EASOuBv6aRQRJoGI1i) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:51 |
 | 33 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
 
-Snapshot ID: `aL4cgAAAAAD+b/UILVmO89h7h+C71D5n`
+Snapshot ID: `aL9uAAAAAACHa/+eYlMnybxm3e9hYlSi`

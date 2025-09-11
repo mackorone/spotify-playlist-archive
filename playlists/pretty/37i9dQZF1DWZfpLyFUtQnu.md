@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,477 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,543 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 35 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
 | 36 | [Aimer à perdre la raison](https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat chante Aragon, l'intégrale](https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA) | 2:21 |
 | 37 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
-| 38 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
+| 38 | [La tendresse](https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [La Tendresse](https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd) | 2:17 |
 | 39 | [Voilà c'est fini](https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Bleu Blanc Vert](https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE) | 5:08 |
-| 40 | [La tendresse](https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [La Tendresse](https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd) | 2:17 |
+| 40 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
 | 41 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 |
 | 42 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
 | 43 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
-| 44 | [Belle\-Île\-en\-Mer, Marie\-Galante](https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 3:31 |
-| 45 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 |
+| 44 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 |
+| 45 | [Belle\-Île\-en\-Mer, Marie\-Galante](https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 3:31 |
 | 46 | [Le tourbillon de la vie](https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:59 |
 | 47 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 |
 | 48 | [Sur un prélude de Bach](https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if) | [Ami Ou Ennemi](https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU) | 4:50 |

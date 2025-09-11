@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,396 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,405 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 21 | [mi refe](https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:39 |
 | 22 | [Amor Escondido](https://open.spotify.com/track/5kK8aTkR4QGcUx3UiVmOqA) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Los Galácticos](https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3) | 2:59 |
 | 23 | [WHISKY A LA ROCA](https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [WHISKY A LA ROCA](https://open.spotify.com/album/4vBWyx2dQhl4dYSpbAXSu1) | 2:39 |
-| 24 | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr) | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/album/3W3S0gSwBs27p6bE64BxHo) | 3:00 |
+| 24 | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/album/3W3S0gSwBs27p6bE64BxHo) | 3:00 |
 | 25 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
 | 26 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
 | 27 | [2x1](https://open.spotify.com/track/4Vl4Ljum5W4v8w8EiqWTHA) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [2x1](https://open.spotify.com/album/0t69d0sRxg05svWNU3f0v4) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Cosa Linda](https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:30 |
 | 50 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 |
 
-Snapshot ID: `MFOYIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFTpoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

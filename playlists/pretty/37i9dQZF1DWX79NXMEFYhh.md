@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,889 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,882 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 39 | [High For This](https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:07 |
 | 40 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 |
 | 41 | [Paradise](https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Paradise \- EP](https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S) | 4:16 |
-| 42 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 |
-| 43 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 42 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 43 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 |
 | 44 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 |
 | 45 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 46 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |

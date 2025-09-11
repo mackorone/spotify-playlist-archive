@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>Lady Gaga\)
 
-632 songs - 1 day 10 hr 2 min
+633 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 | 2025-04-18 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2024-12-20 |
 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 | 2025-06-12 | 2025-07-25 |
+| [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 | 2025-09-09 |  |
 | [Don't Panic](https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A New Best Friend](https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO) | 1:50 | 2025-02-14 | 2025-03-28 |
 | [don't tell me i'm going to hell](https://open.spotify.com/track/2evOGNgFQEAhArKH7R8sWv) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [don't tell me that i'm going to hell](https://open.spotify.com/album/12m4XCBwjeQ3wXb2EjXCq1) | 3:49 | 2024-06-28 | 2024-07-27 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2024-08-12 | 2024-11-01 |

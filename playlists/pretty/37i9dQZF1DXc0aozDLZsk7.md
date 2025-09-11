@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,544 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,577 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 45 | [Vallabye](https://open.spotify.com/track/6sVOnLeDHmx5qW6uFbcnx3) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR), [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Vallabye](https://open.spotify.com/album/27XZO4X2PaICoN0Z8BxYSS) | 3:53 |
 | 46 | [The Use In Trying](https://open.spotify.com/track/5ntlf6H1CTaqmZWbRgr0y8) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Use In Trying](https://open.spotify.com/album/6bQhy4kKZbZ1yZjXhuO2Lm) | 3:12 |
 | 47 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
-| 48 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 |
-| 49 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
+| 48 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
+| 49 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 |
 | 50 | [All This Love](https://open.spotify.com/track/10unIjOu5Jurco3SDbV4HZ) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:13 |
 | 51 | [Falling Up](https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Falling Up](https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud) | 3:26 |
 | 52 | [Tough](https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Tough](https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT) | 3:49 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 71 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 |
 | 72 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
 | 73 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 |
-| 74 | [Starships \- Acoustic Version](https://open.spotify.com/track/4PGdU6yyUM4GSdLe6tUiNT) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Starships \(Acoustic Version\)](https://open.spotify.com/album/619LYsYlwIWumLb0lun7dK) | 3:26 |
-| 75 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
-| 76 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
-| 77 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
+| 74 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
+| 75 | [Starships \- Acoustic Version](https://open.spotify.com/track/4PGdU6yyUM4GSdLe6tUiNT) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Starships \(Acoustic Version\)](https://open.spotify.com/album/619LYsYlwIWumLb0lun7dK) | 3:26 |
+| 76 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
+| 77 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 78 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
 | 79 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
 | 80 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 |

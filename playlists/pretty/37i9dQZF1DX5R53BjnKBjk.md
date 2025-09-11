@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,960 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,966 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 38 | [Brisa](https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Brisa](https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME) | 3:31 |
 | 39 | [tudo que eu faço](https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3) | [Rô](https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ) | [tudo que eu faço](https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219) | 2:23 |
 | 40 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 |
-| 41 | [Surrender!](https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Surrender!](https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x) | 3:09 |
-| 42 | [Amor de Sonhos](https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Amor de Sonhos](https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI) | 2:37 |
+| 41 | [Amor de Sonhos](https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Amor de Sonhos](https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI) | 2:37 |
+| 42 | [Surrender!](https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Surrender!](https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x) | 3:09 |
 | 43 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 |
 | 44 | [Voraz](https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Voraz](https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw) | 2:11 |
 | 45 | [Se Eu Te Ver de Novo](https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c) | [Góbi](https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos), [Bianca Rhoden](https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI) | [Maçã do Amor](https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa) | 4:35 |
-| 46 | [Não Complica](https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [Não Complica](https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ) | 2:41 |
-| 47 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 |
+| 46 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 |
+| 47 | [Não Complica](https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [Não Complica](https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ) | 2:41 |
 | 48 | [De repente você](https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN) | [Marta Maria](https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H) | [De repente você](https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC) | 2:40 |
 | 49 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 |
 | 50 | [Jacquemus](https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6) | [TOLENTINO](https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ) | [Jacquemus](https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45) | 2:33 |

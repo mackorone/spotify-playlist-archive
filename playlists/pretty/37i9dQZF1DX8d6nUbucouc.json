@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 62550,
+  "num_followers": 62586,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Fresku",
+        "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "duration_ms": 315893,
+      "name": "Twijfel",
+      "url": "https://open.spotify.com/track/2lT07B7yj0XFXdmeZJup7C"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Freddy & Bundy",
         "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 164875,
       "name": "Bijna",
       "url": "https://open.spotify.com/track/4eVOPP0rkxpyYDWdPqP7Rs"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Fresku",
-        "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
-      },
-      "artists": [
-        {
-          "name": "Fresku",
-          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
-        }
-      ],
-      "duration_ms": 315893,
-      "name": "Twijfel",
-      "url": "https://open.spotify.com/track/2lT07B7yj0XFXdmeZJup7C"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Colucci Era (Standard version)",
-        "url": "https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0"
-      },
-      "artists": [
-        {
-          "name": "Fakkelbrigade",
-          "url": "https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Groen Gras",
-      "url": "https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 225693,
       "name": "Voor Dough",
       "url": "https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Colucci Era (Standard version)",
+        "url": "https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0"
+      },
+      "artists": [
+        {
+          "name": "Fakkelbrigade",
+          "url": "https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Groen Gras",
+      "url": "https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Ambiance",
-        "url": "https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC"
+        "name": "De Ark De Triomf",
+        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
       },
       "artists": [
         {
@@ -1160,13 +1160,13 @@
           "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
         },
         {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
         }
       ],
-      "duration_ms": 240170,
-      "name": "Ambiance",
-      "url": "https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j"
+      "duration_ms": 243760,
+      "name": "Ik Heb Je",
+      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Ark De Triomf",
-        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
+        "name": "Ambiance",
+        "url": "https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC"
       },
       "artists": [
         {
@@ -1276,13 +1276,13 @@
           "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
         },
         {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Ik Heb Je",
-      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
+      "duration_ms": 240170,
+      "name": "Ambiance",
+      "url": "https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Groeispurt",
-        "url": "https://open.spotify.com/album/5h3NZaXuW2Y4yHKE4REwVG"
-      },
-      "artists": [
-        {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
-        }
-      ],
-      "duration_ms": 232539,
-      "name": "Groeispurt",
-      "url": "https://open.spotify.com/track/7ybQ4HIwxVc1EH2htkDFUE"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Aap-O-Theek",
         "url": "https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 224346,
       "name": "Iemand Moet Het Doen",
       "url": "https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Groeispurt",
+        "url": "https://open.spotify.com/album/5h3NZaXuW2Y4yHKE4REwVG"
+      },
+      "artists": [
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        }
+      ],
+      "duration_ms": 232539,
+      "name": "Groeispurt",
+      "url": "https://open.spotify.com/track/7ybQ4HIwxVc1EH2htkDFUE"
     },
     {
       "added_at": "2024-09-09 11:56:35",

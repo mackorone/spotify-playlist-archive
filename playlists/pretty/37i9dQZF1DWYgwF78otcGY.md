@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,904 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,901 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 19 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
 | 20 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
 | 21 | [Mer av dig](https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp) | 2:44 |
-| 22 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
-| 23 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
+| 22 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
+| 23 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 24 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
 | 25 | [Where You Are \(Sávežan\)](https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jon Henrik Fjällgren](https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Where You Are \(Sávežan\)](https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE) | 2:56 |
 | 26 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |
-| 27 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 |
-| 28 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
+| 27 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
+| 28 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 |
 | 29 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 30 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 |
 | 31 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |

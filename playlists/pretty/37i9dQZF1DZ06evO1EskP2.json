@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2967,
+  "num_followers": 2968,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAuhJNfAhUQaYd1WbTPSA7r",
+  "snapshot_id": "aL9uAAAAAADJXTm2kU2qdauGVGfOg3Fe",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 203514,
       "name": "Mixed Feelings",
       "url": "https://open.spotify.com/track/2zJTDNNnwctkSYROKPXUyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Island Inside Me",
+      "url": "https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butterflies: Live",
         "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 273000,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/1cUzoEuPjVFowBl96Yttjy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Island Inside Me",
-      "url": "https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 267174,
-      "name": "Forever Summer",
-      "url": "https://open.spotify.com/track/6CncbrtpabSOB378tazFvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 210053,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 267174,
+      "name": "Forever Summer",
+      "url": "https://open.spotify.com/track/6CncbrtpabSOB378tazFvL"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 210978,
-      "name": "Ready and Willing",
-      "url": "https://open.spotify.com/track/6X4AtYTfJD3fDWuwL0ZEoL"
+      "duration_ms": 237424,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
       "duration_ms": 233877,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/1DgDzRESnccvc8ouaFlvNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 234004,
+      "name": "I Won't Settle",
+      "url": "https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "I Won't Settle",
-      "url": "https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 237424,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV"
+      "duration_ms": 210978,
+      "name": "Ready and Willing",
+      "url": "https://open.spotify.com/track/6X4AtYTfJD3fDWuwL0ZEoL"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 206240,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A10: Best of Anuhea",
         "url": "https://open.spotify.com/album/1YDTiycP1SilLdmMYc2nJv"
       },
@@ -651,38 +667,6 @@
       "duration_ms": 215700,
       "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
       "url": "https://open.spotify.com/track/5mGsLdpxK4AEIrIltjN5EV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 208200,
       "name": "Mr. Mellow",
       "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
     },
     {
       "added_at": null,

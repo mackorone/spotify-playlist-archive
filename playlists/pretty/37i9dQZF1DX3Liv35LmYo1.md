@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 10 | [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 |
 | 11 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 12 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
-| 13 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
-| 14 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
+| 13 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
+| 14 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
 | 15 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 16 | [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 |
 | 17 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |

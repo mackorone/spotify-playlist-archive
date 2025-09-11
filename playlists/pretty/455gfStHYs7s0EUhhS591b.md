@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,346 likes - 200 songs - 11 hr 54 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,341 likes - 201 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,6 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 198 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 | 199 | [Grow](https://open.spotify.com/track/6wLQJHoauNYAv8mhPis5pb) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Grow](https://open.spotify.com/album/2SDHfha3SMTWjBeOVE9YCh) | 3:36 |
 | 200 | [Kora](https://open.spotify.com/track/7jHFgSqTGmp8znQ7JOPvzM) | [Anthelix](https://open.spotify.com/artist/47hKZZ8qty3gj4uxTCzgS9) | [Kora](https://open.spotify.com/album/3mXqrjDGNvZd1dnVKNsGhY) | 3:25 |
+| 201 | [Most Precious Love](https://open.spotify.com/track/0ggvWBJsXvs2eHuPbuIwPK) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/1ZOKEIxWal7useozipXnXf) | 3:23 |
 
-Snapshot ID: `AAByJP2yowosSO03sXF2NSxryUFwplZv`
+Snapshot ID: `AAByJXyfi3TDH7J/Yoa2nRiKHXM7qmr6`

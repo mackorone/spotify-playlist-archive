@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,002 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,033 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 27 | [Sunday Morning](https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Restoration](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H) | 4:01 |
 | 28 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
 | 29 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
-| 30 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
-| 31 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
+| 30 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
+| 31 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
 | 32 | [My Life, My Love, My All \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:22 |
 | 33 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
 | 34 | [Lose My Soul \- Afterparty Interlude](https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Portable Sounds \(With Bonus Remixes\)](https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl) | 6:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK) | [Taylor Mosby](https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:25 |
 | 50 | [The Story Of Fear](https://open.spotify.com/track/5c1N90E1wVVNTH6WEljZka) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 1:10 |
 
-Snapshot ID: `aL4cgAAAAAC0CvnG1kHuf3xasb7LamQB`
+Snapshot ID: `aL9uAAAAAABAln9hnQvJNVWglJnJf163`

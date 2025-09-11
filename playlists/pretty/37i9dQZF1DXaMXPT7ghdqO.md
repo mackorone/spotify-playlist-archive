@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,012 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,010 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 67 | [がぶ・がぶ・らぶ！](https://open.spotify.com/track/1gAyaVQ5JD8QVRja4RaWLW) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:24 |
 | 68 | [ハジメテキミと](https://open.spotify.com/track/1MS4vrAGJwdY4l8dmIyse4) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:01 |
 | 69 | [新春らびゅっと！](https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:06 |
-| 70 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
-| 71 | [Feeling Love](https://open.spotify.com/track/5sNhU7coIVdi4r2SOGEN9k) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Memories](https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V) | 3:47 |
+| 70 | [Night of Fantastic](https://open.spotify.com/track/09SKeEamZw8mQMePCOHR1n) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:15 |
+| 71 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
 | 72 | [シャッターチャンス！](https://open.spotify.com/track/473NiInkurObWc33WAdbvj) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [シャッターチャンス！](https://open.spotify.com/album/6JuRUnmp3cBtepEA7e4gVC) | 2:59 |
-| 73 | [Night of Fantastic](https://open.spotify.com/track/09SKeEamZw8mQMePCOHR1n) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:15 |
+| 73 | [Feeling Love](https://open.spotify.com/track/5sNhU7coIVdi4r2SOGEN9k) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Memories](https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V) | 3:47 |
 | 74 | [Day By Day](https://open.spotify.com/track/6l2v6ZZpknWRWwW5YKEuOP) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:41 |
 | 75 | [Trick or Prince](https://open.spotify.com/track/52QFz3slHqU7ALTIsu3Xpr) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 3:55 |
 

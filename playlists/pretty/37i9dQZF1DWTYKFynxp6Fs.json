@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Thalavara",
-  "num_followers": 522538,
+  "num_followers": 523449,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXYVHMtgT9EPeR5dSRaU0KA4PTp",
+  "snapshot_id": "AAAAAMLZDvzuG23YXVAK2O33jE5nxrBx",
   "tracks": [
     {
       "added_at": "2025-08-25 07:38:47",
@@ -141,6 +141,30 @@
       "url": "https://open.spotify.com/track/3ayM2UERJjqknotVSPgJ0S"
     },
     {
+      "added_at": "2025-09-10 12:45:54",
+      "album": {
+        "name": "SHERIYA",
+        "url": "https://open.spotify.com/album/2nRL1WRRHLRvBQf0k4afL6"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 191020,
+      "name": "SHERIYA",
+      "url": "https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd"
+    },
+    {
       "added_at": "2025-08-25 07:32:15",
       "album": {
         "name": "Onam Banger (From Saina Music Indie)",
@@ -231,6 +255,30 @@
       "duration_ms": 195581,
       "name": "Santhatha Sakhiye (From \"Sahasam\")",
       "url": "https://open.spotify.com/track/43yRu2zzVl0d2sr6ewma9l"
+    },
+    {
+      "added_at": "2025-06-23 10:08:09",
+      "album": {
+        "name": "NERA",
+        "url": "https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "NERA",
+      "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
     },
     {
       "added_at": "2025-08-31 03:59:42",
@@ -355,30 +403,6 @@
       "duration_ms": 147750,
       "name": "MAUNA LOA",
       "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
-    },
-    {
-      "added_at": "2025-06-23 10:08:09",
-      "album": {
-        "name": "NERA",
-        "url": "https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd"
-      },
-      "artists": [
-        {
-          "name": "ARJN",
-          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
-        },
-        {
-          "name": "KDS",
-          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
-        },
-        {
-          "name": "RONN",
-          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "NERA",
-      "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
     },
     {
       "added_at": "2025-08-19 10:12:55",
@@ -559,34 +583,6 @@
       "duration_ms": 225865,
       "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
       "url": "https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE"
-    },
-    {
-      "added_at": "2025-07-15 07:36:57",
-      "album": {
-        "name": "Mr. Marumakan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4gj91louLbVSbAxZRJphMU"
-      },
-      "artists": [
-        {
-          "name": "Suresh Peters",
-          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
-        },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        },
-        {
-          "name": "Rita",
-          "url": "https://open.spotify.com/artist/3iEcYh8j536C90OBKhRY61"
-        },
-        {
-          "name": "Naveen",
-          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Maayo Maayo",
-      "url": "https://open.spotify.com/track/6vXFhqhAIXHGamBvqe2Ilc"
     },
     {
       "added_at": "2025-02-24 05:11:09",

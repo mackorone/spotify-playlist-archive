@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Josh Ross and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,489 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,499 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 14 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 15 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 16 | [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 |
-| 17 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
+| 17 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
 | 18 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
-| 19 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
+| 19 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 20 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 |
 | 21 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
 | 22 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 30 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
 | 31 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
 | 32 | [All Again](https://open.spotify.com/track/5etrSAugIe3FXuG6em9Atj) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/2037mw8neL72exAlwyoCSc) | 3:48 |
-| 33 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 |
-| 34 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
+| 33 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
+| 34 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 |
 | 35 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
 | 36 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 37 | [girl you're taking home](https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:04 |

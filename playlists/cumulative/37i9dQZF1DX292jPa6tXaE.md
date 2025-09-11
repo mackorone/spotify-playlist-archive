@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover the future of Punjabi Pop!  Cover:  Jimms
+> Discover the future of Punjabi Pop!  Cover:  SNXRE
 
-408 songs - 19 hr 1 min
+409 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Never Ever](https://open.spotify.com/track/5NctmxcJxmKO0uU0Drqpk2) | [RANA](https://open.spotify.com/artist/4XYO2OD43QE2SXgzQ28KbG) | [Never Ever](https://open.spotify.com/album/6w7dQqWHixZc1nmolh4SUw) | 2:30 | 2025-02-25 | 2025-04-10 |
 | [New Day](https://open.spotify.com/track/4GVP7re4mfKXWzfWxx5n9O) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [New Day](https://open.spotify.com/album/3V1QeeArAAZr6GUSkx8Hcz) | 2:49 | 2025-04-02 | 2025-08-29 |
 | [New Moon](https://open.spotify.com/track/3sFUxSznTr0Nhvx6Mz4D8s) | [Uday Bath](https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX) | [New Moon](https://open.spotify.com/album/6WScQSs1sHzEVUcM3MRmVZ) | 2:09 | 2024-07-31 | 2024-10-02 |
-| [No Mercy](https://open.spotify.com/track/79vqTlizvAzkELvJUekb2e) | [Nav Guraya](https://open.spotify.com/artist/15WBNjagBfzMlEW23gCRmY) | [No Mercy](https://open.spotify.com/album/2B75hHpLmGIByZunir5Bse) | 2:48 | 2025-08-27 |  |
+| [No Mercy](https://open.spotify.com/track/79vqTlizvAzkELvJUekb2e) | [Nav Guraya](https://open.spotify.com/artist/15WBNjagBfzMlEW23gCRmY) | [No Mercy](https://open.spotify.com/album/2B75hHpLmGIByZunir5Bse) | 2:48 | 2025-08-27 | 2025-09-11 |
 | [Noir](https://open.spotify.com/track/1q1QZ1Dm2J8I9OVVboSkGx) | [Jassa](https://open.spotify.com/artist/7rxZdXUHrK6TmH91vGzNBY), [Marz](https://open.spotify.com/artist/5V7bS224vebOH5hCq5nlMB) | [Noir](https://open.spotify.com/album/3o2zKGLHdest1FIKOZJO2A) | 3:12 | 2025-03-11 | 2025-04-03 |
 | [OG](https://open.spotify.com/track/0HcjEdQRixnQZN2KUSzHEk) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/6j6Wb14YgJXj3sh8JIGFI0) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 3:09 | 2025-04-30 | 2025-05-08 |
 | [One Side](https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [One Side](https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1) | 2:49 | 2024-07-23 | 2024-09-07 |
@@ -333,6 +333,7 @@
 | [Shonk](https://open.spotify.com/track/3hIlK5V8h4cy3e6rKHOjTT) | [Jashan Mahal](https://open.spotify.com/artist/4VCXzpWOdfXy37w3kBbSwd), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shonk](https://open.spotify.com/album/4glE9856LIkvPAZgHGi843) | 3:03 | 2025-01-29 | 2025-03-05 |
 | [Shut Down](https://open.spotify.com/track/52d0h5Z6g8APHmCIVKRyxq) | [Jot Virk](https://open.spotify.com/artist/3PUHyeCAaOL6DNyD6ZBiS2), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Shut Down](https://open.spotify.com/album/2FMENTPYX1PgidsI8DgkKe) | 1:59 | 2025-03-19 | 2025-08-21 |
 | [SIFAT](https://open.spotify.com/track/2d6Qeuaq4bQZZcbbJeVgAd) | [JASS BRAR](https://open.spotify.com/artist/1NLLHP10d0iyzynTvbb08o), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [SIFAT](https://open.spotify.com/album/19J80X8HL7UAGnmfREjBjw) | 2:21 | 2025-08-06 |  |
+| [Silence \(feat\. Sikander Kahlon\)](https://open.spotify.com/track/2Fqd46msQeecXCq51w0N73) | [SNXRE](https://open.spotify.com/artist/63mpHVYZrAefPyV62M2Prl), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Silence \(feat\. Sikander Kahlon\)](https://open.spotify.com/album/5XiZJbEUEPisLZO6cUHnsf) | 2:52 | 2025-09-10 |  |
 | [Simplicity](https://open.spotify.com/track/2tga4qz5MiPNFFSrkj9lBQ) | [Happy Manewala](https://open.spotify.com/artist/5Wg1hR1WN0FhlOnYfAm68d), [Gulshaan Dhot](https://open.spotify.com/artist/4ODd6GUfUr1lrUKNEkviBl) | [Simplicity](https://open.spotify.com/album/4xDwjMDWIO4Uuvgi8KVc7n) | 2:42 | 2025-02-05 | 2025-03-20 |
 | [Sin](https://open.spotify.com/track/4W8o3qlBQ9AWbj23KW9URP) | [Harman Bal](https://open.spotify.com/artist/1yMBYy61KoKvjIj6zoXnYp) | [Sin](https://open.spotify.com/album/31AOCUimN7qeoOVP89toUw) | 1:46 | 2025-04-23 | 2025-07-24 |
 | [Sochde Nahi](https://open.spotify.com/track/6lHeLmB88msaSYt9Wwn1l5) | [Harsh Bilga](https://open.spotify.com/artist/4VKvXq0dgZMYWSOcbps6GT), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Sochde Nahi](https://open.spotify.com/album/2jyqeYnaChGN2lGLD1Aaak) | 3:16 | 2025-04-02 | 2025-08-21 |

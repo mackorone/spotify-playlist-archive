@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,489 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,494 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367081,
+  "num_followers": 367095,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAACmumKtjx/6l/+nXhNGDmXT",
+  "snapshot_id": "aL9uAAAAAAAMGRViaN5A4rbxVphsl+Kq",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
-        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
+        "name": "I Won't Let You Go",
+        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
       "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 251569,
-      "name": "Then I Will - From The Motion Picture Bonhoeffer",
-      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+      "duration_ms": 247422,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Let You Go",
-        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
+        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
       },
       "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 247422,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+      "duration_ms": 251569,
+      "name": "Then I Will - From The Motion Picture Bonhoeffer",
+      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
     },
     {
       "added_at": null,

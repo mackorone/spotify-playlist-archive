@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,793 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,857 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 50 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 |
 | 51 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
 | 52 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 |
-| 53 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
-| 54 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
+| 53 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
+| 54 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 55 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 56 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 |
 | 57 | [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 |

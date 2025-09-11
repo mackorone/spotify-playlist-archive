@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: aespa
 
-1,567 songs - 3 day 11 hr 12 min
+1,569 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2025-07-13 |  |
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-20 | 2023-08-17 |
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 |  |
+| [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-10 |  |
 | [Bomb](https://open.spotify.com/track/14lY3e4KuLUT46WQWfKYKb) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Bomb](https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c) | 3:05 | 2021-12-23 | 2022-01-05 |
 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 | 2023-07-28 | 2023-10-13 |
 | [BONA BONA \- JP ver.](https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BONA BONA \(JP ver.\)](https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK) | 3:32 | 2023-09-21 | 2023-10-31 |
@@ -1223,7 +1224,7 @@
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 | 2024-03-06 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 | 2025-06-27 |
 | [Street Carol… \(With John Park\)](https://open.spotify.com/track/3cgcHzpYPQnk9ieAFdaDpY) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Street Carol… \(With John Park\)](https://open.spotify.com/album/0k0QFIeshkGCFRM2ZqdSN8) | 3:18 | 2024-12-13 | 2025-02-19 |
-| [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 | 2025-02-11 |  |
+| [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 | 2025-02-11 | 2025-09-11 |
 | [Stupid Cupid](https://open.spotify.com/track/28A3n0uK5LvBTLq5aX0oCO) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Moonlight](https://open.spotify.com/album/4Yn7eVRGi34P0oksBwfMSq) | 3:25 | 2024-06-05 | 2024-08-21 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-02-08 | 2024-05-24 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-29 |
@@ -1245,6 +1246,7 @@
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 | 2023-01-25 |
 | [Summer Potion \- Summer Breeze Mix](https://open.spotify.com/track/4z3uEfiE0CvSr2SQhcm6Ho) | [ZOEE](https://open.spotify.com/artist/4cinrPXFGev2LBp4pZNZPI), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Cuja](https://open.spotify.com/artist/5ssPxv6xtCK3ouwNBNLEMy) | [Summer Potion \(Summer Breeze Mix\)](https://open.spotify.com/album/3H8ZyVdvwzZCaRMvShxQpf) | 2:33 | 2024-06-28 | 2024-07-03 |
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-26 | 2025-07-30 |
+| [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 | 2025-09-10 |  |
 | [Sunkissed \(Feat\. MARK of NCT\)](https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Sunkissed](https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81) | 2:39 | 2024-06-25 | 2024-07-10 |
 | [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-24 | 2023-06-27 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-24 | 2023-08-23 |
@@ -1281,7 +1283,7 @@
 | [Talk that Talk \- Japanese ver.](https://open.spotify.com/track/47crMubP1Z1dvjUjkrHulp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Talk that Talk \(Japanese ver.\)](https://open.spotify.com/album/6N4brtEUhu2zhwbV1GkMwi) | 2:57 | 2025-04-15 | 2025-05-14 |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-10 | 2022-07-07 |
 | [TAP](https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 2:37 | 2024-02-26 | 2024-04-24 |
-| [Tap Clap](https://open.spotify.com/track/5KJI44nLOKoPiReFPPKRIB) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Tap Clap](https://open.spotify.com/album/4tr4xBP3GwyB0HuRAfkX0M) | 2:29 | 2025-04-24 |  |
+| [Tap Clap](https://open.spotify.com/track/5KJI44nLOKoPiReFPPKRIB) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Tap Clap](https://open.spotify.com/album/4tr4xBP3GwyB0HuRAfkX0M) | 2:29 | 2025-04-24 | 2025-09-11 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-14 | 2023-01-10 |
 | [Tap Tap \- Japanese ver.](https://open.spotify.com/track/2W0vMSx8THHKCxNAWGoZQk) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Tap Tap \(Japanese ver.\)](https://open.spotify.com/album/5MImCC05yTEYCSHlqIm9Sl) | 3:06 | 2023-03-13 | 2023-05-10 |
 | [TARGET](https://open.spotify.com/track/3dl3PCd7rie7q7JEzU3eMx) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [TARGET](https://open.spotify.com/album/3ntcijrQB67JKonp5SSa0W) | 3:26 | 2023-02-08 | 2023-04-26 |

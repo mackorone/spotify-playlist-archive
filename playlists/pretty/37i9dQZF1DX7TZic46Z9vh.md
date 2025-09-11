@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,938 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,946 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 28 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |
 | 29 | [El Hongo](https://open.spotify.com/track/11nP4a0rGP0UWyFWUpI70r) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:51 |
 | 30 | [Bajo el Sol y Frente a Dios](https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 4:24 |
-| 31 | [Felicidad](https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 4:18 |
-| 32 | [Under The Sing Of Aquarius \- \(Bajo El Signo De Acuario\)](https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:43 |
+| 31 | [Under The Sing Of Aquarius \- \(Bajo El Signo De Acuario\)](https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:43 |
+| 32 | [Felicidad](https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 4:18 |
 | 33 | [Peace and Love](https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 2:19 |
 | 34 | [Acapulco Dorado](https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:00 |
 | 35 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |

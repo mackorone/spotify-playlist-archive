@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井 風, Lady Gaga, King Gnu, aespa, Tame Impala and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,920 likes - 86 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,978 likes - 86 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

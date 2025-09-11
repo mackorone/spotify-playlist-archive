@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,863 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,954 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 68 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
 | 69 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
 | 70 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
-| 71 | [Pero Qué Necesidad](https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pero Qué Necesidad](https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w) | 3:10 |
-| 72 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
+| 71 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
+| 72 | [Pero Qué Necesidad](https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pero Qué Necesidad](https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w) | 3:10 |
 | 73 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 74 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
 | 75 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
@@ -90,19 +90,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 80 | [Palomita / Olguita / Engañadora / Mi Gran Amor \(En Vivo\)](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
 | 81 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 | 82 | [El Menú](https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Moral Distraída](https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx) | 3:18 |
-| 83 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
+| 83 | [Chiquitita](https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 4:44 |
 | 84 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
-| 85 | [Chiquitita](https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 4:44 |
+| 85 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
 | 86 | [Haciendo el Amor](https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Quiéreme](https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU) | 3:44 |
 | 87 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 |
-| 88 | [Nada que Ver](https://open.spotify.com/track/5IHJttldHzPyoUCi9ptfep) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 2:55 |
+| 88 | [La Makinita](https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:46 |
 | 89 | [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 |
-| 90 | [La Makinita](https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:46 |
+| 90 | [Nada que Ver](https://open.spotify.com/track/5IHJttldHzPyoUCi9ptfep) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 2:55 |
 | 91 | [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 |
 | 92 | [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 |
-| 93 | [Soltero](https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO) | [Cumbia para Rato](https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ) | 3:25 |
-| 94 | [Chica Sexy](https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:22 |
-| 95 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
+| 93 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
+| 94 | [Soltero](https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO) | [Cumbia para Rato](https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ) | 3:25 |
+| 95 | [Chica Sexy](https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:22 |
 | 96 | [Ni Que Estuviera Loco](https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 2:23 |
 | 97 | [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 |
 | 98 | [Ahora Quién](https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 4:58 |

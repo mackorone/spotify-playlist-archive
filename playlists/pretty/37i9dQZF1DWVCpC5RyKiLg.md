@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,038 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,102 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 18 | [Amigo Taxista \- Ao Vivo](https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \(Deluxe\)](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:17 |
 | 19 | [Nocaute](https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 2:47 |
 | 20 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \(Ao Vivo Em Manaus\)](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
-| 21 | [Refém](https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
-| 22 | [Maus Bocados](https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [Continua](https://open.spotify.com/album/5MApIKrwbZby8tMOND098R) | 3:13 |
-| 23 | [Tá Vendo Aquela Lua](https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [25 Anos \(Ao Vivo\)](https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK) | 3:16 |
+| 21 | [Maus Bocados](https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [Continua](https://open.spotify.com/album/5MApIKrwbZby8tMOND098R) | 3:13 |
+| 22 | [Refém](https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
+| 23 | [Eu Ligo Pra Você \- Ao Vivo](https://open.spotify.com/track/6lcUzde7peeHxraZ3Maf5k) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ao Vivo em São José do Rio Preto \(Deluxe\)](https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR) | 2:53 |
 | 24 | [Louca de Saudade \- Ao Vivo](https://open.spotify.com/track/2InJDvDcA4RXEeA9njdibl) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(Ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:15 |
 | 25 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
-| 26 | [Eu Ligo Pra Você \- Ao Vivo](https://open.spotify.com/track/6lcUzde7peeHxraZ3Maf5k) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ao Vivo em São José do Rio Preto \(Deluxe\)](https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR) | 2:53 |
+| 26 | [Tá Vendo Aquela Lua](https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [25 Anos \(Ao Vivo\)](https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK) | 3:16 |
 | 27 | [É Com Ela Que Eu Estou \- Ao Vivo](https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 3:40 |
 | 28 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 29 | [O Que É Que Tem \- Ao Vivo](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall \(Ao Vivo\)](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 61 | [Deixa Tudo Como Tá \- Ao Vivo](https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 3:37 |
 | 62 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
 | 63 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
-| 64 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
-| 65 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
+| 64 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
+| 65 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 | 66 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
 | 67 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 68 | [Chave Cópia \- Ao Vivo](https://open.spotify.com/track/3yqHkEXrbIaF7AoeN4diRH) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 2:42 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 72 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 | 73 | [Sem Esse Coração \- Ao Vivo](https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Coração Apaixonou \(Ao Vivo\)](https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH) | 2:53 |
 | 74 | [Energia Surreal \- Ao Vivo](https://open.spotify.com/track/2P5Hd3ghYMY5PT9yR73gR3) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:35 |
-| 75 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
+| 75 | [Diz pra Mim](https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Diz pra Mim](https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7) | 4:01 |
 
 Snapshot ID: `AAAAAB5hkMq/ZsrAekDsqOb++k/wjCvl`

@@ -458,7 +458,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "100 W SERII",
       "url": "https://open.spotify.com/track/4Tjp3ya8DVVCTU4gg1Prbm"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -14794,7 +14794,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 169142,
       "name": "Falochrony",
       "url": "https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp"
@@ -18808,7 +18808,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -27094,7 +27094,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 198169,
       "name": "Mandacik",
       "url": "https://open.spotify.com/track/6Zrh2zsDLqdjpkHsbTbMV5"
@@ -28144,7 +28144,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/0RltGzzlWXnojDWD8xRCZm"
@@ -31378,7 +31378,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 113076,
       "name": "Next Day",
       "url": "https://open.spotify.com/track/4To98R4h3sNhdnGkWlkPMH"
@@ -36850,7 +36850,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 133548,
       "name": "PIJ WOJANKA DO BIA\u0141EGO RANKA",
       "url": "https://open.spotify.com/track/7ep6b3lxEcJLuTST6W43we"
@@ -41754,7 +41754,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
@@ -42326,7 +42326,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -46052,7 +46052,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -46602,6 +46602,24 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
     },
     {
       "album": {
@@ -52512,7 +52530,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
@@ -52974,6 +52992,28 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
+    },
+    {
+      "album": {
+        "name": "Zabior\u0119 Ci\u0119 Tam",
+        "url": "https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "Zabior\u0119 Ci\u0119 Tam",
+      "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
     },
     {
       "album": {

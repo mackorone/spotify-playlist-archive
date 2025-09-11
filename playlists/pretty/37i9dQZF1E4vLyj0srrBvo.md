@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sky Ferreira, Labyrinth Ear and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,528 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,548 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 25 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 26 | [Flesh Without Blood](https://open.spotify.com/track/2lu928pDKDPkCPKMXE6OHW) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI) | 4:24 |
 | 27 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
-| 28 | [3NDL3SS](https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk) | 4:07 |
-| 29 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
+| 28 | [Skeleton](https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:00 |
+| 29 | [4 Morant \(Better Luck Next Time\)](https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Brokendate](https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95) | 2:51 |
 | 30 | [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 |
 | 31 | [Colour of Moonlight \(Antiochus\)](https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Doldrums](https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 3:59 |
-| 32 | [4 Morant \(Better Luck Next Time\)](https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Brokendate](https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95) | 2:51 |
+| 32 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
 | 33 | [Humble Bones](https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Apparitions](https://open.spotify.com/album/0Yn5Yc4qK1wZMhjAJO0uQz) | 4:41 |
-| 34 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
-| 35 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
+| 34 | [3NDL3SS](https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk) | 4:07 |
+| 35 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
 | 36 | [Realiti](https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI) | 5:06 |
-| 37 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 |
-| 38 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 |
-| 39 | [Skeleton](https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:00 |
-| 40 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 37 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 |
+| 38 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
+| 39 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 40 | [Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 3:28 |
 | 41 | [Circumambient](https://open.spotify.com/track/2yP2fo52aCyQGr8K9QMXiw) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 3:43 |
 | 42 | [Is It Cold In The Water?](https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:32 |
-| 43 | [Fall In Love](https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:43 |
-| 44 | [Stay Ugly](https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:29 |
-| 45 | [Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 3:28 |
+| 43 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 |
+| 44 | [Fall In Love](https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:43 |
+| 45 | [Stay Ugly](https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:29 |
 | 46 | [Violence \- Original Mix](https://open.spotify.com/track/3KeOFns3LGJuh1lapMm9eA) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:40 |
 | 47 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
-| 48 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 |
-| 49 | [Lost In My Bedroom](https://open.spotify.com/track/61AXzGgiu768lqCXHBHlt8) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/5p7bst30JEHSIe1VMtjbfG) | 3:13 |
-| 50 | [Still Goin](https://open.spotify.com/track/61n8IsQQ2HaE0ech0l21oa) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Still Goin](https://open.spotify.com/album/4aElFiEC9RbikZzkjAS49A) | 3:21 |
+| 48 | [Possession](https://open.spotify.com/track/02zU5fNQX1GaaBMavn6rXd) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk) | 3:59 |
+| 49 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 |
+| 50 | [Lost In My Bedroom](https://open.spotify.com/track/61AXzGgiu768lqCXHBHlt8) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/5p7bst30JEHSIe1VMtjbfG) | 3:13 |
 
-Snapshot ID: `aMDODwAAAABbjbDlXBONPPOf8335StaD`
+Snapshot ID: `aMJDbgAAAADwAsQ+CasME0/0HhqKtT6D`

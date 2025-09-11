@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: KATSEYE at the VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,345 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,461 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 271 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 271 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 207 | [Fall Back](https://open.spotify.com/track/2TNxirQmwPQyrOC3ofIXRH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/3kTehGJUbjM0GrzuZptZEl) | 3:34 |
 | 208 | [Bahm Bahm \(Do It Once Again\) / I Want You](https://open.spotify.com/track/6y9sfJ7b0S7aekaOGgeogc) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:47 |
 | 209 | [Crazy Love \(feat\. Tarrus Riley\)](https://open.spotify.com/track/6yoI7MhAp0UuaaDcOjcVPt) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:33 |
-| 210 | [Hallelujah](https://open.spotify.com/track/1s8gMpKp8a2miBP4roDf4L) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:24 |
-| 211 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
+| 210 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
+| 211 | [Hallelujah](https://open.spotify.com/track/1s8gMpKp8a2miBP4roDf4L) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:24 |
 | 212 | [Save My Soul](https://open.spotify.com/track/2r6DJtkGe7BumeqcEt0GKI) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:01 |
 | 213 | [Got No Shorty](https://open.spotify.com/track/4J9cHn7AatMiY45zpTTeif) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:21 |
 | 214 | [On & On](https://open.spotify.com/track/2QlEtOiNBjGnnLBvT7rq6N) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Emotionally Unavailable](https://open.spotify.com/album/0DU2vGl3iqTMSHHHd2l6eP) | 3:48 |
@@ -265,9 +265,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 255 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 |
 | 256 | [No Boys Allowed](https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [No Boys Allowed](https://open.spotify.com/album/1X35eDky87vE6mOd6mrRBS) | 2:58 |
 | 257 | [My Life](https://open.spotify.com/track/7qSR0OfFtYNqsw3buCdhDK) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Matisse](https://open.spotify.com/artist/3sR1FocH7EzvytEiUNm3RH), [Sadko](https://open.spotify.com/artist/2o38eZ4qE1VkB3iu46wYih) | [Swagg](https://open.spotify.com/album/5Cj30m57HKgUcLejhNruHj) | 4:09 |
-| 258 | [Do Yo Dance \(feat\. Cristal\)](https://open.spotify.com/track/6Qp5eEWuuvYaMaJhDcDhRv) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM), [Cristal](https://open.spotify.com/artist/6PcPCAxUSwvPKWKMyuKn0I) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:29 |
-| 259 | [Stadium](https://open.spotify.com/track/7CVQNMKzfWgKtawyUr0b6W) | [The Melisizwe Brothers](https://open.spotify.com/artist/2CbEuEC9M3rUxpzYV3pZ8O) | [Stadium](https://open.spotify.com/album/1gTLQYbs9p41kfvNE9zdvk) | 3:27 |
-| 260 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
+| 258 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
+| 259 | [Do Yo Dance \(feat\. Cristal\)](https://open.spotify.com/track/6Qp5eEWuuvYaMaJhDcDhRv) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM), [Cristal](https://open.spotify.com/artist/6PcPCAxUSwvPKWKMyuKn0I) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:29 |
+| 260 | [Stadium](https://open.spotify.com/track/7CVQNMKzfWgKtawyUr0b6W) | [The Melisizwe Brothers](https://open.spotify.com/artist/2CbEuEC9M3rUxpzYV3pZ8O) | [Stadium](https://open.spotify.com/album/1gTLQYbs9p41kfvNE9zdvk) | 3:27 |
 | 261 | [Loudest Silence](https://open.spotify.com/track/6twjK7WfE9PpL4wveuudwD) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 4:07 |
 | 262 | [Infatuated](https://open.spotify.com/track/4d4NdCxHx4ElfrdFArnzC2) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 4:13 |
 | 263 | [Slow Motion](https://open.spotify.com/track/4deUD7wJPdVJsD0yYh3ClR) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 4:32 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 270 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 271 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Ab7yygAAAAARF76aYWs6WDscT7KF+R3m`
+Snapshot ID: `Ab74kgAAAAC8wS0FgUFdI2RSBm8Jk3NB`

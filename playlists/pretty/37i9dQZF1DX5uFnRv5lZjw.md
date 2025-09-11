@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,908 likes - 83 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,034 likes - 83 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,32 +16,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 6 | [In Regards to A Dream](https://open.spotify.com/track/6KMe6OFo5QCi9co4Vnfz8I) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [In Regards to A Dream](https://open.spotify.com/album/19VRs67fPxLG5QzQME6zE8) | 3:03 |
 | 7 | [Far Apart](https://open.spotify.com/track/0fRhQua0hDniGl8Ya6FObR) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Far Apart](https://open.spotify.com/album/0qhruBrhX5rEM8dyCXOK0X) | 2:04 |
 | 8 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
-| 9 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 |
-| 10 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 |
-| 11 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
+| 9 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
+| 10 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 |
+| 11 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 |
 | 12 | [Li](https://open.spotify.com/track/3Pfj28ILjwTSgBsIXSxYlo) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Li](https://open.spotify.com/album/1xOxD86o1JwiJ7YHeVxDKc) | 2:40 |
 | 13 | [Foothills](https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Foothills](https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi) | 2:13 |
-| 14 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 |
-| 15 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 |
-| 16 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 |
-| 17 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 |
-| 18 | [Tagliamento](https://open.spotify.com/track/6WjNhHHsG4i2n4dpk8ANrm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Tagliamento](https://open.spotify.com/album/3UvMj1JE5OP9VhMxwEbf5I) | 2:19 |
-| 19 | [As the Light Unfolds](https://open.spotify.com/track/4iLQt0yaViFFVYA2QqReQo) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [As the Light Unfolds](https://open.spotify.com/album/5iZC7M6Z8SuVixMY1qYKMA) | 4:18 |
-| 20 | [Threads Of Yesterday](https://open.spotify.com/track/7pSLHykmfiNHGVO23UbAUQ) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Threads Of Yesterday](https://open.spotify.com/album/59y5n56VVbwCxeH9JUq18I) | 2:24 |
+| 14 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 |
+| 15 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 |
+| 16 | [Threads Of Yesterday](https://open.spotify.com/track/7pSLHykmfiNHGVO23UbAUQ) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Threads Of Yesterday](https://open.spotify.com/album/59y5n56VVbwCxeH9JUq18I) | 2:24 |
+| 17 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 |
+| 18 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 |
+| 19 | [Tagliamento](https://open.spotify.com/track/6WjNhHHsG4i2n4dpk8ANrm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Tagliamento](https://open.spotify.com/album/3UvMj1JE5OP9VhMxwEbf5I) | 2:19 |
+| 20 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 |
 | 21 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 |
-| 22 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 |
+| 22 | [As the Light Unfolds](https://open.spotify.com/track/4iLQt0yaViFFVYA2QqReQo) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [As the Light Unfolds](https://open.spotify.com/album/5iZC7M6Z8SuVixMY1qYKMA) | 4:18 |
 | 23 | [Ephemere](https://open.spotify.com/track/1Pssjy6ANBqZ4H26A9T3AY) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Ephemere](https://open.spotify.com/album/65qy730xZa0z8mPRR9DZk1) | 2:04 |
 | 24 | [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 |
-| 25 | [Ness Cove](https://open.spotify.com/track/2AgIYRB5g5ZHjLOnLrmAVQ) | [Shoalstone](https://open.spotify.com/artist/4DVH5f7mp7fPURb2lsI4cz) | [Ness Cove](https://open.spotify.com/album/27uUtOHg4CD8eaVkkrmnPe) | 3:09 |
-| 26 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
-| 27 | [Blue sea](https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Blue sea](https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w) | 2:44 |
-| 28 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
-| 29 | [Murmurations](https://open.spotify.com/track/2lm2W9WGR2w4kdpTjoKuq3) | [letter from lenor](https://open.spotify.com/artist/4nNvXevjgdNqjoJuB188Lr) | [Murmurations](https://open.spotify.com/album/5HOPgWkP9VSkJAeTyAiaLB) | 2:58 |
-| 30 | [Taylor River](https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Taylor River](https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC) | 2:11 |
-| 31 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
-| 32 | [Out of Sight, Within Reach](https://open.spotify.com/track/1WpLGmCjRHeOK02a6twUyL) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Out of Sight, Within Reach](https://open.spotify.com/album/4hpQy0MfXPoBLeQwjmwUMe) | 2:25 |
-| 33 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
-| 34 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 |
+| 25 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
+| 26 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
+| 27 | [Ness Cove](https://open.spotify.com/track/2AgIYRB5g5ZHjLOnLrmAVQ) | [Shoalstone](https://open.spotify.com/artist/4DVH5f7mp7fPURb2lsI4cz) | [Ness Cove](https://open.spotify.com/album/27uUtOHg4CD8eaVkkrmnPe) | 3:09 |
+| 28 | [Murmurations](https://open.spotify.com/track/2lm2W9WGR2w4kdpTjoKuq3) | [letter from lenor](https://open.spotify.com/artist/4nNvXevjgdNqjoJuB188Lr) | [Murmurations](https://open.spotify.com/album/5HOPgWkP9VSkJAeTyAiaLB) | 2:58 |
+| 29 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 |
+| 30 | [Blue sea](https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Blue sea](https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w) | 2:44 |
+| 31 | [Taylor River](https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Taylor River](https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC) | 2:11 |
+| 32 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
+| 33 | [Out of Sight, Within Reach](https://open.spotify.com/track/1WpLGmCjRHeOK02a6twUyL) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Out of Sight, Within Reach](https://open.spotify.com/album/4hpQy0MfXPoBLeQwjmwUMe) | 2:25 |
+| 34 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
 | 35 | [Santa Barbara](https://open.spotify.com/track/16nTxk9TksPWSrQDRc6SeU) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Santa Barbara](https://open.spotify.com/album/4PvqoY4bru4pvBdCsHwNnl) | 2:10 |
 | 36 | [Together](https://open.spotify.com/track/5QyK26ErYWA6zIzqsSPnYW) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Together](https://open.spotify.com/album/3M1oq7TsLVIYBgUaxgUOzf) | 2:19 |
 | 37 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 82 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 |
 | 83 | [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 |
 
-Snapshot ID: `AAAAAKNHQWaiLSrpMiBevMK0kYphd1Jf`
+Snapshot ID: `AAAAAD2pRMjqq7/6uVINnLCJ94TaHNNE`

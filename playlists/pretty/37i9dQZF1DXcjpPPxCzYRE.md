@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,770 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,833 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 54 | [I Do](https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu) | [Susie Suh](https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh) | [The Bakman Tapes](https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs) | 3:32 |
 | 55 | [Time After Time](https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Time After Time](https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc) | 3:26 |
 | 56 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
-| 57 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 |
-| 58 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
+| 57 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
+| 58 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 |
 | 59 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 60 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 61 | [Padiante](https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Padiante](https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE) | 2:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 70 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 |
 | 71 | [Hay algo en ti](https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf) | [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [Hay algo en ti](https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW) | 2:26 |
 | 72 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
-| 73 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
-| 74 | [Una y otra vez](https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Una y otra vez](https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T) | 3:10 |
+| 73 | [Una y otra vez](https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Una y otra vez](https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T) | 3:10 |
+| 74 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
 | 75 | [Que brille todo](https://open.spotify.com/track/6lJ81bYExa20qfLccVfa31) | [bajamar](https://open.spotify.com/artist/1TdqCZ6IdBOnT2bSLJSVaX), [TourJets](https://open.spotify.com/artist/0IEfl7lfMbvK3Ce9DYarkT) | [Que brille todo](https://open.spotify.com/album/0g9y2eXyxRhv9VBgjERZv7) | 3:23 |
 | 76 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
 | 77 | [La Belleza](https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [La Belleza](https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B) | 3:19 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 89 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
 | 90 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
 | 91 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 |
-| 92 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 |
-| 93 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
+| 92 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
+| 93 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 |
 | 94 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
 | 95 | [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 |
 | 96 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
 | 97 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 |
-| 98 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
-| 99 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
+| 98 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
+| 99 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
 | 100 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
 
 Snapshot ID: `AAAAAEITkk8Q+//5uszcl61tqOBExmgE`

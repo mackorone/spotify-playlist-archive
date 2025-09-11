@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 99314,
+  "num_followers": 99368,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAA+rvoVY39FGr0ggd/YUl//",
+  "snapshot_id": "aL9uAAAAAACBgfysPIYy9xyfCMgW6Xz7",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 101040,
-      "name": "This Bitch Matters",
-      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 92739,
       "name": "Oh The Places You'll Go",
       "url": "https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 101040,
+      "name": "This Bitch Matters",
+      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
     }
   ],
   "unique_name": "This Is Doechii",

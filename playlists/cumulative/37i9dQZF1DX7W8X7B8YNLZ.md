@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-89 songs - 5 hr 31 min
+90 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amoureux de ma femme](https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi) | 2:43 | 2022-06-01 | 2024-04-19 |
 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 | 2022-06-01 | 2025-07-19 |
 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 | 2022-06-01 | 2025-07-05 |
+| [C'est ma prière](https://open.spotify.com/track/2fedLC8wZso3sTSSFnURvj) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:06 | 2025-07-18 |  |
 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 | 2022-06-01 |  |
 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2025-07-18 |  |
 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 | 2022-06-01 |  |
@@ -63,7 +64,7 @@
 | [Les mots bleus](https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 4:10 | 2022-06-01 | 2023-12-07 |
 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 | 2022-06-01 |  |
 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 | 2025-07-04 |  |
-| [Lily](https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:01 | 2022-06-01 |  |
+| [Lily](https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:01 | 2022-06-01 | 2025-09-11 |
 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 | 2022-06-01 |  |
 | [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2022-06-01 | 2024-04-15 |
 | [Mamy Blue](https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/5LZgUafnsq9bXQxwCnyecf) | 3:52 | 2022-06-01 | 2024-04-19 |

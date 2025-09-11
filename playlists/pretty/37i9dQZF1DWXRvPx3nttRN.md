@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,831 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,158 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 46 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 |
 | 47 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 |
 | 48 | [Wild Things \- Acoustic Version](https://open.spotify.com/track/3FAzlNPlVImGsbjnHHft6K) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:11 |
-| 49 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 |
-| 50 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
+| 49 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
+| 50 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 |
 | 51 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 52 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 53 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 |

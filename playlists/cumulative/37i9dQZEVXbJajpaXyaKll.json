@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "24hs",
+        "url": "https://open.spotify.com/album/3fm9CbOgHA2VeYcEBcvLMq"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184593,
+      "name": "24hs",
+      "url": "https://open.spotify.com/track/4DtMekXyw8Cw6S7yTsJ5OV"
+    },
+    {
+      "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
       },
@@ -698,6 +720,28 @@
       "duration_ms": 175584,
       "name": "6 DE FEBRERO",
       "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
+    },
+    {
+      "album": {
+        "name": "7 VIDAS",
+        "url": "https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "7 VIDAS",
+      "url": "https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw"
     },
     {
       "album": {
@@ -2284,7 +2328,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -4774,7 +4818,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 172772,
       "name": "Cai de Perna Aberta 2",
       "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
@@ -5322,6 +5366,24 @@
       "duration_ms": 176017,
       "name": "Celine (with Kidd Keo)",
       "url": "https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
     },
     {
       "album": {
@@ -6877,6 +6939,24 @@
     },
     {
       "album": {
+        "name": "Cuando Es (AfterMix)",
+        "url": "https://open.spotify.com/album/0HxRdocWsEn7sZW4jsNAQK"
+      },
+      "artists": [
+        {
+          "name": "Le Juarez",
+          "url": "https://open.spotify.com/artist/4Hmff7mODzAeVfX05oDnNH"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150116,
+      "name": "Cuando Es - AfterMix",
+      "url": "https://open.spotify.com/track/6WuTfiFquvFktgUFRORMq0"
+    },
+    {
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -7500,11 +7580,19 @@
         {
           "name": "Lyon la f",
           "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Lamelodiadelhampa",
+          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
         }
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "DEJA QUE EL MUNDO SE ACABE",
       "url": "https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT"
@@ -8346,6 +8434,40 @@
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Azul Botticher",
+          "url": "https://open.spotify.com/artist/24kxuyk9GrzdLsfOPVh9eh"
+        },
+        {
+          "name": "Karin Zavala",
+          "url": "https://open.spotify.com/artist/67afWZ5rzDaG2uetK538yB"
+        },
+        {
+          "name": "Tatul Bernodat",
+          "url": "https://open.spotify.com/artist/1piD21CWhxmg3uk1tFuO1p"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Dorada - Golden - versi\u00f3n en espa\u00f1ol",
+      "url": "https://open.spotify.com/track/03x2Hzommc7gHp1rqh0xBC"
     },
     {
       "album": {
@@ -9990,7 +10112,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 205213,
       "name": "En septiembre fuiste mia",
       "url": "https://open.spotify.com/track/1pUzuSohW4XFGyPBcdKzWw"
@@ -12416,7 +12538,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 193493,
       "name": "Golden / Dorada - Cover en Espa\u00f1ol",
       "url": "https://open.spotify.com/track/6CDcermYklHdgRm5SLR3Jc"
@@ -17896,7 +18018,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -19800,7 +19922,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
@@ -25016,7 +25138,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 172162,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/5XxNnulEr3XZ7EJZwzCXyR"
@@ -26859,6 +26981,28 @@
     },
     {
       "album": {
+        "name": "Scat Pack",
+        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253658,
+      "name": "Scat Pack",
+      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
+    },
+    {
+      "album": {
         "name": "Lateralus",
         "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
       },
@@ -26940,6 +27084,24 @@
       "duration_ms": 240179,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
+    },
+    {
+      "album": {
+        "name": "SE LO JURO MOR",
+        "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170654,
+      "name": "SE LO JURO MOR",
+      "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
     },
     {
       "album": {
@@ -27182,7 +27344,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 128623,
       "name": "Session Guaratech #1 Kid Wazi",
       "url": "https://open.spotify.com/track/5tpAZ8fZGlFTFBZ4cUuzGB"
@@ -28152,7 +28314,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 236160,
       "name": "So Far So Fake",
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
@@ -29478,7 +29640,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -29980,7 +30142,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 108493,
       "name": "Tan Mala",
       "url": "https://open.spotify.com/track/0u7IFZB1z9Z2u5Q9DasVKd"
@@ -31012,7 +31174,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
@@ -32306,7 +32468,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 133147,
       "name": "Tung Tung Tung Sahur",
       "url": "https://open.spotify.com/track/7N0hlz8sQ1wPI4iH5Fh2L1"
@@ -32324,7 +32486,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 133500,
       "name": "Tung Tung Tung Sahur",
       "url": "https://open.spotify.com/track/7xZYi8J3xfy3Mlb4tQh2y8"
@@ -33928,7 +34090,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
@@ -35158,6 +35320,24 @@
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173959,
+      "name": "Yo Yo y Yo",
+      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
     },
     {
       "album": {

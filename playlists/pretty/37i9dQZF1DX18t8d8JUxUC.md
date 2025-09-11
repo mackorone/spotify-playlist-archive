@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,403 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,428 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 61 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
 | 62 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
 | 63 | [el wey que otra vez confio :\(](https://open.spotify.com/track/68Fp40NMOxP5qmeppEeQVz) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS) | [el wey que otra vez confio :\(](https://open.spotify.com/album/1qxpHT9Gqbd3BAvhPSq5nE) | 5:10 |
-| 64 | [Poquitito de Té](https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Poquitito de Té](https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH) | 3:24 |
-| 65 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
+| 64 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
+| 65 | [Poquitito de Té](https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Poquitito de Té](https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH) | 3:24 |
 | 66 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
 | 67 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
 | 68 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
 | 69 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 70 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 71 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
-| 72 | [Fases](https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Fases](https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp) | 3:45 |
-| 73 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 |
+| 72 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 |
+| 73 | [Fases](https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Fases](https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp) | 3:45 |
 | 74 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 | 75 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 |
 | 76 | [todos menos yo](https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh) | [Anna García](https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [todos menos yo](https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag) | 3:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 95 | [Somos raros](https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Todo alrededor](https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO) | 4:08 |
 | 96 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 |
 | 97 | [Flores Muertas](https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Flores Muertas](https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC) | 5:28 |
-| 98 | [Volver a El Salvador](https://open.spotify.com/track/4TKPRfKgv1t3pFD7lFNbxX) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Volver a El Salvador](https://open.spotify.com/album/0pirRCr6J6pD8gBtLAESiu) | 3:20 |
-| 99 | [Dicen Que Llora](https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt) | [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc), [Elena Medina](https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj) | [Dicen Que Llora](https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d) | 3:29 |
-| 100 | [Valles](https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Valles](https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm) | 2:45 |
+| 98 | [Dicen Que Llora](https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt) | [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc), [Elena Medina](https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj) | [Dicen Que Llora](https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d) | 3:29 |
+| 99 | [Valles](https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Valles](https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm) | 2:45 |
+| 100 | [Volver a El Salvador](https://open.spotify.com/track/4TKPRfKgv1t3pFD7lFNbxX) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Volver a El Salvador](https://open.spotify.com/album/0pirRCr6J6pD8gBtLAESiu) | 3:20 |
 
 Snapshot ID: `AAAAANIYlnHr/srNfK9Bv3Rr7o6BdYOH`

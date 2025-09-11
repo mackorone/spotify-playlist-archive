@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,810 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,894 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 6 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 |
 | 7 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 |
 | 8 | [La Fuga del Dorian](https://open.spotify.com/track/0lBeJRlWlVeck7NdQZtRhS) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 5:00 |
-| 9 | [La Fuga Del Dorian](https://open.spotify.com/track/0htxL6L9uqRp5ul1H5OW3V) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/5XHPGUTtv6JxH573EOLQHb) | 4:37 |
+| 9 | [La Fuga Del Dorian](https://open.spotify.com/track/7eldqL5LFXfxHV0NZHc9g4) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga De Dorian](https://open.spotify.com/album/7HKbMRQREOR7seeJOujewG) | 4:37 |
 | 10 | [El Señor de los Cielos](https://open.spotify.com/track/7GuMMcKE6CzkMx53uvE2bN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:35 |
 | 11 | [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 |
-| 12 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 2:53 |
-| 13 | [Pedro Antrax](https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 2:31 |
+| 12 | [Pedro Antrax](https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 2:31 |
+| 13 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 2:53 |
 | 14 | [El Toro Encartado](https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:46 |
 | 15 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 |
 | 16 | [El Ruidoso](https://open.spotify.com/track/74r3cpb54FkfnXvWBuIsOt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Ruidoso](https://open.spotify.com/album/1vuRsmbFqQeR0wRnnTXYvz) | 3:50 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 36 | [El Empanada](https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:51 |
 | 37 | [El Toro Encartado](https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 3:02 |
 
-Snapshot ID: `aL4cgAAAAADehHoSIzUB7apyNfV0ODEm`
+Snapshot ID: `aL9uAAAAAAD+GJLbrQs2byDlWi6JXnjI`

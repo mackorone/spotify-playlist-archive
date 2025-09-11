@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -9314,7 +9314,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 186739,
       "name": "DESPU\u00c9S DE LA FERIA",
       "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
@@ -15722,7 +15722,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 193315,
       "name": "Go Go Juice",
       "url": "https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg"
@@ -21459,6 +21459,24 @@
     },
     {
       "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "album": {
         "name": "Is It Love",
         "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
       },
@@ -26132,7 +26150,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -33228,7 +33246,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"

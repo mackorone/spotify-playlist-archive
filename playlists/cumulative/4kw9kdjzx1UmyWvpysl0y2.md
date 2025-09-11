@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,067 songs - 2 day 11 hr 45 min
+1,068 songs - 2 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Afterlife](https://open.spotify.com/track/4081TAnw43uCRlG6cK6nCH) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Afterlife](https://open.spotify.com/album/5YO6ljMF8OGBFZ8IWMIebX) | 3:06 | 2025-07-28 |  |
 | [Afterlife](https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Afterlife](https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ) | 3:41 | 2025-03-13 | 2025-06-13 |
 | [Again](https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Again](https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq) | 3:48 | 2025-05-13 | 2025-08-06 |
+| [Against All Odds](https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Against All Odds](https://open.spotify.com/album/39nfFsklbXE8R5eGhRkbNF) | 3:42 | 2025-09-10 |  |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-28 | 2025-08-20 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |

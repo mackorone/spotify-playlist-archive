@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,289 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,383 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 6 | [Echoes](https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP) | [芦田菜名子](https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4) | [Echoes](https://open.spotify.com/album/2Zt36TQLYR245njjr3rR0l) | 3:35 |
 | 7 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 |
 | 8 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
-| 9 | [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [](https://open.spotify.com/album/null) | 3:26 |
+| 9 | [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [火星探索](https://open.spotify.com/album/4fjHgwIC74f4WJRFuOzrjS) | 3:26 |
 | 10 | [あの夏が癖になっていく](https://open.spotify.com/track/3ZGqqgN5GYvsM130KCZ0HN) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [あの夏が癖になっていく](https://open.spotify.com/album/5xJRwQhyaqcfjkcEDmroO9) | 3:23 |
 | 11 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 |
 | 12 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 15 | [Whoever You Are](https://open.spotify.com/track/2ofPioSxKQZcYvPFV4CTCd) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Whoever You Are](https://open.spotify.com/album/0fcGMmFcA236FnoqTmjvT7) | 4:12 |
 | 16 | [カーニバル](https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [カーニバル](https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS) | 3:31 |
 | 17 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 |
-| 18 | [Track 2](https://open.spotify.com/track/75kooypWpeo29YVGTZGDj0) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [いたいのとんでけ](https://open.spotify.com/track/75kooypWpeo29YVGTZGDj0) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [ちっぽけな夜明け](https://open.spotify.com/album/4GPEdvtD16PaEuQmjnhCQS) | 3:06 |
 | 19 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 20 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 21 | [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 132 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 133 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,23 +122,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 112 | [Ghost](https://open.spotify.com/track/3w9uPtA4j0t4dkylvd2Fea) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Travel](https://open.spotify.com/album/2UAXbkVAmerFPsznkDKnmG) | 2:56 |
 | 113 | [I Need to Know](https://open.spotify.com/track/7wghz3QGJe4cclJDUjxnBq) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:34 |
 | 114 | [No Part of You](https://open.spotify.com/track/5jGkSsAYEDo5gkew6qvUai) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/17CswT0NOi5y8ReJx589aE) | 3:45 |
-| 115 | [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 |
-| 116 | [Tom Edison](https://open.spotify.com/track/07V9RLJZnKZsGTgUtSUWrC) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:32 |
-| 117 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 |
-| 118 | [Pretty Sure](https://open.spotify.com/track/3E7iBLJHRfDoDqKwgxEsHo) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Pretty Sure](https://open.spotify.com/album/2LKxTFUbRQ8XzNHgXfOb88) | 3:01 |
-| 119 | [Bones and Blood](https://open.spotify.com/track/4qGIpT6nFagsxOqjGCgY1M) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [John The Blind](https://open.spotify.com/album/09cDd1zwcdM8q0rKmgRzi7) | 2:50 |
-| 120 | [They Mad](https://open.spotify.com/track/6UEcPVCX9NpbsKaARZ2jtB) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:27 |
-| 121 | [Belong](https://open.spotify.com/track/4v7NK5ekkhfsVrhnechJud) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [Premonitions](https://open.spotify.com/album/7f5EBzskrYbensDvpazq5j) | 2:46 |
-| 122 | [Urgent](https://open.spotify.com/track/3LL0hDWRc54FIpbnvIAZR4) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:42 |
-| 123 | [Watch My Back](https://open.spotify.com/track/11etZay2pHcZv4SBodJJAE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 |
-| 124 | [Outro](https://open.spotify.com/track/0MC2N1iCUYSmweQ1fyGwzj) | [Born](https://open.spotify.com/artist/2h8Vt4bOHRnuT4Xpke3GHz) | [Grautöne](https://open.spotify.com/album/76ePdJKTbh5cgBq25yT6U0) | 1:45 |
-| 125 | [Highway](https://open.spotify.com/track/7sLMmKtHjYlx8GzasuvtlO) | [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Highway](https://open.spotify.com/album/6AXcwiuRsobBSa8Fw6gFHy) | 2:41 |
-| 126 | [Ted Talk](https://open.spotify.com/track/0a4GWgv00qYm63fSWTau0N) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:50 |
-| 127 | [Money Changed Everything](https://open.spotify.com/track/358z3unoqcwgy6oPAX5wx5) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 |
-| 128 | [Don't Say Much](https://open.spotify.com/track/6p9LXvQRz1KYAX45qA8oxT) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:28 |
-| 129 | [Never Love Again](https://open.spotify.com/track/5IPE706f5GnhM06ZNrTYnh) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:14 |
-| 130 | [Paranoid](https://open.spotify.com/track/0dhh7PwPsKce4PenDZrUox) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:04 |
-| 131 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
-| 132 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
+| 115 | [I Know Somebody](https://open.spotify.com/track/1TLrmgpirIhAkh2Morfe6w) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [I Know Somebody](https://open.spotify.com/album/3G26jgzF1849FOY2jZ08ew) | 3:05 |
+| 116 | [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 |
+| 117 | [Tom Edison](https://open.spotify.com/track/07V9RLJZnKZsGTgUtSUWrC) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:32 |
+| 118 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 |
+| 119 | [Pretty Sure](https://open.spotify.com/track/3E7iBLJHRfDoDqKwgxEsHo) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Pretty Sure](https://open.spotify.com/album/2LKxTFUbRQ8XzNHgXfOb88) | 3:01 |
+| 120 | [Bones and Blood](https://open.spotify.com/track/4qGIpT6nFagsxOqjGCgY1M) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [John The Blind](https://open.spotify.com/album/09cDd1zwcdM8q0rKmgRzi7) | 2:50 |
+| 121 | [They Mad](https://open.spotify.com/track/6UEcPVCX9NpbsKaARZ2jtB) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:27 |
+| 122 | [Belong](https://open.spotify.com/track/4v7NK5ekkhfsVrhnechJud) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [Premonitions](https://open.spotify.com/album/7f5EBzskrYbensDvpazq5j) | 2:46 |
+| 123 | [Urgent](https://open.spotify.com/track/3LL0hDWRc54FIpbnvIAZR4) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:42 |
+| 124 | [Watch My Back](https://open.spotify.com/track/11etZay2pHcZv4SBodJJAE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 |
+| 125 | [Outro](https://open.spotify.com/track/0MC2N1iCUYSmweQ1fyGwzj) | [Born](https://open.spotify.com/artist/2h8Vt4bOHRnuT4Xpke3GHz) | [Grautöne](https://open.spotify.com/album/76ePdJKTbh5cgBq25yT6U0) | 1:45 |
+| 126 | [Highway](https://open.spotify.com/track/7sLMmKtHjYlx8GzasuvtlO) | [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Highway](https://open.spotify.com/album/6AXcwiuRsobBSa8Fw6gFHy) | 2:41 |
+| 127 | [Ted Talk](https://open.spotify.com/track/0a4GWgv00qYm63fSWTau0N) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:50 |
+| 128 | [Money Changed Everything](https://open.spotify.com/track/358z3unoqcwgy6oPAX5wx5) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 |
+| 129 | [Don't Say Much](https://open.spotify.com/track/6p9LXvQRz1KYAX45qA8oxT) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:28 |
+| 130 | [Never Love Again](https://open.spotify.com/track/5IPE706f5GnhM06ZNrTYnh) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:14 |
+| 131 | [Paranoid](https://open.spotify.com/track/0dhh7PwPsKce4PenDZrUox) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:04 |
+| 132 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
+| 133 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Ab7y6AAAAAAfdXDO9P8vWz27RPQjvzK2`
+Snapshot ID: `Ab74dAAAAAB4lqNN8qBlagNTRAi45joR`

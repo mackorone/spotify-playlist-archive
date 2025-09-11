@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "High voltage nostalgia ahead! \u2018Bijuria\u2019 from \u2018Sunny Sanskari Ki Tulsi Kumari\u2019 is out now.",
+  "description": "Latest Hindi songs, fresh from the recording studios to your ears. Cover: Sunny Sanskari Ki Tulsi Kumari",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -1034,12 +1034,12 @@
       },
       "artists": [
         {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
           "name": "Tanishk Bagchi",
           "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
         {
           "name": "Ravi Pawar",
@@ -2277,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "Do You Wanna Partner (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/71uMEaNa6555Q7JMrPwUhK"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        },
+        {
+          "name": "Vasu Raina",
+          "url": "https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208754,
+      "name": "Hum Dum",
+      "url": "https://open.spotify.com/track/2rSczSFn9rjbnu5VLw0H3m"
+    },
+    {
+      "album": {
         "name": "Hum Jaise Jee Rahe Hain (From \"ANDAAZ 2\")",
         "url": "https://open.spotify.com/album/2B6OuEYtYNdyx779BtVdE0"
       },
@@ -2838,7 +2860,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 196129,
       "name": "Jheel",
       "url": "https://open.spotify.com/track/5taGLdK6Nzr8jzQxl1xQKY"
@@ -2968,6 +2990,36 @@
       "duration_ms": 145185,
       "name": "Kaari",
       "url": "https://open.spotify.com/track/3IZHUKvcOxLve5IDFoT8KX"
+    },
+    {
+      "album": {
+        "name": "Do You Wanna Partner (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/71uMEaNa6555Q7JMrPwUhK"
+      },
+      "artists": [
+        {
+          "name": "RUUH",
+          "url": "https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ"
+        },
+        {
+          "name": "JOH",
+          "url": "https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk"
+        },
+        {
+          "name": "Delraaz Bunshah",
+          "url": "https://open.spotify.com/artist/4vuS8QLzsii2BRiXNnTGTx"
+        },
+        {
+          "name": "Pratika Gopinath",
+          "url": "https://open.spotify.com/artist/5Nplh3QJ20U7FzWB490wyo"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/0Gt428AwEHeXGXa0FfAuyd"
     },
     {
       "album": {
@@ -4082,6 +4134,44 @@
       "duration_ms": 194062,
       "name": "Oh Mama! TETEMA",
       "url": "https://open.spotify.com/track/6LWd4TAkJt6kfHIQatolHP"
+    },
+    {
+      "album": {
+        "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "url": "https://open.spotify.com/album/1YJfUVuJEYUytHQ7f60XQn"
+      },
+      "artists": [
+        {
+          "name": "Khesari Lal Yadav",
+          "url": "https://open.spotify.com/artist/69WMBCOrVeaxtZJCowDJ0a"
+        },
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
     },
     {
       "album": {
@@ -6160,7 +6250,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 199499,
       "name": "Zinda Hu Main",
       "url": "https://open.spotify.com/track/0SO3BdeneaQAqTEPfrXbO0"

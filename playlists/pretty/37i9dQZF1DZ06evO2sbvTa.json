@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4486,
+  "num_followers": 4487,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAC8ihgcMFQIOOfoOImJWoS1",
+  "snapshot_id": "aL9uAAAAAAAS2oUfLytNR/iKqowsTecK",
   "tracks": [
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Columbia Remix",
-        "url": "https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Birdman & Gucci Mane",
-          "url": "https://open.spotify.com/artist/6338faVaZp7nENCOEpgrTe"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Columbia Remix (Dirty)",
-      "url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 255493,
       "name": "Muddy (feat. Young Dolph & Young Scooter)",
       "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Columbia Remix",
+        "url": "https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Birdman & Gucci Mane",
+          "url": "https://open.spotify.com/artist/6338faVaZp7nENCOEpgrTe"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Columbia Remix (Dirty)",
+      "url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake Gold",
+        "url": "https://open.spotify.com/album/71c4JcnNeAO299SDxXmQ1c"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 178312,
+      "name": "Fake Gold",
+      "url": "https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish Me Well 2",
         "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 213026,
       "name": "Bloodshed",
       "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Lane Juugin",
-        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 266489,
-      "name": "Made It",
-      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
       "duration_ms": 261546,
       "name": "Grew Up",
       "url": "https://open.spotify.com/track/0GE9xF6B72abnhLBrp60ri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Lane Juugin",
+        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 266489,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
     },
     {
       "added_at": null,
@@ -715,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 142277,
-      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
-      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Bricks 2",
         "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
       },
@@ -751,6 +747,26 @@
       "duration_ms": 223946,
       "name": "Re Up",
       "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 142277,
+      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
+      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Gold",
-        "url": "https://open.spotify.com/album/71c4JcnNeAO299SDxXmQ1c"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 178312,
-      "name": "Fake Gold",
-      "url": "https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "How Can I Not (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 250965,
       "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
       "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "How Can I Not (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     },
     {
       "added_at": null,

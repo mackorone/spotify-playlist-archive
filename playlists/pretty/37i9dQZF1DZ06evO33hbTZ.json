@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5670,
+  "num_followers": 5672,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAgTN6VPGAcUNypBkuPprJ3",
+  "snapshot_id": "aL9uAAAAAADwRiCjBULZbv9gvF7esJP2",
   "tracks": [
     {
       "added_at": null,
@@ -403,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol"
       },
       "artists": [
+        {
+          "name": "Pita",
+          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
+        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 182488,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY"
     },
     {
       "added_at": null,
@@ -435,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
       "artists": [
         {
@@ -444,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": null,
@@ -471,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
-        "url": "https://open.spotify.com/album/5T3tv3McENIhPWczy2jDVb"
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
       },
       "artists": [
         {
@@ -480,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2452610,
-      "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
-      "url": "https://open.spotify.com/track/2GmLWssF8dy7u4qfVB4JzB"
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol"
+        "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
+        "url": "https://open.spotify.com/album/5T3tv3McENIhPWczy2jDVb"
       },
       "artists": [
-        {
-          "name": "Pita",
-          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
-        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 182488,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY"
+      "duration_ms": 2452610,
+      "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
+      "url": "https://open.spotify.com/track/2GmLWssF8dy7u4qfVB4JzB"
     },
     {
       "added_at": null,

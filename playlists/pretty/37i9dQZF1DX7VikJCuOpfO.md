@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Leonardo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,026 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,042 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 75 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 76 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
 | 77 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
-| 78 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
+| 78 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
 | 79 | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw) | 3:32 |
 | 80 | [Se Cancela La Llorada](https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Se Cancela La Llorada](https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv) | 3:00 |
-| 81 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
+| 81 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 82 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 83 | [Te Confirmo](https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Te Confirmo](https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8) | 3:42 |
 | 84 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 91 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 |
 | 92 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
 | 93 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
-| 94 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
-| 95 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
+| 94 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
+| 95 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
 | 96 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
 | 97 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
 | 98 | [Llevarte al Cielo](https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [ANTOLOGÍA 20 AÑOS](https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9) | 4:08 |
-| 99 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
-| 100 | [Costumbres](https://open.spotify.com/track/625ReH2UV67Qc466BptoAI) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Costumbres](https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT) | 4:19 |
+| 99 | [Costumbres](https://open.spotify.com/track/625ReH2UV67Qc466BptoAI) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Costumbres](https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT) | 4:19 |
+| 100 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
 
 Snapshot ID: `AAAAAGPe/E+ER2gYi9Xemu1vuzYaOY8d`

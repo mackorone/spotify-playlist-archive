@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 29 min
+104 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Lot To Lose](https://open.spotify.com/track/6RztnbZ0tlFTeNpghqo29X) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:18 | 2022-09-16 | 2025-09-09 |
 | [Afterglow](https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:30 | 2022-09-16 |  |
 | [All Or Nothing](https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:23 | 2022-09-16 | 2025-07-06 |
-| [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 | 2023-12-13 |  |
+| [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 | 2023-12-13 | 2025-09-11 |
 | [Back & Forth](https://open.spotify.com/track/2znjtyMFFWu1Zpt4yQ2TCF) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:17 | 2022-09-16 | 2022-09-19 |
 | [Bad Influence](https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 1:10 | 2022-09-22 | 2024-05-17 |
 | [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 | 2022-09-16 |  |
@@ -85,6 +85,7 @@
 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 | 2022-09-16 | 2023-02-25 |
 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 | 2022-09-16 |  |
 | [Rad Solar](https://open.spotify.com/track/6pQb4fJwH1WY21wfiYiSB9) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Brutal Tapes](https://open.spotify.com/album/1I1o9EWBFxbWkY1wO4tTGu) | 1:45 | 2022-09-16 | 2023-12-20 |
+| [Real Love](https://open.spotify.com/track/77cNQCDaboo3z2H9YL8ivm) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Real Love](https://open.spotify.com/album/5nTXeRHW1OU1JzRDsPxgbn) | 4:05 | 2025-09-11 |  |
 | [Reflective Skull](https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 | 2022-09-16 |  |
 | [Riff City](https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 1:06 | 2022-09-16 | 2025-08-27 |
 | [Rock Star \- triple j Like a Version](https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rock Star \(triple j Like a Version\)](https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6) | 4:06 | 2022-09-16 |  |

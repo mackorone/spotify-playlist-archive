@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: DAY6\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,028 songs - 2 day 14 hr 54 min
+1,029 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 3:26 | 2022-04-12 | 2022-07-29 |
 | [BYE BYE BYE \(feat\. Sion\)](https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 4:21 | 2023-11-03 | 2024-03-22 |
 | [Bye My Dear](https://open.spotify.com/track/2DMXlmSEvKC6kzDkYJdSkK) | [TILDE](https://open.spotify.com/artist/4dkrSmtmfRErNiFaQx0IAq) | [Bye My Dear](https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn) | 4:26 | 2022-08-19 | 2022-09-06 |
+| [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 | 2025-09-10 |  |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-05-03 | 2022-11-10 |
 | [Caffeine](https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW), [Lanalogue](https://open.spotify.com/artist/0MwiBH4jzg2Ls1cX9LQQzQ) | [BXXL](https://open.spotify.com/album/34UeGS3N096dSc9s3opkVM) | 2:45 | 2022-05-03 | 2022-05-12 |
 | [Call me back](https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Call me back](https://open.spotify.com/album/1kxisGHg83NRPqjf5c6OT8) | 3:23 | 2023-10-11 | 2023-10-17 |
@@ -457,7 +458,7 @@
 | [just want to sleep 망할 잠](https://open.spotify.com/track/5ZUduLAgYDEx0CnvKJI0tn) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [inspiration](https://open.spotify.com/album/5FtiCb3iXBx8YfdXkmH6Nv) | 3:30 | 2022-04-22 | 2022-04-26 |
 | [Karma](https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:12 | 2024-05-09 | 2024-11-07 |
 | [KENJI](https://open.spotify.com/track/6GYpTFTsD8nEkCOFHZ6S6i) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [KENJI](https://open.spotify.com/album/2rGBoestOQnAIjKsmAHo7X) | 3:54 | 2024-09-18 | 2024-12-03 |
-| [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-03 |  |
+| [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-03 | 2025-09-11 |
 | [Knife](https://open.spotify.com/track/0UYcMcJXEFhM0m04i8LIC6) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Knife](https://open.spotify.com/album/0Rm8DxRN9bLmyMoIIs7r5p) | 3:51 | 2024-03-21 | 2024-05-10 |
 | [Knight \(Knight for Fight\)](https://open.spotify.com/track/1GgqaOfzfi0Aa3xWfcFATl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Tales Runner \[Multiverse and Dimension Authority\] O.S.T PART\. 1 Knight \(Knight for Fight\)](https://open.spotify.com/album/2a1E4ATdnm2vvhrliXtg6g) | 3:05 | 2022-12-22 | 2023-01-11 |
 | [kyrie](https://open.spotify.com/track/28cZrg5bm25e5LcZJL8gFi) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 2:59 | 2022-05-03 | 2022-05-12 |

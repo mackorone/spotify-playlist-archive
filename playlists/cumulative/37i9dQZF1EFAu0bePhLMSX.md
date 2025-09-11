@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-204 songs - 13 hr 2 min
+205 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Lie Down](https://open.spotify.com/track/2JPL5hDax1bOlq0SvGhO0g) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 2:53 | 2021-12-27 |  |
 | [Light Years](https://open.spotify.com/track/23I7SxHu8fHBA6CVQ7Z0w8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/3vH4V069uawep9By3y6EP7) | 4:47 | 2021-12-27 |  |
 | [Lights \- Bassnectar Remix \- Bonus Track](https://open.spotify.com/track/4qxUFzBKlmP98kIRKFszju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Lights](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) | 4:36 | 2021-12-27 |  |
-| [Lights \- Single Version](https://open.spotify.com/track/7gUpO6td4OOnu0Lf9vhcIV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:31 | 2021-12-27 |  |
+| [Lights \- Single Version](https://open.spotify.com/track/7gUpO6td4OOnu0Lf9vhcIV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:31 | 2021-12-27 | 2025-09-11 |
 | [Lonely With You](https://open.spotify.com/track/1PMF8UtwRQtFccnD3ZlXfP) | [No Frills Twins](https://open.spotify.com/artist/0txX04I8tX1Slgkipl0rsv) | [Lonely With You](https://open.spotify.com/album/4aioDIyKH3cb3751EO74pu) | 3:49 | 2021-12-27 | 2025-04-12 |
 | [Love Affair](https://open.spotify.com/track/0iReGfmVn96YVgK4zG3eZX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:49 | 2021-12-27 |  |
 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 | 2021-12-27 |  |
@@ -139,6 +139,7 @@
 | [Play To Win](https://open.spotify.com/track/37wacPZlYHUsrXnydnovyo) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:20 | 2021-12-27 |  |
 | [Please Stay](https://open.spotify.com/track/53GIGtgIkuYUDhdXoDFU0l) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 4:08 | 2021-12-27 |  |
 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 | 2022-07-24 |  |
+| [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 | 2025-09-10 |  |
 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 | 2021-12-27 |  |
 | [Rock the Party](https://open.spotify.com/track/5LTtEtluM9Am3TGI2jutC8) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 2:57 | 2024-12-27 |  |
 | [Rock The Party \- Single Remix](https://open.spotify.com/track/3yyCRuWQPxENTKhGZbBFmq) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 2:48 | 2021-12-27 | 2024-12-28 |

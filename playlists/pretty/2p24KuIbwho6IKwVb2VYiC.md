@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Loud Luxury
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,404 likes - 158 songs - 8 hr 10 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,402 likes - 158 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

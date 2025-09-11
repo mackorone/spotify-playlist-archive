@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,738 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,767 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 14 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
 | 15 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
 | 16 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
-| 17 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
-| 18 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
+| 17 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
+| 18 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
 | 19 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
 | 20 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
 | 21 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 47 | [Où sont les femmes](https://open.spotify.com/track/0aWA84zzPPadF7I0N9tSRb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Paris By Night](https://open.spotify.com/album/7wMa3V484gRTpUFKvZ8GkZ) | 6:16 |
 | 48 | [Il a neigé sur Yesterday](https://open.spotify.com/track/0pm3C9ZFJKZB0yFaZ3gSpy) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Blind Test Chanson Française](https://open.spotify.com/album/1REZhqwzNt52BPA59cdVjl) | 3:16 |
 | 49 | [Sea, Sex And Sun](https://open.spotify.com/track/2RJBXZ8bWc6DDOuIlPdF7R) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Comme un boomerang](https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK) | 3:39 |
-| 50 | [Lily](https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:01 |
+| 50 | [C'est ma prière](https://open.spotify.com/track/2fedLC8wZso3sTSSFnURvj) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:06 |
 
 Snapshot ID: `AAAAANdqbjeVF/lAqXrASxSXoiVOhvqQ`

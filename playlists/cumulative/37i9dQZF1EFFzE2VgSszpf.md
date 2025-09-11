@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 3 hr 36 min
+60 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Plans We Make](https://open.spotify.com/track/3T8FCttEVrCkz69AMHReIU) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/5Tw9tdB9BkgwyPx2kQ135q) | 3:32 | 2024-01-12 | 2024-04-28 |
 | [Plans We Make](https://open.spotify.com/track/4yrEBkqDex90UlTrpDNWp5) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/2uIok4N2xby1W5x3WhSAba) | 3:32 | 2024-04-27 |  |
 | [Procession](https://open.spotify.com/track/2rrdr7O92fV48GgHDrzJ75) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:52 | 2022-05-25 |  |
+| [Psilocybae \(Millennial Love\) \(feat\. 21 Savage, Ink & Kadhja Bonet\)](https://open.spotify.com/track/6ajiOUVtxRjYcf1EvBDoV4) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:32 | 2025-09-10 |  |
 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 | 2022-05-25 |  |
 | [Shall Not Be Moved](https://open.spotify.com/track/622yds0g4cL2ls2Dk8hwLQ) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Love is the Message](https://open.spotify.com/album/2NsotSuPYSPjhEOqPofobT) | 3:49 | 2025-04-16 |  |
 | [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 | 2023-12-13 | 2024-04-20 |

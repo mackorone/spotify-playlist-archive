@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,369 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,841 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 49 | [Big Boy \- Featuring Olu Maintain, Oladele, Banky W](https://open.spotify.com/track/2GLRrsrpt4Tsdm9Q8hQvOd) | [Eldee](https://open.spotify.com/artist/5bPfeXVOVF3RWTq0dt4hft) | [Big Boy](https://open.spotify.com/album/3COhfJi0pDKqsUIKxvXJgI) | 5:00 |
 | 50 | [Superstar](https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:15 |
 
-Snapshot ID: `AAAAALTIJyEDkfWyUTFiVxA5AfPeUbtq`
+Snapshot ID: `AAAAANL05TQNvzAaWONZHzyKGhCyACiu`

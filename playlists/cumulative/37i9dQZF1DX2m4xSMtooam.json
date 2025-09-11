@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 263208,
       "name": "Astra",
       "url": "https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ"
@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "My one and only",
+        "url": "https://open.spotify.com/album/5amSqhspHPpgLi7zDxwDVm"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201624,
+      "name": "My one and only",
+      "url": "https://open.spotify.com/track/5yT0chfor6lWakOdSBcwYg"
+    },
+    {
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
       },
@@ -3798,6 +3816,26 @@
         {
           "name": "Rosa Passos",
           "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        },
+        {
+          "name": "Jorge Calandrelli",
+          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
+        },
+        {
+          "name": "Cyro Baptista",
+          "url": "https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz"
+        },
+        {
+          "name": "Paulo Braga",
+          "url": "https://open.spotify.com/artist/51t7MZd7LXOkPwgSfjMm56"
+        },
+        {
+          "name": "Helio Alves",
+          "url": "https://open.spotify.com/artist/1qWJnFipD1h6ExuqmbgBM3"
+        },
+        {
+          "name": "Paulo Paulelli",
+          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
         }
       ],
       "date_added": "2022-05-13",
@@ -4992,6 +5030,26 @@
         {
           "name": "Rosa Passos",
           "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        },
+        {
+          "name": "Cyro Baptista",
+          "url": "https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz"
+        },
+        {
+          "name": "Paulo Braga",
+          "url": "https://open.spotify.com/artist/51t7MZd7LXOkPwgSfjMm56"
+        },
+        {
+          "name": "Helio Alves",
+          "url": "https://open.spotify.com/artist/1qWJnFipD1h6ExuqmbgBM3"
+        },
+        {
+          "name": "Paulo Paulelli",
+          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
+        },
+        {
+          "name": "Rodrigo Ursaia",
+          "url": "https://open.spotify.com/artist/2hgisYpRVvOO9rRllZnfpO"
         }
       ],
       "date_added": "2022-05-13",

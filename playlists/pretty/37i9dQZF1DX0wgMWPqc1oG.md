@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,067 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,111 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 37 | [Most Like Lee](https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:49 |
 | 38 | [Flight 19](https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 4:18 |
 | 39 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
-| 40 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
+| 40 | [Prophet Jennings \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 5:31 |
 | 41 | [R.J\. \(2022 Remaster\)](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 4:03 |
-| 42 | [Prophet Jennings \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 5:31 |
+| 42 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
 | 43 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
 | 44 | [Pumpkin](https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J) | 5:23 |
 | 45 | [Free For All](https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 11:09 |

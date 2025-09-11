@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2105,
+  "num_followers": 2108,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAZdisezDWOZjgt1LH/VlMD",
+  "snapshot_id": "aL9uAAAAAADjz8YeKn2RpV9S7wH9GYZJ",
   "tracks": [
     {
       "added_at": null,
@@ -471,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recio",
         "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trokita Tumbada",
+        "url": "https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 166090,
+      "name": "Trokita Tumbada",
+      "url": "https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 134583,
       "name": "Licuado",
       "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trokita Tumbada",
-        "url": "https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 166090,
-      "name": "Trokita Tumbada",
-      "url": "https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw"
     },
     {
       "added_at": null,

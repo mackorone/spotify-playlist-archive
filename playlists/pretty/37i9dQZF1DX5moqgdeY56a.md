@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,230 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,270 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 30 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
 | 31 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 |
 | 32 | [Bandido de Amores](https://open.spotify.com/track/71unqKVfoxMO7N8itTP6Z7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antologia el Poeta del Pueblo Con Banda](https://open.spotify.com/album/0OfjLcsL9TyjST6WgMQ0Hv) | 2:59 |
-| 33 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/1chSz5xnUaIdL1WEaYZQZC) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar, Vol\. 3](https://open.spotify.com/album/1g2KmviRFszwsmhiXsfZG5) | 3:07 |
+| 33 | [Lamberto Quintero](https://open.spotify.com/track/6vdz1wcsJFGObHolQIhUp3) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t) | 3:04 |
 | 34 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
 | 35 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
 | 36 | [Amigos Nada Más](https://open.spotify.com/track/0IYKrl5n08bLO9JowFc5c6) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [De Plaza en Plaza](https://open.spotify.com/album/3sQvDeYXGWGP5vbeSwfp3G) | 3:31 |
 | 37 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 |
-| 38 | [Nadie Es Eterno](https://open.spotify.com/track/130TDmCOxR9EmkDdKxoaz1) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/0wy2vQQydoKWVuxItuk5yT) | 2:52 |
+| 38 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/1chSz5xnUaIdL1WEaYZQZC) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar, Vol\. 3](https://open.spotify.com/album/1g2KmviRFszwsmhiXsfZG5) | 3:07 |
 | 39 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 |
 | 40 | [Cielo Rojo](https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:55 |
 | 41 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 |
 | 42 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
-| 43 | [Busca Otro Amor](https://open.spotify.com/track/4M3qMr67UL32M9Z8JvQBjw) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 1](https://open.spotify.com/album/48CCYGuCWQO4Nn2BstScwL) | 3:14 |
+| 43 | [Nadie Es Eterno](https://open.spotify.com/track/130TDmCOxR9EmkDdKxoaz1) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/0wy2vQQydoKWVuxItuk5yT) | 2:52 |
 | 44 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3) | 3:33 |
 | 45 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 |
 | 46 | [Mi Destino Fué Quererte](https://open.spotify.com/track/2e1CmyyYO8RbQCvKy8eA1R) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:03 |
 | 47 | [Un Puño De Tierra](https://open.spotify.com/track/3A7APEc3HegGLMI5VSGMSc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Antonio Aguilar Hijo](https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 2:50 |
-| 48 | [Me Importa Poco](https://open.spotify.com/track/2iJwarZCb8vTSzfj4Kuobs) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:25 |
+| 48 | [Busca Otro Amor](https://open.spotify.com/track/4M3qMr67UL32M9Z8JvQBjw) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 1](https://open.spotify.com/album/48CCYGuCWQO4Nn2BstScwL) | 3:14 |
 | 49 | [Por Mas Que Intento](https://open.spotify.com/track/39Q9LhoyGufwgfvHUBnjNu) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 2:14 |
 | 50 | [La Chancla](https://open.spotify.com/track/42fLdVjXz6aU02oMKUKNQQ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/2vdSOHJ3ruarPaifT2LXjF) | 3:33 |
 

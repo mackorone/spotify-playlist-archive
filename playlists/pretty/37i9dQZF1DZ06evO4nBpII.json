@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1127037,
+  "num_followers": 1127499,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADOIPgturcfqiMV9QiPDh08",
+  "snapshot_id": "aL9uAAAAAAClyHaxYYQjJ4DrmAnix7JX",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saviors (\u00e9dition de luxe)",
-        "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 123464,
-      "name": "Fuck Off",
-      "url": "https://open.spotify.com/track/3OTGZhc6EuE1XZ8849hHi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 90226,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saviors (\u00e9dition de luxe)",
+        "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 123464,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/3OTGZhc6EuE1XZ8849hHi2"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kerplunk!",
-        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 144626,
-      "name": "2000 Light Years Away",
-      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
+      "duration_ms": 151173,
+      "name": "Walking Contradiction",
+      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
     }
   ],
   "unique_name": "This Is Green Day",

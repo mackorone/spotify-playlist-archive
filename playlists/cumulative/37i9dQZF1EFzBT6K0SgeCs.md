@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-185 songs - 10 hr 48 min
+187 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Jealous](https://open.spotify.com/track/0u4dw7TujMZivFm9FyaIfu) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:02 | 2024-01-29 |  |
 | [Landmine](https://open.spotify.com/track/4QPh2acwINnzg3Ohl0pyrM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Landmine](https://open.spotify.com/album/6w86BsSzhCiMJghOB4Vxs4) | 3:28 | 2024-02-02 | 2024-03-04 |
 | [Landmine](https://open.spotify.com/track/4j6dPZlojYwVLp3qevPdCW) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Landmine](https://open.spotify.com/album/6EWLa8THXLPI250ttdUUjH) | 3:28 | 2024-01-29 | 2024-02-03 |
+| [Landmine \(Aire Atlantica Remix\)](https://open.spotify.com/track/3jYPc39rVYmIhwxi8eJ6XI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Aire Atlantica](https://open.spotify.com/artist/6Ta9RS3a6sLulTlM4FWY5K) | [Landmine \(Aire Atlantica Remix\)](https://open.spotify.com/album/4TRyNmutaZvwVSkI6aYiyq) | 3:13 | 2025-09-10 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 | 2024-02-02 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2024-01-29 | 2024-02-03 |
 | [Life Moves On](https://open.spotify.com/track/3xTiTmSzoBwL8QYbJrwz56) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Life Moves On](https://open.spotify.com/album/134ez4q40vc0ENWrncSupf) | 4:11 | 2024-01-29 | 2024-02-03 |
@@ -188,6 +189,7 @@
 | [Where the Poison Is](https://open.spotify.com/track/1SoM1cY0dpIz2U5GwSr0lT) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Where the Poison Is](https://open.spotify.com/album/2I1Tadjt5P5r7aIyXKABDw) | 3:14 | 2024-01-29 | 2024-02-03 |
 | [Where the Poison Is](https://open.spotify.com/track/2rPduOYc8QyiQVtoNEixk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Where the Poison Is](https://open.spotify.com/album/1YBBcW2P8MyuBNmAcjpggV) | 3:14 | 2024-08-04 | 2024-08-07 |
 | [Where the Poison Is](https://open.spotify.com/track/0HfgblzLTEfuBwYoIXhjwy) | [JuntunenPhD](https://open.spotify.com/artist/01AZH8KY1rE7MoN464nQTi) | [Where the Poison Is](https://open.spotify.com/album/6szOV51vxOrtaf7TNdEvdd) | 3:14 | 2024-08-06 | 2024-11-02 |
+| [Where the Poison Is \(16\-Bit FINNEAS Emulation\)](https://open.spotify.com/track/0SjugAYwjDRwSTVLcJpTtE) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [The Impossible Game Soundtrack, Vol\. 50](https://open.spotify.com/album/7JwSu9PDWyIejIoFanQSJu) | 3:09 | 2025-09-10 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-19 |  |
 | [wish you were gay](https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:41 | 2024-01-29 |  |
 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 | 2024-01-29 |  |

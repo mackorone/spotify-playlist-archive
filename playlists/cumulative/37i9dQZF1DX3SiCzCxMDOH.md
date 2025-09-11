@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-965 songs - 2 day 8 hr 35 min
+966 songs - 2 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Blue Haze](https://open.spotify.com/track/1s1l7ksPaqruuvc4LdCH6f) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Blue Haze](https://open.spotify.com/album/20KfqhxnYCTul4JLiWXBAL) | 3:04 | 2024-12-09 | 2025-06-06 |
 | [Blue In Green](https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Blue In Green](https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK) | 4:02 | 2023-04-13 | 2024-12-17 |
 | [Blue Jeans](https://open.spotify.com/track/218Yeqib6escXVrGVq8xLf) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [You Must Believe in Spring](https://open.spotify.com/album/6Cik7p7mOcjpIxwunfUtEn) | 2:50 | 2022-04-11 | 2023-02-24 |
-| [Blue Lavender](https://open.spotify.com/track/5YtBxc8IHmVA9oKdTwl8RW) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Blue Lavender](https://open.spotify.com/album/3An9gls3ekkrNYmMBCnMEc) | 3:40 | 2025-03-24 |  |
+| [Blue Lavender](https://open.spotify.com/track/5YtBxc8IHmVA9oKdTwl8RW) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Blue Lavender](https://open.spotify.com/album/3An9gls3ekkrNYmMBCnMEc) | 3:40 | 2025-03-24 | 2025-09-11 |
 | [Blue Light](https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:54 | 2022-09-13 | 2023-02-17 |
 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-04-27 | 2025-02-25 |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 | 2025-08-20 |
@@ -787,6 +787,7 @@
 | [Terra](https://open.spotify.com/track/148Tt36vr7wV45jMrRbisl) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Terra](https://open.spotify.com/album/583vAVLOGPwbUZJLDbmkhl) | 3:58 | 2024-11-25 |  |
 | [Thank God It's Friday](https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Thank God It's Friday](https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T) | 3:53 | 2024-02-23 | 2025-03-04 |
 | [That's All](https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [That's All](https://open.spotify.com/album/1NG2MHtqLO0f4BAZGSOFN7) | 3:02 | 2024-04-10 |  |
+| [That's Us Later](https://open.spotify.com/track/1Nf6ZFoTvXx0ULypwRRpQA) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [That's Us Later](https://open.spotify.com/album/3ALmTJqbdT7UQC6ZefnNgR) | 4:41 | 2025-09-10 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 | 2025-04-05 |
 | [The Arrival](https://open.spotify.com/track/3unmzUP3YvH7hBQ5Sx9TfU) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [The Arrival](https://open.spotify.com/album/6RLWWIcnnCMb0eVgqJnqet) | 2:32 | 2024-10-21 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 | 2025-01-15 |

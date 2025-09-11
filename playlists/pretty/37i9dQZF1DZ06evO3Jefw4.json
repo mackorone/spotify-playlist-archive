@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1210644,
+  "num_followers": 1210805,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAABJVhMKIOuf/5F+A3aDCUcE",
+  "snapshot_id": "aL9uAAAAAADy3Z1qv1qttVGFnfmdGLZC",
   "tracks": [
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 173123,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
+      "duration_ms": 182595,
+      "name": "Teary Eyes",
+      "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 182595,
-      "name": "Teary Eyes",
-      "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
+      "duration_ms": 173123,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 193543,
-      "name": "Electric - Pokemon 25 Version",
-      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
+      "duration_ms": 187436,
+      "name": "Tucked",
+      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 193543,
+      "name": "Electric - Pokemon 25 Version",
+      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Tucked",
-      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
     },
     {
       "added_at": null,

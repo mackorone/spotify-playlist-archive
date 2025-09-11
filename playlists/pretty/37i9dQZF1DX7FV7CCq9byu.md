@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,973 likes - 111 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,979 likes - 111 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 110 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 |
 | 111 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 |
 
-Snapshot ID: `AAAAAKQs0QirxJRlB2Edy5m89XphRiJl`
+Snapshot ID: `AAAAACNiJigZmp9ET9kKEkexyLi3b7kA`

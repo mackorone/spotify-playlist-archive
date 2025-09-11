@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159186,
+  "num_followers": 159185,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "replay",
         "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 151360,
       "name": "replay",
       "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Algu\u00e9m Tinha Que Falar De Amor",
+        "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 193560,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Algu\u00e9m Tinha Que Falar De Amor",
-        "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Talvez",
-      "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Sem Modera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
-      },
-      "artists": [
-        {
-          "name": "Meia1",
-          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "Sem Modera\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Certo pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
       },
@@ -931,22 +915,18 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+        "name": "Sem Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
       },
       "artists": [
         {
-          "name": "Nitto",
-          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+          "name": "Meia1",
+          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
         }
       ],
-      "duration_ms": 169472,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
+      "duration_ms": 133124,
+      "name": "Sem Modera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -967,6 +947,26 @@
       "duration_ms": 213587,
       "name": "N\u00e3o Quero Mais Nada",
       "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+      },
+      "artists": [
+        {
+          "name": "Nitto",
+          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
-      },
-      "artists": [
-        {
-          "name": "Buia Kalu",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalu",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
         "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 248275,
       "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
       "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2025-08-29 03:01:05",

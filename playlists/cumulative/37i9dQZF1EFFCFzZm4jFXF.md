@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 6 hr 51 min
+125 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Harmless Heart](https://open.spotify.com/track/07xH1WaaxQzAZkO1GNYk8u) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Harmless Heart](https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554) | 3:03 | 2024-06-13 |  |
 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 | 2024-08-18 |  |
 | [Hindsight](https://open.spotify.com/track/1LY3wORUYTg8t2lZ1v6wHq) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [SHOR](https://open.spotify.com/artist/7FJqyPALMKAfnwfVAaia1P) | [Hindsight](https://open.spotify.com/album/0g7v1hN2NKpX2act4kuEqv) | 3:42 | 2024-06-13 |  |
-| [Hurricane \(feat\. HON & SMBDY\) \- 4AM Drive Mix](https://open.spotify.com/track/0h4nTNCdT2ne5A5LjLpe6N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Hurricane \(feat\. HON & SMBDY\) \[4AM Drive Mix\]](https://open.spotify.com/album/6CX3qldctZmNlmXzDTeBHa) | 3:59 | 2024-06-13 | 2024-07-05 |
+| [Hurricane \(feat\. HON & SMBDY\) \- 4AM Drive Mix](https://open.spotify.com/track/0h4nTNCdT2ne5A5LjLpe6N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Hurricane \(feat\. HON & SMBDY\) \[4AM Drive Mix\]](https://open.spotify.com/album/6CX3qldctZmNlmXzDTeBHa) | 3:59 | 2024-06-13 |  |
 | [I Can't Lose You](https://open.spotify.com/track/5CZeEkIFyOQcb19yfFmpJP) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 2:42 | 2024-06-13 |  |
 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 | 2024-06-13 |  |
 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 | 2024-06-13 |  |
@@ -87,6 +87,7 @@
 | [Outta My Head](https://open.spotify.com/track/6whv4cMPhgbBCVhhffQP4u) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Outta My Head](https://open.spotify.com/album/67B5QeRHE7eRtXauSbl1mU) | 2:22 | 2025-08-06 |  |
 | [Painting Mirrors](https://open.spotify.com/track/7avhyUb2pFAxYNZ9PLlluV) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Painting Mirrors](https://open.spotify.com/album/4Pys2ICRhTgauE2E04qbdF) | 3:40 | 2024-06-13 |  |
 | [Play My Game](https://open.spotify.com/track/4rsVBR4WADCMrNRKk6pGwb) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:01 | 2024-06-13 |  |
+| [Playing with Fire \- Acoustic](https://open.spotify.com/track/3txzZSYvKcG3yHk9qL3dcx) | [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Playing with Fire \(Acoustic\)](https://open.spotify.com/album/2SmuVE6aplsJilE7rllilk) | 3:49 | 2025-09-10 |  |
 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 | 2024-06-13 |  |
 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 | 2024-06-13 |  |
 | [Red Mist](https://open.spotify.com/track/2JcLNFlx0NB69p86D04Xc8) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:17 | 2024-06-13 |  |

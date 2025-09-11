@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,319 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,427 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

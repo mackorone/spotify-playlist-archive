@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2959995,
+  "num_followers": 2959980,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADUVvC+M+/TBPspEOSPT/CF",
+  "snapshot_id": "aL9uAAAAAAD28JyGzoJMwjsjsLb2rpy0",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 101851,
-      "name": "YuNg BrAtZ",
-      "url": "https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 150769,
       "name": "what are you so afraid of",
       "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 101851,
+      "name": "YuNg BrAtZ",
+      "url": "https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB"
     },
     {
       "added_at": null,

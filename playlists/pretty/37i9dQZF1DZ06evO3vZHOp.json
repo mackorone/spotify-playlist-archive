@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 368803,
+  "num_followers": 368881,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAA7yNigZDQveMtDt2geWqoD",
+  "snapshot_id": "aL9uAAAAAAC9e7pg7lqAKYd6rom1BEs6",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,29 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 130459,
-      "name": "H.I.M.",
-      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
+      "duration_ms": 151627,
+      "name": "100 Conmigo",
+      "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millo Gangster Club",
-        "url": "https://open.spotify.com/album/7Hh4GWH8UfNA2hgO6PbosD"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 194688,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/6zzTDzvjjl2STck2IvrDRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -504,9 +504,29 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 151627,
-      "name": "100 Conmigo",
-      "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
+      "duration_ms": 130459,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 217736,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
     },
     {
       "added_at": null,
@@ -547,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 217736,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -583,6 +583,50 @@
       "duration_ms": 195712,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/4MfDHmbJQNpeBp83uSlsSa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Millo Gangster Club",
+        "url": "https://open.spotify.com/album/7Hh4GWH8UfNA2hgO6PbosD"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 194688,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/6zzTDzvjjl2STck2IvrDRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 216432,
+      "name": "Hardaway",
+      "url": "https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8"
     },
     {
       "added_at": null,
@@ -631,30 +675,6 @@
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMERI",
-        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 216432,
-      "name": "Hardaway",
-      "url": "https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8"
     },
     {
       "added_at": null,
@@ -843,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivos Eladio Vol. 3",
+        "url": "https://open.spotify.com/album/3g4IXatjv58bXDAEcqlMs2"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "CHANCE",
+      "url": "https://open.spotify.com/track/6kxvzDYbvouloexwNRw3Mn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -895,30 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INTER SHIBUYA (FERXXO EDITION)",
-        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "FUMETEO - Remix",
-      "url": "https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEN2 KBRN VOL. 1",
         "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
       },
@@ -959,6 +975,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "INTER SHIBUYA (FERXXO EDITION)",
+        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "FUMETEO - Remix",
+      "url": "https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -979,26 +1019,6 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivos Eladio Vol. 3",
-        "url": "https://open.spotify.com/album/3g4IXatjv58bXDAEcqlMs2"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "CHANCE",
-      "url": "https://open.spotify.com/track/6kxvzDYbvouloexwNRw3Mn"
     },
     {
       "added_at": null,
@@ -1035,30 +1055,6 @@
       "duration_ms": 219751,
       "name": "Padre Tiempo",
       "url": "https://open.spotify.com/track/1PtXtGJSDKTkB5urVEZ7rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chulx",
-        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
-      },
-      "artists": [
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Chulx",
-      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

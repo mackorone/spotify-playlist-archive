@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-340 songs - 21 hr 57 min
+341 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [No Excuses \(feat\. Ludwig Göransson & Kamasi Washington\)](https://open.spotify.com/track/61wsDs3Dbb11h1m2tw9eMZ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 7:23 | 2024-07-22 |  |
 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 | 2023-10-11 |  |
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/6utQlfLooYsUkq5xUg3vxt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7) | 3:42 | 2022-12-11 |  |
-| [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2019-02-04 |  |
+| [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2019-02-04 | 2025-09-11 |
 | [Now & Forever](https://open.spotify.com/track/4zLOwx1yRJXWkHKt1XzF1p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:41 | 2024-01-23 | 2025-09-06 |
 | [Oh Well](https://open.spotify.com/track/6jcvE3zmxGEqHjL2Dum8ug) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 3:24 | 2025-09-07 |  |
 | [Old wooden rafters](https://open.spotify.com/track/0KqDYr4qjE4aQ4MdiYAHSu) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapters 3+4 \(Original Game Soundtrack\)](https://open.spotify.com/album/4wsN31rpFBwGS06xi3rp1P) | 1:38 | 2025-07-01 |  |
@@ -312,6 +312,7 @@
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-12-04 |  |
 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 5:34 | 2024-05-13 |  |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 | 2021-01-22 |  |
+| [Tomorrow Comes Today](https://open.spotify.com/track/3qdDjz9kOvquEFbvXBYOMQ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 3:13 | 2025-09-10 |  |
 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 | 2025-07-05 | 2025-07-30 |
 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 | 2019-10-17 | 2025-09-06 |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 | 2022-07-19 |  |

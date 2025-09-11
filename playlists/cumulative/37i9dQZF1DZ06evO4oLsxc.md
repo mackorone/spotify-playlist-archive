@@ -4,7 +4,7 @@
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 26 min
+47 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Numero Uno](https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:12 | 2025-09-10 |  |
 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 | 2025-08-02 |  |
 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 | 2025-08-02 |  |
-| [Prophet](https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Prophet](https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe) | 4:56 | 2025-08-02 |  |
-| [Raggo Rock](https://open.spotify.com/track/1jm7i31XQpaSumkH7Kuzmq) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 1:41 | 2025-09-10 |  |
+| [Prophet](https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Prophet](https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe) | 4:56 | 2025-08-02 | 2025-09-11 |
+| [Prophet](https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:56 | 2025-09-11 |  |
+| [Raggo Rock](https://open.spotify.com/track/1jm7i31XQpaSumkH7Kuzmq) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 1:41 | 2025-09-10 | 2025-09-11 |
 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 | 2025-08-02 |  |
 | [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2025-08-02 |  |
 | [Standard](https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Standard](https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca) | 2:37 | 2025-08-02 |  |

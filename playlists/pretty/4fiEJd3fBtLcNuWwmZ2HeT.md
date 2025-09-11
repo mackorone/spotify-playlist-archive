@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 342 songs - 19 hr 26 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 343 songs - 19 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -350,5 +350,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 340 | [Just want to be loved](https://open.spotify.com/track/0xi0R1BxoTDQWvR7WNiNzx) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Just want to be loved](https://open.spotify.com/album/2diwMijpMjbeELSNjsQn0a) | 2:14 |
 | 341 | [Gekka No Yasoukyoku](https://open.spotify.com/track/721KUzd7jt8eUV1Xp25N5l) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Gekka No Yasoukyoku](https://open.spotify.com/album/6WxenSfRkZvHBclA99ZnMp) | 3:52 |
 | 342 | [カリスマティック・スーパードゥーパー・ロックスター](https://open.spotify.com/track/0lZbtgvlgjamaFfqLI27EL) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:39 |
+| 343 | [Aoi, Koi, Daidaiiro No Hi](https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 4:42 |
 
-Snapshot ID: `AAAJSxpQ9rCgl5zN68nhN965IJ6odcn7`
+Snapshot ID: `AAAJTP2kES6CQaY4ClUam3ULpq4nf1qr`

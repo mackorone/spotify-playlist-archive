@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 ### [ Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Cover: Clyde Crooks
+> The best new indie tracks from independent artists & labels\. Cover: Dove Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,315 likes - 142 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,362 likes - 142 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 141 | [Ace's High](https://open.spotify.com/track/5B1AWt7crgC2DruN5SSRNo) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Ace's High](https://open.spotify.com/album/2VJIfiY6cM8VZieS8tKZEO) | 4:33 |
 | 142 | [Speeding Down The Highway](https://open.spotify.com/track/54OX1q33keSFZ5JqzgsXp2) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Speeding Down The Highway](https://open.spotify.com/album/6Vrvm90aWjnX6sYJ3Gyqu0) | 2:28 |
 
-Snapshot ID: `AAAAAJe45HOzSnsXyXkZaGHinuRrwmm1`
+Snapshot ID: `AAAAANlGtml7tRC2GbYe2XtE4u/IAo+D`

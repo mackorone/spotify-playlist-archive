@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Remembering Clancy",
+        "url": "https://open.spotify.com/album/2MTx82oAxOKSkVWvkcwPRW"
+      },
+      "artists": [
+        {
+          "name": "Bob Schulz and His Frisco Jazz Band",
+          "url": "https://open.spotify.com/artist/365ReX7OVeSdv5QWRMLNHI"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217933,
+      "name": "At the Devil's Ball",
+      "url": "https://open.spotify.com/track/28c9eAI3PoutewpxoKDwCl"
+    },
+    {
+      "album": {
         "name": "Candy Corn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45BMrmDAx669XfcjaDu23A"
       },
@@ -2380,6 +2398,24 @@
       "duration_ms": 165893,
       "name": "Home Again Blues (Introducing \"Lindy\")",
       "url": "https://open.spotify.com/track/0P6JBQG2e4EuRuWlCbm5eb"
+    },
+    {
+      "album": {
+        "name": "Chip Deffaa's an Irving Berlin Travelogue",
+        "url": "https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr"
+      },
+      "artists": [
+        {
+          "name": "Erich Schuett",
+          "url": "https://open.spotify.com/artist/66ZJnPNfhpcKBvRHeZwqnY"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233853,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0Dtp2pKVggztAbpHCHzjx2"
     },
     {
       "album": {
@@ -4180,7 +4216,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -5851,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "The Columbia Singles, Vol. 2",
+        "url": "https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173706,
+      "name": "Roses Of Yesterday",
+      "url": "https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh"
+    },
+    {
+      "album": {
         "name": "1920s Jazz: Sweet Georgia Brown",
         "url": "https://open.spotify.com/album/2oGLs5TXzAWBLynybH13xI"
       },
@@ -7204,6 +7258,28 @@
       "duration_ms": 120000,
       "name": "The Ragtime Jockey Man",
       "url": "https://open.spotify.com/track/1TeUTKouGi9Jr7BRAZk36Q"
+    },
+    {
+      "album": {
+        "name": "Chip Deffaa's Irving Berlin Ragtime Rarities",
+        "url": "https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W"
+      },
+      "artists": [
+        {
+          "name": "George Franklin",
+          "url": "https://open.spotify.com/artist/5Yvg8E1V5JsXfD2WjoWjOh"
+        },
+        {
+          "name": "Katie Buddenhagen",
+          "url": "https://open.spotify.com/artist/7AUzqIBTyAsXx0rOBdw51b"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113306,
+      "name": "The Ragtime Jockey Man",
+      "url": "https://open.spotify.com/track/4rj8N6n02jJBHi951A5Yv8"
     },
     {
       "album": {
@@ -8604,7 +8680,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 152996,
       "name": "Woodman, Woodman, Spare That Tree",
       "url": "https://open.spotify.com/track/44aWmakMiiBMruioUKDFQe"

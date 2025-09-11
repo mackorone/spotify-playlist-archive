@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: 9Million
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,933 likes - 143 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,965 likes - 143 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 142 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 |
 | 143 | [somber](https://open.spotify.com/track/73fEj9HZpqGQ33aaAuRkwj) | [lefty](https://open.spotify.com/artist/3vMJDeW97NNdl9PwxnG7tp) | [somber](https://open.spotify.com/album/3AVf2zZ4vDLkAvCy6lH0M4) | 3:29 |
 
-Snapshot ID: `AAAAACtKOBCGTBBuqog7MGnh1XXBB8wn`
+Snapshot ID: `AAAAAJa+EDSyluBVqTnAyKMNloIr7VbD`

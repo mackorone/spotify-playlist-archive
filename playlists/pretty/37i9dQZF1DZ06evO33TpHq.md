@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,265 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,325 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 31 | [1,000 Names](https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:44 |
 | 32 | [Messiah / You're Beautiful](https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:53 |
 | 33 | [Here with Me \- Acoustic](https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:15 |
-| 34 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
-| 35 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
+| 34 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
+| 35 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
 | 36 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 | 37 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
 | 38 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 49 | [How Great Is Your Love](https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope \(The House Sessions\)](https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS) | 6:34 |
 | 50 | [THE JESUS WAY • HOMETOWN VERSION](https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:56 |
 
-Snapshot ID: `aL4cgAAAAADbuztPreKUXPPabWXcTWLZ`
+Snapshot ID: `aL9uAAAAAAD0BRfFxHinL9eKjjzD4TSD`

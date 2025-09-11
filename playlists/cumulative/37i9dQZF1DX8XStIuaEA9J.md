@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: マカロニえんぴつ
 
-1,247 songs - 2 day 23 hr 8 min
+1,247 songs - 2 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,6 @@
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 | 2024-02-07 |
 | [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
-| [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-09 |  |
 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [TRAUMA](https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:54 | 2024-08-13 | 2024-09-18 |
@@ -1123,6 +1122,7 @@
 | [月面着陸計画](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-07 | 2025-04-09 |
 | [有線ラジオで僕の歌が流れていたらしい](https://open.spotify.com/track/4uSA7MVSIiSPyNby6XHhcS) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 3:25 | 2024-10-08 | 2024-11-13 |
 | [朝、月面も笑っている](https://open.spotify.com/track/5svU70lHljjQlAF57o9jii) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [朝、月面も笑っている](https://open.spotify.com/album/7xHEODL01FT1OzqZP0Riyd) | 3:26 | 2024-04-30 | 2024-06-05 |
+| [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 | 2025-09-09 |  |
 | [未確認領域](https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [未確認領域](https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO) | 2:53 | 2025-08-12 |  |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-16 | 2024-08-23 |
 | [桜のあと](https://open.spotify.com/track/185Oo2BjmDBlEQTHHeUd2K) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [cross\-dominance](https://open.spotify.com/artist/6uCy22wWyFB4Rvc2CRIaSP) | [桜のあと](https://open.spotify.com/album/5p5dt480MJ6IwhcQhVJvUv) | 4:00 | 2025-03-18 | 2025-05-21 |
@@ -1213,7 +1213,7 @@
 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 | 2025-09-02 |  |
 | [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:48 | 2025-04-22 | 2025-07-16 |
 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 | 2025-08-05 |  |
-| [赤い車](https://open.spotify.com/track/3CMAsyPpqb0qvYHWJJRWXd) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [](https://open.spotify.com/album/null) | 2:57 | 2025-09-09 |  |
+| [赤い車](https://open.spotify.com/track/3CMAsyPpqb0qvYHWJJRWXd) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [スローバラード](https://open.spotify.com/album/5PRSMhiyNa2QRjcJRzd04M) | 2:57 | 2025-09-09 |  |
 | [赤猫](https://open.spotify.com/track/1LHWCYSHXcIuCSUO8LvXJi) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x) | 3:34 | 2024-06-04 | 2024-07-10 |
 | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-14 | 2025-03-26 |
 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2024-12-03 | 2025-08-06 |

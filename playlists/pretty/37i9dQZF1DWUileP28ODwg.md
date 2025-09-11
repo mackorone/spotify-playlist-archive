@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,054 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,370 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

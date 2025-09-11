@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757 likes - 132 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 758 likes - 132 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 86 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
 | 87 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
 | 88 | [Together at Christmas](https://open.spotify.com/track/4Y0KsTh7z3u5iCwFQUeR7L) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/4oYP3y50gnOTMe7l3jF3K9) | 3:37 |
-| 89 | [Better On Me](https://open.spotify.com/track/44mtmGpy5HAzfWfHHPn9HB) | [Max George](https://open.spotify.com/artist/1RDRqPYnN9dTo41jhKth2F) | [Better On Me](https://open.spotify.com/album/2KIEMc2XAgjtCOYc2V8RzJ) | 2:52 |
-| 90 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
+| 89 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
+| 90 | [Better On Me](https://open.spotify.com/track/44mtmGpy5HAzfWfHHPn9HB) | [Max George](https://open.spotify.com/artist/1RDRqPYnN9dTo41jhKth2F) | [Better On Me](https://open.spotify.com/album/2KIEMc2XAgjtCOYc2V8RzJ) | 2:52 |
 | 91 | [Love You To Death](https://open.spotify.com/track/1pJq3eCDAf9z0hy7rcJjof) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:29 |
 | 92 | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/track/4toChdeQFhnq2hngxaOKvm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/album/1GVE8WmZmTLYLmawzSmeWv) | 3:37 |
 | 93 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 110 | [All the Same \- From 'Toy Show the Musical'](https://open.spotify.com/track/41Y7ubE2nP2RygF98iue60) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [All the Same \(From 'Toy Show the Musical'\)](https://open.spotify.com/album/18SvYdlvillTP8vxA37C7G) | 3:56 |
 | 111 | [Honest Man](https://open.spotify.com/track/6hvwdsJpK0YWAi6Zf8jyRf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:46 |
 | 112 | [The Way I'm Wired](https://open.spotify.com/track/3JDjEtG9KKDAI1Dh4Ao94Y) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I’m Wired](https://open.spotify.com/album/67ta68xEpzq10kTo5jJfsw) | 3:39 |
-| 113 | [Seven](https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:50 |
-| 114 | [Complete Me](https://open.spotify.com/track/1L3EVhVrEPwadvBauSupRk) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Complete Me](https://open.spotify.com/album/6jwz41fDasOG8iLo3czzEf) | 3:41 |
+| 113 | [Complete Me](https://open.spotify.com/track/1L3EVhVrEPwadvBauSupRk) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Complete Me](https://open.spotify.com/album/6jwz41fDasOG8iLo3czzEf) | 3:41 |
+| 114 | [Seven](https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:50 |
 | 115 | [Fall Apart](https://open.spotify.com/track/6sKSKu0tgFbaE5m7uTJ5Kt) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Sexy As Hell \(Exclusive Version\)](https://open.spotify.com/album/0MPeOp95auH8fnxObuVSjc) | 3:07 |
 | 116 | [You Don't Have a Heart](https://open.spotify.com/track/7FeJ1lP3vxCnbXKlHhzrRe) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:56 |
 | 117 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 |
@@ -136,9 +136,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 126 | [Flaws](https://open.spotify.com/track/0SWDM8WYXyM1PkJUqRW0pn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 2:53 |
 | 127 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 |
 | 128 | [Lebih Dari Kekasihku](https://open.spotify.com/track/4ii3aTST1vQabcKhVPjrKZ) | [Classy](https://open.spotify.com/artist/23RnPEmrU2zuAYavcWZejp) | [X Factor Indonesia Season 2](https://open.spotify.com/album/2AEkMd7QfOCzUyuNqwOok7) | 3:53 |
-| 129 | [Still in Love \(Acoustic\)](https://open.spotify.com/track/1FOX7NEDh37v5xNXyESzsK) | [The Inner Voices](https://open.spotify.com/artist/6YNzFZMSy9yCYyXtS3JQQF) | [Still in Love \(Acoustic\)](https://open.spotify.com/album/68kr3m1lQzS0MlXXpVIeYW) | 4:14 |
-| 130 | [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 |
+| 129 | [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 |
+| 130 | [Still in Love \(Acoustic\)](https://open.spotify.com/track/1FOX7NEDh37v5xNXyESzsK) | [The Inner Voices](https://open.spotify.com/artist/6YNzFZMSy9yCYyXtS3JQQF) | [Still in Love \(Acoustic\)](https://open.spotify.com/album/68kr3m1lQzS0MlXXpVIeYW) | 4:14 |
 | 131 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 132 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ab7y8gAAAADMrkdo3qjQHw88bqzl2llC`
+Snapshot ID: `Ab74dAAAAABdgoIqNZwywwRfCI7GcLum`

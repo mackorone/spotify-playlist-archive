@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,219 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,389 likes - 53 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 52 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
 | 53 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 
-Snapshot ID: `AAAAAB5Lt6MaCfaZM7k6TM2u7iNoTpuO`
+Snapshot ID: `AAAAALySMMZCn/5q5Po5VVp12iylUCUG`

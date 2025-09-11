@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: aespa)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: WENDY)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -1160,6 +1160,24 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
+    },
+    {
+      "album": {
+        "name": "gonna love me, right?",
+        "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "body",
+      "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
     },
     {
       "album": {
@@ -6484,7 +6502,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
@@ -8609,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "Cerulean Verge",
+        "url": "https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Sunkiss",
+      "url": "https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -9298,7 +9334,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"

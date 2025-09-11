@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 209222,
+  "num_followers": 209326,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "La Familia, Cap. 1",
         "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 309733,
       "name": "Gaminart",
       "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Mejor Que El Silencio",
-        "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "El Idioma De Los Dioses",
-      "url": "https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "C\u00edrculo Vicioso",
         "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
       },
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "24/Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+        "name": "Mejor Que El Silencio",
+        "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
       },
       "artists": [
         {
-          "name": "El Triangulo Estudio",
-          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
         }
       ],
-      "duration_ms": 110229,
-      "name": "C.R.O 24/Siempre",
-      "url": "https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY"
+      "duration_ms": 253333,
+      "name": "El Idioma De Los Dioses",
+      "url": "https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "24/Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 110229,
+      "name": "C.R.O 24/Siempre",
+      "url": "https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Nunca Vemos Nada",
         "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lujo Ib\u00e9rico",
-        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Tengo Un Trato",
-      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 178533,
       "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
       "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Lujo Ib\u00e9rico",
+        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
+      },
+      "artists": [
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Tengo Un Trato",
+      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1219,34 +1219,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lista de Invitados",
-        "url": "https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        },
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Accion Sanchez",
-          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
-        },
-        {
-          "name": "Gordo Master",
-          "url": "https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Blondapetit",
-      "url": "https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Pantone",
         "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
@@ -1283,6 +1255,34 @@
       "duration_ms": 200800,
       "name": "Me\u00f1iques",
       "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Lista de Invitados",
+        "url": "https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Accion Sanchez",
+          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
+        },
+        {
+          "name": "Gordo Master",
+          "url": "https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Blondapetit",
+      "url": "https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "El Ataque De Los Que Observaban",
-        "url": "https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 354226,
-      "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
-      "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Entren Los Que Quieran",
         "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 293066,
       "name": "Digo Lo Que Pienso",
       "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "El Ataque De Los Que Observaban",
+        "url": "https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 354226,
+      "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
+      "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Dale Gas",
-        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 212495,
-      "name": "Dale Gas",
-      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI"
       },
@@ -1783,6 +1763,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 212495,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "De Longe. (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
       },
@@ -1795,22 +1795,6 @@
       "duration_ms": 206549,
       "name": "De Longe. - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Los Veteranos",
-        "url": "https://open.spotify.com/album/79xVsg1JPIqvQE0exEly78"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Pruebalo",
-      "url": "https://open.spotify.com/track/2V5155hKRLxHceKN6S8V8y"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1831,6 +1815,22 @@
       "duration_ms": 217913,
       "name": "No Tengo Nada",
       "url": "https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Los Veteranos",
+        "url": "https://open.spotify.com/album/79xVsg1JPIqvQE0exEly78"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Pruebalo",
+      "url": "https://open.spotify.com/track/2V5155hKRLxHceKN6S8V8y"
     },
     {
       "added_at": "2024-07-12 18:46:41",

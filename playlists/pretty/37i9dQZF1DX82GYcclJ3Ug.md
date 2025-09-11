@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Colony House
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,143 likes - 145 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,065 likes - 145 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

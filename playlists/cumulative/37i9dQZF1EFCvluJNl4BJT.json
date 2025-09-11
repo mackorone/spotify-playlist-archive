@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Tuxedo Time",
+        "url": "https://open.spotify.com/album/63nRJfSxLTmpRQ1nNi79BV"
+      },
+      "artists": [
+        {
+          "name": "Clyde Hawk",
+          "url": "https://open.spotify.com/artist/6LvZ5UnHQ0cJ552rXZKwre"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347633,
+      "name": "Gold Roses",
+      "url": "https://open.spotify.com/track/3XomMMljed4MXjdFZ9onGZ"
+    },
+    {
+      "album": {
         "name": "Gold Roses (Official Video)",
         "url": "https://open.spotify.com/album/7npO6jhwoZEpPwhVMrVUwP"
       },

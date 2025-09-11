@@ -7023,6 +7023,28 @@
     },
     {
       "album": {
+        "name": "Late One",
+        "url": "https://open.spotify.com/album/3KJ79bjd85hWOc1S20yYz1"
+      },
+      "artists": [
+        {
+          "name": "Jamie Leeming",
+          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
+        },
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276186,
+      "name": "Late One",
+      "url": "https://open.spotify.com/track/4m7Tyh8DFPkkbHjoquWj7D"
+    },
+    {
+      "album": {
         "name": "Latency",
         "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
       },
@@ -7184,7 +7206,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 253313,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
@@ -9426,7 +9448,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 277106,
       "name": "Old Friend; The Sea",
       "url": "https://open.spotify.com/track/6GBvm9H1J9pIIfDWcaF3Pp"
@@ -12548,7 +12570,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-11",
       "duration_ms": 139946,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp"

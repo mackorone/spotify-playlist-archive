@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,288 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,290 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 22 | [Perdido](https://open.spotify.com/track/0yXNbmCKjFjDwyhOOw8Ghn) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:50 |
 | 23 | [Llamarada de Petate](https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:19 |
 | 24 | [Me Gusta Ser Asi](https://open.spotify.com/track/2Ez75VowsFAk1kTFslUskQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:00 |
-| 25 | [El Vigilante](https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 4:01 |
+| 25 | [S.O.S\. de Amor](https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 3:57 |
 | 26 | [Jesus de Nazareth](https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 6:07 |
 | 27 | [Trascendencia](https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 3:59 |
 | 28 | [Rateros Con Placa](https://open.spotify.com/track/5xQdOG1KuPAK6Ku1NFm7Il) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 2:54 |
-| 29 | [S.O.S\. de Amor](https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 3:57 |
+| 29 | [El Vigilante](https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 4:01 |
 | 30 | [Juan Sin Miedo](https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:46 |
 | 31 | [Donde Estas Hermano](https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:34 |
 | 32 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 49 | [Genoma Humano](https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:41 |
 | 50 | [El o Ella](https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 4:37 |
 
-Snapshot ID: `aL4cgAAAAAD5Rz5Hp84itSofb/5cS87W`
+Snapshot ID: `aL9uAAAAAACeaixgjLrrRib8JRUT7why`

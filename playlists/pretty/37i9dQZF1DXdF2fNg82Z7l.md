@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > a strictly smooth mood...cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,805 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,253 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 31 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 |
 | 32 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 33 | [Peru](https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 |
-| 34 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
-| 35 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
+| 34 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
+| 35 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 36 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
 | 37 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
 | 38 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |

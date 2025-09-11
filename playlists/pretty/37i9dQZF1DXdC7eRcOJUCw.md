@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Lupita Infante en portada 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,442 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,573 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 18 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 |
 | 19 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 20 | [Besos Y Copas](https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:02 |
-| 21 | [Hoja En Blanco](https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 4:30 |
-| 22 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
+| 21 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
+| 22 | [Hoja En Blanco](https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 4:30 |
 | 23 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
 | 24 | [Si No Piensas Cambiar](https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 4:17 |
 | 25 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |

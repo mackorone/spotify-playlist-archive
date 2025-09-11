@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,596 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 37 | [5'5 \(feat\. Latto\)](https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Thank You For Believing](https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB) | 2:48 |
 | 38 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
 | 39 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr) | 3:20 |
-| 40 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
-| 41 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 |
+| 40 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 |
+| 41 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
 | 42 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 43 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 |
 | 44 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 | 50 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 
-Snapshot ID: `aL4cgAAAAAC5YHMAhzW9l+/N2ZVWh8TQ`
+Snapshot ID: `aL9uAAAAAADBBvEz1u3J+1k8eG6/gDfE`

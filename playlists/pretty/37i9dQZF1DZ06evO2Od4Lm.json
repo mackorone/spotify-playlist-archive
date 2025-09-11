@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 128675,
+  "num_followers": 128703,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAADRMCvLqJSHL3URQrRnpp86",
+  "snapshot_id": "aL9uAAAAAACp3RFIAE+nKTAtqAhErnML",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aporia",
-        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Lowell Brams",
-          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
-        }
-      ],
-      "duration_ms": 32699,
-      "name": "Palinodes",
-      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
@@ -515,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aporia",
+        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Lowell Brams",
+          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
+        }
+      ],
+      "duration_ms": 32699,
+      "name": "Palinodes",
+      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 222934,
       "name": "My Red Little Fox",
       "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 244765,
-      "name": "The Hidden River of My Life",
-      "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 210440,
       "name": "Murder And Crime",
       "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 244765,
+      "name": "The Hidden River of My Life",
+      "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 111716,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 111716,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
     },
     {
       "added_at": null,
@@ -707,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Favorite Dream",
-        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
-        },
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
-        }
-      ],
-      "duration_ms": 152644,
-      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
-      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -775,18 +743,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
       },
       "artists": [
         {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
         }
       ],
-      "duration_ms": 153693,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
+      "duration_ms": 152644,
+      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
+      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 364480,
       "name": "Which Way - Sufjan Stevens Remix",
       "url": "https://open.spotify.com/track/3XjZ3ARcg0k5CwyYWSckFC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Size Too Small",
-      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 223893,
       "name": "Flint (For the Unemployed and Underpaid)",
       "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Size Too Small",
+      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

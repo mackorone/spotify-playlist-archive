@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-1,002 songs - 2 day 3 hr 15 min
+1,008 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Désir](https://open.spotify.com/track/3OHBNZSVpnXmKBiLkXIXZS) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Désir](https://open.spotify.com/album/5VZ4ldCoSnwvSLauCOeCYm) | 3:16 | 2020-05-09 | 2023-05-03 |
 | [Eagle](https://open.spotify.com/track/3nINt8VGibM3vHcR7pNhTa) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Eagle](https://open.spotify.com/album/1HdL2jA9bc5AxycCYZosh0) | 3:22 | 2019-05-26\* | 2020-01-03 |
 | [Early Bird](https://open.spotify.com/track/5hSbyGmtlbby8POW2w9yGp) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Early Bird](https://open.spotify.com/album/628TBG979WM6q2v6fphLB3) | 4:38 | 2020-01-03 | 2021-09-14 |
+| [Earth Approach](https://open.spotify.com/track/3KCfY1UuOuoxxg5KeRAsK3) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Earth Approach](https://open.spotify.com/album/0O0Ucbf3CtMoQ3tJsu7y2s) | 3:20 | 2025-09-10 |  |
 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-05-02 | 2024-11-29 |
 | [Echoes](https://open.spotify.com/track/0KIZ5Ser293PTUtY1x6Gha) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 3:14 | 2019-06-29 | 2020-07-11 |
 | [Echoes Divided](https://open.spotify.com/track/14k8ejDpD3MNTzpYhUjKTN) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Echoes Divided](https://open.spotify.com/album/7i5F1CLSgsFpYqEJLQQ4MS) | 2:34 | 2024-07-12 |  |
@@ -504,6 +505,7 @@
 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 | 2021-09-09 | 2024-10-19 |
 | [La Femme Soleil](https://open.spotify.com/track/3ZGqYamRfdQJ1lcQa27gHj) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Femme Soleil](https://open.spotify.com/album/7JJm1cAkINxVcYS1q1h146) | 2:40 | 2020-01-09 | 2020-10-27 |
 | [La Paz](https://open.spotify.com/track/1Dn2Fjpf8MiEEy0HlRA4UB) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Visions](https://open.spotify.com/album/7k4or19D1uKrAzdzf1iIkk) | 2:27 | 2020-01-03 | 2020-05-18 |
+| [Lakeside](https://open.spotify.com/track/1pEaUz7l4nAgpb0vM9BYG8) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Lakeside](https://open.spotify.com/album/1M4Id9JLefJoCOM3m7GqAy) | 2:28 | 2025-09-10 |  |
 | [Land Of Eternal Spring](https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:38 | 2019-05-26\* | 2022-03-26 |
 | [Land of Silence](https://open.spotify.com/track/5l5AzLGCZbFJsDgG7s2w5b) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Land of Silence](https://open.spotify.com/album/4PmfI0KZBSQBL4Bez8SIeH) | 3:16 | 2024-03-07 |  |
 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 | 2025-03-27 |
@@ -546,6 +548,7 @@
 | [Lyng](https://open.spotify.com/track/47qB0XJToyyOis9VCopt5Q) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Lyng](https://open.spotify.com/album/4pcZEf8H3djemmKDO63JWv) | 3:22 | 2022-08-05 | 2025-02-11 |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2019-07-27 | 2023-01-07 |
 | [Magic](https://open.spotify.com/track/1CnxuoUdFLe5owHXJjJVQw) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Counting Sheep](https://open.spotify.com/album/2e0oxaz5R2xkHcvyCy9eEH) | 2:29 | 2020-05-09 | 2021-12-18 |
+| [Magic Forest](https://open.spotify.com/track/3SUYE0PZUBCbNFm05uNzkf) | [NIGHTSKY](https://open.spotify.com/artist/1jgSsbIMXQHeNqOQD1DsVF) | [Magic Forest](https://open.spotify.com/album/4wGwXgl11gVorDcdnVqBbA) | 2:23 | 2025-09-10 |  |
 | [Maha](https://open.spotify.com/track/101yM8CCgt951q8cjslUOP) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Tao](https://open.spotify.com/album/3eHnIz0wPAyWWxvakws2rO) | 3:28 | 2019-05-26\* | 2021-09-14 |
 | [Mahabharata](https://open.spotify.com/track/5X5nxaIGTBD83D93pqAjcr) | [Mellow Line](https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB) | [Mahabharata](https://open.spotify.com/album/7vTm9nMF9IlpmnL18EQ1jo) | 2:58 | 2023-05-05 | 2025-01-09 |
 | [Mana](https://open.spotify.com/track/13SBcufEdzqNIIRE0ynJrM) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Mana](https://open.spotify.com/album/1CaoaS2cVGBvzJK23AaaZg) | 2:44 | 2025-02-28 |  |
@@ -670,6 +673,7 @@
 | [Phoenix](https://open.spotify.com/track/1PKG43MUDvPgXpUODaU6mW) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Risen](https://open.spotify.com/album/2hZg7Z1DPU6XR2ofF1ljtj) | 2:13 | 2020-05-09 | 2021-09-14 |
 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2019-07-11 | 2022-09-15 |
 | [Pilgrimage](https://open.spotify.com/track/1zezNbZhyMmqWNrhOplWCW) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Pilgrimage](https://open.spotify.com/album/5AwVLeZaasm9k837iDF71g) | 2:50 | 2023-09-01 |  |
+| [Pine Needles](https://open.spotify.com/track/2vOfRYW8i4QdNbjECSDCBx) | [Rising Mind](https://open.spotify.com/artist/1B75ZAYt65PTOOgmPyzhRa) | [Pine Needles](https://open.spotify.com/album/0qzHjfSUF7cPbpLE4BhLR0) | 2:48 | 2025-09-10 |  |
 | [Pines](https://open.spotify.com/track/64y6Sje1cgvOg83Z9JGiCc) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:45 | 2019-05-26\* | 2020-07-11 |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2020-01-03 | 2023-05-03 |
 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 | 2023-06-30 | 2025-05-14 |
@@ -722,6 +726,7 @@
 | [Relief](https://open.spotify.com/track/0tCTXGCsD8wgeLtYQ1b5H1) | [Florian Beck](https://open.spotify.com/artist/7niY9S79C2uZMphA38wXl9) | [Relief](https://open.spotify.com/album/5Gk1eWQHJU6mJEuwGADs2f) | 1:44 | 2020-01-09 | 2022-08-24 |
 | [Renascence](https://open.spotify.com/track/4cI5JUTZLfZA81q7pzN0ts) | [Dreamlifter](https://open.spotify.com/artist/0FSs6sfUcLgEqXr8HqnMck) | [Renascence](https://open.spotify.com/album/6VhLzWBMiWZ9imq8MB5qo8) | 3:02 | 2024-07-12 | 2025-03-01 |
 | [renew \- Instrumental](https://open.spotify.com/track/0zj9voOg55wXK4Yyx5Sgnu) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [Ambient Peace](https://open.spotify.com/album/4Ywp2WnMfHMiODsoTUtY9P) | 2:00 | 2023-01-06 | 2023-07-29 |
+| [Renewal](https://open.spotify.com/track/6VtN0ZX9M0fF3JeqdTI7xz) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Renewal](https://open.spotify.com/album/16BwCbCdJZqfOhooSVOSOr) | 2:54 | 2025-09-10 |  |
 | [Resolution](https://open.spotify.com/track/3DZVxREw3SeTgr6ZLMrbpz) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Resolution](https://open.spotify.com/album/5r4WZO0259iZTYsKV6jMnO) | 2:35 | 2025-01-08 |  |
 | [Resonarc](https://open.spotify.com/track/68A5wtxryWXcwk5hk3SCq7) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Resonarc](https://open.spotify.com/album/3lboV1kgULJ5NjvDsLDgyg) | 3:27 | 2025-01-29 |  |
 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2020-07-11 | 2021-11-26 |
@@ -831,6 +836,7 @@
 | [Stellar Constellations](https://open.spotify.com/track/2XFQQ4XE7VsyBrNyIJ6DII) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Stellar Constellations](https://open.spotify.com/album/04y0wZm5tHFsrpZqymRDkN) | 3:12 | 2022-01-28 | 2024-10-19 |
 | [Still Life](https://open.spotify.com/track/7aK1caHaXe63BtAoIFvN2h) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Still Life](https://open.spotify.com/album/5GGakahoJxKiDhEcaJhr3p) | 3:18 | 2022-02-15 | 2024-12-20 |
 | [Stillheten](https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Stillheten](https://open.spotify.com/album/2UiL0eVQ2zO02S9vyxoCEZ) | 2:34 | 2021-09-14 | 2024-09-12 |
+| [Stillness](https://open.spotify.com/track/618Kkip5m9beYwFv0HQObw) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Stillness](https://open.spotify.com/album/7FeN3keUI3iwi8QprN1fpw) | 2:40 | 2025-09-10 |  |
 | [Stillness Above](https://open.spotify.com/track/2PsCjzE5BD5mK0EPcPUH8F) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Stillness Above](https://open.spotify.com/album/705Kqq7Zt7yr5Ldfwsx2YL) | 2:42 | 2023-05-02 |  |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2021-10-21 | 2025-04-30 |
 | [Stillness Sleeps](https://open.spotify.com/track/1a85oecJFbxxop6aDZvnjd) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Stillness Sleeps](https://open.spotify.com/album/4a7YXtseB3a6VYofF4Vkh5) | 2:55 | 2024-06-10 | 2024-08-03 |

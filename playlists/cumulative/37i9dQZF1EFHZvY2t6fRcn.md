@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 10 hr 14 min
+188 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 | 2021-12-27 |  |
 | [Night and Morning](https://open.spotify.com/track/4lj1We6JrzxZRIBEQLrqLO) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:23 | 2021-12-27 | 2024-08-10 |
 | [Night and Morning](https://open.spotify.com/track/6xHP2fpNvTRKym7Dec35jN) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:23 | 2024-08-09 |  |
-| [Nirvana \(Kulkid Remix\)](https://open.spotify.com/track/2WOebgcOKKxoyH2xvfzGq2) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an), [Kulkid](https://open.spotify.com/artist/54jIQsyNf1V5MEWlkHOZtS) | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/album/4OsHCvcM8ch3Di8sR0JPzH) | 4:19 | 2021-12-27 | 2024-09-17 |
+| [Nirvana \(Kulkid Remix\)](https://open.spotify.com/track/2WOebgcOKKxoyH2xvfzGq2) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an), [Kulkid](https://open.spotify.com/artist/54jIQsyNf1V5MEWlkHOZtS) | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/album/4OsHCvcM8ch3Di8sR0JPzH) | 4:19 | 2021-12-27 |  |
 | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/track/4QppwYvXCur9VbZXKDrFtO) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/album/7xHzBLtg5kyEa6TRHaEuHZ) | 3:02 | 2024-11-09 |  |
 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 | 2021-12-27 |  |
 | [Nothing Here](https://open.spotify.com/track/2u8W9YjnCuR7tgaefRDYx7) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Journey](https://open.spotify.com/album/4vTfrB4P9R7ozSk7H2jdLI) | 2:37 | 2021-12-27 |  |
@@ -144,6 +144,7 @@
 | [PIECES](https://open.spotify.com/track/46NGoslA7x1JeJvD8kEUTq) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:46 | 2023-12-13 |  |
 | [Praying](https://open.spotify.com/track/28FSGvQfafhr7oq5vbJOon) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:05 | 2025-06-19 |  |
 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 | 2021-12-27 |  |
+| [Queen's Testimony \(feat\. K\. Michelle\)](https://open.spotify.com/track/3nhAgKYrwTzttbN34lmV61) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:56 | 2025-09-10 |  |
 | [Real Love](https://open.spotify.com/track/6vuwpMl38xfscWpoxquFiW) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Real Love](https://open.spotify.com/album/1eW90EbtZZZV3LHHy0NJUW) | 3:47 | 2021-12-27 |  |
 | [Remember Us \(feat\. Rapsody\)](https://open.spotify.com/track/3vS7px4CSV1I8hP5MXEdk8) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:51 | 2021-12-27 |  |
 | [Remind Me](https://open.spotify.com/track/1Ky8xo7X6SeebLT1Co4RXX) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:24 | 2022-11-17 |  |

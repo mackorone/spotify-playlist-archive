@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: De Saloon
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,594 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,588 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 38 | [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 |
 | 39 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 |
 | 40 | [La Cuenta](https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [La Cuenta](https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc) | 3:57 |
-| 41 | [Al otro lado del canal](https://open.spotify.com/track/55er5KcKNggTKgedq7EElN) | [El Cómodo Silencio De Los Que Hablan Poco](https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk), [Saskya](https://open.spotify.com/artist/4uPlycZpVvQGZMf9RKFzNo) | [Al otro lado del canal](https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V) | 2:35 |
-| 42 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
+| 41 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
+| 42 | [Al otro lado del canal](https://open.spotify.com/track/55er5KcKNggTKgedq7EElN) | [El Cómodo Silencio De Los Que Hablan Poco](https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk), [Saskya](https://open.spotify.com/artist/4uPlycZpVvQGZMf9RKFzNo) | [Al otro lado del canal](https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V) | 2:35 |
 | 43 | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 3:56 |
 | 44 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 |
 | 45 | [Cahuín](https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cahuín](https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6) | 3:01 |

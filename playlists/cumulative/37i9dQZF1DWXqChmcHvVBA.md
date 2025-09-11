@@ -4,7 +4,7 @@
 
 > 📸 Callejero Fino y DobleP.
 
-281 songs - 12 hr 55 min
+282 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Peipper \| DJ TAO Turreo Sessions \#15](https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Peipper \| DJ TAO Turreo Sessions \#15](https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc) | 2:13 | 2023-12-15 |  |
 | [Peipper \| Mission 11](https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Peipper \| Mission 11](https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM) | 2:18 | 2023-12-15 |  |
 | [Perra Yo Te Amé](https://open.spotify.com/track/3K9UCX1R3YZ5xXYuHAOSgQ) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Mauri](https://open.spotify.com/artist/0fbPf3j2rQHb59rZHaAjn9) | [Perra Yo Te Amé](https://open.spotify.com/album/6IN68MS0gytqdHjPEdQdW2) | 2:49 | 2024-06-07 | 2024-08-03 |
+| [Perreo Fannel 2](https://open.spotify.com/track/4IQI1LgCTuwppfbzr3ehjh) | [Fannel](https://open.spotify.com/artist/0hQVUeyB2yRgUJ3lksKO6S), [El Nikko DJ](https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9) | [Perreo Fannel 2](https://open.spotify.com/album/64FhBQQH3WjNk6vqb6OX74) | 2:04 | 2025-09-10 |  |
 | [Perreo Medinas \- Remix](https://open.spotify.com/track/1Mdb9pSm4lQ5TtCblFX66N) | [MEDINAS](https://open.spotify.com/artist/1bqz6MNvjWHhtP8Lvilwoi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr) | [Perreo Medinas \(Remix\)](https://open.spotify.com/album/34xbT3PngxFIVPXsIbJTtl) | 2:51 | 2023-12-15 |  |
 | [PERREO ROSSANI \- Remix](https://open.spotify.com/track/6ksnSnzRToBGRCROXLd1mx) | [El Rossani](https://open.spotify.com/artist/7gVtLMiNJYZuvnG9yEaWFS), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [PERREO ROSSANI \(Remix\)](https://open.spotify.com/album/4EP2tjtmKtNpi7Nh9bQarD) | 3:05 | 2023-12-15 | 2024-01-13 |
 | [PERRIE CON MI AMIGA \- Remix](https://open.spotify.com/track/3r1JS9R2cjddcxWgMMbnKv) | [HDR](https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [PERRIE CON MI AMIGA \(Remix\)](https://open.spotify.com/album/4tTZdKncB9KMQ6I8NtEBZx) | 3:24 | 2024-03-01 | 2024-04-19 |

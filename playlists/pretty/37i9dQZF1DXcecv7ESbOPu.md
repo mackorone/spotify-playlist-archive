@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Justin Bieber, Håkan Hellström, Lady Gaga, Lov1 med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,043 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,040 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

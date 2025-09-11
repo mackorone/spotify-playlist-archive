@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,221 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,438 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 21 | [LOCK ME OUT](https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LOCK ME OUT](https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0) | 2:54 |
 | 22 | [boys beware](https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [boys beware](https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW) | 2:13 |
 | 23 | [The Doll People](https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 3:26 |
-| 24 | [You Will Be Okay](https://open.spotify.com/track/4SMfF40pPXUfLWfYEbjcFm) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd) | [You Will Be Okay](https://open.spotify.com/album/45llw4hD8YVsJCxPsRqkV7) | 2:02 |
+| 24 | [You Will Be Okay](https://open.spotify.com/track/4SMfF40pPXUfLWfYEbjcFm) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [You Will Be Okay](https://open.spotify.com/album/45llw4hD8YVsJCxPsRqkV7) | 2:02 |
 | 25 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 |
 | 26 | [Super Elastic](https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Super Elastic](https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5) | 3:03 |
 | 27 | [Brutus](https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Brutus](https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS) | 2:28 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ズーカラデル
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,642 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,650 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonlight ni Onegai!](https://open.spotify.com/track/5LrIwvvNAMPETXq94kSLKz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [](https://open.spotify.com/album/null) | 2:51 |
+| 1 | [Moonlight ni Onegai!](https://open.spotify.com/track/5LrIwvvNAMPETXq94kSLKz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Point Nemo](https://open.spotify.com/album/1lFkBblLNuFUSaPu181o35) | 2:51 |
 | 2 | [いつか何もない世界で](https://open.spotify.com/track/2wZux5EsJfcZF5kgJPtsrq) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [いつか何もない世界で](https://open.spotify.com/album/3zWwbZxKb5GsQPKZ0CAerN) | 2:47 |
 | 3 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
 | 4 | [青春と一瞬](https://open.spotify.com/track/5hP00tcT87uyrdnei9g1Sw) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [青春と一瞬](https://open.spotify.com/album/4NYlrwd3LtrrKQfmuJu0P7) | 4:38 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 9 | [不気味ちゃん \- reinterpretation ver.](https://open.spotify.com/track/1rRldzk4WYCZMv40NWQ68D) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [不気味ちゃん \(reinterpretation ver.\)](https://open.spotify.com/album/5CM5umdHKimsYj9C9wpUkU) | 5:46 |
 | 10 | [Seikatsunoyouna](https://open.spotify.com/track/5lMIJV9tT679t8O1iprBO8) | [Nekowaekitai](https://open.spotify.com/artist/1KX2NNKJbcEs2tJBgnnQZ0) | [Seikatsunoyouna](https://open.spotify.com/album/4JYNg0fB1BLTgSIzJ4JrJj) | 4:30 |
 | 11 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
-| 12 | [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [](https://open.spotify.com/album/null) | 3:26 |
+| 12 | [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [火星探索](https://open.spotify.com/album/4fjHgwIC74f4WJRFuOzrjS) | 3:26 |
 | 13 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
 | 14 | [涙](https://open.spotify.com/track/2S0i7W6IDT3fE1NixUamvB) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [涙](https://open.spotify.com/album/0UVAJGeX3VdebaoVGm1x7b) | 3:50 |
 | 15 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 19 | [Seisyun Gokko](https://open.spotify.com/track/4BiYcsI5quieKhevyDwIUy) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Seisyun Gokko](https://open.spotify.com/album/46805u2dM0cBAUt9F3Xoe7) | 3:52 |
 | 20 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 |
 | 21 | [ふめつ](https://open.spotify.com/track/35Kn1PVUZuDGC4uuLMoPbP) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [ふめつ](https://open.spotify.com/album/408SmGuMKBh5XYVuA4vntU) | 3:06 |
-| 22 | [Track 2](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 22 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
 | 23 | [ワンタイムエピローグ](https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ワンタイムエピローグ](https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme) | 3:34 |
 | 24 | [MONOTARINAI](https://open.spotify.com/track/6BA0kLg6H5CytdYhqU5pMn) | [猫背のネイビーセゾン](https://open.spotify.com/artist/4nb7U1TIRL1MNen0uj3QYN) | [MONOTARINAI](https://open.spotify.com/album/7roCzGe1uSSCz8kyJmpwZy) | 3:47 |
 | 25 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 |
-| 26 | [赤い車](https://open.spotify.com/track/3CMAsyPpqb0qvYHWJJRWXd) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [](https://open.spotify.com/album/null) | 2:57 |
+| 26 | [赤い車](https://open.spotify.com/track/3CMAsyPpqb0qvYHWJJRWXd) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [スローバラード](https://open.spotify.com/album/5PRSMhiyNa2QRjcJRzd04M) | 2:57 |
 | 27 | [Sancha Monogatari](https://open.spotify.com/track/0gzi2girvw9PbMBV79MZyr) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Sancha Monogatari](https://open.spotify.com/album/58EA7D3WxuKeQ6NqvgsvdU) | 3:11 |
-| 28 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [](https://open.spotify.com/album/null) | 3:58 |
+| 28 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 29 | [Natsu no Sei](https://open.spotify.com/track/2wBlwrBkMKcekgPxbVo6P4) | [サウルス](https://open.spotify.com/artist/2hinMi1MTf5qoUysITWKW3) | [Natsu no Sei](https://open.spotify.com/album/1ho4qZWxJyvvyuelcNK6E7) | 3:21 |
 | 30 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 31 | [ケロイド](https://open.spotify.com/track/2FSRFNSXohoPSnckzLjXpG) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [ケロイド](https://open.spotify.com/album/5I6rc34LVDF6Edn2uhd9YM) | 4:36 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 87 | [絶命](https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [絶命](https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz) | 4:36 |
 | 88 | [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 |
 | 89 | [宇宙からのラブレター](https://open.spotify.com/track/41UT0vsxsQPwE5Zg4iRxDj) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/1g806y0pTlf7ToZ0Vdq2Nm) | 4:09 |
-| 90 | [ネクター](https://open.spotify.com/track/7ig7fRNBuzwNGn8jywVOJh) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ネクター](https://open.spotify.com/album/0404tGxFdMyByTV8IqMOVp) | 4:08 |
+| 90 | [ネクター](https://open.spotify.com/track/7ig7fRNBuzwNGn8jywVOJh) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ネクター](https://open.spotify.com/album/0404tGxFdMyByTV8IqMOVp) | 4:05 |
 | 91 | [幽霊まぼろし](https://open.spotify.com/track/1r1HD6uCMxqEoQ2iO2dyDY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [幽霊まぼろし](https://open.spotify.com/album/5cvt0g4QiNPR3ti7qI1Kd6) | 2:10 |
 | 92 | [拝啓、僕へ](https://open.spotify.com/track/6x6HIzOrkncQw94uAMnFhO) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [拝啓、僕へ](https://open.spotify.com/album/0wdDz04Ln00YsTwKGMKXjt) | 3:24 |
 | 93 | [pain](https://open.spotify.com/track/4rWxuQLg5JfB61aCSGQ1Hp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [pain](https://open.spotify.com/album/15yx1ciCUE0L8pKBtiKH5k) | 3:13 |

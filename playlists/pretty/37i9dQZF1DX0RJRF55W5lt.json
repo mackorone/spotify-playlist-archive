@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 607366,
+  "num_followers": 607500,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "I Refuse: Collected, Vol.1 (Remixes)",
-        "url": "https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4"
-      },
-      "artists": [
-        {
-          "name": "Somore",
-          "url": "https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw"
-        },
-        {
-          "name": "Damon Trueitt",
-          "url": "https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "I Refuse (What You Want) - Industry Standard Radio Mix",
-      "url": "https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Masterblaster 2000",
         "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 332746,
       "name": "Masterblaster 2000 - Oracles Remix",
       "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "I Refuse: Collected, Vol.1 (Remixes)",
+        "url": "https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4"
+      },
+      "artists": [
+        {
+          "name": "Somore",
+          "url": "https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw"
+        },
+        {
+          "name": "Damon Trueitt",
+          "url": "https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "I Refuse (What You Want) - Industry Standard Radio Mix",
+      "url": "https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -955,7 +955,7 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "UK Garage Classics - Jeremy Sylvester in the Mix (feat. Tj Lewis)",
+        "name": "UK Garage Classics - Jeremy Sylvester in the Mix",
         "url": "https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM"
       },
       "artists": [

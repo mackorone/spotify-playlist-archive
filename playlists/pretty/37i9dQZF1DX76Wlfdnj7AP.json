@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 10944327,
+  "num_followers": 10945487,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "RATHER LIE (with The Weeknd)",
+      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "RATHER LIE (with The Weeknd)",
-      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "SLAY!",
         "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 238614,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -1423,6 +1423,34 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1459,50 +1487,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "LET'S GET FKD UP (feat. Tribbs)",
-        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "LET'S GET FKD UP",
-      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1579,6 +1563,22 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -1755,42 +1775,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
@@ -1807,22 +1791,18 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1847,6 +1827,26 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
         "name": "CUTE DEPRESSED",
         "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
@@ -1859,26 +1859,6 @@
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1903,6 +1883,26 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -2887,22 +2887,18 @@
     {
       "added_at": "2025-08-29 04:00:34",
       "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     }
   ],
   "unique_name": "Beast Mode",

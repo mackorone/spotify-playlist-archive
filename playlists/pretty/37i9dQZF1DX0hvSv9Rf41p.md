@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with INFEKT
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,217 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,235 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 18 | [Arise](https://open.spotify.com/track/2vGo0fh24LZBqEYj9nFsRp) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [Arise](https://open.spotify.com/album/79n0D2U9nKRTlbvQdyGia8) | 3:04 |
 | 19 | [⁠Limerence \(feat\. Cassyette\)](https://open.spotify.com/track/6JbDiWvUaNBRPTF06YJR5j) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Limerence \(feat\. Cassyette\)](https://open.spotify.com/album/3V0JV9tIqggFbt34ARp5rT) | 4:08 |
 | 20 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
-| 21 | [In The Club](https://open.spotify.com/track/19fQUFxzQ65WGi4vZgJuDU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Rated R](https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj) | [In The Club](https://open.spotify.com/album/7yisPzmAVaEc9UGbDysB1Q) | 2:58 |
+| 21 | [In The Club](https://open.spotify.com/track/19fQUFxzQ65WGi4vZgJuDU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Big Florida](https://open.spotify.com/artist/4NSLG18Cv0FoS85RHicPQi) | [In The Club](https://open.spotify.com/album/7yisPzmAVaEc9UGbDysB1Q) | 2:58 |
 | 22 | [4321](https://open.spotify.com/track/473zITg7BGjBMja6Wasa0U) | [DRINKURWATER](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [4321](https://open.spotify.com/album/3oJHQxn8FOezVTZUukCKFx) | 2:14 |
 | 23 | [Power](https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Careless Castle](https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC) | [Nemesis](https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt) | 2:45 |
 | 24 | [Touch It](https://open.spotify.com/track/2LLm7ZsplIrL6nPkGC87dU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Touch It](https://open.spotify.com/album/3dqAiybrIOkmoUdsMfQ3LW) | 2:40 |

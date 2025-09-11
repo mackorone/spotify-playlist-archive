@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Chile.",
-  "num_followers": 26396,
+  "num_followers": 26405,
   "original_name": "Top Songs - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFOYIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MFTpoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-09-05 13:22:56",
@@ -518,6 +518,10 @@
         {
           "name": "Lamelodiadelhampa",
           "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
         }
       ],
       "duration_ms": 180000,

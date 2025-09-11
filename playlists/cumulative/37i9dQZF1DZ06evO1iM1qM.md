@@ -4,7 +4,7 @@
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-55 songs - 6 hr 15 min
+56 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 | 2025-07-20 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 | 2025-07-20 |  |
 | [Time After Time](https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust \[Rudy Van Gelder edition\]](https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ) | 7:41 | 2025-07-20 |  |
+| [Village Blues](https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 5:24 | 2025-09-11 |  |
 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 | 2025-07-20 |  |
-| [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2025-07-20 |  |
+| [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2025-07-20 | 2025-09-11 |
 | [Why Was I Born? \- Rudy Van Gelder Remaster 1958](https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 3:10 | 2025-07-20 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:36 | 2025-07-20 |  |
 

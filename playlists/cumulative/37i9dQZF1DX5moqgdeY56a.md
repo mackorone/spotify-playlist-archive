@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-174 songs - 10 hr 13 min
+175 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,13 +95,14 @@
 | [La Martina](https://open.spotify.com/track/1r5jvO4Qvgv77VTd9eOQg0) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos Famosos \- Antonio Aguilar](https://open.spotify.com/album/2ivL83wxehqrhG4emzvWx6) | 3:16 | 2024-04-09 | 2025-07-04 |
 | [La Martina](https://open.spotify.com/track/34uNgYubjTKtgslAceJELk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 3:17 | 2021-12-13 | 2022-11-14 |
 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 | 2021-12-13 | 2024-04-19 |
+| [Lamberto Quintero](https://open.spotify.com/track/6vdz1wcsJFGObHolQIhUp3) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t) | 3:04 | 2024-04-09 |  |
 | [Las Mañanitas](https://open.spotify.com/track/6kbmiCL77OvBdw6ZUfG6oV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Las Mañanitas](https://open.spotify.com/album/59LFY4Br1iJqDxzw7xp9nn) | 2:51 | 2021-12-13 | 2022-09-23 |
 | [Lo Busqué](https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/0OFAMb4oOtIp0j5ENQWN4a) | 4:10 | 2021-12-13 |  |
 | [Lo Busqué](https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j) | 4:10 | 2023-10-13 | 2024-04-19 |
 | [Me Estoy Acostumbrando A Ti](https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 3:46 | 2021-12-13 | 2024-01-01 |
 | [Me Falta Valor](https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F) | 3:37 | 2024-04-09 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 | 2022-09-22 | 2025-07-21 |
-| [Me Importa Poco](https://open.spotify.com/track/2iJwarZCb8vTSzfj4Kuobs) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:25 | 2024-04-09 |  |
+| [Me Importa Poco](https://open.spotify.com/track/2iJwarZCb8vTSzfj4Kuobs) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:25 | 2024-04-09 | 2025-09-11 |
 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 | 2021-12-13 | 2025-07-09 |
 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 | 2021-12-13 | 2024-04-19 |
 | [Medley Ranchero: El Cantador / Tristes Recuerdos \(feat\. Pepe Aguilar, Ángela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Homenaje a Los Grandes Compositores](https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB) | 4:21 | 2021-12-13 |  |

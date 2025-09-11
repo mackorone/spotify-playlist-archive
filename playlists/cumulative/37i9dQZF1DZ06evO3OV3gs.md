@@ -4,7 +4,7 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-99 songs - 6 hr 56 min
+100 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Erotica](https://open.spotify.com/track/4eMLyB1mc7onYLdoG8YSXG) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica](https://open.spotify.com/album/2QjCLLlSs1k7YVEWZ0moCV) | 5:18 | 2024-05-08 | 2024-06-01 |
 | [Express Yourself](https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:59 | 2024-01-05 |  |
 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 | 2023-09-21 | 2025-02-21 |
-| [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 | 2023-08-10 |  |
+| [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 | 2023-08-10 | 2025-09-11 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2023-07-28 |  |
 | [Frozen On Fire](https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen On Fire](https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac) | 3:12 | 2023-07-28 | 2025-02-01 |
 | [Future Lovers](https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:01 | 2025-02-21 | 2025-03-09 |
@@ -72,6 +72,7 @@
 | [Living For Love](https://open.spotify.com/track/5AMuHsWAaGAZHX4p1KZWwc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:38 | 2024-06-18 | 2024-07-27 |
 | [Love Profusion](https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 3:36 | 2023-12-18 | 2025-03-24 |
 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 | 2023-07-28 |  |
+| [Material Girl](https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:53 | 2025-09-11 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-07-28 |  |
 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 | 2023-07-28 |  |
 | [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 | 2023-07-28 | 2025-03-21 |

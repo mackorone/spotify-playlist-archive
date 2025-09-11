@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 287368,
+  "num_followers": 287498,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL4cgAAAAAAgzXM7w8q2woTunEM7Pxh0",
+  "snapshot_id": "aL9uAAAAAAD9KnmLiw1+fcYLHIU+3rLQ",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is It a Crime",
-        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 209560,
       "name": "She's My Collar (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is It a Crime",
+        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 177697,
-      "name": "Just A Stranger (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life of a DON",
         "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 198057,
       "name": "Drugs N Hella Melodies (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 177697,
+      "name": "Just A Stranger (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
     },
     {
       "added_at": null,

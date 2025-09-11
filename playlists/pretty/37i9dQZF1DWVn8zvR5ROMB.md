@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Shaboozey with Stephen Wilson Jr., Graham Barham with Tyler Hubbard, Marcus King and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,358 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,523 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

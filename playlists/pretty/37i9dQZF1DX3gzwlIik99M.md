@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,572 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,569 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 27 | [En la Eternidad](https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd) | [Plan 4](https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54) | [Lleva Tu Mente al Limite](https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H) | 3:09 |
 | 28 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
 | 29 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
-| 30 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
-| 31 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
+| 30 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
+| 31 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
 | 32 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
 | 33 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
 | 34 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |

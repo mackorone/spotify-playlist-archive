@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,125 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,523 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 35 | [Pretty Vacant](https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:17 |
 | 36 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 37 | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX) | 3:40 |
-| 38 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
-| 39 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 38 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 39 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
 | 40 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
 | 41 | [Shut Up!](https://open.spotify.com/track/2SMYQhVrLA7NRjUxAVghSH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any...](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:02 |
 | 42 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
-| 43 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
-| 44 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 |
+| 43 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 |
+| 44 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
 | 45 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:57 |
 | 46 | [Nervous Breakdown](https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Nervous Breakdown](https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV) | 2:09 |
 | 47 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 |
-| 48 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
-| 49 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
+| 48 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
+| 49 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
 | 50 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 |
 | 51 | [Machine Gun Blues](https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Hard Times And Nursery Rhymes \(Deluxe Edition\)](https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK) | 3:33 |
 | 52 | [In This Diary](https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 3:50 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 85 | [Devil's Kind](https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS) | [The Longshot](https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O) | [Devil's Kind](https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps) | 3:01 |
 | 86 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
 | 87 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
-| 88 | [Scream Out](https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ) | [The Unseen](https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z) | [State Of Discontent](https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS) | 2:51 |
-| 89 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
+| 88 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
+| 89 | [Scream Out](https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ) | [The Unseen](https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z) | [State Of Discontent](https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS) | 2:51 |
 | 90 | [Ac/Dc CD](https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [AC/DC CD](https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL) | 1:43 |
 | 91 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
 | 92 | [Nothing Can Stop Me](https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A War Against You](https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao) | 3:18 |

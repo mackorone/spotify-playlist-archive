@@ -1,6 +1,6 @@
 {
   "description": "La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! \ud83d\udcaa",
-  "num_followers": 149317,
+  "num_followers": 149323,
   "original_name": "Smart Working",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-10-08 16:22:20",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
+    },
+    {
+      "added_at": "2024-10-08 16:22:20",
+      "album": {
         "name": "Be Like That (feat. Swae Lee & Khalid)",
         "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
-    },
-    {
-      "added_at": "2024-10-08 16:22:20",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
     },
     {
       "added_at": "2024-10-08 16:22:20",
